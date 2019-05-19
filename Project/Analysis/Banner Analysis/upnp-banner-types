@@ -1,0 +1,47 @@
+There are three unique types of UPNP banners in all of Ferret Data
+
+1)
+
+HTTP/x.x xxx xx (e.g 1.1 200 OK)
+CACHE-CONTROL: max-age=xxx (1800)
+DATE: xxxxxxxxxxx
+EXT:
+LOCATION: https://xxxxxxxxxx
+OPT: "http://xxxxxxxxxxx"
+01-NLS: xxxxxxxxxxxxxxxxx
+SERVER: xxxxxxxxxxxxxxxxx
+X-User-Agent: xxxxxxxxxxx
+ST: xxxxxxxxxxxxxxx
+USN: uuid:xxxxxxxxxxxxxxx
+
+
+2)
+
+HTTP/x.x xxx xx (e.g 1.1 200 OK)
+CACHE-CONTROL: max-age=xxx (1800)
+DATE: xxxxxxxxxxx
+EXT:
+LOCATION: https://xxxxxxxxxx
+SERVER: xxxxxxxxxxxxxxxxx
+ST: xxxxxxxxxxxxxxx
+USN: uuid:xxxxxxxxxxxxxxx
+FRIENDLYNAME: xxxxxxx
+HH: xxxxxxxxxxx
+
+
+3)
+
+HTTP/x.x xxx xx (e.g 1.1 200 OK)
+CACHE-CONTROL: max-age=xxx (1800)
+DATE: xxxxxxxxxxx
+EXT:
+LOCATION: https://xxxxxxxxxx
+SERVER: xxxxxxxxxxxxxxxxx
+ST: xxxxxxxxxxxxxxx
+USN: uuid:xxxxxxxxxxxxxxx
+Content-Length: x
+BOOTID.UPNP.ORG: xx
+CONFIGID.UPNP.ORG: xxx
+
+
+
