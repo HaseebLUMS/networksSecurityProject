@@ -6,18 +6,12 @@ from urllib.request import urlopen
 
 query = "220 Welcome to ASUS RT-AC58U FTP service.\r\n"
 
-#This is the input to my program.
-#It is response data of IoT DEVICE (taken from ARE paper).
-#So Now im going to run this program and a file will be created with the output.
-#The output will be data fetched from internet respective to these words. The output data is then passed
-#through contextor and is filtered for only respective data. 
-
 
 
 URLs = []
 
 '''
-finds and stores URLS in list URLs defind on line 17
+finds and stores URLS in list URLs defind above
 
 Ignores URLs of popular sites (like social platforms) 
 as they appear in search results on top but they are 
