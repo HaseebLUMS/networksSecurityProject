@@ -41,7 +41,7 @@ def find_DI():
 	ambigious = False
 
 	for w in words:
-		comm = 'node index.js searchx ./Database/ind.json \'["' + w + '"]\''
+		comm = 'node ./mod_2_corpus_and_rule_based_der/index.js searchx ./mod_2_corpus_and_rule_based_der/Database/ind.json \'["' + w + '"]\''
 		res = os.popen(comm).read()
 		res = res.split('\n')
 		result = []
@@ -54,7 +54,7 @@ def find_DI():
 			frequent = w
 			# frResult = result
 
-	print("Prediction for ", file, " => ", frequent.upper())
+	print(" => ", frequent.upper())
 	# if ambigious:
 	# 	print('ambigious? =>', ambigious)
 	# else:

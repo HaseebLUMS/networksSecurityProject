@@ -24,7 +24,7 @@ import sys
 if not sys.warnoptions:
     import warnings
     warnings.simplefilter("ignore")
-sys.path.append('./../')
+# sys.path.append('./../')
 from config import page_limit
 
 
@@ -98,7 +98,7 @@ calls getText() and stores in output.txt
 def create_output():
 	global page_limit
 	pages_searched = 0
-	with open('output.txt', 'a+') as f:
+	with open('output.txt', 'w') as f:
 		tmp = 'For query: ' + query
 		f.write(tmp)
 	for url in URLs:
