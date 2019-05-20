@@ -1,13 +1,25 @@
+'''
+Name: find_device_info.py
+Argument: 	Database file (e.g vendors or device_types)
+Output: 	Predicted Labels
+How to run: python3 find_device_info.py db_name
+			e.g python3 find_device_info.py vendors
+What does it do:
+			--reads the databse files and stores as "words"
+			--runs the index.js for each word in words (uses ind.json)
+			--records the output of index.js
+			--computes the most frequent term of ind.json appearing in 
+			  "words"
+			--reports that term as predicted label
+'''
+
+
 import sys
 import os
-
-
 file = sys.argv[1]
-
 
 '''
 Returns the predicted labels
-
 It uses the file ind.json made by JS code in file index.js
 and other data file (vendors or device_types) given as command line
 argument.
@@ -16,22 +28,20 @@ It searches the ind.json file for every term present in data files
 Then it just reports the most frequent label.
 '''
 def find_DI():
-	words = []
-
+	global file
+	words = [] #Stores the terms of database provided as argument
 	with open(file, 'r') as f:  
 		line = f.readline()
 		while line:
 			words.append(line.rstrip())
 			line = f.readline()
-
-
-	frequent = ''
-	fr       = 0
-	frResult = []
+	frequent = '' #Will store the most frequent term
+	fr       = 0  #helping var for frequent
+	# frResult = [] #
 	ambigious = False
 
 	for w in words:
-		comm = 'node index.js searchx ind.json \'["' + w + '"]\''
+		comm = 'node index.js searchx ./Database/ind.json \'["' + w + '"]\''
 		res = os.popen(comm).read()
 		res = res.split('\n')
 		result = []
@@ -42,12 +52,18 @@ def find_DI():
 			else: ambigious = False 
 			fr = len(result)
 			frequent = w
-			frResult = result
+			# frResult = result
 
-	print(frequent)
-	if ambigious:
-		print('ambigious? =>', ambigious)
-	else:
-		print('Not ambigious.')
+	print("Prediction for ", file, " => ", frequent.upper())
+	# if ambigious:
+	# 	print('ambigious? =>', ambigious)
+	# else:
+	# 	print('Not ambigious.')
 
-find_DI()
+
+
+'''Runs the find_DI() '''
+def main():
+	find_DI()
+
+main()

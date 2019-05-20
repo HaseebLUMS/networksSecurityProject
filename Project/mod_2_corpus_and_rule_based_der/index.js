@@ -60,10 +60,10 @@ if(mode == 'index'){
 			fs.readFile(l,'utf-8',(err,data)=>{
 				if(err)
 					console.log("error")
-				console.log(`parsed ${l}`)
+				// console.log(`parsed ${l}`)
 				fil = data.split('\n')
 				word = data.split(" ")
-				if(word.includes('RT')){console.log('found')}
+				// if(word.includes('RT')){console.log('found')}
 				parsedByWords = parsedByWords.concat(word)
 				parsedDictionary[l] = fil
 				parsedFiles = fil
@@ -148,17 +148,18 @@ if(mode == 'index'){
 		parsedByWords = array
 		
 		cropWords(parsedByWords).then(()=>{
-			console.log("croped")
+			// console.log("croped")
 		})
 
 		indexWords(parsedByWords, parsedDictionary).then(()=>{
-			console.log("Indexed")
+			// console.log("Indexed")
 			finalJson = JSON.stringify(indexDix, null, '\t')
 
 			//console.log(finalJson)
 			fs.writeFile(jsonFile,finalJson,err =>{
 				if(!err)
-				console.log('JSON FILE IS READY')
+				// console.log('JSON FILE IS READY')
+				console.log('Success in indexing output of webcrawler \n--file ind.json has been created successfully.')
 			})
 		})
 
