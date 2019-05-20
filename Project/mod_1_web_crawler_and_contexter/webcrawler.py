@@ -4,7 +4,7 @@ import time
 from urllib.request import Request
 from urllib.request import urlopen
 
-query = "220 Welcome to ASUS RT-AC58U FTP service \r\n"
+query = "220 Welcome to ASUS RT-AC58U FTP service. \r\n"
 
 
 
