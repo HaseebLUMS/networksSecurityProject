@@ -12,6 +12,8 @@ What does it do:
 	--Chooses top k search results (k is defined in config.py and can be toggled from there)
 	--For every selected search result, extracts the data and cleans it.
 	--Then stores it in output.txt
+Dependecy: Requires Rake Library 
+			See https://pypi.org/project/rake-nltk/
 '''
 
 
@@ -21,6 +23,7 @@ import time
 from urllib.request import Request
 from urllib.request import urlopen
 import sys
+from rake_nltk import Rake
 if not sys.warnoptions:
     import warnings
     warnings.simplefilter("ignore")
@@ -62,7 +65,7 @@ def findURLs(words):
 
 
 '''
-Returns plain cleaned text data
+Returns plain cleaned (by NLP texhniques) text data 
 
 Goes to URLs found by function findURLs and extract text only
 Then eliminates scripts or styles components from web text
@@ -74,6 +77,9 @@ Steps:
 	--break into lines and remove leading and trailing space on each
 	--break multi-headlines into a line each
 	--drop blank lines
+	--Removes dictionary words
+	--Extracts keywords
+	--returns text (combination of keywords)
 '''
 def getText(url):
 	req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}) #spoofed agent for avoiding scraping ban
@@ -85,7 +91,14 @@ def getText(url):
 	lines = (line.strip() for line in text.splitlines())
 	chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
 	text = '\n'.join(chunk for chunk in chunks if chunk)
-	return text
+
+	r = Rake()
+	r.extract_keywords_from_text(text)
+	keywords = r.get_ranked_phrases()
+	res = ""
+	for k in keywords:
+		res += (" " + k)
+	return res
 
 
 
@@ -120,6 +133,19 @@ def create_output():
 	return 1
 
 
+'''
+Uses Rake library for removing dictionary words from 
+input banner and extracting keywords. 
+'''
+def refine_query(q):
+	r = Rake()
+	r.extract_keywords_from_text(q)
+	keywords = r.get_ranked_phrases()
+	res = ""
+	for k in keywords:
+		res += (" " + k)
+	print("Refined Formated Query: ", res)
+	return res
 
 
 '''
@@ -130,9 +156,12 @@ Main function:
 	output.txt (by create_output())
 '''
 def main():
-	findURLs(query)
+	global query
+	res = refine_query(query)
+	findURLs(res)
 	# for url in URLs: print(url)
 	is_written = create_output();
 	if is_written:
 		print('\nOutput Successfully created by web crawler')
+
 main()

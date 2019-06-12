@@ -19,7 +19,7 @@ comm = 'touch output.txt && rm output.txt'
 res = os.popen(comm).read()
 print('Prediction Engine Started!')
 
-
+print('First Step takes approximately 100 seconds')
 comm = 'python3 mod_1_web_crawler_and_contexter/webcrawler.py input_banner_data.txt'
 res = os.popen(comm).read()
 print(res)
