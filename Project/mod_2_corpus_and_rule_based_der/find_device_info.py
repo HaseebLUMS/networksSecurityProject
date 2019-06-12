@@ -17,7 +17,6 @@ What does it do:
 import sys
 import os
 file = sys.argv[1]
-
 '''
 Returns the predicted labels
 It uses the file ind.json made by JS code in file index.js
@@ -39,9 +38,9 @@ def find_DI():
 	fr       = 0  #helping var for frequent
 	# frResult = [] #
 	ambigious = False
-
 	for w in words:
 		comm = 'node ./mod_2_corpus_and_rule_based_der/index.js searchx ./mod_2_corpus_and_rule_based_der/Database/ind.json \'["' + w + '"]\''
+		# print("Error May Be Here", comm)
 		res = os.popen(comm).read()
 		res = res.split('\n')
 		result = []
@@ -53,7 +52,6 @@ def find_DI():
 			fr = len(result)
 			frequent = w
 			# frResult = result
-
 	print(" => ", frequent.upper())
 	# if ambigious:
 	# 	print('ambigious? =>', ambigious)
