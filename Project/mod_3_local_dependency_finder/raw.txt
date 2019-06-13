@@ -1,0 +1,3194 @@
+
+===============https://www.asus.com/en/support/FAQ/1011280/================
+[USB Application] How to set up Media Services and Servers -FTP Share | Official Support | ASUS Global
+===============http://www.snbforums.com/threads/need-help-on-setting-up-ftp-for-asus-n56u-n66u-router.7793/================
+Need Help on Setting Up FTP for ASUS N56U / N66U Router | SmallNetBuilder Forums
+Log in or Sign up
+SmallNetBuilder Forums
+Home
+Forums
+>
+Wireless Networking
+>
+ASUS Wireless
+>
+ASUS N Routers & Adapters
+>
+This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies. Learn More.
+Dismiss Notice
+Welcome To SNBForums
+SNBForums is a community for anyone who wants to learn about or discuss the latest in wireless routers, network storage and the ins and outs of building and maintaining a small network.
+If you'd like to post a question, simply register and have at it!
+While you're at it, please check out SmallNetBuilder for product reviews and our famous Router Charts,
+Ranker and plenty more!
+Need Help on Setting Up FTP for ASUS N56U / N66U Router
+Discussion in 'ASUS N Routers & Adapters' started by oric1, Aug 24, 2012.
+oric1
+Regular Contributor
+Joined:
+Aug 18, 2012
+Messages:
+114
+I couldn't really find any information on this, so I'm posting here in hope that someone can help me with this.
+I plugged an external HDD into my ASUS RT-N66U router. Recognition was no problem but now I'm a little stuck on how to get everything set up.
+I wanted to make my HDD accessible from outside my home network, i.e. from the Internet via FTP but I can't seems to find a good documentation on how to do all these. The router manual is not very helpful and I did some trials and errors myself, but can't really get it to work.
+I've already setup DDNS e.g. host.asuscomm.com
+Enable the DDNS Client = Yes
+Enable wildcard = No
+I seem to have set up the FTP server correctly because I was able to FTP to the HDD within my LAN but I just can't seem to access the HDD from outside my home network.
+I'm using Merlin's latest firmware 3.0.0.3.178.15.
+Could someone point me into the right direction, please?
+Thanks!
+Last edited: Aug 24, 2012
+ASUS RT-AC87U F/W: Merlin 380.64_2
+ASUS RT-N66U F/W: Merlin 380.64_2
+oric1,
+Aug 24, 2012
+#1
+RMerlin
+Super Moderator
+Joined:
+Apr 14, 2012
+Messages:
+30,364
+Location:
+Canada
+oric1 said:
+↑
+I couldn't really find any information on this, so I'm posting here in hope that someone can help me with this.
+I plugged an external HDD into my ASUS RT-N66U router. Recognition was no problem but now I'm a little stuck on how to get everything set up.
+I wanted to make my HDD accessible from outside my home network, i.e. from the Internet via FTP but I can't seems to find a good documentation on how to do all these. The router manual is not very helpful and I did some trials and errors myself, but can't really get it to work.
+I've already setup DDNS e.g. host.asuscomm.com
+Enable the DDNS Client = Yes
+Enable wildcard = No
+I seem to have set up the FTP server correctly because I can FTP to the HDD within my the LAN but I just can't seem to access the HDD from outside my home network.
+I'm using Merlin's latest firmware 3.0.0.3.178.15.
+Could someone point me into the right direction to achieve all these, please?
+Thanks!Click to expand...
+I haven't tested it, but try FTP'ing to port 2021 instead of 21 when outside the house.
+Asuswrt-Merlin: Customized firmware for Asus routers
+Github:
+github.com/RMerl - Twitter:
+RMerlinDev - Freenode: #asuswrt
+See the sticky post for more info.
+RMerlin,
+Aug 24, 2012
+#2
+oric1
+Regular Contributor
+Joined:
+Aug 18, 2012
+Messages:
+114
+RMerlin said:
+↑
+I haven't tested it, but try FTP'ing to port 2021 instead of 21 when outside the house.Click to expand...
+Thanks Merlin.
+I tried setting the port to 2021 but still can't access from the Internet.
+Please see screenshot, are the info correct?
+ASUS RT-AC87U F/W: Merlin 380.64_2
+ASUS RT-N66U F/W: Merlin 380.64_2
+oric1,
+Aug 24, 2012
+#3
+RMerlin
+Super Moderator
+Joined:
+Apr 14, 2012
+Messages:
+30,364
+Location:
+Canada
+Don't add a forward rule.
+There's a configuration field already for this taking care of things automatically.
+Asuswrt-Merlin: Customized firmware for Asus routers
+Github:
+github.com/RMerl - Twitter:
+RMerlinDev - Freenode: #asuswrt
+See the sticky post for more info.
+RMerlin,
+Aug 24, 2012
+#4
+oric1
+Regular Contributor
+Joined:
+Aug 18, 2012
+Messages:
+114
+RMerlin said:
+↑
+Don't add a forward rule.
+There's a configuration field already for this taking care of things automatically.Click to expand...
+I turned off the port forwarding & remove the rule but still can't connect from the Internet.
+Wonder what's causing the problem.
+Any clue?
+Thanks
+ASUS RT-AC87U F/W: Merlin 380.64_2
+ASUS RT-N66U F/W: Merlin 380.64_2
+oric1,
+Aug 24, 2012
+#5
+RMerlin
+Super Moderator
+Joined:
+Apr 14, 2012
+Messages:
+30,364
+Location:
+Canada
+Make sure your modem isn't also acting as a router, creating a double NAT issue, and blocking any packets before they even reach your Asus router.
+One way to test it is to enable WAN access to the web interface (on the Firewall page), then see if you can access the router's config page on port 8080.
+Asuswrt-Merlin: Customized firmware for Asus routers
+Github:
+github.com/RMerl - Twitter:
+RMerlinDev - Freenode: #asuswrt
+See the sticky post for more info.
+RMerlin,
+Aug 24, 2012
+#6
+oric1
+Regular Contributor
+Joined:
+Aug 18, 2012
+Messages:
+114
+RMerlin said:
+↑
+Make sure your modem isn't also acting as a router, creating a double NAT issue, and blocking any packets before they even reach your Asus router.
+One way to test it is to enable WAN access to the web interface (on the Firewall page), then see if you can access the router's config page on port 8080.Click to expand...
+Ok, I've enabled WAN access to the web interface (on the Firewall page) and was able to access the router's config page on port 8080 via the Internet.
+So does that mean I have doube NAT issue or not?
+How should I proceed from here. Sorry I'm noob with networking, please bear with me.
+Thanks Merlin
+ASUS RT-AC87U F/W: Merlin 380.64_2
+ASUS RT-N66U F/W: Merlin 380.64_2
+oric1,
+Aug 24, 2012
+#7
+RMerlin
+Super Moderator
+Joined:
+Apr 14, 2012
+Messages:
+30,364
+Location:
+Canada
+If the web interface is accessible, then you don't have any double NAT problem.
+Now that I'm back home I actually tested it.
+It works for me, however it uses port 21 and not 2021 (not sure what that FTP port field is exactly for, I'll have to dig into the source code to figure it out).
+So just enable FTP, then you should be able to FTP using your DDNS hostname, on the default port (21).
+No need to forward anything.
+Test result from a server outside my home:
+ftp> open hostname.dyndns.org
+Connected to hostname.dyndns.org
+220 Welcome to ASUS RT-AC66U FTP service.
+530 Please login with USER and PASS.
+530 Please login with USER and PASS.
+KERBEROS_V4 rejected as an authentication type
+Name (hostname.dyndns.org:root): Merlin
+331 Please specify the password.
+Password:
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> ls
+227 Entering Passive Mode (24,25,26,27,67,146)
+150 Here comes the directory listing.
+drwxrwxrwx
+13 0
+0
+4096 Aug 19 17:28 sda1
+226 Directory send OK.
+ftp> quit
+221 Goodbye.Click to expand...
+Asuswrt-Merlin: Customized firmware for Asus routers
+Github:
+github.com/RMerl - Twitter:
+RMerlinDev - Freenode: #asuswrt
+See the sticky post for more info.
+RMerlin,
+Aug 24, 2012
+#8
+oric1
+Regular Contributor
+Joined:
+Aug 18, 2012
+Messages:
+114
+Ok, here are 2 different logs.
+1 connected internally via LAN, the other via Internet.
+When connected via Internet, I encountered timeout after after this statement "Here comes the directory listing."
+Any clue?
+Thanks
+Via LAN
+*** CuteFTP 8.3 - build May 19 2010 ***
+STATUS:>
+[25/8/2012 9:08:48 PM] Getting listing ""...
+STATUS:>
+[25/8/2012 9:08:48 PM] Resolving host name host.asuscomm.com...
+STATUS:>
+[25/8/2012 9:08:48 PM] Host name host.asuscomm.com resolved: ip = 182.55.1xx.2xx.
+STATUS:>
+[25/8/2012 9:08:48 PM] Connecting to FTP server... host.asuscomm.com:21 (ip = 182.55.1xx.2xx)...
+STATUS:>
+[25/8/2012 9:08:48 PM] Socket connected. Waiting for welcome message...
+[25/8/2012 9:08:48 PM] 220 Welcome to ASUS RT-N66U FTP service.
+STATUS:>
+[25/8/2012 9:08:48 PM] Connected. Authenticating...
+COMMAND:>	[25/8/2012 9:08:48 PM] USER admin
+[25/8/2012 9:08:48 PM] 331 Please specify the password.
+COMMAND:>	[25/8/2012 9:08:48 PM] PASS *****
+[25/8/2012 9:08:48 PM] 230 Login successful.
+STATUS:>
+[25/8/2012 9:08:48 PM] Login successful.
+COMMAND:>	[25/8/2012 9:08:48 PM] PWD
+[25/8/2012 9:08:48 PM] 257 "/"
+STATUS:>
+[25/8/2012 9:08:48 PM] Home directory: /
+COMMAND:>	[25/8/2012 9:08:48 PM] FEAT
+[25/8/2012 9:08:48 PM] Informational Message Only:
+211-Features:
+EPRT
+EPSV
+MDTM
+PASV
+ICNV
+REST STREAM
+SIZE
+TVFS
+UTF8
+211 End
+STATUS:>
+[25/8/2012 9:08:48 PM] This site supports features.
+STATUS:>
+[25/8/2012 9:08:48 PM] This site supports SIZE.
+STATUS:>
+[25/8/2012 9:08:48 PM] This site can resume broken downloads.
+COMMAND:>	[25/8/2012 9:08:48 PM] REST 0
+[25/8/2012 9:08:48 PM] 350 Restart position accepted (0).
+COMMAND:>	[25/8/2012 9:08:48 PM] PASV
+[25/8/2012 9:08:48 PM] 227 Entering Passive Mode (182,55,1xx,2xx,215,205)
+COMMAND:>	[25/8/2012 9:08:48 PM] LIST
+STATUS:>
+[25/8/2012 9:08:48 PM] Connecting FTP data socket... 182.55.1xx.2xx:55245...
+[25/8/2012 9:08:48 PM] 150 Here comes the directory listing.
+[25/8/2012 9:08:48 PM] 226 Directory send OK.
+STATUS:>
+[25/8/2012 9:08:48 PM] Directory listing completed.
+STATUS:>
+[25/8/2012 9:08:59 PM] Getting listing "/SHARED_HD"...
+COMMAND:>	[25/8/2012 9:08:59 PM] CWD /SHARED_HD
+[25/8/2012 9:08:59 PM] 250 Directory successfully changed.
+STATUS:>
+[25/8/2012 9:08:59 PM] PWD skipped. Current folder: "/SHARED_HD".
+COMMAND:>	[25/8/2012 9:08:59 PM] PASV
+[25/8/2012 9:08:59 PM] 227 Entering Passive Mode (182,55,1xx,2xx,96,134)
+COMMAND:>	[25/8/2012 9:08:59 PM] LIST
+STATUS:>
+[25/8/2012 9:08:59 PM] Connecting FTP data socket... 182.55.1xx.2xx:24710...
+[25/8/2012 9:09:00 PM] 150 Here comes the directory listing.
+[25/8/2012 9:09:00 PM] 226 Directory send OK.
+STATUS:>
+[25/8/2012 9:09:00 PM] Directory listing completed.Click to expand...
+Via Internet
+*** CuteFTP 8.3 - build May 19 2010 ***
+STATUS:>
+[25/8/2012 11:05:58 PM] Getting listing ""...
+STATUS:>
+[25/8/2012 11:05:58 PM] Resolving host name host.asuscomm.com...
+STATUS:>
+[25/8/2012 11:06:00 PM] Host name host.asuscomm.com resolved: ip = 182.55.1xx.2xx.
+STATUS:>
+[25/8/2012 11:06:00 PM] Connecting to FTP server... host.asuscomm.com:21 (ip = 182.55.1xx.2xx)...
+STATUS:>
+[25/8/2012 11:06:00 PM] Socket connected. Waiting for welcome message...
+[25/8/2012 11:06:01 PM] 220 Welcome to ASUS RT-N66U FTP service.
+STATUS:>
+[25/8/2012 11:06:01 PM] Connected. Authenticating...
+COMMAND:>	[25/8/2012 11:06:01 PM] USER admin
+[25/8/2012 11:06:01 PM] 331 Please specify the password.
+COMMAND:>	[25/8/2012 11:06:01 PM] PASS *****
+[25/8/2012 11:06:01 PM] 230 Login successful.
+STATUS:>
+[25/8/2012 11:06:01 PM] Login successful.
+COMMAND:>	[25/8/2012 11:06:01 PM] PWD
+[25/8/2012 11:06:02 PM] 257 "/"
+STATUS:>
+[25/8/2012 11:06:02 PM] Home directory: /
+COMMAND:>	[25/8/2012 11:06:02 PM] FEAT
+[25/8/2012 11:06:02 PM] Informational Message Only:
+211-Features:
+EPRT
+EPSV
+MDTM
+PASV
+ICNV
+REST STREAM
+SIZE
+TVFS
+UTF8
+211 End
+STATUS:>
+[25/8/2012 11:06:02 PM] This site supports features.
+STATUS:>
+[25/8/2012 11:06:02 PM] This site supports SIZE.
+STATUS:>
+[25/8/2012 11:06:02 PM] This site can resume broken downloads.
+COMMAND:>	[25/8/2012 11:06:02 PM] REST 0
+[25/8/2012 11:06:03 PM] 350 Restart position accepted (0).
+COMMAND:>	[25/8/2012 11:06:03 PM] PASV
+[25/8/2012 11:06:03 PM] 227 Entering Passive Mode (182,55,1xx,2xx,44,223)
+COMMAND:>	[25/8/2012 11:06:03 PM] LIST
+STATUS:>
+[25/8/2012 11:06:03 PM] Connecting FTP data socket... 182.55.1xx.2xx:11487...
+[25/8/2012 11:06:05 PM] 150 Here comes the directory listing.
+ERROR:>
+[25/8/2012 11:07:06 PM] Timeout (60000 ms) occurred on receiving data from the server.
+[25/8/2012 11:07:07 PM] 226 Directory send OK.
+ERROR:>
+[25/8/2012 11:07:36 PM] Control connection closed.Click to expand...
+Last edited: Aug 25, 2012
+ASUS RT-AC87U F/W: Merlin 380.64_2
+ASUS RT-N66U F/W: Merlin 380.64_2
+oric1,
+Aug 25, 2012
+#9
+RMerlin
+Super Moderator
+Joined:
+Apr 14, 2012
+Messages:
+30,364
+Location:
+Canada
+So you do connect, only you have issues listing folder content.
+In that case that sounds more a firewall issue on your remote end.
+Try switching to PORT mode (instead of Passive), see if that helps.
+Asuswrt-Merlin: Customized firmware for Asus routers
+Github:
+github.com/RMerl - Twitter:
+RMerlinDev - Freenode: #asuswrt
+See the sticky post for more info.
+RMerlin,
+Aug 25, 2012
+#10
+oric1
+Regular Contributor
+Joined:
+Aug 18, 2012
+Messages:
+114
+RMerlin said:
+↑
+So you do connect, only you have issues listing folder content.
+In that case that sounds more a firewall issue on your remote end.
+Try switching to PORT mode (instead of Passive), see if that helps.Click to expand...
+Thanks Merlin.
+The FTP client I'm using does not have Active mode, I selected Port instead, are they referring to the same thing, right?
+I supposed there's no solution to my problem?
+Via Internet
+*** CuteFTP 8.3 - build May 19 2010 ***
+STATUS:>
+[26/8/2012 7:28:05 AM] Getting listing ""...
+STATUS:>
+[26/8/2012 7:28:05 AM] Resolving host name host.asuscomm.com...
+STATUS:>
+[26/8/2012 7:28:06 AM] Host name host.asuscomm.com resolved: ip = 182.55.1xx.2xx.
+STATUS:>
+[26/8/2012 7:28:06 AM] Connecting to FTP server... host.asuscomm.com:21 (ip = 182.55.1xx.2xx)...
+STATUS:>
+[26/8/2012 7:28:06 AM] Socket connected. Waiting for welcome message...
+[26/8/2012 7:28:07 AM] 220 Welcome to ASUS RT-N66U FTP service.
+STATUS:>
+[26/8/2012 7:28:07 AM] Connected. Authenticating...
+COMMAND:>	[26/8/2012 7:28:07 AM] USER admin
+[26/8/2012 7:28:07 AM] 331 Please specify the password.
+COMMAND:>	[26/8/2012 7:28:07 AM] PASS *****
+[26/8/2012 7:28:08 AM] 230 Login successful.
+STATUS:>
+[26/8/2012 7:28:08 AM] Login successful.
+COMMAND:>	[26/8/2012 7:28:08 AM] PWD
+[26/8/2012 7:28:08 AM] 257 "/"
+STATUS:>
+[26/8/2012 7:28:08 AM] Home directory: /
+COMMAND:>	[26/8/2012 7:28:08 AM] FEAT
+[26/8/2012 7:28:09 AM] Informational Message Only:
+211-Features:
+EPRT
+EPSV
+MDTM
+PASV
+ICNV
+REST STREAM
+SIZE
+TVFS
+UTF8
+211 End
+STATUS:>
+[26/8/2012 7:28:09 AM] This site supports features.
+STATUS:>
+[26/8/2012 7:28:09 AM] This site supports SIZE.
+STATUS:>
+[26/8/2012 7:28:09 AM] This site can resume broken downloads.
+COMMAND:>	[26/8/2012 7:28:09 AM] REST 0
+[26/8/2012 7:28:09 AM] 350 Restart position accepted (0).
+COMMAND:>	[26/8/2012 7:28:09 AM] PORT 172,20,10,4,197,234
+[26/8/2012 7:28:09 AM] 200 PORT command successful. Consider using PASV.
+COMMAND:>	[26/8/2012 7:28:09 AM] LIST
+[26/8/2012 7:28:11 AM] 150 Here comes the directory listing.
+ERROR:>
+[26/8/2012 7:29:12 AM] Timeout (60000 ms) occurred on receiving data from the server.
+ERROR:>
+[26/8/2012 7:29:24 AM] Control connection closed.Click to expand...
+This is the Port Forwarding log :
+Destination,
+Protocol,
+Port range,
+Redirect to,
+Local port
+ALL,
+UDP,
+4672,
+192.168.1.1,
+4672
+ALL,
+UDP,
+4665,
+192.168.1.1,
+4665
+ALL,
+TCP,
+4662,
+192.168.1.1,
+4662
+ALL,
+UDP,
+51413,
+192.168.1.1,
+51413
+ALL,
+TCP,
+51413,
+192.168.1.1,
+51413Click to expand...
+ASUS RT-AC87U F/W: Merlin 380.64_2
+ASUS RT-N66U F/W: Merlin 380.64_2
+oric1,
+Aug 25, 2012
+#11
+RMerlin
+Super Moderator
+Joined:
+Apr 14, 2012
+Messages:
+30,364
+Location:
+Canada
+Yes, PORT is the same thing as "active", tho it's not called active mode.
+You have no problem actually connecting to your FTP server, so I don't think it's a matter of configuration, otherwise you wouldn't even be able to log in.
+Maybe try a different FTP client (such as Filezilla), otherwise I'm afraid I'm out of ideas, sorry.
+Asuswrt-Merlin: Customized firmware for Asus routers
+Github:
+github.com/RMerl - Twitter:
+RMerlinDev - Freenode: #asuswrt
+See the sticky post for more info.
+RMerlin,
+Aug 26, 2012
+#12
+oric1
+Regular Contributor
+Joined:
+Aug 18, 2012
+Messages:
+114
+RMerlin said:
+↑
+Yes, PORT is the same thing as "active", tho it's not called active mode.
+You have no problem actually connecting to your FTP server, so I don't think it's a matter of configuration, otherwise you wouldn't even be able to log in.
+Maybe try a different FTP client (such as Filezilla), otherwise I'm afraid I'm out of ideas, sorry.Click to expand...
+Thanks Merlin, appreciate your patience with me.
+I tried Filezilla but still no go
+Let me give it a last shot.
+From my screenshot below, did I input the values correctly?
+Should the Local IP be 192.168.1.1 or some other range?
+ASUS RT-AC87U F/W: Merlin 380.64_2
+ASUS RT-N66U F/W: Merlin 380.64_2
+oric1,
+Aug 26, 2012
+#13
+RMerlin
+Super Moderator
+Joined:
+Apr 14, 2012
+Messages:
+30,364
+Location:
+Canada
+oric1 said:
+↑
+Thanks Merlin, appreciate your patience with me.
+I tried Filezilla but still no go
+Let me give it a last shot.
+From my screenshot below, did I input the values correctly?
+Should the Local IP be 192.168.1.1 or some other range?
+Click to expand...
+As I mentioned before, do not add a forward rule - forwarding rules are only for when you want to forward a connection beyond your router.
+In this case, the connection must terminate on the router.
+Asuswrt-Merlin: Customized firmware for Asus routers
+Github:
+github.com/RMerl - Twitter:
+RMerlinDev - Freenode: #asuswrt
+See the sticky post for more info.
+RMerlin,
+Aug 26, 2012
+#14
+oric1
+Regular Contributor
+Joined:
+Aug 18, 2012
+Messages:
+114
+RMerlin said:
+↑
+As I mentioned before, do not add a forward rule - forwarding rules are only for when you want to forward a connection beyond your router.
+In this case, the connection must terminate on the router.Click to expand...
+Ok, shall remove that and give it a final try.
+Thanks Merlin!
+ASUS RT-AC87U F/W: Merlin 380.64_2
+ASUS RT-N66U F/W: Merlin 380.64_2
+oric1,
+Aug 26, 2012
+#15
+Nightmare1980
+New Around Here
+Joined:
+Aug 26, 2014
+Messages:
+1
+Workaround - WAN Access to USB Drive
+After spending 3 days I finally have a solution to this problem.
+First, credit is given to the comment at this website:
+http://community.wd.com/t5/My-Book-Live-Duo/Please-enable-port-setting-for-FTP/m-p/556514#M4133
+Major steps are given by (Asus Routers):
+1. Forward an arbitrary Port Range (1000, for example) to Local Port 21. Local IP must be the assigned router IP (not a local machine). Protocol TCP;
+2. Make sure that FTP is enabled at FTP Share (USB application, Servers Center);
+3. Update all the changes;
+4. Test WAN access to your files by typing ftp://[yourdomain].asuscomm.com:1000,
+where 1000 is the selected port at Step 1;
+5. If everything is working then you will have FTP over port 1000.
+Quick tip: Try WAN on a cellphone with WI-FI turned off.
+Hope it helps.
+Last edited: Aug 26, 2014
+Nightmare1980,
+Aug 26, 2014
+#16
+(You must log in or sign up to reply here.)
+Show Ignored Content
+Your name or email address:
+Do you already have an account?
+No, create an account now.
+Yes, my password is:
+Forgot your password?
+Stay logged in
+Support SNBForums
+If we've helped you or you just want to thank us, please buy something on Amazon. We'll get a small commission on anything you buy. Thanks! NOTE! This works for U.S., UK and Canada only.
+RSS Feeds
+All Threads  News Only
+Hot On SmallNetBuilder
+ASUS AiMesh Reviewed
+First Peek At Wi-Fi 6: ASUS RT-AX88U & NETGEAR RAX80
+NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed
+160 MHz Wi-Fi Channels: Friend or Foe?
+Introduction To The TR-398 Wi-Fi Performance Test
+A New Door Opens
+Synology DS119j $100 NAS Reviewed
+QNAP TS-332X Three Bay 10GbE NAS Reviewed
+ASUS Blue Cave AC2600 Dual-Band Wireless Router Reviewed
+160 MHz Wi-Fi Channels: Revisited
+Sign Up!
+Sign up for the SNBForums Daily Digest!Keep track of everything that happened today. It's emailed only once a day and you can unsubscribe any time.
+Members Online Now
+Love,
+garryj,
+skeal,
+ColinTaylor,
+TheBarzFR,
+rZn,
+Igor469,
+joma_po,
+Noble,
+Swistheater,
+MDM,
+Trexx,
+FQs19,
+Therion87,
+^Tripper^,
+kokishin,
+Alfsu,
+saccleo,
+kalpik,
+underdose,
+cmkelley,
+Julio,
+drabisan,
+Authority,
+martinr,
+Grimluhn,
+whitey019,
+Gar,
+WirelessWonk,
+srdjan.rajkovic1,
+blueshark,
+pyrodex,
+PolarBear,
+dctrbnsttr,
+jason.staples.33,
+clweb
+Total: 508 (members: 40, guests: 390, robots: 78)
+Forum Statistics
+Discussions:
+46,002
+Messages:
+472,644
+Members:
+43,202
+Latest Member:
+Armani2222
+New Threads
+Speed loss with FW above...
+Armani2222 posted Jun 13, 2019 at 11:54 AM
+AiCloud does not show devices...
+rchristy posted Jun 13, 2019 at 11:25 AM
+Stock Firmware - RT-AC1900 (WAN...
+ihoman202 posted Jun 13, 2019 at 10:53 AM
+Wake On WAN (WOW) on Asus RT-AC68U
+henrycao posted Jun 13, 2019 at 10:22 AM
+What does this 86U log entry mean?
+OzarkEdge posted Jun 13, 2019 at 10:11 AM
+Security OpenVPN vs. TOR
+hurich posted Jun 13, 2019 at 10:06 AM
+RT-N66U Can't login to GUI
+Skeptical.me posted Jun 13, 2019 at 9:07 AM
+Reboot command to reboot Imesh Node
+Sebastien Bougie posted Jun 13, 2019 at 8:33 AM
+VPN via a PC
+royarcher posted Jun 13, 2019 at 4:44 AM
+how to hold iptable rules?
+saccleo posted Jun 13, 2019 at 3:57 AM
+Loading...
+SmallNetBuilder Forums
+Home
+Forums
+>
+Wireless Networking
+>
+ASUS Wireless
+>
+ASUS N Routers & Adapters
+>
+Home
+Home
+Quick Links
+Search Forums
+News Archive
+Recent Activity
+Recent Posts
+Forums
+Forums
+Quick Links
+Search Forums
+News Archive
+News
+Recent Posts
+Members
+Members
+Quick Links
+Notable Members
+Current Visitors
+Recent Activity
+New Profile Posts
+SmallNetBuilder
+Menu
+Search
+Search titles only
+Posted by Member:
+Separate names with a comma.
+Newer Than:
+Search this thread only
+Search this forum only
+Display results as threads
+Useful Searches
+Recent Posts
+More...
+Contact Us
+Help
+Email Subscription
+Home
+Top
+RSS
+Terms and Rules
+Privacy Policy
+Forum software by XenForo™ ©2010-2016 XenForo Ltd. Some XenForo functionality crafted by ThemeHouse.
+===============http://www.snbforums.com/threads/ftp-share-server-for-ip-camera-recording-ac3200.40469/================
+FTP Share/Server for IP Camera Recording (AC3200) | SmallNetBuilder Forums
+Log in or Sign up
+SmallNetBuilder Forums
+Home
+Forums
+>
+Wireless Networking
+>
+ASUS Wireless
+>
+Asuswrt-Merlin
+>
+This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies. Learn More.
+Dismiss Notice
+Welcome To SNBForums
+SNBForums is a community for anyone who wants to learn about or discuss the latest in wireless routers, network storage and the ins and outs of building and maintaining a small network.
+If you'd like to post a question, simply register and have at it!
+While you're at it, please check out SmallNetBuilder for product reviews and our famous Router Charts,
+Ranker and plenty more!
+FTP Share/Server for IP Camera Recording (AC3200)
+Discussion in 'Asuswrt-Merlin' started by Teknition, Aug 2, 2017.
+Teknition
+Occasional Visitor
+Joined:
+Jun 8, 2017
+Messages:
+10
+Hi Guys,
+I'm trying to figure out if this set up is possible: enable the FTP server on my AC3200 with a USB flash drive so that my IP Cameras (Foscam) can send motion detection images to that FTP for internal use.
+I read on this forum that there are some bugs with the way the flash drive is formatted, and I tried formatting as ext4, but it doesn't work (I believe it's because the client doesn't have write-access to the drive, options to change permissions for the drive are grayed out / unavailable).
+My camera confirms that it can connect to the FTP successfully, but nothing gets recorded.
+If ext4 is Linux based, and I'm assuming my IP camera is Windows based, is there a way to make this work?
+On a side note, I am using USB 2.0 slot on my router.
+When I plugged into USB 3.0, my 2.4Ghz band stopped working (seems odd!?). Any insight is appreciated!
+Teknition,
+Aug 2, 2017
+#1
+ColinTaylor
+Part of the Furniture
+Joined:
+Mar 31, 2014
+Messages:
+8,532
+Location:
+UK
+Teknition said:
+↑
+I read on this forum that there are some bugs with the way the flash drive is formatted, and I tried formatting as ext4, but it doesn't work (I believe it's because the client doesn't have write-access to the drive, options to change permissions for the drive are grayed out / unavailable).Click to expand...
+They will be greyed out if you have enabled "anonymous login" because user accounts are not used in that configuration.
+My camera confirms that it can connect to the FTP successfully, but nothing gets recorded.
+If ext4 is Linux based, and I'm assuming my IP camera is Windows based, is there a way to make this work?Click to expand...
+It doesn't matter if you're using ext4, fat32, ntfs, Linux or Windows; FTP is FTP is FTP. Make sure that your camera is changing to the correct directory after in connects otherwise it won't be able to write. See below:
+Code:
+C:\Users\Colin>ftp rt-ac68u
+Connected to rt-ac68u.home.lan.
+220 Welcome to ASUS RT-AC68U FTP service.
+User (rt-ac68u.home.lan:(none)): anonymous
+331 Please specify the password.
+Password:
+230 Login successful.
+ftp> pwd
+257 "/"
+ftp> dir
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+drwxrwxrwx
+3 0
+0
+4096 Dec 30
+2016 VERBATIM
+226 Directory send OK.
+ftp: 66 bytes received in 0.00Seconds 66000.00Kbytes/sec.
+ftp> put temp.pib
+200 PORT command successful. Consider using PASV.
+550 Permission denied (restricted operation).
+ftp> cd /VERBATIM/ASUS
+250 Directory successfully changed.
+ftp> put temp.pib
+200 PORT command successful. Consider using PASV.
+150 Ok to send data.
+226 File receive OK.
+ftp: 9040 bytes sent in 0.05Seconds 192.34Kbytes/sec.
+ftp> bye
+221 Goodbye.
+On a side note, I am using USB 2.0 slot on my router.
+When I plugged into USB 3.0, my 2.4Ghz band stopped working (seems odd!?). Any insight is appreciated!Click to expand...
+That might indicate that you have a larger problem than just FTP.
+Last edited: Aug 2, 2017
+Asus RT-AC68U/A2 overclocked to 1.2GHz/800MHz - 374.43_39E3j9527
+ColinTaylor,
+Aug 2, 2017
+#2
+Teknition
+Occasional Visitor
+Joined:
+Jun 8, 2017
+Messages:
+10
+ColinTaylor said:
+↑
+They will be greyed out if you have enabled "anonymous login" because user accounts are not used in that configuration.
+It doesn't matter if you're using ext4, fat32, ntfs, Linux or Windows; FTP is FTP is FTP. Make sure that your camera is changing to the correct directory after in connects otherwise it won't be able to write. See below:
+Code:
+C:\Users\Colin>ftp rt-ac68u
+Connected to rt-ac68u.home.lan.
+220 Welcome to ASUS RT-AC68U FTP service.
+User (rt-ac68u.home.lan:(none)): anonymous
+331 Please specify the password.
+Password:
+230 Login successful.
+ftp> pwd
+257 "/"
+ftp> dir
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+drwxrwxrwx
+3 0
+0
+4096 Dec 30
+2016 VERBATIM
+226 Directory send OK.
+ftp: 66 bytes received in 0.00Seconds 66000.00Kbytes/sec.
+ftp> put temp.pib
+200 PORT command successful. Consider using PASV.
+550 Permission denied (restricted operation).
+ftp> cd /VERBATIM/ASUS
+250 Directory successfully changed.
+ftp> put temp.pib
+200 PORT command successful. Consider using PASV.
+150 Ok to send data.
+226 File receive OK.
+ftp: 9040 bytes sent in 0.05Seconds 192.34Kbytes/sec.
+ftp> bye
+221 Goodbye.
+That might indicate that you have a larger problem than just FTP.Click to expand...
+Thanks for the detailed information/knowledge, I'll keep going at it and see if I can figure it out.
+In terms of the USB, yes it's very strange.
+My camera(s) will just need to send images through the FTP, so I will stick with the USB 2.0 slot, but yes super strange that my 2.4Ghz just doesn't work when using the 3.0 slot.
+Teknition,
+Aug 3, 2017
+#3
+john9527
+Part of the Furniture
+Joined:
+Mar 28, 2014
+Messages:
+6,096
+Location:
+United States
+Teknition said:
+↑
+but yes super strange that my 2.4Ghz just doesn't work when using the 3.0 slot.Click to expand...
+USB 3 can generate noise that can interfere with 2.4GHz signals (that's why there is 'Reduce USB3 interference' setting on the 2.4GHz Professional page to run USB3 as USB2).
+Usually the problems occur with external drives where there is a 'cheap' USB3 cable used that isn't properly shielded.
+What brand of USB stick?
+Sounds like it may be a poor design....or you need to move it away from the router with a 'good' USB3 extension cable.
+Merlin LTS Fork 374.43
+john9527,
+Aug 3, 2017
+#4
+Teknition
+Occasional Visitor
+Joined:
+Jun 8, 2017
+Messages:
+10
+john9527 said:
+↑
+USB 3 can generate noise that can interfere with 2.4GHz signals (that's why there is 'Reduce USB3 interference' setting on the 2.4GHz Professional page to run USB3 as USB2).
+Usually the problems occur with external drives where there is a 'cheap' USB3 cable used that isn't properly shielded.
+What brand of USB stick?
+Sounds like it may be a poor design....or you need to move it away from the router with a 'good' USB3 extension cable.Click to expand...
+Hey John, it is an 8GB flash drive: Kingston DataTraveler USB3.0.
+Nothing fancy, my wife got it from work.
+As soon as I plugged it in, the 2.4Ghz and my guest network (also 2.4) wouldn't show up on my devices.
+If I end up wanting to add more storage through the router (like one of my external HDD's), I have a few USB extension cords that I can try.
+Thanks for the info on that.
+Teknition,
+Aug 3, 2017
+#5
+(You must log in or sign up to reply here.)
+Show Ignored Content
+Your name or email address:
+Do you already have an account?
+No, create an account now.
+Yes, my password is:
+Forgot your password?
+Stay logged in
+Support SNBForums
+If we've helped you or you just want to thank us, please buy something on Amazon. We'll get a small commission on anything you buy. Thanks! NOTE! This works for U.S., UK and Canada only.
+RSS Feeds
+All Threads  News Only
+Hot On SmallNetBuilder
+ASUS AiMesh Reviewed
+First Peek At Wi-Fi 6: ASUS RT-AX88U & NETGEAR RAX80
+NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed
+160 MHz Wi-Fi Channels: Friend or Foe?
+Introduction To The TR-398 Wi-Fi Performance Test
+A New Door Opens
+Synology DS119j $100 NAS Reviewed
+QNAP TS-332X Three Bay 10GbE NAS Reviewed
+ASUS Blue Cave AC2600 Dual-Band Wireless Router Reviewed
+160 MHz Wi-Fi Channels: Revisited
+Sign Up!
+Sign up for the SNBForums Daily Digest!Keep track of everything that happened today. It's emailed only once a day and you can unsubscribe any time.
+Members Online Now
+Love,
+garryj,
+skeal,
+ColinTaylor,
+TheBarzFR,
+rZn,
+Igor469,
+joma_po,
+Noble,
+Swistheater,
+MDM,
+Trexx,
+FQs19,
+Therion87,
+^Tripper^,
+kokishin,
+Alfsu,
+saccleo,
+kalpik,
+underdose,
+cmkelley,
+Julio,
+drabisan,
+Authority,
+martinr,
+Grimluhn,
+whitey019,
+Gar,
+WirelessWonk,
+srdjan.rajkovic1,
+blueshark,
+pyrodex,
+PolarBear,
+dctrbnsttr,
+jason.staples.33,
+clweb
+Total: 508 (members: 40, guests: 391, robots: 77)
+Forum Statistics
+Discussions:
+46,002
+Messages:
+472,644
+Members:
+43,202
+Latest Member:
+Armani2222
+New Threads
+Speed loss with FW above...
+Armani2222 posted Jun 13, 2019 at 11:54 AM
+AiCloud does not show devices...
+rchristy posted Jun 13, 2019 at 11:25 AM
+Stock Firmware - RT-AC1900 (WAN...
+ihoman202 posted Jun 13, 2019 at 10:53 AM
+Wake On WAN (WOW) on Asus RT-AC68U
+henrycao posted Jun 13, 2019 at 10:22 AM
+What does this 86U log entry mean?
+OzarkEdge posted Jun 13, 2019 at 10:11 AM
+Security OpenVPN vs. TOR
+hurich posted Jun 13, 2019 at 10:06 AM
+RT-N66U Can't login to GUI
+Skeptical.me posted Jun 13, 2019 at 9:07 AM
+Reboot command to reboot Imesh Node
+Sebastien Bougie posted Jun 13, 2019 at 8:33 AM
+VPN via a PC
+royarcher posted Jun 13, 2019 at 4:44 AM
+how to hold iptable rules?
+saccleo posted Jun 13, 2019 at 3:57 AM
+Loading...
+SmallNetBuilder Forums
+Home
+Forums
+>
+Wireless Networking
+>
+ASUS Wireless
+>
+Asuswrt-Merlin
+>
+Home
+Home
+Quick Links
+Search Forums
+News Archive
+Recent Activity
+Recent Posts
+Forums
+Forums
+Quick Links
+Search Forums
+News Archive
+News
+Recent Posts
+Members
+Members
+Quick Links
+Notable Members
+Current Visitors
+Recent Activity
+New Profile Posts
+SmallNetBuilder
+Menu
+Search
+Search titles only
+Posted by Member:
+Separate names with a comma.
+Newer Than:
+Search this thread only
+Search this forum only
+Display results as threads
+Useful Searches
+Recent Posts
+More...
+Contact Us
+Help
+Email Subscription
+Home
+Top
+RSS
+Terms and Rules
+Privacy Policy
+Forum software by XenForo™ ©2010-2016 XenForo Ltd. Some XenForo functionality crafted by ThemeHouse.
+===============http://www.snbforums.com/threads/rt-ac68u-ftp-issues.20445/================
+RT-AC68U FTP issues | SmallNetBuilder Forums
+Log in or Sign up
+SmallNetBuilder Forums
+Home
+Forums
+>
+Wireless Networking
+>
+ASUS Wireless
+>
+Asuswrt-Merlin
+>
+This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies. Learn More.
+Dismiss Notice
+Welcome To SNBForums
+SNBForums is a community for anyone who wants to learn about or discuss the latest in wireless routers, network storage and the ins and outs of building and maintaining a small network.
+If you'd like to post a question, simply register and have at it!
+While you're at it, please check out SmallNetBuilder for product reviews and our famous Router Charts,
+Ranker and plenty more!
+RT-AC68U FTP issues
+Discussion in 'Asuswrt-Merlin' started by ahasnaini, Nov 1, 2014.
+ahasnaini
+New Around Here
+Joined:
+Nov 1, 2014
+Messages:
+3
+FTP server on AC68U is acting a bit weird.
+1) Connecting for the first time always gives a timeout, but the second time it always connect.
+Here is the log
+Status:
+Connection established, waiting for welcome message...
+Response: 	220 Welcome to ASUS RT-AC68U FTP service.
+Command: 	USER admin
+Response: 	331 Please specify the password.
+Command: 	PASS ********
+Response: 	230 Login successful.
+Command: 	SYST
+Response: 	215 UNIX Type: L8
+Command: 	FEAT
+Response: 	211-Features:
+Response: 	 EPRT
+Response: 	 EPSV
+Response: 	 MDTM
+Response: 	 PASV
+Response: 	 ICNV
+Response: 	 REST STREAM
+Response: 	 SIZE
+Response: 	 TVFS
+Response: 	 UTF8
+Response: 	211 End
+Command: 	OPTS UTF8 ON
+Response: 	200 Always in UTF8 mode.
+Status:
+Connected
+Status:
+Retrieving directory listing...
+Command: 	PWD
+Response: 	257 "/"
+Command: 	TYPE I
+Response: 	200 Switching to Binary mode.
+Command: 	PASV
+Error:
+Connection timed out
+Error:
+Failed to retrieve directory listing
+2) File transfer fails after a second or two
+logs
+Command: 	TYPE I
+Response: 	200 Switching to Binary mode.
+Command: 	PASV
+Response: 	227 Entering Passive Mode (31,48,190,241,121,142).
+Command: 	RETR abc.mkv
+Response: 	0 Opening BINARY mode data connection for /tmp/mnt/ddrive/ddrive/M/B/abc.mkv (1464878889 bytes).
+Error:
+File transfer failed after transferring 2369736 bytes in 2 seconds
+Status:
+Starting download of /ddrive/ddrive/M/B/abc.mkv
+Command: 	PASV
+Response: 	426 Failure writing network stream.
+Command: 	PORT 192,168,2,105,212,117
+I am running the lastest merlin beta 2
+ahasnaini,
+Nov 1, 2014
+#1
+ColinTaylor
+Part of the Furniture
+Joined:
+Mar 31, 2014
+Messages:
+8,532
+Location:
+UK
+You're having a problem with passive mode. This usually indicates that your firewall hasn't been configured properly.
+Also, I can see that you are connecting to your external (WAN) IP address. Is this intentional? Are you connecting from outside your LAN?
+What happens if you connect locally? Your client appears to be on 192.168.2.105?
+Last edited: Nov 2, 2014
+Asus RT-AC68U/A2 overclocked to 1.2GHz/800MHz - 374.43_39E3j9527
+ColinTaylor,
+Nov 1, 2014
+#2
+ahasnaini
+New Around Here
+Joined:
+Nov 1, 2014
+Messages:
+3
+Enabling ports did make it work, is there a way to specify a range for ftp ports that will be used so I can enable them only
+ahasnaini,
+Nov 2, 2014
+#3
+(You must log in or sign up to reply here.)
+Show Ignored Content
+Your name or email address:
+Do you already have an account?
+No, create an account now.
+Yes, my password is:
+Forgot your password?
+Stay logged in
+Support SNBForums
+If we've helped you or you just want to thank us, please buy something on Amazon. We'll get a small commission on anything you buy. Thanks! NOTE! This works for U.S., UK and Canada only.
+RSS Feeds
+All Threads  News Only
+Hot On SmallNetBuilder
+ASUS AiMesh Reviewed
+First Peek At Wi-Fi 6: ASUS RT-AX88U & NETGEAR RAX80
+NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed
+160 MHz Wi-Fi Channels: Friend or Foe?
+Introduction To The TR-398 Wi-Fi Performance Test
+A New Door Opens
+Synology DS119j $100 NAS Reviewed
+QNAP TS-332X Three Bay 10GbE NAS Reviewed
+ASUS Blue Cave AC2600 Dual-Band Wireless Router Reviewed
+160 MHz Wi-Fi Channels: Revisited
+Sign Up!
+Sign up for the SNBForums Daily Digest!Keep track of everything that happened today. It's emailed only once a day and you can unsubscribe any time.
+Members Online Now
+Love,
+garryj,
+skeal,
+ColinTaylor,
+TheBarzFR,
+rZn,
+Igor469,
+joma_po,
+Noble,
+Swistheater,
+MDM,
+Trexx,
+FQs19,
+Therion87,
+^Tripper^,
+kokishin,
+Alfsu,
+saccleo,
+kalpik,
+underdose,
+cmkelley,
+Julio,
+drabisan,
+Authority,
+martinr,
+Grimluhn,
+whitey019,
+Gar,
+WirelessWonk,
+srdjan.rajkovic1,
+blueshark,
+pyrodex,
+PolarBear,
+dctrbnsttr,
+jason.staples.33,
+clweb
+Total: 508 (members: 40, guests: 391, robots: 77)
+Forum Statistics
+Discussions:
+46,002
+Messages:
+472,644
+Members:
+43,202
+Latest Member:
+Armani2222
+New Threads
+Speed loss with FW above...
+Armani2222 posted Jun 13, 2019 at 11:54 AM
+AiCloud does not show devices...
+rchristy posted Jun 13, 2019 at 11:25 AM
+Stock Firmware - RT-AC1900 (WAN...
+ihoman202 posted Jun 13, 2019 at 10:53 AM
+Wake On WAN (WOW) on Asus RT-AC68U
+henrycao posted Jun 13, 2019 at 10:22 AM
+What does this 86U log entry mean?
+OzarkEdge posted Jun 13, 2019 at 10:11 AM
+Security OpenVPN vs. TOR
+hurich posted Jun 13, 2019 at 10:06 AM
+RT-N66U Can't login to GUI
+Skeptical.me posted Jun 13, 2019 at 9:07 AM
+Reboot command to reboot Imesh Node
+Sebastien Bougie posted Jun 13, 2019 at 8:33 AM
+VPN via a PC
+royarcher posted Jun 13, 2019 at 4:44 AM
+how to hold iptable rules?
+saccleo posted Jun 13, 2019 at 3:57 AM
+Loading...
+SmallNetBuilder Forums
+Home
+Forums
+>
+Wireless Networking
+>
+ASUS Wireless
+>
+Asuswrt-Merlin
+>
+Home
+Home
+Quick Links
+Search Forums
+News Archive
+Recent Activity
+Recent Posts
+Forums
+Forums
+Quick Links
+Search Forums
+News Archive
+News
+Recent Posts
+Members
+Members
+Quick Links
+Notable Members
+Current Visitors
+Recent Activity
+New Profile Posts
+SmallNetBuilder
+Menu
+Search
+Search titles only
+Posted by Member:
+Separate names with a comma.
+Newer Than:
+Search this thread only
+Search this forum only
+Display results as threads
+Useful Searches
+Recent Posts
+More...
+Contact Us
+Help
+Email Subscription
+Home
+Top
+RSS
+Terms and Rules
+Privacy Policy
+Forum software by XenForo™ ©2010-2016 XenForo Ltd. Some XenForo functionality crafted by ThemeHouse.
+===============https://forums.anandtech.com/threads/asus-router-has-ftp-server-open-to-wan-how-to-stop-this.2441212/================
+Asus router has ftp server open to wan, how to stop this? | AnandTech Forums: Technology, Hardware, Software, and Deals
+Menu
+Menu
+Forums
+Search
+Everywhere
+Threads
+This forum
+This thread
+Search titles only
+By:
+Search
+Advanced search…
+Everywhere
+Threads
+This forum
+This thread
+Search titles only
+By:
+Search
+Advanced…
+Log in
+Register
+Search
+Everywhere
+Threads
+This forum
+This thread
+Search titles only
+By:
+Search
+Advanced search…
+Everywhere
+Threads
+This forum
+This thread
+Search titles only
+By:
+Search
+Advanced…
+Sidebar
+Sidebar
+Trending
+What's new
+articles
+Menu
+Home
+Forums
+Trending
+Search forums
+What's new
+New posts
+New articles
+New article comments
+Latest activity
+Articles
+New articles
+New comments
+Series
+Search articles
+Asus router has ftp server open to wan, how to stop this?
+Thread starter
+FreshJR
+Start date
+Jul 29, 2015
+Sidebar
+Sidebar
+Forums
+Hardware and Technology
+Networking
+JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
+Previous
+Next
+F
+FreshJR
+Member
+Jul 29, 2015
+#1
+Nov 10, 2012
+46
+0
+61
+Jul 29, 2015
+#1
+I have an Asus RT-AC68U router, but I assume most of the recent models carry the same interface. Here is my issue.
+I started both the windows samba and ftp features for an attached USB to this router. The issue is that the ftp server the router started is being made public to wan side and I could not find a feature to disable it.
+As a temporary measure I port forwarded 192.168.1.1:20 & 21 to forward to ip 127.0.0.1:20 & 21 for tcp traffic.
+That seemed to work but I don't know if there is a better solution.
+Or if this is an appropriate solution to hide the ftp server.
+Is there a tool to check if I have any other open ports to the wan side?
+I would like to close my entire lan network off from the outside.
+If I need to get into the lan side of my network, I do have a vpn server running on this router that I perfer to use.
+Question 2:
+I also have a 4TB WD MyCloud that I tried to close off from the outside entirely. I went to firewall -> network services filter and blacklisted all requests from the source lan ip 192.168.1.100, putting a wildcard of *.*.*.* in the destination ip, trying to give the mycloud zero outside access.
+I disable this rule every couple months just to keep the firmware updated.
+Are my security measures correct?
+They seem to work, but I am a rookie when it comes to networking.
+Last edited: Jul 30, 2015
+I
+ImDonly1
+Platinum Member
+Jul 30, 2015
+#2
+Dec 17, 2004
+2,349
+0
+76
+Jul 30, 2015
+#2
+1. Usb applications then servers center then ftp tab. Turn off ftp wan access, maybe even turn off anonymous access.
+2. For the mycloud, I think if you disable the cloud ability, it won't respond to wan requests.
+Elixer
+Lifer
+Jul 30, 2015
+#3
+May 7, 2002
+10,378
+1
+126
+Jul 30, 2015
+#3
+Checking ports:
+https://www.grc.com/x/ne.dll?bh0bkyd2
+(shields up)
+http://www.checkmyrouter.org
+http://upnp-check.rapid7.com/
+As for FTP server, yes, it is meant to be accessed from the WAN, and I don't recall if there is a way to turn that off with the official firmware or not.
+I would use iptables to fix this, something like
+iptables -I INPUT -i eth0 -p tcp --dport 21 -j DROP (if it is eth0)
+iptables -I INPUT -i xxx -p tcp --dport 21 -j DROP
+(where xxx is the interface of the WAN)
+That just means for input, on the WAN device (eth0 or whatever), and it is tcp port 21, then drop the connection.
+You can use iptables for your other question as well, except you want output instead of input, and of course, the right ports and all that.
+F
+FreshJR
+Member
+Jul 30, 2015
+#4
+Nov 10, 2012
+46
+0
+61
+Jul 30, 2015
+#4
+ImDonly1 said:
+1. Usb applications then servers center then ftp tab. Turn off ftp wan access, maybe even turn off anonymous access.
+2. For the mycloud, I think if you disable the cloud ability, it won't respond to wan requests.
+Click to expand...
+Do you have the same router?
+What fw? Seems I am missing that option. Bellow are my options:
+Enable FTP
+Allow anonymous login
+Maximum number of concurrent connections
+Character set on FTP Server
+I did disable mycloud cloud access in its GUI and do believe it works, but just tried to double protect myself if the samba shares somehow get forwarded outside my lan and onto the wan thru some uPnP glitch.
+Maybe paranoid but better safe then sorry, 4Tb is a lot of personal documents.
+I don't believe this router has iptables support but ill try to look it up. I'm not really looking to switch to ddwrt, openwrt, tomato, etc to get that support.
+This router is rock stable and performance is insane.
+I
+ImDonly1
+Platinum Member
+Jul 30, 2015
+#5
+Dec 17, 2004
+2,349
+0
+76
+Jul 30, 2015
+#5
+FreshJR said:
+Do you have the same router?
+What fw? Seems I am missing that option. Bellow are my options:
+Enable FTP
+Allow anonymous login
+Maximum number of concurrent connections
+Character set on FTP Server
+I did disable mycloud cloud access in its GUI and do believe it works, but just tried to double protect myself if the samba shares somehow get forwarded outside my lan and onto the wan thru some uPnP glitch.
+Maybe paranoid but better safe then sorry, 4Tb is a lot of personal documents.
+I don't believe this router has iptables support but ill try to look it up. I'm not really looking to switch to ddwrt, openwrt, tomato, etc to get that support.
+This router is rock stable and performance is insane.
+Click to expand...
+I have the ac56u and am using the merlin fork (stock with some modifications/updates)
+http://www.snbforums.com/threads/fork-update-for-374-43-available-v13e1.18914/
+My ftp page looks like this...
+You can use the regular merlin firmware (stock with modifications) too
+http://www.snbforums.com/threads/asuswrt-merlin-378-55-is-now-available.25874/
+The merlin fork is based on older asus firmware before they locked down wifi transmit power. He just updates all of the packages and fixes to the latest, while also adding merlin's tweaks.
+The regular merlin firmware is based on the latest asus firmware (after they locked down transmit power) with his own updates, fixes, and tweaks.
+Last edited: Jul 30, 2015
+You must log in or register to reply here.
+Share:
+Facebook
+Twitter
+Reddit
+Tumblr
+WhatsApp
+Email
+Link
+Thread starter
+Similar threads
+Forum
+Replies
+Date
+D
+Asus Router for VPN
+Networking
+3
+Yesterday at 12:02 PM
+Asus routers - go 3rd-party firmware, never go back?
+Networking
+6
+Mar 29, 2019
+Question Asus Router doesnt show Orbi wireless clients
+Networking
+2
+Jan 2, 2019
+Z
+Question Router Comparison - LINKSYS EA8500, ASUS TM-AC1900 or a NETGEAR NIGHTHAWK AC2100
+Networking
+4
+Dec 13, 2018
+F
+Downloading on new router hogs all the bandwidth
+Networking
+7
+Jul 20, 2018
+Similar threads
+D
+Asus Router for VPN
+Started by dryfly
+Yesterday at 12:02 PM
+Replies: 3
+Networking
+Asus routers - go 3rd-party firmware, never go back?
+Started by VirtualLarry
+Mar 29, 2019
+Replies: 6
+Networking
+Question Asus Router doesnt show Orbi wireless clients
+Started by lupi
+Jan 2, 2019
+Replies: 2
+Networking
+Z
+Question Router Comparison - LINKSYS EA8500, ASUS TM-AC1900 or a NETGEAR NIGHTHAWK AC2100
+Started by zettler
+Dec 13, 2018
+Replies: 4
+Networking
+F
+Downloading on new router hogs all the bandwidth
+Started by FrankieXenon
+Jul 20, 2018
+Replies: 7
+Networking
+ASK THE COMMUNITY
+Forum
+Hardware and Technology
+CPUs and Overclocking
+Motherboards
+Graphics Cards
+AMD
+Nvidia
+Memory and Storage
+Displays
+Power Supplies
+Cases & Cooling
+Laptops
+Networking
+Apple Laptops and Desktops
+Peripherals & Components
+Headsets and Headphones
+Mice
+Keyboards
+Computer Building
+Pre-Built Desktops
+Barebones
+Raspberry Pi and Single Board Computers
+Home Theater PCs
+Consumer Electronics
+Digital Cameras and Video
+Console Gaming
+Mobile Devices
+Audio Components
+TVs
+Software
+Windows
+Apple
+Open Source
+Operating Systems
+Programming
+PC Games
+Distributed Computing
+Security
+Social
+OT Discussion Club
+Politics and News
+Ask a Technical Professional
+The Garage
+Health and Fitness
+Home and Garden
+Shopping
+Hot Deals and Giveaways
+Black Friday
+2016
+Black Friday 2015
+Archives
+Black Friday 2012
+Black Friday 2013
+Black Friday 2014
+Black Friday
+Forum Issues
+Forum Issues and Feedback
+Moderation Resources
+Title
+Message
+Post thread
+TRENDING THREADS
+H
+[Rumor, Tweaktown] AMD to launch next-gen Navi graphics cards at E3
+Started by Hitman928
+Apr 15, 2019
+Replies: 1,406
+Graphics Cards
+Speculation: Ryzen 3000 series
+Started by Vattila
+Dec 4, 2018
+Replies: 4,243
+CPUs and Overclocking
+Your Geekbench 4 results
+Started by CHADBOGA
+Tuesday at 11:36 PM
+Replies: 31
+CPUs and Overclocking
+U
+The disappointing slowdown CPU progress in last 6 years vs 4 years before (10 yrs) ago
+Started by unseengundam101
+Yesterday at 12:17 AM
+Replies: 39
+CPUs and Overclocking
+Ryzen: Strictly technical
+Started by The Stilt
+Mar 2, 2017
+Replies: 2,126
+CPUs and Overclocking
+Forums
+Hardware and Technology
+Networking
+| Style and add-ons by ThemeHouse
+AnandTech
+LINKS
+Home
+About
+Forums
+RSS
+Pipeline News
+Bench
+Galleries
+Terms of Use
+Copyright Policy
+Contact Us
+TOPICS
+CPUs
+Motherboards
+SSD/HDD
+GPUs
+Mobile
+Enterprise & IT
+Smartphones
+Memory
+Cases/Cooling/PSU(s)
+Displays
+Mac
+Systems
+Cloud
+Trade Shows
+Guides
+FOLLOW
+Facebook
+Twitter
+RSS
+The Most Trusted in Tech Since 1997
+About
+Advertising
+Privacy Policy
+Copyright © 2018. All rights reserved.
+BENCH
+CPU
+SSD
+GPU2013
+GPU2012
+Smartphone2011
+Mobile
+TOPICS
+CPUs
+Motherboards
+SSD/HDD
+GPUs
+Mobile
+Enterprise & IT
+Smartphones
+Memory
+Cases/Cooling/PSU(s)
+Displays
+Mac
+Systems
+Cloud
+Trade Shows
+Guides
+FOLLOW
+Facebook
+Twitter
+RSS
+ABOUT
+About
+Advertising
+Privacy Policy
+Contact Us
+Copyright © 2018. All rights reserved.
+Top
+Bottom
+This site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.
+By continuing to use this site, you are consenting to our use of cookies.
+Accept
+Learn more…
+===============https://fofa.so/result?qbase64=Y2l0eT0iS3JtZWxpbiI%3D================
+FOFA Pro - 搜索结果
+问题反馈
+问题反馈关闭
+请详细描述您要反馈的内容
+请留下您的手机号或邮箱，方便我们与您联系(选填)
+验证码
+提交
+规则专题
+API&SDK
+规则列表
+Fofa客户端
+VIP会员
+切换导航
+规则列表
+规则专题
+企业版
+API&SDK
+客户端
+VIP会员
++1积分
+登录与注册
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=Y2l0eT0iS3JtZWxpbiI=
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+输入错误，请输入正确再查询
+收藏规则
+下载数据
+使用API
+×Close
+Download
+文件正在导出，可在个人中心的下载记录查询文件状态
+数据文件会保存10天,10天后文件可能会被清除,请尽快下载。
+×关闭
+网站正文
+关闭
+正在加载统计信息......
+搜索 city="Krmelin" 获得 1,206 条匹配结果 (独立IP数为
+条)， 用时 16 毫秒，模式: extended。
+默认只显示一年内的数据，点击 all 链接查看所有。
+← 上一页 1 2 3 4 5 6 7 … 121 下一页 →
+188.175.39.104
+80
+http
+188.175.39.104
+2019-06-12
+Czechia
+/
+Krmelin
+ASN:
+16246
+组织:
+RIO Media a.s.
+HTTP/1.1 401 Unauthorized
+WWW-Authenticate: Digest
+realm="spa user", domain="/",nonce="000fef816f9c14cc0c55ebdec2c6095c393bb27e",opaque="000c99061664a76293f38d0b84024f78dfd4d3e7",algorithm="MD5",qop="auth"
+Content-Type: text/html
+Connection: close
+188.175.39.104
+80
+Sipura SPA Configuration
+188.175.39.104
+2019-06-12
+Czechia
+/
+Krmelin
+ASN:
+16246
+组织:
+RIO Media a.s.
+HTTP/1.1 401 Unauthorized
+Connection: close
+Content-Type: text/html
+Www-Authenticate: Digest
+realm="spa user", domain="/",nonce="000fefad886fa7b3497a3e5e354c9dc61553d817",opaque="000fef816f9c14cc0c55ebdec2c6095c393bb27e",algorithm="MD5",qop="auth"
+188.175.39.194
+80
+Login Incorrect
+188.175.39.194
+2019-06-12
+Czechia
+/
+Krmelin
+ASN:
+16246
+组织:
+RIO Media a.s.
+Router Webserver
+HTTP/1.1 401 N/A
+Connection: close
+Content-Type: text/html
+Server: Router Webserver
+Www-Authenticate: Basic realm="TP-LINK Wireless N Router WR841N"
+188.175.39.194
+80
+http
+188.175.39.194
+2019-06-12
+Czechia
+/
+Krmelin
+ASN:
+16246
+组织:
+RIO Media a.s.
+HTTP/1.1 401 N/A
+Server: Router Webserver
+Connection: close
+WWW-Authenticate: Basic realm="TP-LINK Wireless N Router WR841N"
+Content-Type: text/html
+188.175.39.166
+2000
+bandwidth-test
+188.175.39.166
+2019-06-07
+Czechia
+/
+Krmelin
+\x01\x00\x00\x00
+188.175.39.166
+8291
+winbox
+188.175.39.166
+2019-06-06
+Czechia
+/
+Krmelin
+\xff\x02index\x00\x00\x00\x00\x00\x00\x01\x015\x00\x00\x00\x002406700230 706142 roteros.dll 6.42.7
+2527991601 30971 advtool.dll 6.42.7
+725855285 38524 dhcp.dll 6.42.7
+3337345654 39206 mpls.dll 6.42.7
+1826637447 43408 ppp.dll 6.42.7
+1106339461 55004 roting4.dll 6.42.7
+1001715462 45094 secure.dll 6.4H\xff2.7
+3051786272 2542 system.dll 6.42.7
+1432947382 74819 wlan6.dll 6.42.7
+188.175.39.160
+8080
+http
+188.175.39.160
+2019-06-03
+Czechia
+/
+Krmelin
+HTTP/1.0 401 Unauthorized
+Server: httpd
+Date: Sun, 02 Jun 2019 14:48:37 GMT
+WWW-Authenticate: Basic realm="WRP400"
+Content-Type: text/html
+Connection: close
+188.175.39.160:8080
+8080
+188.175.39.160
+2019-06-03
+Czechia
+/
+Krmelin
+httpd
+HTTP/1.0 401 Unauthorized
+Connection: close
+Content-Type: text/html
+Date: Sun, 02 Jun 2019 14:48:38 GMT
+Server: httpd
+Www-Authenticate: Basic realm="WRP400"
+188.175.39.17
+8080
+http
+188.175.39.17
+2019-06-02
+Czechia
+/
+Krmelin
+HTTP/1.1 200 OK
+Server: Mathopd/1.5p6
+Date: Sun, 02 Jun 2019 06:51:35 GMT
+Content-Type: text/html
+188.175.39.242
+49152
+wemo
+188.175.39.242
+2019-05-28
+Czechia
+/
+Krmelin
+HTTP/1.1 500 Internal Server Error
+CONTENT-LENGTH: 411
+CONTENT-TYPE: text/xml; charset="utf-8"
+DATE: Sat, 18 Apr 1970 11:10:45 GMT
+EXT:
+SERVER: Linux/2.6.26, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+<s:Envelope
+xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"
+s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<s:Body>
+<s:Fault>
+<faultcode>s:Client</faultcode>
+<faultstring>UPnPError</faultstring>
+<detail>
+<UPnPError xmlns="urn:schemas-upnp-org:control-1-0">
+<errorCode>-1</errorCode>
+<errorDescription>Invalid Action</errorDescription>
+</UPnPError>
+</detail>
+</s:Fault>
+</s:Body>
+</s:Envelope>
+← 上一页 1 2 3 4 5 6 7 … 121 下一页 →
+下载所有图片
+正在加载图标信息......
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=Y2l0eT0iS3JtZWxpbiI=
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+白帽汇
+服务热线：400-650-2031
+联系邮箱：service@baimaohui.net
+地址：北京市朝阳区东三环北路天元港B座10层
+产品
+企业版>
+NOSEC
+FOEYE
+BCSEC
+信息
+关于我们
+帮助文档
+English
+&nbsp &nbsp 简体中文
+zh-CN
+版权所有 © 白帽汇 2015 - 2019. All Rights Reserved 粤ICP备16088626号. Version 3.4.270
+===============https://www.asus.com/Networking/RT-AC58U/================
+RT-AC58U
+| Networking | ASUS Global
+Products
+What´s Hot
+Commercial
+Service
+Login
+ASUS Account
+Logout
+Message Center
+Display all
+testtest
+Products
+Phones
+Laptops & 2-in-1 PCs
+Tablets
+Motherboards
+Graphics Cards
+Wearable & Healthcare
+Desktop & All-in-One PCs
+Display & Projector
+Networking
+Sound
+Peripheral & Data Storage
+AIoT & Industrial Solutions
+Gaming
+Home & Automotive
+Power Supply Unit
+Servers
+Intelligent Robot
+Phones
+Phone
+ZenFone
+ZenFone Zoom
+ZenFone Selfie
+ZenFone Max
+ZenFone Live
+ZenFone Deluxe
+ZenFone Ultra
+ZenFone Laser
+ZenFone Go
+Gaming Phone
+Phone Accessories
+Power Banks
+Photography Accessories
+Cases, Covers & Sleeves
+Adapters & Cables
+Docks
+Screen Protectors
+Chargers
+Storage
+Gaming Accessories
+ZenFone 6 (ZS630KL)
+DEFY ORDINARY
+Learn more
+Laptops & 2-in-1 PCs
+Laptops
+ZenBook Series
+VivoBook Series
+StudioBook Series
+ASUS Laptop Series
+Chromebook Series
+ASUSPRO Series
+Gaming Series
+FX / ZX Series
+ASUS TUF Gaming Series
+Software and Innovations
+2-in-1 PCs
+ZenBook Flip Series
+VivoBook Flip Series
+Chromebook Flip Series
+ASUS NovaGo
+Transformer Series (Detachable)
+Project Precog
+Laptops Accessories
+Adapters
+Stylus
+Docks
+ZenBook Pro Duo UX581GV
+The laptop of tomorrow
+Learn more
+Tablets
+Tablet Accessories
+Cases, Covers & Sleeves
+Tablets
+ZenPad
+Chromebook Tablet
+ZenPad 3S 10 (Z500M)
+Cinematic Entertainment, Supercharged Performance
+Learn more
+Motherboards
+Motherboards
+ROG - Republic of Gamers
+TUF Gaming
+ASUS Prime
+CSM - Corporate Stable Model
+Commercial
+Workstation
+TUF - The Ultimate Force
+Pro Gaming
+Intel platform
+AMD platform
+Motherboard Accessories
+Single Board Computer
+Tinker Board Series
+Tinker Board Accessories
+Gaming Case
+ROG - Republic of Gamers
+TUF Gaming
+Cooling
+CPU Liquid cooler
+Maximus XI Formula
+Fully Caffeinated
+Learn more
+Graphics Cards
+Graphics Cards
+AMD Series
+NVIDIA Series
+AREZ
+ROG - Republic of Gamers
+Turbo Series
+Dual Series
+Expedition Series
+Phoenix Series
+Mining Series
+Cerberus Series
+TUF Gaming Series
+Graphics Cards Accessories
+SLI Bridge
+External Graphics Dock
+Power Supply Unit
+ROG-STRIX-RTX2080-O8G-GAMING
+ROG Strix GeForce® RTX 2080 OC edition 8GB GDDR6, made for driving 4K display resolution and VR. Spanning 2.7-slots, the ROG Strix GeForce® RTX 2080 keeps Turing™ chilled with a massive heatsink, Axial-tech fans, and MaxContact technology.
+Learn more
+Wearable & Healthcare
+ZenWatch
+ZenWatch
+VivoWatch
+ASUS ZenWatch 3 ‏(WI503Q)‏
+Time-Honored Craftsmanship, Infinite Styles
+Learn more
+Desktop & All-in-One PCs
+Tower PCs
+ROG Series
+Gaming Series
+VivoPC Series
+ASUSPRO Series
+Mini PCs
+Business
+Professional
+VivoMini
+Stick PCs
+Chrome OS Devices
+ROG Series
+All-in-One PCs
+Zen AiO Series
+Vivo AiO Series
+Commercial Series
+ASUS Zen AiO 27 Z272SD
+Visualize creative power
+Learn more
+Display & Projector
+Monitors
+Gaming
+Professional
+Portable
+4K UHD & 2K WQHD
+Eye Care
+Designo
+Touch
+Business
+Essential
+Projectors
+Projectors
+Monitor Accessories
+ROG SWIFT PG27UQ
+See the Future of Gaming
+Learn more
+Networking
+Networking
+Wireless Routers
+Wireless AP/Repeater/Bridges
+xDSL Modem Routers
+Wireless Adapters
+Wired Networking
+Powerline Networking
+4G LTE / 3G Routers
+Bluetooth & Antennas
+Cable Modems & Routers
+Mesh WiFi System
+Business Networking
+Business Switches
+Business Wireless Routers
+Gaming Networking
+Gaming Router
+ROG Rapture GT-AX11000
+Next-gen Tri-band Gaming WiFi Router
+Learn more
+Sound
+Headphones & Headsets
+ROG - Republic of Gamers
+TUF Gaming
+Gaming
+Entertainment
+Microphones
+ROG - Republic of Gamers
+Essence Hi-Fi Audio
+Hi-Fi Sound Cards
+Sound Cards
+Hi-Fi Sound Cards
+Gaming
+Entertainment
+Wireless & Bluetooth Audio
+Music streamer
+Headphones & Headsets
+Essence III
+Preamplifier, USB DAC and headphone amplifier
+Learn more
+Peripheral & Data Storage
+Computer Bags
+Backpacks
+Carry Cases
+Sleeves
+Keyboards & Mice
+Keyboards
+Mice
+Combo
+Mouse pads
+3D Sensor
+Optical Drives & Storage
+External Blu-ray Drive
+External Slim DVD Drive
+Internal Blu-ray Drive
+Internal DVD Drive
+Storage
+Docks
+UT210
+Rainbow of comfy mouse input
+Learn more
+AIoT & Industrial Solutions
+AIOT & Industrial Solutions
+Industrial Motherboard
+Intelligent Edge Computer
+Single Board Computer
+H310I-IM-A R2.0
+Industrial Motherboard with advance I/O, longevity and wide temperature support
+Learn more
+Gaming
+ROG - Republic Of Gamers
+Phones
+Laptops
+Desktops
+Motherboards
+Graphics Cards
+Power Supply Unit
+Monitors
+Headsets
+Keyboards
+Microphones
+Mice
+Mousepads
+Web Cameras
+Bags
+Wireless Routers
+ROG Collection
+Aura Sync accessories
+Cases
+Gear
+Gaming
+Laptops - Gaming Series
+Motherboards - Pro Gaming
+Graphics Cards - STRIX Gaming
+Desktop - Gaming Series
+Monitor - Gaming Series
+Sound Cards - Gaming Series
+Headphones & Headsets - Gaming Series
+Wireless Router - Gaming Series
+Case - Gaming Series
+TUF Gaming
+ROG Strix Fusion 500
+World's first gaming headset with headset-to-headset RGB light synchronization
+Learn more
+Home & Automotive
+Home Entertainment
+Android TV
+Car Electronics
+Video Recorder & Camcorder
+Nexus Player
+Nexus Player ™ : Entertainment tailored for you
+Learn more
+Power Supply Unit
+Power Supply Unit
+ROG Series
+ROG THOR 1200P
+Supply power to monstrous gaming rigs with our Power Supply Units. High-end components and thermal solutions, made possible by our years of industry experience, provide better efficiency, performance, and quality.
+Learn more
+Servers
+Servers & Workstations
+Servers
+Server Motherboards
+Workstations
+Workstation Motherboards
+Server Accessories
+Software
+Gaming Station
+Gaming Station
+ESC8000 G4
+High-density 4U GPU server support 8 GPUs
+Learn more
+What´s Hot
+ASUS ZenBook Edition 30 UX334FL
+Live the shot ZenFone 4 series
+Tech in Style – Notebook & PC
+ROG laptops with GeForce RTX™ 20-Series graphics
+ASUS Aura Sync
+300-series picker site banner
+NO.1 GAMING MONITOR
+ASUS TUF Gaming
+Eye Care Monitor
+Commercial
+Overview
+Products
+Business Size
+Solution
+Industry
+Events
+Successful Stories
+Products
+Servers & Workstations
+Gaming Station
+Motherboard
+Laptops
+Desktop
+Mini PCs
+All-in-One PCs
+Monitors
+Signage
+Tablets
+Projectors
+Networking
+Intelligent Robot
+Data Storage
+Business Size
+SOHO & Micro Business
+Small & Mid-size Business
+Enterprise & Large Business
+Solution
+Mobile Solution
+Business Protection
+Improve Performance
+Enhance Communication
+Green Office
+Industry
+Education
+Retail & Service
+Service
+Support
+ZenTalk
+ROG
+RT-AC58U
+Overview
+Specifications
+Gallery
+News & Award
+Support
+Successful Case
+Where to buy
+AC1300 Dual Band WiFi Router with MU-MIMO and Parental Controls for smooth streaming 4K videos from Youtube and Netflix
+AC1300 Dual Band WiFi Router with MU-MIMO and Parental Controls for smooth streaming 4K videos from Youtube and NetflixSuper-fast network speed
+Concurrent dual-band AC1300 Wi-Fi speed plus quad-core processor for responsive network performance
+Full Wi-Fi speed on multiple devices simultaneously
+MU-MIMO technology and huge 128MB memory for the best multi-device performance
+Improved Wi-Fi range
+Four external antennas with AiRadar for improved Wi-Fi range
+Parental Controls
+Monitor and filter internet activities for your families and children
+Multi-purpose USB 3.0 port
+10X-faster data transfers than USB 2.0
+Shop
+//s7.addthis.com/js/250/addthis_widget.js#pubid=AsusProductAddthis
+Modal header
+Essential AC Upgrade with Uninterrupted Wi-Fi Signal
+ASUS RT-AC58U AC1300
+Dual-band Gigabit Wi-Fi Router with four high-gain antennas and high power technology delivers extremely long operating range. Its 802.11ac high-speed performance is perfect for streaming up to 4K Ultra HD videos, online gaming with support for latest gen consoles such as Xbox One® and PlayStation® 4 and performing other bandwidth-intensive tasks. Multi-purpose USB 3.0 port allow printer, hard drive and 3G/4G sharing1; while ASUS AiCloud support allows you to access, share, and stream files from your home PC to internet-connected devices.
+Full Wi-Fi Speeds on Multiple Devices Simultaneously
+Thanks to MU-MIMO technology and powerful 128 MB memory, you can enjoy full-speed Wi-Fi on compatible devices2 at the same time without needing to wait for sequential transmissions.
+Powerful Processor, Higher Network Speed
+RT-AC58U is equipped with improved WAN to LAN speed thanks to its latest quad-core A7 processor, ensuring responsive network performance for bandwidth-intensive tasks.
+Improved Wi-Fi Range
+The four external high performance antennas on RT-AC58U improve the Wi-Fi range and multi-device performance in your home
+ASUS Router App
+Control your network anywhere
+In your increasingly mobile-enabled life, having control over your network via an app is more important than ever. The new ASUS Router App is built from the ground-up to be both intuitive and robust, allowing you to setup your router, manage network traffic, diagnose connection issues and even update firmware, all without needing to boot up a PC.
+» Learn more
+Click below to download
+Ultimate USB Speed and Versatility
+USB
+3.0 port
+delivers up to 10-times faster data
+transfers than USB 2.0.
+It makes RT-AC58U perfect for file, multimedia, and 3G/4G sharing1, while ASUS AiCloud enables remote access and content
+streaming.
+The One Place for All Your Data - ASUS AiCloud
+ASUS
+AiCloud keeps you connected to your data wherever and whenever you have an
+internet connection. It links your home network and online web storage
+services, giving you access to your files using the AiCloud mobile app on your
+iOS, Android smartphones or via a personalized browser URL. You can share
+photos instantly with services like Facebook, Flickr and Dropbox directly from
+the AiCloud app. It’s your expandable and unlimited personal cloud — and it’s
+completely free!
+Keep Up to Date!
+Remember to always keep your device’s firmware up to date so you can benefit from the very latest service and security enhancements — and get exciting new features! Learn more about updating new firmware.
+Note:
+1.Features may not be available in all
+markets. Please check with your supplier for exact offers.
+2.MU-MIMO-certified client(s) required
+* ASUS received the highest numerical score among wireless routers in the J.D. Power 2015 Wireless Router Satisfaction Report, based on 2,716 responses from 8 companies measuring satisfaction with wireless routers surveyed November-December 2015. Your experiences may vary. Visit jdpower.com
+RT-AC1200G+
+AC1200 Dual Band WiFi Router with four 5dBi antennas and Parental Controls, smooth streaming 4K videos from Youtube and Netflix
+RT-AC55U
+Dual-band wireless-AC1200 gigabit router
+RP-AC56
+USB-AC56
+USB-AC55
+PCE-AC56
+Products certified
+by the Federal Communications Commission and Industry Canada will be
+distributed in the United States and Canada. Please visit the ASUS USA and ASUS
+Canada websites for information about locally available products.
+All specifications are subject to change without notice. Please check with your supplier for exact offers. Products may not be available in all markets.
+Specifications and features vary by model, and all images are illustrative.
+Please refer to specification pages for full details.
+PCB color and bundled software versions are subject to change without notice.
+Brand and product names mentioned are trademarks of their respective companies.
+Actual data throughput and WiFi coverage will vary from network conditions and environmental factors, including the volume of network traffic, building material and construction, and network overhead, result in lower actual data throughput and wireless coverage.
+Quoted network speeds and bandwidth based on current IEEE 802.11ac specifications. Actual performance may be affected by network and service provider factors, interface type, and other conditions. Connected devices must be 802.11ac-compatible for best results.
+Want More?
+TUF Gaming
+TUF
+Asus Design Center
+ROG
+ASUSPRO
+Automotive Solutions
+ASUS HealthCare
+Download ROG Product Guide
+Who We Are
+About ASUS
+News
+Awards
+Internal Audit
+Investor Relations
+About CSR for global
+Press Room
+Need Help?
+Check Repair Status
+Find Service Locations
+Product Registration
+Email Us
+Call Us
+Security Advisory
+Windows 10 S Compatible Device
+Community
+Global /
+English
+Terms of Use NoticePrivacy Policy
+©ASUSTeK Computer Inc. All rights reserved.
+===============http://www.snbforums.com/threads/rt-n66u-ftp-server-for-information.23768/================
+RT-N66U FTP Server (for information) | SmallNetBuilder Forums
+Log in or Sign up
+SmallNetBuilder Forums
+Home
+Forums
+>
+Wireless Networking
+>
+ASUS Wireless
+>
+ASUS N Routers & Adapters
+>
+This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies. Learn More.
+Dismiss Notice
+Welcome To SNBForums
+SNBForums is a community for anyone who wants to learn about or discuss the latest in wireless routers, network storage and the ins and outs of building and maintaining a small network.
+If you'd like to post a question, simply register and have at it!
+While you're at it, please check out SmallNetBuilder for product reviews and our famous Router Charts,
+Ranker and plenty more!
+RT-N66U FTP Server (for information)
+Discussion in 'ASUS N Routers & Adapters' started by wouterv, Apr 5, 2015.
+wouterv
+Very Senior Member
+Joined:
+Aug 4, 2013
+Messages:
+983
+I posted below as answer on the Asus forum and decided to post it here as well for reference:
+With firmware 3.0.0.4.376.3861 the router FTP server feature works very simple, older versions may behave different:
+General>USB Application>Media Services and Servers>FTP Share Tab
+Set Enable FTP to On, accept the warning message.
+Make sure you have media plugged in one of the router USB ports, with a folder which has the user rights set (the best is to make the folder through the router Add new folder utility):
+You can now access the router FTP server (folder "data" in above example) over the outside Internet, by either router WAN IP address or DNS name (if set), port number 21 and by default the administrator username and password.
+You can also access the router FTP server over the LAN, by either the WAN IP address or LAN IP address, nice huh?
+Warning: FTP use in this way is rather unsafe, as the user credentials for FTP are send over the Internet without encryption (standard FTP behaviour). For sure you shall not allow anonymous login.
+For local access over the LAN you beter use the Samba feature, straight forward as above.
+Note: you shall not configure port forwarding for this FTP feature to work, if you set a port forward to port 21, you break the router FTP server. And you do not need to enable Web access from WAN.
+wouterv,
+Apr 5, 2015
+#1
+Rankdropper84
+Regular Contributor
+Joined:
+Jan 15, 2015
+Messages:
+156
+FTP should really only be used on your local lan. SMB or webdav should be your go to's for connecting to your network from the wan
+Rankdropper84,
+Apr 5, 2015
+#2
+wouterv
+Very Senior Member
+Joined:
+Aug 4, 2013
+Messages:
+983
+Hence the warning in my post.
+There is no further choice though in AsusWRT, the router FTP feature is all or nothing.
+At least create a dedicated FTP account.
+Better no FTP I would say.
+Last edited: Apr 5, 2015
+wouterv,
+Apr 5, 2015
+#3
+(You must log in or sign up to reply here.)
+Show Ignored Content
+Your name or email address:
+Do you already have an account?
+No, create an account now.
+Yes, my password is:
+Forgot your password?
+Stay logged in
+Support SNBForums
+If we've helped you or you just want to thank us, please buy something on Amazon. We'll get a small commission on anything you buy. Thanks! NOTE! This works for U.S., UK and Canada only.
+RSS Feeds
+All Threads  News Only
+Hot On SmallNetBuilder
+ASUS AiMesh Reviewed
+First Peek At Wi-Fi 6: ASUS RT-AX88U & NETGEAR RAX80
+NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed
+160 MHz Wi-Fi Channels: Friend or Foe?
+Introduction To The TR-398 Wi-Fi Performance Test
+A New Door Opens
+Synology DS119j $100 NAS Reviewed
+QNAP TS-332X Three Bay 10GbE NAS Reviewed
+ASUS Blue Cave AC2600 Dual-Band Wireless Router Reviewed
+160 MHz Wi-Fi Channels: Revisited
+Sign Up!
+Sign up for the SNBForums Daily Digest!Keep track of everything that happened today. It's emailed only once a day and you can unsubscribe any time.
+Members Online Now
+Love,
+jsbeddow,
+Alfsu,
+garryj,
+skeal,
+ColinTaylor,
+TheBarzFR,
+rZn,
+Igor469,
+joma_po,
+Noble,
+Swistheater,
+MDM,
+Trexx,
+FQs19,
+Therion87,
+^Tripper^,
+kokishin,
+saccleo,
+kalpik,
+underdose,
+cmkelley,
+Julio,
+drabisan,
+Authority,
+martinr,
+Grimluhn,
+whitey019,
+Gar,
+WirelessWonk,
+srdjan.rajkovic1,
+blueshark,
+pyrodex,
+PolarBear,
+dctrbnsttr,
+jason.staples.33,
+clweb
+Total: 505 (members: 41, guests: 387, robots: 77)
+Forum Statistics
+Discussions:
+46,002
+Messages:
+472,644
+Members:
+43,202
+Latest Member:
+Armani2222
+New Threads
+Speed loss with FW above...
+Armani2222 posted Jun 13, 2019 at 11:54 AM
+AiCloud does not show devices...
+rchristy posted Jun 13, 2019 at 11:25 AM
+Stock Firmware - RT-AC1900 (WAN...
+ihoman202 posted Jun 13, 2019 at 10:53 AM
+Wake On WAN (WOW) on Asus RT-AC68U
+henrycao posted Jun 13, 2019 at 10:22 AM
+What does this 86U log entry mean?
+OzarkEdge posted Jun 13, 2019 at 10:11 AM
+Security OpenVPN vs. TOR
+hurich posted Jun 13, 2019 at 10:06 AM
+RT-N66U Can't login to GUI
+Skeptical.me posted Jun 13, 2019 at 9:07 AM
+Reboot command to reboot Imesh Node
+Sebastien Bougie posted Jun 13, 2019 at 8:33 AM
+VPN via a PC
+royarcher posted Jun 13, 2019 at 4:44 AM
+how to hold iptable rules?
+saccleo posted Jun 13, 2019 at 3:57 AM
+Loading...
+SmallNetBuilder Forums
+Home
+Forums
+>
+Wireless Networking
+>
+ASUS Wireless
+>
+ASUS N Routers & Adapters
+>
+Home
+Home
+Quick Links
+Search Forums
+News Archive
+Recent Activity
+Recent Posts
+Forums
+Forums
+Quick Links
+Search Forums
+News Archive
+News
+Recent Posts
+Members
+Members
+Quick Links
+Notable Members
+Current Visitors
+Recent Activity
+New Profile Posts
+SmallNetBuilder
+Menu
+Search
+Search titles only
+Posted by Member:
+Separate names with a comma.
+Newer Than:
+Search this thread only
+Search this forum only
+Display results as threads
+Useful Searches
+Recent Posts
+More...
+Contact Us
+Help
+Email Subscription
+Home
+Top
+RSS
+Terms and Rules
+Privacy Policy
+Forum software by XenForo™ ©2010-2016 XenForo Ltd. Some XenForo functionality crafted by ThemeHouse.
+===============http://datametropolen.se/asus_rt_ac66u================
+ASUS RT-AC66U NORDIC Wireless Router Gigabit 802.11ac 1300+450Mbps WLAN USB2.0 FTP server AiCloud 3G
+Välkommen besökare du kan logga in eller skapa ett konto.
+Svenska
+English
+Önskelista (0)
+Mitt konto
+Varukorg
+Kassa
+Produkter
+Datorer
+Stationära
+Bärbara
+Surfplattor
+Telefoner
+Datorkomponenter
+Grafikkort
+Hårddiskar
+Minnen
+Nätverk
+ADSL Modem
+Trådlösa Routrar
+Mobilt bredband
+Tillbehör
+Flash minnen
+Möss
+Musmattor
+Tangentbord
+Headset
+Programvara
+Kontors program
+Service
+Dator reparationer
+Telefon reparationer
+Telefon reparationer SANDVIK
+Monitorer
+Skrivare
+Bläckstråle skrivare
+Multifunktion bläck
+Om oss
+Kontakta oss
+Varukorg
+0 kr
+Varukorgen
+Din varukorg är tom!
+Hem
+ASUS RT-AC66U NORDIC Wireless Router Gigabit 802.11ac 1300+450Mbps WLAN USB2.0 FTP server AiCloud 3G
+ASUS RT-AC66U NORDIC Wireless Router Gigabit 802.11ac 1300+450Mbps WLAN USB2.0 FTP server AiCloud 3G
+1 590 kr
+Exkl moms: 1 272 kr
+Lagersaldo:
+1
+Artikelnummer:
+502
+Ej betygsatt
+Skriv en recension
+Antal
+Köp
+Lägg till i favoritlistan
+Jämför produkt
+Dela
+Tweet
+Beskrivning
+Recensioner
+Beskrivning
+- 5th generation 802.11ac chipset gives you concurrent dual-band 2.4GHz/5GHz for up to super-fast 1.75Gbps.- ASUS AiCloud service: Access, stream, share, sync – all on the go with unlimited storage expansion!- Gigabit Ethernet ports for the fastest, most reliable internet performance.- AiRadar optimizes wireless coverage with detachable high-powered antennas.- Enjoy the ASUSWRT dashboard UI for 3 steps easy setup, signal monitoring, and network application control.- Download Master for wireless data storage and access to your router-connected USB storage devices.- File sharing, printer sharing, and 3G sharing via two multi-functional built-in USB ports.The ASUS RT-AC66U is a 5th gen dual-band Wi-Fi router, and the launch platform for the new ASUS AiCloud service. Its speed reaches 1.75Gbps, currently the fastest available, utilizing the Broadcom 802.11ac Wi-Fi controller and working in 2.4GHz and 5GHz. The 5GHz band supports up to 1.3Gbps, exceeding current Gigabit wired transmission and 3X faster than 802.11n. The RT-AC66U offers smooth lag-resistant multitasking and super-fast streaming, while ASUS AiRadar intelligently strengthens wireless connections via powerful amplification, offering future-proof optimized performance.AiCloud offers a unified app for iOS and Android devices that turns the RT-AC66U into a personal cloud server, with easy connectivity to Windows PC, Mac, Linux machines, and all USB storage. Denna text kommer från www.captech.se. Each account can sync with other AiCloud clients and public cloud products directly. All your content, files, and data can be accessed, synced, shared, and managed from almost any device – smartphones to desktops – wherever and whenever you’re online.Whether you’re a tech-savvy enthusiast or a first-time user, the RT-AC66U is exceptionally easy to use with CD-free Quick Installation Setup (QIS) that lets you plug-n-surf right out of the box and connect PCs, smartphones, tablets, and other wireless devices quickly. Thanks to its refined interface tools, you get control like never before, letting you monitor signal strength, setup parental settings, and other useful functions in a robust yet intuitive way.Designed for Class-Leading Speed and RangeWith the latest in networking technology, the RT-AC66U delivers exceptionally fast wired and wireless connectivity. ASUS builds this flagship router with the highest-grade components, offering you the best quality to enable stable connectivity and convenient expandability. The router uses powerful detachable Wi-Fi antennas to further extend wireless range.
+Medföljande tillbehörNätverkskabel 1m och nätdelQuality of Service (QoS) supportYesDC-in jackYesAC input voltage110 - 240VAC input frequency50/60 HzAntennas quantity3WLAN data transfer rates supported1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48, 54, 450, 1300 Mbit/sReset buttonYesDMZ supportYesManualYesUniversal Plug and Play (UPnP)YesEthernet LAN data rates10, 100, 1000 Mbit/sWi-FiYesWi-Fi standards802.11ac, 802.11a, 802.11b, 802.11g, 802.11nDepth148.8 mmHeight35.5 mmMac compatibilityYesWidth207 mmEthernet LANYesWAN connectionEthernet (RJ-45)Ethernet LAN (RJ-45) ports4USB ports quantity2Frequency band2.4 & 5 GHzSecurity algorithms supported128-bit WEP, 64-bit WEP, WPA, WPA-PSK, WPA2, WPA2-PSKLED indicatorsLAN, Power, USB, WANCables includedLAN (RJ-45)Quick start guideYesUser Guide on CD-ROMYesWeight450 gCabling technology10/100/1000 Base-T(X)DSL connection typeNoWeb-based managementYesPC in (D-Sub)NoFirewall securitySPISupported network protocolsIPv4, IPv6VPN supportIPSec, PPTP, L2TP, PPTP
+Recensioner (0)
+Skriv en recension
+Ditt namn
+Din recension
+Note: HTML översätts inte!
+Betyg
+Dålig
+Bra
+Fortsätt
+Telefon: 026-273040
+E-post: info@datametropolen.com
+Datametropolen
+Om oss
+Kontovillkor
+Köpvillkor
+Kontakta oss
+Mitt konto
+Mitt konto
+Nyhetsbrev
+Skapa konto
+Sociala medier
+© Copyright 2015. Powered by Open Cart.
+Webbutveckling: Adsera
+===============http://forums.dlink.com/index.php?topic=65992.0================
+Connection timed out and FTP upload
+D-Link Forums
+June 13, 2019, 09:39:12 AM
+Welcome, Guest
+Please login or register.
+1 Hour
+1 Day
+1 Week
+1 Month
+Forever
+Login with username, password and session length
+News:This Forum Beta is ONLY for registered owners of D-Link products in the USA for which we have created boards at this time.
+Home
+Help
+Search
+Login
+Register
+D-Link Forums >
+D-Link Network Storage >
+DNS-320L >
+Connection timed out and FTP upload
+« previous next »
+Pages: [1]
+Print
+Author
+Topic: Connection timed out and FTP upload  (Read 3528 times)
+geopal
+Level 1 Member
+Posts: 23
+Connection timed out and FTP upload
+«
+on: December 01, 2016, 12:50:23 PM »
+Hello,I have a problem that I cannot find solution so far and I kindly ask for your opinion. Reading the forums didn't help me.I have the 320-l and Asus router RT-N65U. Here are the setups of both:I am using ASUS Dynamic Domain Name System.My problem is when I try to UPLOAD files to the ftp no matter if in same network or outside one, I get timed out connection, get disconnected every 20-30 seconds and cannot upload anything. Attention: I can DOWLOAD with no problems at all. Using FileZilla:Code: [Select]Status: Connecting to ****:21...Status: Connection established, waiting for welcome message...Status: Logged inStatus: Starting upload of E:\*.rarStatus: Retrieving directory listing of "/Volume_1/"...Command: TYPE IResponse: 200 TYPE is now 8-bit binaryCommand: PASVResponse: 227 Entering Passive Mode (****)Command: MLSDResponse: 150 Accepted data connectionResponse: 226-Options: -a -l Response: 226 20 matches totalCommand: PASVResponse: 227 Entering Passive Mode (****)Command: REST 85349804Response: 350 Restarting at 85349804Command: STOR *.rarResponse: 150 Accepted data connectionError: Connection timed out after 20 seconds of inactivityError: File transfer failed after transferring 16 515 072 bytes in 22 secondsStatus: Disconnected from serverStatus: Resolving address of ****.asuscomm.comStatus: Connecting to ****:21...Status: Connection established, waiting for welcome message...Status: Logged inStatus: Starting upload of Y:\*.rarHere are the FZ settings, using Passive mode and Binary file transferAny clues why my connection drops for upload and works on downlods? Thanks in advance!
+Logged
+geopal
+Level 1 Member
+Posts: 23
+Re: Connection timed out and FTP upload
+« Reply #1 on: December 02, 2016, 07:34:51 AM »
+Connection interrupts every 30-120 seconds, resumes file upload several times and then resets and start from the beginning (the upload)
+Logged
+ivan
+Level 8 Member
+Posts: 1438
+Re: Connection timed out and FTP upload
+« Reply #2 on: December 02, 2016, 05:25:41 PM »
+A couple of questions.1)  do you have a better manual on the router than the one on the Asus web site?  That one is useless for setting up what you want.2) what are you actually trying to achieve - access to the NAS over the local network or access to the NAS from the internet?Reading the screen grabs you have posted my first thought is that you have two FTP servers running which will give you the results you are seeing.In the router setup page note the second bullet point in the description.  You have set port 20 (which gives the virtual FTP server the standard 20/21 pair) so activating the router FTP server.  This is where a better manual with more details about the settings would be invaluable.On the NAS FTP server page you have enabled the server again with the standard port 20/21 pair even though it only shows port 21.With those settings you now have a race condition between the two servers and you get breaks in transmission as the servers ping pong - hence my second question of what do you want to do.
+Logged
+geopal
+Level 1 Member
+Posts: 23
+Re: Connection timed out and FTP upload
+« Reply #3 on: December 02, 2016, 10:41:30 PM »
+Thank you Ivan,I am trying both on your second point. Result is the same.Have to check for a written manual.I also noted second bullet but the ftp has been working with such settings for years... I have only changed the ISP.What do you suggest? I tried to change the ports but with no luck- it didn't work.
+Logged
+ivan
+Level 8 Member
+Posts: 1438
+Re: Connection timed out and FTP upload
+« Reply #4 on: December 03, 2016, 09:30:10 AM »
+OK let me check a few points.1)  you have had this hardware doing what you want in the past - the same router and NAS.2) you changed ISP but apart from changing the ISP info in the router you did not change anything else.In theory, since you are using the same equipment , router and NAS, that worked before with unchanged settings on both it should still work.The next thing you should check are what you changed on the internet side of the router when you setup the new ISP settings.  Did you change DNS settings?  Have you changed the DHCP settings?  Does your new ISP block FTP ports?Changed DNS settings may cause problems with resolving the Asus DDNS.Changed DHCP will, if your NAS is on fixed IP, change how it is found.  I see that you have set the virtual FTP to 192.168.2.234.  Is that the same subnet you used before you changed ISP provider (the default DHCP for the router is 192.168.1.1 which may be the subnet you started with).Other than that it will have to wait until Monday when I can talk with my service department people to see if they have any other ideas.
+Logged
+geopal
+Level 1 Member
+Posts: 23
+Re: Connection timed out and FTP upload
+« Reply #5 on: December 08, 2016, 11:05:36 AM »
+Just a quick update- changed the mask to 1, not 2, still the same issue. Will keep looking for a solution.Do you think weak battery can lead to this? But it is strange- I can download terrabytes with no issues, when i try to upload, it drops and reconnects several times till it becomes irresponsive at all and needs a restart.
+Logged
+FurryNutz
+Poweruser
+▲▲ ▲
+Posts: 47444
+D-Link Global Forum Moderator
+Re: Connection timed out and FTP upload
+« Reply #6 on: December 09, 2016, 07:09:41 AM »
+Internet Service Provider and Modem ConfigurationsWhat ISP Service do you have? Cable or DSL?What ISP Modem Mfr. and model # do you have?What ISP Modem service link speeds UP and Down do you have? Link> Speed Testing Sites
+Logged
+Cable:200mb/10Mb>NetGear C7800>DIR-882>DGS-1100>HP 24pt Gb Switch. COVR-3902/2202/1203,DIR-2680,890L,882,880L,868L,DNR-202L,DNS-345x2,DCS-933L,936L and 960L.Go Here>Router Troubleshooting
+geopal
+Level 1 Member
+Posts: 23
+Re: Connection timed out and FTP upload
+« Reply #7 on: December 13, 2016, 12:05:23 PM »
+- Optic cable to the building, lan cable afterwords- huawei EC2108V5- 65 Mbps upload / 50 Mbps downloadHow can this be connected as it doesn't work from another place also.Can I switch off one of the ftp services from the NAS or router? Don't know what to try.Maybe I will try a hard reset as resetting to defaults didn't help.
+Logged
+FurryNutz
+Poweruser
+▲▲ ▲
+Posts: 47444
+D-Link Global Forum Moderator
+Re: Connection timed out and FTP upload
+« Reply #8 on: December 13, 2016, 12:17:36 PM »
+Does this help any? http://forums.dlink.com/index.php?topic=64492.0
+« Last Edit: December 13, 2016, 12:26:34 PM by FurryNutz »
+Logged
+Cable:200mb/10Mb>NetGear C7800>DIR-882>DGS-1100>HP 24pt Gb Switch. COVR-3902/2202/1203,DIR-2680,890L,882,880L,868L,DNR-202L,DNS-345x2,DCS-933L,936L and 960L.Go Here>Router Troubleshooting
+geopal
+Level 1 Member
+Posts: 23
+Re: Connection timed out and FTP upload
+« Reply #9 on: December 13, 2016, 12:54:27 PM »
+No, sorry, I have already read it Everything works for days for download, but it times out on upload Code: [Select]Connecting to probe.filezilla-project.orgConnection established, waiting for welcome message.Response: 220 FZ router and firewall tester readyUSER FileZillaResponse: 331 Give any password.PASS 3.23.0.2Response: 230 logged on.Checking for correct external IP addressRetrieving external IP address from http://ip.filezilla-project.org/ip.phpChecking for correct external IP addressIP *.*.*.* je-cdg-bjb-hhResponse: 200 OKFailed to create listen socket, abortingConnection closedCode: [Select]Command: TYPE IResponse: 200 TYPE is now 8-bit binaryCommand: PASVResponse: 227 Entering Passive Mode (*,*,*,*,217,12)Command: MLSDResponse: 150 Accepted data connectionResponse: 226-Options: -a -l Response: 226 7 matches totalCommand: PASVResponse: 227 Entering Passive Mode (*,*,*,*,217,60)Command: STOR *.part3.rarResponse: 150 Accepted data connectionError: Connection timed out after 20 seconds of inactivityError: File transfer failed after transferring 24 641 536 bytes in 24 secondsStatus: Disconnected from serverStatus: Resolving address of *.asuscomm.com
+Logged
+ivan
+Level 8 Member
+Posts: 1438
+Re: Connection timed out and FTP upload
+« Reply #10 on: December 15, 2016, 04:34:19 AM »
+Those logs don't look correct especially the IP addresses but we can't check because a) we don't have your model router and b) we only use managed switches on our networks.On that last point could you borrow a network switch (gigabit preferred but a 100 Base-T will do)?  If you can then link Your NAS and computer to the switch and link the switch to your router (the later is to use the DHCP server of the router to give IP address to the computer).  With this setup try uploading to the NAS.  If this works then we know the NAS and computer are setup correctly.  If it doesn't then we need to look at those settings more closely.
+Logged
+geopal
+Level 1 Member
+Posts: 23
+Re: Connection timed out and FTP upload
+« Reply #11 on: December 15, 2016, 04:50:46 AM »
+I have hidden the IP adress with *Both PC and NAS are plugged directly into the router.I will try to put them on a switch and then to the router, thanks for the suggestion
+Logged
+ivan
+Level 8 Member
+Posts: 1438
+Re: Connection timed out and FTP upload
+« Reply #12 on: December 15, 2016, 06:42:16 AM »
+QuoteI have hidden the IP adress with *We assumed that but you have too many places for IPv4 (www.xxx.yyy.zzz).  Some of it looks like the short form IPv6, something the NAS knows nothing about.
+Logged
+ivan
+Level 8 Member
+Posts: 1438
+Re: Connection timed out and FTP upload
+« Reply #13 on: December 15, 2016, 08:10:50 AM »
+One more question.  What is the fixed IP address of your NAS if you can't get sustained throughput on upload through the switch? (send me a PM to keep it private)
+Logged
+Print
+Pages: [1]
+« previous next »
+D-Link Forums >
+D-Link Network Storage >
+DNS-320L >
+Connection timed out and FTP upload
+SMF 2.0.13 |
+SMF © 2016, Simple Machines
+XHTML
+RSS
+WAP2
+BlackRain , 2006 by Crip
+===============http://help-wifi.com/asus/nastrojka-ftp-servera-na-routere-asus-dostup-k-fleshke-cherez-router/================
+Настройка FTP сервера на роутере ASUS. Доступ к флешке через роутер
+Настройка роутера
+Подробные инструкциидля конкретных моделей
+TP-Link
+Asus
+ZyXEL
+D-link
+Linksys
+Tenda
+Netis
+Totolink
+Xiaomi
+Mercusys
+Huawei
+MikroTik
+Belkin
+Ошибки и поломки
+Советы по настройке роутеров (общие)
+Настройка роутера для провайдера
+Настройка Wi-Fi сетей
+Настройка защиты Wi-Fi сетей
+Инструкции по обновлению ПО
+Интернет на компьютере
+Настройка и решение проблемс интернетом на компьютере
+Настройка Wi-Fi на ПК (ноутбуке)
+Решение проблем и ошибок
+Разные советы для Windows
+Настройка виртуальной Wi-Fi сети
+Настройка интернета 3G/4G
+Mac OS
+Wi-Fi на Android, iOS, WP
+Статьи о проблемах и настройкеwi-fi на смартфонах и планшетах
+Apple iPhone/iPad
+Android (смартфоны/планшеты)
+Телевизоры Smart TV
+Подключение к интернетуи настройка функций Smart TV
+Телевизоры LG Smart TV
+Samsung Smart TV
+Philips (Android TV)
+Разные советы
+Обзоры и отзывы
+Обзоры, отзывы, характеристикии другая полезная информация
+Отзывы, обзоры и информация о роутерах
+Разные сетевые устройства
+Обзоры разных устройств
+Интернет-провайдеры (отзывы и обзоры)
+Разные статьи
+Статьи на разные темысоветы и т. д.
+О беспроводных технологиях
+Полезное и интересное
+Программы / Браузеры
+Видеонаблюдение
+Bluetooth
+Задать вопрос
+Посмотреть все вопросы/ответы
+Главная
+О сайте
+Контакты
+Ищем авторов
+ГлавнаяAsusНастройка FTP сервера на роутере ASUS. Доступ к флешке через роутер
+Настройка FTP сервера на роутере ASUS. Доступ к флешке через роутер
+Есть уже много моделей роутеров ASUS с USB разъемами. У меня роутер ASUS RT-N18U, так на нем есть два USB (один из которых USB 3.0). Основное предназначение, это подключение 3G/4G модемов, USB-накопителей и принтеров. Я уже писал отдельную статью, в которой рассказывал для чего нужен USB разъем на роутерах ASUS. Так же, есть уже инструкция по настройке общего доступа к файлам на флешке, или внешнему HDD через Wi-Fi роутер, смотрим здесь. Но, в ней я писал о настройке обычного общего доступа по сети, и о настройке DLNA сервера. А сегодня мы рассмотрим настройку FTP сервера.
+К нему можно будет подключится как с компьютеров, так и с мобильных устройств на Android. Рассмотрим настройку подключения к FTP стандартным средством в Windows 10 (сам процесс практически ничем не отличается от Windows 7). В итоге, у нас будет роутер с подключенным накопителем, к которому у нас будет доступ с любого устройства, которое подключено к этому роутеру.
+Это очень удобно, если вы частенько обмениваетесь файлами между устройствами в своей локальной сети. А если есть необходимость, то можно будет создать учетные записи с разными правами доступа.
+Общий доступ к накопителю по FTP, через Wi-Fi роутер ASUS
+Берем нашу флешку, или внешний HDD, и подключаем к роутеру в USB разъем. Если на накопителе уже есть информация, то она не пропадет. Но, если там какие-то важные документы, то лучше скопировать их на компьютер. После подключения, желательно перезагрузить роутер.
+Дальше, на компьютере, который подключен к роутеру, запускаем любой браузер, и переходим по адресу 192.168.1.1. Появится страница авторизации. Укажите имя пользователя и пароль. Если вы их не меняли, то заводские admin и admin. Или, смотрим подробную инструкцию о том, как зайти на 192.168.1.1 в роутерах ASUS.
+Сразу на главной странице, там где карта сети, вы должны увидеть информацию по подключенному накопителю.
+В настройках переходим на вкладку "USB-приложение", и выбираем "Файл/Медиа-сервер".
+На новой странице сразу открываем вкладку "Общий ресурс в FTP", и напротив "Включить FTP" переводим переключатель в положение ON. Появится сообщение об открытии общего доступа к диску. Нажимаем Ok.
+Вот и все, сервер уже работает, и к нему можно подключится с вашего компьютера, или мобильных устройств. Сейчас я покажу, как это сделать. Но, перед этим, выясним некоторые моменты с общим доступом, и учетными записями для подключения к FTP.
+Как только мы запустили сервер, он работает с доступом по логину и паролю. По умолчанию, одна учетная запись – Admin. И это учетная запись самого роутера. То есть, для подключения к FTP серверу, нужно будет указать имя пользователя и пароль, которые вы указывали при входе в настройки роутера. Заводские admin и admin, и их можно сменить на вкладке "Администрирование" – "Система".
+А если вы хотите отключить авторизацию по логину и паролю, выполнять анонимное подключение к серверу, то напротив пункта "Разрешить анонимный вход" установите переключатель в положение ON.
+Но, тогда наш накопитель не будет защищен, и к серверу сможет подключится любой клиент, который подключен к роутеру. Я все таки советую не включать анонимный вход.
+Доступ к FTP серверу роутера ASUS с компьютера
+Адрес сервера, это сетевой адрес роутера. Если в настройки роутера заходим по 192.168.1.1, то FTP адрес будет таким: ftp://192.168.1.1/. Копируем этот адрес, заходим в Проводник (Мой компьютер), вставляем в адресую строку, и переходим по нему нажав Ентер.
+Должен появится запрос имени пользователя и пароля. Если вы не включили анонимный вход. Вводим имя пользователя и пароль, и попадает на накопитель, который подключен к роутеру. Можно в адресной строке набрать такую команду ftp://admin:admin@192.168.1.1/ (ftp://имя пользователя:пароль@192.168.1.1/).
+Так же, доступ можно получить набрав этот адрес в браузере, или через специальные FTP-клиенты.
+Что бы каждый раз не набирать адрес, можно создать подключение к сетевому диску. Как это сделать в Windows 7, я писал в инструкции по настройке FTP сервера на роутере TP-LINK. Ниже мы рассмотрим на примере Windows 10. Хотя, там все практически одинаково.
+Открываем "Этот компьютер", нажимаем на вкладку  "Файл", и выбираем "Подключить сетевой диск".
+В появившемся окне нажимаем на ссылку "Подключение к сайту, на котором можно хранить документы и изображения", и в следующем окне кликаем на кнопку "Далее".
+Кликаем два раза на пункт "Выберите другое сетевое расположение". Вводим в поле адрес нашего FTP сервера (скорее всего это ftp://192.168.1.1/), и нажимаем "Далее".
+В следующем поле вводим имя пользователя, под которым будем заходить на FTP сервер. Я его не менял, поэтому, у меня admin. Нажимаем "Далее". И еще одно поле, которое нужно заполнить – имя для нашей папки. Я написал просто "FTP ASUS". Вы можете задать любое название.
+В последнем окне нажимаем на кнопку "Готово". И сразу должна открыться созданная нами папка. И скорее всего появится еще запрос пароля от FTP сервера. Указываем его. Можете поставить галочку "Сохранить пароль" (что бы каждый раз не вводить его), и нажимаем кнопку "Вход".
+И если мы все задали правильно, то увидим наш накопитель. Точнее файлы, если они на нем есть.
+Эта папка будет всегда отображаться в "Мой компьютер" (Этот компьютер).
+Просто открываем ее, и получаем сразу доступ к накопителю. Можем смотреть файлы, удалять их, создавать новые (если у вас права администратора, или анонимный вход).
+Такую процедуру можно проделать на всех компьютерах (если их у вас несколько). А что бы подключить к FTP свой Android-смартфон, или планшет, используйте файловый менеджер "ES Проводник". Подробнее я писал в статье: подключение к FTP серверу с Android смартфона, или планшета.
+Дополнительные настройки учетных записей и доступа по FTP
+В настройках роутера ASUS, на вкладке с настройками FTP сервера, есть возможность создать дополнительных пользователей, и присвоить им разные права доступа, к разным папкам. Просто нажмите на кнопку "Добавить новую учетную запись".
+Укажите название учетной записи, и два раза пароль. Нажимаем на кнопку "Добавить".
+Для установки прав доступа, сначала нажимаем на созданную нами учетную запись. Дальше, раскрываем накопитель, и можем для каждой папки задать права доступа, просто установив переключатели.
+NO – нет доступа к папке.
+R – права только на чтение. Все, кто зайдет под этой учетной записью, смогут просматривать файлы, но не смогут их изменять.
+W – права на запись.
+R/W – полные права на считывание и запись.
+Для примера, я выставил для пользователя "help-wifi" права только на чтение, для всех папок на накопителе.
+Все сделано очень простои понятно. На роутерах TP-LINK, все намного сложнее в этом плане, на старой прошивке. Думаю, что в новой версии они уже все переделали. Можно без проблем настроить права доступа так, как это необходимо. Учетная запись администратора всегда имеет полные права.
+24
+Сергей
+Asus
+Похожие статьи
+Роутер Asus RT-N12E: настройка Wi-Fi и подключения к интернету
+Двойной WAN на роутере ASUS. Что это и как настроить?
+router.asus.com – не открывается, имя пользователя и пароль, как зайти
+Восстановление роутера ASUS после неудачной прошивки или DD-WRT
+Задать вопрос по статье
+Комментарии: 24
+Виктор
+16.11.2016 в 10:52 (3 года назад)
+Добрый день,
+сделал все по инструкции, но при подключении сетевого диска пишет, «не удается установить вязь с сервером». Хотя через браузер диск видно
+Ответить
+Сергей
+16.11.2016 в 11:06 (3 года назад)
+Добрый день. Возможно, допустили какую-то ошибку в настройке. Не могу подсказать подробнее.
+Ответить
+Михаил
+26.12.2016 в 21:55 (2 года назад)
+Здравствуте. А направить лог соединений клинетов к FTP-серверу в файл, как-то можно?
+Ответить
+Сергей
+26.12.2016 в 22:15 (2 года назад)
+Здравствуйте. Не могу подсказать.
+Ответить
+Orward
+13.01.2017 в 07:36 (2 года назад)
+Вчера настраивал в роутере FTP сервак, так вот, например, пользователь Ivan, права — «только чтение». Но прикол в том, что когда выставлены права либо «только чтение», или же «только запись», Иван не видит у себя в каталоге ничего, хотя файл там есть. Но стоит выставить в правах «чтение/запись», Иван видит все. Как это исправить?
+Ответить
+Сергей
+13.01.2017 в 11:15 (2 года назад)
+Не исключено, что это какой-то глюк в прошивке. Не могу подсказать решения.
+Ответить
+Денис Скрипник
+19.07.2017 в 11:21 (2 года назад)
+Здравствуйте. Как опубликовать ftp сервер?
+Имею в виду, какой адрес сервера вводить, находясь на другом компьютере, подключённому к другому подключению, например, 3g или другого вида.
+Благодарю.
+Ответить
+Сергей
+19.07.2017 в 11:49 (2 года назад)
+Здравствуйте. Вам нужен белый IP (постоянный), или настроить службу DDNS. Чтобы иметь доступ к FTP через интернет.
+Там настройка не самая простая, в рамках комментария об этом не написать. Постараюсь подготовить статью по этой теме, но не могу точно сказать когда.
+Ответить
+Денис Скрипник
+22.07.2017 в 06:11 (2 года назад)
+Здравствуйте. Ок. у меня ip постоянный.
+А как узнать, белый он или нет?
+Ответить
+Сергей
+22.07.2017 в 09:10 (2 года назад)
+Постоянный — значит белый.
+Ответить
+keldar
+12.10.2017 в 18:03 (2 года назад)
+постоянный, даже близко не значит какой! это значит что он постоянный и только!
+Ответить
+Сергей
+12.10.2017 в 18:11 (2 года назад)
+Да, все верно. Постоянный – не значит белый, я ошибался.
+На белый IP-адрес можно зайти с сети интернет. Например, для доступа к тому же FTP.
+А серый IP-адрес – это адрес из локальной сети провайдера. Так как белых IP очень мало, провайдеры выдают серые.
+Постоянным (статическим) может быть как белый, так и серый IP.
+Ответить
+Виталий
+04.11.2017 в 11:54 (2 года назад)
+Сегодня пытался подключить флэшку и у меня такой итог:
+1) Флешка на 64 с NTFS не работает. Все фильмы на ней недоступны и не видны. На самом роутере не виден ее объем и не проводится ее сканирование. Статус всегда — idle
+2) Флешка на 8 ГБ с FAT32 все. Все сканируется, все видно.
+Ранее юзал диск на 500Гб Тошиба, пока он не умер от старости. И он работал на NTFS без проблем (правда роутер был N16, а теперь N18).
+И вот вопрос — правильно я понял, что для больших файлов, где нужна NTFS флешка не подойдет и нужен HDD или кто-то пробовал?
+Заранее спасибо за помощь
+Ответить
+Сергей
+04.11.2017 в 18:22 (2 года назад)
+Я в NTFS флешку подключал. Все работало. Правда, флешка меньшего объема была.
+Ответить
+Чайник
+18.01.2018 в 12:55 (1 год назад)
+правильно ли я понимаю , что НЕ нужно оставлять ФТП-вход без пароля ?? Чем это грозит ? Кто-то может получить доступ к моим файлам ?? А если я поставлю очень сложный пароль ??
+Нужен ФТП , чтоб по своей сети (локальной) смотреть свой контент , без паролей и заморочек — жена не понимает всяких паролей .
+Ответить
+Сергей
+18.01.2018 в 13:10 (1 год назад)
+Доступ смогут получить только те устройства, которые к роутеру подключены. Ставьте нормальный пароль и все.
+Ответить
+Kenne
+08.02.2018 в 21:10 (1 год назад)
+А к ФТП на RT-N56U можно разрешить доступ только с определенных внешних IP адресов ?
+Ответить
+Сергей
+08.02.2018 в 21:18 (1 год назад)
+Не видел там такой функции.
+Ну и сам доступ к FTP через интернет еще не настраивал.
+Ответить
+Антон
+18.08.2018 в 12:56 (10 месяцев назад)
+Сделал все по инструкции. Из браузер, из избранного видно содержимое фтп со всех компьютеров, но записать файлы на фтп-сервер невозможно, пишет: «550 create operation directory failed. Убедитесь, что у Вас права помещать файлы на этот сервер.». Как исправить?
+Ответить
+Сергей
+18.08.2018 в 15:28 (10 месяцев назад)
+А вы заходите под именем пользователя роутера, или создавали другую учетную запись? Если нет, то попробуйте создать учетную запись, зайти под ее именем и копировать файлы.
+Хотя, я работал под учеткой роутера и у меня таких проблем не было.
+Как сетевой диск подключаете FTP-сервер (по инструкции)?
+Ответить
+Артем
+18.09.2018 в 20:03 (9 месяцев назад)
+Подскажите какой максимальный объем HDD можно подключить к роутеру ASUS RT-AC66U?
+Ответить
+Сергей
+18.09.2018 в 20:13 (9 месяцев назад)
+К сожалению, у меня нет такой информации. Это нужно обращаться в поддержку ASUS.
+Ответить
+Вячеслав
+02.05.2019 в 18:20 (1 месяц назад)
+Добрый день! Как НАСТРОИТЬ FTP в роутере ASUS RT-AS1200 чтоб просматривать видео с IP камеры посылаемое на флещку которая вставлена в роутер!?
+Ответить
+Сергей
+02.05.2019 в 22:32 (1 месяц назад)
+Добрый день. А камера уже пишет на эту флешку?
+Нужно настроить FTP-сервер, как показано в статье.
+Ваш провайдер должен выдавать вам белый внешний IP-адрес (через серый доступ не получить). Если он выдает белый IP-адрес, но он динамический, то можно настроить DDNS. Подробнее о белых/серых адресах и DDNS в статье: DDNS (динамический DNS) на роутере.
+Если у вас белый WAN-адрес, то доступ к FTP-серверу вы можете получить по адресу ftp://ваш-внешний-ip-адрес Ну и настройте учетные записи на роутере.
+Ответить
+Правила комментирования
+1. Все комментарии проходят проверку.
+2. Если Вы хотите задать вопрос, то опишите проблему как можно подробнее. Напишите конкретную информацию о проблеме.
+3. Комментарии с ненормативной лексикой, оскорблениями, и бессмысленные комментарии будут удалены.
+4. Запрещена реклама других сайтов, групп в социальных сетях, спам и т. д.
+5. Пожалуйста, пишите грамотно. Не пишите заглавными буквами.
+6. При ответе на комментарий, пожалуйста, нажимайте кнопку "Ответить".
+Добавить комментарий: Отменить ответ
+Прикрепить изображениеВыберите изображение для вашего комментария (GIF, PNG, JPG, JPEG):
+Можно выбрать максимум 3 изображения (зажав Ctrl). Максимальный размер изображения 2 МБ.
+Windows 10 - все инструкции по настройке интернета и решению проблем
+Настройка роутера - инструкции для разных моделей и производителей
+Полезные программы - для настройки HotSpot, Wi-Fi, 3G/4G модемов.
+192.168.0.1 / 192.168.1.1 - вход в настройки роутера или модема.Популярные статьи
+Как зайти в настройки роутера TP-Link?
+Как раздать Wi-Fi с ноутбука на Windows 10?
+192.168.1.1 – вход в систему роутера, логин и пароль admin
+Wi-Fi подключен, а интернет не работает. Страницы не открываются
+192.168.0.1 – вход в роутер, или модем. admin и admin
+Комментарии
+Алёна
+(39 минут назад):
+Благодарю за ответ. Когда перезагрузка роутера закончилась,
+страница ...
+Сергей
+(40 минут назад):
+Добрый день. Какая конкретно проблема/ошибка на ноутбуке? Опишите все ...
+Сергей
+(41 минута назад):
+Сделайте сброс настроек BIOS на ноутбуке.
+Выполните советы из этой статьи. ...
+Никита
+(41 минута назад):
+Если после обновления Windows7 возникает проблема с приемом Wifi ...
+Сергей
+(44 минуты назад):
+Вячеслав, я бы рад помочь, но не могу. Я не специалист в этих вопросах. С ...
+Павел
+(45 минут назад):
+Я не могу определить com порт, а без этого нельзя воспользоваться и MDMA. ...
+Павел
+(51 минута назад):
+Увы, но не видит. Уже разные варианты перепробовал :(
+Новые статьи
+Windows не удается связаться с устройством или ресурсом основной DNS-сервер. Как исправить?
+Установка и настройка Mesh Wi-Fi системы TP-Link Deco P7
+192.168.203.1 – настройка Miracast адаптера. Что делать, если не заходит в настройки MiraScreen и AnyCast?
+Ошибка «Чтобы сконфигурировать TCP/IP, следует установить и настроить сетевой адаптер» в Windows 10/8/7
+Обзор TP-Link Deco P7 – мощная Mesh Wi-Fi система с поддержкой Powerline
+Новые вопросы и ответы
+Как организовать одновременную раздачу интернета с ноутбука по Wi-Fi и LAN (по кабелю)?
+Пропадает доступ к настройкам роутера TP-LINK после подключения кабеля Ethetnet в WAN-порт
+Почему падает скорость через усилитель Wi-Fi сигнала в диапазоне 2.4 ГГц?
+Почему не работают все LAN-порты на роутере TP-Link?
+Не удается изменить частоту обновления HDMI дисплея в Windows 10: нет прав администратора
+Больше вопросов
+Новости
+Умные Wi-Fi лампы от TP-Link
+Трехдиапазонный роутер TP-LINK Archer C3200 уже в продаже
+Стартовали продажи 150-мегабитного LTE-роутера Huawei CPE B315
+D-Link DIR 850L – домашний роутер с гигабитным Wi-Fi
+Linksys EA9500: 3-диапазонный маршрутизатор от Linksys за 400 долларов
+Больше новостей
+Полезные статьи
+Как раздать Wi-Fi с ноутбука или компьютера без роутера
+Советы по выбору Wi-Fi роутера для дома, или квартиры
+Что такое роутер, как он работает, и чем отличается от маршрутизатора
+Информация о двухдиапазонных (Dual-Band) роутерах и Wi-Fi сети на частоте 5 GHz
+Скорость по Wi-Fi: почему роутер ее режет, и как увеличить скорость беспроводного соединения
+Радиус действия Wi-Fi сети: как его увеличить, и усилить беспроводную сеть
+Советы по решению разных проблем с интернетом на компьютере, смартфоне, планшете, телевизоре (Smart TV). Инструкции по настройке Wi-Fi роутеров.
+Копирование материалов с сайта help-wifi.com – запрещено.
+28.23 Mb / 0,48968 сек / 141 запросов.
+Карта сайта
+Подпишитесь на help-wifi.com

@@ -34,26 +34,17 @@ comm = 'cp output.txt mod_2_corpus_and_rule_based_der/Output/output.txt'
 res = os.popen(comm).read()
 
 
-comm = 'touch mod_2_corpus_and_rule_based_der/Database/ind.json && rm mod_2_corpus_and_rule_based_der/Database/ind.json'
-res = os.popen(comm).read()
-
-
-comm = 'node mod_2_corpus_and_rule_based_der/index.js index mod_2_corpus_and_rule_based_der/Database/ind.json mod_2_corpus_and_rule_based_der/Output/'
+comm = 'python3 mod_2_corpus_and_rule_based_der/NamedEntityRecognition.py mod_2_corpus_and_rule_based_der/Output/output.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types'
 res = os.popen(comm).read()
 print(res)
-print('.\n.\n.\n.\n')
-
-
-comm = 'python3 mod_2_corpus_and_rule_based_der/find_device_info.py mod_2_corpus_and_rule_based_der/Database/vendors'
-res = os.popen(comm).read()
-print('Predicted Vendor Name ', res)
-
-
-comm = 'python3 mod_2_corpus_and_rule_based_der/find_device_info.py mod_2_corpus_and_rule_based_der/Database/device_types'
-res = os.popen(comm).read()
-print('Predicted Device Type ', res)
-
 
 comm = 'touch output.txt && rm output.txt'
 res = os.popen(comm).read()
-print('Done.')
+
+
+comm = 'cp raw.txt mod_3_local_dependency_finder/raw.txt && rm raw.txt'
+res = os.popen(comm).read()
+comm = 'cp predictions.json mod_3_local_dependency_finder/predictions.json && rm predictions.json'
+res = os.popen(comm).read()
+
+print('Now Last Step....')

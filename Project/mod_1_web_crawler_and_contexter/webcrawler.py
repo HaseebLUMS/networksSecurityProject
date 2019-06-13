@@ -92,13 +92,14 @@ def getText(url):
 	chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
 	text = '\n'.join(chunk for chunk in chunks if chunk)
 
-	r = Rake()
-	r.extract_keywords_from_text(text)
-	keywords = r.get_ranked_phrases()
-	res = ""
-	for k in keywords:
-		res += (" " + k)
-	return res
+	return text
+	# r = Rake()
+	# r.extract_keywords_from_text(text)
+	# keywords = r.get_ranked_phrases()
+	# res = ""
+	# for k in keywords:
+	# 	res += (" " + k)
+	# return res
 
 
 
@@ -118,12 +119,28 @@ def create_output():
 		try:
 			if page_limit:
 				text = getText(url)
-				with open('output.txt', 'a+') as f:
+				with open('raw.txt', 'a+') as f:
 					tmp = '\n==============='+ url+ '================\n'
 					f.write(tmp)
 					pages_searched = 1
 					print(url, " : success")
 					f.write(text)
+
+				with open('output.txt', 'a+') as f:
+					r = Rake()
+					r.extract_keywords_from_text(text)
+					keywords = r.get_ranked_phrases()
+					res = ""
+					for k in keywords:
+						res += (" " + k)
+					text = res
+					tmp = '\n==============='+ url+ '================\n'
+					f.write(tmp)
+					pages_searched = 1
+					print(url, " : success")
+					f.write(text)
+
+					
 			page_limit -= 1
 
 			time.sleep(2)
