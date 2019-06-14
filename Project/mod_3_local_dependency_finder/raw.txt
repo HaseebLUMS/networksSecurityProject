@@ -50,7 +50,7 @@ Super Moderator
 Joined:
 Apr 14, 2012
 Messages:
-30,364
+30,367
 Location:
 Canada
 oric1 said:
@@ -96,7 +96,7 @@ Super Moderator
 Joined:
 Apr 14, 2012
 Messages:
-30,364
+30,367
 Location:
 Canada
 Don't add a forward rule.
@@ -133,7 +133,7 @@ Super Moderator
 Joined:
 Apr 14, 2012
 Messages:
-30,364
+30,367
 Location:
 Canada
 Make sure your modem isn't also acting as a router, creating a double NAT issue, and blocking any packets before they even reach your Asus router.
@@ -170,7 +170,7 @@ Super Moderator
 Joined:
 Apr 14, 2012
 Messages:
-30,364
+30,367
 Location:
 Canada
 If the web interface is accessible, then you don't have any double NAT problem.
@@ -358,7 +358,7 @@ Super Moderator
 Joined:
 Apr 14, 2012
 Messages:
-30,364
+30,367
 Location:
 Canada
 So you do connect, only you have issues listing folder content.
@@ -481,7 +481,7 @@ Super Moderator
 Joined:
 Apr 14, 2012
 Messages:
-30,364
+30,367
 Location:
 Canada
 Yes, PORT is the same thing as "active", tho it's not called active mode.
@@ -521,7 +521,7 @@ Super Moderator
 Joined:
 Apr 14, 2012
 Messages:
-30,364
+30,367
 Location:
 Canada
 oric1 said:
@@ -602,59 +602,56 @@ NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed
 Introduction To The TR-398 Wi-Fi Performance Test
 A New Door Opens
 Synology DS119j $100 NAS Reviewed
-QNAP TS-332X Three Bay 10GbE NAS Reviewed
 ASUS Blue Cave AC2600 Dual-Band Wireless Router Reviewed
-160 MHz Wi-Fi Channels: Revisited
+QNAP TS-332X Three Bay 10GbE NAS Reviewed
+Phicomm K3C AC1900 MU-MIMO Gigabit Router Reviewed
 Sign Up!
 Sign up for the SNBForums Daily Digest!Keep track of everything that happened today. It's emailed only once a day and you can unsubscribe any time.
 Members Online Now
-Love,
-garryj,
-skeal,
-ColinTaylor,
-TheBarzFR,
-rZn,
-Igor469,
-joma_po,
-Noble,
-Swistheater,
-MDM,
-Trexx,
-FQs19,
-Therion87,
-^Tripper^,
-kokishin,
-Alfsu,
-saccleo,
-kalpik,
-underdose,
-cmkelley,
-Julio,
-drabisan,
-Authority,
+FLA_NL,
+Stevie,
+Grisu,
+Ro berto,
+darkblack,
+Zendilar,
+predatorz,
+peekeesh,
+supergroover,
+Ian72,
+TAG02,
+patrickgerry,
+HoopsRsa,
+Jimmyhuman,
+goncalob,
+ASadani,
+VANT,
+Stardust,
+dgcruzing,
 martinr,
-Grimluhn,
-whitey019,
-Gar,
-WirelessWonk,
-srdjan.rajkovic1,
-blueshark,
-pyrodex,
-PolarBear,
-dctrbnsttr,
-jason.staples.33,
-clweb
-Total: 508 (members: 40, guests: 390, robots: 78)
+mobileman88
+Total: 417 (members: 25, guests: 331, robots: 61)
 Forum Statistics
 Discussions:
-46,002
+46,008
 Messages:
-472,644
+472,760
 Members:
-43,202
+43,206
 Latest Member:
-Armani2222
+Kohina
 New Threads
+VIVPN?
+Stardust posted Jun 14, 2019 at 3:47 AM
+Underclock RT-AC86U NVRAM Commands?
+Kohina posted Jun 14, 2019 at 2:58 AM
+Does diversion etc block ads on...
+heysoundude posted Jun 13, 2019 at 6:50 PM
+is their any use or validity to...
+sparks posted Jun 13, 2019 at 5:48 PM
+settings that hurt your router...
+Ssmasterone posted Jun 13, 2019 at 3:54 PM
+Asus RT-AC86u - What is the...
+TUT posted Jun 13, 2019 at 1:30 PM
 Speed loss with FW above...
 Armani2222 posted Jun 13, 2019 at 11:54 AM
 AiCloud does not show devices...
@@ -663,18 +660,6 @@ Stock Firmware - RT-AC1900 (WAN...
 ihoman202 posted Jun 13, 2019 at 10:53 AM
 Wake On WAN (WOW) on Asus RT-AC68U
 henrycao posted Jun 13, 2019 at 10:22 AM
-What does this 86U log entry mean?
-OzarkEdge posted Jun 13, 2019 at 10:11 AM
-Security OpenVPN vs. TOR
-hurich posted Jun 13, 2019 at 10:06 AM
-RT-N66U Can't login to GUI
-Skeptical.me posted Jun 13, 2019 at 9:07 AM
-Reboot command to reboot Imesh Node
-Sebastien Bougie posted Jun 13, 2019 at 8:33 AM
-VPN via a PC
-royarcher posted Jun 13, 2019 at 4:44 AM
-how to hold iptable rules?
-saccleo posted Jun 13, 2019 at 3:57 AM
 Loading...
 SmallNetBuilder Forums
 Home
@@ -930,59 +915,56 @@ NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed
 Introduction To The TR-398 Wi-Fi Performance Test
 A New Door Opens
 Synology DS119j $100 NAS Reviewed
-QNAP TS-332X Three Bay 10GbE NAS Reviewed
 ASUS Blue Cave AC2600 Dual-Band Wireless Router Reviewed
-160 MHz Wi-Fi Channels: Revisited
+QNAP TS-332X Three Bay 10GbE NAS Reviewed
+Phicomm K3C AC1900 MU-MIMO Gigabit Router Reviewed
 Sign Up!
 Sign up for the SNBForums Daily Digest!Keep track of everything that happened today. It's emailed only once a day and you can unsubscribe any time.
 Members Online Now
-Love,
-garryj,
-skeal,
-ColinTaylor,
-TheBarzFR,
-rZn,
-Igor469,
-joma_po,
-Noble,
-Swistheater,
-MDM,
-Trexx,
-FQs19,
-Therion87,
-^Tripper^,
-kokishin,
-Alfsu,
-saccleo,
-kalpik,
-underdose,
-cmkelley,
-Julio,
-drabisan,
-Authority,
+FLA_NL,
+Stevie,
+Grisu,
+Ro berto,
+darkblack,
+Zendilar,
+predatorz,
+peekeesh,
+supergroover,
+Ian72,
+TAG02,
+patrickgerry,
+HoopsRsa,
+Jimmyhuman,
+goncalob,
+ASadani,
+VANT,
+Stardust,
+dgcruzing,
 martinr,
-Grimluhn,
-whitey019,
-Gar,
-WirelessWonk,
-srdjan.rajkovic1,
-blueshark,
-pyrodex,
-PolarBear,
-dctrbnsttr,
-jason.staples.33,
-clweb
-Total: 508 (members: 40, guests: 391, robots: 77)
+mobileman88
+Total: 420 (members: 25, guests: 334, robots: 61)
 Forum Statistics
 Discussions:
-46,002
+46,008
 Messages:
-472,644
+472,760
 Members:
-43,202
+43,206
 Latest Member:
-Armani2222
+Kohina
 New Threads
+VIVPN?
+Stardust posted Jun 14, 2019 at 3:47 AM
+Underclock RT-AC86U NVRAM Commands?
+Kohina posted Jun 14, 2019 at 2:58 AM
+Does diversion etc block ads on...
+heysoundude posted Jun 13, 2019 at 6:50 PM
+is their any use or validity to...
+sparks posted Jun 13, 2019 at 5:48 PM
+settings that hurt your router...
+Ssmasterone posted Jun 13, 2019 at 3:54 PM
+Asus RT-AC86u - What is the...
+TUT posted Jun 13, 2019 at 1:30 PM
 Speed loss with FW above...
 Armani2222 posted Jun 13, 2019 at 11:54 AM
 AiCloud does not show devices...
@@ -991,18 +973,6 @@ Stock Firmware - RT-AC1900 (WAN...
 ihoman202 posted Jun 13, 2019 at 10:53 AM
 Wake On WAN (WOW) on Asus RT-AC68U
 henrycao posted Jun 13, 2019 at 10:22 AM
-What does this 86U log entry mean?
-OzarkEdge posted Jun 13, 2019 at 10:11 AM
-Security OpenVPN vs. TOR
-hurich posted Jun 13, 2019 at 10:06 AM
-RT-N66U Can't login to GUI
-Skeptical.me posted Jun 13, 2019 at 9:07 AM
-Reboot command to reboot Imesh Node
-Sebastien Bougie posted Jun 13, 2019 at 8:33 AM
-VPN via a PC
-royarcher posted Jun 13, 2019 at 4:44 AM
-how to hold iptable rules?
-saccleo posted Jun 13, 2019 at 3:57 AM
 Loading...
 SmallNetBuilder Forums
 Home
@@ -1189,59 +1159,56 @@ NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed
 Introduction To The TR-398 Wi-Fi Performance Test
 A New Door Opens
 Synology DS119j $100 NAS Reviewed
-QNAP TS-332X Three Bay 10GbE NAS Reviewed
 ASUS Blue Cave AC2600 Dual-Band Wireless Router Reviewed
-160 MHz Wi-Fi Channels: Revisited
+QNAP TS-332X Three Bay 10GbE NAS Reviewed
+Phicomm K3C AC1900 MU-MIMO Gigabit Router Reviewed
 Sign Up!
 Sign up for the SNBForums Daily Digest!Keep track of everything that happened today. It's emailed only once a day and you can unsubscribe any time.
 Members Online Now
-Love,
-garryj,
-skeal,
-ColinTaylor,
-TheBarzFR,
-rZn,
-Igor469,
-joma_po,
-Noble,
-Swistheater,
-MDM,
-Trexx,
-FQs19,
-Therion87,
-^Tripper^,
-kokishin,
-Alfsu,
-saccleo,
-kalpik,
-underdose,
-cmkelley,
-Julio,
-drabisan,
-Authority,
+FLA_NL,
+Stevie,
+Grisu,
+Ro berto,
+darkblack,
+Zendilar,
+predatorz,
+peekeesh,
+supergroover,
+Ian72,
+TAG02,
+patrickgerry,
+HoopsRsa,
+Jimmyhuman,
+goncalob,
+ASadani,
+VANT,
+Stardust,
+dgcruzing,
 martinr,
-Grimluhn,
-whitey019,
-Gar,
-WirelessWonk,
-srdjan.rajkovic1,
-blueshark,
-pyrodex,
-PolarBear,
-dctrbnsttr,
-jason.staples.33,
-clweb
-Total: 508 (members: 40, guests: 391, robots: 77)
+mobileman88
+Total: 421 (members: 25, guests: 335, robots: 61)
 Forum Statistics
 Discussions:
-46,002
+46,008
 Messages:
-472,644
+472,760
 Members:
-43,202
+43,206
 Latest Member:
-Armani2222
+Kohina
 New Threads
+VIVPN?
+Stardust posted Jun 14, 2019 at 3:47 AM
+Underclock RT-AC86U NVRAM Commands?
+Kohina posted Jun 14, 2019 at 2:58 AM
+Does diversion etc block ads on...
+heysoundude posted Jun 13, 2019 at 6:50 PM
+is their any use or validity to...
+sparks posted Jun 13, 2019 at 5:48 PM
+settings that hurt your router...
+Ssmasterone posted Jun 13, 2019 at 3:54 PM
+Asus RT-AC86u - What is the...
+TUT posted Jun 13, 2019 at 1:30 PM
 Speed loss with FW above...
 Armani2222 posted Jun 13, 2019 at 11:54 AM
 AiCloud does not show devices...
@@ -1250,18 +1217,6 @@ Stock Firmware - RT-AC1900 (WAN...
 ihoman202 posted Jun 13, 2019 at 10:53 AM
 Wake On WAN (WOW) on Asus RT-AC68U
 henrycao posted Jun 13, 2019 at 10:22 AM
-What does this 86U log entry mean?
-OzarkEdge posted Jun 13, 2019 at 10:11 AM
-Security OpenVPN vs. TOR
-hurich posted Jun 13, 2019 at 10:06 AM
-RT-N66U Can't login to GUI
-Skeptical.me posted Jun 13, 2019 at 9:07 AM
-Reboot command to reboot Imesh Node
-Sebastien Bougie posted Jun 13, 2019 at 8:33 AM
-VPN via a PC
-royarcher posted Jun 13, 2019 at 4:44 AM
-how to hold iptable rules?
-saccleo posted Jun 13, 2019 at 3:57 AM
 Loading...
 SmallNetBuilder Forums
 Home
@@ -1524,7 +1479,7 @@ D
 Asus Router for VPN
 Networking
 3
-Yesterday at 12:02 PM
+Wednesday at 12:02 PM
 Asus routers - go 3rd-party firmware, never go back?
 Networking
 6
@@ -1547,7 +1502,7 @@ Similar threads
 D
 Asus Router for VPN
 Started by dryfly
-Yesterday at 12:02 PM
+Wednesday at 12:02 PM
 Replies: 3
 Networking
 Asus routers - go 3rd-party firmware, never go back?
@@ -1639,23 +1594,23 @@ H
 [Rumor, Tweaktown] AMD to launch next-gen Navi graphics cards at E3
 Started by Hitman928
 Apr 15, 2019
-Replies: 1,406
+Replies: 1,447
 Graphics Cards
 Speculation: Ryzen 3000 series
 Started by Vattila
 Dec 4, 2018
-Replies: 4,243
-CPUs and Overclocking
-Your Geekbench 4 results
-Started by CHADBOGA
-Tuesday at 11:36 PM
-Replies: 31
+Replies: 4,249
 CPUs and Overclocking
 U
 The disappointing slowdown CPU progress in last 6 years vs 4 years before (10 yrs) ago
 Started by unseengundam101
-Yesterday at 12:17 AM
-Replies: 39
+Wednesday at 12:17 AM
+Replies: 47
+CPUs and Overclocking
+Your Geekbench 4 results
+Started by CHADBOGA
+Tuesday at 11:36 PM
+Replies: 35
 CPUs and Overclocking
 Ryzen: Strictly technical
 Started by The Stilt
@@ -1781,8 +1736,8 @@ Download
 网站正文
 关闭
 正在加载统计信息......
-搜索 city="Krmelin" 获得 1,206 条匹配结果 (独立IP数为
-条)， 用时 16 毫秒，模式: extended。
+搜索 city="Krmelin" 获得 1,205 条匹配结果 (独立IP数为
+条)， 用时 2469 毫秒，模式: extended。
 默认只显示一年内的数据，点击 all 链接查看所有。
 ← 上一页 1 2 3 4 5 6 7 … 121 下一页 →
 188.175.39.104
@@ -1975,6 +1930,434 @@ English
 &nbsp &nbsp 简体中文
 zh-CN
 版权所有 © 白帽汇 2015 - 2019. All Rights Reserved 粤ICP备16088626号. Version 3.4.270
+===============https://fofa.so/result?qbase64=Y2l0eT0iVmF4am8iICYmIHByb3RvY29sPWZ0cA%3D%3D================
+FOFA Pro - 搜索结果
+问题反馈
+问题反馈关闭
+请详细描述您要反馈的内容
+请留下您的手机号或邮箱，方便我们与您联系(选填)
+验证码
+提交
+规则专题
+API&SDK
+规则列表
+Fofa客户端
+VIP会员
+切换导航
+规则列表
+规则专题
+企业版
+API&SDK
+客户端
+VIP会员
++1积分
+登录与注册
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=Y2l0eT0iVmF4am8iICYmIHByb3RvY29sPWZ0cA==
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+输入错误，请输入正确再查询
+收藏规则
+下载数据
+使用API
+×Close
+Download
+文件正在导出，可在个人中心的下载记录查询文件状态
+数据文件会保存10天,10天后文件可能会被清除,请尽快下载。
+×关闭
+网站正文
+关闭
+正在加载统计信息......
+搜索 city="Vaxjo" && protocol=ftp 获得 418 条匹配结果 (独立IP数为
+条)， 用时 20 毫秒，模式: extended。
+默认只显示一年内的数据，点击 all 链接查看所有。
+← 上一页 1 2 3 4 5 6 7 … 42 下一页 →
+158.174.87.114
+21
+ftp
+158.174.87.114
+2019-06-14
+Sweden
+/
+Vaxjo
+ASN:
+8473
+组织:
+Bahnhof AB
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+194.47.125.130
+21
+ftp
+194.47.125.130
+2019-06-14
+Sweden
+/
+Vaxjo
+ASN:
+1653
+组织:
+SUNET SUNET Swedish University Network
+220 AXIS P1357 Network Camera 6.50.2.3 (2018) ready.
+81.170.146.26
+9090
+ftp
+81.170.146.26
+2019-06-13
+Sweden
+/
+Vaxjo
+ASN:
+8473
+组织:
+Bahnhof AB
+220 FTP Server ready.
+83.233.196.150
+21
+ftp
+83.233.196.150
+2019-06-10
+Sweden
+/
+Vaxjo
+220 Welcome to ASUS RT-AC58U FTP service.
+81.231.121.140
+25
+ftp
+81.231.121.140
+2019-06-10
+Sweden
+/
+Vaxjo
+421 4.3.2 Service not available
+194.47.125.129
+21
+ftp
+194.47.125.129
+2019-06-10
+Sweden
+/
+Vaxjo
+220 AXIS P1357 Network Camera 6.50.2.3 (2018) ready.
+31.210.249.136
+21
+ftp
+31.210.249.136
+2019-06-10
+Sweden
+/
+Vaxjo
+220 Inactivity timer = 120 seconds. Use 'site idle <secs>' to change.
+89.160.84.177
+21
+ftp
+89.160.84.177
+2019-06-10
+Sweden
+/
+Vaxjo
+220 Welcome to ASUS RT-AC68U FTP service.
+31.210.253.138
+21
+ftp
+31.210.253.138
+2019-06-10
+Sweden
+/
+Vaxjo
+220 Operation successful
+194.47.125.126
+21
+ftp
+194.47.125.126
+2019-06-10
+Sweden
+/
+Vaxjo
+220 AXIS P1357 Network Camera 6.50.3 (2018) ready.
+← 上一页 1 2 3 4 5 6 7 … 42 下一页 →
+下载所有图片
+正在加载图标信息......
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=Y2l0eT0iVmF4am8iICYmIHByb3RvY29sPWZ0cA==
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+白帽汇
+服务热线：400-650-2031
+联系邮箱：service@baimaohui.net
+地址：北京市朝阳区东三环北路天元港B座10层
+产品
+企业版>
+NOSEC
+FOEYE
+BCSEC
+信息
+关于我们
+帮助文档
+English
+&nbsp &nbsp 简体中文
+zh-CN
+版权所有 © 白帽汇 2015 - 2019. All Rights Reserved 粤ICP备16088626号. Version 3.4.270
+===============http://starvalet.net/xlup/svvt.php?gohb=5&twoxbta=176&qs887=ssh-asus-router================
+Ssh asus router
+Ready-to-Fill Disposable Liquids Totes
+The Ready-to-Fill design offers all of the material handling advantages of a rigid Intermediate-Bulk-Container (IBC) with all the benefits of a disposable IBC. J Hill Container™ Ready-to-Fill totes are an ideal replacement for drums, returnable totes, bottle-in-cage IBCs, and other corrugated IBCs. Reduce your time and labor required for the filling, emptying, and handling of multiple containers with one Ready-to-Fill Tote replacing up to six drums and carrying up to 330 gallons of liquid.
+As a replacement for returnable totes, Ready-to-Fill Totes eliminate the high cost of maintenance and return transportation. Versatile use with industrial chemicals (such as: adhesives, diesel exhaust fluid (DEF), water-based emulsions, heavy greases, lubricating oils, surfactants, paints, and coatings), and aseptic, white room or bulk commodities (such as: fruit juices, fruit purees, glycerin, propylene glycol, edible oils, fish oil, salad dressings, molasses, wine, liquid sweeteners and flavorings).
+Ssh asus router
+Ssh asus router
+ssh/config: Host router Hostname ddnshostname User myuser KexAlgorithms +diffie-hellman-group1-sha1 In short, I already can access the router via SSH and FTP but I'd like the security and ease of use of SSHFS (or similar!).
+Products.
+then you have no other way in.
+So finally I got the idea to SSH into the router (ASUS Merlin firmware at least has the option to enable an internal SSH server in the router). trx firmware to the router using one of the included commands shown in the imagebin link. 03 BRCM47XX firmware.
+To check if you have SSH available, go to Administration > System in the router configuration interface.
+ASUS router firmware affected by root command execution flaw January 9, 2015 By Pierluigi Paganini Several ASUS routers include a service that listens on UDP broadcast port 9999 on the LAN interface and contains an unauthenticated command execution flaw.
+Install USB stick.
+Accessories; Access Points, Range Extenders & Bridges â¢ Port forwarding to PS3 / PS4 from Asus RT-AC88U router â¢ Port forwarding for Minecraft server on Asus RT-AC88U router â¢ Port forwarding for utorrent on Asus RT-AC88U router â¢ Port forwarding for IP cameras, SQL Server, FTP Server, SSH Clients, IpTables on Asus RT-AC88U router Disable Telnet and SSH.
+Then, the login banner password prompt displays.
+How to configure SSH on Cisco Routers and Switches by Remy Pereira on 03rd February 2015 Once you complete initial setup and configuration of your Cisco switch or router using a console, you may want to manage the device remotely.
+1 port 80. 380.
+Bandwidth limiter should be off.
+This is a great little script that someone made for Asus routers and a few others.
+The article shares the commands that could be used to clear DNS cache in a Asus 1900RT router. 4.
+I just got an asus dsl-ac68u modem/router and I noticed it has ssh access. dyndns. 1 into your browser, it automatically goes to the default 443 port.
+SSH connection is used by administrators that want to connect to a device in a secure manner.
+Toggle navigation.
+On Asus RT-N12E/LX installed firmware version 2. 4180, which fixes security vulnerabilities regarding XSS and CSRF, as well as adds protection against Brute-force attacks. 99) The Asus RT-AC5300 is the Death Star of wireless routers.
+Monitoring ASUS RT-N66U. org.
+If you get one of these, you can skip steps 5-10 of the guide.
+Select the option that you wish to use and then apply to save the settings to the router. 168.
+This will create an SSH connection from your local host to yourhostname. 0.
+SSH or telnet to the router.
+Cisco router SSH Overclock.
+The really good news is, I figured out how to get the functionality I wanted while still using the official ASUS firmware.
+I'm looking at some online YouTube menu setups for the aforesaid router, but I didn't really see anything labeled VLAN.
+Click the WAN link.
+output: routername# I have an Asus DSL-AC68U router.
+ssh -p10022 user-on-machine-2@0.
+We will walk you through each step in the process to get your ports forwarded on the Asus RT-AC87U router. sh" without the quotes. 1.
+I noticed that the update has a setting to use TELNET and SSH, so if someone could help me get the WINSCP and PUTTY to note the name change, maybe the app would work. exe -ssh <IP> p 22 -l <user> -pw <mypassword> output TS# using that command, Putty will open directly to TS#, then I input the router name in Putty to go to the router.
+Overclockers UK Forums.
+If your firmware permits SSH, there will be a setting to Enable SSH.
+With impressive performance approaching enterprise class routing capability and second-to-none Wifi performance, (for an unmanaged single unit) they're hard to beat for the enthusiast market.
+Full controlling the ASUS router via command line.
+In the case of routers, it can be used to change settings remotely, but this is an option for advanced I am trying to create a automatic ssh tunnel between 2 dd-wrt Asus routers:one as ssh server and the other as ssh client.
+Imagine a router company that leaves their router open to the internet for any person to gain access and reboot it!! You will need a secure connection like VPN or SSH to connect.
+SSH is especially dangerous, could let someone have access to your router through a console port where they can basically do anything they want.
+I am able to ROG Strix GeForceÂ® RTX 2080 OC edition 8GB GDDR6, made for driving 4K display resolution and VR.
+First, make a backup of your sshd_config file by copying it to your home directory, or by making a read-only copy in /etc/ssh by doing: How to Set Up Port Forwarding on a Router.
+Use Afraid Custom Dynamic DNS on Asus Routers.
+When I (Tatu Ylonen first published this story in April 2017, it went viral and got about 120,000 readers in three days.
+Merlin have many features that original firmware don't have e.
+When you enter https://192.
+The default SSH port is 22.
+wireless-ac1900 dual band gigabit router.
+Over the past few years Iâve tried a few times to successfully configure a Router to Router VPN tunnel using Asus Routers.
+February 11, 2016 / Christopher Paquin.
+I can easily ssh to it: ssh router After having configured the proper options in .
+after this I got a router prompt and could explore the router OS.
+If I Trouble with Asus router Device tracking.
+Hackerman is somehow remotely stealing login credential and were able log in first try. 57 LAN IP: 192.
+Here "admin" is the router username and 192.
+I am able to connect to the router with telnet and see its file system.
+Using the following commands I can connect to terminal servers: putty.
+All Pick the guide that most closely matches your router.
+If you are thinking of control of the router in the sense of access to the router's webui (i.
+GearHead Support for Home Users. Use a SSH client like PuTTy to connect to your router and to be able to run the commands below.
+The ASUS RT-N56U wireless router ranks up there on wireless performance, and the âfeatureâ I was really after was a router that can run an alternative firmware such as Tomato or DD-WRT.
+output: routername# A root command execution vulnerability exists in ASUS routers that can be used to compromise the routers.
+Code: cd /jffs/scripts. .
+re: how to login to router using ssh ? Darren Guse Nov 2, 2012 10:49 AM ( in response to 1byn_mncn ) Don't forget that on the laptop side you will need to run a program line putty. net How to configure Dual WAN on AsusWRT routers 2014 ASUS RT-AC56U network administration.
+If I plug directly into the u-verse router, it works.
+My minimalist setup (WIP): TTY on second GPU, startx, i3, dunst, neomutt, ranger I downloaded the asus router app and tried to turn on bandwidth limiter and set it to 1000mbps but that made it worse from 140mbps it dropped to 80+mbps.
+Block Adds completely from internal router level.
+How to Port Mirror with asus-merlin firmware Log on to your router via SSH and write after couple minutes, my router reset, I connect to the router via cable, and setup wifi.
+If so, choose Yes, then Apply.
+T-Mobile just disabled SSH on the Asus ac-1900 You can buy this router (or get it for free during the promotion) from T-Mobile and it is a rebranded custom With your browser, login again to the standard Asus UI page of the router So if you don't have the expertise to telnet/ssh to your router, don't despair, it is A custom firmware for Asus routers.
+However, in this situation your password will be sent as plain text that is not safe.
+This is a story of how it got that port.
+Now you can either telnet or SSH to your router using its LAN IP address.
+The Connect button is not enabled if you do not enter the host name and username.
+Alas, ASUS does I am trying to flash a custom firmware to my asus rt-n300 router , the asus firmware application doesn't work , i am able to access the router using ssh (putty, and winSCP) and i wanted to ask if its possible to flash the .
+Updated At this step, you need to login to your router via SSH, use Putty if you're on Windows.
+Enabling your router's remote management.
+I've enabled telnet on the router, I've got a SSH key pair file, I've followed a few different guides, but something is $ ssh testuser@router Welcome to EdgeOS By logging in, accessing, or using the Ubiquiti product, you acknowledge that you have read and understood the Ubiquiti I downloaded the asus router app and tried to turn on bandwidth limiter and set it to 1000mbps but that made it worse from 140mbps it dropped to 80+mbps.
+Root Command Execution Flaw Haunts ASUS Routers.
+Check what TUN you have in the router via ssh Command If you want more router options, check out our 5 best DD-WRT routers article.
+ICO ICNS PNG.
+Router 2 (VPN Router): ASUS RT-87U, Merlin 380. 1:80 yourhostname. x vs 192.
+Accessories; Access Points, Range Extenders & Bridges How to Recover, Reset Wireless Password In Asus Router ? Posted on July 9, 2017 January 23, These were the steps to Reset a Wireless Password in Asus Router. 1 DNS: use secure DNS servers here DHCP enabled. Enable SSH on Asus Routers.
+Finding the port forwarding section.
+System Administration for the Asus RT-AC3100 - Asuswrt-MerlinRouter Sceenshot Back to the Asus RT-AC3100 - Asuswrt-Merlin ASUS Wireless Router RT-AC3100 - System Administration - System Change the router login password, time zone, and NTP server settings.
+October 15, 2013 Uncategorized network teemu.
+Change the router login password: Web UI SSH Telnet (LAN Dynamic port forwarding: connections from various programs are forwarded via the SSH client, then via the SSH server, and finally to several destination servers. exe in order to do ssh.
+To setup router automatic reboot, login into your router using SSH.
+Connect.
+How to port mirror on your Asus router using asus-merlin custom firmware.
+1 is the router IP on the LAN However if I issue the same command with my current Netgear router/modem I get the response I am trying to connect to a router directly using Putty. org (which is a host inside your network).
+Since Asus puts a curve ball into the situation by changing the HTTPS LAN port to 8443 your browser misses the router unless it scans all ports for any address.
+So I figured this was a good article to write about. 162.
+Spanning 2.
+OpenDNS; Quickly access parts of the D-Link site.
+See an Asus UI sample.
+Link For WinSCP : http://winscp.
+If you need either, then enable it, use it, then disable again.
+To make troubleshooting easier, you can set client router's SSID to something different.
+The story of getting SSH port 22.
+Entering the data to make a port forward entry.
+ICO ICNS PNG System Administration for the Asus TM-AC1900Router Sceenshot ASUS Wireless Router TM-AC1900 - System TM-AC1900 Logout Reboot English Portuguese(Brazil I have an ASUS RT-N66U router with Merlin firmware, itâs really easy to catch this button in action.
+Remote port forwarding is less common.
+So far, I have following questions: 1. net/eng/download.
+that didn't seem to be easily doable on this new router, but since it supports logging in via ssh, ASUS has provided its RT-AC3100 users with a new firmware package, namely version 3.
+The '-L' will create a SSH tunnel from port 10080 to the router at 192.
+Or are you? Cron is the well-known method of scheduling tasks for Unix, the equivalent of "at" on Windows.
+To describe it in plain English: The first command starts up an ssh session with the router on port 22 and sets up ssh port-forwading binding your localhost's port 10022 to the machine-2-local-ip address on port 22 (as visible from the router).
+Want to run a task on a regular schedule on your ASUS wireless router? Well, you're out of luck.
+how to create the ssh key for the client router to be put on the ssh server trusted host key list System Administration for the Asus TM-AC1900Router Sceenshot ASUS Wireless Router TM-AC1900 - System TM-AC1900 Logout Reboot English Portuguese(Brazil ssh -p10022 user-on-machine-2@0. php Link For Put Connecting to the router using SSH.
+Forgot how but not too Asus has been doing an increasingly impressive job in the "home" WiFi router market.
+Router 1 (LAN Port) - Router 2 (WAN Port) Router 1: Fritzbox 7170 for ISP connection, used in Router mode on VDSl 50/10 LAN IP: 192.
+ASUS has released a new firmware package targeted at its RT-AC87U wireless router, namely version 3.
+Discussion in 'Asuswrt-Merlin NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed; ASUS RT-AC86U Dual Band AC2900 Here is quick howto flash or update Merlin firmware to Asus wifi router via ssh.
+Welcome to the official website for the Asuswrt-Merlin firmware project, a third party alternative firmware for Asus routers, with a special emphasis on tweaks and fixes rather than radical changes or collecting as many features as possible.
+July 21, 2017 Setup Wake on Wan with the Asus RT-AC68U router and the Synology DS216j NAS.
+In order to install nano onto the Asus routers you need a flash drive or USB hard drive plugged into the router.
+10200:10300), the LAN IP address, and leave the Local Port empty.
+My purpose is not to document the use of cron - it is well documented elsewhere.
+Install AsusWRT-Merlin custom firmware to extend the functionality of your Asus wireless router.
+2.
+All you need to do is connect to the router with SSH (putty) or a terminal and type "entware-setup.
+SSH (Secure Shell), and HNAP (Home Network Administration Protocol) should not be reachable from the How to ssh into a server running on a home network, behind a router? just us the -L flag at ssh command you can ssh to your router's IP, and it will be How to Recover, Reset Wireless Password In Asus Router ? Posted on July 9, 2017 January 23, These were the steps to Reset a Wireless Password in Asus Router.
+For example, local port forwarding lets you bypass a company firewall that blocks Wikipedia.
+slickdeals.
+you could use ssh to establish a secure connection from a remote location back to your router, without the need for Linux commands.
+1.
+ssh_config is the configuration file for the OpenSSH client.
+Create the ddns-start script by editing ddns-start by typing. 04 running through VMPlayer.
+It is not a coincidence.
+It can also be used for creating secure tunnels, somewhat akin to Virtual Private Networks, and for use as a Network File System ( Sshfs ). noip.
+Secure Shell (SSH) is a For configuring the router we can try to implement all necessary manipulations from the original firmware, but for this needs access via a command line by SSH or Telnet.
+SSH, or Secure Shell, is an encrypted protocol and associated program intended to replace telnet.
+One of the reasons the Asus routers How can I enable ssh access to a machine on my home network behind my Comcast managed router? Update Cancel a H d N wEIAR b TyiIr y A bM S Vgs t mZUTX r Xe a Fi y coOwg e yt r wYQK Q U P n Z i pIBe v Apufg e fr r seAZ s tPwv i o t Q y z Imagine a router company that leaves their router open to the internet for any person to gain access and reboot it!! You will need a secure connection like VPN or SSH to connect.
+Click the Virtual Server / Port Forwarding link.
+I wrote the initial version of SSH (Secure Shell) in Spring 1995.
+I set this up and I can ssh in with root permissions, but it doesn't seem to have a package manager installed.
+I've decided for my dollar range the ASUS RT-AC66U Router is pretty much what I want for now, which is mainly some extra speed over my old Linksys WRT54G & VLAN capability. 1 is the router IP on the LAN However if I issue the same command with my current Netgear router/modem I get the response The Secure Shell client needs the username to initiate the connection to the SSH enabled device.
+1 and then supply the password.
+Setup SSH on Your Router for Secure Web Access from Anywhere Jason Fitzpatrick @jasonfitzpatric July 13, 2011, 4:00pm EDT Connecting to the internet from Wi-Fi hotspots, at work, or anywhere else away from home, exposes your data to unnecessary risks. g.
+ASUS router WAN SSH Daemon exploit There have been 4 reports of people's ASUS router being hacked by having SSH thru WAN enable.
+Unless otherwise stated, the content of this page is licensed under Creative Commons Attribution-ShareAlike 3.
+The host router is the router which does have the internet connection and is going to share it with other routers.
+Alas, ASUS does Someone on your network can probably hack it 92 posts â¢ i wonder if this vulnerability could be used to get ssh access without redoing the firmware. 99, FlashRouters: $599.
+This wikiHow teaches you how to open a specific port on your router so that an application can access your network.
+Astrill Setup Manual:Getting started with ASUS Merlin firmware for routers ASUSWRT-Merlin firmware supported routers: Asus RT Getting_started_with_ASUS_Merlin Using DDNS on an Asus router DDNS is a service you can install on a PC that reports your wan IP to a service like www.
+but you should check it every now and then in case router was hacked.
+You should use all AC wifi client at least 2 X 2.
+Started by vdidwania, â but it seems to only work if the device is connected to my Asus router on cable.
+Route all traffic thru VPN service.
+This screenshot shows that the login banner is displayed when Secure Shell connects to the router.
+Articles, Blog, Computers, asus, nas, wow .
+How to Port Mirror with asus-merlin firmware Log on to your router via SSH and write My theory: Something is wonky when trying to Port Forward the Asus router on WiFi - try an Ethernet connection (however, this is unsubstantiated until I get a chance to make the same change using Ethernet and my Macbook).
+How to Configure Secure Shell (SSH) on a Cisco Router Secure Shell (SSH) improves network security by providing a means of establishing secure connections to Re: Can't connect to tomato router on any port running SSH server Let's see sshd's log on the server while you're trying to ssh into it.
+Enable SSH on your Asus router ()Sign up for Dynamic DNS and get your secret key Home / Knowledge Base / Routers & Firewalls Port Forwarding on Asus RC-AC66U This guide will walk you through the steps of port forwarding on the Asus router RC-AC66U (Firmware 3.
+Connect to your router using SSH tunneling, like this: externalhost % ssh -L 10080:192.
+SSH into your Asus router (admin as user) and enter the jffs scripts folder.
+In this guide we show you how to properly open a port for the Asus RT-N66U router.
+Signing up is free and they will register a DNS name for you to use that will always point to the right IP.
+You should now have an active JFFS partition and SSH server that is ready to accept remote connections.
+Asus in particular has had Re: Connecting to router using Telnet and SSH The_Cisco_Kid May 21, 2010 2:14 PM ( in response to Harris ) I was studying something similiar to you today Harris and noticed that in Packet Tracer the <.
+The Best DD-WRT Routers? Check out the in-depth analysis of our favorite DD-WRT routers below; Asus RT-AC5300 (Amazon: $399.
+RMerl provides the source code on github so you know there is nothing shady going on.
+The first is simple SSH access using the routerâs login credentials.
+To open a port for the Asus RT-N66U router you need to: Setup a static IP address on the computer or game console you want these ports forwarded to.
+The new ASUS Router App is built from the ground-up to be both intuitive and robust, allowing you to setup your router, manage network traffic, diagnose connection issues and even update firmware, all without needing to boot up a PC.
+Flash the CFE bootloader with one from Asus (without Tmo's mods) enable SSH within the router's web-admin console; login to the router via SSH (login to its "hidden" command-line-powered linux system, to be exact) dump your current bootloader to a "backup" copy file on the router; copy that file from the router to your computer Change the router login password, time zone, and NTP server settings.
+I'm quite new to puTTY and SSH.
+ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router Find out why it is rated the best wireless router in its class.
+View and Download Asus RT-AC68U user manual online. x for at&t), double netting is addressed, etc.
+I have just updated my RT-N12 D1 router to the latest firmware, and it has new function - "Added Router Security: Turn Off Stuff: SSH access to the router.
+Using PuTTY (SSH) to connect to home router. 39, and more.
+Also for: Rt-ac55uhp, Rt-ac58u.
+Dengan ini remote akses Router melalui Client sudah bisa akses dengan metode lain, yakni ssh yang mana memiliki keamanan yang lebih tinggi dari remote akses dibawahnya seperti telnet yang mana tak terenkripsi.
+Ask Question 17.
+Asus RT-AC66U â Installing the ipkg Command.
+GearHead Support is a technical support service for NETGEAR devices and all other connected devices in your home.
+Ask Question 4.
+Quickly access parts of the D-Link site.
+Then I run the âtopâ command to see if I the load reported by âtopâ is as far away from my SNMP graphs as the router admin panel charts.
+How SSH port became 22.
+Commands in Telnet â DD-WRT and Tomato routers Posted on Sunday, June 29, 2014 6:01 pm by TCAT Shelbyville IT Department If you have flashed your router with DD-WRT or Tomato you can probably use the following linux commands in the picture below.
+Here is the overall todo list to get custom dynamic DNS to work on your Asus router.
+If command execution is truly What is the safest way to ssh to a machine behind a router? if the ssh is only forwarded to one of the machines? â so_user Dec 12 '14 at 1:10. 7-slots, the ROG Strix GeForceÂ® RTX 2080 keeps Turingâ¢ chilled with a massive heatsink, Axial-tech fans, and MaxContact technology.
+To enable linux SWAP on your Asus RT-AC68U router you need the following: Custom firmware with jffs partition enabled (I recommend Asuswrt-Merlin build ); an USB HDD or USB flash drive to mount on one of your routerâs USB ports.
+How secure is Asus router's brute-force protection? Ask Question 1. >transport input - There was no SSH.
+Re: Asus RT-N66U - TunnelBroker support built-in Â« Reply #11 on: July 27, 2013, 05:23:25 PM Â» For all poor souls out there that have the tunnel running on rt-n66u but do not have v6 firewall I have found a simple solution (although it has to be applied at each router restart).
+Login to your â¢ Port forwarding to PS3 / PS4 from Asus RT-AC3100 router â¢ Port forwarding for Minecraft server on Asus RT-AC3100 router â¢ Port forwarding for utorrent on Asus RT-AC3100 router â¢ Port forwarding for IP cameras, SQL Server, FTP Server, SSH Clients, IpTables on Asus RT-AC3100 router Asus RT-N66U Enable SSH Access Is the option to enable ssh access to this router but if you only need a version that is somewhat enhanced over the offer Asus I am trying to connect to a router directly using Putty.
+Transmission BitTorrent Client on Asus RT-N66U 05 Jun 2014 Mohamed Ibrahim The Asus RT-N66U is the wireless router that has been serving my home Wi-Fi needs for the past 2 years or so. 178.
+Router to Router VPN Tunnel using Asus Routers.
+The NetUSB flaw left an untold number of routers vulnerable to attack.
+Enable the JFFS partition in the router settings.
+Most home Internet routers have serious security flaws, with some so vulnerable to attack they should be thrown out, an expert warns.
+If you want to specify a Port Range for clients on the same network, enter the Service Name, the Port Range (e.
+The client router is the router which does not have an internet connection. 220) .
+Asuswrt-Merlin most of the features from the original stock Asus firmware.
+OpenDNS; Astrill Setup Manual:Getting started with ASUS Merlin firmware for routers ASUSWRT-Merlin firmware supported routers: Asus RT Getting_started_with_ASUS_Merlin How to Recover, Reset Wireless Password In Asus Router ? Posted on July 9, 2017 January 23, These were the steps to Reset a Wireless Password in Asus Router.
+RT-AC68U Wireless Router pdf manual download.
+Make sure not to get them mixed up.
+Previously I was able to ssh to my D-link router with $ ssh admin@192. com .
+Since you already have vpn and that does not work.
+putting 192.
+ASUS Router Configuration RT-AC68U, RT-N66R and similar models RT-N10 ASUS General Configuration.
+Normally, HTTPS (SSL) defaults to port 443 like SSH defaults to port 22.
+Disable PING, Telnet, SSH, UPnP and HNAP, if possible.
+I am trying to create a automatic ssh tunnel between 2 dd-wrt Asus routers:one as ssh server and the other as ssh client.
+Community Submit a request Sign in. 1 into your browser). e.
+I have Ubuntu 10.
+Login to your Asus RT-AC87U router.
+There are two simple methods (which can also be combined) for SSH access depending on your use case.
+Local port forwarding is the most common type.
+I am having difficulties connecting to my router using SSH.
+2) Under "Offline Web Content and User Data" clicked "Clear now" (I noticed the Asus router's address was included in the list of "The following websites are allowed to store data for offline use" so figured it may be stuck using offline data and thinking the router was rebooting, failing to notice that it already had. g Openvpn server Firmware available to: 76 thoughts on âDonât enable HTTPS login on the ASUS RT-N66U (& how to fix it if you have)â Itâs nice to see when I search âasus router ssh Previously I was able to ssh to my D-link router with $ ssh admin@192.
+The most secure and powerful way is using the SSH protocol, but you have to use the insecure Telnet as thatâs Asus RT-N66U Enable SSH Access.
+* (firmware with âblueâ style) which contain the Telnet server.
+In addition The Asus RT-AC68U router - it's fast but it also secure? Home routers are becoming more powerful and, we are assured, more secure.
+ASUS RT-AC5300 Router.
+.
+Hi all, Iâm not a network guru but when I was confronted with this problem, as I saw many people were having the same problem on the forums I visited, I decided to share how I managed to solve it, after hours of tries and tests.
+The Secure Shell client needs the username to initiate the connection to the SSH enabled device.
+Installing packages for USB support on OpenWRT How to Configure Secure Shell (SSH) on a Cisco Router Secure Shell (SSH) improves network security by providing a means of establishing secure connections to I downloaded the asus router app and tried to turn on bandwidth limiter and set it to 1000mbps but that made it worse from 140mbps it dropped to 80+mbps.
+Skip to content.
+The most secure/powerful way is using the SSH protocol, but you have to start with insecure "telnet" as that's all ASUS ship with by default.
+Main navigation.
+Setup USB tethering to OpenWrt router.
+Â« Asus RT-3200 is not dishing out the wireless anymore â¢ Need help with RT-AC66 jffs partition corrupted, how to format? I haven't tried telnet into the router yet (no SSH on the stock Client VPN and VPN server in ASUS router at the same time.
+The asus router is configured as a router, on a different subnet (10.
+The terminal application is a serial computer interface for text entry and display output.
+Results 1-18 of 18 for search term "asus router".
+Enable SSH server on router.
+Just a quick Video on how to encrypt your Ftp Server off your router through SSH Tunneling.
+One other issue, I tried the ASUS Router APP on my phone, but it did not see the router, so I could not get it to work.
+RMerl / asuswrt-merlin.
+Enhanced version of Asus's router firmware (Asuswrt) (legacy code base) - RMerl/asuswrt-merlin.
+Enable Wifi Router Automatic Reboot.
+How to Use SSH Co-authored by wikiHow Staff Explore this Article Connecting for the First Time Learning Basic Commands Creating Encrypted Keys Article Summary Questions & Answers Related Articles References ASUS Merlin WRT port forwarding script setup.
+net âº Forums âº Software, Programming and Coding âº Networking & Security âº Cisco router SSH Currently, there are 2137 Active Users (333 Members and 1804 Guests) If the SSH Management radio button is greyed out on your DD-WRT wireless router than you likely just need to enable Secure Shell on the Services page in the DD-WRT administration web interface.
+Move on to Connect to router`s WEB-interface using SSH-tunnel If you should have access to the router`s WEB-interface from the Internet, then surely you can open the port for the Web Access from WAN.
+I am trying to connect to a router directly using Putty.
+The Asus routers are a fantastic choice for any user looking to get more power and convenience out of their home network.
+To enable Secure Shell or SSHD on DD-WRT login to the admin web interface and click on the Services tab in the top navigation.
+And I have another machine (Asus RT-N16 router).
+ssh [email protected] Everything else works fineâI can ssh/scp within the network to other machines, but trying to go outside fails.
+Asus Router web admin site forces manually typing password (no copy paste) 0.
+T-Mobile just disabled SSH on the Asus ac-1900 You can buy this router (or get it for free during the promotion) from T-Mobile and it is a rebranded custom Some TM-AC1900 ship with a firmware version that allows SSH access. 2697 beta, which changes SSH and Telnet default access interface, updates lighttpd server to 1.
+But users need to understand this new world The router's web-based management interface should not be reachable from the internet.
+Router Security: Turn Off Stuff: SSH access to the router.
+In all the articles online something always was missing. 1 DHCP enabled (100-140) SSH enabled Security How To How To Securely Web Browse via an SSH Tunnel Make sure you've selected SSH Tonight I noticed a strange entry in the list of clients on my Asus The ASUS supplied administration website is all very well, but for complete control you need to access the router's internals via a command prompt running inside the router. 0 License You can open the multiple port or a range of ports in router and redirect data through those ports to a single client on your network.
+how to create the ssh key for the client router to be put on the ssh server trusted host key list ASUS Router Configuration RT-AC68U, RT-N66R and similar models RT-N10 ASUS General Configuration.
+You'll need a terminal client to establish a connection with RT-N56U.
+but you can SSH into the router and use ifconfig vlan3 down; Installing a wireless adapter on Asus WL-500g router with OpenWRT BackFire 10.
+In the above example SSH has been selected as the preferred method.
+(you may try â1234567890â to connect to your wifi network if you cannot connect to it directly) login to the router setting dashboard, youâll find a new UI! navigate to: Advanced Settings > Administration > Services to setup your ssh server. ssh asus router
+sony bravia fades in and out, free template chakra, black hooters tank tops, best resolution for sims 4, daffa ariq lenong legenda biodata, 1 watt am transmitter, lspdfr eup vest, home improvement classes atlanta, impulz luts free download, sonic rush ost download, cron hourly jenkins, ark saddles by level, sims free download full version, bd new mp3ctg video all 2019 download, thiger left 3d target java games d6wnlnad, i2c sensors, what will happen in wano arc, pokemon lets go trading forum, gcc phat c code, acr122u api, craigslist kitsap motorcycles, emilie brooklyn marcy projects, gilgamesh fate, x230 hackintosh, avian genetic calculator, gas pipe sizing calculator apk, tetek tegang tipah, yogurtland flavors, no active thunderbolt controller found in the system, fear effect ps1 rom disc 2, magisk gps spoof,
 ===============https://www.asus.com/Networking/RT-AC58U/================
 RT-AC58U
 | Networking | ASUS Global
@@ -2441,7 +2824,7 @@ Windows 10 S Compatible Device
 Community
 Global /
 English
-Terms of Use NoticePrivacy Policy
+Privacy PolicyTerms of Use Notice
 ©ASUSTeK Computer Inc. All rights reserved.
 ===============http://www.snbforums.com/threads/rt-n66u-ftp-server-for-information.23768/================
 RT-N66U FTP Server (for information) | SmallNetBuilder Forums
@@ -2528,60 +2911,56 @@ NETGEAR R7800 Nighthawk X4S Smart WiFi Gaming Router Reviewed
 Introduction To The TR-398 Wi-Fi Performance Test
 A New Door Opens
 Synology DS119j $100 NAS Reviewed
-QNAP TS-332X Three Bay 10GbE NAS Reviewed
 ASUS Blue Cave AC2600 Dual-Band Wireless Router Reviewed
-160 MHz Wi-Fi Channels: Revisited
+QNAP TS-332X Three Bay 10GbE NAS Reviewed
+Phicomm K3C AC1900 MU-MIMO Gigabit Router Reviewed
 Sign Up!
 Sign up for the SNBForums Daily Digest!Keep track of everything that happened today. It's emailed only once a day and you can unsubscribe any time.
 Members Online Now
-Love,
-jsbeddow,
-Alfsu,
-garryj,
-skeal,
-ColinTaylor,
-TheBarzFR,
-rZn,
-Igor469,
-joma_po,
-Noble,
-Swistheater,
-MDM,
-Trexx,
-FQs19,
-Therion87,
-^Tripper^,
-kokishin,
-saccleo,
-kalpik,
-underdose,
-cmkelley,
-Julio,
-drabisan,
-Authority,
-martinr,
-Grimluhn,
-whitey019,
-Gar,
-WirelessWonk,
-srdjan.rajkovic1,
-blueshark,
-pyrodex,
-PolarBear,
-dctrbnsttr,
-jason.staples.33,
-clweb
-Total: 505 (members: 41, guests: 387, robots: 77)
+lukaszzsch,
+FLA_NL,
+Stevie,
+Grisu,
+Ro berto,
+darkblack,
+Zendilar,
+predatorz,
+peekeesh,
+supergroover,
+Ian72,
+TAG02,
+patrickgerry,
+HoopsRsa,
+Jimmyhuman,
+goncalob,
+ASadani,
+VANT,
+Stardust,
+dgcruzing,
+martinr
+Total: 428 (members: 25, guests: 338, robots: 65)
 Forum Statistics
 Discussions:
-46,002
+46,008
 Messages:
-472,644
+472,760
 Members:
-43,202
+43,206
 Latest Member:
-Armani2222
+Kohina
 New Threads
+VIVPN?
+Stardust posted Jun 14, 2019 at 3:47 AM
+Underclock RT-AC86U NVRAM Commands?
+Kohina posted Jun 14, 2019 at 2:58 AM
+Does diversion etc block ads on...
+heysoundude posted Jun 13, 2019 at 6:50 PM
+is their any use or validity to...
+sparks posted Jun 13, 2019 at 5:48 PM
+settings that hurt your router...
+Ssmasterone posted Jun 13, 2019 at 3:54 PM
+Asus RT-AC86u - What is the...
+TUT posted Jun 13, 2019 at 1:30 PM
 Speed loss with FW above...
 Armani2222 posted Jun 13, 2019 at 11:54 AM
 AiCloud does not show devices...
@@ -2590,18 +2969,6 @@ Stock Firmware - RT-AC1900 (WAN...
 ihoman202 posted Jun 13, 2019 at 10:53 AM
 Wake On WAN (WOW) on Asus RT-AC68U
 henrycao posted Jun 13, 2019 at 10:22 AM
-What does this 86U log entry mean?
-OzarkEdge posted Jun 13, 2019 at 10:11 AM
-Security OpenVPN vs. TOR
-hurich posted Jun 13, 2019 at 10:06 AM
-RT-N66U Can't login to GUI
-Skeptical.me posted Jun 13, 2019 at 9:07 AM
-Reboot command to reboot Imesh Node
-Sebastien Bougie posted Jun 13, 2019 at 8:33 AM
-VPN via a PC
-royarcher posted Jun 13, 2019 at 4:44 AM
-how to hold iptable rules?
-saccleo posted Jun 13, 2019 at 3:57 AM
 Loading...
 SmallNetBuilder Forums
 Home
@@ -2746,449 +3113,3 @@ Skapa konto
 Sociala medier
 © Copyright 2015. Powered by Open Cart.
 Webbutveckling: Adsera
-===============http://forums.dlink.com/index.php?topic=65992.0================
-Connection timed out and FTP upload
-D-Link Forums
-June 13, 2019, 09:39:12 AM
-Welcome, Guest
-Please login or register.
-1 Hour
-1 Day
-1 Week
-1 Month
-Forever
-Login with username, password and session length
-News:This Forum Beta is ONLY for registered owners of D-Link products in the USA for which we have created boards at this time.
-Home
-Help
-Search
-Login
-Register
-D-Link Forums >
-D-Link Network Storage >
-DNS-320L >
-Connection timed out and FTP upload
-« previous next »
-Pages: [1]
-Print
-Author
-Topic: Connection timed out and FTP upload  (Read 3528 times)
-geopal
-Level 1 Member
-Posts: 23
-Connection timed out and FTP upload
-«
-on: December 01, 2016, 12:50:23 PM »
-Hello,I have a problem that I cannot find solution so far and I kindly ask for your opinion. Reading the forums didn't help me.I have the 320-l and Asus router RT-N65U. Here are the setups of both:I am using ASUS Dynamic Domain Name System.My problem is when I try to UPLOAD files to the ftp no matter if in same network or outside one, I get timed out connection, get disconnected every 20-30 seconds and cannot upload anything. Attention: I can DOWLOAD with no problems at all. Using FileZilla:Code: [Select]Status: Connecting to ****:21...Status: Connection established, waiting for welcome message...Status: Logged inStatus: Starting upload of E:\*.rarStatus: Retrieving directory listing of "/Volume_1/"...Command: TYPE IResponse: 200 TYPE is now 8-bit binaryCommand: PASVResponse: 227 Entering Passive Mode (****)Command: MLSDResponse: 150 Accepted data connectionResponse: 226-Options: -a -l Response: 226 20 matches totalCommand: PASVResponse: 227 Entering Passive Mode (****)Command: REST 85349804Response: 350 Restarting at 85349804Command: STOR *.rarResponse: 150 Accepted data connectionError: Connection timed out after 20 seconds of inactivityError: File transfer failed after transferring 16 515 072 bytes in 22 secondsStatus: Disconnected from serverStatus: Resolving address of ****.asuscomm.comStatus: Connecting to ****:21...Status: Connection established, waiting for welcome message...Status: Logged inStatus: Starting upload of Y:\*.rarHere are the FZ settings, using Passive mode and Binary file transferAny clues why my connection drops for upload and works on downlods? Thanks in advance!
-Logged
-geopal
-Level 1 Member
-Posts: 23
-Re: Connection timed out and FTP upload
-« Reply #1 on: December 02, 2016, 07:34:51 AM »
-Connection interrupts every 30-120 seconds, resumes file upload several times and then resets and start from the beginning (the upload)
-Logged
-ivan
-Level 8 Member
-Posts: 1438
-Re: Connection timed out and FTP upload
-« Reply #2 on: December 02, 2016, 05:25:41 PM »
-A couple of questions.1)  do you have a better manual on the router than the one on the Asus web site?  That one is useless for setting up what you want.2) what are you actually trying to achieve - access to the NAS over the local network or access to the NAS from the internet?Reading the screen grabs you have posted my first thought is that you have two FTP servers running which will give you the results you are seeing.In the router setup page note the second bullet point in the description.  You have set port 20 (which gives the virtual FTP server the standard 20/21 pair) so activating the router FTP server.  This is where a better manual with more details about the settings would be invaluable.On the NAS FTP server page you have enabled the server again with the standard port 20/21 pair even though it only shows port 21.With those settings you now have a race condition between the two servers and you get breaks in transmission as the servers ping pong - hence my second question of what do you want to do.
-Logged
-geopal
-Level 1 Member
-Posts: 23
-Re: Connection timed out and FTP upload
-« Reply #3 on: December 02, 2016, 10:41:30 PM »
-Thank you Ivan,I am trying both on your second point. Result is the same.Have to check for a written manual.I also noted second bullet but the ftp has been working with such settings for years... I have only changed the ISP.What do you suggest? I tried to change the ports but with no luck- it didn't work.
-Logged
-ivan
-Level 8 Member
-Posts: 1438
-Re: Connection timed out and FTP upload
-« Reply #4 on: December 03, 2016, 09:30:10 AM »
-OK let me check a few points.1)  you have had this hardware doing what you want in the past - the same router and NAS.2) you changed ISP but apart from changing the ISP info in the router you did not change anything else.In theory, since you are using the same equipment , router and NAS, that worked before with unchanged settings on both it should still work.The next thing you should check are what you changed on the internet side of the router when you setup the new ISP settings.  Did you change DNS settings?  Have you changed the DHCP settings?  Does your new ISP block FTP ports?Changed DNS settings may cause problems with resolving the Asus DDNS.Changed DHCP will, if your NAS is on fixed IP, change how it is found.  I see that you have set the virtual FTP to 192.168.2.234.  Is that the same subnet you used before you changed ISP provider (the default DHCP for the router is 192.168.1.1 which may be the subnet you started with).Other than that it will have to wait until Monday when I can talk with my service department people to see if they have any other ideas.
-Logged
-geopal
-Level 1 Member
-Posts: 23
-Re: Connection timed out and FTP upload
-« Reply #5 on: December 08, 2016, 11:05:36 AM »
-Just a quick update- changed the mask to 1, not 2, still the same issue. Will keep looking for a solution.Do you think weak battery can lead to this? But it is strange- I can download terrabytes with no issues, when i try to upload, it drops and reconnects several times till it becomes irresponsive at all and needs a restart.
-Logged
-FurryNutz
-Poweruser
-▲▲ ▲
-Posts: 47444
-D-Link Global Forum Moderator
-Re: Connection timed out and FTP upload
-« Reply #6 on: December 09, 2016, 07:09:41 AM »
-Internet Service Provider and Modem ConfigurationsWhat ISP Service do you have? Cable or DSL?What ISP Modem Mfr. and model # do you have?What ISP Modem service link speeds UP and Down do you have? Link> Speed Testing Sites
-Logged
-Cable:200mb/10Mb>NetGear C7800>DIR-882>DGS-1100>HP 24pt Gb Switch. COVR-3902/2202/1203,DIR-2680,890L,882,880L,868L,DNR-202L,DNS-345x2,DCS-933L,936L and 960L.Go Here>Router Troubleshooting
-geopal
-Level 1 Member
-Posts: 23
-Re: Connection timed out and FTP upload
-« Reply #7 on: December 13, 2016, 12:05:23 PM »
-- Optic cable to the building, lan cable afterwords- huawei EC2108V5- 65 Mbps upload / 50 Mbps downloadHow can this be connected as it doesn't work from another place also.Can I switch off one of the ftp services from the NAS or router? Don't know what to try.Maybe I will try a hard reset as resetting to defaults didn't help.
-Logged
-FurryNutz
-Poweruser
-▲▲ ▲
-Posts: 47444
-D-Link Global Forum Moderator
-Re: Connection timed out and FTP upload
-« Reply #8 on: December 13, 2016, 12:17:36 PM »
-Does this help any? http://forums.dlink.com/index.php?topic=64492.0
-« Last Edit: December 13, 2016, 12:26:34 PM by FurryNutz »
-Logged
-Cable:200mb/10Mb>NetGear C7800>DIR-882>DGS-1100>HP 24pt Gb Switch. COVR-3902/2202/1203,DIR-2680,890L,882,880L,868L,DNR-202L,DNS-345x2,DCS-933L,936L and 960L.Go Here>Router Troubleshooting
-geopal
-Level 1 Member
-Posts: 23
-Re: Connection timed out and FTP upload
-« Reply #9 on: December 13, 2016, 12:54:27 PM »
-No, sorry, I have already read it Everything works for days for download, but it times out on upload Code: [Select]Connecting to probe.filezilla-project.orgConnection established, waiting for welcome message.Response: 220 FZ router and firewall tester readyUSER FileZillaResponse: 331 Give any password.PASS 3.23.0.2Response: 230 logged on.Checking for correct external IP addressRetrieving external IP address from http://ip.filezilla-project.org/ip.phpChecking for correct external IP addressIP *.*.*.* je-cdg-bjb-hhResponse: 200 OKFailed to create listen socket, abortingConnection closedCode: [Select]Command: TYPE IResponse: 200 TYPE is now 8-bit binaryCommand: PASVResponse: 227 Entering Passive Mode (*,*,*,*,217,12)Command: MLSDResponse: 150 Accepted data connectionResponse: 226-Options: -a -l Response: 226 7 matches totalCommand: PASVResponse: 227 Entering Passive Mode (*,*,*,*,217,60)Command: STOR *.part3.rarResponse: 150 Accepted data connectionError: Connection timed out after 20 seconds of inactivityError: File transfer failed after transferring 24 641 536 bytes in 24 secondsStatus: Disconnected from serverStatus: Resolving address of *.asuscomm.com
-Logged
-ivan
-Level 8 Member
-Posts: 1438
-Re: Connection timed out and FTP upload
-« Reply #10 on: December 15, 2016, 04:34:19 AM »
-Those logs don't look correct especially the IP addresses but we can't check because a) we don't have your model router and b) we only use managed switches on our networks.On that last point could you borrow a network switch (gigabit preferred but a 100 Base-T will do)?  If you can then link Your NAS and computer to the switch and link the switch to your router (the later is to use the DHCP server of the router to give IP address to the computer).  With this setup try uploading to the NAS.  If this works then we know the NAS and computer are setup correctly.  If it doesn't then we need to look at those settings more closely.
-Logged
-geopal
-Level 1 Member
-Posts: 23
-Re: Connection timed out and FTP upload
-« Reply #11 on: December 15, 2016, 04:50:46 AM »
-I have hidden the IP adress with *Both PC and NAS are plugged directly into the router.I will try to put them on a switch and then to the router, thanks for the suggestion
-Logged
-ivan
-Level 8 Member
-Posts: 1438
-Re: Connection timed out and FTP upload
-« Reply #12 on: December 15, 2016, 06:42:16 AM »
-QuoteI have hidden the IP adress with *We assumed that but you have too many places for IPv4 (www.xxx.yyy.zzz).  Some of it looks like the short form IPv6, something the NAS knows nothing about.
-Logged
-ivan
-Level 8 Member
-Posts: 1438
-Re: Connection timed out and FTP upload
-« Reply #13 on: December 15, 2016, 08:10:50 AM »
-One more question.  What is the fixed IP address of your NAS if you can't get sustained throughput on upload through the switch? (send me a PM to keep it private)
-Logged
-Print
-Pages: [1]
-« previous next »
-D-Link Forums >
-D-Link Network Storage >
-DNS-320L >
-Connection timed out and FTP upload
-SMF 2.0.13 |
-SMF © 2016, Simple Machines
-XHTML
-RSS
-WAP2
-BlackRain , 2006 by Crip
-===============http://help-wifi.com/asus/nastrojka-ftp-servera-na-routere-asus-dostup-k-fleshke-cherez-router/================
-Настройка FTP сервера на роутере ASUS. Доступ к флешке через роутер
-Настройка роутера
-Подробные инструкциидля конкретных моделей
-TP-Link
-Asus
-ZyXEL
-D-link
-Linksys
-Tenda
-Netis
-Totolink
-Xiaomi
-Mercusys
-Huawei
-MikroTik
-Belkin
-Ошибки и поломки
-Советы по настройке роутеров (общие)
-Настройка роутера для провайдера
-Настройка Wi-Fi сетей
-Настройка защиты Wi-Fi сетей
-Инструкции по обновлению ПО
-Интернет на компьютере
-Настройка и решение проблемс интернетом на компьютере
-Настройка Wi-Fi на ПК (ноутбуке)
-Решение проблем и ошибок
-Разные советы для Windows
-Настройка виртуальной Wi-Fi сети
-Настройка интернета 3G/4G
-Mac OS
-Wi-Fi на Android, iOS, WP
-Статьи о проблемах и настройкеwi-fi на смартфонах и планшетах
-Apple iPhone/iPad
-Android (смартфоны/планшеты)
-Телевизоры Smart TV
-Подключение к интернетуи настройка функций Smart TV
-Телевизоры LG Smart TV
-Samsung Smart TV
-Philips (Android TV)
-Разные советы
-Обзоры и отзывы
-Обзоры, отзывы, характеристикии другая полезная информация
-Отзывы, обзоры и информация о роутерах
-Разные сетевые устройства
-Обзоры разных устройств
-Интернет-провайдеры (отзывы и обзоры)
-Разные статьи
-Статьи на разные темысоветы и т. д.
-О беспроводных технологиях
-Полезное и интересное
-Программы / Браузеры
-Видеонаблюдение
-Bluetooth
-Задать вопрос
-Посмотреть все вопросы/ответы
-Главная
-О сайте
-Контакты
-Ищем авторов
-ГлавнаяAsusНастройка FTP сервера на роутере ASUS. Доступ к флешке через роутер
-Настройка FTP сервера на роутере ASUS. Доступ к флешке через роутер
-Есть уже много моделей роутеров ASUS с USB разъемами. У меня роутер ASUS RT-N18U, так на нем есть два USB (один из которых USB 3.0). Основное предназначение, это подключение 3G/4G модемов, USB-накопителей и принтеров. Я уже писал отдельную статью, в которой рассказывал для чего нужен USB разъем на роутерах ASUS. Так же, есть уже инструкция по настройке общего доступа к файлам на флешке, или внешнему HDD через Wi-Fi роутер, смотрим здесь. Но, в ней я писал о настройке обычного общего доступа по сети, и о настройке DLNA сервера. А сегодня мы рассмотрим настройку FTP сервера.
-К нему можно будет подключится как с компьютеров, так и с мобильных устройств на Android. Рассмотрим настройку подключения к FTP стандартным средством в Windows 10 (сам процесс практически ничем не отличается от Windows 7). В итоге, у нас будет роутер с подключенным накопителем, к которому у нас будет доступ с любого устройства, которое подключено к этому роутеру.
-Это очень удобно, если вы частенько обмениваетесь файлами между устройствами в своей локальной сети. А если есть необходимость, то можно будет создать учетные записи с разными правами доступа.
-Общий доступ к накопителю по FTP, через Wi-Fi роутер ASUS
-Берем нашу флешку, или внешний HDD, и подключаем к роутеру в USB разъем. Если на накопителе уже есть информация, то она не пропадет. Но, если там какие-то важные документы, то лучше скопировать их на компьютер. После подключения, желательно перезагрузить роутер.
-Дальше, на компьютере, который подключен к роутеру, запускаем любой браузер, и переходим по адресу 192.168.1.1. Появится страница авторизации. Укажите имя пользователя и пароль. Если вы их не меняли, то заводские admin и admin. Или, смотрим подробную инструкцию о том, как зайти на 192.168.1.1 в роутерах ASUS.
-Сразу на главной странице, там где карта сети, вы должны увидеть информацию по подключенному накопителю.
-В настройках переходим на вкладку "USB-приложение", и выбираем "Файл/Медиа-сервер".
-На новой странице сразу открываем вкладку "Общий ресурс в FTP", и напротив "Включить FTP" переводим переключатель в положение ON. Появится сообщение об открытии общего доступа к диску. Нажимаем Ok.
-Вот и все, сервер уже работает, и к нему можно подключится с вашего компьютера, или мобильных устройств. Сейчас я покажу, как это сделать. Но, перед этим, выясним некоторые моменты с общим доступом, и учетными записями для подключения к FTP.
-Как только мы запустили сервер, он работает с доступом по логину и паролю. По умолчанию, одна учетная запись – Admin. И это учетная запись самого роутера. То есть, для подключения к FTP серверу, нужно будет указать имя пользователя и пароль, которые вы указывали при входе в настройки роутера. Заводские admin и admin, и их можно сменить на вкладке "Администрирование" – "Система".
-А если вы хотите отключить авторизацию по логину и паролю, выполнять анонимное подключение к серверу, то напротив пункта "Разрешить анонимный вход" установите переключатель в положение ON.
-Но, тогда наш накопитель не будет защищен, и к серверу сможет подключится любой клиент, который подключен к роутеру. Я все таки советую не включать анонимный вход.
-Доступ к FTP серверу роутера ASUS с компьютера
-Адрес сервера, это сетевой адрес роутера. Если в настройки роутера заходим по 192.168.1.1, то FTP адрес будет таким: ftp://192.168.1.1/. Копируем этот адрес, заходим в Проводник (Мой компьютер), вставляем в адресую строку, и переходим по нему нажав Ентер.
-Должен появится запрос имени пользователя и пароля. Если вы не включили анонимный вход. Вводим имя пользователя и пароль, и попадает на накопитель, который подключен к роутеру. Можно в адресной строке набрать такую команду ftp://admin:admin@192.168.1.1/ (ftp://имя пользователя:пароль@192.168.1.1/).
-Так же, доступ можно получить набрав этот адрес в браузере, или через специальные FTP-клиенты.
-Что бы каждый раз не набирать адрес, можно создать подключение к сетевому диску. Как это сделать в Windows 7, я писал в инструкции по настройке FTP сервера на роутере TP-LINK. Ниже мы рассмотрим на примере Windows 10. Хотя, там все практически одинаково.
-Открываем "Этот компьютер", нажимаем на вкладку  "Файл", и выбираем "Подключить сетевой диск".
-В появившемся окне нажимаем на ссылку "Подключение к сайту, на котором можно хранить документы и изображения", и в следующем окне кликаем на кнопку "Далее".
-Кликаем два раза на пункт "Выберите другое сетевое расположение". Вводим в поле адрес нашего FTP сервера (скорее всего это ftp://192.168.1.1/), и нажимаем "Далее".
-В следующем поле вводим имя пользователя, под которым будем заходить на FTP сервер. Я его не менял, поэтому, у меня admin. Нажимаем "Далее". И еще одно поле, которое нужно заполнить – имя для нашей папки. Я написал просто "FTP ASUS". Вы можете задать любое название.
-В последнем окне нажимаем на кнопку "Готово". И сразу должна открыться созданная нами папка. И скорее всего появится еще запрос пароля от FTP сервера. Указываем его. Можете поставить галочку "Сохранить пароль" (что бы каждый раз не вводить его), и нажимаем кнопку "Вход".
-И если мы все задали правильно, то увидим наш накопитель. Точнее файлы, если они на нем есть.
-Эта папка будет всегда отображаться в "Мой компьютер" (Этот компьютер).
-Просто открываем ее, и получаем сразу доступ к накопителю. Можем смотреть файлы, удалять их, создавать новые (если у вас права администратора, или анонимный вход).
-Такую процедуру можно проделать на всех компьютерах (если их у вас несколько). А что бы подключить к FTP свой Android-смартфон, или планшет, используйте файловый менеджер "ES Проводник". Подробнее я писал в статье: подключение к FTP серверу с Android смартфона, или планшета.
-Дополнительные настройки учетных записей и доступа по FTP
-В настройках роутера ASUS, на вкладке с настройками FTP сервера, есть возможность создать дополнительных пользователей, и присвоить им разные права доступа, к разным папкам. Просто нажмите на кнопку "Добавить новую учетную запись".
-Укажите название учетной записи, и два раза пароль. Нажимаем на кнопку "Добавить".
-Для установки прав доступа, сначала нажимаем на созданную нами учетную запись. Дальше, раскрываем накопитель, и можем для каждой папки задать права доступа, просто установив переключатели.
-NO – нет доступа к папке.
-R – права только на чтение. Все, кто зайдет под этой учетной записью, смогут просматривать файлы, но не смогут их изменять.
-W – права на запись.
-R/W – полные права на считывание и запись.
-Для примера, я выставил для пользователя "help-wifi" права только на чтение, для всех папок на накопителе.
-Все сделано очень простои понятно. На роутерах TP-LINK, все намного сложнее в этом плане, на старой прошивке. Думаю, что в новой версии они уже все переделали. Можно без проблем настроить права доступа так, как это необходимо. Учетная запись администратора всегда имеет полные права.
-24
-Сергей
-Asus
-Похожие статьи
-Роутер Asus RT-N12E: настройка Wi-Fi и подключения к интернету
-Двойной WAN на роутере ASUS. Что это и как настроить?
-router.asus.com – не открывается, имя пользователя и пароль, как зайти
-Восстановление роутера ASUS после неудачной прошивки или DD-WRT
-Задать вопрос по статье
-Комментарии: 24
-Виктор
-16.11.2016 в 10:52 (3 года назад)
-Добрый день,
-сделал все по инструкции, но при подключении сетевого диска пишет, «не удается установить вязь с сервером». Хотя через браузер диск видно
-Ответить
-Сергей
-16.11.2016 в 11:06 (3 года назад)
-Добрый день. Возможно, допустили какую-то ошибку в настройке. Не могу подсказать подробнее.
-Ответить
-Михаил
-26.12.2016 в 21:55 (2 года назад)
-Здравствуте. А направить лог соединений клинетов к FTP-серверу в файл, как-то можно?
-Ответить
-Сергей
-26.12.2016 в 22:15 (2 года назад)
-Здравствуйте. Не могу подсказать.
-Ответить
-Orward
-13.01.2017 в 07:36 (2 года назад)
-Вчера настраивал в роутере FTP сервак, так вот, например, пользователь Ivan, права — «только чтение». Но прикол в том, что когда выставлены права либо «только чтение», или же «только запись», Иван не видит у себя в каталоге ничего, хотя файл там есть. Но стоит выставить в правах «чтение/запись», Иван видит все. Как это исправить?
-Ответить
-Сергей
-13.01.2017 в 11:15 (2 года назад)
-Не исключено, что это какой-то глюк в прошивке. Не могу подсказать решения.
-Ответить
-Денис Скрипник
-19.07.2017 в 11:21 (2 года назад)
-Здравствуйте. Как опубликовать ftp сервер?
-Имею в виду, какой адрес сервера вводить, находясь на другом компьютере, подключённому к другому подключению, например, 3g или другого вида.
-Благодарю.
-Ответить
-Сергей
-19.07.2017 в 11:49 (2 года назад)
-Здравствуйте. Вам нужен белый IP (постоянный), или настроить службу DDNS. Чтобы иметь доступ к FTP через интернет.
-Там настройка не самая простая, в рамках комментария об этом не написать. Постараюсь подготовить статью по этой теме, но не могу точно сказать когда.
-Ответить
-Денис Скрипник
-22.07.2017 в 06:11 (2 года назад)
-Здравствуйте. Ок. у меня ip постоянный.
-А как узнать, белый он или нет?
-Ответить
-Сергей
-22.07.2017 в 09:10 (2 года назад)
-Постоянный — значит белый.
-Ответить
-keldar
-12.10.2017 в 18:03 (2 года назад)
-постоянный, даже близко не значит какой! это значит что он постоянный и только!
-Ответить
-Сергей
-12.10.2017 в 18:11 (2 года назад)
-Да, все верно. Постоянный – не значит белый, я ошибался.
-На белый IP-адрес можно зайти с сети интернет. Например, для доступа к тому же FTP.
-А серый IP-адрес – это адрес из локальной сети провайдера. Так как белых IP очень мало, провайдеры выдают серые.
-Постоянным (статическим) может быть как белый, так и серый IP.
-Ответить
-Виталий
-04.11.2017 в 11:54 (2 года назад)
-Сегодня пытался подключить флэшку и у меня такой итог:
-1) Флешка на 64 с NTFS не работает. Все фильмы на ней недоступны и не видны. На самом роутере не виден ее объем и не проводится ее сканирование. Статус всегда — idle
-2) Флешка на 8 ГБ с FAT32 все. Все сканируется, все видно.
-Ранее юзал диск на 500Гб Тошиба, пока он не умер от старости. И он работал на NTFS без проблем (правда роутер был N16, а теперь N18).
-И вот вопрос — правильно я понял, что для больших файлов, где нужна NTFS флешка не подойдет и нужен HDD или кто-то пробовал?
-Заранее спасибо за помощь
-Ответить
-Сергей
-04.11.2017 в 18:22 (2 года назад)
-Я в NTFS флешку подключал. Все работало. Правда, флешка меньшего объема была.
-Ответить
-Чайник
-18.01.2018 в 12:55 (1 год назад)
-правильно ли я понимаю , что НЕ нужно оставлять ФТП-вход без пароля ?? Чем это грозит ? Кто-то может получить доступ к моим файлам ?? А если я поставлю очень сложный пароль ??
-Нужен ФТП , чтоб по своей сети (локальной) смотреть свой контент , без паролей и заморочек — жена не понимает всяких паролей .
-Ответить
-Сергей
-18.01.2018 в 13:10 (1 год назад)
-Доступ смогут получить только те устройства, которые к роутеру подключены. Ставьте нормальный пароль и все.
-Ответить
-Kenne
-08.02.2018 в 21:10 (1 год назад)
-А к ФТП на RT-N56U можно разрешить доступ только с определенных внешних IP адресов ?
-Ответить
-Сергей
-08.02.2018 в 21:18 (1 год назад)
-Не видел там такой функции.
-Ну и сам доступ к FTP через интернет еще не настраивал.
-Ответить
-Антон
-18.08.2018 в 12:56 (10 месяцев назад)
-Сделал все по инструкции. Из браузер, из избранного видно содержимое фтп со всех компьютеров, но записать файлы на фтп-сервер невозможно, пишет: «550 create operation directory failed. Убедитесь, что у Вас права помещать файлы на этот сервер.». Как исправить?
-Ответить
-Сергей
-18.08.2018 в 15:28 (10 месяцев назад)
-А вы заходите под именем пользователя роутера, или создавали другую учетную запись? Если нет, то попробуйте создать учетную запись, зайти под ее именем и копировать файлы.
-Хотя, я работал под учеткой роутера и у меня таких проблем не было.
-Как сетевой диск подключаете FTP-сервер (по инструкции)?
-Ответить
-Артем
-18.09.2018 в 20:03 (9 месяцев назад)
-Подскажите какой максимальный объем HDD можно подключить к роутеру ASUS RT-AC66U?
-Ответить
-Сергей
-18.09.2018 в 20:13 (9 месяцев назад)
-К сожалению, у меня нет такой информации. Это нужно обращаться в поддержку ASUS.
-Ответить
-Вячеслав
-02.05.2019 в 18:20 (1 месяц назад)
-Добрый день! Как НАСТРОИТЬ FTP в роутере ASUS RT-AS1200 чтоб просматривать видео с IP камеры посылаемое на флещку которая вставлена в роутер!?
-Ответить
-Сергей
-02.05.2019 в 22:32 (1 месяц назад)
-Добрый день. А камера уже пишет на эту флешку?
-Нужно настроить FTP-сервер, как показано в статье.
-Ваш провайдер должен выдавать вам белый внешний IP-адрес (через серый доступ не получить). Если он выдает белый IP-адрес, но он динамический, то можно настроить DDNS. Подробнее о белых/серых адресах и DDNS в статье: DDNS (динамический DNS) на роутере.
-Если у вас белый WAN-адрес, то доступ к FTP-серверу вы можете получить по адресу ftp://ваш-внешний-ip-адрес Ну и настройте учетные записи на роутере.
-Ответить
-Правила комментирования
-1. Все комментарии проходят проверку.
-2. Если Вы хотите задать вопрос, то опишите проблему как можно подробнее. Напишите конкретную информацию о проблеме.
-3. Комментарии с ненормативной лексикой, оскорблениями, и бессмысленные комментарии будут удалены.
-4. Запрещена реклама других сайтов, групп в социальных сетях, спам и т. д.
-5. Пожалуйста, пишите грамотно. Не пишите заглавными буквами.
-6. При ответе на комментарий, пожалуйста, нажимайте кнопку "Ответить".
-Добавить комментарий: Отменить ответ
-Прикрепить изображениеВыберите изображение для вашего комментария (GIF, PNG, JPG, JPEG):
-Можно выбрать максимум 3 изображения (зажав Ctrl). Максимальный размер изображения 2 МБ.
-Windows 10 - все инструкции по настройке интернета и решению проблем
-Настройка роутера - инструкции для разных моделей и производителей
-Полезные программы - для настройки HotSpot, Wi-Fi, 3G/4G модемов.
-192.168.0.1 / 192.168.1.1 - вход в настройки роутера или модема.Популярные статьи
-Как зайти в настройки роутера TP-Link?
-Как раздать Wi-Fi с ноутбука на Windows 10?
-192.168.1.1 – вход в систему роутера, логин и пароль admin
-Wi-Fi подключен, а интернет не работает. Страницы не открываются
-192.168.0.1 – вход в роутер, или модем. admin и admin
-Комментарии
-Алёна
-(39 минут назад):
-Благодарю за ответ. Когда перезагрузка роутера закончилась,
-страница ...
-Сергей
-(40 минут назад):
-Добрый день. Какая конкретно проблема/ошибка на ноутбуке? Опишите все ...
-Сергей
-(41 минута назад):
-Сделайте сброс настроек BIOS на ноутбуке.
-Выполните советы из этой статьи. ...
-Никита
-(41 минута назад):
-Если после обновления Windows7 возникает проблема с приемом Wifi ...
-Сергей
-(44 минуты назад):
-Вячеслав, я бы рад помочь, но не могу. Я не специалист в этих вопросах. С ...
-Павел
-(45 минут назад):
-Я не могу определить com порт, а без этого нельзя воспользоваться и MDMA. ...
-Павел
-(51 минута назад):
-Увы, но не видит. Уже разные варианты перепробовал :(
-Новые статьи
-Windows не удается связаться с устройством или ресурсом основной DNS-сервер. Как исправить?
-Установка и настройка Mesh Wi-Fi системы TP-Link Deco P7
-192.168.203.1 – настройка Miracast адаптера. Что делать, если не заходит в настройки MiraScreen и AnyCast?
-Ошибка «Чтобы сконфигурировать TCP/IP, следует установить и настроить сетевой адаптер» в Windows 10/8/7
-Обзор TP-Link Deco P7 – мощная Mesh Wi-Fi система с поддержкой Powerline
-Новые вопросы и ответы
-Как организовать одновременную раздачу интернета с ноутбука по Wi-Fi и LAN (по кабелю)?
-Пропадает доступ к настройкам роутера TP-LINK после подключения кабеля Ethetnet в WAN-порт
-Почему падает скорость через усилитель Wi-Fi сигнала в диапазоне 2.4 ГГц?
-Почему не работают все LAN-порты на роутере TP-Link?
-Не удается изменить частоту обновления HDMI дисплея в Windows 10: нет прав администратора
-Больше вопросов
-Новости
-Умные Wi-Fi лампы от TP-Link
-Трехдиапазонный роутер TP-LINK Archer C3200 уже в продаже
-Стартовали продажи 150-мегабитного LTE-роутера Huawei CPE B315
-D-Link DIR 850L – домашний роутер с гигабитным Wi-Fi
-Linksys EA9500: 3-диапазонный маршрутизатор от Linksys за 400 долларов
-Больше новостей
-Полезные статьи
-Как раздать Wi-Fi с ноутбука или компьютера без роутера
-Советы по выбору Wi-Fi роутера для дома, или квартиры
-Что такое роутер, как он работает, и чем отличается от маршрутизатора
-Информация о двухдиапазонных (Dual-Band) роутерах и Wi-Fi сети на частоте 5 GHz
-Скорость по Wi-Fi: почему роутер ее режет, и как увеличить скорость беспроводного соединения
-Радиус действия Wi-Fi сети: как его увеличить, и усилить беспроводную сеть
-Советы по решению разных проблем с интернетом на компьютере, смартфоне, планшете, телевизоре (Smart TV). Инструкции по настройке Wi-Fi роутеров.
-Копирование материалов с сайта help-wifi.com – запрещено.
-28.23 Mb / 0,48968 сек / 141 запросов.
-Карта сайта
-Подпишитесь на help-wifi.com

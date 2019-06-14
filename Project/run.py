@@ -40,11 +40,18 @@ print(res)
 
 comm = 'touch output.txt && rm output.txt'
 res = os.popen(comm).read()
+# print(res)
 
 
 comm = 'cp raw.txt mod_3_local_dependency_finder/raw.txt && rm raw.txt'
 res = os.popen(comm).read()
+# print(res)
+
 comm = 'cp predictions.json mod_3_local_dependency_finder/predictions.json && rm predictions.json'
 res = os.popen(comm).read()
+# print(res)
 
 print('Now Last Step....')
+comm = 'python mod_3_local_dependency_finder/local_dependency_finder.py mod_3_local_dependency_finder/predictions.json mod_3_local_dependency_finder/raw.txt'
+res = os.popen(comm).read()
+print(res)

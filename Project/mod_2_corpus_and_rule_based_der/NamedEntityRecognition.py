@@ -42,9 +42,7 @@ def find_important_word(words, corpus):
 	ans = []
 	i = 5
 	for c in candidates:
-		if i:
-			ans.append(c[0])
-			i -= 1
+		ans.append(c[0])
 	return ans
 
 
@@ -81,8 +79,8 @@ def main():
 	vendors = find_important_word(vendors, frequency_table)
 	device_types = find_important_word(device_types, frequency_table)
 
-	print('Vendor: ', vendors[0])
-	print('Device: ', device_types[0])
+	#print('Vendor: ', vendors[0])
+	#print('Device: ', device_types[0])
 
 	products = find_pattern(frequency_table.keys())
 	prediction = {'vendors': vendors, 'device_types' : device_types, 'products': products}
