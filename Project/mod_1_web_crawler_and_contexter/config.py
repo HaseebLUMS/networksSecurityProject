@@ -1,1 +1,1 @@
-page_limit = 15
+page_limit = 8

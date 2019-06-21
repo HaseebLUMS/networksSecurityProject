@@ -1,3 +1,13 @@
+'''
+Name: local_dependency_finder.py
+Output: Device Annotation
+What does it do:
+	From a set of possible annotations, finds actual 
+	device annotation by finding local dependencies 
+	(defind in ARE paper) from web page test
+'''
+
+
 import os
 import sys
 import re
@@ -12,9 +22,18 @@ device_types = predictions['device_types']
 products = predictions['products']
 
 
+''' Separate the lines of 
+the text and makes a list
+'''
 def linefyText(text): return re.split('[.]',text)
 
 
+'''
+Counts the lines in text
+which contains the term "a"
+or term "b" where as "a" and
+"b" are variables
+'''
 def count_related_lines(a, b, text):
 	count = 0
 	for t in text:
@@ -23,12 +42,24 @@ def count_related_lines(a, b, text):
 	return count
 
 
+
+'''
+Finds local dependencies
+in text.
+Two kinds of local dependency usually occur: 
+(1) the vendor, device type and product appears 
+in a line
+(2) There might not be product in the line.
+If the relationship is established and matches any of these two 
+dependency rules, DER will select the tuple (device type, vendor, product)
+'''
 def find_dependency(text, vendors, device_types):
 
 	max_lines = 0
 	ans_ven = ''
 	ans_dev = ''
 	for v in vendors:
+		if len(v) < 3: continue
 		for d in device_types:
 			count = count_related_lines(v, d, text)
 			if  count > max_lines:
@@ -39,6 +70,13 @@ def find_dependency(text, vendors, device_types):
 	return {'vendor': ans_ven, 'device_type': ans_dev}
 
 
+
+'''
+from a given list of possible product names,
+it finds whether any line contains terms a and b
+alongwith a product name where as a and b are 
+variables (device annotations, in practice).
+'''
 def find_product(text, a, b, tags):
 	max_lines = 0
 	ans_prod = ''
@@ -55,6 +93,10 @@ def find_product(text, a, b, tags):
 	return ans_prod
 
 
+'''
+Finds Local Dependecies between possible
+annotations and prints results
+'''
 def main():
 	global file
 	global vendors
