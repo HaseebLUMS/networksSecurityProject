@@ -35,10 +35,14 @@ or term "b" where as "a" and
 "b" are variables
 '''
 def count_related_lines(a, b, text):
+
 	count = 0
 	for t in text:
-		if (a in t) and (b in t):
+		if (a in t.lower()) and (b in t.lower()):
+			# print(t)
 			count += 1
+	# if a is 'mikrotik':
+	# 	print(count)
 	return count
 
 
@@ -58,16 +62,23 @@ def find_dependency(text, vendors, device_types):
 	max_lines = 0
 	ans_ven = ''
 	ans_dev = ''
+	# print(vendors, device_types)
 	for v in vendors:
 		if len(v) < 3: continue
 		for d in device_types:
 			count = count_related_lines(v, d, text)
-			if  count > max_lines:
-				max_lines = count
+			# print('For ', v , ' and ', d, ' ', count)
+			if count: #v and d are already sorted so the first one with a depen
+						#dency is answer
 				ans_ven = v
 				ans_dev = d
+				return {'vendor': ans_ven, 'device_type': ans_dev}
+
+			# if  count > max_lines:
+			# 	max_lines = count
+			# 	ans_ven = v
+			# 	ans_dev = d
 	
-	return {'vendor': ans_ven, 'device_type': ans_dev}
 
 
 

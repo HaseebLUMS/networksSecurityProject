@@ -48,7 +48,7 @@ not useful.
 def findURLs(words):
 	i = 10
 	tmp_urls = []
-	for j in search(words,num=15, start=0, stop=15, pause=5): 
+	for j in search(words,num=page_limit, start=0, stop=page_limit, pause=1): 
 		time.sleep(2)
 		tmp_urls.append(j)
 
@@ -122,8 +122,8 @@ def create_output():
 				with open('raw.txt', 'a+') as f:
 					tmp = '\n==============='+ url+ '================\n'
 					f.write(tmp)
-					pages_searched = 1
-					print(url, " : success")
+					pages_searched += 1
+					# print(url, " : success")
 					f.write(text)
 
 				with open('output.txt', 'a+') as f:
@@ -136,7 +136,7 @@ def create_output():
 					text = res
 					tmp = '\n==============='+ url+ '================\n'
 					f.write(tmp)
-					pages_searched = 1
+					# pages_searched = 1
 					print(url, " : success")
 					f.write(text)
 

@@ -1,29 +1,15 @@
 {
   "vendors": [
-    "asus",
-    "netgear",
-    "cisco",
-    "huawei",
-    "amd",
-    "exact",
-    "lg",
-    "belkin",
-    "dashboard",
-    "nvidia",
-    "philips",
-    "star",
-    "variable",
-    "samsung"
+    "mikrotik",
+    "team",
+    "arm",
+    "microsoft",
+    "intel"
   ],
   "device_types": [
     "router",
-    "tv",
-    "camera",
-    "button",
     "switch",
-    "controller",
-    "gps",
-    "tracking"
+    "button"
   ],
   "products": []
 }
