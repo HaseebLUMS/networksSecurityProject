@@ -186,7 +186,7 @@ Sort by AuthorPost timeSubject AscendingDescending
 Post Reply
 Print view
 Who is online
-Users browsing this forum: No registered users and 53 guests
+Users browsing this forum: No registered users and 29 guests
 Announcements
 RouterOS
 RouterOS v6 RC and v7 BETA
@@ -402,7 +402,7 @@ Sort by AuthorPost timeSubject AscendingDescending
 Post Reply
 Print view
 Who is online
-Users browsing this forum: No registered users and 10 guests
+Users browsing this forum: No registered users and 9 guests
 Announcements
 RouterOS
 RouterOS v6 RC and v7 BETA
@@ -723,7 +723,7 @@ Sort by AuthorPost timeSubject AscendingDescending
 Post Reply
 Print view
 Who is online
-Users browsing this forum: Google [Bot] and 54 guests
+Users browsing this forum: Bing [Bot] and 29 guests
 Announcements
 RouterOS
 RouterOS v6 RC and v7 BETA
@@ -972,7 +972,7 @@ Sort by AuthorPost timeSubject AscendingDescending
 Post Reply
 Print view
 Who is online
-Users browsing this forum: No registered users and 3 guests
+Users browsing this forum: No registered users and 12 guests
 Announcements
 RouterOS
 RouterOS v6 RC and v7 BETA
@@ -1120,7 +1120,7 @@ Sort by AuthorPost timeSubject AscendingDescending
 Locked
 Print view
 Who is online
-Users browsing this forum: Bing [Bot] and 24 guests
+Users browsing this forum: No registered users and 21 guests
 Announcements
 RouterOS
 RouterOS v6 RC and v7 BETA
