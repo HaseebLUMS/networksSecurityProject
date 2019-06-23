@@ -1,15 +1,15 @@
 {
   "vendors": [
     "mikrotik",
-    "team",
     "arm",
-    "microsoft",
-    "intel"
+    "cisco",
+    "endian",
+    "predict"
   ],
   "device_types": [
     "router",
     "switch",
-    "button"
+    "tracking"
   ],
   "products": []
 }

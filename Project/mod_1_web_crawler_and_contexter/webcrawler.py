@@ -29,6 +29,7 @@ if not sys.warnoptions:
     warnings.simplefilter("ignore")
 # sys.path.append('./../')
 from config import page_limit
+from headlessUser import performSearch
 
 
 query = ""
@@ -45,14 +46,16 @@ Ignores URLs of popular sites (like social platforms)
 as they appear in search results on top but they are 
 not useful.
 '''
+
 def findURLs(words):
 	i = 10
 	tmp_urls = []
-	for j in search(words,num=page_limit, start=0, stop=page_limit, pause=1): 
-		time.sleep(2)
-		tmp_urls.append(j)
+	# for j in search(words,num=page_limit, start=0, stop=page_limit, pause=1): 
+	# 	time.sleep(2)
+	# 	tmp_urls.append(j)
+	tmp_urls = performSearch(words)
 
-	trash = ['youtube.com', 'facebook.com', 'linkedin.com', 'twitter.com', 'quora.com', 'glassdoor.com', 'reddit.com', '.pdf', '.doc']
+	trash = ['youtube.com', 'facebook.com', 'linkedin.com', 'twitter.com', 'quora.com', 'glassdoor.com', 'reddit.com', '.pdf', '.doc', '.docx']
 	for url in tmp_urls:
 		trashyURL = False
 		for t in trash:
@@ -177,7 +180,7 @@ def main():
 	res = refine_query(query)
 	findURLs(res)
 	# for url in URLs: print(url)
-	is_written = create_output();
+	is_written = create_output()
 	if is_written:
 		print('\nOutput Successfully created by web crawler')
 
