@@ -25,7 +25,7 @@ products = predictions['products']
 ''' Separate the lines of 
 the text and makes a list
 '''
-def linefyText(text): return text.split(". ")
+def linefyText(text): return re.split('[.]', text)
 
 
 '''

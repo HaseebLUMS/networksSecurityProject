@@ -5,19 +5,15 @@
         "service",
         "asus",
         "rt",
-        "220",
         "welcome",
         "ASUS | ROUTER"
     ],
     "2": [
-        "220",
         "mikrotik",
         "ftp",
         "server",
         "mikrotik",
-        "5",
         "ready",
-        "6",
         "MIKROTIK | ROUTER"
     ]
 }

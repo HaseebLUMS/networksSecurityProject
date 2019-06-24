@@ -2,22 +2,21 @@
   "vendors": [
     "mikrotik",
     "microsoft",
-    "cisco",
     "arm",
+    "cisco",
     "intel",
-    "aranet",
-    "zte",
-    "laird",
     "team",
-    "variable"
+    "variable",
+    "endian",
+    "predict"
   ],
   "device_types": [
-    "controller",
-    "router",
     "switch",
     "button",
+    "controller",
     "speaker",
-    "gps"
+    "router",
+    "tracking"
   ],
   "products": []
 }
