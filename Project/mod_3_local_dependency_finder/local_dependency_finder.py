@@ -25,7 +25,7 @@ products = predictions['products']
 ''' Separate the lines of 
 the text and makes a list
 '''
-def linefyText(text): return re.split('[.]',text)
+def linefyText(text): return text.split(". ")
 
 
 '''
@@ -118,9 +118,16 @@ def main():
 	predicted_label = find_dependency(text, vendors, device_types)
 	print('Brand: ', predicted_label['vendor'].upper())
 	print('Device: ', predicted_label['device_type'].upper())
+	ans = predicted_label['vendor'].upper() + ' | ' + predicted_label['device_type'].upper()
+
 
 	predicted_product = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
 	if predicted_product is not '' and predicted_label['vendor'] is not '':
 		print('Product Number: ', predicted_product)
+		ans =  ans + " | " + predicted_product
+	
+	
+	with open('annotation.txt', 'w') as f:
+		f.write(ans)
 
 main()

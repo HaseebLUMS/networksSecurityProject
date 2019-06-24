@@ -47,7 +47,8 @@ def performSearch(words):
                         urls.append(url.text)
                     except:
                         pass
-
+            if(len(urls) > 15):
+                break
             browser.find_element_by_xpath("//*[contains(local-name(), 'span') and contains(text(), 'Next')]").click()
         except:
             pass

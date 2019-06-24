@@ -1,15 +1,23 @@
 {
   "vendors": [
     "mikrotik",
-    "arm",
+    "microsoft",
     "cisco",
-    "endian",
-    "predict"
+    "arm",
+    "intel",
+    "aranet",
+    "zte",
+    "laird",
+    "team",
+    "variable"
   ],
   "device_types": [
+    "controller",
     "router",
     "switch",
-    "tracking"
+    "button",
+    "speaker",
+    "gps"
   ],
   "products": []
 }
