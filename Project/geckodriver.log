@@ -48,3 +48,6 @@ console.error: BroadcastService:
 1561296832975	Marionette	WARN	TLS certificate errors will be ignored for this session
 1561296845817	Marionette	INFO	Stopped listening on port 41591
 [Parent 28462, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-ErLm_I/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
