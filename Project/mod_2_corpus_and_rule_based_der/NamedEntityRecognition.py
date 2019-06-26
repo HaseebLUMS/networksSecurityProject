@@ -90,7 +90,7 @@ def find_pattern(words):
 	inp = ''
 	for w in words: inp += (w + ' ')
 	import re
-	p = re.compile("[A-Za-z]+[-]?[0-9A-Za-z!]*[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
+	p = re.compile("[A-Za-z]+[-]?[A-Za-z]*[0-9]+[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
 	return p.findall(inp)
 
 

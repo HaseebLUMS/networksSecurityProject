@@ -119,5 +119,61 @@
         "ftp",
         "welcome",
         "ASUS | ROUTER | asus"
+    ],
+    "16": [
+        "asus",
+        "rt",
+        "ac58u",
+        "ftp",
+        "welcome",
+        "IBM | CONTROLLER"
+    ],
+    "17": [
+        "asus",
+        "rt",
+        "ac58u",
+        "ftp",
+        "welcome",
+        "ASUS | ROUTER | rtn53"
+    ],
+    "18": [
+        "asus",
+        "rt",
+        "ac58u",
+        "ftp",
+        "welcome",
+        "ASUS | ROUTER | c8"
+    ],
+    "19": [
+        "asus",
+        "rt",
+        "ac58u",
+        "ftp",
+        "welcome",
+        "ASUS | ROUTER | n5"
+    ],
+    "20": [
+        "asus",
+        "rt",
+        "ac58u",
+        "ftp",
+        "welcome",
+        "ASUS | ROUTER | n5"
+    ],
+    "21": [
+        "asus",
+        "rt",
+        "ac58u",
+        "ftp",
+        "welcome",
+        "ASUS | ROUTER | n66u"
+    ],
+    "22": [
+        "mikrotik",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | swl5"
     ]
 }

@@ -95,7 +95,9 @@ def find_product(text, a, b, tags):
 	for t in tags:
 		count  = 0
 		for line in text:
-			if ((a in line) and (b in line) and (t in line)):
+			if ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()+' ') in line.lower())):
+				count += 1
+			elif ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()+'. ') in line.lower())):
 				count += 1
 		if count > max_lines:
 			max_lines = count
