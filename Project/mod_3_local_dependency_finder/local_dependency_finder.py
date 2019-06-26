@@ -109,6 +109,7 @@ Finds Local Dependecies between possible
 annotations and prints results
 '''
 def main():
+	print('Finding Local Dependecies.')
 	global file
 	global vendors
 	global device_types

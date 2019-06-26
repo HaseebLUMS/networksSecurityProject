@@ -6,13 +6,29 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 
+
+''' checks for url
+    #The only problem here can be that 
+    #the extracted text might have spaces
+    #and be not a url
+    #Also some url are not complete
+    they end at ...
+'''
+def isURL(url):
+    if " " in url: return False
+    if "..." in url: return False
+    return True
+
+
 '''
 Searched "words" on google 
 by simulating user behavior by 
 headless selenium so that there is 
 no limit on searches
 '''
+
 def performSearch(words):
+    print('Headless browser active.')
     options = Options()
     options.headless = True
     browser = webdriver.Firefox(options=options, executable_path='./mod_1_web_crawler_and_contexter/geckodriver')
@@ -34,26 +50,33 @@ def performSearch(words):
 
     for p in range(1, 10):
         try:
-            time.sleep(3)
-            for i in range(1, 5):
+            time.sleep(1)
+            if(len(urls) > 20):
+                break
+            for i in range(1, 12):
                 try:
                     path = path1+str(i)+path2
                     url = browser.find_element_by_xpath(path)
-                    urls.append(url.text)
+                    if isURL(url.text):
+                        urls.append(url.text)
                 except:
                     try:
                         path = path11+str(i)+path22
                         url = browser.find_element_by_xpath(path)
-                        urls.append(url.text)
+                        if isURL(url.text):
+                            urls.append(url.text)
                     except:
                         pass
-            if(len(urls) > 15):
-                break
-            browser.find_element_by_xpath("//*[contains(local-name(), 'span') and contains(text(), 'Next')]").click()
+            try: #if no next then return
+                browser.find_element_by_xpath("//*[contains(local-name(), 'span') and contains(text(), 'Next')]").click()
+            except:
+                return urls
         except:
             pass
-    browser.quit()
+    # browser.quit()
     if len(urls):
         print('urls fetched')
     return urls
-performSearch('python')
+
+
+# performSearch('python')

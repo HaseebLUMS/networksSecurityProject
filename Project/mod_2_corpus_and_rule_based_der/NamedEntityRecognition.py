@@ -87,18 +87,10 @@ a regular expression
 '''
 def find_pattern(words):
 
-	#should start from alpha
-	#should end at alpha
-	# ans = []
-	# for w in words:
-	# 	if w[0].isalpha() and len(w) > 4 and len(w) < 12 and w[len(w)-1].isalpha():
-	# 		if (not w.isalpha()) and is_white(w):#and is_white(w): 
-	# 			ans.append(w)
-	# return ans
 	inp = ''
 	for w in words: inp += (w + ' ')
 	import re
-	p = re.compile('[A-Za-z]+[-]?[A-Za-z!]*[0-9]+[-]?[-]?[A-Za-z0-9]*^[0-9]2,4[A-Z]+')
+	p = re.compile("[A-Za-z]+[-]?[0-9A-Za-z!]*[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
 	return p.findall(inp)
 
 
@@ -108,6 +100,7 @@ on extracted web pages data and finds
 possible device annotations.
 '''
 def main():
+	print('NER Active.')
 	frequency_table = frequentize(sample)
 
 	vendors = open(sys.argv[2]).readlines()
@@ -123,7 +116,7 @@ def main():
 
 	#print('Vendor: ', vendors[0])
 	#print('Device: ', device_types[0])
-	print('may be ', vendors[0], device_types[0])
+	# print('may be ', vendors[0], device_types[0])
 	products = find_pattern(frequency_table.keys())
 	prediction = {'vendors': vendors, 'device_types' : device_types, 'products': products}
 

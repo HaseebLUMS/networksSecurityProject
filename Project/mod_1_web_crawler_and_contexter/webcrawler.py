@@ -30,6 +30,8 @@ if not sys.warnoptions:
 # sys.path.append('./../')
 from config import page_limit
 from headlessUser import performSearch
+import re
+
 
 
 query = ""
@@ -50,9 +52,6 @@ not useful.
 def findURLs(words):
 	i = 10
 	tmp_urls = []
-	# for j in search(words,num=page_limit, start=0, stop=page_limit, pause=1): 
-	# 	time.sleep(2)
-	# 	tmp_urls.append(j)
 	tmp_urls = performSearch(words)
 
 	trash = ['youtube.com', 'facebook.com', 'linkedin.com', 'twitter.com', 'quora.com', 'glassdoor.com', 'reddit.com', '.pdf', '.doc', '.docx']
@@ -85,6 +84,7 @@ Steps:
 	--returns text (combination of keywords)
 '''
 def getText(url):
+	time.sleep(0.5)
 	req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}) #spoofed agent for avoiding scraping ban
 	html = urlopen(req).read()
 	soup = BeautifulSoup(html)
@@ -96,13 +96,6 @@ def getText(url):
 	text = '\n'.join(chunk for chunk in chunks if chunk)
 
 	return text
-	# r = Rake()
-	# r.extract_keywords_from_text(text)
-	# keywords = r.get_ranked_phrases()
-	# res = ""
-	# for k in keywords:
-	# 	res += (" " + k)
-	# return res
 
 
 
@@ -114,42 +107,33 @@ calls getText() and stores in output.txt
 '''
 def create_output():
 	global page_limit
-	pages_searched = 0
+
+
+	with open('raw.txt', 'w') as f:
+		f.write(query)
 	with open('output.txt', 'w') as f:
-		tmp = 'For query: ' + query
-		f.write(tmp)
+		f.write(query)
+
+
 	for url in URLs:
 		try:
 			if page_limit:
 				text = getText(url)
 				with open('raw.txt', 'a+') as f:
-					tmp = '\n==============='+ url+ '================\n'
-					f.write(tmp)
-					pages_searched += 1
-					# print(url, " : success")
 					f.write(text)
 
 				with open('output.txt', 'a+') as f:
-					r = Rake()
-					r.extract_keywords_from_text(text)
-					keywords = r.get_ranked_phrases()
-					res = ""
-					for k in keywords:
-						res += (" " + k)
-					text = res
-					tmp = '\n==============='+ url+ '================\n'
-					f.write(tmp)
-					# pages_searched = 1
-					print(url, " : success")
+					text = refine_query(text) #using the refining funtion
 					f.write(text)
+					print(url, " : success")
 
 					
 			page_limit -= 1
 
-			time.sleep(2)
 		except:
+			page_limit += 1
 			print(url, " : failed")
-			time.sleep(1)
+
 	return 1
 
 
@@ -158,13 +142,14 @@ Uses Rake library for removing dictionary words from
 input banner and extracting keywords. 
 '''
 def refine_query(q):
+	reg = re.compile('<.*?>')
+	q = re.sub(reg, '', q)
 	r = Rake()
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
 	res = ""
 	for k in keywords:
 		res += (" " + k)
-	print("Refined Formated Query: ", res)
 	return res
 
 
@@ -178,10 +163,9 @@ Main function:
 def main():
 	global query
 	res = refine_query(query)
+	print('Query: ', res)
 	findURLs(res)
-	# for url in URLs: print(url)
+	for url in URLs: print(url)
 	is_written = create_output()
-	if is_written:
-		print('\nOutput Successfully created by web crawler')
 
 main()
