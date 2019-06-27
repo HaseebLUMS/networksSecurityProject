@@ -8,33 +8,6 @@
         "MIKROTIK | ROUTER | swl5"
     ],
     "2": [
-        "axis",
-        "ptz",
-        "network",
-        "camera",
-        "oct",
-        "ready",
-        "MIKROTIK | ROUTER | swl5"
-    ],
-    "3": [
-        "axis",
-        "ptz",
-        "network",
-        "camera",
-        "oct",
-        "ready",
-        "MIKROTIK | ROUTER | swl5"
-    ],
-    "4": [
-        "axis",
-        "ptz",
-        "network",
-        "camera",
-        "oct",
-        "ready",
-        "MIKROTIK | ROUTER | swl5"
-    ],
-    "5": [
         "nasftpd",
         "turbo",
         "station",
@@ -43,7 +16,7 @@
         "proftpd",
         "MICROSOFT | CAMERA | gene6"
     ],
-    "6": [
+    "3": [
         "bcm963268",
         "broadband",
         "router",
@@ -51,25 +24,7 @@
         "nlogin",
         "IFS | ROUTER | mtdblock5"
     ],
-    "7": [
-        "bcm963268",
-        "broadband",
-        "router",
-        "r",
-        "nlogin",
-        "IFS | ROUTER | mtdblock5"
-    ],
-    "8": [
-        "microsoft",
-        "telnet",
-        "service",
-        "welcome",
-        "rlogin",
-        "r",
-        "n",
-        "IFS | ROUTER | mtdblock5"
-    ],
-    "9": [
+    "4": [
         "microsoft",
         "telnet",
         "service",
@@ -79,17 +34,7 @@
         "n",
         "CISCO | ROUTER | mi424wr"
     ],
-    "10": [
-        "u",
-        "ftp",
-        "server",
-        "v6",
-        "winsock",
-        "ready",
-        "serv",
-        "TEAM | TV | rapid7"
-    ],
-    "11": [
+    "5": [
         "mirpur",
         "ftp",
         "server",
@@ -98,68 +43,7 @@
         "ready",
         "MIKROTIK | ROUTER | rb2011"
     ],
-    "12": [
-        "ricoh",
-        "mp",
-        "ftp",
-        "server",
-        "ready",
-        "INTEL | SWITCH"
-    ],
-    "13": [
-        "ricoh",
-        "mp",
-        "ftp",
-        "server",
-        "ready",
-        "INTEL | SWITCH"
-    ],
-    "14": [
-        "ricoh",
-        "mp",
-        "ftp",
-        "server",
-        "ready",
-        "INTEL | SWITCH"
-    ],
-    "15": [
-        "willkommen",
-        "bei",
-        "oliver",
-        "kittner",
-        "STAR | TV"
-    ],
-    "16": [
-        "ubiquoss",
-        "qos",
-        "switch",
-        "nchungra",
-        "login",
-        "r",
-        "n",
-        "STAR | TV"
-    ],
-    "17": [
-        "ubiquoss",
-        "qos",
-        "switch",
-        "nchungra",
-        "login",
-        "r",
-        "n",
-        "STAR | TV"
-    ],
-    "18": [
-        "ubiquoss",
-        "qos",
-        "switch",
-        "nchungra",
-        "login",
-        "r",
-        "n",
-        "STAR | TV"
-    ],
-    "19": [
+    "6": [
         "windows",
         "ce",
         "telnet",
@@ -168,51 +52,13 @@
         "as4",
         "CISCO | ROUTER"
     ],
-    "20": [
+    "7": [
         "technicolor",
         "gateway",
         "login",
         "TECHNICOLOR | ROUTER | tg582n"
     ],
-    "21": [
-        "taskalfa",
-        "4053ci",
-        "ftp",
-        "server",
-        "PARTICLE | FEEDER | accessories1290"
-    ],
-    "22": [
-        "taskalfa",
-        "4053ci",
-        "ftp",
-        "server",
-        "PARTICLE | FEEDER | accessories1290"
-    ],
-    "23": [
-        "ecosense",
-        "command",
-        "line",
-        "processor",
-        "welcome",
-        "STAR | TV | hd300"
-    ],
-    "24": [
-        "ecosense",
-        "command",
-        "line",
-        "processor",
-        "welcome",
-        "STAR | TV | hd300"
-    ],
-    "25": [
-        "ecosense",
-        "command",
-        "line",
-        "processor",
-        "welcome",
-        "STAR | TV | hd300"
-    ],
-    "26": [
+    "8": [
         "n66u",
         "ftp",
         "service",
@@ -221,24 +67,7 @@
         "welcome",
         "ASUS | ROUTER | n66u"
     ],
-    "27": [
-        "nz",
-        "outdoor",
-        "wireless",
-        "access",
-        "point",
-        "wa151dd",
-        "ASUS | ROUTER | n66u"
-    ],
-    "28": [
-        "setuvfxth",
-        "ftp",
-        "service",
-        "welcome",
-        "matrix",
-        "ASUS | ROUTER | n66u"
-    ],
-    "29": [
+    "9": [
         "matrix",
         "setu",
         "vfxth",
@@ -247,53 +76,14 @@
         "welcome",
         "MATRIX | ROUTER"
     ],
-    "30": [
-        "ftp",
-        "server",
-        "ready",
-        "tornado",
-        "vxworks5",
-        "vxworks",
-        "MICROSOFT | ROUTER | t5"
-    ],
-    "31": [
+    "10": [
         "fuji",
         "xerox",
         "docuprint",
         "p455",
         "SAMSUNG | SWITCH | p455"
     ],
-    "32": [
-        "fuji",
-        "xerox",
-        "docuprint",
-        "p455",
-        "SAMSUNG | SWITCH | p455"
-    ],
-    "33": [
-        "mikrotik",
-        "ftp",
-        "server",
-        "mikrotik",
-        "ready",
-        "SAMSUNG | SWITCH | p455"
-    ],
-    "34": [
-        "fuji",
-        "xerox",
-        "docuprint",
-        "p455",
-        "SAMSUNG | SWITCH | p455"
-    ],
-    "35": [
-        "phytoverse",
-        "ftp",
-        "server",
-        "mikrotik",
-        "ready",
-        "SAMSUNG | SWITCH | p455"
-    ],
-    "36": [
+    "11": [
         "phytoverse",
         "ftp",
         "server",

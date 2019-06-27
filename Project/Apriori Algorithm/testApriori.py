@@ -26,10 +26,84 @@ def containsPrediction(a):
 	return pred
 
 
+# trans = [
+# 	['Welcome', 'ASUS', 'ASUS | ROUTER'],
+# 	['Welcome', 'ZTE', 'ZTE | ROUTER'],
+# 	['Mikro', 'MIKROTIK | ROUTER']
+# ]
+# 
 trans = [
-	['Welcome', 'ASUS', 'ASUS | ROUTER'],
-	['Welcome', 'ZTE', 'ZTE | ROUTER'],
-	['Mikro', 'MIKROTIK | ROUTER']
+[
+        "mikrotik",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | swl5"
+],
+
+[
+        "nasftpd",
+        "turbo",
+        "station",
+        "5a",
+        "server",
+        "proftpd",
+        "MICROSOFT | CAMERA | gene6"
+    ],
+[
+        "bcm963268",
+        "broadband",
+        "router",
+        "r",
+        "nlogin",
+        "IFS | ROUTER | mtdblock5"
+    ],
+[
+        "mirpur",
+        "ftp",
+        "server",
+        "mikrotik",
+        "bproperty",
+        "ready",
+        "MIKROTIK | ROUTER | rb2011"
+],
+
+[
+        "technicolor",
+        "gateway",
+        "login",
+        "TECHNICOLOR | ROUTER | tg582n"
+    ],
+
+[
+        "n66u",
+        "ftp",
+        "service",
+        "asus",
+        "rt",
+        "welcome",
+        "ASUS | ROUTER | n66u"
+    ],
+
+[
+        "matrix",
+        "setu",
+        "vfxth",
+        "ftp",
+        "service",
+        "welcome",
+        "MATRIX | ROUTER"
+    ],
+[
+        "phytoverse",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | rb2011"
+    ]
+
 ]
 results = list(apriori(trans, min_support=0.1, min_confidence=0.5) ) 
 
