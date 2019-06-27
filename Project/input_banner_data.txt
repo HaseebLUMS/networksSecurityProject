@@ -1,1 +1,1 @@
-220 MikroTik FTP Server (MikroTik 5.6 ready)
+220 Phytoverse FTP server (MikroTik 6.44.1) ready

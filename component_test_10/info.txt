@@ -1,0 +1,11 @@
+Query:   220 phytoverse ftp server mikrotik 6 ready 44 1
+
+https://mikrotik.com/download/archive  : success
+https://mikrotik.com/thedude  : success
+https://mikrotik.com/download/changelogs  : success
+
+
+Brand:  MIKROTIK
+Device:  ROUTER
+Product Number:  rb2011
+Execution Time:  86.60976123809814

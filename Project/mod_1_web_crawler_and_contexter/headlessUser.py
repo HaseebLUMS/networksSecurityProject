@@ -73,7 +73,7 @@ def performSearch(words):
                 return urls
         except:
             pass
-    # browser.quit()
+    browser.quit()
     if len(urls):
         print('urls fetched')
     return urls

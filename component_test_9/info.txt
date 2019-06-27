@@ -1,0 +1,20 @@
+Processed Query:   220 fuji xerox docuprint p455
+
+https://www.toner.com/models/Fuji_Xerox/25911.html  : success
+https://www.surplustoner.com/model/DOCUPRINT-P455-D/25911  : success
+https://www.fujixerox.com.au/en/Products/AU-Printers/DocuPrint-P455d  : success
+https://www.wobm.com.au/fuji-xerox-docuprint-p455d  : success
+https://www.ebay.com.au/c/593285096  : success
+https://www.fujixerox.com.ph/en/Support-and-Drivers/Warranty-Registration-Form  : success
+https://www.price.com.hk/product.php?p=146421  : success
+https://www.hottoner.com.au/Fuji-Xerox-Toner-Cartridges-c1839.html  : success
+https://www.lelong.com.my/store/weyresources/catalog/c1/55892/1  : success
+https://support.apple.com/en-us/HT201465  : success
+https://pc.fujixerox.com.tw/faqs?product_id=105  : success
+https://www.lwt.com.au/Downloads/LWTConsumablePriceList.xls  : success
+
+
+Brand:  SAMSUNG
+Device:  SWITCH
+Product Number:  p455
+Execution Time:  160.09907960891724

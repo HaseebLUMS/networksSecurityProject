@@ -1,7 +1,6 @@
 {
   "vendors": [
     "mikrotik",
-    "arm",
     "vodafone",
     "quectel"
   ],
@@ -12,8 +11,6 @@
     "router"
   ],
   "products": [
-    "x86",
-    "cm2",
     "rb2011",
     "rb9xx",
     "ipv6",

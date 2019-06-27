@@ -1,0 +1,2043 @@
+Technicolor Gateway - LoginHow to Login to the Technicolor TG582n
+Setup Router
+Home
+List of Routers
+What is a Router
+Software
+Network Utilities
+Find Router Password
+Advanced Password Generator
+How Long To Recover Lost Password
+Common Router Passwords
+Networking Guides
+What is my IP Address
+What is an IP Address
+What is a Port
+How To Reset Your Router
+Find Your Router's Internal IP Address
+How To Update Router Firmware
+What are WiFi Channels
+How to Change Your Wireless Name
+What is WPS
+WEP vs. WPA
+How to Choose a Strong Password
+What is Port Forwarding
+Router DMZ
+Gaming Guides
+Find Xbox One IP Address
+Setup a Static IP Address on Xbox One
+Find Xbox 360 IP Address
+Setup a Static IP Address on Xbox 360
+Find the PS4 IP Address
+Setup a Static IP Address on the PS4
+Find the PS3 IP Address
+Setup a Static IP Address on the PS3
+Contact Information
+Contact Us
+Submit Information
+About Us
+Privacy Policy
+Technicolor TG582n Login Instructions
+This page shows you how to login to the Technicolor TG582n router.
+Other Technicolor TG582n Guides
+Download Manuals for Technicolor TG582n
+All Technicolor TG582n Screenshots.
+Find Your Technicolor TG582n Router IP Address
+We need to know the Internal IP Address of your Technicolor TG582n router before we can login to it.
+Technicolor TG582n IP Addresses
+192.168.1.254
+If you did not see your router's ip address in the list above. There are 2 additional ways that you can determine your router's IP address:
+You can either follow our How To Find Your Routers IP Address guide.
+Or you can use our free software called Router IP Address.
+Now that you have your router's Internal IP Address we are ready to login to it.
+Login to the Technicolor TG582n Router
+The Technicolor TG582n has a web interface for configuration. You can use any web browser you like to login to the Technicolor TG582n. In this example we'll use Internet Explorer.
+Enter Technicolor TG582n Internal IP Address
+Put the Internal IP Address of your Technicolor TG582n in the Address Bar of your web browser. It looks like this:
+Then press the Enter key on your keyboard. You should see a dialog box pop up asking your for your Technicolor TG582n username and password.
+Technicolor TG582n Default Username and Password
+You need to know the username and password to login to your Technicolor TG582n. All of the default usernames and passwords for the Technicolor TG582n are listed below.
+Technicolor TG582n UsernamesTechnicolor TG582n Passwords
+unknownunknown
+Enter your username and password in the dialog box that pops up. It looks like this:
+Technicolor TG582n Home Screen
+You should now see the Technicolor TG582n Home Screen, which looks like this.
+If you see this screen, then congratulations, you are now logged in to your Technicolor TG582n. You are now ready to follow one of our other guides.
+Solutions To Technicolor TG582n Login Problems
+If you can not get logged in to your router, here a few possible solutions you can try.
+Technicolor TG582n Password Doesn't Work
+You should try other Technicolor passwords. We have a large list of Technicolor Passwords that you can try located here. Perhaps your router's default password is different than what we have listed here.
+Forgot Password to Technicolor TG582n Router
+If your Internet Service Provider supplied you with your router then you might want to try giving them a call and
+see if they either know what your router's username and password are, or maybe they can reset it for you.
+How to Reset the Technicolor TG582n Router To Default Settings
+If you still can not get logged in then you are probably going to have to reset your router to its default settings. You may want to follow our guide called How To Reset your Router.
+Other Technicolor TG582n Guides
+Here are some of our other Technicolor TG582n info that you might be interested in.
+Download Manuals for Technicolor TG582n
+All Technicolor TG582n Screenshots.
+Written by Rachel Bauer
+Rachel Bauer is an owner and primary author for SetupRouter.com. She is available on Google+ and you can find more of her articles in the Networking section of our site.Set up Technicolor TG582n | Spark NZ
+Personal
+Small Business
+Medium and Enterprise Business
+Spark 5G Lab
+Other websites
+Spark New Zealand
+Spark Foundation
+Spark Lab
+MySpark account
+Spark ID settings
+Sign out
+Sign out
+Cart
+Shop
+Mobile plans
+Unlimited Mobile
+Pay Monthly
+Prepaid
+Mobile Broadband Plans
+View more
+Mobile phones
+All phones
+iPhone XR
+Samsung Note9
+Tablets & Mobile Broadband
+View more
+Get broadband
+The Unplan
+Plans & pricing
+Wireless Broadband
+Learn about Fibre
+View more
+Landline
+Pricing
+Home phones
+Payphones
+View more
+Get more
+Netflix
+Netflix
+Get nonstop Netflix when you join a Spark entertainment broadband plan. No more short-term Netflix deals. Terms apply. Sign up today.
+View more
+Lightbox
+Lightbox
+Stream TV for the whole family, included with selected broadband and Pay Monthly mobile plans.
+View more
+Spotify
+Spotify
+Spotify Premium is free with selected Pay Monthly mobile plans – and 50% off with selected Prepaid plans – for up to 24 months​.
+View more
+Rugby ready
+Rugby ready
+Want to watch all 48 of the Rugby World Cup™ 2019 matches with Spark NZ? Get rugby ready by checking your internet speed and test your device compatibility!
+View more
+MySpark
+Help & support
+Account
+Use MySpark
+Understand my Spark bill
+Pay my bill
+Top up my mobile
+View more
+Broadband
+Broadband speed test
+Fix my broadband
+Set up Fibre
+Set up broadband usage alerts
+View more
+Mobile
+Mobile device help
+Solve roaming problems
+Visiting NZ
+Keep my phone safe
+View more
+Landline
+Make local & international calls
+Manage my directory listing
+Fix my landline
+Fibre & Wireless features
+View more
+Get More
+Set up Xtra Mail for the first time
+Reset my Xtra Mail password
+Set up Netflix
+Set up Spotify
+View more
+Scams and Safety
+Scam alerts
+Report a scam
+How to spot a scam
+More info on scams
+Outages
+Outage map
+Report an outage
+Contact us
+Feedback
+Book a call
+Phone numbers
+Store finder
+Personal
+Personal
+Small Business
+Shop
+Visit
+MySpark
+Visit
+Get more
+Visit
+Help & support
+Visit
+Shop
+Visit
+Help & support
+Visit
+Contact
+Visit
+Sign out
+Set up
+Set up
+Set up Wireless Broadband
+Set up broadband: VDSL or ADSL
+Set up Fibre
+Manage DNS settings
+Set up and check my modem
+Set up a non-Spark modem
+Manage
+Change broadband plan
+Set up broadband usage alerts
+Stay connected during an outage
+Understand Fibre
+Security
+Stay safe online
+Use Spark Security Suite
+Use parental controls
+Learn about WiFi security
+Set up and use Net Shield
+Troubleshoot
+Solve broadband speed issues
+Fix my broadband
+Chat with us
+Speak to a Tech Wizard
+Please configure
+Set up Technicolor TG582n
+Find the Technicolor TG582n modem user guides and troubleshooting information. Find out how to do factory reset as well as change passwords and network names.
+User guides
+Technicolor TG582n user guide. Download now
+Technicolor TG582n quick start guide. Download now
+Access the modem's web interface
+You can manage your modem's settings by signing in to its web interface.
+Open your web browser, eg, Internet Explorer.
+In your browser’s address bar, type in 192.168.1.254.
+Select Enter.
+Type in your username. The default is Administrator.
+Type in your password. If you haven't signed in before, leave this field blank.
+Change the network name (SSID)
+Sign in to the modem's web interface.
+Select Wireless from under Home network.
+Select Configure in the top-right corner.
+Type in the network name (SSID) you’d like to use.
+Select Apply.
+Change the modem's password
+Sign in to your modem's web interface.
+Select Toolbox from the left menu.
+Select User management.
+Select Change my password under the Pick a task section.
+Leave the Old password field blank unless you've changed your modem's password before.
+Type a new password in the New password field.
+Type it again to confirm the new details.
+Select Change password.
+If a security window appears, type in your sign in details with your old password and select OK.
+Change network settings
+You'll find the instructions in the Change Network Settings user guide. Download now
+Factory reset modem
+Reset via the reset button
+Make sure the modem is on.
+Use a paper clip to push the reset button down until the lights on the modem turn off.
+The lights will then start to turn back on and turn green.
+Note: It may take up to five minutes to connect to broadband. And once the reset is complete, you'll need to reconnect everything that use WiFi.
+Check the broadband connection
+Sign in to the modem's web interface.
+Select Broadband connection from the left menu.
+Select DSL connection.
+If DSL is working, you'll see how long the connection has been running under DSL connection. You'll also see DSL connect rates under Bandwidth.
+Under Broadband connection, select Internet services.
+If broadband is working, you'll see how long it's been running under Internet services.
+Was this article helpful for you?
+No
+Yes
+Thanks for your feedback.
+Thanks for your feedback.
+Shop
+Mobile plans
+Mobile phones
+Accessories
+Get broadband
+Landline
+Latest deals
+Get More
+Netflix
+Lightbox
+Spotify
+Free WiFi
+Free email
+Spark Music
+MySpark
+Sign In
+Register
+My Mobile
+My Mobile Broadband
+My Internet
+Help & support
+Account
+Broadband
+Mobile
+Landline
+Book a call
+Feedback
+Store finder
+Privacy Policy
+Legal Disclaimer
+Accessibility
+Terms and Conditions
+Email this page
+Print this Page
+Spark Digital
+Spark New Zealand
+Spark Foundation
+Copyright © 2019 Spark NZTechnicolor TG582n Default Router Login and Password
+Toggle navigation
+Default Router Settings
+From Dan's Tools
+Web Dev
+HTML/JS/CSS PlaygroundHTML Color CodesCSS FontsOnline Diff Tool.htaccess GeneratorJavascript Error LoggerRegEx TestingRGB to HEX Color ConverterTimeStamp ConverterWebsite Speed TestFavicon.ico & App Icon GeneratorOnline Image EditorCSS Sprite GeneratorAdblock Monitor & NotificationKeyword Tool
+Conversion
+Data
+CSV To HTML ConverterCSV To JSON ConverterCSV To TSV ConverterCSV To XML ConverterJSON To CSV ConverterJSON To HTML ConverterJSON To TSV ConverterJSON To XML ConverterXML To CSV ConverterXML To HTML ConverterXML To JSON ConverterXML To TSV ConverterConvert Files
+Numbers
+Binary ConverterBinary To Decimal ConverterBinary To Hex ConverterBinary To Octal ConverterUnit ConverterDecimal To Binary ConverterDecimal To Hex ConverterDecimal To Octal ConverterHex To Binary ConverterHex To Decimal ConverterHex To Octal ConverterData Size ConverterOctal To Binary ConverterOctal To Decimal ConverterOctal To Hex Converter
+Strings
+Binary To String ConverterHex To String ConverterHTML Entities EscapeHTML Entities UnescapeString To Binary ConverterString To Hex ConverterStrip and Remove HTML TagsStrip and Remove XML TagsWord CounterXML Entities EscapeXML Entities Unescape
+Encode/Decoders
+Base64 DecodeBase64 EncodeMD5 Hash GeneratorSHA-1 Hash GeneratorSHA-256 Hash GeneratorSHA-512 Hash GeneratorURL Encode/Decode
+Formatters
+CSS FormatterGO FormatterHTML Beautifier & FormatterJavascript FormatterJavascript ObfuscateJSON Formatter & BeautifierJSON EditorJSON ValidatorPerl FormatterPHP FormatterPython FormatterRuby FormatterSQL FormatterXML Formatter & BeautifierCSS MinifyJavascript MinifyJSON Minify
+Internet
+Email ValidatorExplain Linux CommandsIs It Up Or DownMAC Address SearchDefault Router SettingsUser ManualsWhat is my IP
+JoinLogin
+Technicolor TG582n Default Router Login and Password
+Factory Default Settings for the Technicolor TG582n routerrouter
+66%
+Username:adminPassword:SerialNumberIP Address:N/A SSID:N/A Most Common Technicolor LoginsUsername / Passwordadmin / admin30%admin / password19%none / none11%Administrator / none11%unknown / unknown7%admin / 7%none / admin4%root / 4%root / none4%user / 4%Detected Devices Retry Detecting Routers
+Most Common Technicolor IPs192.168.1.138%10.0.0.129%192.168.1.25424%192.168.100.15%192.168.0.15%
+Tips or Questions?
+PostPosting GuidelinesFormatting - NowDid the reset and still not working... And I'm not misreading the label. Very dissatisfied right now Σμαράγδα Περι () - 2 years ago - Reply 0
+- Now
+Follow @danstools00
+© 2014-2019 Dan's Tools | About | Privacy | Poconos Rentals | Tesla Referral Code
+×Close
+Login
+If you don't already have an account, Register Now
+Close
+×Close
+Join
+Join to access discussion forums and premium features of the site.
+Close
+×Close
+Please Share!
+Thank you for using my tool.
+If you could share this tool with your friends, that would be a huge help:
+Tweet
+Or follow us to learn about our latest tools:
+Follow @danstools00
+Close
+xTechnicolor TC7200 Default Router Login and Password
+Toggle navigation
+Default Router Settings
+From Dan's Tools
+Web Dev
+HTML/JS/CSS PlaygroundHTML Color CodesCSS FontsOnline Diff Tool.htaccess GeneratorJavascript Error LoggerRegEx TestingRGB to HEX Color ConverterTimeStamp ConverterWebsite Speed TestFavicon.ico & App Icon GeneratorOnline Image EditorCSS Sprite GeneratorAdblock Monitor & NotificationKeyword Tool
+Conversion
+Data
+CSV To HTML ConverterCSV To JSON ConverterCSV To TSV ConverterCSV To XML ConverterJSON To CSV ConverterJSON To HTML ConverterJSON To TSV ConverterJSON To XML ConverterXML To CSV ConverterXML To HTML ConverterXML To JSON ConverterXML To TSV ConverterConvert Files
+Numbers
+Binary ConverterBinary To Decimal ConverterBinary To Hex ConverterBinary To Octal ConverterUnit ConverterDecimal To Binary ConverterDecimal To Hex ConverterDecimal To Octal ConverterHex To Binary ConverterHex To Decimal ConverterHex To Octal ConverterData Size ConverterOctal To Binary ConverterOctal To Decimal ConverterOctal To Hex Converter
+Strings
+Binary To String ConverterHex To String ConverterHTML Entities EscapeHTML Entities UnescapeString To Binary ConverterString To Hex ConverterStrip and Remove HTML TagsStrip and Remove XML TagsWord CounterXML Entities EscapeXML Entities Unescape
+Encode/Decoders
+Base64 DecodeBase64 EncodeMD5 Hash GeneratorSHA-1 Hash GeneratorSHA-256 Hash GeneratorSHA-512 Hash GeneratorURL Encode/Decode
+Formatters
+CSS FormatterGO FormatterHTML Beautifier & FormatterJavascript FormatterJavascript ObfuscateJSON Formatter & BeautifierJSON EditorJSON ValidatorPerl FormatterPHP FormatterPython FormatterRuby FormatterSQL FormatterXML Formatter & BeautifierCSS MinifyJavascript MinifyJSON Minify
+Internet
+Email ValidatorExplain Linux CommandsIs It Up Or DownMAC Address SearchDefault Router SettingsUser ManualsWhat is my IP
+JoinLogin
+Technicolor TC7200 Default Router Login and Password
+Factory Default Settings for the Technicolor TC7200 cable modem,wireless routercable modem,wireless router
+65%
+Username:adminPassword:adminIP Address:192.168.0.1 SSID:N/A Most Common Technicolor LoginsUsername / Passwordadmin / admin30%admin / password19%none / none11%Administrator / none11%unknown / unknown7%admin / 7%none / admin4%root / 4%root / none4%user / 4%Detected Devices Retry Detecting Routers
+Most Common Technicolor IPs192.168.1.138%10.0.0.129%192.168.1.25424%192.168.100.15%192.168.0.15%Available Manualsuser manual
+Tips or Questions?
+PostPosting GuidelinesFormatting - NowPortions © Wikidevi under CC BY-SA 3.0.
+Follow @danstools00
+© 2014-2019 Dan's Tools | About | Privacy | Poconos Rentals | Tesla Referral Code
+×Close
+Login
+If you don't already have an account, Register Now
+Close
+×Close
+Join
+Join to access discussion forums and premium features of the site.
+Close
+×Close
+Please Share!
+Thank you for using my tool.
+If you could share this tool with your friends, that would be a huge help:
+Tweet
+Or follow us to learn about our latest tools:
+Follow @danstools00
+Close
+x
+xTechnicolor Home Page
+Skip to main navigation
+DREAM
+DREAM
+BACK
+Who We Are
+Innovation
+The Technicolor Academy
+CREATE
+CREATE
+BACK
+Services
+Virtual Production
+VFX
+Production Front-End
+Picture Post-Production
+Sound Post-Production
+Animation
+BACK
+Audiences
+Feature Film
+TV / Episodic
+Advertising
+Immersive (VR/AR/MR)
+Games
+BACK
+Locations
+Los Angeles
+London
+Toronto
+Montreal
+New York
+Bangalore
+Paris
+Vancouver
+Chicago
+Shanghai
+Amsterdam
+Adelaide
+DISTRIBUTE
+DISTRIBUTE
+BACK
+Home Experience
+Access Solutions & Devices
+Fiber
+Advanced Copper
+DOCSIS3.1
+Wireless
+Play Solutions & Devices
+Video Streaming
+HDR
+Ultra HD
+Advanced Compression
+Commercial Video Solutions
+Engage
+Trademark Licensing
+BACK
+Supply Chain Solutions
+Manufacturing
+Distribution & Fulfillment
+Transportation Management
+EXPERIENCE
+EXPERIENCE
+BACK
+In Theaters
+At Home
+DREAM
+DREAM
+Overview
+Who Are We
+Innovation
+The Technicolor Academy
+CREATE
+CREATE
+Overview
+BACK
+Services
+Virtual Production
+VFX
+Production Front-end
+Picture Post
+Sound Post
+Animation
+BACK
+Audiences
+Feature Film
+TV / Episodic
+Advertising
+Immersive (VR/AR/MR)
+Games
+BACK
+Locations
+Los Angeles
+London
+Toronto
+Montreal
+New York
+Bangalore
+Paris
+Vancouver
+Chicago
+Shanghai
+Amsterdam
+Adelaide
+DISTRIBUTE
+DISTRIBUTE
+Overview
+BACK
+Home Experience
+Overview
+Access Solutions & Devices
+Overview
+Fiber
+Advanced Copper
+Wireless
+DOCSIS3.1
+Play Solutions & Devices
+Overview
+Video Streaming
+HDR
+Ultra HD
+Advanced Compression
+Commercial Video Solutions
+Engage
+Trademark Licensing
+BACK
+Supply Chain Solutions
+Overview
+Manufacturing
+Distribution & Fulfillment
+Transportation Management
+EXPERIENCE
+EXPERIENCE
+Overview
+In Theaters
+At Home
+COMPANY
+COMPANY
+Careers
+Press Center
+Investor Center
+News
+Governance & Management
+Corporate Social Responsibility
+Contact Us
+Legal
+News
+Japanese
+English
+English
+Français
+Search
+Dead to Me
+Netflix’s new series goes for a different look than a traditional comedy – a more filmic look that evolves deeper with each episode.
+Read More
+Dumbo
+Technicolor’s MPC Film joined the live-action remake of a Disney classic – creating Dumbo and other characters and environments of his world.
+Read More
+Us
+Writer/director Jordan Peele’s latest hit Us once again uses the horror genre to tell a thought-provoking story that’s a cultural reflection of our times.
+Read More
+Hellboy
+With super long shots and lots of action, Technicolor’s MR. X tops itself – creatively and technically – for over-the-top Hellboy.
+Read More
+Virtual Production
+Technicolor's Genesis Brings Real-Time Virtual Production to Traditional Filmmaking Roles
+Read More
+Fiber Industry Infographic
+Technicolor Advanced Copper Survey Results: Discover How Telco Operators See the Adoption of Ultra-broadband Technologies
+Read More
+Award Season Highlights
+Technicolor is home to many of the industry’s most honored artists and talent, carrying on a legacy of award-caliber work across features, episodic television, and more.
+Read More
+Experiences unleashed
+Dead to Me
+Dumbo
+Us
+Hellboy
+Virtual Production
+Fiber Industry Infographic
+Awards
+See All News
+Technicolor unites industry-leading artistry with cutting-edge technology and innovation to unleash extraordinary experiences for audiences everywhere.
+Dream
+Who We Are
+Innovation
+The Technicolor Academy
+Create
+Production Front-End
+VFX
+Picture Post
+Sound Post
+Animation
+Distribute
+Access Solutions & Devices
+Play Solutions & Devices
+Supply Chain Solutions
+Experience
+In Theaters
+At Home
+Company
+Careers
+Investor Center
+Press Center
+News & Events
+Governance & Management
+Corporate Social Responsibility
+Contact Us
+Legal
+© 2018 Technicolor. All Rights Reserved
+Search this website
+Enter keywords
+We use cookies on our website to support technical features that enhance your user experience.
+We also use analytics & advertising services. To opt-out click for more information.
+I've read it
+More informationTechnicolor TG589vac - Wireless Settings
+Home
+Knowledgebase
+Search
+Home » Knowledgebase » Broadband » Setup and "How to" guides » Broadband Hardware Guides » Technicolor » TG 589 VAC » Technicolor TG589vac - Wireless Settings
+Technicolor TG589vac - Wireless Settings
+Technicolor TG589vac - Wireless Settings
+Aim of this article:
+This article provides a step-by-step guide to amending the wireless password and network name (SSID) settings on the Technicolor TG589vac router. It also shows you how to access and amend the 5GHZ and guest network settings.
+Before starting:
+Your device will need to be connected to the router either via Ethernet, or by using the existing wireless configuration details printed on the router itself, or on the small wireless settings card which is supplied inside the router's packaging.
+Change the Wireless Password or Network Name (SSID):
+Open an Internet browser. Launch the Technicolor interface by visiting: http://192.168.1.1
+Click the Sign In button in the top-right of the screen:
+Login using the username engineer and your password, which is the unique access key printed underneath your router. Note: the access key is case-sensitive.
+Click Sign in to continue.
+You will now be taken back to the main Technicolor interface.
+Now, click on the Wireless options to load the settings.
+If you wish to update your network name from the default one provided, simply amend the content of the SSID name field, replacing this with the new name you wish to give to the network.
+You can amend the wireless password by updating the Wireless Password box.
+You are also able to adjust futher settings, such as the current wireless channel, using this screen.
+Once you have entered a new password - ensuring you have also made note of this - and updated any other settings required, you should click the Save button to save the new configuration.
+Accessing the 5ghz wireless and guest wireless settings:
+The TG589vac router also supports 5ghz wireless for faster speeds, as well as a guest wireless network.
+To access the 5ghz settings, you will need to open the Wireless Settings as normal, then select your network name under the Access Points 5GHZ menu. This will have the same network name as your usual wireless network, but with "-5G" added to the end.
+Please note: By default the 5ghz network has the same password as the 2.4ghz network. If you amend the wireless password for your 2.4ghz network, this will not automatically amend the password for the 5ghz version.
+There are also guest networks set-up on both the 2.4ghz and 5ghz spectrums, you can view and amend the password for these by clicking on their names in the network list.
+Rate this Article:
+Feedback on this Article
+Comment require
+login
+or
+registration.
+Details
+Type: GETTING STARTED
+Rated 3 stars based on 4 votes.
+Article has been viewed 41,844 times.
+Options
+Email Article
+Print Article
+Bookmark Article
+Social Bookmarks
+Help & Support
+Broadband
+Email
+Domain Names
+Phone Services
+Web Hosting
+Online Data Backup
+Manage Your Account
+Getting Started
+How To
+Troubleshooting
+FAQs
+Service Alerts
+Forum
+Knowledgebase
+Contact Us
+Customer Portal
+Blog
+Help & Support
+Sign-in
+01706 902000
+Sign up for email updates
+with the latest Internet news from Zen
+Webmail
+Blog
+Legal Policies
+Privacy
+Cookies
+Feedback
+Contact Us
+Sitemap
+© Copyright 1999 - 2019. All rights reserved.
+Skip to site navigation
+Send by email...
+Social Bookmarks...Technicolor / Thomson routers authentication bypass exploit
+· Issue #41 · threat9/routersploit · GitHub
+Skip to content
+Why GitHub?
+Features →
+Code review
+Project management
+Integrations
+Actions
+Package registry
+Team management
+Social coding
+Documentation
+Code hosting
+Customer stories →
+Security →
+Enterprise
+Explore
+Explore GitHub →
+Learn & contribute
+Topics
+Collections
+Trending
+Learning Lab
+Open source guides
+Connect with others
+Events
+Community forum
+GitHub Education
+Marketplace
+Pricing
+Plans →
+Compare plans
+Contact Sales
+Nonprofit →
+Education →
+In this repository
+All GitHub
+↵
+Jump to
+↵
+No suggested jump to results
+In this repository
+All GitHub
+↵
+Jump to
+↵
+In this repository
+All GitHub
+↵
+Jump to
+↵
+Sign in
+Sign up
+Watch
+481
+Star
+7,079
+Fork
+1,330
+threat9/routersploit
+Code
+Issues
+57
+Pull requests
+4
+Projects
+1
+Wiki
+Security
+Insights
+Dismiss
+Join GitHub today
+GitHub is home to over 36 million developers working together to host and review code, manage projects, and build software together.
+Sign up
+New issue
+Have a question about this project? Sign up for a free GitHub account to open an issue and contact its maintainers and the community.
+Pick a username
+Email Address
+Password
+Sign up for GitHub
+By clicking “Sign up for GitHub”, you agree to our terms of service and
+privacy statement. We’ll occasionally send you account related emails.
+Already on GitHub?
+Sign in
+to your account
+Technicolor / Thomson routers authentication bypass exploit
+#41
+Closed
+cusspvz
+opened this issue
+Apr 26, 2016
+· 33 comments
+Closed
+Technicolor / Thomson routers authentication bypass exploit
+#41
+cusspvz
+opened this issue
+Apr 26, 2016
+· 33 comments
+Comments
+Assignees
+No one assigned
+Labels
+module
+Projects
+Done
+in
+RouterSploit
+Milestone
+No milestone
+6 participants
+Copy link
+Quote reply
+cusspvz
+commented
+Apr 26, 2016
+•
+edited
+I've found a way to bypass authentication on most of Technicolor and Thomson routers.
+Inspite of my efforts contacting them, they didn't replied to my emails, so I would like to disclosure it over here.
+As my Python skills aren't the best yet, is there any python master over there who would like to help me writing it?
+👍
+3
+cusspvz
+changed the title
+Technicolor / Thomson routers exploit
+Technicolor / Thomson routers authentication bypass exploit
+Apr 26, 2016
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+nymx
+commented
+Apr 26, 2016
+@cusspvz If you send me the details, I'll write the exploit.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+devsli
+commented
+Apr 26, 2016
+I was hanging around forks and found one Technicolor auth bypass here. Isn't it the same?
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Apr 26, 2016
+@Bouncingbunny You can find the procedure here
+@devsli No it isn't.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+nymx
+commented
+Apr 26, 2016
+@cusspvz While I can try my best, I really need said router on hand to develop the exploit. Perhaps someone else would be willing to pick it up.
+👍
+1
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+lucyoa
+commented
+Apr 26, 2016
+@cusspvz do you have access to the vulnerable device?
+This exploit requires multiple steps:
+Connecting to the FTP service with upgrade account credentials and download configuration file
+Extract data from configuration file and use it to build valid cookie
+Connect to the web interface with crafted cookie and check if authentication has been bypassed
+The result of exploit is valid cookie that can be copy/pasted to the browser which lets you access web interface. Maybe device has some cool vulns after authentication like os command injection?
+These multiple steps make creating exploit hard without vulnerable device.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Apr 26, 2016
+@Bouncingbunny does it help if I provide the steps you need to take and test the script on this side? Inspite I do not develop on python, I think I can finish it up if you write the base.
+Dependencies you will need:
+ftp python module
+net python module
+http python module
+Note: If on any of the expected part fails, it isn't vulnerable.
+Options:
+target - defaults to 192.168.1.254
+account - defaults to upgrade
+password - defaults to Th0ms0n!
+config-ftp-path - defaults to user.ini
+new-account - exploited-admin
+new-password - exploited-admin
+Here are the steps to check:
+Check if upgrade account is available
+Connect to target tcp socket at 23 (telnet)
+Expect Username :
+Write upgrade
+Expect Login not allowed (this means the user exist but isn't allowed to login via telnet)
+Expect http and ftp ports opened
+Here are the steps to run:
+Check if option.account account is available
+Connect to target tcp socket at 23 (telnet)
+Expect Username :
+Write option.account
+Expect Password :
+Write option.password
+Expect Login not allowed (this means the user exist but isn't allowed to login via telnet)
+Connect to ftp
+Login with option.account and option.password
+Stream down the options.config-ftp-path
+Add line (will edit this later)
+Stream up the options.config-ftp-path
+Warn user with login details
+Print out the url, newly created account and password.
+The exploit allows to bypass authentication because you have direct access to the configuration file, but since it would be a little tricky to implement the cookie sharing after login, maybe it is better to inject a new user on it.
+I will edit this later with a way to do this. (give me a couple of minutes)
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Apr 26, 2016
+@lucyoa: Maybe device has some cool vulns after authentication like os command injection?
+Yes it has. :D
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+nymx
+commented
+Apr 26, 2016
+@cusspvz I know the process of exploiting the vulnerability, but because it has so many steps, I do need a copy of the router to complete it. I can write it and then send it to you to test and then you can tell me what to fix, if that's okay.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Apr 26, 2016
+@Bouncingbunny That would be great! If there are fixes I could fix I will also save you time! :)
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Apr 26, 2016
+@Bouncingbunny Will you take the cookie injection approach or the creation of a new user? Just asking to know if I need to edit the comment above.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+nymx
+commented
+Apr 26, 2016
+@cusspvz I'll implement both.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Apr 26, 2016
+Nice!!! Can't wait for it.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+nymx
+commented
+Apr 27, 2016
+@cusspvz https://ghostbin.com/paste/w8253 I implemented a check function. Can you try it for me? The run function doesn't work right now.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Apr 29, 2016
+It isn't working, not because of the code but because of Telnet implementation. I've spent almost 20min investigating the case and seems read_until doesn't work flawless, there are some known issues on it, on the discussion (cannot recall where) they suggested to use static sleepers instead. I've tried it but no luck...
+Here's what happened:
+First i though it was fault of login : instead of Username :, changed but it didn't fixed.
+It wasn't my first experience with python, so I've added some prints to check either lines were being executed and removed the @mute decorator.
+Seems it was passing on the first read_until('Username : ') but not on the password one.
+I've added timeout to the read_until, it passed but it didn't worked, so I've changed all the read_until statements to sleep( 2 ), telnet implementation wasn't able to read it.
+Do you have any kind of thompson equipment?
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+nymx
+commented
+Apr 29, 2016
+@cusspvz I only have a netgear router running either dd-wrt or tomato, not sure which.
+Can you telnet into the router and tell me exactly what the prompt is when you connect and login?
+lucyoa
+added
+enhancement
+module
+and removed
+enhancement
+labels
+May 4, 2016
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+May 10, 2016
+josemoreira@MacBook-Pro-de-JM ~> telnet 192.168.1.254
+Trying 192.168.1.254...
+Connected to 192.168.1.254.
+Escape character is '^]'.
+Username : `stdin<upgrade`
+Password : `stdin<Th0ms0n!`
+Login not allowed (User 'upgrade' is disallowed to login from lan to telnet)
+Closing connection
+Connection closed by foreign host.
+josemoreira@MacBook-Pro-de-JM ~>
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+0BuRner
+commented
+Nov 16, 2016
+What's up guys ?
+@cusspvz is the exploit working or not ?
+@nymx is that ghostbin script the last version of your exploit ?
+I can work on it further and finalize it if needed. Let me know
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Nov 17, 2016
+@cusspvz is the exploit working or not ?
+@0BuRner yes it is
+@nymx is that ghostbin script the last version of your exploit ?
+I think so.
+I can work on it further and finalize it if needed. Let me know
+Here you have a detailed workflow for achieving the exploit.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+0BuRner
+commented
+Nov 17, 2016
+•
+edited
+Thx for your reply @cusspvz but I don't understand...
+You told me the exploit is working, so I guess the work is done.
+So can I create a pull request to this repo with his script ? If not, are there still steps to do ? Which ?
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Nov 17, 2016
+You told me the exploit is working, so I guess the work is done.
+Sorry, I tough you were referring if the exploit (the procedure) was working and not the exploit implementation (the python procedure script).
+The python script wasn't.
+If not, are there still steps to do ? Which ?
+Don't remember, the last time I had tested it wasn't detecting the telnet responses as it should.
+The conversation was at that point. My latest message before your intervention was the IO of the telnet on an affected router.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+0BuRner
+commented
+Nov 19, 2016
+Ok I found the telnet problem in @nymx 's script, he wasn't following the RFC with the use of '\n' at the end of the instruction.
+Telnet specification says that '\r\n' must be used.
+The Telnet end-of-line sequence CR LF MUST be used to send Telnet data that is not terminal-to-computer (e.g., for Server Telnet sending output, or the Telnet protocol incorporated another application protocol).
+I'm going further with the FTP connection.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+0BuRner
+commented
+Nov 19, 2016
+•
+edited
+@cusspvz Can you give me info on how to create the line with the new user's info ?
+Here is a preview : https://ghostbin.com/paste/9thnv. Tell me if it works.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+0BuRner
+commented
+Dec 15, 2016
+@cusspvz ping
+lucyoa
+added this to ToDo
+in RouterSploit
+Feb 23, 2017
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+lucyoa
+commented
+Feb 23, 2017
+@0BuRner can you create pull request with that exploit? I will try to find someone with this router.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Feb 23, 2017
+Sorry for the delay....
+Coincidence, received an email from @lucyoa when the coffeeshop I was had an affected router!
+It seems it works.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Feb 23, 2017
+@0BuRner I wasn't creating a new user, but it should work as well.
+Instead, I was grabbing hash from the configuration file and requesting a session using it.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Feb 23, 2017
+Here's a copy of user.ini: https://ghostbin.com/paste/3x6h8
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Feb 23, 2017
+Seems hash2 is a concatenation of user, realm and password, all joined using :.
+It seems they don't save the password, but instead only the hash generated on login/user registration.
+Proof:
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+0BuRner
+commented
+Feb 23, 2017
+•
+edited
+@cusspvz Thanks for your feedback. Then can you provide me the steps on how to request a session using this hash ? Or at least how to exploit this vulnerability ?
+In your steps you said :
+Add line (will edit this later)
+Stream up the options.config-ftp-path
+Warn user with login details
+Print out the url, newly created account and password.
+And in my case hash2 is not the problem, but password following this pattern is problematic : password= _CYP2_{} since I need to know how to generate that encrypted pwd. Is this equivalent to the hidepw form element ?
+Or maybe you can give me a known encrypted password and I'll add it but then the user can't choose with the options.
+Moreover I don't think it's a good idea to publicly disclose that configuration file here x)
+@lucyoa The exploit is not finished yet. Only check method is done and some of usefull methods for further if I remember well. Do you want I create a pull request anyway ?
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+toxydose
+commented
+Feb 23, 2017
+•
+edited
+Please note, this router also have digest auth. The basicHttp responce module will not working. On the script that was provided by @cusspvz I can see the next:
+HA1=MD5(username:realm:password)
+HA2=MD5(method:digestURI)
+It measns that this is digest auth MD5 calulating
+proof:
+https://en.wikipedia.org/wiki/Digest_access_authentication
+I had the issue #176 with this method, so I decided write about it here, to prevent possibility of the same mistakes. There is the ready module for this in python-requests, it is unnecessary to write additional lines to calculate
+HA1 and HA2
+👍
+1
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Author
+cusspvz
+commented
+Feb 23, 2017
+@0BuRner let's give a try on CYP line instead of CYP2 line?
+I've read that recent firmwares also accept the CYP format.
+Add realm as a option (it could be Technicolor Gateway or Thomson Gateway).
+Calculate hash2: MD5( username + ':' + realm +':' + passord )
+Calculate password cyp: '_CYP_' + MD5( password )
+Add a line under
+[ mlpuser.ini ]:
+add name=${username} password=${passwordCYP} role=SuperUser hash2=${hash2}`
+Source for Realms:
+http://modem-help.forum-phpbb.co.uk/t1-fixing-username-password-problems
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+lucyoa
+commented
+Feb 24, 2017
+•
+edited
+@0BuRner it would be cool if you could push it forward until will be ready to release :)
+0BuRner
+referenced this issue
+Feb 25, 2017
+Closed
+Technicolor TG784 auth bypass
+#196
+lucyoa
+moved this from To do
+to In Progress
+in RouterSploit
+Feb 27, 2017
+lucyoa
+referenced this issue
+Apr 14, 2017
+Merged
+Technicolor TG784 Authentication Bypass
+#230
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Contributor
+lucyoa
+commented
+Apr 14, 2017
+I was able to get vulnerable device and play a little bit with it.
+Exploitation with injecting additional user does not seem to work properly.
+It looks like it is required to restart device so new settings can be loaded. I didnt have enough time to investigate that so its just a guess.
+@0BuRner I modified your exploit from your fork and now it extracts configuration and builds valid javascript payloads that you can use through developer tools to bypass authentication.
+Pull request: #230
+👍
+2
+fwkz
+closed this
+in
+#230
+Apr 18, 2017
+lucyoa
+moved this from In Progress
+to Done
+in RouterSploit
+Apr 20, 2017
+Sign up for free
+to join this conversation on GitHub.
+Already have an account?
+Sign in to comment
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.Technicolor - TG588v2 - VDSL | Router Guides | uno Communications Ltd.
+uno Communications
+Questions? Call us today!
+0333 773 7700
+Like us?
+Packages
+SOHO Broadband
+Business Broadband
+Fibre Broadband
+Line Rental & Calls
+Unmetered Broadband
+Bonded Broadband
+Leased Line - Ethernet
+EFM - Copper Ethernet
+Benefits of uno
+About Us
+Support
+Service Status
+Feedback & Discuss
+Knowledge Base
+Submit a Ticket
+Contact Us
+Login
+Home
+Login
+unoKnowledge BaseArticlesRouter Guides
+Properties
+Author
+Thomas
+Knowledge Base
+Common Faults
+Support & Billing
+Hints & Tips
+Email
+Bonded Broadband
+Bonding Guides
+Domain Names
+File Transfers - FTP
+Firewall & Antivirus
+Networking
+Router Guides
+Router Statistics
+Router Firmware
+Telephone
+Wireless Networking
+Wiring
+FAQs
+Related Articles
+How to change DNS on a Technicolor TG582n
+Billion - 7700N - ADSL - NAT
+Technicolor - TG582n - FTTC - Routed
+Technicolor - TG589vn - FTTC - Routed
+Technicolor - TG582n - FTTC - NAT
+Technicolor - TG582n - ADSL - Routed
+2wire - 2700HGV - ADSL - NAT
+Technicolor - TG582n - ADSL - NAT
+Billion - BiPAC 7800 - FTTC - NAT
+PPPoE - Windows 7
+PPPoE - Mac OS X
+Netgear Generic Guide
+PPPoE - Windows 8
+Technicolor - TG589vn - ADSL - NAT
+Thomson - TG585 - ADSL - NAT
+Billion - BiPAC 7800 - FTTC - Routed
+Technicolor - TG589vn - FTTC - NAT
+Technicolor - TG589vn - ADSL - Routed
+Thomson - TG585 - ADSL - Routed
+Billion - BiPAC 7800 - ADSL - NAT
+Billion - BiPAC 7800 - ADSL - Routed
+ZyXEL - VMG1312 - Changing Wireless Channels
+ZyXEL - VMG1312 - Changing SSID and Wireless Password
+ZyXEL - VMG1312 - ADSL - NAT
+ZyXEL - VMG1312 - ADSL - Routed
+ZyXEL - VMG1312 - FTTC - NAT
+ZyXEL - VMG1312 - FTTC - Routed
+ZyXEL - VMG8924 - Changing Wireless Channels
+ZyXEL - VMG8924 - Changing SSID and Wireless Password
+ZyXEL - VMG8924 - ADSL - NAT
+ZyXEL - VMG8924 - ADSL - Routed
+ZyXEL - VMG8924 - FTTC - NAT
+ZyXEL - VMG8924 - FTTC - Routed
+ZyXEL - VMG1312 - Enabling WAN Ping
+ZyXEL - VMG8924 - Setting Up Guest Network
+Technicolor - TG789vac - ADSL
+Technicolor - TG789vac - VDSL
+Technicolor - TG588v2 - ADSL
+Technicolor - TG588v2 - VDSL
+Openreach Approved VDSL Modem/Routers (MCT)
+ZyXEL - VMG1312 - Remote Management
+Technicolor - TG588 - Quick Start Guide
+Technicolor - TG588/TG789vac - Wireless Channel
+Technicolor TG588/TG789vac - Viewing Stats
+Draytek 2862ac - ADSL
+Draytek 2862ac - VDSL
+Draytek 2862ac - Remote Management
+Draytek 2862ac - Allow Pings
+Preconfigured Router Login Details
+Technicolor - TG588v2 - VDSL
+Once you plug in the router and connect to the router you may get a popup that asks for the username and password, close this box.Once connected enter the router IP, 192.168.1.1 by default, into the address bar of your browser.You will then see the web interface. Click on Sign In at the top right.You will then be asked to sign in, the default credentials are admin as both the username and password. If the router has been preconfigured the password may be the serial number of the device. You may then be asked to change the admin password, you may wish to do this as it is advisable, however if you do not then click skip.You should then be back on the main screen of the web interface, logged in as admin. Click the Gateway option.You will then see the Connection Configuration page. Check the radio boxes at the top and confirm that VDSL is selected. If not then select VDSL and then click Switch Connection Type.Once you have confirmed VDSL is selected, leave all the settings as they are and just fill in the Username and Password boxed with the information emailed to you. Once you have filled in the username and password confirm that the MTU and VLAN ID are correct.Once you have done this click Save and then your connection will have been setup.
+Is article helpful?
+0
+0
+0
+© Copyright 2014-2019 uno Communications Ltd. All rights reserved. E&OE
+Terms & Conditions
+Acceptable Usage Policy
+Privacy Policy
+Site Map192.168.1.254 - Technicolor TG582n Router login and password
+search
+Security checklist for Technicolor TG582n router
+To login to Technicolor TG582n router and change the network name and password,
+Start with opening your favorite browser,then in the address bar enter the IP Address http://192.168.1.254, You will now be taken to the login page where you can enter the default username: blank and password: blank Change Technicolor TG582n default Login and Password or reset it if you dont remember Change Technicolor TG582n default Wifi name (SSID) / Password.Continue reading for detailed step-by-step instructions
+1.Open Technicolor TG582n Router IP Address Technicolor TG582nRouter Internal IP Address: http://192.168.1.254Open link
+(Remember you must be at home and connected to home wifi to do this)
+2.Login to the Technicolor TG582n Router
+You will now be taken to the login page where you can enter default username: blank and password: blank to complete the login process (You can simply use the copy-paste below). Voila! You are now logged in!
+Default username for Technicolor TG582n: blank
+Default password for Technicolor TG582n: blank
+And no need to get your breathing rates high in case you have changed the username/ password of Technicolor TG582n and forgot them, as you can just reset the Technicolor TG582n router by press-and-hold the reset button with a clip for about 15 seconds.
+3.Change Technicolor TG582n Default Login and Password Since, security of a network is vital, the first and foremost task is to change the Technicolor TG582n router Default Login and Password to something more personal and secure
+Technicolor TG582n Router Password Tips:
+Choose a complex and hard-to-guess password for your Technicolor which only you can remember It should be something personal, like &ilostmyvirginity@30, so that you will never forget it. Ever
+Protect it The amount of protection directly depends on the password complexity, and the effort taken to protect that password of your Technicolor TG582n router
+Usability first Give Password for your Technicolor TG582n router that you can remember (usability first). Of course, you can build a strong hash password with special character, numbers, greek and latin. But ultimately you will endup writing it on a sticky and putting it on the router which defeats the purpose. Here’s an example $lasttriptovegas0916
+4.Change Technicolor TG582n Default Wifi name (SSID) and Password and enable Network Encryption Another small suggestion (as it has no impact on security), is to change the Technicolor TG582n Default Wifi name (SSID) as it will make it more obvious for others to know which network they are connecting to.
+Look for Network Name (SSID), this is the wifi name of your Technicolor TG582n Router. Don’t use your name, home address or other personal information (since this isn’t a Facebook status!) in the SSID name. (No Mr.Paul&Princy) Few funny wifi name suggestions: I’m cheating on my WiFi!, FBI Surveillance Van #594 (scares away stupid criminals), Lord of the Pings... Once you enter the name for your network, you have to enable WPA2-PSK encryption on your Technicolor TG582n router. That’s the strongest encryption standard available for home networks. Enter a new WPA Pre-Shared Key / Wifi Password – this is the password that you will use to connect to your home wifi. Keep it 16-20 characters and (please!) don’t use the same password that you used for Technicolor TG582n router login! You did good so far, Now consider ⭐ Bookmarking this page, It always helps
+We are looking for Sponsors ! Modemly helps hundreds of thousands of people every month to setup a safe and secure internet environment. We are looking for sponsors for our site Read more
+5.Few more settings that you can consider for your Technicolor TG582n router You need or need not choose to consider this step; it is both obsolete and quite a hassle! •You can consider MAC Address filtering for Technicolor TG582n router. But, you will have to essentially login to the router to add any new devices by feeding the device’s MAC address everytime you have a guest. Your date might want to check his/her emails, you know? •There are a lot of resources in Internet asking to Disable SSID Broadcast on your Technicolor TG582n, but it’s more painful for you to connect every time than the hacker. Just forget, We don’t even recommend it
+6.Security is a continuous process Just keep in mind to change the passwords often or at least once in every 6 months! on your Technicolor TG582n You do not want the safety you have worked so hard for to fail just because of ignorance, negligence or casual laziness! Time for a bulletin on the fridge, folks! We can remind you though? Enter your email on below! Nope, we’re not spammers!
+type in your email...
+submit
+Technicolor TG582n router login issues:
+Technicolor TG582n Password Doesn't Work Passwords find a way to not work! Or, in most cases, users find a way to forget them! In either case, look up the “How to Reset the Technicolor TG582n Router to Default Settings” section below
+Forgot Password to Technicolor TG582n Router Incase if you have changed the default username and password of Technicolor TG582n and forgot it, Please see “How to Reset the Technicolor TG582n Router To Default Settings” section below
+How to Reset the Technicolor TG582n Router To Default Settings Incase if you have changed the default username and password of Technicolor TG582n and forgot it, It’s more like magic, I’d say! Press the reset button with a pin or something that gets through the tiny hole, and hold it for about 15 seconds! (till you see all lights flickering) Your Technicolor TG582n router shall be reset in no time, and you can start from step 1 in this guide to set it back up
+How to boost Technicolor TG582n Wifi and overcome connectivity issues:
+1.Place the Technicolor TG582n in a perfect spot The perfect spot does it all; be it romance or your router! To avail the best signal and network connectivity, make sure you keep your Technicolor TG582n router visibly and not facing the wall or behind the curtains
+2.Find a Good Wireless Channel Instead of Auto on your Technicolor TG582n router Auto channels might fail you once in a while; believe that you’re smarter than the Technicolor router! Find a seamless wireless channel instead of what the router finds automatically. This would ensure that your signal does not interfere with that of your neighbors. If you’re running a Windows-based PC, you can see what channels neighboring Wi-Fi networks are using. -Press Start > type “cmd”. Open Command prompt -In command prompt type netsh wlan show all You will see a list of all wireless networks and the channels being used in your vicinity. instead of using “Auto” for the control channel, Pick the channel that has the lowest interference
+3.Check the frequency of Technicolor TG582n Check If Technicolor TG582n has dual-band, the more commonly used band would be 2.4GHz; however, switching to 5GHz would bring out better results! It depends on your device though; if you’re running an old lad, you might have to switch back to the conventional.
+4.Hardwire gaming consoles / media streamers into your Technicolor TG582n instead of wifi Gaming consoles/media streamers work better when connected through Ethernet cable of Technicolor TG582n; in fact, as you might not be moving your TV all over the house, why connect it to the Wi-Fi at all? The gaming consoles / video streaming devices flood the network with data. This means that if possible, you should consider hardwire (using Ethernet cable) the devices that tend to consume a lot of bandwidth. Although this can sort of defeat the purpose of having wireless network, but it can actually help your overall network speed of Technicolor TG582n if you can hardwire the bandwidth hogs.
+5. Reboot Technicolor TG582n on a schedule Here is something important to note! On schedule, folks, reboot your Technicolor TG582n router! Though routers are built to constantly be running at all times, simple tweak like regular power cycling (a fancy way of saying unplugging the power cord and shoving it back up) helps with most issues. Rebooting your Technicolor TG582n can fix Internet connection problems, improve slow moving connections and resolve wireless issues altogether. Try unplugging your Technicolor modem on a quarterly basis to stay proactive (Never reset, always reboot modem)Technicolor TG587n v3 – Getflix Knowledge Base
+Submit a request
+Sign in
+Getflix Knowledge Base
+Device Setup
+Blocking Public DNS
+Technicolor TG587n v3
+Getflix Support
+30 October 2017 08:54
+Follow
+Note: This is an advanced procedure since it's not possible to add static routes on the user interface, you need to use the Telnet command.
+Open a Command Prompt (Windows) or Terminal window (Mac), and type the following commands:
+telnet 10.0.0.138username : admin password : (just hit enter) {admin}=> ip rtadd dst=8.8.8.8 dstmsk=255.255.255.255 gateway=10.0.0.138 metric=3 intf=Internet{admin}=> ip rtadd dst=8.8.4.4 dstmsk=255.255.255.255 gateway=10.0.0.138 metric=3 intf=Internet {admin}=> ip rtadd dst=208.67.222.222 dstmsk=255.255.255.255 gateway=10.0.0.138 metric=3 intf=Internet {admin}=> ip rtadd dst=209.244.0.3 dstmsk=255.255.255.255 gateway=10.0.0.138 metric=3 intf=Internet{admin}=> saveall (this may take a few seconds)
+Note 1: The gateway entry above (10.0.0.138) is the router's default IP address. You will need to substitute the IP address of your own router if it is different.
+Note 2: If the dstmsk option fails or is not available, enter the dst value only, but add a "/32" to the end, so the first entry would look like this: dst=8.8.8.8/32
+Note 3: If the Telnet command returns an unknown command error in Windows, see these instructions for enabling it: http://social.technet.microsoft.com/wiki/contents/articles/910.windows-7-enabling-telnet-client.aspx
+Note 4: For NETFLIX of any device app you also need to add following static routes;
+Network Address: 45.57.0.0Subnet Mask: 255.255.0.0Gateway: (use the IP address of your router)
+Network Address: 108.175.0.0Subnet Mask: 255.255.0.0Gateway: (use the IP address of your router)
+Network Address: 185.2.0.0Subnet Mask: 255.255.0.0Gateway: (use the IP address of your router)
+Network Address: 198.45.0.0Subnet Mask: 255.255.0.0Gateway: (use the IP address of your router)
+Additional RoutesSome of our users also suggested the use following static routes. But these may also cause issues on some other user networks. So please use the first set of static routes first and then if needed you can try followings:Network Address: 23.246.0.0Subnet Mask: 255.255.192.0 (or /18)Gateway: (use the IP address of your router) Network Address: 198.38.96.0Subnet Mask: 255.255.224.0 (or /19)Gateway: (use the IP address of your router)
+Was this article helpful?
+0 out of 0 found this helpful
+Facebook
+Twitter
+LinkedIn
+Have more questions? Submit a request
+Comments
+Related articles
+Block Public DNS Overview
+Technicolor Routers (TG587n v3)
+Chromecast
+Full VPN: Introduction
+DNS-over-VPN: Introduction
+Powered by ZendeskHacking the Technicolor TG799vac (and unlocking features!) | Steve's Blog
+Skip to main content
+Steve's Blog
+☰
+Articles
+Backups and Filesystem Deduplication
+Hacking the Grandstream BT-100
+Hacking the Roomba 600
+Hacking the Technicolor TG799vac (and unlocking features!)
+Linux and USB Full Disk Encryption
+Ontrak ADU-218 on Linux HOWTO
+OpenVPN OTP with a Yubikey
+pcrd - PCR1000 on Linux
+Public NTP Server Statistics
+PWM to voltage controlled fan hub conversion
+Real console on Linksys SRW2024 switch
+Real procedures at Essendon Airport
+Tracking people via WiFi (even when not connected)
+TSM and removable USB disks
+Unison on Windows
+Using centralised management with Lets Encrypt
+Virtual Mail hosting on EL6
+Why I founded Melbourne Wireless
+Xen Performance Guide
+Xplane in Australia
+Current Bug Lists
+RHEL / Fedora
+Kernel.org
+Other Resources
+Keymaster Secure Download
+My GPG Key
+Hacking the Technicolor TG799vac (and unlocking features!)
+NOTE: This guide is probably not going to be updated and it will remain here as an archive. Current / new updates are published on the Whirlpool Wiki.
+Check the Basics or more advanced topics.
+Archived content follows:
+The basics
+The basic steps to getting root access to firmware v17.2 on your modem
+Setting up firmware v17.2
+VOIP Setup
+Speeding up VDSL sync times
+Running the TG799 as the router with a second router behind it (double nat)
+Really advanced topics !
+Changing max sync speeds
+Using bridge mode with a dedicated PPPoE ethernet port
+Enable web interface features in Bridge Mode
+Configuring multiple third party SIP providers
+SIP call routing
+Registering DECT handsets
+LAN SIP client use of the mini-PABX in the modem
+Serial Console
+NAT ALG helpers
+tcpdump is now in the diagnostics?
+Handy info for checking what's running in your modem
+What's that System Extras tab and what can I do in there?
+My firmware is so old that AutoFlashGUI can't authenticate to the modem!
+I want to factory reset 17.2 but I don't want to have to re-flash (aka Ghetto Reset!)
+I'm selling this modem, how do I securely wipe all the config?
+The basics
+The TG799vac, known more commonly in Australia as the “Telstra Gateway Max” is a very capable piece of equipment. It has 802.11ac, a VDSL / ADSL2 modem (meaning NBN FTTN compatibility), a DECT base station, 2 x FXS ports for analogue ports, and an FXO port, is known for getting high sync speeds for VDSL2, has a high quality internal PCB and power supply and it's power consumption is quite good at 12 watts with WiFi on (typical router config) and 9 watts with WiFi off (typical bridge mode config). The newer verstions of this device are the TG800 "Telstra Gateway Max 2" and DJN2103 "Telstra Gateway Frontier", which most of the following will also apply to, if the device has a firmware version low enough, or which it can still be downgraded to.
+They are provided directly to Telstra – and as such, has Telstra branded firmware. There is no ‘generic’ firmware available that will just give you access to the modem as any other device you would purchase. Personally, I think this kind of sucks – as if you decide to use this device with anyone other than Telstra, you lose access to the VoIP functionality, DECT base station, FXO ports. That was the motivation to get into this device and re-enable as many features as possible.
+By default, the IP address of the modem will be 10.0.0.138.
+This guide is the "new version" which uses the flashing tool developed by Mark Smith as well as the input from the Whirlpool community to enable as many features as possible.
+To use this guide you must be on firmware 17.2.0188-820-RA or lower (there are reports that the 17.2.0188-820-RB variant has the web flashing functionality disabled) or be able to downgrade to it.
+What you will need to proceed:
+The AutoFlashGUI tool. This is compiled for windows but if you have Python 3 installed see the instructions at the top of the source\autoflashgui.py for installing missing modules so you can run this on any OS (the latest version will ask to install missing modules but if it fails you may have to install them manually). Make sure you can run this tool and load the GUI up before you go offline!
+The v16.3 firmware rbi for your modem.
+The v17.2.0188-820-RA rbi file for your modem (If you flash to anything newer you may lock yourself out of the modem permanently).
+A SSH client. The famous Putty SSH client is recommended on Windows.
+A copy of this web page for reference while you're offline.
+Physical access to the modem so you can power cycle it and unplug the WAN/DSL while you're going through this process.
+A 'happy' modem! If it's in bridge mode or half the tiles are missing on the screen (which seems to be caused by corrupted config), factory reset it first.
+The basic steps to getting root access to firmware v17.2 on your modem
+These instructions refer to the TG799, so if you are doing this for a different modem be sure to use the correct file names for the firmare.
+Run up the AutoFlashGUI tool and flash vant-f_CRF683-17.2.188-820-RA.rbi to your modem.
+This will take about 3-4 minutes. The flasher will try and root your modem but it will fail (silently) - this is expected. If the flash fails to push the firmware in, try again (is the username and password correct?), and if it still fails with some permission error in the console, you may have been locked out of flashing via the web interface: bad luck. Maybe a PXE firmware load can help but you require good luck at this point. Ask for help in the whirlpool thread! (Note that firmware before v15.x may require some manual work, see 'My firmware is so old that AutoFlashGUI can't authenticate to the modem!' )
+Now use AutoFlashGUI to flash in vant-f_CRF687-16.3.7567-660-RG.rbi and allow it to run through including getting root.
+At this point we are ready to do the procedure to activate root on 17.2 and switch over to it. This procedure works by allowing us to mod the inactive (but newer) image's file system and config, then switch back to it without doing a factory reset or official upgrade. Note that if you factory reset while on 17.2 you will need to run the entire procedure from where you flashed v16.3 to get root back, and it could upgrade and lock you out permanently in that reset state if it has internet access!
+Fire up your SSH client and connect to the modem on port 22.
+Have a look at your current modem state. It should look something like this:
+# find /proc/banktable -type f -print -exec cat {} ';'
+/proc/banktable/notbootedoid
+59b21e26bc549719f7f1bedd
+/proc/banktable/bootedoid
+5940db6a20338215a4c97c89
+/proc/banktable/passiveversion
+17.2.0188-7021004-20170908063550-00f42f11f9c253e3f1001b1558043e970a3d9b5d
+/proc/banktable/activeversion
+16.3.7567-2521030-20170614084458-887a8c777ed8527277d7137ed9149816c889cf1d
+/proc/banktable/inactive
+bank_2
+/proc/banktable/active
+bank_1
+/proc/banktable/notbooted
+bank_2
+/proc/banktable/booted
+bank_1
+These modems use two flash partitions (bank_1 and bank_2) which can be upgraded/used almost independently.  They are digital-signature verified before boot so you can't edit the rom image in the flash.  The config is stored in the matching folder in /overlay i.e. /overlay/bank_2 (hint: you can see your modified config files in here if you want to back stuff up or see what changes you made).  When a proper factory reset is done, the overlay partition is formatted (but not securely wiped - see section later).
+Run the following to set 17.2 up for temporary root and switch back to it:
+# rm -rf /overlay/`cat /proc/banktable/inactive`
+# mkdir /overlay/`cat /proc/banktable/inactive`
+# chmod 755 /overlay/`cat /proc/banktable/inactive`
+# mkdir /overlay/`cat /proc/banktable/inactive`/etc
+# chmod 775 /overlay/`cat /proc/banktable/inactive`/etc
+# echo "echo root:root | chpasswd" > /overlay/`cat /proc/banktable/inactive`/etc/rc.local
+# echo "dropbear -p 6666 &" >> /overlay/`cat /proc/banktable/inactive`/etc/rc.local
+# chmod +x /overlay/`cat /proc/banktable/inactive`/etc/rc.local
+# echo `cat /proc/banktable/inactive` > /proc/banktable/active
+# sync
+# cat /overlay/`cat /proc/banktable/active`/etc/rc.local
+Now check it all looks right - you should get this output from the last command:
+echo root:root | chpasswd
+dropbear -p 6666 &
+Reboot and wait 3 to 4 minutes for the modem to boot into 17.2.
+Setting up firmware v17.2
+Log in to the modem with SSH on port 6666 using root/root.  At this point you have temporary root on 17.2, but it's not how we should leave things.
+Run the following in SSH to turn on more functionality and clean up. Note that you can only paste so much into the terminal in one go, so if you get weird errors just cut the block back a bit and try again:
+# Block 1
+uci set dropbear.lan.enable='1'
+uci set dropbear.lan.PasswordAuth=on
+uci set dropbear.lan.RootPasswordAuth=on
+uci add_list web.tvoicesipconfig.roles=admin
+uci add_list web.tvoicecontacts.roles=admin
+uci add_list web.tvoicecalllog.roles=admin
+uci add_list web.tvoicecapability.roles=admin
+uci add_list web.parentalblock.roles=admin
+uci add_list web.ruleset_main.rules=mmpbxinoutgoingmapmodal
+uci set web.mmpbxinoutgoingmapmodal=rule
+uci set web.mmpbxinoutgoingmapmodal.target='/modals/mmpbx-inoutgoingmap-modal.lp'
+uci add_list web.mmpbxinoutgoingmapmodal.roles='admin'
+uci add_list web.ruleset_main.rules=mmpbxstatisticsmodal
+uci set web.mmpbxstatisticsmodal=rule
+uci set web.mmpbxstatisticsmodal.target='/modals/mmpbx-statistics-modal.lp'
+uci add_list web.mmpbxstatisticsmodal.roles='admin'
+uci set cwmpd.cwmpd_config.state=0
+uci set cwmpd.cwmpd_config.upgradesmanaged=0
+uci set cwmpd.cwmpd_config.periodicinform_enable=0
+uci set cwmpd.cwmpd_config.acs_pass='0'
+uci set cwmpd.cwmpd_config.acs_user='0'
+uci set cwmpd.cwmpd_config.acs_url='invalid'
+uci set wifi_doctor_agent.config.enabled=0
+uci add_list web.ruleset_main.rules=cwmpconfmodal
+uci set web.cwmpconfmodal=rule
+uci set web.cwmpconfmodal.target='/modals/cwmpconf-modal.lp'
+uci add_list web.cwmpconfmodal.roles='admin'
+uci set hotspotd.main.ipv4=0
+uci set hotspotd.main.enable=false
+uci set hotspotd.main.deploy=false
+uci set hotspotd.TLS2G.enable=0
+uci set hotspotd.FON2G.enable=0
+uci add_list web.ruleset_main.rules=iproutesmodal
+uci set web.iproutesmodal=rule
+uci set web.iproutesmodal.target='/modals/iproutes-modal.lp'
+uci add_list web.iproutesmodal.roles='admin'
+uci add_list web.ruleset_main.rules=systemmodal
+uci set web.systemmodal=rule
+uci set web.systemmodal.target='/modals/system-modal.lp'
+uci add_list web.systemmodal.roles='admin'
+uci add_list web.ruleset_main.rules=relaymodal
+uci set web.relaymodal=rule
+uci set web.relaymodal.target='/modals/relay-modal.lp'
+uci add_list web.relaymodal.roles='admin'
+uci add_list web.ruleset_main.rules=natalghelpermodal
+uci set web.natalghelpermodal=rule
+uci set web.natalghelpermodal.target='/modals/nat-alg-helper-modal.lp'
+uci add_list web.natalghelpermodal.roles='admin'
+uci set tls-vsparc.Config.Enabled='0'
+uci set tls-vsparc.Passive.PassiveEnabled='0'
+# Block 2
+uci add_list web.ruleset_main.rules=diagnosticstcpdumpmodal
+uci set web.diagnosticstcpdumpmodal=rule
+uci set web.diagnosticstcpdumpmodal.target='/modals/diagnostics-tcpdump-modal.lp'
+uci add_list web.diagnosticstcpdumpmodal.roles='admin'
+uci set system.config.export_plaintext='1'
+uci set system.config.export_unsigned='1'
+uci set system.config.import_plaintext='1'
+uci set system.config.import_unsigned='1'
+uci commit
+sed -e 's/session:hasAccess("\/modals\/diagnostics-network-modal.lp")/session:hasAccess("\/modals\/diagnostics-network-modal.lp") and \n session:hasAccess("\/modals\/diagnostics-tcpdump-modal.lp")/' -i /www/cards/009_diagnostics.lp
+sed -e 's^alt="network"></div></td></tr>\\^alt="network"></div></td>\\\n <td><div data-toggle="modal" data-remote="modals/diagnostics-tcpdump-modal.lp" data-id="diagnostics-tcpdump-modal"><img href="#" rel="tooltip" data-original-title="TCPDUMP" src="/img/network_sans-32.png" alt="network"></div></td></tr>\\^' -i /www/cards/009_diagnostics.lp
+sed -e 's/{"logviewer-modal.lp", T"Log viewer"},/{"logviewer-modal.lp", T"Log viewer"},\n {"diagnostics-tcpdump-modal.lp", T"tcpdump"},\n/' -i /www/snippets/tabs-diagnostics.lp
+sed -e 's/getrole()=="guest"/getrole()=="admin"/' -i /www/snippets/tabs-voice.lp
+sed -e 's/{"mmpbx-sipdevice-modal.lp", T"Sip Device"},/{"mmpbx-sipdevice-modal.lp", T"Sip Device"},\n{"mmpbx-inoutgoingmap-modal.lp", T"In-Out Mapping"},\n{"mmpbx-statistics-modal.lp", T"Statistics"},/' -i /www/snippets/tabs-voice.lp
+sed -e 's/if currentuserrole == "guest" /if currentuserrole == "admin" /' -i /www/docroot/modals/gateway-modal.lp
+echo > /etc/rc.local
+/etc/init.d/nginx restart;
+/etc/init.d/cwmpd disable;
+/etc/init.d/cwmpdboot disable;
+/etc/init.d/wifi-doctor-agent disable;
+/etc/init.d/hotspotd disable;
+/etc/init.d/tls-vsparc disable;
+killall -9 hotspotd cwmpd cwmpdboot watchdog-tch wifi-doctor-agent tls-vsparc;
+/etc/init.d/dropbear start
+echo > /etc/dropbear/authorized_keys
+Now change the root password:
+passwd
+Reboot now if you're not doing any futher configuration.
+At this point you should now be able to SSH in on 17.2 with root and your password (which should no longer be root at this point!)
+VOIP Setup
+If you want to use VOIP, the following is the quickest way to set it up and remove some broken config that causes calls to be sent out via the FXO port which will be unplugged for everyone in Australia once you are on NBN unless you are in a fixed wireless area where the voice services are still being delivered over the copper lines.  We also reset the LAN SIP inbound passwords here for security (see 'LAN SIP client use of the mini-PABX in the modem'  to use them if you wish to but nothing else has to be done). Please don't post the default passwords in public forums as they could be a security risk for those still using them!
+#Block 1
+uci set mmpbxrvsipnet.sip_net.primary_proxy='sipserver'
+uci set mmpbxrvsipnet.sip_net.primary_registrar='sipserver'
+uci set mmpbxrvsipnet.sip_profile_0.uri='SIPuserName'
+uci set mmpbxrvsipnet.sip_profile_0.user_name='SIPuserName'
+uci set mmpbxrvsipnet.sip_profile_0.password='SIPpassword'
+uci set mmpbxrvsipnet.sip_net.primary_proxy_port='5060'
+uci set mmpbxrvsipnet.sip_net.primary_registrar_port='5060'
+uci set mmpbxrvsipnet.sip_profile_0.enabled='1'
+uci set mmpbxbrcmfxsdev.fxs_dev_0.relay_state='1'
+uci set mmpbxbrcmfxsdev.fxs_dev_1.relay_state='1'
+uci del_list mmpbx.@outgoing_map[0].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[0].priority='2'
+uci del_list mmpbx.@outgoing_map[1].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[1].priority='2'
+uci del_list mmpbx.@outgoing_map[2].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[2].priority='2'
+uci del_list mmpbx.@outgoing_map[3].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[3].priority='2'
+uci del_list mmpbx.@outgoing_map[4].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[4].priority='2'
+uci del_list mmpbx.@outgoing_map[5].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[5].priority='2'
+uci del_list mmpbx.@outgoing_map[6].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[6].priority='2'
+uci del_list mmpbx.@outgoing_map[7].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[7].priority='2'
+uci del_list mmpbx.@outgoing_map[8].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[8].priority='2'
+uci del_list mmpbx.@outgoing_map[9].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[9].priority='2'
+uci del_list mmpbx.@outgoing_map[10].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[10].priority='2'
+uci del_list mmpbx.@outgoing_map[11].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[11].priority='2'
+uci del_list mmpbx.@outgoing_map[12].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[12].priority='2'
+uci del_list mmpbx.@outgoing_map[13].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[13].priority='2'
+uci del_list mmpbx.@outgoing_map[14].profile='fxo_profile'
+uci del_list mmpbx.@outgoing_map[14].priority='2'
+#Block 2
+uci set mmpbxrvsipdev.sip_dev_0.password=`dd if=/dev/urandom bs=1 | tr -dc A-Za-z0-9 | head -c${1:-10}`
+uci set mmpbxrvsipdev.sip_dev_1.password=`dd if=/dev/urandom bs=1 | tr -dc A-Za-z0-9 | head -c${1:-10}`
+uci set mmpbxrvsipdev.sip_dev_2.password=`dd if=/dev/urandom bs=1 | tr -dc A-Za-z0-9 | head -c${1:-10}`
+uci set mmpbxrvsipdev.sip_dev_3.password=`dd if=/dev/urandom bs=1 | tr -dc A-Za-z0-9 | head -c${1:-10}`
+uci set mmpbxrvsipdev.sip_dev_4.password=`dd if=/dev/urandom bs=1 | tr -dc A-Za-z0-9 | head -c${1:-10}`
+uci set mmpbxrvsipdev.sip_dev_5.password=`dd if=/dev/urandom bs=1 | tr -dc A-Za-z0-9 | head -c${1:-10}`
+uci set mmpbxrvsipdev.sip_dev_6.password=`dd if=/dev/urandom bs=1 | tr -dc A-Za-z0-9 | head -c${1:-10}`
+uci set mmpbxrvsipdev.sip_dev_0.push_type='none'
+uci set mmpbxrvsipdev.sip_dev_1.push_type='none'
+uci set mmpbxrvsipdev.sip_dev_2.push_type='none'
+uci set mmpbxrvsipdev.sip_dev_3.push_type='none'
+uci set mmpbxrvsipdev.sip_dev_4.push_type='none'
+uci set mmpbxrvsipdev.sip_dev_5.push_type='none'
+uci set mmpbxrvsipdev.sip_dev_6.push_type='none'
+uci delete mmpbxrvsipdev.sip_server.apn_cert_key
+uci delete mmpbxrvsipdev.sip_server.apn_interface
+uci commit
+/etc/init.d/mmpbxd restart
+Speeding up VDSL sync times
+If you're on VDSL you may be able to speed up your sync times by removing redundant DSL profiles so the modem does not even try to use them. Don't do this if you're still on ADSL!
+uci del_list xdsl.dsl0.profile='8a'
+uci del_list xdsl.dsl0.profile='8b'
+uci del_list xdsl.dsl0.profile='8c'
+uci del_list xdsl.dsl0.profile='8d'
+uci del_list xdsl.dsl0.profile='12a'
+uci del_list xdsl.dsl0.profile='12b'
+uci del_list xdsl.dsl0.multimode='gdmt'
+uci del_list xdsl.dsl0.multimode='adsl2annexm'
+uci del_list xdsl.dsl0.multimode='adsl2plus'
+uci commit
+reboot
+If you wish to add the selections to the web interface to play with later, you can run the following:
+uci add_list web.ruleset_main.rules=xdsllowmodal
+uci set web.xdsllowmodal=rule
+uci set web.xdsllowmodal.target='/modals/xdsl-low-modal.lp'
+uci add_list web.xdsllowmodal.roles='admin'
+uci commit
+Running the TG799 as the router with a second router behind it (double nat)
+Double NAT used to break many things, but testing with this configuration shows that most current applications are very tollerant of it. Most applications assume they are on a private network and that their visible IP is not the one they are visible on on the internet via, so if it's nested one more level down via NAT with a DMZ redirecting traffic to the second router's WAN interface it makes very little difference (if this guide is followed)!
+There are many reasons you would want to do this:
+You have a complex network setup with a more advanced router running services such as a VPN server and you still want to use the VOIP in the TG799 so that it can manage the packet priority tagging properly.
+You don't quite trust the TG799
+You want a simpler solution than the "Using bridge mode with a dedicated PPPoE ethernet port" section below outlines which can be a nightmare to set up and debug if something goes wrong.
+You want easy access to the TG799 GUI so you can get sync speeds etc at the modem's IP. This is still possible in bridged mode but it's less stright forward.
+Here is how you go setting this up properly:
+Set up the TG799 as above fully including VOIP etc and make sure it works to your satisfaction.
+The TG799's default LAN IP on Telstra firmware is 10.0.0.138 and subnet mask 255.255.255.0. If your inner router also has a default LAN subnet of 10.0.0.0 then it's advised to change one of them (probably the TG799 so your network will not be disrupted) to a subnet of your choosing such as 10.0.100.0 subnet mask 255.255.255.0. The rest of this section assumes you moved the TG799's LAN IP to 10.0.100.1 subnet mask 255.255.255.0.
+Add a "static lease" on the TG799 under Advanced -> Local Network -> Static Leases with your internal router's WAN MAC address and a suitable ip such as 10.0.100.2.
+Connect your inner router's WAN port to one of the TG799's LAN ports.
+Confirm on the inner router that it got 10.0.100.2 as the WAN IP. If it did not, reboot both of them at the same time to get rid of any lingering DHCP leases. If that fails re-check the MAC address of the lease handed out from the TG799.
+On the TG799 under Advanced -> WAN Services -> DMZ enable it and set the IP to 10.0.100.2 . Set up DynDNS if you want to. Save.
+Turn off WiFi on the TG799.
+At this point the TG799 should be transparent to incoming requests which will hit the WAN interface of your internal router and be handled normally.
+Really advanced topics !
+Changing max sync speeds
+You can change the max values for sync speeds. The value maxusdatarate
+controls the upstream maximum sync speed, maxdsdatarate
+controls the downstream maximum sync speed, and maxaggrdatarate
+is the maximum combined speed. The defaults are listed below. This doesn’t change any limitations imposed by line length – or at the DSLAM. If you won the node lotto and are feeling lucky you can modify these like so:
+uci set xdsl.dsl0.maxaggrdatarate='160000'
+uci set xdsl.dsl0.maxdsdatarate='110000'
+uci set xdsl.dsl0.maxusdatarate='40000'
+uci commit xdsl
+reboot
+Using bridge mode with a dedicated PPPoE ethernet port
+I use the AP on the device on my LAN, but I also use the modem purely in bridge mode, which means I want to dedicate a port to my router to allow it to do PPPoE to my ISP. It should also work with IPoE. Thankfully, standard OpenWRT config applies. I added a new bridge called ‘adsl_wan’ and added eth4, eth3, atm_8_35 and ptm0 to it:
+config interface 'adsl_wan'
+option type 'bridge'
+option ip6hint '0'
+option force_link '0'
+list ifname 'eth4'
+list ifname 'eth3'
+list ifname 'atm_8_35'
+list ifname 'ptm0'
+You’ll need to remove eth3 from the LAN vlan. This gives you the port right next to the WAN ethernet (which is eth3 – eth4 is the WAN port) on the same bridge as the VDSL/ADSL modem. I have yet to figure out how to get the WAN port to do this – as it seems to be configured differently – maybe at the switch level.
+In this configuration you can use the WiFi as an access point for your LAN as it's attached to the LAN bridge.
+If you want to use the VOIP in the TG799 while in bridge mode, you will need to configure a default gateway, a nameserver, and configure the pabx to use the LAN bridge as the outgoing interface. The following example uses Google for DNS and assumes your router is at 10.0.0.254:
+uci set network.lan.dns='8.8.8.8'
+uci set network.lan.gateway='10.0.0.254'
+uci set mmpbxrvsipnet.sip_net.interface='lan'
+uci set mmpbxrvsipnet.sip_net.interface6='lan6'
+uci commit
+You can check the current running dns with cat /etc/resolv.conf
+Enable web interface features in Bridge Mode
+If you have the modem in bridge mode, the web interface is gutted compared to in routed mode.
+Edit /www/lua/cards_limiter.lua
+and change the following function to:
+function M.card_limited(info, cardname)
+## Display all cards.
+return false
+if info.bridged then
+return not bridge_limit_list[cardname]
+end
+return false
+end
+Restart the web interface via: /etc/init.d/nginx restart
+Note that to get out of bridged mode you will still have to factory reset (and possibly do the whole rooting procedure again) or find and reverse the config changes that were made to flick it into bridge mode.
+Configuring multiple third party SIP providers
+If you have multiple SIP accounts to log into – and with different providers, you can duplicate the entire sip_net section under a different name (very important, it will break VOIP completely otherwise) and configure as per above, or using the web interface. The web interface will see the section in the config once you add it in. It would be possible to add the section using UCI but it's quicker with an editor and you will get the most recent defaults from your existing profile rather than a stale web page!
+SIP call routing
+Each DECT device or FXS port can be registered against one or multiple SIP accounts. Look for the incoming_map section against sip_profile_0
+and edit as needed. This should also be possible via the web interface after running the above default config which adds in a web page to allow editing this config. This is my setup to route sip_profile_1 to the first registered DECT device – and FXS port 1:
+config incoming_map
+option profile 'sip_profile_0'
+list device 'fxs_dev_0'
+list device 'dect_dev_1'
+list device 'dect_dev_2'
+list device 'dect_dev_3'
+list device 'dect_dev_4'
+list device 'dect_dev_5'
+list device 'sip_dev_0'
+list device 'sip_dev_1'
+list device 'sip_dev_2'
+list device 'sip_dev_3'
+list device 'sip_dev_4'
+list device 'sip_dev_5'
+list device 'sip_dev_6'
+config incoming_map
+option profile 'sip_profile_1'
+list device 'dect_dev_0'
+list device 'fxs_dev_1'
+Registering DECT handsets
+There is a button on the modem you can hold for five seconds, or after enabling all the ‘cards’ via the web interface, the easy way is to start DECT paring via the web interface. Click on the Telephony card, then ‘Start’ the paring and follow the instructions for your handset. This was straight forward for me.
+LAN SIP client use of the mini-PABX in the modem
+It is possible to make calls out through the modem by registering as a SIP client. Clients 1 to 7 are configured and can be used like so for 1:
+Username: 1
+Password: <see below for finding the passwords>
+Authentication User: phone1@telstra.gateway
+To get a list of all the passwords set run this in SSH (noting that sip_dev_0 maps to phone1 etc):
+uci show |grep mmpbxrvsipdev.sip_dev_..password
+Please don't post the default passwords in public forums as they could be a security risk for those still using them!
+Serial Console
+A serial console can be added using a 3.3v to RS232 adapter. These can be found on ebay quite cheaply. The serial console is J5 on the board, and note from the picture below, R327 and R328 need to be solder bridged to pass the serial signals to the adaptor. In the pictures shown, Black = Ground, Yellow = RX, and Green = TX.
+Note that by default you can't log in on the serial console. If you want to enable this, edit /etc/inittab and change
+#ttyS0::askfirst:/bin/login
+to
+ttyS0::askfirst:/bin/login
+NAT ALG helpers
+With the above changes you should now have a tile in the advanced GUI what allows you to change the settings for NAT ALGs.
+<insert screenshot when I have one>
+tcpdump is now in the diagnostics?
+I was very happy to find this hidden gem.  Sadly there is no icon for it so I had to reuse one. Read the memory usage warnings before using it! I tested it once and file it provided opened up OK in WireShark.
+Handy info for checking what's running in your modem
+Checking what firmware is flashed and what is active:
+find /proc/banktable -type f -print -exec cat {} ';'
+What processes are running? (you should not see cmwpd etc on this list!)
+ps
+What programs are listening as network services?
+netstat -tuplen
+How much free space is there left for config files?
+df -h
+Can I see the full config? (be prepared for ~7700 lines of text hitting your console)
+uci show
+Can I filter that output for say just things with the word password in them?
+uci show | grep password
+What's that System Extras tab and what can I do in there?
+You can turn on logging to an external syslog server. On windows run TFTPD64 (from http://tftpd32.jounin.net/tftpd32_download.html) and configure syslog in the settings. You can enable more logging in the VOIP subsystem by editing the logging config in /etc/config/mmpbx
+You can trigger a PXE firmware upgrade to bank_1. This is only for advanced users! If you click this by accident you will have to wait for it to time out and reboot, or power cycle it while the orange light is flashing.
+You can turn SSH access on/off from the LAN/WAN.
+My firmware is so old that AutoFlashGUI can't authenticate to the modem!
+This is because they changed the web authentication method to SRPv6 with firmware v15, and this is the only method that the AutoFlashGUI tool knows how to authenticate with.  You are going to have to flash the v16.3 .rbi file via sysupgrade after using the original manual procedure to get a shell.
+Visit the ‘Diagnostics’ page on the modem, and click on the Ping & Traceroute tab. (If your modem doesn’t display the Diagnostics tile, factory reset the modem. The observation is that this only happens when the config is corrupted somehow.) In the IP address section, enter and run:
+:::::::;echo root:root | chpasswd; dropbear -p 6666;
+Give it 30 seconds to generate SSH host keys and then try to connect to your modem with SSH on port 6666 with root/root.
+Copy the .rbi to a USB stick (FAT32 formatted is most likely to work on old firmware) and insert it into the modem.
+If you type "cd /mnt/" and keep hitting tab it should eventually get to the end of the USB stick path, then hit enter. (You can also run 'mount' and try to work out the path the USB stick is mounted on, or 'dmesg' to check the system log to see if there was an error automatically mounting it.)
+To be on the on the safe side we will copy the rbi to RAM, then flash it. Do the following with the correct .rbi name (keeping in mind that this is case sensitive):
+cp filename.rbi /tmp
+cd /tmp
+sysupgrade filename.rbi
+All things going well you should see it progress along and reboot, then you can commence the current procedure.
+I want to factory reset 17.2 but I don't want to have to re-flash (aka Ghetto Reset!)
+These modems use two roms (bank_1 and bank_2) which can be upgraded/used almost independently.  They are digital-signature verified before boot so you can't edit the rom image in the flash.  The config is stored in the matching folder in /overlay i.e. /overlay/bank_2 (hint: you can see your modified config files in here if you want to back stuff up or see what changes you made).  When a proper factory reset is done, the overlay partition is formatted (but not securely wiped).
+To reset without doing an official reset, disconnect
+your WAN connection (cwmpd will become acitve again temporarily), go into SSH and do the following:
+rm -rf /overlay/`cat /proc/banktable/active`
+mkdir /overlay/`cat /proc/banktable/active`
+chmod 755 /overlay/`cat /proc/banktable/active`
+mkdir /overlay/`cat /proc/banktable/active`/etc
+chmod 775 /overlay/`cat /proc/banktable/active`/etc
+echo "echo root:root | chpasswd" > /overlay/`cat /proc/banktable/active`/etc/rc.local
+echo "dropbear -p 6666 &" >> /overlay/`cat /proc/banktable/active`/etc/rc.local
+chmod +x /overlay/`cat /proc/banktable/active`/etc/rc.local
+sync
+Wait 5 seconds and turn the modem's power off.  Ensure the WAN is disconnected!
+Turn it back on and then resume the original procedure at "Setting up firmware v17.2".
+I'm selling this modem, how do I securely wipe all the config?
+Disconnect the WAN. Log in via SSH and run:
+rm -rf /overlay/*;dd if=/dev/urandom of=/overlay/garbage bs=512;sync;rm /overlay/garbage;sync;
+Wait until it has completed and turn the modem's power off.
+Note that after this cwmpd will be active again so you could get upgraded against your will if it once it is connected to the internet again!
+Comments
+Please enable JavaScript to view the comments powered by Disqus.
+Comments powered by Disqus
+×
+Steve's Blog credits
+Contents © 2019
+Steven Haigh - Powered by
+Nikola
+Okisbn:0809335131 - Google SearchGoogleGoogle×Please click here if you are not redirected within a few seconds.
+AllImagesNewsBooks Videos Search tools
+The webThe webCountry: PakistanAny viewAny viewPreview and full viewFull viewAny documentAny documentBooksMagazinesNewspapersSorted by relevanceSorted by relevanceSorted by dateShattered Sense of Innocence: The 1955 Murders of Three ...https://books.google.com.pk/books?isbn=0809335131This book tells the gripping story of the three murdered Chicago boys and the quest to find and bring to justice their killer.
+Sign inSettingsPrivacyTermsOfficial Telkom website home page
+Telkom For Me
+Telkom For My Business
+Shop
+Mobile
+Home
+Business
+Special Deals
+Help
+Talk To Us
+Get Help
+Check Coverage
+Find a Store
+Ask the Community
+FAQs
+Login
+Update your profile, manage your subscriptions, redeem vouchers & purchase bundles.
+Register
+Already have an account? Login below.
+Login
+My Business
+About
+Careers
+WiFi
+Investor Relations
+FutureMakers
+Telkom’s raising the temperature on home entertainment
+UNLIMITEDhome Lite*
+Fibre plus
+3-months Netflix
+on us
+*Only available on Openserve FTTH
+Network
+R649
+PM x 24
+Order Now
+Read More
+FreeMe is about choices. All the data, all the options.
+Contracts, SIM only or Bundles.
+Read More
+THE BIG DEAL
+Make the mid-year leap with a deal just for you.
+SmartBroadband Uncapped Wireless and a free router and SIM.
+R899
+PM x 24
+Order Now
+Read More
+Bring a world of entertainment into your home.
+With fibre now in your area, you can enjoy more of what
+the internet has to offer.
+Apply Now
+Give your landline a wireless boost with a free upgrade
+Read more
+Don’t run out of data with UNLIMITEDhome Lite.
+Sign up for Telkom Fibre and stand a chance to win Smart TVs, Xbox or Playstation 4 consoles!
+Pricing starting at
+R649
+PM x 24
+Order Now
+Read More
+Scroll Down
+Mobile
+Phones & Devices
+Contracts
+Prepaid
+Data Deals
+Upgrades
+Home
+ADSLInternet
+Fibre Internet
+Wireless
+internet
+Phones & Modems
+Landlines
+Business
+Mobile Contracts
+ADSLInternet
+Fibre Internet
+Wireless
+internet
+Phones & Devices
+Hot this month
+Get June’s Big Deal for R899pm x 24
+Z’khipha more with Telkom Prepaid
+Get UNLIMITEDhome* Internet From R807pmx24
+Get the Telkom Winter deal for R649pmx24
+What can we help you with?
+Check Coverage or Find a Store
+General Help & Helpful Tools
+Get an Upgrade
+Service
+Cancellations
+Mobile
+Shop
+Help
+FAQs
+My Telkom
+Home
+Shop
+Help
+FAQs
+My Telkom
+Business
+Shop
+Help
+FAQs
+My Telkom
+About
+Who We Are
+Company
+Careers
+Foundation
+Investor Relations
+Media Centre
+Crime Hotline
+Connect
+Talk To Us
+Ask the Community
+Facebook
+Twitter
+Google +
+YouTube
+LinkedIn
+Home | PAIA | Terms and Conditions | POPI | Sitemap
+© Telkom SA SOC Limited. 2019 All Rights Reserved.
+An authorised Financial Services Provider – FSP no. 46037
+Top
+Feedback?
+This website uses cookies. By continuing to use this website you are giving consent to cookies being used. For information on cookies and how you can disable them visit our Privacy and cookies policy. Find out more about cookies here.

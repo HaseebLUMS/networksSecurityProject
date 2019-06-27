@@ -1,0 +1,23 @@
+Query: Technicolor Gateway - Login
+Processed Query:   technicolor gateway login
+
+
+https://setuprouter.com/router/technicolor/tg582n/login.htm  : success
+https://www.spark.co.nz/help/internet/set-up/technicolor-tg582n/  : success
+https://www.cleancss.com/router-default/Technicolor/TG582n  : success
+https://www.cleancss.com/router-default/Technicolor/TC7200  : success
+https://www.technicolor.com/  : success
+https://support.zen.co.uk/kb/Knowledgebase/Technicolor-TG589vac-Wireless-Settings  : success
+https://github.com/threat9/routersploit/issues/41  : success
+https://uno.help/knowledge-base/article/technicolor-tg789vac-vdsl_1  : success
+https://modemly.com/Technicolor-TG582n-router-setup  : success
+https://getflix.zendesk.com/hc/en-gb/articles/201833214-Technicolor-TG587n-v3  : success
+https://www.crc.id.au/hacking-the-technicolor-tg799vac-and-unlocking-features/  : success
+https://books.google.com.pk/books?isbn=0809335131  : success
+https://www.telkom.co.za/  : success
+
+
+Brand:  TECHNICOLOR
+Device:  ROUTER
+Product Number:  tg582n
+Execution Time:  163.76922178268433

@@ -1,0 +1,23 @@
+Query: 220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Processed Query:   220 nasftpd turbo station 1 5a server proftpd 3
+
+https://github.com/Komodo/KomodoEdit/issues/3126  : success
+https://www.exploit-db.com/exploits/36803  : success
+https://www.exploit-db.com/exploits/15449  : success
+https://www.domoticz.com/forum/viewtopic.php?t=10366  : success
+https://trac.cyberduck.io/ticket/6361  : success
+https://www.rapid7.com/db/modules/exploit/unix/ftp/proftpd_modcopy_exec  : success
+https://www.tecmint.com/install-proftpd-in-ubuntu-and-debian/  : success
+https://bugs.launchpad.net/bugs/1511308  : success
+https://ehcpforce.tk/forums/index.php?action=recent;start=40  : success
+https://winscp.net/forum/viewtopic.php?t=13949  : success
+https://www.smartftp.com/static/forums/39/16984/remote-browser-permissions/  : success
+https://marc.info/?l=twsocket&m=129489783918424&w=2  : success
+https://vulners.com/nessus/FTPD_NO_CMD.NASL  : success
+https://www.neusbeer.nl/neusbeer/2012/02/portscanning/ftp-scan-stats/  : success
+
+
+Brand:  MICROSOFT
+Device:  CAMERA
+Product Number:  gene6
+Execution Time:  200.14519143104553

@@ -1,0 +1,20 @@
+Query: 				220 MikroTik FTP Server (MikroTik 5.6 ready)
+Processed Query:  	220 mikrotik ftp server mikrotik 5 6 ready
+
+
+https://www.academia.edu/11330297/How_to_setup_Mini_ISP_using_Mikrotik  : success
+https://www.balticnetworks.com/routeros-level-5-license.html  : success
+https://blog.seekintoo.com/chimay-red.html  : success
+https://blog.seekintoo.com/chimay-red.html  : success
+https://fofa.so/result?qbase64=Y2l0eT0iTmFiYXRpZWgi  : success
+https://blog.bravi.org/?p=374  : success
+https://www.scribd.com/doc/112614134/Mikrotik-Manual-Full  : success
+https://www.vcloudnine.de/tag/job/  : success
+https://www.sandelman.ca/mcr/hotels/yow-us-concourse.txt  : success
+https://www.vrouwedeshuizes.nl/bkgis/yonlw6k.php?fkwoalq=sonicwall-block-port-scan  : success
+
+
+Brand:  MIKROTIK
+Device:  ROUTER
+Product Number:  swl5
+Execution Time:  61.17789077758789

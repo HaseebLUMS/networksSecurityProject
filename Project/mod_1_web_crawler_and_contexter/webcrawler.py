@@ -132,7 +132,14 @@ def create_output():
 
 		except:
 			page_limit += 1
-			print(url, " : failed")
+			if 'https://www.' not in url:
+				if 'www' in url:
+					URLs.append('https://' + url)
+				else:
+					URLs.append('https://www.' + url)
+				print(url, " : queued for retry")
+			else:
+				print(url, " : url failed")
 
 	return 1
 

