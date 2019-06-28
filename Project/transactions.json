@@ -1,13 +1,81 @@
 {
     "1": [
+        "luna",
+        "mv",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | rb2011"
+    ],
+    "2": [
+        "mikrotik",
+        "v2",
+        "login",
+        "MIKROTIK | SWITCH | rb2011"
+    ],
+    "3": [
         "mikrotik",
         "ftp",
         "server",
         "mikrotik",
         "ready",
-        "MIKROTIK | ROUTER | swl5"
+        "MIKROTIK | SWITCH | rb2011"
     ],
-    "2": [
+    "4": [
+        "mikrotik",
+        "v6",
+        "term",
+        "long",
+        "login",
+        "MIKROTIK | ROUTER | ahx4"
+    ],
+    "5": [
+        "axis",
+        "ptz",
+        "network",
+        "camera",
+        "oct",
+        "ready",
+        "MIKROTIK | ROUTER | ahx4"
+    ],
+    "6": [
+        "mikrotik",
+        "v5",
+        "login",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "7": [
+        "mikrotik_nexuscowork",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | rb2011"
+    ],
+    "8": [
+        "mikrotik",
+        "v6",
+        "stable",
+        "login",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "9": [
+        "test",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MICROSOFT | SWITCH | n211"
+    ],
+    "10": [
+        "mikrotik",
+        "v6",
+        "stable",
+        "login",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "11": [
         "nasftpd",
         "turbo",
         "station",
@@ -16,79 +84,346 @@
         "proftpd",
         "MICROSOFT | CAMERA | gene6"
     ],
-    "3": [
+    "12": [
+        "account",
+        "ARM | ALARM"
+    ],
+    "13": [
+        "ftp",
+        "firmware",
+        "update",
+        "utility",
+        "STAR | WATCH"
+    ],
+    "14": [
+        "wl",
+        "driver",
+        "adapter",
+        "gpon",
+        "ont",
+        "wlctl",
+        "found",
+        "login",
+        "ASUS | ROUTER"
+    ],
+    "15": [
+        "ftp",
+        "firmware",
+        "update",
+        "utility",
+        "EPSON | SWITCH"
+    ],
+    "16": [
+        "wl",
+        "driver",
+        "adapter",
+        "gpon",
+        "ont",
+        "wlctl",
+        "found",
+        "login",
+        "ASUS | ROUTER"
+    ],
+    "17": [
+        "ftp",
+        "server",
+        "ready",
+        "STAR | TV"
+    ],
+    "18": [
+        "login",
+        "STAR | TV"
+    ],
+    "19": [
+        "ftp",
+        "firmware",
+        "update",
+        "utility",
+        "EPSON | SWITCH"
+    ],
+    "20": [
         "bcm963268",
         "broadband",
         "router",
-        "r",
-        "nlogin",
+        "login",
         "IFS | ROUTER | mtdblock5"
     ],
-    "4": [
-        "microsoft",
-        "telnet",
-        "service",
-        "welcome",
-        "rlogin",
-        "r",
-        "n",
-        "CISCO | ROUTER | mi424wr"
-    ],
-    "5": [
-        "mirpur",
+    "21": [
         "ftp",
-        "server",
-        "mikrotik",
-        "bproperty",
-        "ready",
-        "MIKROTIK | ROUTER | rb2011"
+        "firmware",
+        "update",
+        "utility",
+        "INTEL | SWITCH | x11"
     ],
-    "6": [
-        "windows",
-        "ce",
-        "telnet",
-        "service",
-        "welcome",
-        "as4",
-        "CISCO | ROUTER"
-    ],
-    "7": [
-        "technicolor",
-        "gateway",
+    "22": [
+        "bcm963268",
+        "broadband",
+        "router",
         "login",
-        "TECHNICOLOR | ROUTER | tg582n"
+        "IFS | ROUTER | mtdblock5"
     ],
-    "8": [
-        "n66u",
-        "ftp",
-        "service",
-        "asus",
-        "rt",
-        "welcome",
-        "ASUS | ROUTER | n66u"
+    "23": [
+        "vsftpd",
+        "TEAM | TV | rapid7"
     ],
-    "9": [
-        "matrix",
-        "setu",
-        "vfxth",
-        "ftp",
-        "service",
-        "welcome",
-        "MATRIX | ROUTER"
+    "24": [
+        "x86_64",
+        "hm",
+        "login",
+        "kernel",
+        "x86_64",
+        "el7",
+        "INTEL | SWITCH"
     ],
-    "10": [
-        "fuji",
-        "xerox",
-        "docuprint",
-        "p455",
-        "SAMSUNG | SWITCH | p455"
-    ],
-    "11": [
-        "phytoverse",
+    "25": [
+        "mikrotik",
         "ftp",
         "server",
         "mikrotik",
         "ready",
+        "MIKROTIK | ROUTER | in23k"
+    ],
+    "26": [
+        "mikrotik",
+        "v6",
+        "stable",
+        "login",
+        "MIKROTIK | SWITCH | ipv6"
+    ],
+    "27": [
+        "vec_opletnia",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "28": [
+        "mikrotik",
+        "v6",
+        "login",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "29": [
+        "haewoo1",
+        "ftp",
+        "server",
+        "ready",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "30": [
+        "mikrotik",
+        "v6",
+        "login",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "31": [
+        "ftp",
+        "firmware",
+        "update",
+        "utility",
+        "STAR | WATCH"
+    ],
+    "32": [
+        "bcm963268",
+        "broadband",
+        "router",
+        "login",
+        "IFS | ROUTER | mtdblock5"
+    ],
+    "33": [
+        "ftp",
+        "firmware",
+        "update",
+        "utility",
+        "ARM | BUTTON | p1"
+    ],
+    "34": [
+        "wl",
+        "driver",
+        "adapter",
+        "gpon",
+        "ont",
+        "wlctl",
+        "found",
+        "login",
+        "ASUS | ROUTER"
+    ],
+    "35": [
+        "ftp",
+        "firmware",
+        "update",
+        "utility",
+        "STAR | TV"
+    ],
+    "36": [
+        "wl",
+        "driver",
+        "adapter",
+        "gpon",
+        "ont",
+        "wlctl",
+        "found",
+        "login",
+        "ASUS | ROUTER"
+    ],
+    "37": [
+        "usina",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "ASUS | ROUTER"
+    ],
+    "38": [
+        "mikrotik",
+        "v6",
+        "stable",
+        "login",
         "MIKROTIK | ROUTER | rb2011"
+    ],
+    "39": [
+        "ftpu",
+        "ready",
+        "login",
+        "required",
+        "FILAMENT | SWITCH"
+    ],
+    "40": [
+        "localhost",
+        "login",
+        "busybox",
+        "FILAMENT | SWITCH"
+    ],
+    "41": [
+        "ftp",
+        "server",
+        "ready",
+        "FILAMENT | SWITCH"
+    ],
+    "42": [
+        "jobs",
+        "TEAM | WATCH"
+    ],
+    "43": [
+        "mikrotik",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | ccr1072"
+    ],
+    "44": [
+        "mikrotik",
+        "v6",
+        "stable",
+        "login",
+        "MIKROTIK | SWITCH"
+    ],
+    "45": [
+        "er75i",
+        "ftp",
+        "server",
+        "gnu",
+        "inetutils",
+        "ready",
+        "EXACT | ROUTER"
+    ],
+    "46": [
+        "irz",
+        "ruh2m",
+        "router",
+        "console",
+        "fw",
+        "router",
+        "login",
+        "ruh2m",
+        "v",
+        "ufu",
+        "master",
+        "m7_1304",
+        "irz",
+        "ruh2m",
+        "welcome",
+        "205_vk",
+        "ASUS | ROUTER"
+    ],
+    "47": [
+        "mikrotik",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | n5"
+    ],
+    "48": [
+        "mikrotik",
+        "v6",
+        "stable",
+        "login",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "49": [
+        "mikrotik",
+        "ftp",
+        "server",
+        "mikrotik",
+        "ready",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "50": [
+        "mikrotik",
+        "v6",
+        "login",
+        "MIKROTIK | ROUTER | base64"
+    ],
+    "51": [
+        "spellcastin",
+        "')",
+        "[::",
+        "ffff",
+        "proftpd",
+        "5b",
+        "server",
+        "MIKROTIK | ROUTER | base64"
+    ],
+    "52": [
+        "linux",
+        "spellcast",
+        "debian",
+        "gnu",
+        "login",
+        "MIKROTIK | ROUTER | base64"
+    ],
+    "53": [
+        "user",
+        "number",
+        "----------",
+        "welcome",
+        "----------",
+        "server",
+        "port",
+        "local",
+        "time",
+        "allowed",
+        "minutes",
+        "pure",
+        "privsep",
+        "inactivity",
+        "ftpd",
+        "disconnected",
+        "TEAM | SWITCH | posts1"
+    ],
+    "54": [
+        "root",
+        "login",
+        "TEAM | SWITCH | posts1"
+    ],
+    "55": [
+        "ftp",
+        "firmware",
+        "update",
+        "utility",
+        "TEAM | SWITCH | posts1"
     ]
 }
