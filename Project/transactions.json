@@ -396,34 +396,10 @@
         "MIKROTIK | ROUTER | base64"
     ],
     "53": [
-        "user",
-        "number",
-        "----------",
-        "welcome",
-        "----------",
-        "server",
-        "port",
-        "local",
-        "time",
-        "allowed",
-        "minutes",
-        "pure",
-        "privsep",
-        "inactivity",
-        "ftpd",
-        "disconnected",
-        "TEAM | SWITCH | posts1"
-    ],
-    "54": [
-        "root",
+        "mikrotik",
+        "v6",
+        "stable",
         "login",
-        "TEAM | SWITCH | posts1"
-    ],
-    "55": [
-        "ftp",
-        "firmware",
-        "update",
-        "utility",
-        "TEAM | SWITCH | posts1"
+        "MIKROTIK | ROUTER | v6"
     ]
 }

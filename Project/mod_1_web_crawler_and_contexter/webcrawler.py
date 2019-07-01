@@ -123,7 +123,7 @@ def create_output():
 					f.write(text)
 
 				with open('output.txt', 'a+') as f:
-					text = refine_query(text) #using the refining funtion
+					text = refine_query(text, 2) #using the refining funtion
 					f.write(text)
 					print(url, " : success")
 
@@ -147,8 +147,10 @@ def create_output():
 '''
 Uses Rake library for removing dictionary words from 
 input banner and extracting keywords. 
+mode 1 for refining query
+mode 2 for refining any other data
 '''
-def refine_query(q):
+def refine_query(q, mode):
 	reg = re.compile('<.*?>')
 	q = re.sub(reg, '', q)
 	r = Rake()
@@ -156,8 +158,19 @@ def refine_query(q):
 	keywords = r.get_ranked_phrases()
 	res = ""
 	for k in keywords:
+		if mode == 1:
+			if k.isdigit():
+				continue
 		res += (" " + k)
 	return res
+
+
+def countWords(l):
+	count = 0
+	for e in l:
+		if len(e) > 2:
+			count += 1
+	return count
 
 
 '''
@@ -169,10 +182,20 @@ Main function:
 '''
 def main():
 	global query
-	res = refine_query(query)
+	res = refine_query(query, 1)
+	res2= res.split(" ")
+	res2 = countWords(res2)
 	print('Query: ', res)
-	findURLs(res)
-	for url in URLs: print(url)
-	is_written = create_output()
+
+	if res2 > 1:
+		findURLs(res)
+		for url in URLs: print(url)
+		is_written = create_output()
+	else:
+		with open('raw.txt', 'w') as f:
+			f.write("")
+		
+		with open('output.txt', 'w') as f:
+			f.write(res)
 
 main()

@@ -3056,3 +3056,21 @@ console.error: BroadcastService:
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1561974341459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7VsGxxhXHIlB"
+*** You are running in headless mode.
+1561974348768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561974348768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561974348768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561974356018	Marionette	INFO	Listening on port 40369
+1561974356078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1561974370531	Marionette	INFO	Stopped listening on port 40369
+[Parent 5527, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561974478848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qwz3NKsuRKno"
+*** You are running in headless mode.
+1561974479120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561974479120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561974479120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561974482104	Marionette	INFO	Listening on port 36365
+1561974482158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1561974496454	Marionette	INFO	Stopped listening on port 36365
+[Parent 6063, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
