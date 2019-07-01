@@ -34,12 +34,15 @@ def refine_query(q, mode):
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
 	res = ""
+	ans = []
 	for k in keywords:
 		if mode == 1:
 			if k.isdigit():
 				continue
-		res += (" " + k)
-	return res
+			if not k.isalnum():
+				continue
+		ans.append(k)
+	return ans
 
 
 '''
@@ -47,6 +50,7 @@ Runs the ARE files sequenctially
 '''
 def run_files():
 	print('Prediction Engine Started!')
+
 
 
 	comm = 'touch output.txt && rm output.txt'
@@ -104,6 +108,11 @@ def run_files():
 		except:
 			print("Exception occured in local dependency finder")
 
+	if move is False:
+		with open('annotation.txt', 'w') as f:
+			f.write(" | | ")
+	return move
+
 '''
 Makes a json file
 of all transactions seen ever
@@ -132,8 +141,9 @@ def make_transaction():
 
 def main():
 	start = time.time()
-	run_files()
+	m = run_files()
 	make_transaction()
+
 	end = time.time()
 	print('Execution Time: ', end - start)
 main()

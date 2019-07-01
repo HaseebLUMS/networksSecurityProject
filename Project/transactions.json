@@ -1,347 +1,243 @@
 {
     "1": [
-        "luna",
-        "mv",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 luna mv 50 ftp server",
+        "mikrotik 2",
         "ready",
-        "MIKROTIK | ROUTER | rb2011"
+        "MIKROTIK | ROUTER | v6"
     ],
     "2": [
-        "mikrotik",
-        "v2",
-        "login",
-        "MIKROTIK | SWITCH | rb2011"
+        "mikrotik v2",
+        "38 login",
+        "MIKROTIK | ROUTER | layer2"
     ],
     "3": [
-        "mikrotik",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 mikrotik ftp server",
+        "mikrotik 6",
         "ready",
-        "MIKROTIK | SWITCH | rb2011"
+        "MIKROTIK | ROUTER | rb1100ahx4"
     ],
     "4": [
-        "mikrotik",
-        "v6",
+        "mikrotik v6",
         "term",
         "long",
         "login",
-        "MIKROTIK | ROUTER | ahx4"
+        "MIKROTIK | ROUTER | v6"
     ],
     "5": [
-        "axis",
-        "ptz",
-        "network",
-        "camera",
-        "oct",
+        "220 axis 214 ptz network camera 4",
+        "oct 05 2009",
         "ready",
-        "MIKROTIK | ROUTER | ahx4"
+        "MIKROTIK | ROUTER | v6"
     ],
     "6": [
-        "mikrotik",
-        "v5",
-        "login",
+        "mikrotik v5",
+        "20 login",
         "MIKROTIK | ROUTER | v6"
     ],
     "7": [
-        "mikrotik_nexuscowork",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 mikrotik_nexuscowork ftp server",
+        "mikrotik 6",
         "ready",
-        "MIKROTIK | ROUTER | rb2011"
+        ""
     ],
     "8": [
-        "mikrotik",
-        "v6",
+        "mikrotik v6",
         "stable",
         "login",
         "MIKROTIK | ROUTER | v6"
     ],
     "9": [
-        "test",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 test ftp server",
+        "mikrotik 6",
         "ready",
-        "MICROSOFT | SWITCH | n211"
+        "MICROSOFT | ROUTER | one100a"
     ],
     "10": [
-        "mikrotik",
-        "v6",
+        "mikrotik v6",
         "stable",
         "login",
         "MIKROTIK | ROUTER | v6"
     ],
     "11": [
-        "nasftpd",
-        "turbo",
-        "station",
-        "5a",
-        "server",
+        "220 nasftpd turbo station 1",
+        "5a server",
         "proftpd",
-        "MICROSOFT | CAMERA | gene6"
+        "CGI | ROUTER | wrt54gs"
     ],
     "12": [
         "account",
-        "ARM | ALARM"
+        " | | "
     ],
     "13": [
-        "ftp",
-        "firmware",
-        "update",
-        "utility",
-        "STAR | WATCH"
+        "220 ftp firmware update utility",
+        "EPSON | CAMERA"
     ],
     "14": [
-        "wl",
-        "driver",
-        "adapter",
-        "gpon",
-        "ont",
-        "wlctl",
-        "found",
-        "login",
+        "wl driver adapter",
+        "gpon ont wlctl",
+        "found login",
         "ASUS | ROUTER"
     ],
     "15": [
-        "ftp",
-        "firmware",
-        "update",
-        "utility",
-        "EPSON | SWITCH"
+        "220 ftp firmware update utility",
+        ""
     ],
     "16": [
-        "wl",
-        "driver",
-        "adapter",
-        "gpon",
-        "ont",
-        "wlctl",
-        "found",
-        "login",
+        "wl driver adapter",
+        "gpon ont wlctl",
+        "found login",
         "ASUS | ROUTER"
     ],
     "17": [
-        "ftp",
-        "server",
-        "ready",
-        "STAR | TV"
+        "220 ftp server ready",
+        "ARM | TV | ipv6"
     ],
     "18": [
         "login",
-        "STAR | TV"
+        " | | "
     ],
     "19": [
-        "ftp",
-        "firmware",
-        "update",
-        "utility",
-        "EPSON | SWITCH"
+        "220 ftp firmware update utility",
+        "ARM | BUTTON | p1"
     ],
     "20": [
-        "bcm963268",
-        "broadband",
-        "router",
-        "login",
+        "bcm963268 broadband router login",
         "IFS | ROUTER | mtdblock5"
     ],
     "21": [
-        "ftp",
-        "firmware",
-        "update",
-        "utility",
-        "INTEL | SWITCH | x11"
+        "220 ftp firmware update utility",
+        "EPSON | CAMERA"
     ],
     "22": [
-        "bcm963268",
-        "broadband",
-        "router",
-        "login",
+        "bcm963268 broadband router login",
         "IFS | ROUTER | mtdblock5"
     ],
     "23": [
-        "vsftpd",
-        "TEAM | TV | rapid7"
+        "vsftpd 3",
+        " | | "
     ],
     "24": [
-        "x86_64",
-        "hm",
-        "login",
-        "kernel",
+        "x86_64 hm login",
+        "kernel 3",
         "x86_64",
         "el7",
-        "INTEL | SWITCH"
+        "TEAM | WATCH"
     ],
     "25": [
-        "mikrotik",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 mikrotik ftp server",
+        "mikrotik 6",
         "ready",
-        "MIKROTIK | ROUTER | in23k"
+        "MIKROTIK | ROUTER | rb1100ahx4"
     ],
     "26": [
-        "mikrotik",
-        "v6",
+        "mikrotik v6",
         "stable",
         "login",
-        "MIKROTIK | SWITCH | ipv6"
+        "MIKROTIK | ROUTER | v6"
     ],
     "27": [
-        "vec_opletnia",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 vec_opletnia ftp server",
+        "mikrotik 6",
         "ready",
-        "MIKROTIK | ROUTER | v6"
+        ""
     ],
     "28": [
-        "mikrotik",
-        "v6",
-        "login",
-        "MIKROTIK | ROUTER | v6"
+        "mikrotik v6",
+        "5 login",
+        "MIKROTIK | ROUTER | base64"
     ],
     "29": [
-        "haewoo1",
-        "ftp",
-        "server",
-        "ready",
-        "MIKROTIK | ROUTER | v6"
+        "220 haewoo1 ftp server ready",
+        ""
     ],
     "30": [
-        "mikrotik",
-        "v6",
-        "login",
-        "MIKROTIK | ROUTER | v6"
+        "mikrotik v6",
+        "15 login",
+        "MIKROTIK | ROUTER | base64"
     ],
     "31": [
-        "ftp",
-        "firmware",
-        "update",
-        "utility",
-        "STAR | WATCH"
+        "220 ftp firmware update utility",
+        ""
     ],
     "32": [
-        "bcm963268",
-        "broadband",
-        "router",
-        "login",
+        "bcm963268 broadband router login",
         "IFS | ROUTER | mtdblock5"
     ],
     "33": [
-        "ftp",
-        "firmware",
-        "update",
-        "utility",
+        "220 ftp firmware update utility",
         "ARM | BUTTON | p1"
     ],
     "34": [
-        "wl",
-        "driver",
-        "adapter",
-        "gpon",
-        "ont",
-        "wlctl",
-        "found",
-        "login",
+        "wl driver adapter",
+        "gpon ont wlctl",
+        "found login",
         "ASUS | ROUTER"
     ],
     "35": [
-        "ftp",
-        "firmware",
-        "update",
-        "utility",
+        "220 ftp firmware update utility",
         "STAR | TV"
     ],
     "36": [
-        "wl",
-        "driver",
-        "adapter",
-        "gpon",
-        "ont",
-        "wlctl",
-        "found",
-        "login",
-        "ASUS | ROUTER"
+        "wl driver adapter",
+        "gpon ont wlctl",
+        "found login",
+        ""
     ],
     "37": [
-        "usina",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 usina ftp server",
+        "mikrotik 6",
         "ready",
-        "ASUS | ROUTER"
+        ""
     ],
     "38": [
-        "mikrotik",
-        "v6",
+        "mikrotik v6",
         "stable",
         "login",
-        "MIKROTIK | ROUTER | rb2011"
+        "MIKROTIK | ROUTER | v6"
     ],
     "39": [
-        "ftpu",
-        "ready",
-        "login",
-        "required",
+        "220 ftpu ready",
+        "login required",
         "FILAMENT | SWITCH"
     ],
     "40": [
-        "localhost",
-        "login",
+        "localhost login",
         "busybox",
-        "FILAMENT | SWITCH"
+        "ARM | TRACKING | u3"
     ],
     "41": [
-        "ftp",
-        "server",
-        "ready",
-        "FILAMENT | SWITCH"
+        "220 ftp server ready",
+        "ARM | TV | ipv6"
     ],
     "42": [
         "jobs",
-        "TEAM | WATCH"
+        " | | "
     ],
     "43": [
-        "mikrotik",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 mikrotik ftp server",
+        "mikrotik 6",
         "ready",
-        "MIKROTIK | ROUTER | ccr1072"
+        "MIKROTIK | ROUTER | x86"
     ],
     "44": [
-        "mikrotik",
-        "v6",
+        "mikrotik v6",
         "stable",
         "login",
-        "MIKROTIK | SWITCH"
+        "MIKROTIK | ROUTER | v6"
     ],
     "45": [
-        "er75i",
-        "ftp",
-        "server",
-        "gnu",
-        "inetutils",
+        "220 er75i ftp server",
+        "gnu inetutils 1",
         "ready",
-        "EXACT | ROUTER"
+        ""
     ],
     "46": [
-        "irz",
-        "ruh2m",
-        "router",
-        "console",
-        "fw",
-        "router",
-        "login",
-        "ruh2m",
-        "v",
-        "ufu",
-        "master",
-        "m7_1304",
+        "irz ruh2m router console fw",
+        "router login",
+        "37 ruh2m",
+        "v ufu",
+        "master m7_1304",
+        "16 14",
         "irz",
         "ruh2m",
         "welcome",
@@ -349,57 +245,65 @@
         "ASUS | ROUTER"
     ],
     "47": [
-        "mikrotik",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 mikrotik ftp server",
+        "mikrotik 6",
         "ready",
-        "MIKROTIK | ROUTER | n5"
+        "MIKROTIK | ROUTER | x86"
     ],
     "48": [
-        "mikrotik",
-        "v6",
+        "mikrotik v6",
         "stable",
         "login",
         "MIKROTIK | ROUTER | v6"
     ],
     "49": [
-        "mikrotik",
-        "ftp",
-        "server",
-        "mikrotik",
+        "220 mikrotik ftp server",
+        "mikrotik 6",
         "ready",
-        "MIKROTIK | ROUTER | v6"
+        "MIKROTIK | ROUTER | rb1100ahx4"
     ],
     "50": [
-        "mikrotik",
-        "v6",
-        "login",
+        "mikrotik v6",
+        "23 login",
         "MIKROTIK | ROUTER | base64"
     ],
     "51": [
-        "spellcastin",
-        "')",
-        "[::",
-        "ffff",
-        "proftpd",
-        "5b",
-        "server",
-        "MIKROTIK | ROUTER | base64"
+        "spellcastin ') [:: ffff",
+        "220 proftpd 1",
+        "5b server",
+        ""
     ],
     "52": [
-        "linux",
-        "spellcast",
-        "debian",
-        "gnu",
+        "linux 9 spellcast",
+        "debian gnu",
         "login",
-        "MIKROTIK | ROUTER | base64"
+        "EXACT | TV"
     ],
     "53": [
-        "mikrotik",
-        "v6",
-        "stable",
-        "login",
-        "MIKROTIK | ROUTER | v6"
+        "user number 1",
+        "220 ---------- welcome",
+        "---------- 220",
+        "server port",
+        "local time",
+        "50 allowed",
+        "15 minutes",
+        "pure",
+        "privsep",
+        "inactivity",
+        "ftpd",
+        "disconnected",
+        "TEAM | SWITCH | posts1"
+    ],
+    "54": [
+        "root login",
+        "TEAM | SWITCH | esp8266"
+    ],
+    "55": [
+        "220 ftp firmware update utility",
+        "ARM | BUTTON | p1"
+    ],
+    "56": [
+        "bcm963268 broadband router login",
+        "IFS | ROUTER | mtdblock5"
     ]
 }

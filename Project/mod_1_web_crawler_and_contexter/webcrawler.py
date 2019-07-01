@@ -132,11 +132,8 @@ def create_output():
 
 		except:
 			page_limit += 1
-			if 'https://www.' not in url:
-				if 'www' in url:
-					URLs.append('https://' + url)
-				else:
-					URLs.append('https://www.' + url)
+			if 'www.' not in url:
+				URLs.append('www.' + url)
 				print(url, " : queued for retry")
 			else:
 				print(url, " : url failed")
@@ -160,6 +157,8 @@ def refine_query(q, mode):
 	for k in keywords:
 		if mode == 1:
 			if k.isdigit():
+				continue
+			if not k.isalnum():
 				continue
 		res += (" " + k)
 	return res

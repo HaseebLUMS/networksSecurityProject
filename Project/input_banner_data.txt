@@ -1,2 +1,1 @@
-MikroTik v6.43.5 (stable)
-Login:
+220 FTP print service:V-1.13/Use the network password for the ID if updating.
