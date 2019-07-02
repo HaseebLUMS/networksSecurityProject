@@ -59,7 +59,7 @@ dependency rules, DER will select the tuple (device type, vendor, product)
 '''
 def find_dependency(text, vendors, device_types):
 
-	max_lines = 0
+	anns = [] #annotations	
 	ans_ven = ''
 	ans_dev = ''
 	# print(vendors, device_types)
@@ -67,19 +67,19 @@ def find_dependency(text, vendors, device_types):
 		if len(v) < 3: continue
 		for d in device_types:
 			count = count_related_lines(v, d, text)
-			# print('For ', v , ' and ', d, ' ', count)
 			if count: #v and d are already sorted so the first one with a depen
 						#dency is answer
 				ans_ven = v
 				ans_dev = d
-				return {'vendor': ans_ven, 'device_type': ans_dev}
+				anns.append({'vendor': ans_ven, 'device_type': ans_dev})
 
 			# if  count > max_lines:
 			# 	max_lines = count
 			# 	ans_ven = v
 			# 	ans_dev = d
 	
-
+	print(anns)
+	return anns[0]
 
 
 '''
@@ -118,8 +118,11 @@ def main():
 	global products
 
 	text = linefyText(file)
-	predicted_label = find_dependency(text, vendors, device_types)
-
+	predicted_label = {}
+	try: predicted_label = find_dependency(text, vendors, device_types)
+	except: pass
+	
+	
 	ans = ""
 	try:
 		print('Brand: ', predicted_label['vendor'].upper())

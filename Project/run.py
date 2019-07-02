@@ -28,8 +28,8 @@ a list of important
 keywords
 '''
 def refine_query(q, mode):
-	reg = re.compile('<.*?>')
-	q = re.sub(reg, '', q)
+	reg = re.compile('<.*?>') #finds html tags
+	q = re.sub(reg, '', q) #replaces them ^| with empty string
 	r = Rake()
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
@@ -141,9 +141,8 @@ def make_transaction():
 
 def main():
 	start = time.time()
-	m = run_files()
+	run_files()
 	make_transaction()
-
 	end = time.time()
 	print('Execution Time: ', end - start)
 main()
