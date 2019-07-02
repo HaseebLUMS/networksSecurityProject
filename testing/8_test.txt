@@ -1,0 +1,3389 @@
+GPON ONT
+wlctl: wl driver adapter not found
+Login:
+
+============================https://pastebin.com/HTj75bzZ===============================
+
+115.48.162.169: 109.234.35.237: SSH-2.0-OpenSSH_5.3
+/n176.105.177.173: /n103.13 - Pastebin.com
+Sign Up
+Login
+API
+FAQ
+Tools
+Archive
+PASTEBIN
+new paste
+API
+tools
+faq
+deals
+Guest User
+-
+Public Pastes
+Untitled10 sec agoUntitled14 sec agoUntitled19 sec agoUntitled24 sec agoUntitled26 sec agoUntitled29 sec agoLista ajono33 sec agoUntitled34 sec ago
+SHARE
+TWEET
+Untitled
+a guest
+Mar 20th, 2019
+59
+Never
+Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
+rawdownloadcloneembedreportprint
+text 5.94 KB
+115.48.162.169: 109.234.35.237: SSH-2.0-OpenSSH_5.3
+/n176.105.177.173: /n103.132.228.82: ������!����zxic
+/n193.86.144.46: /n82.114.101.209: /n78.135.63.78: /n200.54.102.81: ��������CC
+/n200.54.102.81: -----------------------------------------------------------------------
+/n200.54.102.81:
+/n200.54.102.81:                                              0001111
+/n200.54.102.81:                                            00000111111
+/n200.54.102.81:                  1111                     0001111111000
+/n200.54.102.81:               1011111111                 000001111111100
+/n200.54.102.81:             10111111111000              00111111111111101
+/n200.54.102.81:            10111111111110001           001111111001111111
+/n200.54.102.81:            011111111111111000         0011111000000111100
+/n72.29.39.91: /n201.122.170.41: ����Grandstream GXW4108 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.1.6  HW: 1.1A ) Command Shell
+/n168.167.91.171: ��������
+/n168.167.91.171:
+/n168.167.91.171: User Access Verification
+/n168.167.91.171:
+/n116.97.118.34: ��������
+/n116.97.118.34:
+/n116.97.118.34: User Access Verification
+/n116.97.118.34:
+/n190.131.95.93: /n182.113.215.6: /n212.164.60.74: /n82.152.157.164: ��������
+/n82.152.157.164: -----------------------------------------------------------------------
+/n200.54.102.81:           111111011111111111001      00111100001   0111001
+/n82.152.157.164: Cisco Configuration Professional (Cisco CP) is installed on this device.
+/n200.54.102.81:           111100000111110111100001110011110001     0111001
+/n82.152.157.164: This feature requires the one-time use of the username "cisco" with the
+/n200.54.102.81:           01100  1001111101111100000111110001      0111001
+/n82.152.157.164: password "cisco". These default credentials have a privilege level of 15.
+/n200.54.102.81:           01100    1001111111111111111111000       011000
+/n82.152.157.164:
+/n200.54.102.81:           001001    10011111111111111111000        011000
+/n82.152.157.164: YOU MUST USE CISCO CP or the CISCO IOS CLI TO CHANGE THESE
+/n200.54.102.81:           1011001     00011111111111110000         000000
+/n82.152.157.164: PUBLICLY-KNOWN CREDENTIALS
+/n200.54.102.81:            001100      0000011111110000001          1001
+/n82.152.157.164:
+/n200.54.102.81:             000000       000000000000000
+/n82.152.157.164: Here are the Cisco IOS commands.
+/n200.54.102.81:              00000         10000000001
+/n82.152.157.164:
+/n123.16.35.117: ����!����GPON ONT
+/n82.152.157.164: username <myuser>  privilege 15 secret 0 <mypassword>
+/n123.16.35.117: wlctl: wl driver adapter not found
+/n82.152.157.164: no username cisco
+/n82.152.157.164:
+/n200.54.102.81:               100
+/n200.54.102.81:                           MOVISTAR CHILE
+/n200.54.102.81:                      C i s c o  S y s t e m s
+/n200.54.102.81:                         Router Infointernet
+/n200.54.102.81:        Sucursal:  Los Cerezos #  6251 macul, Santiago.
+/n200.54.102.81:    ADVERTENCIA: EL USO NO AUTORIZADO POR MOVISTAR SE ENCUENTRA
+/n200.54.102.81:                             PROHIBIDO.
+/n200.54.102.81:
+/n200.54.102.81: -----------------------------------------------------------------------
+/n200.54.102.81:                              CISCO 1941
+/n110.182.109.167: ������
+/n110.182.109.167: Command line is locked now, please retry later.
+/n110.182.109.167:
+/n60.10.44.183: ��������
+/n221.193.253.140: ��������
+/n1.69.21.141: ������
+/n1.69.21.141: Welcome Visiting Huawei Home Gateway
+/n1.69.21.141: Copyright by Huawei Technologies Co., Ltd.
+/n1.69.21.141:
+/n200.54.102.81:
+/n200.54.102.81:
+/n200.54.102.81: User Access Verification
+/n200.54.102.81:
+/n112.16.7.174: ����������'������'��Password required, but none set
+/n112.16.7.174: /n181.112.225.6: ������
+/n181.112.225.6: Command Line Is Locked Now, Please Retry Later.
+/n181.112.225.6:
+/n221.3.212.228: ��������
+/n82.119.115.194: ��������
+/n82.119.115.194: Hello, Bratislava!!!!
+/n82.119.115.194:
+/n82.119.115.194:
+/n82.119.115.194: User Access Verification
+/n82.119.115.194:
+/n12.252.227.194: ��������
+/n12.252.227.194:
+/n12.252.227.194: Password required, but none set
+/n151.29.217.48: /n110.182.109.167: /n218.92.70.222: ������
+/n117.223.128.178: /n212.121.156.234: /n133.236.255.192: /n181.10.21.41: ��������
+/n181.10.21.41: -----------------------------------------------------------------------
+/n181.10.21.41: Cisco Configuration Professional (Cisco CP) is installed on this device.
+/n181.10.21.41: This feature requires the one-time use of the username "cisco" with the
+/n181.10.21.41: password "cisco". These default credentials have a privilege level of 15.
+/n181.10.21.41:
+/n181.10.21.41: YOU MUST USE CISCO CP or the CISCO IOS CLI TO CHANGE THESE
+/n181.10.21.41: PUBLICLY-KNOWN CREDENTIALS
+/n181.10.21.41:
+/n181.10.21.41: Here are the Cisco IOS commands.
+/n181.10.21.41:
+/n181.10.21.41: username <myuser>  privilege 15 secret 0 <mypassword>
+/n181.10.21.41: no username cisco
+/n181.10.21.41:
+/n58.209.72.210: /n103.76.169.226: /n89.121.126.82: ��������
+/n89.121.126.82:
+/n89.121.126.82: User Access Verification
+/n89.121.126.82:
+/n200.120.142.57: /n197.15.208.181: /n12.252.227.194: /n221.229.228.89: /n61.32.242.140: WARNING: You are not authorized to connect this system!!
+/n61.32.242.140: /n94.238.248.75:
+/n94.238.248.75: %connection refused by remote host!/n192.107.96.117: ��������
+/n192.107.96.117:
+/n192.107.96.117: User Access Verification
+/n192.107.96.117:
+/n125.43.216.44: /n46.149.86.160: SSH-2.0-OpenSSH_6.6.1
+/n
+RAW Paste Data
+115.48.162.169: 109.234.35.237: SSH-2.0-OpenSSH_5.3
+/n176.105.177.173: /n103.132.228.82: ������!����zxic
+/n193.86.144.46: /n82.114.101.209: /n78.135.63.78: /n200.54.102.81: ��������CC
+/n200.54.102.81: -----------------------------------------------------------------------
+/n200.54.102.81:
+/n200.54.102.81:
+0001111
+/n200.54.102.81:
+00000111111
+/n200.54.102.81:
+1111
+0001111111000
+/n200.54.102.81:
+1011111111
+000001111111100
+/n200.54.102.81:
+10111111111000
+00111111111111101
+/n200.54.102.81:
+10111111111110001
+001111111001111111
+/n200.54.102.81:
+011111111111111000
+0011111000000111100
+/n72.29.39.91: /n201.122.170.41: ����Grandstream GXW4108 ( Boot:1.1.3.2
+Loader:1.1.3.4
+App:1.3.1.6
+HW: 1.1A ) Command Shell
+/n168.167.91.171: ��������
+/n168.167.91.171:
+/n168.167.91.171: User Access Verification
+/n168.167.91.171:
+/n116.97.118.34: ��������
+/n116.97.118.34:
+/n116.97.118.34: User Access Verification
+/n116.97.118.34:
+/n190.131.95.93: /n182.113.215.6: /n212.164.60.74: /n82.152.157.164: ��������
+/n82.152.157.164: -----------------------------------------------------------------------
+/n200.54.102.81:
+111111011111111111001
+00111100001
+0111001
+/n82.152.157.164: Cisco Configuration Professional (Cisco CP) is installed on this device.
+/n200.54.102.81:
+111100000111110111100001110011110001
+0111001
+/n82.152.157.164: This feature requires the one-time use of the username "cisco" with the
+/n200.54.102.81:
+01100
+1001111101111100000111110001
+0111001
+/n82.152.157.164: password "cisco". These default credentials have a privilege level of 15.
+/n200.54.102.81:
+01100
+1001111111111111111111000
+011000
+/n82.152.157.164:
+/n200.54.102.81:
+001001
+10011111111111111111000
+011000
+/n82.152.157.164: YOU MUST USE CISCO CP or the CISCO IOS CLI TO CHANGE THESE
+/n200.54.102.81:
+1011001
+00011111111111110000
+000000
+/n82.152.157.164: PUBLICLY-KNOWN CREDENTIALS
+/n200.54.102.81:
+001100
+0000011111110000001
+1001
+/n82.152.157.164:
+/n200.54.102.81:
+000000
+000000000000000
+/n82.152.157.164: Here are the Cisco IOS commands.
+/n200.54.102.81:
+00000
+10000000001
+/n82.152.157.164:
+/n123.16.35.117: ����!����GPON ONT
+/n82.152.157.164: username <myuser>
+privilege 15 secret 0 <mypassword>
+/n123.16.35.117: wlctl: wl driver adapter not found
+/n82.152.157.164: no username cisco
+/n82.152.157.164:
+/n200.54.102.81:
+100
+/n200.54.102.81:
+MOVISTAR CHILE
+/n200.54.102.81:
+C i s c o
+S y s t e m s
+/n200.54.102.81:
+Router Infointernet
+/n200.54.102.81:
+Sucursal:
+Los Cerezos #
+6251 macul, Santiago.
+/n200.54.102.81:
+ADVERTENCIA: EL USO NO AUTORIZADO POR MOVISTAR SE ENCUENTRA
+/n200.54.102.81:
+PROHIBIDO.
+/n200.54.102.81:
+/n200.54.102.81: -----------------------------------------------------------------------
+/n200.54.102.81:
+CISCO 1941
+/n110.182.109.167: ������
+/n110.182.109.167: Command line is locked now, please retry later.
+/n110.182.109.167:
+/n60.10.44.183: ��������
+/n221.193.253.140: ��������
+/n1.69.21.141: ������
+/n1.69.21.141: Welcome Visiting Huawei Home Gateway
+/n1.69.21.141: Copyright by Huawei Technologies Co., Ltd.
+/n1.69.21.141:
+/n200.54.102.81:
+/n200.54.102.81:
+/n200.54.102.81: User Access Verification
+/n200.54.102.81:
+/n112.16.7.174: ����������'������'��Password required, but none set
+/n112.16.7.174: /n181.112.225.6: ������
+/n181.112.225.6: Command Line Is Locked Now, Please Retry Later.
+/n181.112.225.6:
+/n221.3.212.228: ��������
+/n82.119.115.194: ��������
+/n82.119.115.194: Hello, Bratislava!!!!
+/n82.119.115.194:
+/n82.119.115.194:
+/n82.119.115.194: User Access Verification
+/n82.119.115.194:
+/n12.252.227.194: ��������
+/n12.252.227.194:
+/n12.252.227.194: Password required, but none set
+/n151.29.217.48: /n110.182.109.167: /n218.92.70.222: ������
+/n117.223.128.178: /n212.121.156.234: /n133.236.255.192: /n181.10.21.41: ��������
+/n181.10.21.41: -----------------------------------------------------------------------
+/n181.10.21.41: Cisco Configuration Professional (Cisco CP) is installed on this device.
+/n181.10.21.41: This feature requires the one-time use of the username "cisco" with the
+/n181.10.21.41: password "cisco". These default credentials have a privilege level of 15.
+/n181.10.21.41:
+/n181.10.21.41: YOU MUST USE CISCO CP or the CISCO IOS CLI TO CHANGE THESE
+/n181.10.21.41: PUBLICLY-KNOWN CREDENTIALS
+/n181.10.21.41:
+/n181.10.21.41: Here are the Cisco IOS commands.
+/n181.10.21.41:
+/n181.10.21.41: username <myuser>
+privilege 15 secret 0 <mypassword>
+/n181.10.21.41: no username cisco
+/n181.10.21.41:
+/n58.209.72.210: /n103.76.169.226: /n89.121.126.82: ��������
+/n89.121.126.82:
+/n89.121.126.82: User Access Verification
+/n89.121.126.82:
+/n200.120.142.57: /n197.15.208.181: /n12.252.227.194: /n221.229.228.89: /n61.32.242.140: WARNING: You are not authorized to connect this system!!
+/n61.32.242.140: /n94.238.248.75:
+/n94.238.248.75: %connection refused by remote host!/n192.107.96.117: ��������
+/n192.107.96.117:
+/n192.107.96.117: User Access Verification
+/n192.107.96.117:
+/n125.43.216.44: /n46.149.86.160: SSH-2.0-OpenSSH_6.6.1
+/n
+We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the Cookies Policy. OK, I Understand
+Not a member of Pastebin yet?Sign Up, it unlocks many cool features!
+create new paste  /
+dealsnew!  /
+syntax languages  /
+archive  /
+faq  /
+tools  /
+night mode  /
+api  /
+scraping api
+privacy statement  /
+cookies policy  /
+terms of service  /
+security disclosure  /
+dmca  /
+contact
+By using Pastebin.com you agree to our cookies policy to enhance your experience.
+Site design & logo © 2018 Pastebin; user contributions (pastes) licensed under cc by-sa 3.0 --
+Dedicated Server Hosting by Steadfast
+Top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPON ONT
+wlctl: wl driver adapter not found
+Login:
+
+============================https://pastebin.com/HTj75bzZ===============================
+
+ public pastes untitled10 sec agountitled14 sec agountitled19 sec agountitled24 sec agountitled26 sec agountitled29 sec agolista ajono33 sec agountitled34 sec ago share tweet untitled login api faq tools archive pastebin new paste api tools faq deals guest user welcome visiting huawei home gateway huawei technologies co ., ltd 0 -- dedicated server hosting autorizado por movistar se encuentra n raw paste data 115 scraping api privacy statement create new paste username privilege 15 secret 0 logo © 2018 pastebin various purposes including analytics unlocks many cool features remote host !/ n192 guest mar 20th user access verification pastes must use cisco cp tools faq ����!���� gpon ont ���� grandstream gxw4108 wl driver adapter rawdownloadcloneembedreportprint text 5 please retry later 94 kb 115 2019 59 never 01100 1001111111111111111111000 011000 001100 0000011111110000001 1001 001001 10011111111111111111000 011000 111111011111111111001 00111100001 0111001 01100 1001111101111100000111110001 0111001 1011001 00011111111111110000 000000 cisco ios commands cisco ios cli cisco configuration professional user contributions api ����������'������'�� password required archive use pastebin using pastebin pastebin yet privilege level movistar chile cisco cp username cisco 111100000111110111100001110011110001 0111001 password required 000000 000000000000000 cisco 1941 cisco ". time use pastebin ������!���� zxic system !! syntax languages steadfast top site design security disclosure router infointernet none set night mode los cerezos known credentials feature requires el uso default credentials connection refused command shell command line bratislava !!!! 6251 macul 4 app 1111 0001111111000 10111111111110001 001111111001111111 10111111111000 00111111111111101 1011111111 000001111111100 011111111111111000 0011111000000111100 00000 10000000001 use cookies cookies policy 0 sa 3 6 hw 2 loader �������� cc n com sign 15 115 username n192 cisco use password cookies �������� sign com cc 6 3 2 ������ wlctl warning understand terms sucursal ssh service santiago publicly prohibido openssh_6 openssh_5 one ok n94 n89 n82 n78 n72 n61 n60 n58 n46 n221 n218 n212 n201 n200 n197 n193 n190 n182 n181 n176 n168 n151 n133 n125 n123 n12 n117 n116 n112 n110 n103 n1 member locked licensed installed hello found experience enhance e dmca device described dealsnew copyright continuing contact connect change c boot authorized agree advertencia 97 96 95 93 92 91 89 86 82 81 78 76 75 74 72 70 7 69 63 60 57 54 48 46 44 43 41 39 35 34 32 29 255 253 252 248 242 238 237 236 234 229 228 227 226 225 223 222 217 216 215 212 210 21 209 208 1a 194 193 192 183 182 181 178 177 174 173 171 170 169 167 164 162 160 16 157 156 152 149 144 142 141 140 135 132 131 13 128 126 122 121 120 119 118 117 114 113 112 109 107 105 102 101 100 10 1 0001111 00000111111 -----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "vendors": [
+    "cisco",
+    "huawei"
+  ],
+  "device_types": [
+    "router"
+  ],
+  "products": [
+    "htj75bzz",
+    "untitled10",
+    "agountitled14",
+    "agountitled19",
+    "agountitled24",
+    "agountitled26",
+    "agountitled29",
+    "ajono33",
+    "agountitled34",
+    "n192",
+    "gxw4108",
+    "n94",
+    "n89",
+    "n82",
+    "n78",
+    "n72",
+    "n61",
+    "n60",
+    "n58",
+    "n46",
+    "n221",
+    "n218",
+    "n212",
+    "n201",
+    "n200",
+    "n197",
+    "n193",
+    "n190",
+    "n182",
+    "n181",
+    "n176",
+    "n168",
+    "n151",
+    "n133",
+    "n125",
+    "n123",
+    "n12",
+    "n117",
+    "n116",
+    "n112",
+    "n110",
+    "n103",
+    "n1"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPON ONT
+wlctl: wl driver adapter not found
+Login:
+
+============================https://forum.dd-wrt.com/phpBB2/viewtopic.php?p=366295===============================
+
+DD-WRT Forum :: View topic - wl driver adapter not found
+HOME
+DOWNLOADS
+SHOP
+ACTIVATION CENTER
+Professional
+Support
+Community
+Contact
+Imprint
+Privacy Policy
+Forum
+Wiki
+Donations
+Bugtracker
+Imprint
+Privacy Policy
+DD-WRT
+Community
+Contact
+Donations
+Forum
+Wiki
+Bugtracker
+Imprint
+Privacy Policy
+Quick Links
+Log in
+Profile
+View unanswered posts
+Log in
+Username:
+Password:
+Log me on automatically each visit
+wl driver adapter not found
+DD-WRT Forum Forum Index
+-> Broadcom SoC based Hardware
+Goto page
+Previous  1, 2, 3, 4, 5  Next
+View previous topic :: View next topic
+Author
+Message
+MastermanDD-WRT GuruJoined: 24 Aug 2009Posts: 2071Location: South Florida
+Posted: Sun Nov 01, 2009 5:15    Post subject:
+If I were you, I'd do what you previously mentioned about going back to the stock Asus FW to test the wireless.
+You could also grab Oleg's FW over at Wl500info forums so you still have SSH abilities for testing, etc.
+_________________Optware, the Right Way
+Asus RT-AC68U
+Asus RT-N66U
+Asus RT-N10
+Asus RT-N12
+Asus RT-N16 x5
+Asus WL520gU
+Engenious ECB350
+Linksys WRT600Nv1.1
+Linksys WRT610Nv1
+Linksys E2000
+Netgear WNDR3300
+SonicWall NSA220W
+SonicWall TZ215W
+SonicWall TZ205W
+SonicWall TZ105W
+Back to top
+Sponsor
+MurrkfDD-WRT GuruJoined: 22 Sep 2008Posts: 12680
+Posted: Sun Nov 01, 2009 13:04    Post subject:
+Take the card out, check carefully for anything abnormal on the card or slot.
+Corrosion of any type is bad.
+Look for heat signs.
+Capacitors that are bad often bulge.
+The tops should be dead flat.
+See note 17 of the peacock.
+_________________SIG:
+I'm trying to teach you to fish, not give you a fish.
+If you just want a fish, wait for a fisherman who hands them out.
+I'm more of a fishing instructor.
+LOM:
+"If you show that you have not bothered to read the forum announcements or to follow the advices in them then the level of help available for you will drop substantially, also known as Murrkf's law.."
+Back to top
+autobotDD-WRT GuruJoined: 07 May 2009Posts: 1595
+Posted: Sun Nov 01, 2009 15:06    Post subject:
+Does anyone know if DD-WRT uses more energy than the default Asus firmware? Maybe the USB driver pulls more amps in dd-wrt? I would try the Asus firmware and see if your radio functions under actual use for a few hours. Steam some radio or something.
+_________________Eko Builds
+BrainSlayer Builds
+DD-WRT Changelog RSS Feed
+Back to top
+automattackDD-WRT NoviceJoined: 28 Oct 2009Posts: 41
+Posted: Sun Nov 01, 2009 15:56    Post subject:
+So I just swapped out old router for the ASUS, to take the ASUS and work on it. I plugged it in and the AIR light cam on!(WTF?) So I telnet in and issued
+Code:
+wl down
+and the AIR light went off. I immediately issued
+Code:
+wl up
+and all 4 LAN lights started to blink a few times, then only only the light for the cable I have plugged in stayed lit. It's been ~10 minutes and the terminal hasn't given me another prompt (like the command is hung). I telnet in another console and issued
+Code:
+wl status
+wl ver
+and got the (all too) familiar
+Code:
+wl:radio on ->wl driver adapter not found
+I power-cycled the router and the air light came back on!
+Code:
+wl status
+SSID: "marginal"
+Mode Managed   RSSI: ) dBm      Noise: 0 dBm    Channel: 1
+BSSID: 00:22:15:4B:445:BD       Capability: ESS ShortSlot
+Supported Rates: [ 1(b) 2(b) 5.5(b) 6 9 11(b) 12 18 24 36 48 54 ]
+Code:
+wl ver
+4.105 RC10.5
+wl0: Mar  9 2009 21:56:41 version 4.150.10.31
+So now I'm confused... I'm considering putting it back in place and streaming some radio as Murrkf suggested.
+edit: I unplugged it after letting it sit on my desk (with the radio on but not streaming data) for close to an hour. Took it downstairs to hook up to the modem, plugged it in and no radio. This made me think maybe it's a problem with the power, so I tried it in several outlets around the house, including the one at my desk again. Nope, still no radio.
+Back to top
+MastermanDD-WRT GuruJoined: 24 Aug 2009Posts: 2071Location: South Florida
+Posted: Sun Nov 01, 2009 16:51    Post subject:
+This sounds like a corrupted FW image.
+If you had radio, threw a command at it, and then tried to throw another command and it bricked........these are all the signs, at least to me, of a bad flash.
+If all the LAN lights blink more than twice, this is the 500W in a kernel panic mode.
+You can only get out of this mode by unplugging it for ~15 seconds..
+_________________Optware, the Right Way
+Asus RT-AC68U
+Asus RT-N66U
+Asus RT-N10
+Asus RT-N12
+Asus RT-N16 x5
+Asus WL520gU
+Engenious ECB350
+Linksys WRT600Nv1.1
+Linksys WRT610Nv1
+Linksys E2000
+Netgear WNDR3300
+SonicWall NSA220W
+SonicWall TZ215W
+SonicWall TZ205W
+SonicWall TZ105W
+Back to top
+automattackDD-WRT NoviceJoined: 28 Oct 2009Posts: 41
+Posted: Sun Nov 01, 2009 16:53    Post subject:
+Masterman wrote:
+This sounds like a corrupted FW image.
+If you had radio, threw a command at it, and then tried to throw another command and it bricked........these are all the signs, at least to me, of a bad flash.
+If all the LAN lights blink more than twice, this is the 500W in a kernel panic mode.
+You can only get out of this mode by unplugging it for ~15 seconds..
+Should I start over from the beginning?
+Back to top
+automattackDD-WRT NoviceJoined: 28 Oct 2009Posts: 41
+Posted: Sun Nov 01, 2009 16:58    Post subject:
+Ugh...
+I had the router unplugged a few minutes, and went to reflash... Plugged it in and the radio light is on!
+Back to top
+MastermanDD-WRT GuruJoined: 24 Aug 2009Posts: 2071Location: South Florida
+Posted: Sun Nov 01, 2009 17:25    Post subject:
+You need to do a completely fresh install man.
+I've included the tools you really need as an attachment (since all the links are dead):
+I recommend using your Vista PC with the Asus FW restoration utility: http://support.asus.com/download/download.aspx?SLanguage=en-us&model=WL-500W (browse to utilities after selecting OS)
+Disable all firewalls and anti-virus when using the utility, unplug the WAN, and disable all adapters except for the LAN in which you need to set a manual IP of 192.168.1.10, subnet mask 255.255.255.0.
+Ping the router to make sure you have a connection, then put it into restore mode via holding down the reset while plugging it in.
+Upload wl500g-clear-nvram.trx. It will ask you to reboot the router once completed, but give it about 30 seconds before you do and keep it off for 30 secs.
+Plug in again into restore mode
+Upload wl500g-recover.trx.
+Once finished, allow 30 secs to pass, then 30 secs off.
+Put it into restore mode again and upload a mini-asus.trx file
+Once done, log into the Web-inf, set pwd, but instead of upgrading it right away, use the mini image to test your wireless...If it doesn't work at that point, then something else is wrong..
+Asus Tools.rar
+Description:
+clear nvram and restore
+Download
+Filename:
+Asus Tools.rar
+Filesize:
+5.02 MB
+Downloaded:
+109980 Time(s)
+_________________Optware, the Right Way
+Asus RT-AC68U
+Asus RT-N66U
+Asus RT-N10
+Asus RT-N12
+Asus RT-N16 x5
+Asus WL520gU
+Engenious ECB350
+Linksys WRT600Nv1.1
+Linksys WRT610Nv1
+Linksys E2000
+Netgear WNDR3300
+SonicWall NSA220W
+SonicWall TZ215W
+SonicWall TZ205W
+SonicWall TZ105W
+Back to top
+automattackDD-WRT NoviceJoined: 28 Oct 2009Posts: 41
+Posted: Sun Nov 01, 2009 19:24    Post subject:
+Alright. I re-flashed from scratch, and put dd-wrt.v24_mini_asus.trx on it.
+No radio.
+So I re-flashed from scratch, and put stock ASUS firmware on it: WL500W_2.0.0.1_EN_CN_TW_DE.trx
+Radio came on almost instantly. But... I can't log into the router with the default user/pass (admin/admin) and the SSID still claims to be DD-WRT...
+Maybe the nvram didn't clear all the way?
+Back to top
+MurrkfDD-WRT GuruJoined: 22 Sep 2008Posts: 12680
+Posted: Sun Nov 01, 2009 19:53    Post subject:
+Clear your browser cache/try a different browser.
+_________________SIG:
+I'm trying to teach you to fish, not give you a fish.
+If you just want a fish, wait for a fisherman who hands them out.
+I'm more of a fishing instructor.
+LOM:
+"If you show that you have not bothered to read the forum announcements or to follow the advices in them then the level of help available for you will drop substantially, also known as Murrkf's law.."
+Back to top
+automattackDD-WRT NoviceJoined: 28 Oct 2009Posts: 41
+Posted: Sun Nov 01, 2009 20:58    Post subject:
+Murrkf wrote:
+Clear your browser cache/try a different browser.
+Cleared the cache and tried different browsers and different computers... still wants to login to DD-WRT.
+Tried to flash again (this time with Vista computer, last time was with Mac). Asus restore utility hung on "please wait for finding available IP address" for several minutes (more than 5). I could ping the router no problem.
+Still when I plug it in, all 4 LAN lights flash once, then the AIR light comes on... -shrug- I'm going to let it sit for a while then try re-flashing later tonight.
+Back to top
+MurrkfDD-WRT GuruJoined: 22 Sep 2008Posts: 12680
+Posted: Sun Nov 01, 2009 21:03    Post subject:
+automattack wrote:
+Cleared the cache and tried different browsers and different computers... still wants to login to DD-WRT.
+Then you did not revert properly.
+Make sure you are flashing the proper oem build.
+_________________SIG:
+I'm trying to teach you to fish, not give you a fish.
+If you just want a fish, wait for a fisherman who hands them out.
+I'm more of a fishing instructor.
+LOM:
+"If you show that you have not bothered to read the forum announcements or to follow the advices in them then the level of help available for you will drop substantially, also known as Murrkf's law.."
+Back to top
+MastermanDD-WRT GuruJoined: 24 Aug 2009Posts: 2071Location: South Florida
+Posted: Sun Nov 01, 2009 22:55    Post subject:
+Are you using the Asus FW utility to upload the stock FW?
+You may want to run the the clear nvram and restore process again, then re-flash..
+I'm starting to think this router may have been pin shorted in the past and it wasn't properly done.
+How long have you owned it?
+_________________Optware, the Right Way
+Asus RT-AC68U
+Asus RT-N66U
+Asus RT-N10
+Asus RT-N12
+Asus RT-N16 x5
+Asus WL520gU
+Engenious ECB350
+Linksys WRT600Nv1.1
+Linksys WRT610Nv1
+Linksys E2000
+Netgear WNDR3300
+SonicWall NSA220W
+SonicWall TZ215W
+SonicWall TZ205W
+SonicWall TZ105W
+Back to top
+fggsDD-WRT GuruJoined: 28 Jan 2008Posts: 1741
+Posted: Sun Nov 01, 2009 23:15    Post subject:
+Forget about dd-wrt YET! Flash it with ASUS firmware and see how it works, do some tests, move it around etc.. then try dd-wrt again.
+Back to top
+automattackDD-WRT NoviceJoined: 28 Oct 2009Posts: 41
+Posted: Mon Nov 02, 2009 1:05    Post subject:
+Masterman wrote:
+Are you using the Asus FW utility to upload the stock FW?
+You may want to run the the clear nvram and restore process again, then re-flash..
+I'm starting to think this router may have been pin shorted in the past and it wasn't properly done.
+How long have you owned it?
+Your theory might be correct. When I opened it last night, I noticed the screw heads were worn, and there were fingerprints on what looks like a heat-sync. So someone opened it before me.
+I have had it 7 days now, bought it used on craigslist.
+I tried the Asus utility to re-flash, but I could get it to recognize the router. It hung on "Waiting for an available IP address" (or something like that) every time. I used a statically assigned IP address and tried one from DHCP as well... So I'm using TFTP from my Mac. It's the only reliable way so far.
+That said, now I can't get it to take any firmware, even after clearing the nvram and recovery.
+Any pointers on which is the correct ASUS firmware? It's not obvious to me. I picked the newest one that mentioned English.
+Oh, and thanks everyone for the help. I really appreciate it
+Back to top
+Goto page
+Previous  1, 2, 3, 4, 5  Next
+Display posts from previous: All Posts1 Day7 Days2 Weeks1 Month3 Months6 Months1 Year Oldest FirstNewest First
+Page 3 of 5
+DD-WRT Forum Forum Index
+-> Broadcom SoC based Hardware
+All times are GMT
+Navigation
+Jump to: Select a forum Forum Rules and Guidelines----------------Forum Rules and Guidelines EnglishForum Regeln and Anleitungen DeutschÐÑÐ°Ð²Ð¸Ð»Ð° ÑÐ¾ÑÑÐ¼Ð° Ð¸ ÑÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°ÑÐ¸Ð¸: Russian DD-WRT (English)----------------AnnouncementsAtheros WiSOC based HardwareBroadcom SoC based HardwareGeneral QuestionsARM or PPC based HardwareMarvell MVEBU based Hardware (WRT1900AC etc.)Senao DevicesUbiquiti DevicesRalink SoC based HardwareX86 based HardwareBroadcom Customer Downloads & UpdatesAdvanced NetworkingSearch & Find, Sales & OffersHardware DIY / Hardware Mods DD-WRT (Deutsch)----------------AnkÃ¼ndigungenAtheros WiSOC basierende HardwareBroadcom SoC basierende HardwareAllgemeine FragenARM oder PPC basierte HardwareX86 basierende HardwareRalink SoC basierte Hardware DD-WRT (EspaÃ±ol)----------------AnunciosHardware basado en AtherosHardware basado en Broadcom DD-WRT (CommunautÃ© francophone)----------------Annonces OfficiellesQuestions gÃ©nÃ©ralesMatÃ©riels Ã  base de BroadcomMatÃ©riels Ã  base de AtherosMatÃ©riels Ã  base de RalinkLe Bistrot DD-WRT (Russian)----------------ÐÐ±ÑÑÐ²Ð»ÐµÐ½Ð¸ÑÐÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¸ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ° DD-WRT ÐÐ±Ð¾ÑÑÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ Atheros WiSOCÐÐ±Ð¾ÑÑÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ BroadcomÐÐ±Ð¾ÑÑÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ X86 / WRAP / Soekris ÐÐ¸ÑÐ½ÑÐµ Ð¿Ð¾ÐºÑÐ¿ÐºÐ¸ Ð¸ Ð¿ÑÐ¾Ð´Ð°Ð¶Ð¸ Ð£ÑÑÑÐ¾Ð¹ÑÑÐ²Ð° Ubiquiti ÐÐ±Ð¾ÑÑÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ RalinkDD-WRT Ð¿Ð¾-ÑÑÑÑÐºÐ¸  Development----------------Generic QuestionsContributions Upload
+You cannot post new topics in this forumYou cannot reply to topics in this forumYou cannot edit your posts in this forumYou cannot delete your posts in this forumYou cannot vote in polls in this forumYou can attach files in this forumYou can download files in this forum
+Quick Links
+Log in
+Profile
+View unanswered posts
+Log in
+Username:
+Password:
+Log me on automatically each visit
+Powered by phpBB © 2001, 2005 phpBB Group
+© 2019 EmbeDD GmbH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPON ONT
+wlctl: wl driver adapter not found
+Login:
+
+============================https://forum.dd-wrt.com/phpBB2/viewtopic.php?p=366295===============================
+
+ soekris ð  ð ¸ ñ  ð½ñ  ðµ ð ¿ ð¾ðºñ  ð ¿ ðºð ¸ ð ¸ ð ¿ ñ  ð¾ð ´ ð ° ð ¶ ð ¸ ð £ ñ  ñ  ñ  ð¾ð¹ñ  ñ  ð²ð ° ubiquiti ð  ð ± ð¾ñ  ñ  ð ´ ð¾ð²ð ° ð½ð ¸ ðµ ð½ð ° ð¾ñ  ð½ð¾ð²ðµ ralinkdd wrt ð  ð ± ð¾ñ  ñ  ð ´ ð¾ð²ð ° ð½ð ¸ ðµ ð½ð ° ð¾ñ  ð½ð¾ð²ðµ atheros wisocð  ð ± ð¾ñ  ñ  ð ´ ð¾ð²ð ° ð½ð ¸ ðµ ð½ð ° ð¾ñ  ð½ð¾ð²ðµ broadcomð  ð ± ð¾ñ  ñ  ð ´ ð¾ð²ð ° ð½ð ¸ ðµ ð½ð ° ð¾ñ  ð½ð¾ð²ðµ x86 russian )---------------- ð  ð ± ñ  ñ  ð²ð » ðµð½ð ¸ ñ  ð  ñ  ð ¿ ð¾ð » ñ  ð · ð¾ð²ð ° ð½ð ¸ ðµ ð ¸ ñ  ñ  ñ  ð ° ð½ð¾ð²ðºð ° dd anleitungen deutschð  ñ  ð ° ð²ð ¸ ð » ð ° ñ  ð¾ñ  ñ  ð¼ð ° ð ¸ ñ  ðµðºð¾ð¼ðµð½ð ´ ð ° ñ  ð ¸ ð ¸: russian dd communautã © francophone )---------------- annonces officiellesquestions gã © nã © ralesmatã © riels ã base de broadcommatã © riels ã base de atherosmatã © riels ã base de ralinkle bistrot dd ñ  ñ  ñ  ñ  ðºð ¸ development ---------------- generic questionscontributions upload found home downloads shop activation center professional support community contact imprint privacy policy forum wiki donations bugtracker imprint privacy policy dd deutsch )---------------- ankã¼ndigungenatheros wisoc basierende hardwarebroadcom soc basierende hardwareallgemeine fragenarm oder ppc basierte hardwarex86 basierende hardwareralink soc basierte hardware dd 1 linksys wrt610nv1 linksys e2000 netgear wndr3300 sonicwall nsa220w sonicwall tz215w sonicwall tz205w sonicwall tz105w back espaã ± ol )---------------- anuncioshardware basado en atheroshardware basado en broadcom dd wrt community contact donations forum wiki bugtracker imprint privacy policy quick links log posts1 day7 days2 weeks1 month3 months6 months1 year oldest firstnewest first page 3 wrt forum forum index -> broadcom soc based hardware goto page previous 1 english )---------------- announcementsatheros wisoc based hardwarebroadcom soc based hardwaregeneral questionsarm wrt ð ¿ ð¾ senao devicesubiquiti devicesralink soc based hardwarex86 based hardwarebroadcom customer downloads 5 next view previous topic :: view next topic author message mastermandd wrt forum forum index -> broadcom soc based hardware n16 x5 asus wl520gu engenious ecb350 linksys wrt600nv1 2005 phpbb group © 2019 embedd gmbh ppc based hardwaremarvell mvebu based hardware wrt forum :: view topic top goto page previous 1 _________________eko builds brainslayer builds dd 12 18 24 36 48 54 phpbb © 2001 wrt changelog rss feed back forum quick links log profile view unanswered posts log hardware mods dd guidelines ---------------- forum rules found dd 5 next display posts forum forum rules -> wl driver adapter different computers ... still wants http :// support 5 dd put dd ess shortslot supported rates completely fresh install man try dd statically assigned ip address air light came back restore mode upload wl500g dd restore mode via holding finding available ip address wrt ... maybe could also grab oleg 4 lan lights started wl status wl ver visit wl driver adapter wrong .. asus tools cannot post new topics asus fw restoration utility mar 9 2009 21 4 lan lights flash right way asus rt asus restore utility hung wrt yet wrt uses wrt novicejoined wrt gurujoined 15 seconds .. _________________optware put stock asus firmware law .." back wl driver adapter forum announcements 24 post subject 24 aug 2009posts available ip address wl ver 4 wl status ssid top mastermandd wrt usb driver pulls guidelines englishforum regeln 6 9 11 n66u asus rt n12 asus rt n10 asus rt ac68u asus rt 58 post subject 55 post subject 53 post subject 51 post subject 25 post subject 06 post subject 05 post subject 04 post subject 03 post subject sun nov 01 ssid still claims proper oem build mon nov 02 gmt navigation jump 28 oct 2009posts 28 jan 2008posts 02 mb downloaded !( wtf ?) stock asus fw air light comes air light cam mode managed rssi kernel panic mode forumyou cannot vote forumyou cannot reply forumyou cannot delete 15 seconds .. asus fw utility 15 post subject lan lights blink 2009 1 upload wl500g several outlets around 41 version 4 1 bssid default asus firmware tried different browsers en 07 may 2009posts south florida posted around etc .. restore download filename corrupted fw image 56 post subject top sponsor murrkfdd subnet mask 255 mentioned english found flashing later tonight bad often bulge 22 sep 2008posts air light went correct asus firmware allow 30 secs forumyou cannot edit previous trx radio came see note 17 immediately issued code 0 dbm channel throw another command 3 going back 1 asus utility restore mode links asus firmware log 2009 5 stock fw asus tools 5 wl0 5 ). upload flash .. different browser 30 seconds manual ip back restore process 2009 21 top murrkfdd visit powered right away also known 30 secs 2009 15 41 posted radio light 2009 17 top fggsdd top automattackdd top autobotdd issued code help available default user dbm noise well ... ugh ... reflash ... confused ... reliable way hung ). another prompt another console bad flash 1741 posted 1595 posted 12680 posted several minutes could ping could get 2009 23 2009 22 2009 20 2009 19 2009 16 2009 13 router may wrt1900ac etc wl500info forums vista pc vista computer updatesadvanced networkingsearch trx file theory might thanks everyone stayed lit ssh abilities selecting os screw heads revert properly really appreciate rar filesize rar description radio functions previously mentioned pin shorted offershardware diy mini image masterman wrote make sure last night fishing instructor familiar code drop substantially download files dead flat dead ): considering putting check carefully bricked ........ bd capability automattack wrote attach files anything abnormal anyone know almost instantly adapters except 7 days 105 rc10 wireless ... may want sounds like old router looks like last time every time 109980 time would try using tftp tried one something else recommend using newest one murrkf wrote murrkf suggested 5 think maybe streaming data someone opened set pwd really need properly done please wait mac ). browser cache actual use something like posts asus wl router unplugged 10 minutes still lan heat signs clear nvram 4 mode utility light fw forumyou firmware 15 topics _________________optware ... way tools put hung flash went trx tried see radio maybe flashing etc edit download correct command code blink bad 56 255 22 0 time router like using try something one murrkf minutes wireless want wait use unplugged think streaming signs set ping opened nvram need mini mac help heat going get done clear cache 10 wrap worn works work wl500w_2 web wan waiting virus v24_mini_asus utilities username used us upgrading unplugging unplug type twice trying tops took times threw tests testing test terminal telnet teach take sync swapped steam starting start slot slanguage sit since shrug show select scratch sales said run reset recovery recover recognize reboot read problem power polls pointers point plugging plugged plug place picked peacock past password pass owned oh obvious noticed nope move modem model marginal made look long lom login level letting let least keep instead inf including included house hours hour hook hands got given give forget follow flashed fisherman fish firewalls finished fingerprints find far even energy downstairs disable dhcp desk cycled craigslist corrosion connection completed com close clearing cleared card capacitors cable browse bought bothered beginning b automatically attachment aspx ask anti amps alright advices admin _________________sig 500w 4b 445 31 2071location 2 1_en_cn_tw_de 192 168 150 00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "vendors": [
+    "asus",
+    "broadcom",
+    "netgear"
+  ],
+  "device_types": [
+    "router"
+  ],
+  "products": [
+    "phpbb2",
+    "x86",
+    "hardwarex86",
+    "wrt610nv1",
+    "e2000",
+    "wndr3300",
+    "nsa220w",
+    "tz215w",
+    "tz205w",
+    "tz105w",
+    "posts1",
+    "day7",
+    "days2",
+    "weeks1",
+    "month3",
+    "months6",
+    "months1",
+    "n16",
+    "x5",
+    "wl520gu",
+    "ecb350",
+    "wrt600nv1",
+    "wl500g",
+    "n66u",
+    "n12",
+    "n10",
+    "ac68u",
+    "wl0",
+    "wrt1900ac",
+    "wl500info",
+    "rc10",
+    "wl500w",
+    "v24"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASUS | ROUTER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPON ONT
+wlctl: wl driver adapter not found
+Login:
+
+============================https://wiki.dd-wrt.com/wiki/index.php/WL===============================
+
+Wl command - DD-WRT Wiki
+Log in / create account
+Imprint
+Privacy Policy
+Main Page
+Community portal
+Current events
+Recent changes
+Random page
+Help
+Donations
+Wl command
+From DD-WRT Wiki
+(Redirected from WL)
+Jump to: navigation, search
+You are here: Wiki mainpage / Scripting / SSH/Telnet & The CLI / wl (wireless options) command
+'wl' is probably the most important tool in the routers firmware to access and control wireless hardware. It can be accesed from a telnet or SSH terminal or through the Web Interface. Tools such as Wiviz or Kismet Server/Drone use it to configure the radios, monitor packets and extract information directly from them.
+[edit] Setup
+No setup is required as 'wl' comes with all Broadcom DD-WRT installations.
+(For Atheros Hardware, this functionality is absent/less developed, and users will need to use the 'ifconfig' and 'wl_atheros' commands instead.
+See these threads:
+wl command "not found",
+Regarding "wl command not found" and others)
+Contents
+1 Setup
+2 Usage
+3 Common Tasks
+3.1 Toggle radio on/off, restart, etc
+4 Alphabetical list of commands
+4.1 aciargs
+4.2 addwep
+4.3 aes
+4.4 antdiv
+4.5 ap
+4.6 assoc
+4.7 assoclist
+4.8 atten
+4.9 authe_sta_list
+4.10 autho_sta_list
+4.11 authorize
+4.12 band
+4.13 bands
+4.14 bssid
+4.15 cap
+4.16 channel
+4.17 channel_qa
+4.18 channel_qa_start
+4.19 clk
+4.20 cmds
+4.21 country
+4.22 constraint
+4.23 crsuprs
+4.24 csa
+4.25 cwmin
+4.26 cwmax
+4.27 disassoc
+4.28 dtim
+4.29 dump
+4.30 deauthenticate
+4.31 deauthorize
+4.32 eap
+4.33 chanlist
+4.34 channels
+4.35 channels_in_country
+4.36 curpower
+4.37 evm
+4.38 frameburst
+4.39 fasttimer
+4.40 frag
+4.41 fqacurcy
+4.42 glacialtimer
+4.43 gmode
+4.44 gmode_protection
+4.45 gmode_protection_control
+4.46 gmode_protection_cts
+4.47 gmode_protection_override
+4.48 ignore_bcns
+4.49 int
+4.50 interference
+4.51 infra
+4.52 isup
+4.53 join
+4.54 keys
+4.55 lazywds
+4.56 lbt
+4.57 legacy_erp
+4.58 locale
+4.59 lrl
+4.60 mac
+4.61 macmode
+4.62 macreg
+4.63 measure_req
+4.64 monitor
+4.65 mrate
+4.66 msglevel
+4.67 noise
+4.68 nvdump
+4.69 nvget
+4.70 nvset
+4.71 passive
+4.72 phylist
+4.73 phyreg
+4.74 radioreg
+4.75 phytype
+4.76 pktcnt
+4.77 plcphdr
+4.78 PM
+4.79 powerindex
+4.80 prb_resp_timeout
+4.81 primary_key
+4.82 promisc
+4.83 pwr_percent
+4.84 quiet
+4.85 radar
+4.86 radio
+4.87 rate
+4.88 ratedump
+4.89 rateparam
+4.90 rateset
+4.91 reboot
+4.92 revinfo
+4.93 regulatory
+4.94 roam_delta
+4.95 rm_rep
+4.96 rm_req
+4.97 rmwep
+4.98 roam_scan_period
+4.99 roam_trigger
+4.100 rssi
+4.101 rssidump
+4.102 rts
+4.103 scan_channel_time
+4.104 scan_home_time
+4.105 scan_nprobes
+4.106 scan_passive_time
+4.107 scan_unassoc_time
+4.108 scanresults
+4.109 scansuppress
+4.110 scb_timeout
+4.111 scbdump
+4.112 scan
+4.113 set_pmk
+4.114 shmem
+4.115 shortslot
+4.116 shortslot_override
+4.117 shortslot_restrict
+4.118 slowtimer
+4.119 spect
+4.120 srdump
+4.121 srl
+4.122 ssid
+4.123 sta_info
+4.124 status
+4.125 suprates
+4.126 tkip
+4.127 tkip_countermeasures
+4.128 tsc
+4.129 tssi
+4.130 txant
+4.131 txpathpwr
+4.132 txpwr
+4.133 txpwr1
+4.134 txpwrlimit
+4.135 ucflags
+4.136 upgrade
+4.137 ver
+4.138 wake
+4.139 wds
+4.140 wds_remote_mac
+4.141 wds_wpa_role
+4.142 wds_wpa_role_old
+4.143 wep
+4.144 wepstatus
+4.145 wet
+4.146 wsec
+4.147 wsec_test
+4.148 wme
+4.149 wsec_restrict
+4.150 wpa_auth
+5 External links
+[edit] Usage
+Most of the wireless options can be accessed using the program "wl" via the console window. This program has many more options than our WRT is able to process. Some can only be used in Client Mode and others only in Access Point (AP) Mode.
+Usage: wl [-a|i <adapter>] [-hu] <command> [arguments]
+-a, -i
+adapter name or number
+-h, -u
+this message
+Examples:
+~ # wl ssid
+~ # wl txpwr1 -o -m 35
+Note For NEWD-2 builds, you must specify the interface when performing a command.
+Example:
+~ # wl -i eth1 status
+If you have multiple radios, then each one will have it's own interface, i.e eth2, eth3
+[edit] Common Tasks
+[edit] Toggle radio on/off, restart, etc
+~ # wl up
+reinitialize adapter and mark as up
+~ # wl down
+reset adapter and mark as down
+~ # wl out
+mark adapter down but do not reset hardware.
+~ # wl radio
+toggle radio on/off
+~ # wl radio
+radio is on (WL_RADIO_SW_DISABLE 0 WL_RADIO_HW_DISABLE 0)
+~ # wl radio off
+~ # wl radio
+radio is off (WL_RADIO_SW_DISABLE 1 WL_RADIO_HW_DISABLE 0)
+~ # wl radio on
+~ # wl restart
+restart the driver. (Driver must already be down)
+[edit] Alphabetical list of commands
+[edit] aciargs
+Get/Set various aci tuning parameters.
+Choices are:
+enter:
+CRS glitch trigger level to start detecting ACI
+exit:
+CRS glitch trigger level to exit ACI mode
+glitch
+Seconds interval between ACI scans when glitchcount is continuously high
+spin:
+Num microsecs to delay between rssi samples
+Usage: wl aciargs [enter x][exit x][spin x][glitch x]
+[edit] addwep
+Set an encryption key.
+The key must be 5, 13 or 16 bytes long, or
+10, 26, 32, or 64 hex digits long.
+The encryption algorithm is
+automatically selected based on the key size. keytype is accepted
+only when key length is 16 bytes/32 hex digits and specifies
+whether AES-OCB or AES-CCM encryption is used. Default is ccm.
+addwep <keyindex> <keydata> [ocb | ccm] [notx] [xx:xx:xx:xx:xx:xx]
+[edit] aes
+Set AES options.
+wl aes [options]
+[on|enable|1]
+enable AES
+[off|disable|0] disable AES
+[sw|software]
+perform AES in software
+[hw|hardware]
+perform AES in hardware
+[edit] antdiv
+Sets which antenna to use to receive on.
+0 - force use of antenna 0
+1 - force use of antenna 1
+3 - automatic selection of antenna diversity
+Note: can be used in conjunction with 'wl txant' to set the transmit antenna.
+[edit] ap
+Set AP mode: 0 (STA) or 1 (AP)
+[edit] assoc
+Print information about current network association. (also known as "status")
+SSID: "XXXX"
+Mode: Managed
+RSSI: -48 dBm
+noise: -97 dBm
+Channel: 6
+BSSID: XX:XX:XX:XX:XX:XX
+Capability: ESS
+Supported Rates: [ 1(b) 2(b) 5.5 11 ]
+[edit] assoclist
+AP only: Get the list of associated MAC addresses.
+[edit] atten
+Set the transmit attenuation for B band.
+Args: bb radio txctl1.
+auto to revert to automatic control
+[edit] authe_sta_list
+Get authenticated sta mac address list
+[edit] autho_sta_list
+Get authorized sta mac address list
+[edit] authorize
+Restrict traffic to 802.1X packets until 802.1X authorization succeeds
+[edit] band
+Returns or sets the current band
+auto - auto switch between available bands (default)
+a - force use of 802.11a band
+b - force use of 802.11b band
+[edit] bands
+Return the list of available 802.11 bands
+[edit] bssid
+Get the BSSID value, error if STA and not associated
+[edit] cap
+Display WL Capabilities
+ap sta wet led wme pio 802.11d 802.11h rm cqa afterburner
+[edit] channel
+Set the channel:
+valid channels for 802.11b/g (2.4GHz band) are 1 through 14
+valid channels for 802.11a
+(5 GHz band) are:
+36, 40, 44, 48, 52, 56, 60, 64,
+100, 104, 108, 112, 116,120, 124, 128, 132, 136, 140,
+149, 153, 157, 161,
+184, 188, 192, 196, 200, 204, 208, 212, 216
+[edit] channel_qa
+Get last channel quality measurment
+[edit] channel_qa_start
+Start a channel quality measurment
+[edit] clk
+set board clock state. return error for set_clk attempt if the driver is not down
+0: clock off
+1: clock on
+[edit] cmds
+Lists all the wl commands available
+Origional German
+Generiert eine Komando-Kurtzübersicht
+Die meisten wirreless-Optionen können über das Programm "wl" auch über die Console eingestellt und überwacht werden
+Eine übersicht über alle wl- Comandos erhält man mit der Eingabe von:
+~ # wl cmds
+ver
+cmds
+up
+down
+out
+clk
+restart
+reboot
+ucflags
+radio
+dump
+srdump
+nvdump
+nvset
+nvget
+revinfo
+msglevel
+PM
+wake
+promisc
+monitor
+frag
+rts
+cwmin
+cwmax
+srl
+lrl
+rate
+mrate
+infra
+ap
+bssid
+channel
+tssi
+txpwr
+txpwr1
+txpathpwr
+txpwrlimit
+powerindex
+atten
+phyreg
+radioreg
+shmem
+macreg
+antdiv
+txant
+plcphdr
+phytype
+scbdump
+ratedump
+rateparam
+wepstatus
+primary_key
+addwep
+rmwep
+wep
+tkip
+aes
+keys
+tsc
+wsec_test
+tkip_countermeasures wsec_restrict
+eap
+authorize
+deauthorize
+deauthenticate
+wsec
+wpa_auth
+set_pmk
+scan
+passive
+regulatory
+spect
+scanresults
+assoc
+status
+disassoc
+chanlist
+channels
+channels_in_country curpower
+scansuppress
+evm
+rateset
+roam_trigger
+roam_delta
+roam_scan_period
+suprates
+scan_channel_time scan_unassoc_time scan_home_time
+scan_passive_time scan_nprobes
+prb_resp_timeout
+channel_qa
+channel_qa_start
+country
+locale
+join
+ssid
+mac
+macmode
+wds
+lazywds
+noise
+fqacurcy
+crsuprs
+int
+lbt
+band
+bands
+phylist
+shortslot
+shortslot_override shortslot_restrict
+ignore_bcns
+pktcnt
+upgrade
+gmode
+gmode_protection
+gmode_protection_control gmode_protection_cts gmode_protection_override
+legacy_erp
+scb_timeout
+assoclist
+rssi
+isup
+fasttimer
+slowtimer
+glacialtimer
+radar
+rssidump
+interference
+aciargs
+frameburst
+pwr_percent
+wet
+dtim
+wds_remote_mac
+wds_wpa_role_old
+wds_wpa_role
+authe_sta_list
+autho_sta_list
+measure_req
+quiet
+csa
+constraint
+rm_req
+rm_rep
+wme
+sta_info
+cap
+~ #
+This program has many more options than our WRT is able to process.
+Some can only be used in Client Mode and others only in Access Point (AP) Mode.
+[edit] country
+Select Country code for use with 802.11d
+Use either long name or abbreviation from ISO 3166.
+Use 'wl country list [band(a or b)]' for the list of supported countries
+[edit] constraint
+Send an 802.11h Power Constraint IE
+Usage: wl constraint 1-255 db
+[edit] crsuprs
+Manufacturing test: set carrier suppression mode.
+carriersuprs syntax is: crsuprs <channel>
+Arg is channel number 1-14, or 0 to stop the test.
+[edit] csa
+Send an 802.11h channel switch anouncement
+Usage wl csa <mode> <when (in TBTTs)> <channel>
+[edit] cwmin
+Set the cwmin.
+(integer [1, 255])
+[edit] cwmax
+Set the cwmax.
+(integer [256, 2047])
+[edit] disassoc
+Disassociate from the current BSS/IBSS.
+[edit] dtim
+Get/Set DTIM
+[edit] dump
+print driver software state and chip registers to stdout
+~ # wl dump
+wl0: Aug
+2 2004 14:32:51 version 3.60.13.0
+resets 27
+perm_etheraddr 00:90:4c:xx:xx:xx cur_etheraddr 00:12:17:xx:xx:xx
+board 0x101, board rev 1.0
+wsec 0 auth 0 wsec_index -1 wep_algo 0
+rate_override 0
+antdiv_override 1 txant 1
+current_bss.BSSID 00:fb:dd:xx:xx:xx
+current_bss.SSID "www.fbn-dd.de (HSS)"
+assoc_state 0 associated 1
+~ #
+[edit] deauthenticate
+Deauthenticate a STA from the AP with optional reason code (AP ONLY)
+[edit] deauthorize
+Do not restrict traffic to 802.1X packets until 802.1X authorization succeeds
+[edit] eap
+Restrict traffic to 802.1X packets until 802.1X authorization succeeds
+0 - disable
+1 - enable
+[edit] chanlist
+Return valid channels for the current settings is nice.
+[edit] channels
+Return valid channels for the current settings.
+[edit] channels_in_country
+Return valid channels for the country specified.
+Arg 1 is the country abbreviation
+Arg 2 is the band(a or b) (editors note: only b seems to be recognized in dd-wrt v22)
+Example: wl channels_in_country JP b
+[edit] curpower
+Return current tx power settings
+[edit] evm
+Start an EVM test on the given channel, or stop EVM test.
+Arg 1 is channel number 1-14, or "off" or 0 to stop the test.
+Arg 2 is optional rate (1, 2, 5.5 or 11)
+[edit] frameburst
+Disable/Enable frameburst mode
+[edit] fasttimer
+Get/Set High frequency watchdog timeout (tx_power) [15 sec]
+[edit] frag
+Set the fragmentation threshhold.
+(integer [256, 2346])
+[edit] fqacurcy
+Manufacturing test: set frequency accuracy mode.
+freqacuracy syntax is: fqacurcy <channel>
+Arg is channel number 1-14, or 0 to stop the test.
+[edit] glacialtimer
+Get/Set Very Low frequency watchdog timeout (measurelo) [120 sec]
+[edit] gmode
+Set the 54g Mode
+LegacyB|Auto||GOnly|BDeferred|Performance|LRS|Afterburner
+LegacyB -
+Auto [default]
+BDeferred -
+Performance -
+LRS - Limited Rate Support used to improve compatibility with older 802.11b cards.
+Afterburner -
+[edit] gmode_protection
+Get G protection mode.
+0 - disabled
+1 - enabled
+[edit] gmode_protection_control
+Get/Set 11g protection mode control alg.
+(0=always off, 1=monitor local association, 2=monitor overlapping BSS)
+[edit] gmode_protection_cts
+Get/Set 11g protection type to CTS
+(0=disable, 1=enable)
+[edit] gmode_protection_override
+Get/Set 11g protection mode override.
+(-1=auto, 0=disable, 1=enable)
+[edit] ignore_bcns
+AP only (G mode): Check for beacons without NONERP element (0=Examine beacons, 1=Ignore beacons)
+[edit] int
+Interrupt Test - remember to precede by 'wl down' and follow by 'wl up'
+[edit] interference
+Get/Set interference mitigation mode. Choices are:
+0 = none
+1 = non wlan
+2 = wlan manual
+3 = wlan automatic
+[edit] infra
+Set Infrastructure mode: 0 (ad-hoc IBSS) or 1 (managed BSS)
+[edit] isup
+Get driver operational state (0=down, 1=up)
+[edit] join
+Join a specified network SSID.
+Join syntax is:
+join <ssid> [key xxxxx] [imode bss|ibss] [amode open|shared|wpa|wpapsk|wpanone]
+[edit] keys
+Prints a list of the current WEP keys
+[edit] lazywds
+Set or get "lazy" WDS mode (dynamically grant WDS membership to anyone).
+[edit] lbt
+Loopback Test - remember to precede by 'wl down' and follow by 'wl up'
+[edit] legacy_erp
+Get/Set 11g legacy ERP inclusion (0=disable, 1=enable)
+[edit] locale
+OBSOLETE: use "wl country"
+Select the country:
+Worldwide
+Thailand
+Israel
+Jordan
+China
+Japan
+USA/Canada/ANZ
+Europe
+USAlow
+JapanHigh
+All
+[edit] lrl
+lrl
+Set the long retry limit.
+(integer [1, 255])
+[edit] mac
+Set or get the list of source MAC address matches.
+wl mac xx:xx:xx:xx:xx:xx [xx:xx:xx:xx:xx:xx ...]
+To Clear the list: wl mac none
+[edit] macmode
+Set the mode of the MAC list.
+0 - Disable MAC address matching.
+1 - Deny association to stations on the MAC list.
+2 - Allow association to stations on the MAC list.
+[edit] macreg
+Get/Set any mac registers(include IHR and SB)
+macreg offset size[2,4] [value]
+[edit] measure_req
+Send an 802.11h measurement request.
+Usage: wl measure_req <type> <target MAC addr>
+Measurement types are: TPC, Basic, CCA, RPI
+Target MAC addr format is xx:xx:xx:xx:xx:xx
+[edit] monitor
+set monitor mode
+0 - disable
+1 - enable active monitor mode (interface still operates)
+[edit] mrate
+force a fixed multicast rate:
+valid values for 802.11a are (6, 9, 12, 18, 24, 36, 48, 54)
+valid values for 802.11b are (1, 2, 5.5, 11)
+valid values for 802.11g are (1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48, 54)
+-1 (default) means automatically determine the best rate
+After using wl mrate set the multicast rate, how to check if it has been correctly setted? How to get the current mrate value? Skygunner
+[edit] msglevel
+set driver console debugging message bitvector
+type 'wl msglevel ?' for values
+[edit] noise
+Get noise (moving average) right after tx in dBm
+[edit] nvdump
+print nvram variables to stdout
+No function.
+Use nvram show!
+[edit] nvget
+get the value of an nvram variable
+[edit] nvset
+set an nvram variable
+name=value (no spaces around '=')
+[edit] passive
+Puts scan engine into passive mode
+[edit] phylist
+Return the list of available phytypes
+[edit] phyreg
+Get/Set a phy register.
+[edit] radioreg
+Get/Set a radio register.
+[edit] phytype
+Get phy type
+[edit] pktcnt
+Get the summary of good and bad packets.
+[edit] plcphdr
+Set the plcp header.
+"long" or "auto" or "debug"
+[edit] PM
+set driver power management mode:
+0: CAM (constantly awake)
+1: PS
+(power-save)
+2: FAST PS mode
+[edit] powerindex
+Set the transmit power for A band(0-63).
+-1 - default value
+[edit] prb_resp_timeout
+Get/Set probe response timeout
+[edit] primary_key
+Set or get index of primary key
+[edit] promisc
+set promiscuous mode ethernet address reception
+0 - disable
+1 - enable
+[edit] pwr_percent
+Get/Set power output percentage
+[edit] quiet
+Send an 802.11h quiet command.
+Usage: wl quiet <TBTTs until start>, <duration (in TUs)>, <offset (in TUs)>
+[edit] radar
+Enable/Disable radar
+[edit] radio
+When used without arguments, toggles radio on/off.
+Arguments:
+up - reinitialize adapter and mark as up
+down - reset adapter and mark as down
+out - mark adapter down but do not reset hardware
+restart -
+Examples:
+wl radio
+wl radio up
+[edit] rate
+force a fixed rate:
+valid values for 802.11a are (6, 9, 12, 18, 24, 36, 48, 54)
+valid values for 802.11b are (1, 2, 5.5, 11)
+valid values for 802.11g are (1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48, 54)
+-1 (default) means automatically determine the best rate
+[edit] ratedump
+print driver rate selection tunables and
+per-scb state to stdout, valid scb values are
+0 through NSCB-1
+[edit] rateparam
+set driver rate selection tunables
+arg 1: tunable id
+arg 2: tunable value
+[edit] rateset
+Returns or sets the supported and basic rateset.
+(b) indicates basic
+With no args, returns the rateset. Args are
+rateset "default" | "all" | <arbitrary rateset>
+default - driver defaults
+all - all rates are basic rates
+arbitrary rateset - list of rates
+List of rates are in Mbps and each rate is optionally followed
+by "(b)" or "b" for a Basic rate. Example: 1(b) 2b 5.5 11
+At least one rate must be Basic for a legal rateset.
+[edit] reboot
+Reboot platform
+[edit] revinfo
+get hardware revision information
+~ # wl revinfo
+vendorid: 0x14e4
+deviceid: 0x4320
+radiorev: 0x22050000
+chipnum: 0x4712
+chiprev: 0x1
+corerev: 0x7
+boardid: 0x101
+boardvendor: 0x14e4
+boardrev: 0x10
+driverrev: 0x33c0d00
+ucoderev: 0x1180016
+bus: 0x0
+~ #
+[edit] regulatory
+Get/Set regulatory domain mode (802.11d). Driver must be down.
+[edit] roam_delta
+Set the roam candidate qualification delta.
+(integer)
+[edit] rm_rep
+Get current radio measurement report
+[edit] rm_req
+Request a radio measurement of type basic, cca, or rpi
+specify a series of measurement types each followed by options.
+example: wl rm_req cca -c 1 -d 50 cca -c 6 cca -c 11
+Options:
+-t n
+numeric token id for measurement set or measurement
+-c n
+channel
+-d n
+duration in TUs (1024 us)
+-p
+parallel flag, measurement starts at the same time as previous
+Each measurement specified uses the same channel and duration as the
+previous unless a new channel or duration is specified.
+[edit] rmwep
+Remove the encryption key at the specified key index.
+[edit] roam_scan_period
+Set the roam candidate qualification delta.
+(integer)
+[edit] roam_trigger
+Set the roam trigger RSSI threshold.
+(integer)
+[edit] rssi
+Get the current RSSI (signal strength) value.
+In AP mode, you must specify the mac address of the wireless card who's signal signal you wish to monitor.
+You can use wl assoclist to get the client mac list.
+wl rssi <MAC_ADDR_OF_CLIENT>
+In client mode there is no need to specify the MAC address of the AP as it will just use the AP that you are associated with.
+See also: Signal Strength on the Script Examples page for a one line script to display a bar graph of the current signal level.
+[edit] rssidump
+Dump rssi values from aci scans
+[edit] rts
+Set the RTS threshhold. (integer [0, 2347])
+[edit] scan_channel_time
+Get/Set scan channel time
+[edit] scan_home_time
+Get/Set scan home channel dwell time
+[edit] scan_nprobes
+Get/Set scan parameter for number of probes to use per channel scanned
+[edit] scan_passive_time
+Get/Set passive scan channel dwell time
+[edit] scan_unassoc_time
+Get/Set unassociated scan channel dwell time
+[edit] scanresults
+Return results from last scan.
+[edit] scansuppress
+Suppress all scans for testing.
+0 - allow scans
+1 - suppress scans
+[edit] scb_timeout
+AP only: inactivity timeout value for authenticated stas
+[edit] scbdump
+print driver scb state to stdout
+[edit] scan
+Initiate a scan.
+Default an active scan across all channels for any SSID.
+Optional arg: SSID, the SSID to scan.
+Options:
+-s S, --ssid=S
+SSID to scan
+-t ST, --scan_type=ST
+[active|passive] scan type
+--bss_type=BT
+[bss/infra|ibss/adhoc] bss type to scan
+-b MAC, --bssid=MAC
+particular BSSID MAC address to scan, xx:xx:xx:xx:xx:xx
+-n N, --nprobes=N
+number of probes per scanned channel
+-a N, --active=N
+dwell time per channel for active scanning
+-p N, --passive=N
+dwell time per channel for passive scanning
+-h N, --home=N
+dwell time for the home channel between channel scans
+-c L, --channels=L
+comma or space separated list of channels to scan
+NOTE: 'wl scan' does not work in AP Mode. To scan please use:
+wl ap 0
+wl scan
+wl scanresults
+wl ap 1 (back to AP mode)
+[edit] set_pmk
+Set passphrase for PMK in driver-resident supplicant.
+[edit] shmem
+Get/Set a shared memory location.
+[edit] shortslot
+Get/Set 11g Short Slot Timing mode. (-1=auto, 0=long, 1=short)
+[edit] shortslot_override
+Get/Set 11g Short Slot Timing mode override. (-1=auto, 0=long, 1=short)
+[edit] shortslot_restrict
+Get/Set AP Restriction on associations for 11g Short Slot Timing capable STAs.
+0 - Do not restrict association based on ShortSlot capability
+1 - Restrict association to STAs with ShortSlot capability
+[edit] slowtimer
+Get/Set Low frequency watchdog timeout (nrssislope) [60 sec]
+[edit] spect
+Get/Set 802.11h Spectrum Management mode.
+0 - Off
+1 - Loose interpretation of spec - may join non-11h APs
+2 - Strict interpretation of spec - may not join non-11h APs
+[edit] srdump
+print contents of SPROM to stdout
+(Functions neither in AP, nor nor in Client mode ~or something~)???
+Origional German: (weder im AP, noch im Client-Modus eine Ausgabe)???
+[edit] srl
+srl
+Set the short retry limit.
+(integer [1, 255])
+[edit] ssid
+Set or get the current SSID.
+Setting will initiate an assoication attempt if in infrastructure mode,
+or join/creation of an IBSS if in IBSS mode,
+or creation of a BSS if in AP mode.
+[edit] sta_info
+wl sta_info <xx:xx:xx:xx:xx:xx>
+[edit] status
+Print information about current network association. (also known as "assoc")
+[edit] suprates
+Returns or sets the 11g override for the supported rateset.
+With no args, returns the rateset. Args are a list of rates,
+or 0 or -1 to specify an empty rateset to clear the override.
+List of rates are in Mbps, example: 1 2 5.5 11
+[edit] tkip
+Set TKIP options.
+wl tkip [options]
+[on|enable|1]
+enable TKIP
+[off|disable|0] disable TKIP
+[sw|software]
+perform TKIP in software
+[hw|hardware]
+perform TKIP in hardware
+[edit] tkip_countermeasures
+Enable or disable TKIP countermeasures (TKIP-enabled AP only)
+0 - disable
+1 - enable
+[edit] tsc
+Print Tx Sequence Couter for key at specified key index.
+[edit] tssi
+Get the tssi value from radio
+[edit] txant
+Set the transmit antenna
+0 - force use of antenna 0
+1 - force use of antenna 1
+3 - use the RX antenna selection that was in force during
+the most recently received good PLCP header
+Note: can be used in conjunction with 'wl antdiv' to set the receive antenna
+[edit] txpathpwr
+Turn the tx path power on or off on 2050 radios
+[edit] txpwr
+Set transmit power in milliwatts.
+Range [1, 84]. (Deprecated: Use txpwr1 instead)
+This can be set to a value above 84, but it may damage your hardware especially over prolonged use -- use with caution.
+[edit] txpwr1
+Set tx power in in various units. Choose one of (default: dbm):
+-d dbm units
+-q quarter dbm units
+-m milliwatt units
+Can be combined with:
+-o turn on override to disable regulatory and other limitations
+[edit] txpwrlimit
+Return current tx power limit
+[edit] ucflags
+Get/Set ucode flags
+[edit] upgrade
+Upgrade the firmware on an embedded device
+[edit] ver
+Version information
+~ # wl ver
+wl:
+3.60 RC13.0
+wl0: Aug
+2 2004 14:32:51 version 3.60.13.0
+~ #
+[edit] wake
+set driver power-save mode sleep state:
+0: core-managed
+1: awake
+[edit] wds
+Set or get the list of WDS member MAC addresses.
+Set using a space separated list of MAC addresses.
+wl wds xx:xx:xx:xx:xx:xx [xx:xx:xx:xx:xx:xx ...]
+[edit] wds_remote_mac
+Get WDS link remote endpoint's MAC address
+[edit] wds_wpa_role
+Get/Set WDS link local endpoint's WPA role
+[edit] wds_wpa_role_old
+Get WDS link local endpoint's WPA role (old)
+[edit] wep
+Set WEP options.
+wl wep [options]
+[on|enable|1]
+enable WEP
+[off|disable|0] disable WEP
+[sw|software]
+perform WEP in software
+[hw|hardware]
+perform WEP in hardware
+[edit] wepstatus
+Set or Get WEP status
+wepstatus [on|off]
+[edit] wet
+Get/Set wireless ethernet bridging mode
+[edit] wsec
+Wireless security bit vector
+1 - WEP enabled
+2 - TKIP enabled
+4 - AES enabled
+8 - WSEC in software
+[edit] wsec_test
+Generate wsec errors
+wsec_test <test_type> <keyindex|xx:xx:xx:xx:xx:xx>
+type 'wl wsec_test ?' for test_types
+[edit] wme
+Set WME (Wireless Multimedia Extensions) mode (0=off, 1=on)
+[edit] wsec_restrict
+Drop unencrypted packets if WSEC is enabled
+0 - disable
+1 - enable
+[edit] wpa_auth
+WPA authorization mode
+[none|0]
+none
+[unspecified|1] WPA 802.1X
+[psk|2]
+WPA PSK
+[disable|255]
+disable WPA
+[edit] External links
+[1] broadcom-wl-drv (auf Englisch)
+[2] broadcom-wl package(auf Englisch)
+Retrieved from "http://wiki.dd-wrt.com/wiki/index.php/Wl_command"
+Categories: Command-line reference | Wlan
+Article
+|
+Discussion
+|
+Edit
+|
+History
+What links here |
+Related changes |
+Upload file
+|
+Special pages
+| Permanent linkPrint as PDF
+This page was last modified 01:52, 12 December 2010. This page has been accessed 735,255 times.
+About DD-WRT Wiki |
+Disclaimers |
+Powered by MediaWiki |
+Design by Paul Gu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPON ONT
+wlctl: wl driver adapter not found
+Login:
+
+============================https://wiki.dd-wrt.com/wiki/index.php/WL===============================
+
+ clk restart reboot ucflags radio dump srdump nvdump nvset nvget revinfo msglevel pm wake promisc monitor frag rts cwmin cwmax srl lrl rate mrate infra ap bssid channel tssi txpwr txpwr1 txpathpwr txpwrlimit powerindex atten phyreg radioreg shmem macreg antdiv txant plcphdr phytype scbdump ratedump rateparam wepstatus primary_key addwep rmwep wep tkip aes keys tsc wsec_test tkip_countermeasures wsec_restrict eap authorize deauthorize deauthenticate wsec wpa_auth set_pmk scan passive regulatory spect scanresults assoc status disassoc chanlist channels channels_in_country curpower scansuppress evm rateset roam_trigger roam_delta roam_scan_period suprates scan_channel_time scan_unassoc_time scan_home_time scan_passive_time scan_nprobes prb_resp_timeout channel_qa channel_qa_start country locale join ssid mac macmode wds lazywds noise fqacurcy crsuprs int lbt band bands phylist shortslot shortslot_override shortslot_restrict ignore_bcns pktcnt upgrade gmode gmode_protection gmode_protection_control gmode_protection_cts gmode_protection_override legacy_erp scb_timeout assoclist rssi isup fasttimer slowtimer glacialtimer radar rssidump interference aciargs frameburst pwr_percent wet dtim wds_remote_mac wds_wpa_role_old wds_wpa_role authe_sta_list autho_sta_list measure_req quiet csa constraint rm_req rm_rep wme sta_info cap create account imprint privacy policy main page community portal current events recent changes random page help donations wl command cap display wl capabilities ap sta wet led wme pio 802 auch über die console eingestellt und überwacht werden eine übersicht über alle wl wsec_test generate wsec errors wsec_test type wl ap 0 wl scan wl scanresults wl ap 1 rssidump dump rssi values enter x ][ exit x ][ spin x ][ glitch x rateparam set driver rate selection tunables arg 1 promisc set promiscuous mode ethernet address reception 0 1 wep_algo 0 rate_override 0 antdiv_override 1 txant 1 current_bss wds_remote_mac get wds link remote endpoint wds_wpa_role_old get wds link local endpoint autho_sta_list get authorized sta mac address list ratedump print driver rate selection tunables authe_sta_list get authenticated sta mac address list get wep status wepstatus sta_info wl sta_info srl srl set lrl lrl set reboot reboot platform msglevel set driver console debugging message bitvector type rm_rep get current radio measurement report channel_qa get last channel quality measurment upgrade upgrade deauthenticate deauthenticate chanlist return valid channels 11h channel switch anouncement usage wl csa pm set driver power management mode txpwrlimit return current tx power limit curpower return current tx power settings wme set wme tsc print tx sequence couter isup get driver operational state scbdump print driver scb state wl restart restart gmode_protection get g protection mode noise get noise clk set board clock state 150 wpa_auth 5 external links scb_timeout ap ignore_bcns ap channels_in_country return valid channels wake set driver power nvdump print nvram variables wpa_auth wpa authorization mode wsec_restrict drop unencrypted packets txpwr set transmit power phytype get phy type srdump print contents current wep keys 15 cap 4 89 rateparam 4 82 promisc 4 95 rm_rep 4 88 ratedump 4 78 pm 4 142 wds_wpa_role_old 4 134 txpwrlimit 4 27 disassoc 4 19 clk 4 111 scbdump 4 set_pmk set passphrase 9 authe_sta_list 4 75 phytype 4 68 nvdump 4 33 chanlist 4 138 wake 4 101 rssidump 4 10 autho_sta_list 4 49 int 4 36 curpower 4 17 channel_qa 4 140 wds_remote_mac 4 113 set_pmk 4 set passive scan channel dwell time 99 roam_trigger 4 98 roam_scan_period 4 97 rmwep 4 94 roam_delta 4 83 pwr_percent 4 81 primary_key 4 80 prb_resp_timeout 4 8 atten 4 79 powerindex 4 77 plcphdr 4 76 pktcnt 4 74 radioreg 4 73 phyreg 4 72 phylist 4 70 nvset 4 69 nvget 4 61 macmode 4 58 locale 4 57 legacy_erp 4 55 lazywds 4 52 isup 4 47 gmode_protection_override 4 46 gmode_protection_cts 4 45 gmode_protection_control 4 44 gmode_protection 4 43 gmode 4 42 glacialtimer 4 39 fasttimer 4 141 wds_wpa_role 4 135 ucflags 4 131 txpathpwr 4 128 tsc 4 127 tkip_countermeasures 4 125 suprates 4 119 spect 4 118 slowtimer 4 117 shortslot_restrict 4 114 shmem 4 110 scb_timeout 4 109 scansuppress 4 107 scan_unassoc_time 4 106 scan_passive_time 4 105 scan_nprobes 4 103 scan_channel_time 4 lbt loopback test int interrupt test 32 eap 4 31 deauthorize 4 149 wsec_restrict 4 132 txpwr 4 eap restrict traffic authorize restrict traffic 11 authorize 4 48 ignore_bcns 4 56 lbt 4 120 srdump 4 40 frag 4 18 channel_qa_start 4 116 shortslot_override 4 104 scan_home_time 4 0 wsec 0 auth 0 wsec_index phylist return roam_trigger set roam_scan_period set roam_delta set primary_key set powerindex set plcphdr set nvset set macmode set lazywds set gmode set frag set atten set wsec wireless security bit vector 1 wds_wpa_role get ucflags get spect get slowtimer get shortslot_restrict get shortslot_override get shmem get scan_unassoc_time get scan_passive_time get scan_nprobes get scan_home_time get scan_channel_time get radioreg get pwr_percent get prb_resp_timeout get pktcnt get phyreg get nvget get legacy_erp get gmode_protection_override get gmode_protection_cts get gmode_protection_control get glacialtimer get fasttimer get channel_qa_start start revinfo get hardware revision information tkip_countermeasures enable scansuppress suppress rmwep remove locale obsolete disassoc disassociate assoclist ap suprates returns mac particular bssid mac address txpathpwr turn monitor set monitor mode 0 set interference mitigation mode deauthorize wl channels_in_country jp b 11h power constraint ie usage infra set infrastructure mode wl measure_req measurement types worldwide thailand israel jordan china japan usa comandos erhält man mit der eingabe von dump print driver software state status ") ssid wl msglevel ?' scanresults return results 145 wet 4 wl revinfo vendorid assoc print information 66 msglevel 4 use wl assoclist 1 aciargs 4 108 scanresults 4 92 revinfo 4 wl rm_req cca enable frameburst mode 91 reboot 4 59 lrl 4 35 channels_in_country 4 144 wepstatus 4 123 sta_info 4 121 srl 4 wl commands available origional german generiert eine komando 96 rm_req 4 7 assoclist 4 62 macreg 4 51 infra 4 41 fqacurcy 4 38 frameburst 4 24 csa 4 23 crsuprs 4 2 addwep 4 85 radar 4 63 measure_req 4 50 interference 4 30 deauthenticate 4 28 dtim 4 129 tssi 4 102 rts 4 4 antdiv 4 fqacurcy manufacturing test crsuprs manufacturing test macreg offset size 25 cwmin 4 6 assoc 4 54 keys 4 country select country code txpwr1 set tx power wet get 136 upgrade 4 26 cwmax 4 set regulatory domain mode contents 1 setup 2 usage 3 common tasks 3 wl antdiv wl aciargs wepstatus set using wl mrate set set dtim rts set fqacurcy arg crsuprs arg cwmin set cwmax set addwep set interference get csa send set unassociated scan channel dwell time macreg get channels return valid channels 11h quiet command tssi get dtim get aciargs get rm_req request assoc ") measure_req send passive puts scan engine frameburst disable radar enable keys prints disable radar tssi value rts threshhold join join wl constraint 1 wl wsec_test ?' antdiv sets 148 wme 4 set scan home channel dwell time wl dump wl0 147 wsec_test 4 infra 130 txant 4 wep set wep options current mrate value 29 dump 4 cwmin cwmax addwep shortslot capability 1 tkip set tkip options aes set aes options 22 constraint 4 67 noise 4 65 mrate 4 133 txpwr1 4 set wds link local endpoint 93 regulatory 4 use txpwr1 instead 37 evm 4 115 shortslot 4 wl txant 48 dbm noise txant set 84 quiet 4 reset hardware restart 13 bands 4 wl txpwr1 stop evm test wds member mac addresses wl quiet ap set ap mode bands return available bands status print information regulatory get shortslot get 146 wsec 4 evm start constraint send evm test exit aci mode glitch seconds interval disable regulatory shortslot capability mrate force 11 bands quiet send set 11g short slot timing mode override 124 status 4 restart wl radio wl radio set scan channel time roam trigger rssi threshold 11g short slot timing capable stas wl radio toggle radio dynamically grant wds membership optionen können über das programm set 11g short slot timing mode hss )" assoc_state 0 associated 1 rpi target mac addr format eth1 status wsec country abbreviation arg 2 enable active monitor mode wl radio radio basic rates arbitrary rateset 71 passive 4 rssi samples usage set 11g protection mode control alg wl country list 14 bssid 4 monitor local association recently received good plcp header note 53 join 4 n dwell time per channel may join non passive mode 64 monitor 4 21 country 4 wl wds xx 122 ssid 4 monitor overlapping bss 139 wds 4 limited rate support used bssid 00 source mac address matches 100 rssi 4 specified network ssid current band auto bssid get current rssi 34 channels 4 90 rateset 4 -- passive 14 valid channels wl country 3 aes 4 set 11g legacy erp inclusion -- bssid wl rssi current ssid join non passive scanning 6 bssid scan type -- bss_type bssid value wl ssid 5 ghz band least one rate must set wireless ethernet bridging mode 0 resets 27 perm_etheraddr 00 join syntax wds mode 12 band 4 disable mac address matching ssid set 143 wep 4 wds set monitor packets wep enabled 2 specifies whether aes 126 tkip 4 rssi get country specified set low frequency watchdog timeout set various aci tuning parameters 11a band b aes enabled 8 tkip enabled 4 use per channel scanned passive disable tkip countermeasures set 11g protection mode override managed rssi set high frequency watchdog timeout -- ssid valid channels basic rateset probes per scanned channel supported rateset legal rateset empty rateset kurtzübersicht die meisten wirreless join set ap restriction wl wep modus eine ausgabe )??? rateset returns wl tkip wl aes -- channels weder im ap channel quality measurment 5 ap 4 87 rate 4 monitor b band country 4ghz band set scan parameter 1 toggle radio band returns 11b band fixed multicast rate ssid rateset crs glitch trigger level scan please use enable wep wl_radio_sw_disable 0 wl_radio_hw_disable 0 disable wep perform wep enable tkip enable aes disable tkip disable aes start detecting aci exit perform tkip perform aes ap mode low frequency watchdog timeout active scan across 11d use either long name channels bb radio txctl1 set 11g protection type wl_radio_sw_disable 1 wl_radio_hw_disable 0 86 radio 4 wl mac xx 112 scan 4 associated mac addresses wl mac none band channel number 1 client mac list 11h spectrum management mode wl scan 16 channel 4 enabled ap set frequency accuracy mode mac address 97 dbm channel multicast rate fixed rate last scan roam candidate qualification delta anz europe usalow japanhigh tkip aes optional rate 60 mac 4 set probe response timeout wl radio c n channel basic rate set power output percentage set carrier suppression mode best rate script examples page scan note rate force 1x authorization succeeds 0 save mode sleep state toggle radio n numeric token id mac set radio measurement mac list channel set 11h rm cqa afterburner beacons without nonerp element aug 2 2004 14 continuously high spin wl cmds ver cmds home channel ap scan initiate mac addresses tunable id arg 2 toggles radio radio register rate b mac q quarter dbm units 64 hex digits long g mode ): check mac registers new channel given channel channel scans prolonged use -- use related changes scan n dwell time antenna 0 1 etc 4 alphabetical list wl ver wl short retry limit radio antenna 1 3 tx path power board rev 1 common tasks channel 1 2 5 page wl command 51 version 3 current signal level transmit antenna 0 rx antenna selection long retry limit driver must already current network association origional german wlan manual 3 "( b )" 11h aps 2 control wireless hardware console window last modified 01 1x authorization succeeds ver version information set ucode flags 54g mode legacyb wireless multimedia extensions space separated list extract information directly inactivity timeout value 32 hex digits 20 cmds 4 137 ver 4 11h measurement request use nvram show fast ps mode spaces around '=') means automatically determine automatically selected based valid scb values allow scans 1 optional reason code nvram variable name xx cur_etheraddr 00 noch im client current settings non wlan 2 xx board 0x101 p parallel flag antenna diversity note 11g override xx current_bss 16 bytes long 12 december 2010 auto || gonly http :// wiki measurement specified uses used without arguments restrict association based shared memory location plcp header one line script interface still operates found ", regarding c 11 options 0 wl0 scb state arg 1 enabled 0 ess supported rates authenticated stas wrt wiki log driver must c 6 cca infrastructure mode message examples c 1 set 802 automatic selection auto switch client mode transmit power arg 2 available 802 current bss driver defaults disable 1 wireless options sta type basic measurement set specified key index alphabetical list 11h aps none 1 managed 1 disabled 1 (- 1 set using bss type command aci scans commands 4 wl package wl [- external links 11d 802 various units enter display rates list measurement types commands instead -- home ibss mode automatic control valid values optional arg wireless card nvram variable dbm ): available phytypes 35 note 2 builds adapter name wpa 802 restrict traffic cmds lists 0 rpi specify return error 16 bytes tunable value older 802 transmit antenna restrict association n n drone use p n usage setup phy register editors note dbm units allow association 1x packets 11d ). 5 11 reset hardware force use afterburner legacyb get index -- active measurement starts 50 cca 2b 5 xx capability 11g ignore beacons examine beacons accessed using transmit attenuation short key must c l driver hardware especially atheros hardware n number wlan automatic wlan article signal signal milliwatt units line reference key size deny association choose one bad packets 63 ). 15 sec 0x101 boardvendor time 3 active scanning -- scan_type -- nprobes xx ...] b seems b )]' 1 disable wpa reset adapter must specify signal strength wl wrt wiki wiki mainpage tx wpa role indicates basic power n duration h n mode wrt v22 wrt installations web interface upload file suppress scans supported countries strict interpretation special pages something ~)??? set_clk attempt resident supplicant reinitialize adapter receive antenna primary key permanent linkprint paul gu num microsecs moving average may damage managed bss loose interpretation less developed l comma kismet server key xxxxx key length iso 3166 include ihr improve compatibility important tool imode bss functions neither freqacuracy syntax fragmentation threshhold encryption key encryption algorithm embedded device e eth2 correctly setted chip registers carriersuprs syntax bar graph auf englisch assoication attempt anyone ). amode open also known accessed 735 [- hu 84 ]. 60 sec 60 rc13 2347 ]) 2346 ]) 2047 ]) 120 sec 1024 us 0x7 boardid 0x4712 chiprev 0x4320 radiorev 0x33c0d00 ucoderev 0x22050000 chipnum 0x14e4 deviceid 0x14e4 boardrev 0x1180016 bus 0x10 driverrev 0x1 corerev override 255 times 255 db 255 ]) multiple radios hoc ibss 2050 radios 11b cards wpa psk default value set ssh terminal see also routers firmware previous unless per optionally followed mark adapter good constantly awake ccm encryption access point 2 list g associated commands long 802 use stas software options clock broadcom dd 4 get measurement 14 5 used links 64 test hardware n values select save rates probes one etc dbm check antenna abbreviation 1x specified active xx b enabled afterburner 48 32 12 enable cca auto 6 wiki 11 disable wpa basic value wrt supported stop shared scans ps number none may key interface index found examples bss arguments 90 9 84 60 56 54 52 44 40 36 26 24 18 17 149 140 136 132 13 128 124 120 11a 116 112 108 104 100 10 returns force 255 specify radios ibss 11b turn ssh sets see receive psk previous mark initiate h followed firmware error duration default dd ccm broadcom awake access xxxx www wpapsk wpanone work wl_command wl_atheros wiviz wish via users unspecified u tx_power tus tpc tools threads testing test_types telnet sw summary stdout stations st sprom spec skygunner setting series search scripting sb right revert retrieved required remember redirected recognized range program process probably precede powered pmk php performing performance pdf others old ocb nscb nrssislope notx nice newd need navigation milliwatts mediawiki measurelo mbps many lrs limitations lazy keytype jump integer ifconfig hw history glitchcount functionality function follow fbn fb example eth3 edit drv discussion disclaimers design deprecated delay debug de cts creation core conjunction configure comes combined com cli clear choices caution categories canada cam bt bdeferred back associations args always adhoc ad accesed accepted absent able 4c 256 216 212 208 204 200 196 192 188 184 161 157 153 0x0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "vendors": [
+    "broadcom",
+    "variable"
+  ],
+  "device_types": [
+    "switch"
+  ],
+  "products": [
+    "txpwr1",
+    "wl0",
+    "eth1",
+    "txctl1",
+    "x101",
+    "v22",
+    "eth2",
+    "rc13",
+    "x7",
+    "x4712",
+    "x4320",
+    "x33c0d00",
+    "x22050000",
+    "x14e4",
+    "x1180016",
+    "x10",
+    "x1",
+    "eth3",
+    "x0"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPON ONT
+wlctl: wl driver adapter not found
+Login:
+
+============================https://gist.github.com/matiasow/3ae3d8bc56da312947af===============================
+
+Hacking router - wlctl usage help · GitHub
+Skip to content
+All gists
+Back to GitHub
+Sign in
+Sign up
+Instantly share code, notes, and snippets.
+matiasow/gist:3ae3d8bc56da312947af
+Created Jun 27, 2014
+Star
+4
+Fork
+2
+Code
+Revisions
+1
+Stars
+4
+Forks
+2
+Embed
+What would you like to do?
+Embed
+Embed this gist in your website.
+Share
+Copy sharable link for this gist.
+Clone via
+HTTPS
+Clone with Git or checkout with SVN using the repository’s web address.
+Learn more about clone URLs
+Download ZIP
+Hacking router - wlctl usage help
+Raw
+gistfile1.txt
+Usage: wlctl [-a|i <adapter>] [-h] [-d|u|x] <command> [arguments]
+-h
+this message and command descriptions
+-h [cmd]
+command description for cmd
+-a, -i
+adapter name or number
+-d
+output format signed integer
+-u
+output format unsigned integer
+-x
+output format hexdecimal
+ver
+get version information
+cmds
+generate a short list of available commands
+up
+reinitialize and mark adapter up (operational)
+down
+reset and mark adapter down (disabled)
+out
+mark adapter down but do not reset hardware(disabled)
+On dualband cards, cards must be bandlocked before use.
+clk
+set board clock state. return error for set_clk attempt if the driver is not down
+0: clock off
+1: clock on
+restart Restart driver.
+Driver must already be down.
+reboot
+Reboot platform
+radio
+Set the radio on or off.
+"on" or "off"
+dump
+Give suboption "list" to list various suboptions
+srclear Clears first 'len' bytes of the srom, len in decimal or hex
+Usage: srclear <len>
+srdump
+print contents of SPROM to stdout
+srwrite Write the srom: srwrite byteoffset value
+srcrc
+Get the CRC for input binary file
+ciswrite
+Write specified <file> to the SDIO CIS source (either SROM or OTP)
+cisupdate
+Write a hex byte stream to specified byte offset to the CIS source (either SROM or OTP)
+--preview option allows you to review the update without committing it
+<byte offset> <hex byte stream> [--preview]
+cisdump Display the content of the SDIO CIS source
+-b <file> -- also write raw bytes to <file>
+<len> -- optional count of bytes to display (must be even)
+cis_source
+Display which source is used for the SDIO CIS
+cisconvert
+Print CIS tuple for given name=value pair
+rdvar
+Read a named variable to the srom
+wrvar
+Write a named variable to the srom
+nvram_source
+Display which source is used for nvram
+nvram_dump
+print nvram variables to stdout
+nvset
+set an nvram variable
+name=value (no spaces around '=')
+nvget
+get the value of an nvram variable
+nvram_get
+get the value of an nvram variable
+revinfo get hardware revision information
+customvar1
+print the value of customvar1 in hex format
+msglevel
+set driver console debugging message bitvector
+type 'wl msglevel ?' for values
+phymsglevel
+set phy debugging message bitvector
+type 'wl phymsglevel ?' for values
+PM
+set driver power management mode:
+0: CAM (constantly awake)
+1: PS
+(power-save)
+2: FAST PS mode
+wake
+set driver power-save mode sleep state:
+0: core-managed
+1: awake
+promisc set promiscuous mode ethernet address reception
+0 - disable
+1 - enable
+monitor set monitor mode
+0 - disable
+1 - enable active monitor mode (interface still operates)
+frag
+Deprecated. Use fragthresh.
+rts
+Deprecated. Use rtsthresh.
+cwmin
+Set the cwmin.
+(integer [1, 255])
+cwmax
+Set the cwmax.
+(integer [256, 2047])
+srl
+Set the short retry limit.
+(integer [1, 255])
+lrl
+Set the long retry limit.
+(integer [1, 255])
+rate
+force a fixed rate:
+valid values for 802.11a are (6, 9, 12, 18, 24, 36, 48, 54)
+valid values for 802.11b are (1, 2, 5.5, 11)
+valid values for 802.11g are (1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48, 54)
+-1 (default) means automatically determine the best rate
+mrate
+force a fixed multicast rate:
+valid values for 802.11a are (6, 9, 12, 18, 24, 36, 48, 54)
+valid values for 802.11b are (1, 2, 5.5, 11)
+valid values for 802.11g are (1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48, 54)
+-1 (default) means automatically determine the best rate
+a_rate
+force a fixed rate for the A PHY:
+valid values for 802.11a are (6, 9, 12, 18, 24, 36, 48, 54)
+-1 (default) means automatically determine the best rate
+a_mrate force a fixed multicast rate for the A PHY:
+valid values for 802.11a are (6, 9, 12, 18, 24, 36, 48, 54)
+-1 (default) means automatically determine the best rate
+bg_rate force a fixed rate for the B/G PHY:
+valid values for 802.11b are (1, 2, 5.5, 11)
+valid values for 802.11g are (1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48, 54)
+-1 (default) means automatically determine the best rate
+bg_mrate
+force a fixed multicast rate for the B/G PHY:
+valid values for 802.11b are (1, 2, 5.5, 11)
+valid values for 802.11g are (1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48, 54)
+-1 (default) means automatically determine the best rate
+infra
+Set Infrastructure mode: 0 (IBSS) or 1 (Infra BSS)
+ap
+Set AP mode: 0 (STA) or 1 (AP)
+bssid
+Get the BSSID value, error if STA and not associated
+bssmax
+get number of BSSes
+channel Set the channel:
+valid channels for 802.11b/g (2.4GHz band) are 1 through 14
+valid channels for 802.11a
+(5 GHz band) are:
+36, 40, 44, 48, 52, 56, 60, 64,
+100, 104, 108, 112, 116,120, 124, 128, 132, 136, 140,
+149, 153, 157, 161,
+184, 188, 192, 196, 200, 204, 208, 212, 216
+cur_mcsset
+Get the current mcs set
+chanspecs
+Get all the valid chanspecs (default: all within current locale):
+-b band (5(a) or 2(b/g))
+-w bandwidth, 10,20 or 40
+[-c country_abbrev]
+chanspec
+Set <channel>[a,b][n][u,l]
+channel number (0-224)
+band a=5G, b=2G, default to 2G if channel <= 14
+bandwidth, n=10, none for 20 & 40
+ctl sideband, l=lower, u=upper
+OR Set channel with legacy format:
+-c channel number (0-224)
+-b band (5(a) or 2(b/g))
+-w bandwidth, 10,20 or 40
+-s ctl sideband, -1=lower, 0=none, 1=upper
+dfs_channel_forced
+Set <channel>[a,b][n][u,l]
+channel number (0-224)
+band a=5G, b=2G, default to 2G if channel <= 14
+bandwidth, n=10, non for 20 & 40
+ctl sideband, l=lower, u=upper
+tssi
+Get the tssi value from radio
+txpwr
+Set tx power in milliwatts.
+Range [1, 84].
+txpwr1
+Set tx power in in various units. Choose one of (default: dbm):
+-d dbm units
+-q quarter dbm units
+-m milliwatt units
+Can be combined with:
+-o turn on override to disable regulatory and other limitations
+Use wl txpwr -1 to restore defaults
+txpathpwr
+Turn the tx path power on or off on 2050 radios
+txpwrlimit
+Return current tx power limit
+powerindex
+Set the transmit power for A band(0-63).
+-1 - default value
+atten
+Set the transmit attenuation for B band. Args: bb radio txctl1.
+auto to revert to automatic control
+manual to supspend automatic control
+phyreg
+Get/Set a phy register:
+offset [ value ] [ band ]
+radioreg
+Get/Set a radio register:
+offset [ value ] [ band/core ]
+ucflags Get/Set ucode flags 1, 2, 3(16 bits each)
+offset [ value ] [ band ]
+shmem
+Get/Set a shared memory location:
+offset [ value ] [band ]
+macreg
+Get/Set any mac registers(include IHR and SB):
+macreg offset size[2,4] [ value ] [ band ]
+ucantdiv
+Enable/disable ucode antenna diversity (1/0 or on/off)
+gpioout Set any GPIO pins to any value. Use with caution as GPIOs would be assigned to chipcommon
+Usage: gpiomask gpioval
+pcieserdesreg
+g/set SERDES registers: dev offset [val]
+ampdu_activate_test
+actiate
+ampdu_tid
+enable/disable per-tid ampdu; usage: wl ampdu_tid <tid> [0/1]
+ampdu_retry_limit_tid
+Set per-tid ampdu retry limit; usage: wl ampdu_retry_limit_tid <tid> [0~31]
+ampdu_rr_retry_limit_tid
+Set per-tid ampdu regular rate retry limit; usage: wl ampdu_rr_retry_limit_tid <tid> [0~31]
+ampdu_send_addba
+send addba to specified ea-tid; usage: wl ampdu_send_addba <tid> <ea>
+ampdu_send_delba
+send delba to specified ea-tid; usage: wl ampdu_send_delba <tid> <ea>
+ampdu_clear_dump
+clear ampdu counters
+dpt_deny
+adds/removes ea to dpt deny list
+usage: wl dpt_deny <add,remove> <ea>
+dpt_endpoint
+creates/updates/deletes dpt endpoint for ea
+usage: wl dpt_endpoint <create, update, delete> <ea>
+dpt_pmk sets DPT pre-shared key
+dpt_fname
+sets/gets DPT friendly name
+dpt_list
+gets status of all dpt peers
+bdd_fname
+sets/gets BDD friendly name
+actframe
+Send a Vendor specific Action frame to a channel
+usage: wl actframe <Dest Mac Addr> <data> channel dwell-time <BSSID>
+antdiv
+Set antenna diversity for rx
+0 - force use of antenna 0
+1 - force use of antenna 1
+3 - automatic selection of antenna diversity
+txant
+Set the transmit antenna
+0 - force use of antenna 0
+1 - force use of antenna 1
+3 - use the RX antenna selection that was in force during
+the most recently received good PLCP header
+plcphdr Set the plcp header.
+"long" or "auto" or "debug"
+phytype Get phy type
+rateparam
+set driver rate selection tunables
+arg 1: tunable id
+arg 2: tunable value
+wepstatus
+Set or Get WEP status
+wepstatus [on|off]
+primary_key
+Set or get index of primary key
+addwep
+Set an encryption key.
+The key must be 5, 13 or 16 bytes long, or
+10, 26, 32, or 64 hex digits long.
+The encryption algorithm is
+automatically selected based on the key size. keytype is accepted
+only when key length is 16 bytes/32 hex digits and specifies
+whether AES-OCB or AES-CCM encryption is used. Default is ccm.
+WAPI is selected if key len is 32 and arguments contain wapi.
+addwep <keyindex> <keydata> [ocb | ccm | wapi] [notx] [xx:xx:xx:xx:xx:xx]
+rmwep
+Remove the encryption key at the specified key index.
+keys
+Prints a list of the current WEP keys
+tsc
+Print Tx Sequence Couter for key at specified key index.
+wsec_test
+Generate wsec errors
+wsec_test <test_type> <keyindex|xx:xx:xx:xx:xx:xx>
+type 'wl wsec_test ?' for test_types
+tkip_countermeasures
+Enable or disable TKIP countermeasures (TKIP-enabled AP only)
+0 - disable
+1 - enable
+wsec_restrict
+Drop unencrypted packets if WSEC is enabled
+0 - disable
+1 - enable
+eap
+restrict traffic to 802.1X packets until 802.1X authorization succeeds
+0 - disable
+1 - enable
+cur_etheraddr
+Get/set the current hw address
+perm_etheraddr
+Get the permanent address from NVRAM
+authorize
+restrict traffic to 802.1X packets until 802.1X authorization succeeds
+deauthorize
+do not restrict traffic to 802.1X packets until 802.1X authorization succeeds
+deauthenticate
+deauthenticate a STA from the AP with optional reason code (AP ONLY)
+wsec
+wireless security bit vector
+1 - WEP enabled
+2 - TKIP enabled
+4 - AES enabled
+8 - WSEC in software
+0x80 - FIPS enabled
+0x100 - WAPI enabled
+auth
+set/get 802.11 authentication type. 0 = OpenSystem, 1= SharedKey, 2=Open/Shared
+wpa_auth
+Bitvector of WPA authorization modes:
+1
+WPA-NONE
+2
+WPA-802.1X/WPA-Professional
+4
+WPA-PSK/WPA-Personal
+64
+WPA2-802.1X/WPA2-Professional
+128
+WPA2-PSK/WPA2-Personal
+0
+disable WPA
+wpa_cap set/get 802.11i RSN capabilities
+set_pmk Set passphrase for PMK in driver-resident supplicant.
+scan
+Initiate a scan.
+Default to an active scan across all channels for any SSID.
+Optional arg: SSIDs, list of [up to 10] SSIDs to scan (comma or space separated).
+Options:
+-s S, --ssid=S
+SSIDs to scan
+-t ST, --scan_type=ST
+[active|passive] scan type
+--bss_type=BT
+[bss/infra|ibss/adhoc] bss type to scan
+-b MAC, --bssid=MAC
+particular BSSID MAC address to scan, xx:xx:xx:xx:xx:xx
+-n N, --nprobes=N
+number of probes per scanned channel
+-a N, --active=N
+dwell time per channel for active scanning
+-p N, --passive=N
+dwell time per channel for passive scanning
+-h N, --home=N
+dwell time for the home channel between channel scans
+-c L, --channels=L
+comma or space separated list of channels to scan
+iscan_s Initiate an incremental scan.
+Default to an active scan across all channels for any SSID.
+Optional arg: SSIDs, list of [up to 10] SSIDs to scan (comma or space separated).
+Options:
+-s S, --ssid=S
+SSIDs to scan
+-t ST, --scan_type=ST
+[active|passive] scan type
+--bss_type=BT
+[bss/infra|ibss/adhoc] bss type to scan
+-b MAC, --bssid=MAC
+particular BSSID MAC address to scan, xx:xx:xx:xx:xx:xx
+-n N, --nprobes=N
+number of probes per scanned channel
+-a N, --active=N
+dwell time per channel for active scanning
+-p N, --passive=N
+dwell time per channel for passive scanning
+-h N, --home=N
+dwell time for the home channel between channel scans
+-c L, --channels=L
+comma or space separated list of channels to scan
+iscan_c Continue an incremental scan.
+Default to an active scan across all channels for any SSID.
+Optional arg: SSIDs, list of [up to 10] SSIDs to scan (comma or space separated).
+Options:
+-s S, --ssid=S
+SSIDs to scan
+-t ST, --scan_type=ST
+[active|passive] scan type
+--bss_type=BT
+[bss/infra|ibss/adhoc] bss type to scan
+-b MAC, --bssid=MAC
+particular BSSID MAC address to scan, xx:xx:xx:xx:xx:xx
+-n N, --nprobes=N
+number of probes per scanned channel
+-a N, --active=N
+dwell time per channel for active scanning
+-p N, --passive=N
+dwell time per channel for passive scanning
+-h N, --home=N
+dwell time for the home channel between channel scans
+-c L, --channels=L
+comma or space separated list of channels to scan
+scancache_clear
+clear the scan cache
+passive Puts scan engine into passive mode
+regulatory
+Get/Set regulatory domain mode (802.11d). Driver must be down.
+spect
+Get/Set 802.11h Spectrum Management mode.
+0 - Off
+1 - Loose interpretation of 11h spec - may join non-11h APs
+2 - Strict interpretation of 11h spec - may not join non-11h APs
+3 - Disable 11h and enable 11d
+4 - Loose interpretation of 11h+d spec - may join non-11h APs
+scanresults
+Return results from last scan.
+iscanresults
+Return results from last iscan. Specify a buflen (max 8188)
+to artificially limit the size of the results buffer.
+iscanresults [buflen]
+assoc
+Print information about current network association.
+(also known as "status")
+status
+Print information about current network association.
+(also known as "assoc")
+disassoc
+Disassociate from the current BSS/IBSS.
+chanlist
+Deprecated. Use channels.
+channels
+Return valid channels for the current settings.
+channels_in_country
+Return valid channels for the country specified.
+Arg 1 is the country abbreviation
+Arg 2 is the band(a or b)
+curpower
+Return current tx power settings.
+-q (quiet): estimated power only.
+txinstpwr
+Return tx power based on instant TSSI
+scansuppress
+Suppress all scans for testing.
+0 - allow scans
+1 - suppress scans
+evm
+Start an EVM test on the given channel, or stop EVM test.
+Arg 1 is channel number 1-14, or "off" or 0 to stop the test.
+Arg 2 is optional rate (1, 2, 5.5 or 11)
+rateset Returns or sets the supported and basic rateset, (b) indicates basic
+With no args, returns the rateset. Args are
+rateset "default" | "all" | <arbitrary rateset> -m <arbitrary mcsset>
+default - driver defaults
+all - all rates are basic rates
+arbitrary rateset - list of rates
+arbitrary mcsset - list of mcs rates octets, each bit representing
+corresponding mcs
+List of rates are in Mbps and each rate is optionally followed
+by "(b)" or "b" for a Basic rate. Example: 1(b) 2b 5.5 11
+At least one rate must be Basic for a legal rateset.
+roam_trigger
+Get or Set the roam trigger RSSI threshold:
+Get: roam_trigger [a|b]
+Set: roam_trigger <integer> [a|b|all]
+integer -
+0: default
+1: optimize bandwidth
+2: optimize distance
+[-1, -99]: dBm trigger value
+roam_delta
+Set the roam candidate qualification delta. roam_delta [integer [, a/b]]
+roam_scan_period
+Set the roam candidate qualification delta.
+(integer)
+suprates
+Returns or sets the 11g override for the supported rateset
+With no args, returns the rateset. Args are a list of rates,
+or 0 or -1 to specify an empty rateset to clear the override.
+List of rates are in Mbps, example: 1 2 5.5 11
+scan_channel_time
+Get/Set scan channel time
+scan_unassoc_time
+Get/Set unassociated scan channel dwell time
+scan_home_time
+Get/Set scan home channel dwell time
+scan_passive_time
+Get/Set passive scan channel dwell time
+scan_nprobes
+Get/Set scan parameter for number of probes to use per channel scanned
+prb_resp_timeout
+Get/Set probe response timeout
+channel_qa
+Get last channel quality measurment
+channel_qa_start
+Start a channel quality measurment
+country Select Country Code for driver operational region
+For simple country setting: wl country <country>
+Where <country> is either a long name or country code from ISO 3166; for example "Germany" or "DE"
+For a specific built-in country definition: wl country <built-in> [<advertised-country>]
+Where <built-in> is a country country code followed by '/' and regulatory revision number.
+For example, "US/3".
+And where <advertised-country> is either a long name or country code from ISO 3166.
+If <advertised-country> is omitted, it will be the same as the built-in country code.
+Use 'wl country list [band(a or b)]' for the list of supported countries
+autocountry_default
+Select Country Code for use with Auto Contry Discovery
+join
+Join a specified network SSID.
+Usage: join <ssid> [key <0-3>:xxxxx] [imode bss|ibss] [amode open|shared|openshared|wpa|wpapsk|wpa2|wpa2psk|wpanone] [options]
+Options:
+-b MAC, --bssid=MAC
+BSSID (xx:xx:xx:xx:xx:xx) to scan and join
+-c CL, --chanspecs=CL
+chanspecs (comma or space separated list)
+ssid
+Set or get a configuration's SSID.
+wl ssid [-C num]|[--cfg=num] [<ssid>]
+If the configuration index 'num' is not given, configuraion #0 is assumed and
+setting will initiate an assoication attempt if in infrastructure mode,
+or join/creation of an IBSS if in IBSS mode,
+or creation of a BSS if in AP mode.
+mac
+Set or get the list of source MAC address matches.
+wl mac xx:xx:xx:xx:xx:xx [xx:xx:xx:xx:xx:xx ...]
+To Clear the list: wl mac none
+macmode Set the mode of the MAC list.
+0 - Disable MAC address matching.
+1 - Deny association to stations on the MAC list.
+2 - Allow association to stations on the MAC list.
+wds
+Set or get the list of WDS member MAC addresses.
+Set using a space separated list of MAC addresses.
+wl wds xx:xx:xx:xx:xx:xx [xx:xx:xx:xx:xx:xx ...]
+lazywds Set or get "lazy" WDS mode (dynamically grant WDS membership to anyone).
+noise
+Get noise (moving average) right after tx in dBm
+fqacurcy
+Manufacturing test: set frequency accuracy mode.
+freqacuracy syntax is: fqacurcy <channel>
+Arg is channel number 1-14, or 0 to stop the test.
+crsuprs Manufacturing test: set carrier suppression mode.
+carriersuprs syntax is: crsuprs <channel>
+Arg is channel number 1-14, or 0 to stop the test.
+longtrain
+Manufacturing test: set longtraining mode.
+longtrain syntax is: longtrain <channel>
+Arg is A band channel number or 0 to stop the test.
+band
+Returns or sets the current band
+auto - auto switch between available bands (default)
+a - force use of 802.11a band
+b - force use of 802.11b band
+bands
+Return the list of available 802.11 bands
+phylist Return the list of available phytypes
+shortslot
+Get current 11g Short Slot Timing mode. (0=long, 1=short)
+shortslot_override
+Get/Set 11g Short Slot Timing mode override. (-1=auto, 0=long, 1=short)
+shortslot_restrict
+Get/Set AP Restriction on associations for 11g Short Slot Timing capable STAs.
+0 - Do not restrict association based on ShortSlot capability
+1 - Restrict association to STAs with ShortSlot capability
+ignore_bcns
+AP only (G mode): Check for beacons without NONERP element(0=Examine beacons, 1=Ignore beacons)
+pktcnt
+Get the summary of good and bad packets.
+upgrade Upgrade the firmware on an embedded device
+gmode
+Set the 54g Mode (LegacyB|Auto||GOnly|BDeferred|Performance|LRS)
+gmode_protection
+Get G protection mode. (0=disabled, 1=enabled)
+gmode_protection_control
+Get/Set 11g protection mode control alg.(0=always off, 1=monitor local association, 2=monitor overlapping BSS)
+gmode_protection_override
+Get/Set 11g protection mode override. (-1=auto, 0=disable, 1=enable)
+protection_control
+Get/Set protection mode control alg.(0=always off, 1=monitor local association, 2=monitor overlapping BSS)
+legacy_erp
+Get/Set 11g legacy ERP inclusion (0=disable, 1=enable)
+scb_timeout
+AP only: inactivity timeout value for authenticated stas
+assoclist
+AP only: Get the list of associated MAC addresses.
+isup
+Get driver operational state (0=down, 1=up)
+rssi
+Get the current RSSI val, for an AP you must specify the mac addr of the STA
+rssi_event
+Set parameters associated with RSSI event notification
+usage: wl rssi_event <rate_limit> <rssi_levels>
+rate_limit: Number of events posted to application will be limited to 1 per this rate limit. Set to 0 to disable rate limit.
+rssi_levels: Variable number of RSSI levels (maximum 8)
+in increasing order (e.g. -85 -70 -60). An event will be posted each time the RSSI of received beacons/packets crosses a level.
+fasttimer
+Deprecated. Use fast_timer.
+slowtimer
+Deprecated. Use slow_timer.
+glacialtimer
+Deprecated. Use glacial_timer.
+radar
+Enable/Disable radar
+radarargs
+Get/Set Radar parameters in
+order as version, npulses, ncontig, min_pw, max_pw, thresh0,
+thresh1, blank, fmdemodcfg, npulses_lp, min_pw_lp, max_pw_lp,
+min_fm_lp, max_span_lp, min_deltat, max_deltat,
+autocorr, st_level_time, t2_min, fra_pulse_err, npulses_fra,
+npulses_stg2, npulses_stg3, percal_mask, quant,
+min_burst_intv_lp, max_burst_intv_lp, nskip_rst_lp, max_pw_tol, feature_mask
+radarargs40
+Get/Set Radar parameters for 40Mhz channel in
+order as version, npulses, ncontig, min_pw, max_pw, thresh0,
+thresh1, blank, fmdemodcfg, npulses_lp, min_pw_lp, max_pw_lp,
+min_fm_lp, max_span_lp, min_deltat, max_deltat,
+autocorr, st_level_time, t2_min, fra_pulse_err, npulses_fra,
+npulses_stg2, npulses_stg3, percal_mask, quant,
+min_burst_intv_lp, max_burst_intv_lp, nskip_rst_lp, max_pw_tol, feature_mask
+radarthrs
+Set Radar threshold for both 20 & 40MHz BW:
+order as thresh0_20_lo, thresh1_20_lo, thresh0_40_lo, thresh1_40_lo
+thresh0_20_hi, thresh1_20_hi, thresh0_40_hi, thresh1_40_hi
+dfs_status
+Get dfs status
+interference
+Get/Set interference mitigation mode. Choices are:
+0 = none
+1 = non wlan
+2 = wlan manual
+3 = wlan automatic
+4 = wlan automatic with noise reduction
+interference_override
+Get/Set interference mitigation override. Choices are:
+0 = no interference mitigation
+1 = non wlan
+2 = wlan manual
+3 = wlan automatic
+4 = wlan automatic with noise reduction
+-1 = remove override, override disabled
+frameburst
+Disable/Enable frameburst mode
+pwr_percent
+Get/Set power output percentage
+toe
+Enable/Disable tcpip offload feature
+toe_ol
+Get/Set tcpip offload components
+toe_stats
+Display checksum offload statistics
+toe_stats_clear
+Clear checksum offload statistics
+arpoe
+Enable/Disable arp agent offload feature
+arp_ol
+Get/Set arp offload components
+arp_peerage
+Get/Set age of the arp entry in minutes
+arp_table_clear
+Clear arp cache
+arp_hostip
+Add a host-ip address or display them
+arp_hostip_clear
+Clear all host-ip addresses
+arp_stats
+Display ARP offload statistics
+arp_stats_clear
+Clear ARP offload statistics
+wet
+Get/Set wireless ethernet bridging mode
+bi
+Get/Set the beacon period (bi=beacon interval)
+dtim
+Get/Set DTIM
+wds_remote_mac
+Get WDS link remote endpoint's MAC address
+wds_wpa_role_old
+Get WDS link local endpoint's WPA role (old)
+wds_wpa_role
+Get/Set WDS link local endpoint's WPA role
+authe_sta_list
+Get authenticated sta mac address list
+autho_sta_list
+Get authorized sta mac address list
+measure_req
+Send an 802.11h measurement request.
+Usage: wl measure_req <type> <target MAC addr>
+Measurement types are: TPC, Basic, CCA, RPI
+Target MAC addr format is xx:xx:xx:xx:xx:xx
+quiet
+Send an 802.11h quiet command.
+Usage: wl quiet <TBTTs until start>, <duration (in TUs)>, <offset (in TUs)>
+csa
+Send an 802.11h channel switch anouncement with chanspec:
+<mode> <count> <channel>[a,b][n][u,l]
+mode (0 or 1)
+count (0-254)
+channel number (0-224)
+band a=5G, b=2G
+bandwidth n=10, non for 20 & 40
+ctl sideband, l=lower, u=upper, default no ctl sideband
+constraint
+Send an 802.11h Power Constraint IE
+Usage: wl constraint 1-255 db
+rm_req
+Request a radio measurement of type basic, cca, or rpi
+specify a series of measurement types each followed by options.
+example: wl rm_req cca -c 1 -d 50 cca -c 6 cca -c 11
+Options:
+-t n
+numeric token id for measurement set or measurement
+-c n
+channel
+-d n
+duration in TUs (1024 us)
+-p
+parallel flag, measurement starts at the same time as previous
+Each measurement specified uses the same channel and duration as the
+previous unless a new channel or duration is specified.
+rm_rep
+Get current radio measurement report
+join_pref
+Set/Get join target preferences.
+assoc_pref
+Set/Get association preference.
+Usage: wl assoc_pref [auto|a|b|g]
+wme
+Set WME (Wireless Multimedia Extensions) mode (0=off, 1=on, -1=auto)
+wme_ac
+wl wme_ac ap|sta [be|bk|vi|vo [ecwmax|ecwmin|txop|aifsn|acm <value>] ...]
+wme_apsd
+Set APSD (Automatic Power Save Delivery) mode on AP (0=off, 1=on)
+wme_apsd_sta
+Set APSD parameters on STA. Driver must be down.
+Usage: wl wme_apsd_sta <max_sp_len> <be> <bk> <vi> <vo>
+<max_sp_len>: number of frames per USP: 0 (all), 2, 4, or 6
+<xx>: value 0 to disable, 1 to enable U-APSD per AC
+wme_dp
+Set AC queue discard policy.
+Usage: wl wme_dp <be> <bk> <vi> <vo>
+<xx>: value 0 for newest-first, 1 for oldest-first
+wme_counters
+print WMM stats
+wme_clear_counters
+clear WMM counters
+wme_tx_params
+wl wme_tx_params [be|bk|vi|vo [short|sfb|long|lfb|max_rate <value>] ...]
+wme_maxbw_params
+wl wme_maxbw_params [be|bk|vi|vo <value> ....]
+lifetime
+Set Lifetime parameter (milliseconds) for each ac.
+wl lifetime be|bk|vi|vo [<value>]
+reinit
+Reinitialize device
+sta_info
+wl sta_info <xx:xx:xx:xx:xx:xx>
+cap
+driver capabilities
+malloc_dump
+Deprecated. Folded under 'wl dump malloc
+chan_info
+channel info
+add_ie
+Add a vendor proprietary IE to 802.11 management packets
+Usage: wl add_ie <pktflag> length OUI hexdata
+<pktflag>: Bit 0 - Beacons
+Bit 1 - Probe Rsp
+Bit 2 - Assoc/Reassoc Rsp
+Bit 3 - Auth Rsp
+Bit 4 - Probe Req
+Bit 5 - Assoc/Reassoc Req
+Example: wl add_ie 3 10 00:90:4C 0101050c121a03
+to add this IE to beacons and probe responses
+del_ie
+Delete a vendor proprietary IE from 802.11 management packets
+Usage: wl del_ie <pktflag> length OUI hexdata
+<pktflag>: Bit 0 - Beacons
+Bit 1 - Probe Rsp
+Bit 2 - Assoc/Reassoc Rsp
+Bit 3 - Auth Rsp
+Bit 4 - Probe Req
+Bit 5 - Assoc/Reassoc Req
+Example: wl del_ie 3 10 00:90:4C 0101050c121a03
+list_ie Dump the list of vendor proprietary IEs
+rand
+Get a 2-byte Random Number from the MAC's PRNG
+Usage: wl rand
+otpw
+Write an srom image to on-chip otp
+Usage: wl otpw file
+nvotpw
+Write nvram to on-chip otp
+Usage: wl nvotpw file
+bcmerrorstr
+errorstring
+freqtrack
+Set Frequency Tracking Mode (0=Auto, 1=On, 2=OFF)
+eventing
+set/get 128-bit hex filter bitmask for MAC event reporting up to application layer
+event_msgs
+set/get 128-bit hex filter bitmask for MAC event reporting via packet indications
+counters
+Return driver counter values
+delta_stats_interval
+set/get the delta statistics interval in seconds (0 to disable)
+delta_stats
+get the delta statistics for the last interval
+assoc_info
+Returns the assoc req and resp information [STA only]
+autochannel
+auto channel selection:
+1 to issue a channel scanning;
+2 to set chanspec based on the channel scan result;
+without argument to only show the chanspec selected;
+ssid must set to null before this process, RF must be up
+csscantimer
+auto channel scan timer in minutes (0 to disable)
+closed
+hides the network from active scans, 0 or 1.
+0 is open, 1 is hide
+pmkid_info
+Returns the pmkid table
+abminrate
+get/set afterburner minimum rate threshold
+bss
+set/get BSS enabled status: up/down
+closednet
+set/get BSS closed network attribute
+ap_isolate
+set/get AP isolation
+eap_restrict
+set/get EAP restriction
+diag
+diag testindex(1-interrupt, 2-loopback, 3-memory, 4-led); precede by 'wl down' and follow by 'wl up'
+reset_d11cnts
+reset 802.11 MIB counters
+staname get/set station name:
+Maximum name length is 15 bytes
+apname
+get AP name
+otpdump Dump raw otp
+otpstat Dump OTP status
+nrate
+-r legacy rate (CCK, OFDM)-m mcs index-s stf mode (0=SISO,1=CDD,2=STBC(not supported),3=SDM)-w Override mcs only to support STA's with/without STBC capability
+mimo_txbw
+get/set mimo txbw (2=20Mhz(lower), 3=20Mhz upper, 4=40Mhz, 5=40Mhz dup<mcs32 only)
+cac_addts
+add TSPEC, error if STA is not associated or WME is not enabled
+arg: TSPEC parameter input list
+cac_delts
+delete TSPEC, error if STA is not associated or WME is not enabled
+arg: TSINFO for the target tspec
+cac_delts_ea
+delete TSPEC, error if STA is not associated or WME is not enabled
+arg1: Desired TSINFO for the target tspec
+arg2: Desired MAC address
+cac_tslist
+Get the list of TSINFO in driver
+eg. 'wl cac_tslist' get a list of TSINFO
+cac_tslist_ea
+Get the list of TSINFO for given STA in driver
+eg. 'wl cac_tslist_ea ea' get a list of TSINFO
+cac_tspec
+Get specific TSPEC with matching TSINFO
+eg. 'wl cac_tspec 0xaa 0xbb 0xcc' where 0xaa 0xbb & 0xcc are TSINFO octets
+cac_tspec_ea
+Get specific TSPEC for given STA with matching TSINFO
+eg. 'wl cac_tspec 0xaa 0xbb 0xcc xx:xx:xx:xx:xx:xx'
+where 0xaa 0xbb & 0xcc are TSINFO octets and xx is mac address
+phy_txpwrindex
+usage: (set) phy_txpwrindex core0_idx core1_idx core2_idx core3_idx
+(get) phy_txpwrindex, return format: core0_idx core1_idx core2_idx core3_idxSet/Get txpwrindex
+phy_test_tssi
+wl phy_test_tssi val
+phy_test_tssi_offs
+wl phy_test_tssi_offs val
+phy_rssi_ant
+Get RSSI per antenna (only gives RSSI of current antenna for SISO PHY)
+lpphy_papdepstbl
+print papd eps table; Usage: wl lpphy_papdepstbl
+rifs
+set/get the rifs status; usage: wl rifs <1/0> (On/Off)
+rifs_advert
+set/get the rifs mode advertisement status; usage: wl rifs_advert <-1/0> (Auto/Off)
+phy_rxiqest
+Get phy RX IQ noise in dBm:
+-s # of samples (2^n)
+-a antenna select, 0,1 or 3
+phy_txiqcc
+usage: phy_txiqcc [a b]
+Set/get the iqcc a, b values
+phy_txlocc
+usage: phy_txlocc [di dq ei eq fi fq]
+Set/get locc di dq ei eq fi fq values
+phytable
+usage: wl phytable table_id offset width_of_table_element [table_element]
+Set/get table element of a table with the given ID at the given offset
+Note that table width supplied should be 8 or 16 or 32
+table ID, table offset can not be negative
+pavars
+Set/get temp PA parameters
+usage: wl down
+wl pavars pa2gw0a0=0x1 pa2gw1a0=0x2 pa2gw2a0=0x3 ...
+wl pavars
+wl up
+override the PA parameters after driver attach(srom read), before diver up
+These override values will be propogated to HW when driver goes up
+PA parameters in one band range (2g, 5gl, 5g, 5gh) must all present if
+one of them is specified in the command, otherwise it will be filled with 0
+povars
+Set/get temp power offset
+usage: wl down
+wl povars cck2gpo=0x1 ofdm2gpo=0x2 mcs2gpo=0x3 ...
+wl povars
+wl up
+override the power offset after driver attach(srom read), before diver up
+These override values will be propogated to HW when driver goes up
+power offsets in one band range (2g, 5gl, 5g, 5gh) must all present if
+one of them is specified in the command, otherwise it will be filled with 0
+cck(2g only), ofdm, and mcs(0-7) for NPHY are supported
+fem
+Set temp fem2g/5g value
+usage: wl fem (tssipos2g=0x1 extpagain2g=0x2 pdetrange2g=0x1 triso2g=0x1 antswctl2g=0)
+(tssipos5g=0x1 extpagain5g=0x2 pdetrange5g=0x1 triso5g=0x1 antswctl5g=0)
+antgain Set temp ag0/1 value
+usage: wl antgain ag0=0x1 ag1=0x2
+maxpower
+Set temp maxp2g(5g)a0(a1) value
+usage: wl maxpower maxp2ga0=0x1 maxp2ga1=0x2 maxp5ga0=0xff maxp5ga1=0xff
+maxp5gla0=0x3 maxp5gla1=0x4 maxp5gha0=0x5 maxp5gha1=0x6
+phy_antsel
+get/set antenna configuration
+set: -1(AUTO), 0xAB(fixed antenna selection)
+where A and B is the antenna numbers used for RF chain 0 and 1 respectively
+query: <utx>[AUTO] <urx>[AUTO] <dtx>[AUTO] <drx>[AUTO]
+where utx = TX unicast antenna configuration
+urx = RX unicast antenna configuration
+dtx = TX default (non-unicast) antenna configuration
+drx = RX default (non-unicast) antenna configuration
+txcore
+Usage: wl txcore -k <CCK core mask> -o <OFDM core mask> -s <1..4> -c <core bitmap>
+-k CCK core mask
+-o OFDM core mask
+-s # of space-time-streams
+-c active core (bitmask) to be used when transmitting frames
+sample_collect
+Optional parameters HTPHY/(NPHY with NREV >= 7) are:
+-f File name to dump the sample buffer (default "sample_collect.dat")
+-t Trigger condition (default now)
+now, good_fcs, bad_fcs, bad_plcp, crs, crs_glitch, crs_deassert
+-b PreTrigger duration in us (default 10)
+-a PostTrigger duration in us (default 10)
+-m Sample collect mode (default 1)
+HTPHY: 0=adc, 1..3=adc+rssi, 4=gpio
+NPHY: 1=Dual-Core adc[9:2], 2=Core0 adc[9:0], 3=Core1 adc[9:0], gpio=gpio
+-g GPIO mux select (default 0)
+use only for gpio mode
+-d Downsample enable (default 0)
+use only for HTPHY
+-e BeDeaf enable (default 0)
+-i Timeout in units of 10us (default 1000)
+Optional parameters (NPHY with NREV < 7) are:
+-f File name to dump the sample buffer (binary format, default "sample_collect.dat")
+-u Sample collect duration in us (default 60)
+-c Cores to do sample collect, only if BW=40MHz (default both)
+For (NREV < 7), the NPHY buffer returned has the format:
+In 20MHz [(uint16)num_bytes, <I(core0), Q(core0), I(core1), Q(core1)>]
+In 40MHz [(uint16)num_bytes(core0), <I(core0), Q(core0)>,
+(uint16)num_bytes(core1), <I(core1), Q(core1)>]
+txfifo_sz
+set/get the txfifo size; usage: wl txfifo_sz <fifonum> <size_in_bytes>
+pkteng_start
+start packet engine tx usage: wl pkteng_start <xx:xx:xx:xx:xx:xx> <tx|txwithack> [(async)|sync] [ipg] [len] [nframes] [src]
+start packet engine rx usage: wl pkteng_start <xx:xx:xx:xx:xx:xx> <rx|rxwithack> [(async)|sync] [rxframes] [rxtimeout]
+sync: synchronous mode
+ipg: inter packet gap in us
+len: packet length
+nframes: number of frames; 0 indicates continuous tx test
+src: source mac address
+rxframes: number of receive frames (sync mode only)
+rxtimeout: maximum timout in msec (sync mode only)
+pkteng_stop
+stop packet engine; usage: wl pkteng_stop <tx|rx>
+pkteng_stats
+packet engine stats; usage: wl pkteng_stats
+wowl
+Enable/disable WOWL events
+0
+- Clear all events
+Bit 0 - Wakeup on Magic Packet
+Bit 1 - Wakeup on NetPattern (use 'wl wowl_pattern' to configure pattern)
+Bit 2 - Wakeup on loss-of-link due to Disassociation/Deauth
+Bit 3 - Wakeup on retrograde tsf
+Bit 4 - Wakeup on loss of beacon (use 'wl wowl_bcn_loss' to configure time)
+wowl_bcn_loss
+Set #of seconds of beacon loss for wakeup event
+wowl_pattern
+usage: wowl_pattern [ [clr | [[ add | del ] offset mask value ]]]
+No options -- lists existing pattern list
+add -- Adds the pattern to the list
+del -- Removes a pattern from the list
+clr -- Clear current list
+offset -- Starting offset for the pattern
+mask -- Mask to be used for pattern. Bit i of mask => byte i of the pattern
+value -- Value of the pattern
+wowl_wakeind
+usage: wowl_wakeind [clear]
+Shows last system wakeup event indications from PCI and D11 cores
+clear - Clear the indications
+wowl_status
+usage: wowl_status [clear]
+Shows last system wakeup setting
+wowl_pkt
+Send a wakeup frame to wakup a sleeping STA in WAKE mode
+Usage: wl wowl_pkt <len> <dst ea | bcast | ucast <STA ea>>[ magic [<STA ea>] | net <offset> <pattern>]
+e.g. To send bcast magic frame -- wl wowl_pkt 102 bcast magic 00:90:4c:AA:BB:CC
+To send ucast magic frame -- wl wowl_pkt 102 ucast 00:90:4c:aa:bb:cc magic
+To send a frame with L2 unicast - wl wowl_pkt 102 00:90:4c:aa:bb:cc net 0 0x00904caabbcc
+NOTE: offset for netpattern frame starts from "Dest EA" of ethernet frame.So dest ea will be used only when offset is >= 6
+wme_apsd_trigger
+Set Periodic APSD Trigger Frame Timer timeout in ms (0=off)
+wme_autotrigger
+Enable/Disable sending of APSD Trigger frame when all ac are delivery enabled
+reassoc Initiate a (re)association request.
+Usage: wl reassoc <bssid> [options]
+Options:
+-c CL, --chanspecs=CL
+chanspecs (comma or space separated list)
+send_nulldata
+Sed a null frame to the specified hw address
+btc_params
+g/set BT Coex parameters
+btc_flags
+g/set BT Coex flags
+obss_scan_params
+set/get Overlapping BSS scan parameters
+Usage: wl obss_scan a b c d e ...; where
+a-Passive Dwell, {5-1000TU}, default = 100
+b-Active Dwell, {10-1000TU}, default = 20
+c-Width Trigger Scan Interval, {10-900sec}, default = 300
+d-Passive Total per Channel, {200-10000TU}, default = 200
+e-Active Total per Channel, {20-1000TU}, default = 20
+f-Channel Transition Delay Factor, {5-100}, default = 5
+g-Activity Threshold, {0-100%}, default = 25
+keep_alive
+Send specified "keep-alive" packet periodically.
+Usage: wl keep_alive <period> <packet>
+period: Re-transmission period in milli-seconds. 0 to disable packet transmits.
+packet: Hex packet contents to transmit. The packet contents should include the entire ethernet packet (ethernet header, IP header, UDP header, and UDP payload) specified in network byte order.
+e.g. Send keep alive packet every 30 seconds:
+wl keep_alive 30000 0x0014a54b164f000f66f45b7e08004500001e000040004011c52a0a8830700a88302513c413c4000a00000a0d
+srchmem g/set ucode srch engine memory
+pkt_filter_add
+Install a packet filter.
+Usage: wl pkt_filter_add <id> <polarity> <type> <offset> <bitmask> <pattern>
+id:
+Integer. User specified id.
+type:
+0 (Pattern matching filter).
+offset:
+Integer. Offset within received packets to start matching.
+polarity: Set to 1 to negate match result. 0 is default.
+bitmask:
+Hex bitmask that indicates which bits of 'pattern' to match. Must be same
+size as 'pattern'. Bit 0 of bitmask corresponds to bit 0 of pattern, etc.
+If bit N of bitmask is 0, then do *not* match bit N of the pattern with
+the received payload. If bit N of bitmask is 1, then perform match.
+pattern:
+Hex pattern to match.
+pkt_filter_clear_stats
+Clear packet filter statistic counter values.
+Usage: wl pkt_filter_clear_stats <id>
+pkt_filter_enable
+Enable/disable a packet filter.
+Usage: wl pkt_filter_enable <id> <0|1>
+pkt_filter_list
+List installed packet filters.
+Usage: wl pkt_filter_list [val]
+val: 0 (disabled filters) 1 (enabled filters)
+pkt_filter_mode
+Set packet filter match action.
+Usage: wl pkt_filter_mode <value>
+value: 1 - Forward packet on match, discard on non-match (default).
+0 - Discard packet on match, forward on non-match.
+pkt_filter_delete
+Uninstall a packet filter.
+Usage: wl pkt_filter_delete <id>
+pkt_filter_stats
+Retrieve packet filter statistic counter values.
+Usage: wl pkt_filter_stats <id>
+seq_start
+Initiates command batching sequence. Subsequent IOCTLs will be queued until
+seq_stop is received.
+seq_stop
+Defines the end of command batching sequence. Queued IOCTLs will be executed.
+seq_delay
+Driver should spin for the indicated amount of time.
+It is only valid within the context of batched commands.
+seq_error_index
+Used to retrieve the index (starting at 1) of the command that failed within a batch
+bmac_reboot
+Reboot BMAC
+findserver
+Used to find the remote server with proper mac address given by the user,this cmd is specific to wifi protocol.
+txmcsset
+get Transmit MCS rateset for 11N device
+rxmcsset
+get Receive MCS rateset for 11N device
+mimo_ss_stf
+get/set SS STF mode.
+Usage: wl mimo_ss_stf <value> <-b a | b>
+value: 0 - SISO; 1 - CDD
+-b(band): a - 5G; b - 2.4G
+assoclistinfo
+AP only: Get the list of yet another form of associated station info
+scblist AP only: Get STA list
+assertlog
+get external assert logs
+Usage: wl assertlog
+assert_bypass
+set/get the asset_bypass flag; usage: wl assert_bypass <1/0> (On/Off)
+ledbh
+set/get led behavior
+Usage: wl ledbh [0-3] [0-15]
+obss_coex_action
+send OBSS 20/40 Coexistence Mangement Action Frame
+Usage: wl obss_coex_action -i <1/0> -w <1/0> -c <channel list>
+-i: 40MHz intolerate bit; -w: 20MHz width Req bit;
+-c: channel list, 1 - 14
+At least one option must be provided
+chanim_state
+get channel interference state
+Usage: wl chanim_state channel
+Valid channels: 1 - 14
+returns: 0 - Acceptable; 1 - Severe
+chanim_mode
+get/set channel interference measure (chanim) mode
+Usage: wl chanim_mode <value>
+value: 0 - disabled; 1 - detection only; 2 - detection and avoidance
+ledbh
+set/get led behavior
+Usage: wl ledbh [0-3] [0-15]
+led_blink_sync
+set/get led_blink_sync
+Usage: wl led_blink_sync [0-3] [0/1]
+smfstats
+get/clear selected management frame (smf) stats wl smfstats [-C num]|[--cfg=num] [auth]|[assoc]|[reassoc]|[clear]
+clear - to clear the stats
+wai_restrict
+set/get WAI restriction
+wai_rekey
+set rekey event
+cca_get_stats
+Usage: wl cca_stats [-c channel] [-s num seconds][-a]
+-c channel: Optional. specify channel. 0 = All channels. Default = current channel
+-s num_seconds: Optional. Default = 10, Max = 60
+-i: list individual measurements in addition to the averages
+-curband: Only recommend channels on current band
+manfinfo
+show chip package info in OTP
+chanim_acs_record
+get the auto channel scan record.
+Usage: wl acs_record
+dngl_wd enable or disable dongle keep alive watchdog timer
+Usage: wl dngl_wd 0\1 (to turn off\on)
+tpc_mode
+Enable/disable AP TPC.
+Usage: wl tpc_mode <mode>
+0 - disable, 1 - BSS power control, 2 - AP power control, 3 - Both (1) and (2)
+tpc_period
+Set AP TPC periodicity in secs.
+Usage: wl tpc_period <secs>
+Sign up for free
+to join this conversation on GitHub.
+Already have an account?
+Sign in to comment
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPON ONT
+wlctl: wl driver adapter not found
+Login:
+
+============================https://gist.github.com/matiasow/3ae3d8bc56da312947af===============================
+
+ set tcpip offload components toe_stats display checksum offload statistics toe_stats_clear clear checksum offload statistics arpoe enable wpa role authe_sta_list get authenticated sta mac address list autho_sta_list get authorized sta mac address list measure_req send get txpwrindex phy_test_tssi wl phy_test_tssi val phy_test_tssi_offs wl phy_test_tssi_offs val phy_rssi_ant get rssi per antenna ip addresses arp_stats display arp offload statistics arp_stats_clear clear arp offload statistics wet get 15 bytes apname get ap name otpdump dump raw otp otpstat dump otp status nrate vo [] reinit reinitialize device sta_info wl sta_info cap driver capabilities malloc_dump deprecated first wme_counters print wmm stats wme_clear_counters clear wmm counters wme_tx_params wl wme_tx_params 2014 star 4 fork 2 code revisions 1 stars 4 forks 2 embed terms privacy security status help contact github pricing api training blog mac event reporting via packet indications counters return driver counter values delta_stats_interval set set probe response timeout channel_qa get last channel quality measurment channel_qa_start start get locc di dq ei eq fi fq values phytable usage send bcast magic frame -- wl wowl_pkt 102 bcast magic 00 phytype get phy type rateparam set driver rate selection tunables arg 1 wl nvotpw file bcmerrorstr errorstring freqtrack set frequency tracking mode x output format hexdecimal ver get version information cmds generate send ucast magic frame -- wl wowl_pkt 102 ucast 00 2050 radios txpwrlimit return current tx power limit powerindex set >= 6 wme_apsd_trigger set periodic apsd trigger frame timer timeout hex format msglevel set driver console debugging message bitvector type get wai restriction wai_rekey set rekey event cca_get_stats usage get sta list assertlog get external assert logs usage available phytypes shortslot get current 11g short slot timing mode wl pkt_filter_delete pkt_filter_stats retrieve packet filter statistic counter values apsd per ac wme_dp set ac queue discard policy awake promisc set promiscuous mode ethernet address reception 0 options -- lists existing pattern list add -- adds wl ampdu_send_delba ampdu_clear_dump clear ampdu counters dpt_deny adds list clr -- clear current list offset -- starting offset nvram variable revinfo get hardware revision information customvar1 print di dq ei eq fi fq wl dump malloc chan_info channel info add_ie add disable arp agent offload feature arp_ol get values phymsglevel set phy debugging message bitvector type current wep keys tsc print tx sequence couter set arp offload components arp_peerage get pkt_filter_clear_stats clear packet filter statistic counter values rm_rep get current radio measurement report join_pref set mac address wds_wpa_role_old get wds link local endpoint minutes arp_table_clear clear arp cache arp_hostip add set unassociated scan channel dwell time scan_home_time get disable tcpip offload feature toe_ol get set dtim wds_remote_mac get wds link remote endpoint stats wl smfstats [- c num ]|[-- cfg thresh1_40_hi dfs_status get dfs status interference get wl txfifo_sz pkteng_start start packet engine tx usage gets dpt friendly name dpt_list gets status tspec parameter input list cac_delts delete tspec set scan home channel dwell time scan_passive_time get channel quality measurment country select country code auth ]|[ assoc ]|[ reassoc ]|[ clear wl pkt_filter_stats seq_start initiates command batching sequence set passive scan channel dwell time scan_nprobes get shows last system wakeup setting wowl_pkt send transmitting frames sample_collect optional parameters htphy /( nphy disable dongle keep alive watchdog timer usage set ucode srch engine memory pkt_filter_add install 11i rsn capabilities set_pmk set passphrase send keep alive packet every 30 seconds set 11g short slot timing mode override current band manfinfo show chip package info values pm set driver power management mode provided chanim_state get channel interference state usage 11n device rxmcsset get receive mcs rateset wl pkt_filter_enable pkt_filter_list list installed packet filters set afterburner minimum rate threshold bss set get bss closed network attribute ap_isolate set set wireless ethernet bridging mode bi get shows last system wakeup event indications 11g short slot timing capable stas fast ps mode wake set driver power gets bdd friendly name actframe send 99 ]: dbm trigger value roam_delta set wl ssid [- c num ]|[-- cfg get eap restriction diag diag testindex list various suboptions srclear clears first wsec_test generate wsec errors wsec_test type recently received good plcp header plcphdr set wl otpw file nvotpw write nvram wlctl usage help · github skip wl pkteng_stop pkteng_stats packet engine stats batch bmac_reboot reboot bmac findserver used vo ....] lifetime set lifetime parameter set power output percentage toe enable sdio cis cisconvert print cis tuple set bt coex flags obss_scan_params set wsec wireless security bit vector 1 scan cache passive puts scan engine clone urls download zip hacking router wl keep_alive 30000 0x0014a54b164f000f66f45b7e08004500001e000040004011c52a0a8830700a88302513c413c4000a00000a0d srchmem g wl pkteng_start [( async )| sync input binary file ciswrite write specified b -- also write raw bytes curpower return current tx power settings wl dpt_endpoint dpt_pmk sets dpt pre set scan channel time scan_unassoc_time get wlctl usage help raw gistfile1 phy_rxiqest get phy rx iq noise wl wowl_pkt >[ magic [] set bt coex parameters btc_flags g set 11g protection mode control alg supported countries autocountry_default select country code 40 coexistence mangement action frame usage status ") status print information 11 mib counters staname get use per channel scanned prb_resp_timeout get personal 0 disable wpa wpa_cap set wl wowl_pkt 102 00 tsinfo octets cac_tspec_ea get specific tspec wl phytable table_id offset width_of_table_element nvram nvram_dump print nvram variables get overlapping bss scan parameters usage pkt_filter_mode set packet filter match action tid ampdu regular rate retry limit set wds link local endpoint wl ampdu_send_addba ampdu_send_delba send delba current hw address perm_etheraddr get wl cac_tspec 0xaa 0xbb 0xcc xx enable monitor set monitor mode 0 spaces around '=') nvget get start packet engine rx usage target tspec cac_delts_ea delete tspec best rate infra set infrastructure mode get ap isolation eap_restrict set 0 indicates continuous tx test src reboot reboot platform radio set sta rssi_event set parameters associated set protection mode control alg wl add_ie length oui hexdata csscantimer auto channel scan timer bit representing corresponding mcs list isup get driver operational state wl add_ie 3 10 00 lpphy_papdepstbl print papd eps table mac particular bssid mac address gmode_protection get g protection mode desired mac address cac_tslist get time antdiv set antenna diversity set 11g legacy erp inclusion txinstpwr return tx power based associated station info scblist ap set 11g protection mode override get temp power offset usage enable frameburst mode pwr_percent get clk set board clock state vendor proprietary ies rand get supspend automatic control phyreg get srwrite byteoffset value srcrc get radio txpwr set tx power authenticated stas assoclist ap wl del_ie length oui hexdata tsinfo cac_tspec get specific tspec get temp pa parameters usage wl del_ie 3 10 00 current mcs set chanspecs get wl cac_tspec 0xaa 0xbb 0xcc u output format unsigned integer enable wsec_restrict drop unencrypted packets wl mac none macmode set n dwell time per channel feature_mask radarthrs set radar threshold phy_txpwrindex core0_idx core1_idx core2_idx core3_idx clone via https clone specified hw address btc_params g supported fem set temp fem2g 0x3 ... wl povars wl 0x3 ... wl pavars wl 1x authorization succeeds deauthenticate deauthenticate 11n device mimo_ss_stf get wl measure_req measurement types 0x2 maxpower set temp maxp2g tx unicast antenna configuration urx without stbc capability mimo_txbw get tpc_period set ap tpc periodicity get wep status wepstatus wl cca_stats [- c channel rpi target mac addr format wl chanim_state channel valid channels 11h aps scanresults return results set frequency accuracy mode txmcsset get transmit mcs rateset probe responses del_ie delete auto contry discovery join join embedded device gmode set rx unicast antenna configuration dtx wl dpt_deny dpt_endpoint creates wl pkt_filter_clear_stats pkt_filter_enable enable clear selected management frame wds member mac addresses b ][ n ][ u 11h power constraint ie usage sdm )- w override mcs wl assertlog assert_bypass set sb ): macreg offset size mac address phy_txpwrindex usage magic packet bit 1 mac event reporting nvram variable nvram_get get dpt deny list usage txpwr1 set tx power wl actframe channel dwell scan type -- bss_type wme_apsd_sta set apsd parameters set ucode flags 1 ...] wme_apsd set apsd srclear srdump print contents pkteng_stop stop packet engine wl rand otpw write cc net 0 0x00904caabbcc note rssi event notification usage get bss enabled status disable mac address matching source mac address matches current rssi val set channel interference measure rifs mode advertisement status set interference mitigation mode shortslot capability ignore_bcns ap auth rsp bit 4 roam trigger rssi threshold 25 keep_alive send specified core0_idx core1_idx core2_idx core3_idxset probe rsp bit 2 proper mac address given wl pkteng_stats wowl enable antenna diversity txant set set antenna configuration set ap set ap mode get led behavior usage set carrier suppression mode disable ucode antenna diversity delta statistics interval get join target preferences 4c 0101050c121a03 list_ie dump set interference mitigation override share copy sharable link 255 ]) lrl set 2047 ]) srl set wl lpphy_papdepstbl rifs set comment © 2019 github list del -- removes b values phy_txlocc usage passive total per channel vendor specific action frame chip otp usage antgain set temp ag0 passive mode regulatory get retrograde tsf bit 4 save mode sleep state disable radar radarargs get probes per scanned channel dpt peers bdd_fname sets wme_ac wl wme_ac ap dynamically grant wds membership source mac address rxframes set regulatory domain mode pmkid table abminrate get tid ampdu retry limit wakeup event wowl_pattern usage output format signed integer 11h spectrum management mode set ss stf mode autochannel auto channel selection width trigger scan interval tunable value wepstatus set ctl sideband constraint send channel transition delay factor noise reduction interference_override get 3ae3d8bc56da312947af created jun 27 ...] wme_maxbw_params wl wme_maxbw_params wl acs_record dngl_wd enable b ]] roam_scan_period set otp chanim_acs_record get apsd trigger frame -- preview option allows within current locale ): best rate mrate force best rate bg_rate force best rate bg_mrate force best rate a_rate force best rate a_mrate force 11 bands phylist return gpiomask gpioval pcieserdesreg g auto channel scan record associated bssmax get number active total per channel suppress scans evm start pattern mask -- mask g mode ): check 1x authorization succeeds deauthorize assoc print information xx ...] lazywds set nvram authorize restrict traffic 11 management packets usage limitations use wl txpwr 255 ]) rate force application layer event_msgs set 255 ]) cwmax set 5 11 scan_channel_time get obss_coex_action send obss 20 country country code followed probe req bit 5 offset mask value ]]] enable eap restrict traffic enable active monitor mode wapi enabled auth set country abbreviation arg 2 stats wai_restrict set optimize distance [- 1 channels_in_country return valid channels assoc ") disassoc disassociate last interval assoc_info returns 1x authorization succeeds 0 roam candidate qualification delta instant tssi scansuppress suppress ampdu_activate_test actiate ampdu_tid enable set ap restriction quiet ): estimated power pattern value -- value antenna configuration txcore usage value pair rdvar read g gpio mux select 40 [- c country_abbrev wpa role wl country list bit hex filter bitmask tunable id arg 2 default value atten set automatic power save delivery reassoc rsp bit 3 scan scancache_clear clear 255 db rm_req request set scan parameter pattern matching filter ). associated mac addresses 11h channel switch anouncement disable wowl events 0 override disabled frameburst disable command batching sequence channels return valid channels wl msglevel ?' 11b band bands return n numeric token id delta statistics primary key addwep set deletes dpt endpoint nvram variable name wl country [] offset within received packets dump give suboption wake mode usage indications wowl_status usage channel <= 14 bandwidth restore defaults txpathpwr turn set station name least one rate must f file name beacons without nonerp element least one option must delivery enabled reassoc initiate shortslot capability 1 cac_addts add tspec ampdu_send_addba send addba professional 4 wpa short retry limit wl phymsglevel ?' shared key dpt_fname sets set radar parameters n dwell time 20mhz width req bit inactivity timeout value rx antenna selection dbm fqacurcy manufacturing test shared wpa_auth bitvector d11 cores clear tx path power noise get noise ap power control wl pkt_filter_add id wl mac xx list individual measurements feature_mask radarargs40 get wl wsec_test ?' monitor overlapping bss 64 hex digits long enable cur_etheraddr get ampdu_rr_retry_limit_tid set per ampdu_retry_limit_tid set per target tspec arg2 wl pkt_filter_mode value entire ethernet packet monitor local association set longtraining mode xx quiet send ip address bss power control wl wds xx get led_blink_sync usage q quarter dbm units 0 povars set interference mitigation 1 get table element bsses channel set wl constraint 1 instantly share code regulatory revision number disable rate limit space separated list wep enabled 2 wpa authorization modes enable 11d 4 srom nvram_source display fixed antenna selection tsinfo cac_tslist_ea get 11 authentication type none 2 wpa u sample collect duration sdio cis source negative pavars set current band auto frames per usp mac list severe chanim_mode get 216 cur_mcsset get 0x6 phy_antsel get wl rssi_event rate_limit wl maxpower maxp2ga0 wl antgain ag0 optional reason code wl dngl_wd 0 num seconds ][- basic rates arbitrary rateset channel scan result embed embed wireless multimedia extensions short list hex packet contents stdout srwrite write disable packet transmits wl mimo_ss_stf value restart restart driver driver operational region current network association antenna 0 1 wlan automatic 4 2 ], 2 wl povars cck2gpo wl pavars pa2gw0a0 wl keep_alive period k cck core mask 1 value usage vendor proprietary ie get association preference 11h aps 2 stdout nvset set set mimo txbw antenna 1 3 wl chanim_mode value c 11 options mac addresses long retry limit upper tssi get disable ap tpc inter packet gap antenna configuration drx given offset note optimize bandwidth 2 override values channel list mcs rates octets maximum name length nrev >= 7 iscanresults return results specified byte offset smfstats get dtim get wl tpc_period sign simple country setting wl tpc_mode 0 r legacy rate ssid must set set serdes registers set chanspec based automatic control manual arp entry scan iscan_c continue transmit antenna 0 tkip enabled 4 packet length nframes avoidance ledbh set wl rm_req cca 1 2 5 antenna numbers used channel number 1 upper dfs_channel_forced set sample collect mode c 6 cca 4g assoclistinfo ap valid values 16 bytes long 11h aps 3 c n channel packet filter test_types tkip_countermeasures enable wl wme_dp events bit 0 txfifo_sz set mac set c channel number active scan across cc magic -- optional count scan iscan_s initiate last scan driver must already pattern wowl_wakeind usage return format fixed multicast rate table width supplied mask => byte hex byte stream wl cac_tslist_ea ea 1 .. 3 0 ], 3 srom wrvar write 5g value usage band channel number specified network ssid rssi get deauth bit 3 wme set wme update without committing personal 64 wpa2 led ); precede 40 ctl sideband 32 hex digits 1 respectively query current antenna start matching ethernet frame 3 phy_txiqcc usage shared memory location given sta rifs status wds set current channel synchronous mode ipg auto || gonly netpattern frame starts current settings beacons bit 1 reassoc req example rates arbitrary mcsset arp_hostip_clear clear country code measurement specified uses 11h quiet command 11h measurement request match bit n support sta sleeping sta wl lifetime non wlan 2 restrict association based negate match result means automatically determine ip header interface still operates automatically selected based "( b )" supported ), 3 rf chain 0 crsuprs manufacturing test disable tkip countermeasures e bedeaf enable macreg get set channel wl pkt_filter_list antenna select wlan manual 3 matching tsinfo eg bss type wds mode current bss nphy buffer returned 20mhz [( uint16 wakeup frame -- home 0 ], gpio longtrain manufacturing test stop evm test 11g override auto ), 0xab power offset bb radio txctl1 fips enabled 0x100 0xaa 0xbb discard packet mode usage disable per passive dwell ofdm core mask byte random number 40mhz intolerate bit binary format 5 ghz band yet another form val mac addr 40mhz [( uint16 32 table id 1 per wlctl [- wl reassoc -- passive g phy ap mode network byte order b pretrigger duration allow scans 1 900sec }, default 14 valid channels 1000tu }, default 10000tu }, default channel usage infrastructure mode user specified id specifies whether aes cisdump display cis_source display c active core hide pmkid_info returns srom read ), tid ampdu 1 wpa driver defaults wl country web address permanent address rate limit csa send home channel pa parameters bssid get receive frames p parallel flag hacking router b mac 15 automatic selection hex usage wl fem wl cac_tslist 11a band b legacy format ssid set measurement set -- ssid resp information space separated ). driver must driver eg 2g bandwidth n -- channels one band range dump arguments contain wapi tx default 100 }, default 100 %}, default packet contents specified key index mac bssid ethernet header value usage lower ), 3 may join non -- chanspecs optional parameters active dwell type basic reset hardware plcp header pkt_filter_delete uninstall mac registers last iscan constantly awake bit 2 arg 2 radar enable wds_wpa_role get ucflags get spect get shortslot_restrict get shortslot_override get shmem get radioreg get protection_control get pktcnt get legacy_erp get gmode_protection_override get gmode_protection_control get get index get 802 get 128 delta_stats get wl wme_apsd_sta wl txcore wl rifs wl quiet wl obss_coex_action wl assert_bypass wl ampdu_tid -- bssid otp link due 16 bytes -- active enable u sync mode stf mode professional 128 wpa2 available bands rx 0 table offset c channel seq_delay driver driver goes driver attach clear ledbh set led_blink_sync set long name disable 1 sta hex pattern configure time optional rate cis source aes enabled 8 transmit power trigger condition reset_d11cnts reset 802 remote server reinitialize keys prints [[ add country specified roam_trigger get wl ampdu_rr_retry_limit_tid wl ampdu_retry_limit_tid arg 1 bit 0 given name disable regulatory wowl_bcn_loss set set using set age set 802 rifs_advert set primary_key set gpioout set eventing set closednet set chanspec set assoc_pref set dbm ): -- scan_type -- nprobes disable 11h tsinfo octets github sign value 0 scan initiate wl wowl_pattern wl ledbh wl led_blink_sync enabled ap fixed rate radio measurement phy register gpio mode c 1 channel number vo return error assoc req xx ...] desired tsinfo packet periodically variable number noise reduction adapter name infra bss ), 2 timeout closed hides activity threshold ea usage list channel scans tpc_mode enable wl wowl_bcn_loss wl rifs_advert wl obss_scan wl assoc_pref power offsets band ): supported rateset optional arg fqacurcy arg cwmin set 1x packets enabled filters given channel 5 g 54g mode restrict traffic auto switch null frame message first display ac tssi value dev offset incremental scan cisupdate write txt usage prng usage chipcommon usage none 1 40mhz channel rx default basic rate siso phy various units b c enabled 0 bit n evm test forward packet rssi levels mcs index gives rssi artificially limit enabled arg send new channel channel scanning scb_timeout ap key length valid within named variable measurement types disabled filters ctl sideband available commands available 802 also known 0x3 maxp5gla1 wme_autotrigger enable ucantdiv enable downsample enable wlan automatic hex bitmask b band bssid value valid channels default 1 crsuprs arg default 0 force use 5 11 ibss mode ofdm )- gpio nphy specify channel 0 cck [- h country definition valid chanspecs sample collect longtrain arg g )) radio register event c cores results buffer w bandwidth dat ") default 10 disable sending passive scanning join non slowtimer deprecated rts deprecated glacialtimer deprecated frag deprecated fasttimer deprecated chanlist deprecated remove override imode bss received beacons dbm units x without argument version starting restrict association measurement starts managed 1 deny association clr association request [] (- 1 n n given id get pattern '. configure pattern configuration index 20 c use channels bytes specified ea n number 4c 0101050c121a03 type rateset returns tx rpi specify l2 unicast 11g 100 b driver p n 4 band returns removes ea received payload c cl packets crosses indicates basic basic rateset bad packets 3 ". n duration time specific built sample buffer udp header seq_error_index used rf must retrieve mac legal rateset keep integer [, failed within empty rateset customvar1 command descriptions command description beacon interval b )]' allow association alive add [-- preview active scans key size key must 11d ). 4ghz band recommend channels set c l short frame default ). github choose one 14 returns ), ofdm wpa num cl chanspecs 20mhz upper 20 f phy enabled arg1 11h spec 6 packet 2b 5 transmit attenuation format active scanning use slow_timer use rtsthresh use glacial_timer use fragthresh use fast_timer txfifo size sample_collect perform match htphy events posted chanspec selected cards must asset_bypass flag another tab 0x2 pdetrange5g 0x2 pdetrange2g 0x2 pa2gw2a0 0x2 mcs2gpo 0x2 maxp5ga0 wl encryption key core1 ), core0 ), 7 ), anyone ). 63 ). power posttrigger duration h n default 1000 mode core adc transmission period srom image optionally followed maximum timout maximum 8 longtrain syntax ignore beacons gpio pins examine beacons wsec options bt offset suprates returns scan usage must specify bitmask corresponds action 50 cca milliwatt units dest ea 40mhz dup rssi mcs [- key len 60 ). beacon period channel default 60 ap 2 rate wifi protocol wakeup upgrade upgrade udp payload thresh1_40_lo thresh0_20_hi svn using subsequent ioctls strict interpretation software 0x80 show set_clk attempt send_nulldata sed roam_delta rmwep remove resident supplicant ps moving average minutes mark adapter loose interpretation iso 3166 indicated amount increasing order good gists back freqacuracy syntax encryption algorithm e ...; dualband cards discard carriersuprs syntax bi batched commands assoication attempt 84 ]. 0xff maxp5gla0 0xff maxp5ga1 0xcc 0x5 maxp5gha1 0x4 maxp5gha0 0x1 triso5g 0x1 triso2g 0x1 pa2gw1a0 0x1 ofdm2gpo 0x1 maxp2ga1 0x1 extpagain5g 0x1 extpagain2g 0x1 antswctl5g 0x1 antswctl2g 0x1 ag1 enable either srom sets core1 adc core0 adc g radio 1024 us stas setting seconds memory hw 40mhz bw disable passive specific associated override bss src seq_stop defines repository ’ queued ioctls previous unless nphy max 8188 include ihr gpios would frames ccm encryption amode open 40 200 e 16 bits 1 0 pattern configuration bit u supported network assoc force us len phy_txpwrindex join dbm auto value unicast tid beacon loss 11 10 received 1x specified 11h c l comma xx tsinfo test 3 used tpc table sync stbc ssid save rateset optional operational net measurement match integer infra indicates ie command clock b band channels source one shared rates none n enabled wapi w stop cc 64 5 transmit number long core active use turn size signed selected rxframes q probes phy_txlocc must k initiate del cwmax application addwep 20mhz 14 11b key scans duration default wpa2 wowl_pattern wme uint16 tkip srom space gpio followed disabled cck beacons aes 4c 32 returns given upper non cca bitmask 20 100 units basic 40mhz wowl_wakeind wowl_status user sign reset range phy_txiqcc order nrev nframes netpattern may lower iscanresults ipg index example e count chanspec bb arguments already 802 8 7 5g 2g 16 128 11a specify beacon adc us len l h 60 ’ would spec siso seq_stop roam_trigger queued previous posted perform open null max loss include ibss forward error either cwmin comma ccm bw built bits 200 xxxxx wpapsk wpanone wpa2psk window website wakup vi utx updates txop tus tssipos5g tssipos2g thresh1_20_lo thresh1_20_hi thresh1 thresh0_40_lo thresh0_40_hi thresh0_20_lo thresh0 testing table_element t2_min summary streams stations st_level_time st ssids sprom spin snippets smf sharedkey sfb session series secs samples rxtimeout rssi_levels right review revert reload refresh quant psk propogated process present polarity pmk performance percal_mask pci otherwise opensystem openshared omitted oldest old ocb num_seconds num_bytes nskip_rst_lp npulses_stg3 npulses_stg2 npulses_lp npulses_fra npulses notx notes newest ncontig msec ms min_pw_lp min_pw min_fm_lp min_deltat min_burst_intv_lp milliwatts milliseconds milli mcs32 mbps max_span_lp max_rate max_pw_tol max_pw_lp max_pw max_deltat max_burst_intv_lp matiasow lrs loopback limited like lfb level legacyb learn lazy keytype issue iqcc interrupt inc host good_fcs git gist germany free fra_pulse_err follow folded fmdemodcfg firmware find filled executed even etc end ecwmin ecwmax dual diver disassociation detection decimal debug de curband crs_glitch crs_deassert crs creation crc conversation context content configuraion combined cmd choices checkout chanim cdd caution cam buflen blank bk bdeferred bandlocked bad_plcp bad_fcs averages autocorr assumed associations assigned args always aifsn adhoc addition acm account accepted acceptable aa a1 a0 90 9 85 70 5gl 5gh 56 54 52 48 44 36 31 300 26 256 254 24 224 212 208 204 196 192 188 184 18 161 157 153 149 140 136 132 13 124 120 12 116 112 10us 108 104 '/'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "vendors": [
+    "variable",
+    "star"
+  ],
+  "device_types": [
+    "router",
+    "switch",
+    "tracking"
+  ],
+  "products": [
+    "ae3d8bc56da312947af",
+    "customvar1",
+    "thresh1",
+    "x0014a54b164f000f66f45b7e08004500001e000040004011c52a0a8830700a88302513c413c4000a00000a0d",
+    "gistfile1",
+    "core0",
+    "core1",
+    "core2",
+    "core3",
+    "fem2g",
+    "x3",
+    "x2",
+    "maxp2g",
+    "txpwr1",
+    "x00904caabbcc",
+    "core3",
+    "c121a03",
+    "ag0",
+    "ae3d8bc56da312947af",
+    "d11",
+    "radarargs40",
+    "arg2",
+    "x6",
+    "maxp2ga0",
+    "cck2gpo",
+    "pa2gw0a0",
+    "wpa2",
+    "uint16",
+    "txctl1",
+    "x100",
+    "d11cnts",
+    "maxp5gla1",
+    "l2",
+    "arg1",
+    "pdetrange5g",
+    "pdetrange2g",
+    "pa2gw2a0",
+    "mcs2gpo",
+    "maxp5ga0",
+    "core1",
+    "core0",
+    "thresh1",
+    "thresh0",
+    "x80",
+    "maxp5gla0",
+    "maxp5ga1",
+    "x5",
+    "maxp5gha1",
+    "x4",
+    "maxp5gha0",
+    "x1",
+    "triso5g",
+    "triso2g",
+    "pa2gw1a0",
+    "ofdm2gpo",
+    "maxp2ga1",
+    "extpagain5g",
+    "extpagain2g",
+    "antswctl5g",
+    "antswctl2g",
+    "ag1",
+    "wpa2psk",
+    "tssipos5g",
+    "tssipos2g",
+    "thresh1",
+    "thresh1",
+    "thresh1",
+    "thresh0",
+    "thresh0",
+    "thresh0",
+    "thresh0",
+    "t2",
+    "stg3",
+    "stg2",
+    "mcs32",
+    "a1",
+    "a0"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

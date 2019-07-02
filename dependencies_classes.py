@@ -1,0 +1,5 @@
+A = 'V.D.P'
+B = '.VDP.'
+C = 'VD.P'
+D = 'VP.D'
+E = '.VPD.'

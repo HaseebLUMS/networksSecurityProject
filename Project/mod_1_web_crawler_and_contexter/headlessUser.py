@@ -70,12 +70,12 @@ def performSearch(words):
             try: #if no next then return
                 browser.find_element_by_xpath("//*[contains(local-name(), 'span') and contains(text(), 'Next')]").click()
             except:
+                print(urls)
                 return urls
         except:
             pass
     browser.quit()
-    if len(urls):
-        print('urls fetched')
+    print(urls)
     return urls
 
 

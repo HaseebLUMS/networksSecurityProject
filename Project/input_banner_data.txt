@@ -1,1 +1,1 @@
-220 FTP print service:V-1.13/Use the network password for the ID if updating.
+220 MikroTik FTP server (MikroTik 6.42.11) ready

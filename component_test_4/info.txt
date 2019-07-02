@@ -1,9 +1,0 @@
-Query: 20 Bproperty-Mirpur FTP server (MikroTik 6.43.8) ready
-Processed Query: mirpur ftp server mikrotik 6 20 bproperty ready 8 43
-
-https://mikrotik.com/download/changelogs
-
-Brand:  MIKROTIK
-Device:  ROUTER
-Product Number:  rb2011
-Execution Time:  14.6694655418396

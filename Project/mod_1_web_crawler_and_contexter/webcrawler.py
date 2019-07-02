@@ -117,13 +117,15 @@ def create_output():
 
 	for url in URLs:
 		try:
-			if page_limit:
+			if page_limit > 0:
 				text = getText(url)
 				with open('raw.txt', 'a+') as f:
+					f.write("\n\n\n\n\n\n\n================= "+url + " ==================\n\n\n\n\n\n")
 					f.write(text)
 
 				with open('output.txt', 'a+') as f:
 					text = refine_query(text, 2) #using the refining funtion
+					f.write("\n\n\n\n\n\n\n================= "+url + " ==================\n\n\n\n\n\n")
 					f.write(text)
 					print(url, " : success")
 
@@ -158,8 +160,6 @@ def refine_query(q, mode):
 		if mode == 1:
 			if k.isdigit():
 				continue
-			if not k.isalnum():
-				continue
 		res += (" " + k)
 	return res
 
@@ -188,7 +188,7 @@ def main():
 
 	if res2 > 1:
 		findURLs(res)
-		for url in URLs: print(url)
+		# for url in URLs: print(url)
 		is_written = create_output()
 	else:
 		with open('raw.txt', 'w') as f:
