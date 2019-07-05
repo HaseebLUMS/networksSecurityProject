@@ -1,0 +1,499 @@
+Raw Data: 
+220 HAEWOO1 FTP server ready.
+Refined:  220 haewoo1 ftp server ready
+
+============================https://en.wikipedia.org/wiki/List_of_FTP_server_return_codes===============================
+
+List of FTP server return codes - Wikipedia
+List of FTP server return codes
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+FTP server return codes always have three digits, and each digit has a special meaning.[1] The first digit denotes whether the response is good, bad or incomplete:
+Range
+Purpose
+1xx
+Positive Preliminary reply
+The requested action is being initiated; expect another reply before proceeding with a new command.
+(The user-process sending another command before the completion reply would be in violation of protocol; but server-FTP processes should queue any commands that arrive while a preceding command is in progress.)
+This type of reply can be used to indicate that the command was accepted and the user-process may now pay attention to the data connections, for implementations where simultaneous monitoring is difficult.
+The server-FTP process may send at most, one 1xx reply per command.
+2xx
+Positive Completion reply
+The requested action has been successfully completed.
+A new request may be initiated.
+3xx
+Positive Intermediate reply
+The command has been accepted, but the requested action is being held in abeyance, pending receipt of further information.
+The user should send another command specifying this information.
+This reply is used in command sequence groups.
+4xx
+Transient Negative Completion reply
+The command was not accepted and the requested action did not take place, but the error condition is temporary and the action may be requested again.
+The user should return to the beginning of the command sequence, if any. It is difficult to assign a meaning to "transient", particularly when two distinct sites (Server- and User-processes) have to agree on the interpretation. Each reply in the 4xx category might have a slightly different time value, but the intent is that the user-process is encouraged to try again.
+A rule of thumb in determining if a reply fits into the 4xx or the 5xx (Permanent Negative) category is that replies are 4xx if the commands can be repeated without any change in command form or in properties of the User or Server (e.g., the command is spelled the same with the same arguments used; the user does not change his file access or user name; the server does not put up a new implementation.)
+5xx
+Permanent Negative Completion reply
+The command was not accepted and the requested action did not take place.
+The User-process is discouraged from repeating the exact request (in the same sequence).
+Even some "permanent" error conditions can be corrected, so the human user may want to direct his User-process to reinitiate the command sequence by direct action at some point in the future (e.g., after the spelling has been changed, or the user has altered his directory status.)
+6xx
+Protected reply
+The RFC 2228 introduced the concept of protected replies to increase security over the FTP communications. The 6xx replies are Base64 encoded protected messages that serves as responses to secure commands. When properly decoded, these replies fall into the above categories.
+The second digit is a grouping digit and encodes the following information:
+Range
+Purpose
+x0x
+Syntax
+These replies refer to syntax errors, syntactically correct commands that don't fit any functional category, unimplemented or superfluous commands.
+x1x
+Information
+These are replies to requests for information, such as status or help.
+x2x
+Connections
+Replies referring to the control and data connections.
+x3x
+Authentication and accounting
+Replies for the login process and accounting procedures.
+x4x
+Unspecified as of RFC 959.
+x5x
+File system
+These replies indicate the status of the Server file system vis-a-vis the requested transfer or other file system action.
+Below is a list of all known return codes that may be issued by an FTP server.
+Code
+Explanation
+100 Series
+The requested action is being initiated, expect another reply before proceeding with a new command.
+110
+Restart marker replay . In this case, the text is exact and not left to the particular implementation; it must read: MARK yyyy = mmmm where yyyy is User-process data stream marker, and mmmm server's equivalent marker (note the spaces between markers and "=").
+120
+Service ready in nnn minutes.
+125
+Data connection already open; transfer starting.
+150
+File status okay; about to open data connection.
+200 Series
+The requested action has been successfully completed.
+202
+Command not implemented, superfluous at this site.
+211
+System status, or system help reply.
+212
+Directory status.
+213
+File status.
+214
+Help message. Explains how to use the server or the meaning of a particular non-standard command. This reply is useful only to the human user.
+215
+NAME system type. Where NAME is an official system name from the registry kept by IANA.
+220
+Service ready for new user.
+221
+Service closing control connection.
+225
+Data connection open; no transfer in progress.
+226
+Closing data connection. Requested file action successful (for example, file transfer or file abort).
+227
+Entering Passive Mode (h1,h2,h3,h4,p1,p2).
+228
+Entering Long Passive Mode (long address, port).
+229
+Entering Extended Passive Mode (|||port|).
+230
+User logged in, proceed. Logged out if appropriate.
+231
+User logged out; service terminated.
+232
+Logout command noted, will complete when transfer done.
+234
+Specifies that the server accepts the authentication mechanism specified by the client, and the exchange of security data is complete. A higher level nonstandard code created by Microsoft.
+250
+Requested file action okay, completed.
+257
+"PATHNAME" created.
+300 Series
+The command has been accepted, but the requested action is on hold, pending receipt of further information.
+331
+User name okay, need password.
+332
+Need account for login.
+350
+Requested file action pending further information
+400 Series
+The command was not accepted and the requested action did not take place, but the error condition is temporary and the action may be requested again.
+421
+Service not available, closing control connection. This may be a reply to any command if the service knows it must shut down.
+425
+Can't open data connection.
+426
+Connection closed; transfer aborted.
+430
+Invalid username or password
+434
+Requested host unavailable.
+450
+Requested file action not taken.
+451
+Requested action aborted. Local error in processing.
+452
+Requested action not taken. Insufficient storage space in system.File unavailable (e.g., file busy).
+500 Series
+Syntax error, command unrecognized and the requested action did not take place. This may include errors such as command line too long.
+501
+Syntax error in parameters or arguments.
+502
+Command not implemented.
+503
+Bad sequence of commands.
+504
+Command not implemented for that parameter.
+530
+Not logged in.
+532
+Need account for storing files.
+534
+Could Not Connect to Server - Policy Requires SSL
+550
+Requested action not taken. File unavailable (e.g., file not found, no access).
+551
+Requested action aborted. Page type unknown.
+552
+Requested file action aborted. Exceeded storage allocation (for current directory or dataset).
+553
+Requested action not taken. File name not allowed.
+600 Series
+Replies regarding confidentiality and integrity
+631
+Integrity protected reply.
+632
+Confidentiality and integrity protected reply.
+633
+Confidentiality protected reply.
+10000 Series
+Common Winsock Error Codes[2] (These are not FTP return codes)
+10054
+Connection reset by peer. The connection was forcibly closed by the remote host.
+10060
+Cannot connect to remote server.
+10061
+Cannot connect to remote server. The connection is actively refused by the server.
+10066
+Directory not empty.
+10068
+Too many users, server is full.
+See also[edit]
+List of FTP commands
+List of HTTP status codes
+References[edit]
+^ RFC 959
+^ Windows Socket Error Codes, Microsoft Windows Dev Center
+vteError messagesSystem failure
+Bomb icon
+Fatal system error
+Guru Meditation
+Kernel panic
+Linux kernel oops
+Red Ring of Death
+Sad Mac
+Screen of death
+Blue
+Black
+Application failure
+ABEND
+Fatal exception error
+Segmentation fault
+Device and data errors
+HTTP 403
+HTTP 404
+lp0 on fire
+Not a typewriter
+PC LOAD LETTER
+Other
+Abort, Retry, Fail?
+Bad command or file name
+Halt and Catch Fire
+HTTP 418
+Out of memory
+Lists
+List of HTTP status codes
+List of FTP server return codes
+Related
+Spinning pinwheel
+Windows wait cursor
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_FTP_server_return_codes&oldid=867840585"
+Categories: Computer errorsFile Transfer ProtocolInternet-related listsHidden categories: Pages using RFC magic links
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+ArticleTalk
+Variants
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store
+Interaction
+HelpAbout WikipediaCommunity portalRecent changesContact page
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+Languages
+Français日本語РусскийУкраїнська
+Edit links
+This page was last edited on 8 November 2018, at 10:10 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 HAEWOO1 FTP server ready.
+Refined:  220 haewoo1 ftp server ready
+
+============================https://en.wikipedia.org/wiki/List_of_FTP_server_return_codes===============================
+
+ microsoft windows dev center vteerror messagessystem failure bomb icon fatal system error guru meditation kernel panic linux kernel oops red ring death blue black application failure abend fatal exception error segmentation fault device ftp server return codes related spinning pinwheel windows wait cursor retrieved wikipediawikipedia store interaction helpabout wikipediacommunity portalrecent changescontact page tools wikipedia disclaimers contact wikipedia developers cookie statement mobile view pages using rfc magic links navigation menu personal tools links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite 229 entering extended passive mode (||| port |). search navigation main pagecontentsfeatured contentcurrent eventsrandom articledonate data errors http 403 http 404 lp0 namespaces articletalk variants views readeditview history pdfprintable version languages français日本語русскийукраїнська edit links 10000 series common winsock error codes search ftp server return codes always range purpose 1xx positive preliminary reply policy requires ssl 550 requested action windows socket error codes 228 entering long passive mode higher level nonstandard code created one 1xx reply per command 125 data connection already open 227 entering passive mode integrity 631 integrity protected reply 250 requested file action okay death sad mac screen 600 series replies regarding confidentiality 552 requested file action aborted 350 requested file action pending password 434 requested host unavailable 4xx transient negative completion reply 221 service closing control connection 5xx permanent negative completion reply ftp server return codes http status codes references g ., file busy ). range purpose x0x syntax 500 series syntax error 2xx positive completion reply 3xx positive intermediate reply code explanation 100 series typewriter pc load letter slightly different time value http status codes list catch fire http 418 base64 encoded protected messages 110 restart marker replay 226 closing data connection 225 data connection open 551 requested action aborted 451 requested action aborted 450 requested file action requested file action successful 150 file status okay 633 confidentiality protected reply server file system vis 232 logout command noted 215 name system type first digit denotes whether send another command specifying computer errorsfile transfer protocolinternet process data stream marker ftp process may send ftp return codes 331 user name okay x2x connections replies referring additional terms may apply process sending another command known return codes human user may want 501 syntax error file system action related listshidden categories integrity protected reply x5x file system open data connection 211 system status system help reply microsoft completion reply would official system name rfc 2228 introduced 553 requested action 452 requested action closing control connection expect another reply transient ", particularly may include errors g ., file 6xx protected reply 213 file status 10054 connection reset page type unknown file name halt two distinct sites insufficient storage space https :// en exceeded storage allocation creative commons attribution 8 november 2018 430 invalid username 426 connection closed ftp commands list 220 service ready 120 service ready information 400 series 532 need account 332 need account 212 directory status memory lists list navigation jump logged intalkcontributionscreate accountlog free encyclopedia jump authentication mechanism specified 214 help message 10061 cannot connect 10060 cannot connect directory status .) local error error conditions error condition syntactically correct commands 231 user logged 230 user logged command sequence groups 4xx category might file abort ). ftp server new request may new implementation .) requested action port ). 503 bad sequence syntax errors wikipedia list file unavailable data connections rfc 959 permanent negative wikipedia ® action may g ., need password file name ftp communications privacy policy protected replies requested transfer transfer aborted security data server accepts remote server page print reply fits 300 series 200 series process may 632 confidentiality human user ftp processes file transfer remote host pending receipt file access user name equivalent marker mmmm server direct action new user new command command sequence using system sequence ). inc ., 6xx replies service terminated service knows 421 service return long address wikipedia standard command preceding command command unrecognized command line command form bad command 504 command 502 command 202 command x3x authentication utc ). particular implementation p2 ). forcibly closed dataset ). current directory access ). 10066 directory replies refer replies fall accounting replies login process second digit grouping digit secure commands progress .) transfer starting transfer done x4x unspecified x1x information wikimedia foundation three digits take place storing files simultaneous monitoring sharealike license see also repeated without registry kept registered trademark properly decoded profit organization pay attention nnn minutes must shut must read many users last edited increase security functional category following information export create exact request actively refused accounting procedures 534 could 234 specifies replies indicate requested server page reply superfluous commands successfully completed special meaning particular non mark yyyy edit connection status created control arguments used 5xx 4xx may process name type permanent long user list command vis terms logged fire replies help connect digit commands transfer information category categories bad abort yyyy used superfluous progress processes non mmmm meaning login indicate exact direct completed arguments w violation useful use unimplemented try title thumb text temporary taken spelling spelled spaces site serves rule retry responses response requests repeating reinitiate queue put protocol properties processing proceeding proceed point php peer pathname parameters parameter p1 org oldid note markers list_of_ftp_server_return_codes left issued interpretation intent initiated index incomplete implemented implementations iana hold held h4 h3 h2 h1 good future full found fit fail explains exchange example even encouraged encodes empty e discouraged difficult determining corrected concept complete client changed change case bookdownload beginning available assign arrive appropriate altered allowed agree accepted abeyance 867840585 530 425 257 2 10068 10 1 "=").
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "microsoft",
+    "exact"
+  ],
+  "device_types": [],
+  "products": [
+    "haewoo1",
+    "lp0",
+    "x0x",
+    "base64",
+    "x2x",
+    "x5x",
+    "x3x",
+    "p2",
+    "x4x",
+    "x1x",
+    "p1",
+    "h4",
+    "h3",
+    "h2",
+    "h1"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 HAEWOO1 FTP server ready.
+Refined:  220 haewoo1 ftp server ready
+
+============================https://www.smartftp.com/static/forums/14/11324/error-220ftp-server/===============================
+
+Error 220-FTP Server - SmartFTP Forums
+SmartFTP Home » SmartFTP Forums » Peer to Peer Technical Support
+Error 220-FTP Server
+Greyson Fauchard
+2006-06-19 01:01:08
+Hi, I haven't been able to connect to anything at all, and I've been wondering about something - I know the 530 error is that the ID or Password (or both) are invalid, but I've double-checked and the admin told me everything's fine - he even changed my password just in case something got messed up. EDIT - He has no trouble logging in under my name and password either.
+However, when I looked at the log, I saw this:
+[09:52:44] Resolving host name "subscriber.downloadanime.org"
+[09:52:44] Connecting to 66.207.171.100 Port: 21
+[09:52:44] Connected to subscriber.downloadanime.org.
+[09:52:44] Error:
+220-FTP Server (user '548658')
+[09:52:44] 220
+[09:52:44] USER greysonfauchard@yahoo.com
+[09:52:44] 331-Password:
+[09:52:44] 331
+[09:52:44] PASS (hidden)
+[09:52:44] 530
+[09:52:44] Active Help: https://www.smartftp.com/support/kb/51
+[09:52:44] Cannot login waiting to retry (30s)...
+[09:52:44] An established connection was aborted by the software in your host machine.
+[09:52:44] Server closed connection
+Is this 220 error the problem then, because it's an entirely different user ID for something else entirely, and looking at the other logs I've seen on here, it seems that it's supposed to say 220 FTP Ready, or something.
+Thanks for any help you can give me.
+Mike
+2006-06-20 07:52:35
+For me it works with anonymous login
+[09:50:58] SmartFTP v2.0.996.31
+[09:50:58] Resolving host name "subscriber.downloadanime.org"
+[09:50:58] Connecting to 66.207.171.100 Port: 21
+[09:50:59] Connected to subscriber.downloadanime.org.
+[09:50:59] 220 Negotiating Login Credentials
+...
+[09:50:59] USER anonymous
+[09:51:00] 331 Password required for anonymous.
+[09:51:00] PASS (hidden)
+[09:51:00] 230-Welcome Anonymous!
+[09:51:00]
+Uptime: 07d05:33:50
+[09:51:00]
+Current BW: 3.344 MBytes/s; # online: 32
+[09:51:00] 230 You have been Authenticated.
+[09:51:00] SYST
+[09:51:00] 215 UNIX Type: L8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 HAEWOO1 FTP server ready.
+Refined:  220 haewoo1 ftp server ready
+
+============================https://www.smartftp.com/static/forums/14/11324/error-220ftp-server/===============================
+
+ smartftp forums smartftp home » smartftp forums » peer 220 negotiating login credentials ... peer technical support error 220 ftp server greyson fauchard 2006 say 220 ftp ready case something got messed entirely different user id cannot login waiting something else entirely https :// www 215 unix type server closed connection smartftp v2 resolving host name ftp server 331 password required smartftp error 220 220 error mike 2006 anonymous login host machine established connection user greysonfauchard user anonymous trouble logging password either even changed current bw admin told 548658 ') 344 mbytes 30s )... 20 07 100 port 08 hi 530 error welcome anonymous active help 19 01 220 support something id error user password name 331 anonymous help 530 01 yahoo works wondering uptime thanks syst supposed subscriber software seen seems saw retry problem pass org online looking looked logs log l8 know kb invalid however hidden give fine everything edit downloadanime double connecting connected connect com checked authenticated anything aborted able 996 66 59 58 52 51 50 44 35 33 32 31 3 230 21 207 171 09 07d05 06 00 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": [
+    "haewoo1",
+    "error-220ftp",
+    "v2",
+    "l8",
+    "d05"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

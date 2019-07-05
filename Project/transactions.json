@@ -321,5 +321,28 @@
         "updating",
         "id",
         "STAR | WATCH"
+    ],
+    "59": [
+        "ready",
+        "TEAM | WATCH"
+    ],
+    "60": [
+        "ready",
+        "MIKROTIK | ROUTER | x86"
+    ],
+    "61": [
+        "MIKROTIK | ROUTER"
+    ],
+    "62": [
+        "MIKROTIK | ROUTER"
+    ],
+    "63": [
+        ""
+    ],
+    "64": [
+        ""
+    ],
+    "65": [
+        ""
     ]
 }

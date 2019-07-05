@@ -1,1 +1,1 @@
-220 MikroTik FTP server (MikroTik 6.42.11) ready
+220 Welcome to ASUS RT-AC58U FTP SERVICE

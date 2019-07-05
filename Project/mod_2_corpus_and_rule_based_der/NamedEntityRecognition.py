@@ -17,8 +17,10 @@ import os
 import sys
 
 file = sys.argv[1]
+rawData = sys.argv[4] #rawdata for finding intact product numbers
 
 with open(file, 'r') as f: sample = f.read()
+with open(rawData, 'r') as f: rawData = f.read()
 
 
 
@@ -85,13 +87,10 @@ Finds product names by
 matching possible candidates with
 a regular expression
 '''
-def find_pattern(words):
-
-	inp = ''
-	for w in words: inp += (w + ' ')
+def find_pattern(rawData):
 	import re
 	p = re.compile("[A-Za-z]+[-]?[A-Za-z]*[0-9]+[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
-	return p.findall(inp)
+	return p.findall(rawData)
 
 
 '''
@@ -117,7 +116,7 @@ def main():
 	#print('Vendor: ', vendors[0])
 	#print('Device: ', device_types[0])
 	# print('may be ', vendors[0], device_types[0])
-	products = find_pattern(frequency_table.keys())
+	products = find_pattern(rawData)
 	prediction = {'vendors': vendors, 'device_types' : device_types, 'products': products}
 
 	import json

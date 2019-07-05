@@ -72,11 +72,13 @@ def run_files():
 	if move:
 		comm = 'cp output.txt mod_2_corpus_and_rule_based_der/Output/output.txt'
 		os.system(comm)
+		comm = 'cp raw.txt mod_2_corpus_and_rule_based_der/raw.txt'
+		os.system(comm)
 
 
 	if move:
 		try:
-			comm = 'python3 mod_2_corpus_and_rule_based_der/NamedEntityRecognition.py mod_2_corpus_and_rule_based_der/Output/output.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types'
+			comm = 'python3 mod_2_corpus_and_rule_based_der/NamedEntityRecognition.py mod_2_corpus_and_rule_based_der/Output/output.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types mod_2_corpus_and_rule_based_der/raw.txt'
 			os.system(comm)
 		except:
 			move = False

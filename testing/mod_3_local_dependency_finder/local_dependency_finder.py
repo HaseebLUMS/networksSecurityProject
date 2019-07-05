@@ -78,8 +78,8 @@ def find_dependency(text, vendors, device_types):
 			# 	ans_ven = v
 			# 	ans_dev = d
 	
-	# print(anns)
-	return anns[0]
+	print(anns)
+	return anns
 
 
 '''
@@ -106,6 +106,13 @@ def find_product(text, a, b, tags):
 	return ans_prod
 
 
+
+
+def find_product(file):
+	import re
+	p = re.compile("[A-Za-z]+[-]?[A-Za-z]*[0-9]+[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
+	return p.findall(file)
+
 '''
 Finds Local Dependecies between possible
 annotations and prints results
@@ -115,39 +122,41 @@ def main():
 	global file
 	global vendors
 	global device_types
-	global products
 
+	products = find_product(file)
+	
 	text = linefyText(file)
 	predicted_label = {}
 	try: predicted_label = find_dependency(text, vendors, device_types)
 	except: pass
 	
+	ans = json.dumps(predicted_label)
 	
-	ans = ""
-	try:
-		# print('Brand: ', predicted_label['vendor'].upper())
-		ans = predicted_label['vendor'].upper() + " | "
-	except:
-		pass
+	# ans = ""
+	# try:
+	# 	# print('Brand: ', predicted_label['vendor'].upper())
+	# 	ans = predicted_label['vendor'].upper() + " | "
+	# except:
+	# 	pass
 
 	
-	try:
-		# print('Device: ', predicted_label['device_type'].upper())
-		ans = ans + predicted_label['device_type'].upper()
-	except:
-		pass
+	# try:
+	# 	# print('Device: ', predicted_label['device_type'].upper())
+	# 	ans = ans + predicted_label['device_type'].upper()
+	# except:
+	# 	pass
 
-	try:
-		predicted_product = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
-	except:
-		pass
+	# try:
+	# 	predicted_product = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
+	# except:
+	# 	pass
 
-	try:
-		if predicted_product and (predicted_product is not ''):
-			# print('Product Number: ', predicted_product)
-			ans =  ans + " | " + predicted_product
-	except:
-		pass	
+	# try:
+	# 	if predicted_product and (predicted_product is not ''):
+	# 		# print('Product Number: ', predicted_product)
+	# 		ans =  ans + " | " + predicted_product
+	# except:
+	# 	pass	
 	
 	with open('annotation.txt', 'w') as f:
 		f.write(ans)

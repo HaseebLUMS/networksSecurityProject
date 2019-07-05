@@ -1,0 +1,1394 @@
+Raw Data: 
+220 rb edvsa brm FTP server (MikroTik 6.23) ready
+Refined:  220 rb edvsa brm ftp server mikrotik 6 ready
+
+============================https://mikrotik.com/download===============================
+
+MikroTik Routers and Wireless - Software
+HomeAboutBuyJobsHardwareSoftwareSupportTrainingAccount
+Software
+DownloadsChangelogsDownload archiveRouterOSThe DudeMobile app
+Software
+DownloadsChangelogsDownload archiveRouterOSThe DudeMobile app
+Upgrading RouterOS
+If you are already running RouterOS, upgrading to the latest version can be done by clicking on "Check For Updates" in QuickSet or System > Packages menu in WebFig or WinBox.
+See the documentation for more information about upgrading and release types.
+To manage your router, use the web interface, or download the maintenance utilities. Winbox to connect to your device, Dude to monitor your network and Netinstall for recovery and re-installation.
+WinBox
+The Dude
+Netinstall
+WinBox 3.19
+6.43.16 (Long-term)6.45.1 (Stable)
+6.43.16 (Long-term)6.45.1 (Stable)6.46beta6 (Testing)
+×
+MD5
+routeros-tile-6.43.16.npk: 7e9dbd68991e13a2ed844b1b0d8e64b3SHA256
+routeros-tile-6.43.16.npk: ba4fde24fbfa25928947e7bdedc9711e3c52bd2b0fc6723585ec48194c3ca1bfMD5
+routeros-powerpc-6.43.16.npk: 159f49022ca24a6f02fc1d6aca1aaafdSHA256
+routeros-powerpc-6.43.16.npk: 13fd4309533e59647e517cdb93cf3025c83b52556957721270f426531a503f43MD5
+routeros-mipsbe-6.43.16.npk: 14113f40ddbe907fda4758e87347086cSHA256
+routeros-mipsbe-6.43.16.npk: 86a296698b43e55dc549b911945b7baccd9bc747173c3ed5854447e931b21922MD5
+routeros-smips-6.43.16.npk: 1efdb962e4d31311f2052395ef1b7ea5SHA256
+routeros-smips-6.43.16.npk: 53be44161f1aa6f4a444b4d2343ac86f15f413184139b9fe90bdf2283703f437MD5
+routeros-x86-6.43.16.npk: b3d2d170427ed7647ebeeae7643a0232SHA256
+routeros-x86-6.43.16.npk: 762df2b1da07b253238ab210f2c75768821ef634a76d175ac424e7076eb513e7MD5
+routeros-arm-6.43.16.npk: ff67721f7ff38e93abbca096af916f76SHA256
+routeros-arm-6.43.16.npk: c4878f4afae0e26db6e267b7ff16d508a4a4e74e1a11fb2bfc522b120c2396feMD5
+routeros-mmips-6.43.16.npk: 3e540dc96526ece4972b3b1c62c12f63SHA256
+routeros-mmips-6.43.16.npk: 596b4328488e2d4a28a86499403c237dc80e91749a23d0f2682d4c801e02e0c4MD5
+routeros-arm-6.43.16.npk: ff67721f7ff38e93abbca096af916f76SHA256
+routeros-arm-6.43.16.npk: c4878f4afae0e26db6e267b7ff16d508a4a4e74e1a11fb2bfc522b120c2396feMD5
+routeros-tile-6.43.16.npk: 7e9dbd68991e13a2ed844b1b0d8e64b3SHA256
+routeros-tile-6.43.16.npk: ba4fde24fbfa25928947e7bdedc9711e3c52bd2b0fc6723585ec48194c3ca1bfMD5
+routeros-smips-6.43.16.npk: 1efdb962e4d31311f2052395ef1b7ea5SHA256
+routeros-smips-6.43.16.npk: 53be44161f1aa6f4a444b4d2343ac86f15f413184139b9fe90bdf2283703f437MD5
+routeros-mipsbe-6.43.16.npk: 14113f40ddbe907fda4758e87347086cSHA256
+routeros-mipsbe-6.43.16.npk: 86a296698b43e55dc549b911945b7baccd9bc747173c3ed5854447e931b21922MD5
+routeros-mmips-6.43.16.npk: 3e540dc96526ece4972b3b1c62c12f63SHA256
+routeros-mmips-6.43.16.npk: 596b4328488e2d4a28a86499403c237dc80e91749a23d0f2682d4c801e02e0c4MD5
+routeros-x86-6.43.16.npk: b3d2d170427ed7647ebeeae7643a0232SHA256
+routeros-x86-6.43.16.npk: 762df2b1da07b253238ab210f2c75768821ef634a76d175ac424e7076eb513e7MD5
+routeros-powerpc-6.43.16.npk: 159f49022ca24a6f02fc1d6aca1aaafdSHA256
+routeros-powerpc-6.43.16.npk: 13fd4309533e59647e517cdb93cf3025c83b52556957721270f426531a503f43MD5
+routeros-mmips-6.43.16.npk: 3e540dc96526ece4972b3b1c62c12f63SHA256
+routeros-mmips-6.43.16.npk: 596b4328488e2d4a28a86499403c237dc80e91749a23d0f2682d4c801e02e0c4MD5
+routeros-powerpc-6.43.16.npk: 159f49022ca24a6f02fc1d6aca1aaafdSHA256
+routeros-powerpc-6.43.16.npk: 13fd4309533e59647e517cdb93cf3025c83b52556957721270f426531a503f43MD5
+routeros-smips-6.43.16.npk: 1efdb962e4d31311f2052395ef1b7ea5SHA256
+routeros-smips-6.43.16.npk: 53be44161f1aa6f4a444b4d2343ac86f15f413184139b9fe90bdf2283703f437MD5
+routeros-tile-6.43.16.npk: 7e9dbd68991e13a2ed844b1b0d8e64b3SHA256
+routeros-tile-6.43.16.npk: ba4fde24fbfa25928947e7bdedc9711e3c52bd2b0fc6723585ec48194c3ca1bfMD5
+routeros-x86-6.43.16.npk: b3d2d170427ed7647ebeeae7643a0232SHA256
+routeros-x86-6.43.16.npk: 762df2b1da07b253238ab210f2c75768821ef634a76d175ac424e7076eb513e7MD5
+routeros-mipsbe-6.43.16.npk: 14113f40ddbe907fda4758e87347086cSHA256
+routeros-mipsbe-6.43.16.npk: 86a296698b43e55dc549b911945b7baccd9bc747173c3ed5854447e931b21922MD5
+routeros-arm-6.43.16.npk: ff67721f7ff38e93abbca096af916f76SHA256
+routeros-arm-6.43.16.npk: c4878f4afae0e26db6e267b7ff16d508a4a4e74e1a11fb2bfc522b120c2396feMD5
+all_packages-arm-6.43.16.zip: 88226b52d20e1ddeb6cbc96e121538fcSHA256
+all_packages-arm-6.43.16.zip: f89b27b26ae9afd6bba6ba1b8c36e0974dc3799c8695f821b156277a01eb4be5MD5
+all_packages-ppc-6.43.16.zip: 93de9c6089709e30c2b044a29a837ac7SHA256
+all_packages-ppc-6.43.16.zip: f74c1194222ddb26f2480462ee91bc2da5f3400668d9ab751f12269bf370b3e4MD5
+all_packages-smips-6.43.16.zip: e4a8d3bfa8392a92f90a36d036d35767SHA256
+all_packages-smips-6.43.16.zip: 10055b62550605b9b74e9eb6b6335b835dc086f5752354ae6f3cfd7735114399MD5
+all_packages-mipsbe-6.43.16.zip: 8f0c18e6e69c44a2dba225bad08355c2SHA256
+all_packages-mipsbe-6.43.16.zip: cef37c1f7e489b87bcabce97f5c0bf7b94a34fe0c617b37dc6967d7964a3ac9cMD5
+all_packages-mmips-6.43.16.zip: ef5e2792a720a280d3960a6164cba67aSHA256
+all_packages-mmips-6.43.16.zip: 2becaaa9e19f11fa77d948bc574f980fa06d0c061308f80489457d1f5ee06b4aMD5
+all_packages-tile-6.43.16.zip: 91293cae563db93940933220f489dda5SHA256
+all_packages-tile-6.43.16.zip: f86735ea4feb79bbcaebacefefd63c38b140f6d275f09c6395f904da5810b4f4MD5
+all_packages-x86-6.43.16.zip: 2e9b94a85a9b04414ca7f2cfa1417120SHA256
+all_packages-x86-6.43.16.zip: 8e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6MD5
+all_packages-mipsbe-6.43.16.zip: 8f0c18e6e69c44a2dba225bad08355c2SHA256
+all_packages-mipsbe-6.43.16.zip: cef37c1f7e489b87bcabce97f5c0bf7b94a34fe0c617b37dc6967d7964a3ac9cMD5
+all_packages-x86-6.43.16.zip: 2e9b94a85a9b04414ca7f2cfa1417120SHA256
+all_packages-x86-6.43.16.zip: 8e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6MD5
+all_packages-smips-6.43.16.zip: e4a8d3bfa8392a92f90a36d036d35767SHA256
+all_packages-smips-6.43.16.zip: 10055b62550605b9b74e9eb6b6335b835dc086f5752354ae6f3cfd7735114399MD5
+all_packages-mmips-6.43.16.zip: ef5e2792a720a280d3960a6164cba67aSHA256
+all_packages-mmips-6.43.16.zip: 2becaaa9e19f11fa77d948bc574f980fa06d0c061308f80489457d1f5ee06b4aMD5
+all_packages-tile-6.43.16.zip: 91293cae563db93940933220f489dda5SHA256
+all_packages-tile-6.43.16.zip: f86735ea4feb79bbcaebacefefd63c38b140f6d275f09c6395f904da5810b4f4MD5
+all_packages-arm-6.43.16.zip: 88226b52d20e1ddeb6cbc96e121538fcSHA256
+all_packages-arm-6.43.16.zip: f89b27b26ae9afd6bba6ba1b8c36e0974dc3799c8695f821b156277a01eb4be5MD5
+all_packages-ppc-6.43.16.zip: 93de9c6089709e30c2b044a29a837ac7SHA256
+all_packages-ppc-6.43.16.zip: f74c1194222ddb26f2480462ee91bc2da5f3400668d9ab751f12269bf370b3e4MD5
+all_packages-mipsbe-6.43.16.zip: 8f0c18e6e69c44a2dba225bad08355c2SHA256
+all_packages-mipsbe-6.43.16.zip: cef37c1f7e489b87bcabce97f5c0bf7b94a34fe0c617b37dc6967d7964a3ac9cMD5
+all_packages-smips-6.43.16.zip: e4a8d3bfa8392a92f90a36d036d35767SHA256
+all_packages-smips-6.43.16.zip: 10055b62550605b9b74e9eb6b6335b835dc086f5752354ae6f3cfd7735114399MD5
+all_packages-x86-6.43.16.zip: 2e9b94a85a9b04414ca7f2cfa1417120SHA256
+all_packages-x86-6.43.16.zip: 8e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6MD5
+all_packages-tile-6.43.16.zip: 91293cae563db93940933220f489dda5SHA256
+all_packages-tile-6.43.16.zip: f86735ea4feb79bbcaebacefefd63c38b140f6d275f09c6395f904da5810b4f4MD5
+all_packages-mmips-6.43.16.zip: ef5e2792a720a280d3960a6164cba67aSHA256
+all_packages-mmips-6.43.16.zip: 2becaaa9e19f11fa77d948bc574f980fa06d0c061308f80489457d1f5ee06b4aMD5
+all_packages-ppc-6.43.16.zip: 93de9c6089709e30c2b044a29a837ac7SHA256
+all_packages-ppc-6.43.16.zip: f74c1194222ddb26f2480462ee91bc2da5f3400668d9ab751f12269bf370b3e4MD5
+all_packages-arm-6.43.16.zip: 88226b52d20e1ddeb6cbc96e121538fcSHA256
+all_packages-arm-6.43.16.zip: f89b27b26ae9afd6bba6ba1b8c36e0974dc3799c8695f821b156277a01eb4be5MD5
+mikrotik-6.43.16.iso: 08c954a1f8def8c926f9a5946fca1ab8SHA256
+mikrotik-6.43.16.iso: a6c5c13a3c170374a0cbf279e9bb3f29d4425afc7074317713ef0847bd2a8ed9MD5
+mikrotik-6.43.16.iso: 08c954a1f8def8c926f9a5946fca1ab8SHA256
+mikrotik-6.43.16.iso: a6c5c13a3c170374a0cbf279e9bb3f29d4425afc7074317713ef0847bd2a8ed9MD5
+mikrotik-6.43.16.iso: 08c954a1f8def8c926f9a5946fca1ab8SHA256
+mikrotik-6.43.16.iso: a6c5c13a3c170374a0cbf279e9bb3f29d4425afc7074317713ef0847bd2a8ed9MD5
+netinstall-6.43.16-smips.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-smips.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-mipsbe.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-mipsbe.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-arm.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-arm.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-mmips.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-mmips.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-ppc.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-ppc.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-tile.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-tile.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-tile.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-tile.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-smips.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-smips.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-mipsbe.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-mipsbe.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-mmips.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-mmips.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-arm.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-arm.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-ppc.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-ppc.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-ppc.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-ppc.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-arm.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-arm.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-smips.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-smips.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-mipsbe.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-mipsbe.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-mmips.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-mmips.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16-tile.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16-tile.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+netinstall-6.43.16.zip: 7950bd5f819afb4c19e93806b0fc43c8SHA256
+netinstall-6.43.16.zip: 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976MD5
+dude-6.43.16-arm.npk: ac99887dc635f754bd1739d96d0cc2c3SHA256
+dude-6.43.16-arm.npk: 441b8d3128c6f6e07803f137554d8c9ee9f3d8c57b62a2a7174a7d5adc1ad73dMD5
+dude-6.43.16-tile.npk: 2be37d8ce62fb5350806ff9794db3a1fSHA256
+dude-6.43.16-tile.npk: 333cd59e208a9b887c9a8927e65f48d82133d825fecce9dd1b5142a51a6e36c2MD5
+dude-6.43.16.npk: b6802f148f897a1c4e0b7155a4707350SHA256
+dude-6.43.16.npk: d4942001593b39e80f5dc2449bd49d158ed30493e036bf3a5dff6598015e86b8MD5
+dude-6.43.16-mmips.npk: 734ad19595d21fdcdac483f760a75b16SHA256
+dude-6.43.16-mmips.npk: e50697bff03975e3168bef909cc30ea9b5233b3968169d29d9f668ca76232c97MD5
+dude-6.43.16-tile.npk: 2be37d8ce62fb5350806ff9794db3a1fSHA256
+dude-6.43.16-tile.npk: 333cd59e208a9b887c9a8927e65f48d82133d825fecce9dd1b5142a51a6e36c2MD5
+dude-6.43.16.npk: b6802f148f897a1c4e0b7155a4707350SHA256
+dude-6.43.16.npk: d4942001593b39e80f5dc2449bd49d158ed30493e036bf3a5dff6598015e86b8MD5
+dude-6.43.16-mmips.npk: 734ad19595d21fdcdac483f760a75b16SHA256
+dude-6.43.16-mmips.npk: e50697bff03975e3168bef909cc30ea9b5233b3968169d29d9f668ca76232c97MD5
+dude-6.43.16-arm.npk: ac99887dc635f754bd1739d96d0cc2c3SHA256
+dude-6.43.16-arm.npk: 441b8d3128c6f6e07803f137554d8c9ee9f3d8c57b62a2a7174a7d5adc1ad73dMD5
+dude-6.43.16-arm.npk: ac99887dc635f754bd1739d96d0cc2c3SHA256
+dude-6.43.16-arm.npk: 441b8d3128c6f6e07803f137554d8c9ee9f3d8c57b62a2a7174a7d5adc1ad73dMD5
+dude-6.43.16.npk: b6802f148f897a1c4e0b7155a4707350SHA256
+dude-6.43.16.npk: d4942001593b39e80f5dc2449bd49d158ed30493e036bf3a5dff6598015e86b8MD5
+dude-6.43.16-mmips.npk: 734ad19595d21fdcdac483f760a75b16SHA256
+dude-6.43.16-mmips.npk: e50697bff03975e3168bef909cc30ea9b5233b3968169d29d9f668ca76232c97MD5
+dude-6.43.16-tile.npk: 2be37d8ce62fb5350806ff9794db3a1fSHA256
+dude-6.43.16-tile.npk: 333cd59e208a9b887c9a8927e65f48d82133d825fecce9dd1b5142a51a6e36c2MD5
+dude-install-6.43.16.exe: e9e156d13331ece202c33e18ca566266SHA256
+dude-install-6.43.16.exe: 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364aeMD5
+dude-install-6.43.16.exe: e9e156d13331ece202c33e18ca566266SHA256
+dude-install-6.43.16.exe: 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364aeMD5
+dude-install-6.43.16.exe: e9e156d13331ece202c33e18ca566266SHA256
+dude-install-6.43.16.exe: 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364ae
+×
+MD5
+routeros-smips-6.46beta6.npk: 96aefdeeaa93edbbe25e5366ad093cdbSHA256
+routeros-smips-6.46beta6.npk: 97317bf24c8a0f2b0b9ffeb8f90cc89d87bc6adc8c877c4a320f015cf36d0a12MD5
+routeros-powerpc-6.46beta6.npk: f7f46d8af98e9d57ffbdc15613c40963SHA256
+routeros-powerpc-6.46beta6.npk: 2b59f7add45d8f5c03f92bdb24bf741095d1389afab2936e246e4dd006e19b0cMD5
+routeros-mipsbe-6.46beta6.npk: c9470e217c25de39095fc0feb68aeb00SHA256
+routeros-mipsbe-6.46beta6.npk: 2bca785a0a77c195317c60d1559980791c66b411c0393f1c36d7bf465ddffef2MD5
+routeros-mmips-6.46beta6.npk: bd4603f75a8c0f48edfa47fd86c5a4c5SHA256
+routeros-mmips-6.46beta6.npk: bb74067855065245d466689b75e75e278f1c601a9d5d773905f6198ade8b37daMD5
+routeros-tile-6.46beta6.npk: d33f28c6b7484ec46cf59f55223cd0b4SHA256
+routeros-tile-6.46beta6.npk: 33b932fa7acd82676069d889bc869e70a8e45c6b30f30b7bae21d7c5cc1f1d14MD5
+routeros-arm-6.46beta6.npk: 2021a818c32dc5abe7644d99210ba388SHA256
+routeros-arm-6.46beta6.npk: 1765a8a033c7adf86758aad4b4c4ee34114b9100083282b75b84eb8a2f232a29MD5
+routeros-x86-6.46beta6.npk: f4c196bc2dba169c5b3cf876801cd580SHA256
+routeros-x86-6.46beta6.npk: ad164e2fa469b77b5be78a04c6f009dbe1668120ff8746a39de24e25d620912aMD5
+routeros-tile-6.46beta6.npk: d33f28c6b7484ec46cf59f55223cd0b4SHA256
+routeros-tile-6.46beta6.npk: 33b932fa7acd82676069d889bc869e70a8e45c6b30f30b7bae21d7c5cc1f1d14MD5
+routeros-mmips-6.46beta6.npk: bd4603f75a8c0f48edfa47fd86c5a4c5SHA256
+routeros-mmips-6.46beta6.npk: bb74067855065245d466689b75e75e278f1c601a9d5d773905f6198ade8b37daMD5
+routeros-powerpc-6.46beta6.npk: f7f46d8af98e9d57ffbdc15613c40963SHA256
+routeros-powerpc-6.46beta6.npk: 2b59f7add45d8f5c03f92bdb24bf741095d1389afab2936e246e4dd006e19b0cMD5
+routeros-smips-6.46beta6.npk: 96aefdeeaa93edbbe25e5366ad093cdbSHA256
+routeros-smips-6.46beta6.npk: 97317bf24c8a0f2b0b9ffeb8f90cc89d87bc6adc8c877c4a320f015cf36d0a12MD5
+routeros-arm-6.46beta6.npk: 2021a818c32dc5abe7644d99210ba388SHA256
+routeros-arm-6.46beta6.npk: 1765a8a033c7adf86758aad4b4c4ee34114b9100083282b75b84eb8a2f232a29MD5
+routeros-mipsbe-6.46beta6.npk: c9470e217c25de39095fc0feb68aeb00SHA256
+routeros-mipsbe-6.46beta6.npk: 2bca785a0a77c195317c60d1559980791c66b411c0393f1c36d7bf465ddffef2MD5
+routeros-x86-6.46beta6.npk: f4c196bc2dba169c5b3cf876801cd580SHA256
+routeros-x86-6.46beta6.npk: ad164e2fa469b77b5be78a04c6f009dbe1668120ff8746a39de24e25d620912aMD5
+routeros-tile-6.46beta6.npk: d33f28c6b7484ec46cf59f55223cd0b4SHA256
+routeros-tile-6.46beta6.npk: 33b932fa7acd82676069d889bc869e70a8e45c6b30f30b7bae21d7c5cc1f1d14MD5
+routeros-mmips-6.46beta6.npk: bd4603f75a8c0f48edfa47fd86c5a4c5SHA256
+routeros-mmips-6.46beta6.npk: bb74067855065245d466689b75e75e278f1c601a9d5d773905f6198ade8b37daMD5
+routeros-mipsbe-6.46beta6.npk: c9470e217c25de39095fc0feb68aeb00SHA256
+routeros-mipsbe-6.46beta6.npk: 2bca785a0a77c195317c60d1559980791c66b411c0393f1c36d7bf465ddffef2MD5
+routeros-smips-6.46beta6.npk: 96aefdeeaa93edbbe25e5366ad093cdbSHA256
+routeros-smips-6.46beta6.npk: 97317bf24c8a0f2b0b9ffeb8f90cc89d87bc6adc8c877c4a320f015cf36d0a12MD5
+routeros-powerpc-6.46beta6.npk: f7f46d8af98e9d57ffbdc15613c40963SHA256
+routeros-powerpc-6.46beta6.npk: 2b59f7add45d8f5c03f92bdb24bf741095d1389afab2936e246e4dd006e19b0cMD5
+routeros-x86-6.46beta6.npk: f4c196bc2dba169c5b3cf876801cd580SHA256
+routeros-x86-6.46beta6.npk: ad164e2fa469b77b5be78a04c6f009dbe1668120ff8746a39de24e25d620912aMD5
+routeros-arm-6.46beta6.npk: 2021a818c32dc5abe7644d99210ba388SHA256
+routeros-arm-6.46beta6.npk: 1765a8a033c7adf86758aad4b4c4ee34114b9100083282b75b84eb8a2f232a29MD5
+all_packages-mmips-6.46beta6.zip: d32097306ad298224640be9c44f5a78dSHA256
+all_packages-mmips-6.46beta6.zip: 366e75b42eeca8e05999389ef28becfec36c4b4a2db7e139da78ba618d0dd87fMD5
+all_packages-tile-6.46beta6.zip: 15a41318cf2b86dd6c8f33f16fb546e3SHA256
+all_packages-tile-6.46beta6.zip: 837c0959f6f9b99f333490e6d3f2452f9cb59346f7891494f2fca5bf3a11a835MD5
+all_packages-smips-6.46beta6.zip: 3e294984881d6bcbe7c1403ff0d022f4SHA256
+all_packages-smips-6.46beta6.zip: 092623cc5116a1b90ad8e9bca8ac663948e4b0bf54911bbe1a62e90e5e8465f7MD5
+all_packages-mipsbe-6.46beta6.zip: f4d3c134650b9437d3dcc2f7e4f35df7SHA256
+all_packages-mipsbe-6.46beta6.zip: 91935412dc3cbe490ba1fdc97430529eb27cf9ec1d225a911b15d4f4ca29272cMD5
+all_packages-ppc-6.46beta6.zip: d6ec1921003059d6d6f3a4994cd77afaSHA256
+all_packages-ppc-6.46beta6.zip: a63848ed9871461ffc73b06ca9927108b4e292c462a251eea9ad431e68bfa670MD5
+all_packages-arm-6.46beta6.zip: aec4d29caa2eae03235e0e25cf8b909fSHA256
+all_packages-arm-6.46beta6.zip: 9b085bdd7e3cddced77e98f9ce819ad638accb94cfaf058934031b5c3174d6adMD5
+all_packages-x86-6.46beta6.zip: 80ccc7c86a6aa82afa70455818904408SHA256
+all_packages-x86-6.46beta6.zip: 155810efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866MD5
+all_packages-arm-6.46beta6.zip: aec4d29caa2eae03235e0e25cf8b909fSHA256
+all_packages-arm-6.46beta6.zip: 9b085bdd7e3cddced77e98f9ce819ad638accb94cfaf058934031b5c3174d6adMD5
+all_packages-ppc-6.46beta6.zip: d6ec1921003059d6d6f3a4994cd77afaSHA256
+all_packages-ppc-6.46beta6.zip: a63848ed9871461ffc73b06ca9927108b4e292c462a251eea9ad431e68bfa670MD5
+all_packages-mmips-6.46beta6.zip: d32097306ad298224640be9c44f5a78dSHA256
+all_packages-mmips-6.46beta6.zip: 366e75b42eeca8e05999389ef28becfec36c4b4a2db7e139da78ba618d0dd87fMD5
+all_packages-mipsbe-6.46beta6.zip: f4d3c134650b9437d3dcc2f7e4f35df7SHA256
+all_packages-mipsbe-6.46beta6.zip: 91935412dc3cbe490ba1fdc97430529eb27cf9ec1d225a911b15d4f4ca29272cMD5
+all_packages-smips-6.46beta6.zip: 3e294984881d6bcbe7c1403ff0d022f4SHA256
+all_packages-smips-6.46beta6.zip: 092623cc5116a1b90ad8e9bca8ac663948e4b0bf54911bbe1a62e90e5e8465f7MD5
+all_packages-x86-6.46beta6.zip: 80ccc7c86a6aa82afa70455818904408SHA256
+all_packages-x86-6.46beta6.zip: 155810efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866MD5
+all_packages-tile-6.46beta6.zip: 15a41318cf2b86dd6c8f33f16fb546e3SHA256
+all_packages-tile-6.46beta6.zip: 837c0959f6f9b99f333490e6d3f2452f9cb59346f7891494f2fca5bf3a11a835MD5
+all_packages-arm-6.46beta6.zip: aec4d29caa2eae03235e0e25cf8b909fSHA256
+all_packages-arm-6.46beta6.zip: 9b085bdd7e3cddced77e98f9ce819ad638accb94cfaf058934031b5c3174d6adMD5
+all_packages-mipsbe-6.46beta6.zip: f4d3c134650b9437d3dcc2f7e4f35df7SHA256
+all_packages-mipsbe-6.46beta6.zip: 91935412dc3cbe490ba1fdc97430529eb27cf9ec1d225a911b15d4f4ca29272cMD5
+all_packages-mmips-6.46beta6.zip: d32097306ad298224640be9c44f5a78dSHA256
+all_packages-mmips-6.46beta6.zip: 366e75b42eeca8e05999389ef28becfec36c4b4a2db7e139da78ba618d0dd87fMD5
+all_packages-x86-6.46beta6.zip: 80ccc7c86a6aa82afa70455818904408SHA256
+all_packages-x86-6.46beta6.zip: 155810efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866MD5
+all_packages-tile-6.46beta6.zip: 15a41318cf2b86dd6c8f33f16fb546e3SHA256
+all_packages-tile-6.46beta6.zip: 837c0959f6f9b99f333490e6d3f2452f9cb59346f7891494f2fca5bf3a11a835MD5
+all_packages-smips-6.46beta6.zip: 3e294984881d6bcbe7c1403ff0d022f4SHA256
+all_packages-smips-6.46beta6.zip: 092623cc5116a1b90ad8e9bca8ac663948e4b0bf54911bbe1a62e90e5e8465f7MD5
+all_packages-ppc-6.46beta6.zip: d6ec1921003059d6d6f3a4994cd77afaSHA256
+all_packages-ppc-6.46beta6.zip: a63848ed9871461ffc73b06ca9927108b4e292c462a251eea9ad431e68bfa670MD5
+mikrotik-6.46beta6.iso: ac4f1adea659fd3a8d94b0edee9a8185SHA256
+mikrotik-6.46beta6.iso: 75c07b567aac3502439b84d17d82f29b0867473a8882a22c7fa15b22636ece9cMD5
+mikrotik-6.46beta6.iso: ac4f1adea659fd3a8d94b0edee9a8185SHA256
+mikrotik-6.46beta6.iso: 75c07b567aac3502439b84d17d82f29b0867473a8882a22c7fa15b22636ece9cMD5
+mikrotik-6.46beta6.iso: ac4f1adea659fd3a8d94b0edee9a8185SHA256
+mikrotik-6.46beta6.iso: 75c07b567aac3502439b84d17d82f29b0867473a8882a22c7fa15b22636ece9cMD5
+netinstall-6.46beta6-arm.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-arm.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-mmips.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-mmips.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-mipsbe.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-mipsbe.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-smips.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-smips.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-tile.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-tile.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-ppc.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-ppc.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-tile.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-tile.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-smips.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-smips.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-mipsbe.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-mipsbe.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-mmips.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-mmips.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-arm.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-arm.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-ppc.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-ppc.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-mmips.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-mmips.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-mipsbe.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-mipsbe.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-arm.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-arm.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-ppc.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-ppc.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-tile.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-tile.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+netinstall-6.46beta6-smips.zip: 9674f8a626155d0bbd6323cf7aa558b2SHA256
+netinstall-6.46beta6-smips.zip: 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6MD5
+dude-6.46beta6-tile.npk: 6c2d278069e43fef3b99b7d6a8b31e03SHA256
+dude-6.46beta6-tile.npk: cd1b8fbc5ae8fa4d177a25683355912877efa1239e906ce1590d1181f2565398MD5
+dude-6.46beta6-mmips.npk: beba77a48b8f85bdae82e3e06ac9016aSHA256
+dude-6.46beta6-mmips.npk: a9ada719ce4191efa4735ee0e860b4f4d2c07c161802c71d01ad5470e5dc8288MD5
+dude-6.46beta6.npk: 668c6ddc2ba203dd915660530c6514e4SHA256
+dude-6.46beta6.npk: 44428c839e06c3d634e9f1a2dd71b9a495722170f0944507eb58e3a19df3d62aMD5
+dude-6.46beta6-arm.npk: 206c79f7f5518c76f542a781aa385160SHA256
+dude-6.46beta6-arm.npk: bf333c3c312b39132675998a2ec6aecb55d1a4386574beb91475acf074093365MD5
+dude-6.46beta6.npk: 668c6ddc2ba203dd915660530c6514e4SHA256
+dude-6.46beta6.npk: 44428c839e06c3d634e9f1a2dd71b9a495722170f0944507eb58e3a19df3d62aMD5
+dude-6.46beta6-tile.npk: 6c2d278069e43fef3b99b7d6a8b31e03SHA256
+dude-6.46beta6-tile.npk: cd1b8fbc5ae8fa4d177a25683355912877efa1239e906ce1590d1181f2565398MD5
+dude-6.46beta6-arm.npk: 206c79f7f5518c76f542a781aa385160SHA256
+dude-6.46beta6-arm.npk: bf333c3c312b39132675998a2ec6aecb55d1a4386574beb91475acf074093365MD5
+dude-6.46beta6-mmips.npk: beba77a48b8f85bdae82e3e06ac9016aSHA256
+dude-6.46beta6-mmips.npk: a9ada719ce4191efa4735ee0e860b4f4d2c07c161802c71d01ad5470e5dc8288MD5
+dude-6.46beta6.npk: 668c6ddc2ba203dd915660530c6514e4SHA256
+dude-6.46beta6.npk: 44428c839e06c3d634e9f1a2dd71b9a495722170f0944507eb58e3a19df3d62aMD5
+dude-6.46beta6-mmips.npk: beba77a48b8f85bdae82e3e06ac9016aSHA256
+dude-6.46beta6-mmips.npk: a9ada719ce4191efa4735ee0e860b4f4d2c07c161802c71d01ad5470e5dc8288MD5
+dude-6.46beta6-tile.npk: 6c2d278069e43fef3b99b7d6a8b31e03SHA256
+dude-6.46beta6-tile.npk: cd1b8fbc5ae8fa4d177a25683355912877efa1239e906ce1590d1181f2565398MD5
+dude-6.46beta6-arm.npk: 206c79f7f5518c76f542a781aa385160SHA256
+dude-6.46beta6-arm.npk: bf333c3c312b39132675998a2ec6aecb55d1a4386574beb91475acf074093365MD5
+dude-install-6.46beta6.exe: af72bb8ed9200a738e93521fd9829780SHA256
+dude-install-6.46beta6.exe: 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5MD5
+dude-install-6.46beta6.exe: af72bb8ed9200a738e93521fd9829780SHA256
+dude-install-6.46beta6.exe: 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5MD5
+dude-install-6.46beta6.exe: af72bb8ed9200a738e93521fd9829780SHA256
+dude-install-6.46beta6.exe: 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5
+×
+MD5
+routeros-tile-6.45.1.npk: 90c9749e6e274265376ca68676eb77beSHA256
+routeros-tile-6.45.1.npk: b45e11874186cc9caa7448a8efbd3f35ffedd24af4898534251e3bd8a8a1aa1eMD5
+routeros-mipsbe-6.45.1.npk: 37d1fa4d61f9e27468799d24fbb5cab8SHA256
+routeros-mipsbe-6.45.1.npk: 1b6199cff74abf53405d11410ee9601c0887b32f54a44fe04dc634cd3d05e99aMD5
+routeros-x86-6.45.1.npk: daf55e25d39b2a04a750a5d55d858760SHA256
+routeros-x86-6.45.1.npk: a92c813360f83911459166067e5f02369b753257d964608836df2ca883af8344MD5
+routeros-powerpc-6.45.1.npk: 884bf48e4394ef8ccdbc423bb5769be4SHA256
+routeros-powerpc-6.45.1.npk: 33ce3624e928f568f84505a3f8af996a6ea3dbb81a1bf4b09d2cca82b91d8c18MD5
+routeros-smips-6.45.1.npk: 6c41ec5083abc8f76927b8845e045443SHA256
+routeros-smips-6.45.1.npk: 2bf3481cd8f1175d1b929896a35a159bcfc8c65d5337f2c281d17ddbc1000f84MD5
+routeros-arm-6.45.1.npk: 70a4a080f12f887d1207c7bf7c1e8611SHA256
+routeros-arm-6.45.1.npk: 1f4a02f85aaff41d640b37f2e2cea6f747fda4c56564dd920dd8cbc561e7fe3eMD5
+routeros-mmips-6.45.1.npk: 4994613711f28b2d5b37cbcecfc56f2dSHA256
+routeros-mmips-6.45.1.npk: 4502c467d6950d496ac1e52d5c7a98c4cc9ebd15b64d1a87c9a180b9676c5d33MD5
+routeros-x86-6.45.1.npk: daf55e25d39b2a04a750a5d55d858760SHA256
+routeros-x86-6.45.1.npk: a92c813360f83911459166067e5f02369b753257d964608836df2ca883af8344MD5
+routeros-arm-6.45.1.npk: 70a4a080f12f887d1207c7bf7c1e8611SHA256
+routeros-arm-6.45.1.npk: 1f4a02f85aaff41d640b37f2e2cea6f747fda4c56564dd920dd8cbc561e7fe3eMD5
+routeros-mmips-6.45.1.npk: 4994613711f28b2d5b37cbcecfc56f2dSHA256
+routeros-mmips-6.45.1.npk: 4502c467d6950d496ac1e52d5c7a98c4cc9ebd15b64d1a87c9a180b9676c5d33MD5
+routeros-mipsbe-6.45.1.npk: 37d1fa4d61f9e27468799d24fbb5cab8SHA256
+routeros-mipsbe-6.45.1.npk: 1b6199cff74abf53405d11410ee9601c0887b32f54a44fe04dc634cd3d05e99aMD5
+routeros-smips-6.45.1.npk: 6c41ec5083abc8f76927b8845e045443SHA256
+routeros-smips-6.45.1.npk: 2bf3481cd8f1175d1b929896a35a159bcfc8c65d5337f2c281d17ddbc1000f84MD5
+routeros-powerpc-6.45.1.npk: 884bf48e4394ef8ccdbc423bb5769be4SHA256
+routeros-powerpc-6.45.1.npk: 33ce3624e928f568f84505a3f8af996a6ea3dbb81a1bf4b09d2cca82b91d8c18MD5
+routeros-tile-6.45.1.npk: 90c9749e6e274265376ca68676eb77beSHA256
+routeros-tile-6.45.1.npk: b45e11874186cc9caa7448a8efbd3f35ffedd24af4898534251e3bd8a8a1aa1eMD5
+routeros-arm-6.45.1.npk: 70a4a080f12f887d1207c7bf7c1e8611SHA256
+routeros-arm-6.45.1.npk: 1f4a02f85aaff41d640b37f2e2cea6f747fda4c56564dd920dd8cbc561e7fe3eMD5
+routeros-powerpc-6.45.1.npk: 884bf48e4394ef8ccdbc423bb5769be4SHA256
+routeros-powerpc-6.45.1.npk: 33ce3624e928f568f84505a3f8af996a6ea3dbb81a1bf4b09d2cca82b91d8c18MD5
+routeros-tile-6.45.1.npk: 90c9749e6e274265376ca68676eb77beSHA256
+routeros-tile-6.45.1.npk: b45e11874186cc9caa7448a8efbd3f35ffedd24af4898534251e3bd8a8a1aa1eMD5
+routeros-x86-6.45.1.npk: daf55e25d39b2a04a750a5d55d858760SHA256
+routeros-x86-6.45.1.npk: a92c813360f83911459166067e5f02369b753257d964608836df2ca883af8344MD5
+routeros-mipsbe-6.45.1.npk: 37d1fa4d61f9e27468799d24fbb5cab8SHA256
+routeros-mipsbe-6.45.1.npk: 1b6199cff74abf53405d11410ee9601c0887b32f54a44fe04dc634cd3d05e99aMD5
+routeros-smips-6.45.1.npk: 6c41ec5083abc8f76927b8845e045443SHA256
+routeros-smips-6.45.1.npk: 2bf3481cd8f1175d1b929896a35a159bcfc8c65d5337f2c281d17ddbc1000f84MD5
+routeros-mmips-6.45.1.npk: 4994613711f28b2d5b37cbcecfc56f2dSHA256
+routeros-mmips-6.45.1.npk: 4502c467d6950d496ac1e52d5c7a98c4cc9ebd15b64d1a87c9a180b9676c5d33MD5
+all_packages-tile-6.45.1.zip: 6d77d4a07239ffc52b534ce92dc9526fSHA256
+all_packages-tile-6.45.1.zip: 4a7ab84e6d0e23abfc9315bcc113e0fcfb3d7d4caff087066450887a4b7e2425MD5
+all_packages-smips-6.45.1.zip: 0df0f1a7c372588cc5a303e264816b87SHA256
+all_packages-smips-6.45.1.zip: 6059a61c1cb89b0a9da00a45dd9d7e540610059189ceb7a3b31910e9c09c143fMD5
+all_packages-mipsbe-6.45.1.zip: 3b41b13e3141ac0e139be71f1d7815ceSHA256
+all_packages-mipsbe-6.45.1.zip: 486a6bb3c59f33ce950359541d8909394fbe5eec9734ab05df7c2c31f3eb33a1MD5
+all_packages-mmips-6.45.1.zip: 7c7131ca644e79e0bbae986747137837SHA256
+all_packages-mmips-6.45.1.zip: 2ae2174d31895aeac25afda0a27f22d5394134c0b64bdd34ff10c8a59df83832MD5
+all_packages-x86-6.45.1.zip: fc637b30531fa48c7afa4d7f96bbe4e1SHA256
+all_packages-x86-6.45.1.zip: c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2eMD5
+all_packages-arm-6.45.1.zip: 604bdc6202dd710688c55035cbd1a444SHA256
+all_packages-arm-6.45.1.zip: 29a3a2531f4bcf65013ef5ef725286307dfa244ccce8a42e351eee34f8f2c478MD5
+all_packages-ppc-6.45.1.zip: c48f41c97285c416d13f0588a6c07e11SHA256
+all_packages-ppc-6.45.1.zip: 35120ca0c996ec8cb5ae4de01824bc5ba07e840005fab1002b285d100a6f7c64MD5
+all_packages-x86-6.45.1.zip: fc637b30531fa48c7afa4d7f96bbe4e1SHA256
+all_packages-x86-6.45.1.zip: c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2eMD5
+all_packages-mmips-6.45.1.zip: 7c7131ca644e79e0bbae986747137837SHA256
+all_packages-mmips-6.45.1.zip: 2ae2174d31895aeac25afda0a27f22d5394134c0b64bdd34ff10c8a59df83832MD5
+all_packages-arm-6.45.1.zip: 604bdc6202dd710688c55035cbd1a444SHA256
+all_packages-arm-6.45.1.zip: 29a3a2531f4bcf65013ef5ef725286307dfa244ccce8a42e351eee34f8f2c478MD5
+all_packages-mipsbe-6.45.1.zip: 3b41b13e3141ac0e139be71f1d7815ceSHA256
+all_packages-mipsbe-6.45.1.zip: 486a6bb3c59f33ce950359541d8909394fbe5eec9734ab05df7c2c31f3eb33a1MD5
+all_packages-ppc-6.45.1.zip: c48f41c97285c416d13f0588a6c07e11SHA256
+all_packages-ppc-6.45.1.zip: 35120ca0c996ec8cb5ae4de01824bc5ba07e840005fab1002b285d100a6f7c64MD5
+all_packages-smips-6.45.1.zip: 0df0f1a7c372588cc5a303e264816b87SHA256
+all_packages-smips-6.45.1.zip: 6059a61c1cb89b0a9da00a45dd9d7e540610059189ceb7a3b31910e9c09c143fMD5
+all_packages-tile-6.45.1.zip: 6d77d4a07239ffc52b534ce92dc9526fSHA256
+all_packages-tile-6.45.1.zip: 4a7ab84e6d0e23abfc9315bcc113e0fcfb3d7d4caff087066450887a4b7e2425MD5
+all_packages-smips-6.45.1.zip: 0df0f1a7c372588cc5a303e264816b87SHA256
+all_packages-smips-6.45.1.zip: 6059a61c1cb89b0a9da00a45dd9d7e540610059189ceb7a3b31910e9c09c143fMD5
+all_packages-mipsbe-6.45.1.zip: 3b41b13e3141ac0e139be71f1d7815ceSHA256
+all_packages-mipsbe-6.45.1.zip: 486a6bb3c59f33ce950359541d8909394fbe5eec9734ab05df7c2c31f3eb33a1MD5
+all_packages-mmips-6.45.1.zip: 7c7131ca644e79e0bbae986747137837SHA256
+all_packages-mmips-6.45.1.zip: 2ae2174d31895aeac25afda0a27f22d5394134c0b64bdd34ff10c8a59df83832MD5
+all_packages-tile-6.45.1.zip: 6d77d4a07239ffc52b534ce92dc9526fSHA256
+all_packages-tile-6.45.1.zip: 4a7ab84e6d0e23abfc9315bcc113e0fcfb3d7d4caff087066450887a4b7e2425MD5
+all_packages-x86-6.45.1.zip: fc637b30531fa48c7afa4d7f96bbe4e1SHA256
+all_packages-x86-6.45.1.zip: c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2eMD5
+all_packages-arm-6.45.1.zip: 604bdc6202dd710688c55035cbd1a444SHA256
+all_packages-arm-6.45.1.zip: 29a3a2531f4bcf65013ef5ef725286307dfa244ccce8a42e351eee34f8f2c478MD5
+all_packages-ppc-6.45.1.zip: c48f41c97285c416d13f0588a6c07e11SHA256
+all_packages-ppc-6.45.1.zip: 35120ca0c996ec8cb5ae4de01824bc5ba07e840005fab1002b285d100a6f7c64MD5
+mikrotik-6.45.1.iso: 4aa6b35222b38b29b8cbcce464f6749fSHA256
+mikrotik-6.45.1.iso: 16b0158e5a72ae6a18f3ea03d6208d430ace00b188d591a840ba27b6f87359beMD5
+mikrotik-6.45.1.iso: 4aa6b35222b38b29b8cbcce464f6749fSHA256
+mikrotik-6.45.1.iso: 16b0158e5a72ae6a18f3ea03d6208d430ace00b188d591a840ba27b6f87359beMD5
+mikrotik-6.45.1.iso: 4aa6b35222b38b29b8cbcce464f6749fSHA256
+mikrotik-6.45.1.iso: 16b0158e5a72ae6a18f3ea03d6208d430ace00b188d591a840ba27b6f87359beMD5
+netinstall-6.45.1.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-smips.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-smips.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-ppc.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-ppc.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-arm.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-arm.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-tile.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-tile.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-mmips.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-mmips.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-mipsbe.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-mipsbe.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-mipsbe.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-mipsbe.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-tile.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-tile.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-smips.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-smips.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-mmips.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-mmips.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-arm.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-arm.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-ppc.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-ppc.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-tile.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-tile.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-ppc.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-ppc.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-mmips.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-mmips.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-mipsbe.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-mipsbe.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-arm.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-arm.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1-smips.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1-smips.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+netinstall-6.45.1.zip: 9a1f3ee29e987b828ca3443558fb29b1SHA256
+netinstall-6.45.1.zip: 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756MD5
+dude-6.45.1-arm.npk: f6dce9de0a7bbc6e5c3eeb84b06c73dfSHA256
+dude-6.45.1-arm.npk: b39c3369b26e353fee48a14faddb2b9a4c6e05e5aed03975adf5fb5784f6a82cMD5
+dude-6.45.1.npk: 9bff3365be0f23613824166f0c52dbc4SHA256
+dude-6.45.1.npk: 32e8622d40599fd9928d4d5eb0b631e738d6b9a58ca937a392810b662f9917f6MD5
+dude-6.45.1-mmips.npk: 583a9acb182d094717097ba6d46ad295SHA256
+dude-6.45.1-mmips.npk: fa92615df0022b7056308f219fd2ae9a598e0109de480638b6d27efc9d7eb4c4MD5
+dude-6.45.1-tile.npk: fb20ce522a592055cb799931366945c6SHA256
+dude-6.45.1-tile.npk: d6feb9c9fae0e182b9a03aadd11fc388711d3ea20c975143e15d4f6a9b41868dMD5
+dude-6.45.1.npk: 9bff3365be0f23613824166f0c52dbc4SHA256
+dude-6.45.1.npk: 32e8622d40599fd9928d4d5eb0b631e738d6b9a58ca937a392810b662f9917f6MD5
+dude-6.45.1-tile.npk: fb20ce522a592055cb799931366945c6SHA256
+dude-6.45.1-tile.npk: d6feb9c9fae0e182b9a03aadd11fc388711d3ea20c975143e15d4f6a9b41868dMD5
+dude-6.45.1-arm.npk: f6dce9de0a7bbc6e5c3eeb84b06c73dfSHA256
+dude-6.45.1-arm.npk: b39c3369b26e353fee48a14faddb2b9a4c6e05e5aed03975adf5fb5784f6a82cMD5
+dude-6.45.1-mmips.npk: 583a9acb182d094717097ba6d46ad295SHA256
+dude-6.45.1-mmips.npk: fa92615df0022b7056308f219fd2ae9a598e0109de480638b6d27efc9d7eb4c4MD5
+dude-6.45.1-tile.npk: fb20ce522a592055cb799931366945c6SHA256
+dude-6.45.1-tile.npk: d6feb9c9fae0e182b9a03aadd11fc388711d3ea20c975143e15d4f6a9b41868dMD5
+dude-6.45.1-mmips.npk: 583a9acb182d094717097ba6d46ad295SHA256
+dude-6.45.1-mmips.npk: fa92615df0022b7056308f219fd2ae9a598e0109de480638b6d27efc9d7eb4c4MD5
+dude-6.45.1.npk: 9bff3365be0f23613824166f0c52dbc4SHA256
+dude-6.45.1.npk: 32e8622d40599fd9928d4d5eb0b631e738d6b9a58ca937a392810b662f9917f6MD5
+dude-6.45.1-arm.npk: f6dce9de0a7bbc6e5c3eeb84b06c73dfSHA256
+dude-6.45.1-arm.npk: b39c3369b26e353fee48a14faddb2b9a4c6e05e5aed03975adf5fb5784f6a82cMD5
+dude-install-6.45.1.exe: 05a805764bb38512a601efcf42eb4d50SHA256
+dude-install-6.45.1.exe: 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720MD5
+dude-install-6.45.1.exe: 05a805764bb38512a601efcf42eb4d50SHA256
+dude-install-6.45.1.exe: 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720MD5
+dude-install-6.45.1.exe: 05a805764bb38512a601efcf42eb4d50SHA256
+dude-install-6.45.1.exe: 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720
+×
+MD5 all_packages-x86-6.43.16.zip: 2e9b94a85a9b04414ca7f2cfa1417120SHA256 all_packages-x86-6.43.16.zip: 8e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6MD5 all_packages-x86-6.43.16.zip: 2e9b94a85a9b04414ca7f2cfa1417120SHA256 all_packages-x86-6.43.16.zip: 8e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6MD5 all_packages-x86-6.43.16.zip: 2e9b94a85a9b04414ca7f2cfa1417120SHA256 all_packages-x86-6.43.16.zip: 8e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6MD5 chr-6.43.16.img.zip: 95b347d2b90689520a2efe894b36941aSHA256 chr-6.43.16.img.zip: 3a5c58c1584e84e4f7e20a5ad16c08a382ea082580e2d5c9f67a152749ed43faMD5 chr-6.43.16.img.zip: 95b347d2b90689520a2efe894b36941aSHA256 chr-6.43.16.img.zip: 3a5c58c1584e84e4f7e20a5ad16c08a382ea082580e2d5c9f67a152749ed43faMD5 chr-6.43.16.img.zip: 95b347d2b90689520a2efe894b36941aSHA256 chr-6.43.16.img.zip: 3a5c58c1584e84e4f7e20a5ad16c08a382ea082580e2d5c9f67a152749ed43faMD5 chr-6.43.16.vmdk: 6a9c9fbef461ef254bb93265a54a8562SHA256 chr-6.43.16.vmdk: 420cd8e53e941ebe2811892d505c69f8ef98c986541f8d293156b7ae65c38bb7MD5 chr-6.43.16.vmdk: 6a9c9fbef461ef254bb93265a54a8562SHA256 chr-6.43.16.vmdk: 420cd8e53e941ebe2811892d505c69f8ef98c986541f8d293156b7ae65c38bb7MD5 chr-6.43.16.vmdk: 6a9c9fbef461ef254bb93265a54a8562SHA256 chr-6.43.16.vmdk: 420cd8e53e941ebe2811892d505c69f8ef98c986541f8d293156b7ae65c38bb7MD5 chr-6.43.16.vhdx: d9a3bf4c9405a3e6c639cfc0fa7798d2SHA256 chr-6.43.16.vhdx: 49d2f0cd48031355b315cd5412d52d87c7f8cbaa178106eeba38b75c07dcfa8bMD5 chr-6.43.16.vhdx: d9a3bf4c9405a3e6c639cfc0fa7798d2SHA256 chr-6.43.16.vhdx: 49d2f0cd48031355b315cd5412d52d87c7f8cbaa178106eeba38b75c07dcfa8bMD5 chr-6.43.16.vhdx: d9a3bf4c9405a3e6c639cfc0fa7798d2SHA256 chr-6.43.16.vhdx: 49d2f0cd48031355b315cd5412d52d87c7f8cbaa178106eeba38b75c07dcfa8bMD5 chr-6.43.16.vdi: 504e730acb37b0a70bb52d282ca35d65SHA256 chr-6.43.16.vdi: 094fda6b4e76977ff6acb33b175b4beb5f143cae4b5ed6154587df08ff9158beMD5 chr-6.43.16.vdi: 504e730acb37b0a70bb52d282ca35d65SHA256 chr-6.43.16.vdi: 094fda6b4e76977ff6acb33b175b4beb5f143cae4b5ed6154587df08ff9158beMD5 chr-6.43.16.vdi: 504e730acb37b0a70bb52d282ca35d65SHA256 chr-6.43.16.vdi: 094fda6b4e76977ff6acb33b175b4beb5f143cae4b5ed6154587df08ff9158beMD5 dude-6.43.16.npk: b6802f148f897a1c4e0b7155a4707350SHA256 dude-6.43.16.npk: d4942001593b39e80f5dc2449bd49d158ed30493e036bf3a5dff6598015e86b8MD5 dude-6.43.16.npk: b6802f148f897a1c4e0b7155a4707350SHA256 dude-6.43.16.npk: d4942001593b39e80f5dc2449bd49d158ed30493e036bf3a5dff6598015e86b8MD5 dude-6.43.16.npk: b6802f148f897a1c4e0b7155a4707350SHA256 dude-6.43.16.npk: d4942001593b39e80f5dc2449bd49d158ed30493e036bf3a5dff6598015e86b8MD5 dude-install-6.43.16.exe: e9e156d13331ece202c33e18ca566266SHA256 dude-install-6.43.16.exe: 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364aeMD5 dude-install-6.43.16.exe: e9e156d13331ece202c33e18ca566266SHA256 dude-install-6.43.16.exe: 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364aeMD5 dude-install-6.43.16.exe: e9e156d13331ece202c33e18ca566266SHA256 dude-install-6.43.16.exe: 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364aeMD5 chr-6.43.16.ova: 7495735026a2decef3c44aa1ac40b2eaSHA256 chr-6.43.16.ova: a09a92d9d9cedcfcdffa57c8ffc32008f00f4b4a2532fe85ec3eb7a58cea42f1MD5 chr-6.43.16.ova: 7495735026a2decef3c44aa1ac40b2eaSHA256 chr-6.43.16.ova: a09a92d9d9cedcfcdffa57c8ffc32008f00f4b4a2532fe85ec3eb7a58cea42f1MD5 chr-6.43.16.ova: 7495735026a2decef3c44aa1ac40b2eaSHA256 chr-6.43.16.ova: a09a92d9d9cedcfcdffa57c8ffc32008f00f4b4a2532fe85ec3eb7a58cea42f1
+×
+MD5 all_packages-x86-6.46beta6.zip: 80ccc7c86a6aa82afa70455818904408SHA256 all_packages-x86-6.46beta6.zip: 155810efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866MD5 all_packages-x86-6.46beta6.zip: 80ccc7c86a6aa82afa70455818904408SHA256 all_packages-x86-6.46beta6.zip: 155810efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866MD5 all_packages-x86-6.46beta6.zip: 80ccc7c86a6aa82afa70455818904408SHA256 all_packages-x86-6.46beta6.zip: 155810efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866MD5 chr-6.46beta6.img.zip: 5c0847299bf168d0d5a7453e9f654de9SHA256 chr-6.46beta6.img.zip: e2dfc04abefd6990810d3fdcfac9b975c8f915cb9f457685c44baae25ec8272dMD5 chr-6.46beta6.img.zip: 5c0847299bf168d0d5a7453e9f654de9SHA256 chr-6.46beta6.img.zip: e2dfc04abefd6990810d3fdcfac9b975c8f915cb9f457685c44baae25ec8272dMD5 chr-6.46beta6.img.zip: 5c0847299bf168d0d5a7453e9f654de9SHA256 chr-6.46beta6.img.zip: e2dfc04abefd6990810d3fdcfac9b975c8f915cb9f457685c44baae25ec8272dMD5 chr-6.46beta6.vmdk: 7019db698d60165464e63433944bdb76SHA256 chr-6.46beta6.vmdk: 2c5205b18e0315cbc06a05978b0c7fb1001e631f007697f1ccf39fbe68ad20c8MD5 chr-6.46beta6.vmdk: 7019db698d60165464e63433944bdb76SHA256 chr-6.46beta6.vmdk: 2c5205b18e0315cbc06a05978b0c7fb1001e631f007697f1ccf39fbe68ad20c8MD5 chr-6.46beta6.vmdk: 7019db698d60165464e63433944bdb76SHA256 chr-6.46beta6.vmdk: 2c5205b18e0315cbc06a05978b0c7fb1001e631f007697f1ccf39fbe68ad20c8MD5 chr-6.46beta6.vhdx: 1fdc929ad3c85796c19216474bdba5b8SHA256 chr-6.46beta6.vhdx: 678ca15549008cfe5b7259e125b8e5ae2bb23ddaa931ac65cc94a7851e90cfd6MD5 chr-6.46beta6.vhdx: 1fdc929ad3c85796c19216474bdba5b8SHA256 chr-6.46beta6.vhdx: 678ca15549008cfe5b7259e125b8e5ae2bb23ddaa931ac65cc94a7851e90cfd6MD5 chr-6.46beta6.vhdx: 1fdc929ad3c85796c19216474bdba5b8SHA256 chr-6.46beta6.vhdx: 678ca15549008cfe5b7259e125b8e5ae2bb23ddaa931ac65cc94a7851e90cfd6MD5 chr-6.46beta6.vdi: bff19bc14014251815386c7a8d54ae27SHA256 chr-6.46beta6.vdi: 9aaf898917f4408e755ddb3f559ea4e029a1ca970fcd68b1fcb2ecf2e1ef4f78MD5 chr-6.46beta6.vdi: bff19bc14014251815386c7a8d54ae27SHA256 chr-6.46beta6.vdi: 9aaf898917f4408e755ddb3f559ea4e029a1ca970fcd68b1fcb2ecf2e1ef4f78MD5 chr-6.46beta6.vdi: bff19bc14014251815386c7a8d54ae27SHA256 chr-6.46beta6.vdi: 9aaf898917f4408e755ddb3f559ea4e029a1ca970fcd68b1fcb2ecf2e1ef4f78MD5 dude-6.46beta6.npk: 668c6ddc2ba203dd915660530c6514e4SHA256 dude-6.46beta6.npk: 44428c839e06c3d634e9f1a2dd71b9a495722170f0944507eb58e3a19df3d62aMD5 dude-6.46beta6.npk: 668c6ddc2ba203dd915660530c6514e4SHA256 dude-6.46beta6.npk: 44428c839e06c3d634e9f1a2dd71b9a495722170f0944507eb58e3a19df3d62aMD5 dude-6.46beta6.npk: 668c6ddc2ba203dd915660530c6514e4SHA256 dude-6.46beta6.npk: 44428c839e06c3d634e9f1a2dd71b9a495722170f0944507eb58e3a19df3d62aMD5 dude-install-6.46beta6.exe: af72bb8ed9200a738e93521fd9829780SHA256 dude-install-6.46beta6.exe: 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5MD5 dude-install-6.46beta6.exe: af72bb8ed9200a738e93521fd9829780SHA256 dude-install-6.46beta6.exe: 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5MD5 dude-install-6.46beta6.exe: af72bb8ed9200a738e93521fd9829780SHA256 dude-install-6.46beta6.exe: 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5MD5 chr-6.46beta6.ova: ab295fec15ab9175036addcc8f2e4b44SHA256 chr-6.46beta6.ova: 1d7d1c45cebe6ce37cb5713e144cb9f52051c32c786ac9bfa78ba14f9964941aMD5 chr-6.46beta6.ova: ab295fec15ab9175036addcc8f2e4b44SHA256 chr-6.46beta6.ova: 1d7d1c45cebe6ce37cb5713e144cb9f52051c32c786ac9bfa78ba14f9964941aMD5 chr-6.46beta6.ova: ab295fec15ab9175036addcc8f2e4b44SHA256 chr-6.46beta6.ova: 1d7d1c45cebe6ce37cb5713e144cb9f52051c32c786ac9bfa78ba14f9964941a
+×
+MD5 all_packages-x86-6.45.1.zip: fc637b30531fa48c7afa4d7f96bbe4e1SHA256 all_packages-x86-6.45.1.zip: c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2eMD5 all_packages-x86-6.45.1.zip: fc637b30531fa48c7afa4d7f96bbe4e1SHA256 all_packages-x86-6.45.1.zip: c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2eMD5 all_packages-x86-6.45.1.zip: fc637b30531fa48c7afa4d7f96bbe4e1SHA256 all_packages-x86-6.45.1.zip: c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2eMD5 chr-6.45.1.img.zip: 29be6d8cdf06e392049bb1611eabfb22SHA256 chr-6.45.1.img.zip: 92049491f935da7e6f8e3a80a6482c8c8fde94fb26933400cf1c03621c6ea5f6MD5 chr-6.45.1.img.zip: 29be6d8cdf06e392049bb1611eabfb22SHA256 chr-6.45.1.img.zip: 92049491f935da7e6f8e3a80a6482c8c8fde94fb26933400cf1c03621c6ea5f6MD5 chr-6.45.1.img.zip: 29be6d8cdf06e392049bb1611eabfb22SHA256 chr-6.45.1.img.zip: 92049491f935da7e6f8e3a80a6482c8c8fde94fb26933400cf1c03621c6ea5f6MD5 chr-6.45.1.vmdk: 2cfdce42845e8a6b7b61d28931f73c00SHA256 chr-6.45.1.vmdk: 5fb351b55db558500e2e82742c650803905309d84f03c7f24fb7c83289f79a01MD5 chr-6.45.1.vmdk: 2cfdce42845e8a6b7b61d28931f73c00SHA256 chr-6.45.1.vmdk: 5fb351b55db558500e2e82742c650803905309d84f03c7f24fb7c83289f79a01MD5 chr-6.45.1.vmdk: 2cfdce42845e8a6b7b61d28931f73c00SHA256 chr-6.45.1.vmdk: 5fb351b55db558500e2e82742c650803905309d84f03c7f24fb7c83289f79a01MD5 chr-6.45.1.vhdx: 038aeace7bad83628f345fdc0325f011SHA256 chr-6.45.1.vhdx: b9c9e969b43d87697f593dbf17219957d75f1c3659f0725a4e27a78bd263182dMD5 chr-6.45.1.vhdx: 038aeace7bad83628f345fdc0325f011SHA256 chr-6.45.1.vhdx: b9c9e969b43d87697f593dbf17219957d75f1c3659f0725a4e27a78bd263182dMD5 chr-6.45.1.vhdx: 038aeace7bad83628f345fdc0325f011SHA256 chr-6.45.1.vhdx: b9c9e969b43d87697f593dbf17219957d75f1c3659f0725a4e27a78bd263182dMD5 chr-6.45.1.vdi: 4e50d7522f28e77a5ae4ef8772fd3366SHA256 chr-6.45.1.vdi: 278c847b1788f7e8080e68021b3c41f0c81c465bb6274a065da336615fa76f6eMD5 chr-6.45.1.vdi: 4e50d7522f28e77a5ae4ef8772fd3366SHA256 chr-6.45.1.vdi: 278c847b1788f7e8080e68021b3c41f0c81c465bb6274a065da336615fa76f6eMD5 chr-6.45.1.vdi: 4e50d7522f28e77a5ae4ef8772fd3366SHA256 chr-6.45.1.vdi: 278c847b1788f7e8080e68021b3c41f0c81c465bb6274a065da336615fa76f6eMD5 dude-6.45.1.npk: 9bff3365be0f23613824166f0c52dbc4SHA256 dude-6.45.1.npk: 32e8622d40599fd9928d4d5eb0b631e738d6b9a58ca937a392810b662f9917f6MD5 dude-6.45.1.npk: 9bff3365be0f23613824166f0c52dbc4SHA256 dude-6.45.1.npk: 32e8622d40599fd9928d4d5eb0b631e738d6b9a58ca937a392810b662f9917f6MD5 dude-6.45.1.npk: 9bff3365be0f23613824166f0c52dbc4SHA256 dude-6.45.1.npk: 32e8622d40599fd9928d4d5eb0b631e738d6b9a58ca937a392810b662f9917f6MD5 dude-install-6.45.1.exe: 05a805764bb38512a601efcf42eb4d50SHA256 dude-install-6.45.1.exe: 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720MD5 dude-install-6.45.1.exe: 05a805764bb38512a601efcf42eb4d50SHA256 dude-install-6.45.1.exe: 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720MD5 dude-install-6.45.1.exe: 05a805764bb38512a601efcf42eb4d50SHA256 dude-install-6.45.1.exe: 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720
+×
+What's new in 6.43.16 (2019-May-14 11:40):
+*) w60g - fixed memory leak (introduced in v6.43.15);
+Changelog archive
+×
+What's new in 6.46beta6 (2019-Jul-04 11:53):
+Changes in this release:
+*) cloud - properly stop "time-zone-autodetect" after disable;
+*) conntrack - properly start manually enabled connection tracking;
+*) dhcpv6-server - made "calling-station-id" contain MAC address if DUID contains it;
+*) fetch - improved stability when processing large output data;
+*) hotspot - fixed non-local NAT redirection to port TCP/64873;
+*) ipsec - improved stability for peer initialization (introduced in v6.45);
+*) lte - do not allow setting 3G and GSM modes on LTE only modems;
+*) lte - show "primary-band" only for LTE modems;
+*) radius - fixed "User-Password" encoding (introduced in v6.45);
+*) tr069-client - reconnect to ACS when "ConnectionRequestURL" is updated;
+*) w60g - added "region" setting to limit allowed frequencies (CLI only);
+Changelog archive
+×
+What's new in 6.45.1 (2019-Jun-27 10:23):
+Important note!!!
+Due to removal of compatibility with old version passwords in this version, downgrading to any version prior to v6.43 (v6.42.12 and older) will clear all user passwords and allow password-less authentication. Please secure your router after downgrading.
+Old API authentication method will also no longer work, see documentation for new login procedure:
+https://wiki.mikrotik.com/wiki/Manual:API#Initial_login
+MAJOR CHANGES IN v6.45.1:
+----------------------
+!) dot1x - added support for IEEE 802.1X Port-Based Network Access Control;
+!) ike2 - added support for EAP authentication methods (eap-tls, eap-ttls, eap-peap, eap-mschapv2) as initiator;
+!) security - fixed vulnerabilities CVE-2018-1157, CVE-2018-1158;
+!) security - fixed vulnerabilities CVE-2019-11477, CVE-2019-11478, CVE-2019-11479;
+!) security - fixed vulnerability CVE-2019-13074;
+!) user - removed insecure password storage;
+----------------------
+Changes in this release:
+*) bridge - correctly display bridge FastPath status when vlan-filtering or dhcp-snooping is used;
+*) bridge - correctly handle bridge host table;
+*) bridge - fixed log message when hardware offloading is being enabled;
+*) bridge - improved stability when receiving traffic over USB modem with bridge firewall enabled;
+*) capsman - fixed CAP system upgrading process for MMIPS;
+*) capsman - fixed interface-list usage in access list;
+*) ccr - improved packet processing after overloading interface;
+*) certificate - added "key-type" field;
+*) certificate - added support for ECDSA certificates (prime256v1, secp384r1, secp521r1);
+*) certificate - fixed self signed CA certificate handling by SCEP client;
+*) certificate - made RAM the default CRL storage location;
+*) certificate - removed DSA (D) flag;
+*) certificate - removed "set-ca-passphrase" parameter;
+*) chr - legacy adapters require "disable-running-check=yes" to be set;
+*) cloud - added "replace" parameter for backup "upload-file" command;
+*) conntrack - fixed GRE protocol packet connection-state matching (CVE-2014-8160);
+*) conntrack - significant stability and performance improvements;
+*) crs317 - fixed known multicast flooding to the CPU;
+*) crs3xx - added ethernet tx-drop counter;
+*) crs3xx - correctly display auto-negotiation information for SFP/SFP+ interfaces in 1Gbps rate;
+*) crs3xx - fixed auto negotiation when 2-pair twisted cable is used (downshift feature);
+*) crs3xx - fixed "tx-drop" counter;
+*) crs3xx - improved switch-chip resource allocation on CRS326, CRS328, CRS305;
+*) defconf - added "custom-script" field that prints custom configuration installed by Netinstall;
+*) defconf - automatically set "installation" parameter for outdoor devices;
+*) defconf - changed default configuration type to AP for cAP series devices;
+*) defconf - fixed channel width selection for RU locked devices;
+*) dhcp - create dual stack queue based on limitations specified on DHCPv4 server lease configuration;
+*) dhcp - do not require lease and binding to have the same configuration for dual-stack queues;
+*) dhcp - show warning in log if lease and binding dual-stack related parameters do not match and create separate queues;
+*) dhcpv4-server - added "client-mac-limit" parameter;
+*) dhcpv4-server - added IP conflict logging;
+*) dhcpv4-server - added RADIUS accounting support with queue based statistics;
+*) dhcpv4-server - added "vendor-class-id" matcher (CLI only);
+*) dhcpv4-server - improved stability when performing "check-status" command;
+*) dhcpv4-server - replaced "busy" lease status with "conflict" and "declined";
+*) dhcpv6-client - added option to disable rapid-commit;
+*) dhcpv6-client - fixed status update when leaving "bound" state;
+*) dhcpv6-server - added additional RADIUS parameters for Prefix delegation, "rate-limit" and "life-time";
+*) dhcpv6-server - added "address-list" support for bindings;
+*) dhcpv6-server - added "insert-queue-before" and "parent-queue" parameters;
+*) dhcpv6-server - added RADIUS accounting support with queue based statistics;
+*) dhcpv6-server - added "route-distance" parameter;
+*) dhcpv6-server - fixed dynamic IPv6 binding without proper reference to the server;
+*) dhcpv6-server - override prefix pool and/or DNS server settings by values received from RADIUS;
+*) discovery - correctly create neighbors from VLAN tagged discovery messages;
+*) discovery - fixed CDP packets not including address on slave ports (introduced in v6.44);
+*) discovery - improved neighbour's MAC address detection;
+*) discovery - limit max neighbour count per interface based on total RAM memory;
+*) discovery - show neighbors on actual mesh ports;
+*) e-mail - include "message-id" identification field in e-mail header;
+*) e-mail - properly release e-mail sending session if the server's domain name can not be resolved;
+*) ethernet - added support for 25Gbps and 40Gbps rates;
+*) ethernet - fixed running (R) flag not present on x86 interfaces and CHR legacy adapters;
+*) ethernet - increased loop warning threshold to 5 packets per second;
+*) fetch - added SFTP support;
+*) fetch - improved user policy lookup;
+*) firewall - fixed fragmented packet processing when only RAW firewall is configured;
+*) firewall - process packets by firewall when accepted by RAW with disabled connection tracking;
+*) gps - fixed missing minus close to zero coordinates in dd format;
+*) gps - make sure "direction" parameter is upper case;
+*) gps - strip unnecessary trailing characters from "longtitude" and "latitude" values;
+*) gps - use "serial0" as default port on LtAP mini;
+*) hotspot - added "interface-mac" variable to HTML pages;
+*) hotspot - moved "title" HTML tag after "meta" tags;
+*) ike1 - adjusted debug packet logging topics;
+*) ike2 - added support for ECDSA certificate authentication (rfc4754);
+*) ike2 - added support for IKE SA rekeying for initiator;
+*) ike2 - do not send "User-Name" attribute to RADIUS server if not provided;
+*) ike2 - improved certificate verification when multiple CA certificates received from responder;
+*) ike2 - improved child SA rekeying process;
+*) ike2 - improved XAuth identity conversion on upgrade;
+*) ike2 - prefer SAN instead of DN from certificate for ID payload;
+*) ippool - improved logging for IPv6 Pool when prefix is already in use;
+*) ipsec - added dynamic comment field for "active-peers" menu inherited from identity;
+*) ipsec - added "ph2-total" counter to "active-peers" menu;
+*) ipsec - added support for RADIUS accounting for "eap-radius" and "pre-shared-key-xauth" authentication methods;
+*) ipsec - added traffic statistics to "active-peers" menu;
+*) ipsec - disallow setting "src-address" and "dst-address" for transport mode policies;
+*) ipsec - do not allow adding identity to a dynamic peer;
+*) ipsec - fixed policies becoming invalid after changing priority;
+*) ipsec - general improvements in policy handling;
+*) ipsec - properly drop already established tunnel when address change detected;
+*) ipsec - renamed "remote-peers" to "active-peers";
+*) ipsec - renamed "rsa-signature" authentication method to "digital-signature";
+*) ipsec - replaced policy SA address parameters with peer setting;
+*) ipsec - use tunnel name for dynamic IPsec peer name;
+*) ipv6 - improved system stability when receiving bogus packets;
+*) ltap - renamed SIM slots "up" and "down" to "2" and "3";
+*) lte - added initial support for Vodafone R216-Z;
+*) lte - added passthrough interface subnet selection;
+*) lte - added support for manual operator selection;
+*) lte - allow setting empty APN;
+*) lte - allow to specify URL for firmware upgrade "firmware-file" parameter;
+*) lte - do not show error message for info commands that are not supported;
+*) lte - fixed session reactivation on R11e-LTE in UMTS mode;
+*) lte - improved firmware upgrade process;
+*) lte - improved "info" command query;
+*) lte - improved R11e-4G modem operation;
+*) lte - renamed firmware upgrade "path" command to "firmware-file" (CLI only);
+*) lte - show alphanumeric value for operator info;
+*) lte - show correct firmware revision after firmware upgrade;
+*) lte - use default APN name "internet" when not provided;
+*) lte - use secondary DNS for DNS server configuration;
+*) m33g - added support for additional Serial Console port on GPIO headers;
+*) ospf - added support for link scope opaque LSAs (Type 9) for OSPFv2;
+*) ospf - fixed opaque LSA type checking in OSPFv2;
+*) ospf - improved "unknown" LSA handling in OSPFv3;
+*) ovpn - added "verify-server-certificate" parameter for OVPN client (CVE-2018-10066);
+*) ppp - added initial support for Quectel BG96;
+*) proxy - increased minimal free RAM that can not be used for proxy services;
+*) rb3011 - improved system stability when receiving bogus packets;
+*) rb4011 - fixed MAC address duplication between sfp-sfpplus1 and wlan1 interfaces (wlan1 configuration reset required);
+*) rb921 - improved system stability ("/system routerboard upgrade" required);
+*) routerboard - renamed 'sim' menu to 'modem';
+*) sfp - fixed S-35LC20D transceiver DDMI readouts after reboot;
+*) sms - added USSD message functionality under "/tool sms" (CLI only);
+*) sms - allow specifying multiple "allowed-number" values;
+*) sms - improved delivery report logging;
+*) snmp - added "dot1dStpPortTable" OID;
+*) snmp - added OID for neighbor "interface";
+*) snmp - added "write-access" column to community print;
+*) snmp - allow setting interface "adminStatus";
+*) snmp - fixed "send-trap" not working when "trap-generators" does not contain "temp-exception";
+*) snmp - fixed "send-trap" with multiple "trap-targets";
+*) snmp - improved reliability on SNMP service packet validation;
+*) snmp - properly return multicast and broadcast packet counters for IF-MIB OIDs;
+*) ssh - accept remote forwarding requests with empty hostnames;
+*) ssh - added new "ssh-exec" command for non-interactive command execution;
+*) ssh - fixed non-interactive multiple command execution;
+*) ssh - improved remote forwarding handling (introduced in v6.44.3);
+*) ssh - improved session rekeying process on exchanged data size threshold;
+*) ssh - keep host keys when resetting configuration with "keep-users=yes";
+*) ssh - use correct user when "output-to-file" parameter is used;
+*) sstp - improved stability when received traffic hits tarpit firewall;
+*) supout - added IPv6 ND section to supout file;
+*) supout - added "kid-control devices" section to supout file;
+*) supout - added "pwr-line" section to supout file;
+*) supout - changed IPv6 pool section to output detailed print;
+*) switch - properly reapply settings after switch chip reset;
+*) tftp - added "max-block-size" parameter under TFTP "settings" menu (CLI only);
+*) tile - improved link fault detection on SFP+ ports;
+*) tr069-client - added LTE CQI and IMSI parameter support;
+*) tr069-client - fixed potential memory corruption;
+*) tr069-client - improved error reporting with incorrect firware upgrade XML file;
+*) traceroute - improved stability when sending large ping amounts;
+*) traffic-generator - improved stability when stopping traffic generator;
+*) tunnel - removed "local-address" requirement when "ipsec-secret" is used;
+*) userman - added support for "Delegated-IPv6-Pool" and "DNS-Server-IPv6-Address" (CLI only);
+*) w60g - do not show unused "dmg" parameter;
+*) w60g - prefer AP with strongest signal when multiple APs with same SSID present;
+*) w60g - show running frequency under "monitor" command;
+*) winbox - added "System/SwOS" menu for all dual-boot devices;
+*) winbox - do not allow setting "dns-lookup-interval" to "0";
+*) winbox - show "LCD" menu only on boards that have LCD screen;
+*) wireless - fixed frequency duplication in the frequency selection menu;
+*) wireless - fixed incorrect IP header for RADIUS accounting packet;
+*) wireless - improved 160MHz channel width stability on rb4011;
+*) wireless - improved DFS radar detection when using non-ETSI regulated country;
+*) wireless - improved installation mode selection for wireless outdoor equipment;
+*) wireless - set default SSID and supplicant-identity the same as router's identity;
+*) wireless - updated "china" regulatory domain information;
+*) wireless - updated "new zealand" regulatory domain information;
+*) www - improved client-initiated renegotiation within the SSL and TLS protocols (CVE-2011-1473);
+Changelog archive
+×
+NPK file - Default RouterOS version upgrade package, most important features included
+ZIP file - Contains all packages, including additional ones (User manager, etc.)
+ISO file - CD disk image, available only for x86 instruction set
+Netinstall - Utility for Installation from network
+Click on changelog link to view changes in current and previous versions.
+Click on MD5 link to view MD5 hashes of files.
+Export Eligibility Requirements and END USER LICENSE
+×
+RouterOS
+6.43.16 (Long-term)6.45.1 (Stable)6.46beta6 (Testing)
+MIPSBECRS1xx, CRS2xx, DISC, FiberBox, hAP, hAP ac, hAP ac lite, LDF, LHG, ltAP mini, mANTBox, mAP, NetBox, NetMetal, PowerBox, PWR-Line, QRT, RB9xx, SXTsq, cAP, hEX Lite, RB4xx, wAP, BaseBox, DynaDish, RB2011, SXT, OmniTik, Groove, Metal, Sextant, RB7xx, hEX PoEMain packageExtra packagesSMIPShAP mini, hAP liteMain packageExtra packagesTILECCRMain packageExtra packagesThe Dude serverPPCRB3xx, RB600, RB8xx, RB1100AHx2, RB1100AH, RB1100, RB1200Main packageExtra packagesARMcAP ac, DISC AC, hAP ac², LDF ac, LHG ac, RB4011, SXTsq (ac series), Wireless Wire, CRS3xx, RB3011, RB1100AHx4, RB450Gx4Main packageExtra packagesThe Dude serverX86RB230, X86Main packageExtra packagesCD ImageThe Dude serverMMIPShEX (RB750Gr3), hEX S, RBMxxMain packageExtra packagesThe Dude serverGENERALNetinstallThe Dude clientChangelogChecksum
+Cloud Hosted Router
+6.43.16 (Long-term)6.45.1 (Stable)6.46beta6 (Testing)
+Imagesvmdk, vhdx, vdi, ova, imgVHDX imageVMDK imageVDI imageOVA template - Raw disk imageExtra packagesThe Dude serverThe Dude clientChangelogChecksum
+SwitchOS
+SwitchesChangelog 1.17version 1.17 for RB250GSversion 1.17 for RB260GS, RB260GSPversion 2.9 for new RB260GS(CSS106-5G-1S), new RB260GSP(CSS106-1G-4P-1S)version 2.9 for CRS305-1G-4S+version 2.9 for CRS317-1G-16S+version 2.9 for CSS326-24G-2S+, CRS326-24G-2S+version 2.9 for CRS328-4C-20S-4S+version 2.9 for CRS328-24P-4S+Changelog 2.9
+Useful tools and utilities
+Wireless link calculatorWireless link probability calculator
+×
+MikroTik
+Home
+About
+Customers
+Jobs
+Support
+Get support
+Forum
+Wiki
+Send an E-mail
+Other
+Newsletters
+MUM
+Designs
+Youtube
+Privacy policy
+Click Here
+Sign up for the newsletter
+Please sign up to get notified about new RouterOS version releases and other useful information!
+MikroTik app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 rb edvsa brm FTP server (MikroTik 6.23) ready
+Refined:  220 rb edvsa brm ftp server mikrotik 6 ready
+
+============================https://mikrotik.com/download===============================
+
+ software homeaboutbuyjobshardwaresoftwaresupporttrainingaccount software downloadschangelogsdownload archiverouterosthe dudemobile app software downloadschangelogsdownload archiverouterosthe dudemobile app upgrading routeros raw disk imageextra packagesthe dude serverthe dude clientchangelogchecksum switchos switcheschangelog 1 rbmxxmain packageextra packagesthe dude servergeneralnetinstallthe dude clientchangelogchecksum cloud hosted router 6 utilities wireless link calculatorwireless link probability calculator × mikrotik home hap litemain packageextra packagestileccrmain packageextra packagesthe dude serverppcrb3xx customers jobs support get support forum wiki send newsletters mum designs youtube privacy policy click fixed dynamic ipv6 binding without proper reference x86main packageextra packagescd imagethe dude servermmipshex 1473 ); changelog archive × npk file improved system stability ("/ system routerboard upgrade limit max neighbour count per interface based wlan1 configuration reset required ); *) rb921 rb450gx4main packageextra packagesthe dude serverx86rb230 properly start manually enabled connection tracking end user license × routeros 6 fixed self signed ca certificate handling imgvhdx imagevmdk imagevdi imageova template 23 ): important note !!! hex poemain packageextra packagessmipshap mini 15 ); changelog archive × adjusted debug packet logging topics fixed gre protocol packet connection incorrect firware upgrade xml file fixed cap system upgrading process correctly handle bridge host table important features included zip file improved 160mhz channel width stability improved child sa rekeying process added passthrough interface subnet selection ac series ), wireless wire fixed opaque lsa type checking downshift feature ); *) crs3xx correctly display bridge fastpath status received traffic hits tarpit firewall ); changelog archive × replaced policy sa address parameters required ); *) routerboard link scope opaque lsas default routeros version upgrade package properly drop already established tunnel rb1200main packageextra packagesarmcap ac create dual stack queue based 5 packets per second fixed channel width selection improved link fault detection strip unnecessary trailing characters 35lc20d transceiver ddmi readouts default crl storage location fixed missing minus close snmp service packet validation sending large ping amounts fixed fragmented packet processing fixed policies becoming invalid fixed known multicast flooding fixed incorrect ip header improved delivery report logging increased minimal free ram increased loop warning threshold improved dfs radar detection accept remote forwarding requests fixed potential memory corruption 10066 ); *) ppp 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364ae × md5 routeros 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5 × md5 routeros improved session rekeying process exchanged data size threshold targets "; *) snmp exception "; *) snmp adminstatus "; *) snmp a09a92d9d9cedcfcdffa57c8ffc32008f00f4b4a2532fe85ec3eb7a58cea42f1 × md5 all_packages 1d7d1c45cebe6ce37cb5713e144cb9f52051c32c786ac9bfa78ba14f9964941a × md5 all_packages processing large output data changed default configuration type additional serial console port prints custom configuration installed declined "; *) dhcpv6 secp521r1 ); *) certificate improved firmware upgrade process 8160 ); *) conntrack added ussd message functionality vlan tagged discovery messages improved remote forwarding handling 40 ): *) w60g added dynamic comment field interface "; *) snmp 3 ); *) ssh 0 "; *) winbox added ipv6 nd section 3 "; *) lte 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720 × md5 all_packages added ip conflict logging improved user policy lookup use default apn name rfc4754 ); *) ike2 multiple ca certificates received 1s ), new rb260gsp cd disk image 45 ); *) tr069 fixed mac address duplication changed ipv6 pool section show correct firmware revision 44 ); *) discovery added radius accounting support removed insecure password storage improved installation mode selection added additional radius parameters 45 ); *) lte time "; *) dhcpv6 dynamic ipsec peer name mikrotik app improved xauth identity conversion based network access control interactive multiple command execution signature "; *) ipsec peers "; *) ipsec modem '; *) sfp disabled connection tracking dude netinstall winbox 3 allow setting empty apn yes "; *) ssh new routeros version releases improved system stability old api authentication method dhcpv4 server lease configuration ike sa rekeying x86 instruction set netinstall correctly display auto improved packet processing × md5 routeros queue based statistics switch chip reset rb750gr3 ), hex properly return multicast correctly create neighbors added sftp support added initial support fixed frequency duplication https :// wiki fixed session reactivation fixed memory leak ); *) w60g ); *) dhcpv4 broadcast packet counters wireless outdoor equipment bridge firewall enabled fixed cdp packets ); *) lte stack related parameters ); *) sms transport mode policies interactive command execution improved certificate verification 53 ): changes radius accounting packet mac address detection cap series devices fixed status update improved error reporting changelog link use correct user *) cloud including additional ones create separate queues added traffic statistics fixed auto negotiation view md5 hashes properly reapply settings pair twisted cable keep host keys initiated renegotiation within imsi parameter support export eligibility requirements etsi regulated country chip resource allocation address change detected 4g modem operation renamed firmware upgrade fixed vulnerability cve fixed vulnerabilities cve use tunnel name ); *) tile mail sending session md5 link added lte cqi frequency selection menu old version passwords dns server configuration set default ssid limit allowed frequencies "/ tool sms new login procedure hap ac lite show alphanumeric value receiving bogus packets prefer san instead legacy adapters require initial_login major changes allow specifying multiple ru locked devices fixed log message total ram memory ecdsa certificate authentication allow setting interface use secondary dns manual operator selection allow adding identity show error message output detailed print allow setting 3g chr legacy adapters stopping traffic generator policy handling maintenance utilities local nat redirection actual mesh ports improved neighbour already running routeros show running frequency contain mac address 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720 × properly release e added ethernet tx regulatory domain information override prefix pool newsletter please sign 9 useful tools dns server settings renamed sim slots raw firewall eap authentication methods improved stability added support improved logging process packets lsa handling get notified 2s +, crs326 19 6 *) wireless fixed interface dynamic peer upgrading firmware upgrade *) bridge *) snmp wlan1 interfaces default port hap ac *) tunnel *) ipv6 *) discovery *) dhcpv6 router rb250gsversion 1 binding dual 17version 1 *) certificate fixed running stack queues ipv6 pool hex lite significant stability changelog 2 *) w60g *) traffic *) tr069 *) ipsec *) dhcpv4 *) conntrack added new network click improved switch supout file properly stop authentication method resetting configuration radius accounting user passwords show warning receiving traffic ltap mini including address ecdsa certificates *) winbox *) ssh *) lte control devices *) sms *) crs3xx improved reliability *) firewall domain name *) radius fixed non web interface overloading interface *) ethernet hap ac² radius server values received iso file authentication methods added option fb20ce522a592055cb799931366945c6sha256 dude fa92615df0022b7056308f219fd2ae9a598e0109de480638b6d27efc9d7eb4c4md5 dude f6dce9de0a7bbc6e5c3eeb84b06c73dfsha256 dude e9e156d13331ece202c33e18ca566266sha256 dude e50697bff03975e3168bef909cc30ea9b5233b3968169d29d9f668ca76232c97md5 dude d6feb9c9fae0e182b9a03aadd11fc388711d3ea20c975143e15d4f6a9b41868dmd5 dude d4942001593b39e80f5dc2449bd49d158ed30493e036bf3a5dff6598015e86b8md5 dude cd1b8fbc5ae8fa4d177a25683355912877efa1239e906ce1590d1181f2565398md5 dude bf333c3c312b39132675998a2ec6aecb55d1a4386574beb91475acf074093365md5 dude beba77a48b8f85bdae82e3e06ac9016asha256 dude b6802f148f897a1c4e0b7155a4707350sha256 dude b39c3369b26e353fee48a14faddb2b9a4c6e05e5aed03975adf5fb5784f6a82cmd5 dude af72bb8ed9200a738e93521fd9829780sha256 dude ac99887dc635f754bd1739d96d0cc2c3sha256 dude a9ada719ce4191efa4735ee0e860b4f4d2c07c161802c71d01ad5470e5dc8288md5 dude 9bff3365be0f23613824166f0c52dbc4sha256 dude 9aaf898917f4408e755ddb3f559ea4e029a1ca970fcd68b1fcb2ecf2e1ef4f78md5 dude 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756md5 dude 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976md5 dude 734ad19595d21fdcdac483f760a75b16sha256 dude 6c2d278069e43fef3b99b7d6a8b31e03sha256 dude 668c6ddc2ba203dd915660530c6514e4sha256 dude 583a9acb182d094717097ba6d46ad295sha256 dude 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364aemd5 dude 44428c839e06c3d634e9f1a2dd71b9a495722170f0944507eb58e3a19df3d62amd5 dude 441b8d3128c6f6e07803f137554d8c9ee9f3d8c57b62a2a7174a7d5adc1ad73dmd5 dude 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5md5 dude 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6md5 dude 333cd59e208a9b887c9a8927e65f48d82133d825fecce9dd1b5142a51a6e36c2md5 dude 32e8622d40599fd9928d4d5eb0b631e738d6b9a58ca937a392810b662f9917f6md5 dude 2be37d8ce62fb5350806ff9794db3a1fsha256 dude 278c847b1788f7e8080e68021b3c41f0c81c465bb6274a065da336615fa76f6emd5 dude 206c79f7f5518c76f542a781aa385160sha256 dude 094fda6b4e76977ff6acb33b175b4beb5f143cae4b5ed6154587df08ff9158bemd5 dude 08cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720md5 dude 05a805764bb38512a601efcf42eb4d50sha256 dude improved client *) switch *) ike2 allow setting view changes user manager usb modem umts mode type 9 show neighbors mail header lease status empty hostnames 6 allow password peer setting outdoor devices improved r11e multiple aps *) chr require lease *) www *) userman *) traceroute *) supout *) sstp *) proxy *) ovpn *) ospf *) m33g *) ltap *) ippool *) ike1 *) hotspot *) gps *) fetch *) e *) defconf *) ccr *) capsman version prior latest version raw less authentication added oid system new zealand ff67721f7ff38e93abbca096af916f76sha256 routeros f7f46d8af98e9d57ffbdc15613c40963sha256 routeros f4c196bc2dba169c5b3cf876801cd580sha256 routeros daf55e25d39b2a04a750a5d55d858760sha256 routeros d33f28c6b7484ec46cf59f55223cd0b4sha256 routeros c9470e217c25de39095fc0feb68aeb00sha256 routeros c4878f4afae0e26db6e267b7ff16d508a4a4e74e1a11fb2bfc522b120c2396femd5 routeros bd4603f75a8c0f48edfa47fd86c5a4c5sha256 routeros bb74067855065245d466689b75e75e278f1c601a9d5d773905f6198ade8b37damd5 routeros ba4fde24fbfa25928947e7bdedc9711e3c52bd2b0fc6723585ec48194c3ca1bfmd5 routeros b45e11874186cc9caa7448a8efbd3f35ffedd24af4898534251e3bd8a8a1aa1emd5 routeros b3d2d170427ed7647ebeeae7643a0232sha256 routeros ad164e2fa469b77b5be78a04c6f009dbe1668120ff8746a39de24e25d620912amd5 routeros a92c813360f83911459166067e5f02369b753257d964608836df2ca883af8344md5 routeros 97317bf24c8a0f2b0b9ffeb8f90cc89d87bc6adc8c877c4a320f015cf36d0a12md5 routeros 96aefdeeaa93edbbe25e5366ad093cdbsha256 routeros 90c9749e6e274265376ca68676eb77besha256 routeros 884bf48e4394ef8ccdbc423bb5769be4sha256 routeros 86a296698b43e55dc549b911945b7baccd9bc747173c3ed5854447e931b21922md5 routeros 7e9dbd68991e13a2ed844b1b0d8e64b3sha256 routeros 762df2b1da07b253238ab210f2c75768821ef634a76d175ac424e7076eb513e7md5 routeros 70a4a080f12f887d1207c7bf7c1e8611sha256 routeros 6c41ec5083abc8f76927b8845e045443sha256 routeros 596b4328488e2d4a28a86499403c237dc80e91749a23d0f2682d4c801e02e0c4md5 routeros 53be44161f1aa6f4a444b4d2343ac86f15f413184139b9fe90bdf2283703f437md5 routeros 4994613711f28b2d5b37cbcecfc56f2dsha256 routeros 4502c467d6950d496ac1e52d5c7a98c4cc9ebd15b64d1a87c9a180b9676c5d33md5 routeros 3e540dc96526ece4972b3b1c62c12f63sha256 routeros 37d1fa4d61f9e27468799d24fbb5cab8sha256 routeros 33ce3624e928f568f84505a3f8af996a6ea3dbb81a1bf4b09d2cca82b91d8c18md5 routeros 33b932fa7acd82676069d889bc869e70a8e45c6b30f30b7bae21d7c5cc1f1d14md5 routeros 2bf3481cd8f1175d1b929896a35a159bcfc8c65d5337f2c281d17ddbc1000f84md5 routeros 2bca785a0a77c195317c60d1559980791c66b411c0393f1c36d7bf465ddffef2md5 routeros 2b59f7add45d8f5c03f92bdb24bf741095d1389afab2936e246e4dd006e19b0cmd5 routeros 2021a818c32dc5abe7644d99210ba388sha256 routeros 1f4a02f85aaff41d640b37f2e2cea6f747fda4c56564dd920dd8cbc561e7fe3emd5 routeros 1efdb962e4d31311f2052395ef1b7ea5sha256 routeros 1b6199cff74abf53405d11410ee9601c0887b32f54a44fe04dc634cd3d05e99amd5 routeros 1765a8a033c7adf86758aad4b4c4ee34114b9100083282b75b84eb8a2f232a29md5 routeros 159f49022ca24a6f02fc1d6aca1aaafdsha256 routeros 14113f40ddbe907fda4758e87347086csha256 routeros 13fd4309533e59647e517cdb93cf3025c83b52556957721270f426531a503f43md5 routeros mikrotik routers f89b27b26ae9afd6bba6ba1b8c36e0974dc3799c8695f821b156277a01eb4be5md5 mikrotik ac4f1adea659fd3a8d94b0edee9a8185sha256 mikrotik a6c5c13a3c170374a0cbf279e9bb3f29d4425afc7074317713ef0847bd2a8ed9md5 mikrotik a63848ed9871461ffc73b06ca9927108b4e292c462a251eea9ad431e68bfa670md5 mikrotik 75c07b567aac3502439b84d17d82f29b0867473a8882a22c7fa15b22636ece9cmd5 mikrotik 4aa6b35222b38b29b8cbcce464f6749fsha256 mikrotik 35120ca0c996ec8cb5ae4de01824bc5ba07e840005fab1002b285d100a6f7c64md5 mikrotik 16b0158e5a72ae6a18f3ea03d6208d430ace00b188d591a840ba27b6f87359bemd5 mikrotik 08c954a1f8def8c926f9a5946fca1ab8sha256 mikrotik useful information show unused send port tcp please secure peer initialization negotiation information made ram community print command query automatically set 1x port ---------------------- changes version 2 disallow setting boot devices lhg ac ldf ac disc ac removed dsa identification field a6c5c13a3c170374a0cbf279e9bb3f29d4425afc7074317713ef0847bd2a8ed9md5 netinstall 9a1f3ee29e987b828ca3443558fb29b1sha256 netinstall 9674f8a626155d0bbd6323cf7aa558b2sha256 netinstall 95bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756md5 netinstall 7b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976md5 netinstall 7950bd5f819afb4c19e93806b0fc43c8sha256 netinstall 75c07b567aac3502439b84d17d82f29b0867473a8882a22c7fa15b22636ece9cmd5 netinstall 3aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6md5 netinstall 16b0158e5a72ae6a18f3ea03d6208d430ace00b188d591a840ba27b6f87359bemd5 netinstall *) tftp *) rb4011 *) rb3011 *) dhcp *) crs317 lte modems wireless operator info drop counter fc637b30531fa48c7afa4d7f96bbe4e1sha256 all_packages f89b27b26ae9afd6bba6ba1b8c36e0974dc3799c8695f821b156277a01eb4be5md5 all_packages f86735ea4feb79bbcaebacefefd63c38b140f6d275f09c6395f904da5810b4f4md5 all_packages f74c1194222ddb26f2480462ee91bc2da5f3400668d9ab751f12269bf370b3e4md5 all_packages f4d3c134650b9437d3dcc2f7e4f35df7sha256 all_packages ef5e2792a720a280d3960a6164cba67asha256 all_packages e4a8d3bfa8392a92f90a36d036d35767sha256 all_packages d6ec1921003059d6d6f3a4994cd77afasha256 all_packages d32097306ad298224640be9c44f5a78dsha256 all_packages cef37c1f7e489b87bcabce97f5c0bf7b94a34fe0c617b37dc6967d7964a3ac9cmd5 all_packages c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2emd5 all_packages c48f41c97285c416d13f0588a6c07e11sha256 all_packages c4878f4afae0e26db6e267b7ff16d508a4a4e74e1a11fb2bfc522b120c2396femd5 all_packages aec4d29caa2eae03235e0e25cf8b909fsha256 all_packages a63848ed9871461ffc73b06ca9927108b4e292c462a251eea9ad431e68bfa670md5 all_packages 9b085bdd7e3cddced77e98f9ce819ad638accb94cfaf058934031b5c3174d6admd5 all_packages 93de9c6089709e30c2b044a29a837ac7sha256 all_packages 91935412dc3cbe490ba1fdc97430529eb27cf9ec1d225a911b15d4f4ca29272cmd5 all_packages 91293cae563db93940933220f489dda5sha256 all_packages 8f0c18e6e69c44a2dba225bad08355c2sha256 all_packages 8e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6md5 all_packages 88226b52d20e1ddeb6cbc96e121538fcsha256 all_packages 837c0959f6f9b99f333490e6d3f2452f9cb59346f7891494f2fca5bf3a11a835md5 all_packages 80ccc7c86a6aa82afa70455818904408sha256 all_packages 7c7131ca644e79e0bbae986747137837sha256 all_packages 6d77d4a07239ffc52b534ce92dc9526fsha256 all_packages 6059a61c1cb89b0a9da00a45dd9d7e540610059189ceb7a3b31910e9c09c143fmd5 all_packages 604bdc6202dd710688c55035cbd1a444sha256 all_packages 4a7ab84e6d0e23abfc9315bcc113e0fcfb3d7d4caff087066450887a4b7e2425md5 all_packages 486a6bb3c59f33ce950359541d8909394fbe5eec9734ab05df7c2c31f3eb33a1md5 all_packages 4502c467d6950d496ac1e52d5c7a98c4cc9ebd15b64d1a87c9a180b9676c5d33md5 all_packages 3e294984881d6bcbe7c1403ff0d022f4sha256 all_packages 3b41b13e3141ac0e139be71f1d7815cesha256 all_packages 366e75b42eeca8e05999389ef28becfec36c4b4a2db7e139da78ba618d0dd87fmd5 all_packages 35120ca0c996ec8cb5ae4de01824bc5ba07e840005fab1002b285d100a6f7c64md5 all_packages 2e9b94a85a9b04414ca7f2cfa1417120sha256 all_packages 2becaaa9e19f11fa77d948bc574f980fa06d0c061308f80489457d1f5ee06b4amd5 all_packages 2ae2174d31895aeac25afda0a27f22d5394134c0b64bdd34ff10c8a59df83832md5 all_packages 29a3a2531f4bcf65013ef5ef725286307dfa244ccce8a42e351eee34f8f2c478md5 all_packages 1765a8a033c7adf86758aad4b4c4ee34114b9100083282b75b84eb8a2f232a29md5 all_packages 15a41318cf2b86dd6c8f33f16fb546e3sha256 all_packages 155810efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866md5 all_packages 10055b62550605b9b74e9eb6b6335b835dc086f5752354ae6f3cfd7735114399md5 all_packages 0df0f1a7c372588cc5a303e264816b87sha256 all_packages 092623cc5116a1b90ad8e9bca8ac663948e4b0bf54911bbe1a62e90e5e8465f7md5 all_packages new rb260gs e2dfc04abefd6990810d3fdcfac9b975c8f915cb9f457685c44baae25ec8272dmd5 chr d9a3bf4c9405a3e6c639cfc0fa7798d2sha256 chr c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2emd5 chr bff19bc14014251815386c7a8d54ae27sha256 chr b9c9e969b43d87697f593dbf17219957d75f1c3659f0725a4e27a78bd263182dmd5 chr ab295fec15ab9175036addcc8f2e4b44sha256 chr a09a92d9d9cedcfcdffa57c8ffc32008f00f4b4a2532fe85ec3eb7a58cea42f1md5 chr 9aaf898917f4408e755ddb3f559ea4e029a1ca970fcd68b1fcb2ecf2e1ef4f78md5 chr 95b347d2b90689520a2efe894b36941asha256 chr 92049491f935da7e6f8e3a80a6482c8c8fde94fb26933400cf1c03621c6ea5f6md5 chr 8e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6md5 chr 7495735026a2decef3c44aa1ac40b2easha256 chr 7019db698d60165464e63433944bdb76sha256 chr 6a9c9fbef461ef254bb93265a54a8562sha256 chr 678ca15549008cfe5b7259e125b8e5ae2bb23ddaa931ac65cc94a7851e90cfd6md5 chr 5fb351b55db558500e2e82742c650803905309d84f03c7f24fb7c83289f79a01md5 chr 5c0847299bf168d0d5a7453e9f654de9sha256 chr 504e730acb37b0a70bb52d282ca35d65sha256 chr 4f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364aemd5 chr 4e50d7522f28e77a5ae4ef8772fd3366sha256 chr 49d2f0cd48031355b315cd5412d52d87c7f8cbaa178106eeba38b75c07dcfa8bmd5 chr 420cd8e53e941ebe2811892d505c69f8ef98c986541f8d293156b7ae65c38bb7md5 chr 3cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5md5 chr 3a5c58c1584e84e4f7e20a5ad16c08a382ea082580e2d5c9f67a152749ed43famd5 chr 2cfdce42845e8a6b7b61d28931f73c00sha256 chr 2c5205b18e0315cbc06a05978b0c7fb1001e631f007697f1ccf39fbe68ad20c8md5 chr 29be6d8cdf06e392049bb1611eabfb22sha256 chr 278c847b1788f7e8080e68021b3c41f0c81c465bb6274a065da336615fa76f6emd5 chr 1fdc929ad3c85796c19216474bdba5b8sha256 chr 1d7d1c45cebe6ce37cb5713e144cb9f52051c32c786ac9bfa78ba14f9964941amd5 chr 155810efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866md5 chr 094fda6b4e76977ff6acb33b175b4beb5f143cae4b5ed6154587df08ff9158bemd5 chr 038aeace7bad83628f345fdc0325f011sha256 chr zero coordinates x86 interfaces wiki vodafone r216 upper case support strongest signal ssid present specify url slave ports release types quectel bg96 proxy services previous versions prefix delegation prefer ap performance improvements npk mib oids menu inherited max make sure longer work limitations specified ieee 802 html tag html pages hardware offloading gsm modes gpio headers general improvements etc .) dd format changing priority access list 40gbps rates 27 10 14 11 1 04 11 upgrade scep client rb260gspversion 2 ovpn client using non list usage info commands limit file ca fixed configuration tls protocols state matching packages menu lcd screen id payload duid contains disable rapid 1gbps rate ---------------------- !) ipv6 improved enabled click binding parameters interface hap certificate added dude zip user type see documentation section replaced remote queue ipsec cap already address 45 use name multiple firmware winbox status ssh message mac version lte output identity dual drop crs3xx allow server firewall radius new mikrotik yes xauth vlan time size signature show sfp set pool peers lookup installation dns custom conflict command api 44 1s setting x86 settings renamed removed password network ike2 field cve access running netinstall lease tx total tile sim sign release prefix ports parameter menu manual mail log local keep information generator eap e crs326 contain allowed 9 2s client 2 non list interfaces info values tls tftp state see rb4011 rb3011 rb260gs rate r11e present packages oid modems made lhg ldf lcd iso id documentation disc disable dhcp crs317 counter contains ap !) zone z write working webfig wap vmdk vhdx verify vendor vdi variable v6 utility users used upload updates updated unknown ttls trap title testing term temp tags sxtsq sxt swos supported supplicant station stable ssl src snooping smips shared sfpplus1 sextant serial0 security secret secp384r1 script rsa route responder resolved requirement replace removal region recovery reconnect reboot rb9xx rb8xx rb7xx rb600 rb4xx rb2011 rb1100ahx4 rb1100ahx2 rb1100ah rb1100 r quickset qrt pwr provided prime256v1 primary pre ppc powerpc powerbox ph2 performing peap path passphrase parent ova ospfv3 ospfv2 omnitik older number netmetal netbox neighbor mschapv2 moved monitor mmips mipsbecrs1xx mipsbe metal meta may matcher match map mantbox manage longtitude long line life leaving latitude kid key jun jul introduced interval internet install insert initiator include img imagesvmdk groove generators flag filtering files fiberbox exec exe encoding dynadish due dst download downgrading dot1x dot1dstpporttable done dn dmg distance direction digital device delegated current css326 css106 crs328 crs305 crs2xx cpu connectionrequesturl connect configured compatibility commit com column clicking cli clear class china check calling busy bound boards block bindings basebox band backup available autodetect attribute arm also active acs accepted 64873 5g 4s 4p 4c 46beta6 43 42 25gbps 24p 24g 20s 2019 2018 2014 2011 1g 17 16s 16 13074 12 1158 1157 11479 11478 11477
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "mikrotik",
+    "vodafone",
+    "arm",
+    "quectel",
+    "variable"
+  ],
+  "device_types": [
+    "switch",
+    "router",
+    "tracking",
+    "gps"
+  ],
+  "products": [
+    "serverppcrb3xx",
+    "ipv6",
+    "x86main",
+    "wlan1",
+    "rb921",
+    "rb450gx4main",
+    "serverx86rb230",
+    "crs3xx",
+    "rb1200main",
+    "lc20d",
+    "f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364ae",
+    "md5",
+    "cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5",
+    "a09a92d9d9cedcfcdffa57c8ffc32008f00f4b4a2532fe85ec3eb7a58cea42f1",
+    "d7d1c45cebe6ce37cb5713e144cb9f52051c32c786ac9bfa78ba14f9964941a",
+    "dhcpv6",
+    "secp521r1",
+    "w60g",
+    "cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720",
+    "rfc4754",
+    "ike2",
+    "rb260gsp",
+    "tr069",
+    "dhcpv4",
+    "x86",
+    "rb750gr3",
+    "crs326",
+    "rb250gsversion",
+    "fb20ce522a592055cb799931366945c6sha256",
+    "fa92615df0022b7056308f219fd2ae9a598e0109de480638b6d27efc9d7eb4c4md5",
+    "f6dce9de0a7bbc6e5c3eeb84b06c73dfsha256",
+    "e9e156d13331ece202c33e18ca566266sha256",
+    "e50697bff03975e3168bef909cc30ea9b5233b3968169d29d9f668ca76232c97md5",
+    "d6feb9c9fae0e182b9a03aadd11fc388711d3ea20c975143e15d4f6a9b41868dmd5",
+    "d4942001593b39e80f5dc2449bd49d158ed30493e036bf3a5dff6598015e86b8md5",
+    "cd1b8fbc5ae8fa4d177a25683355912877efa1239e906ce1590d1181f2565398md5",
+    "bf333c3c312b39132675998a2ec6aecb55d1a4386574beb91475acf074093365md5",
+    "beba77a48b8f85bdae82e3e06ac9016asha256",
+    "b6802f148f897a1c4e0b7155a4707350sha256",
+    "b39c3369b26e353fee48a14faddb2b9a4c6e05e5aed03975adf5fb5784f6a82cmd5",
+    "af72bb8ed9200a738e93521fd9829780sha256",
+    "ac99887dc635f754bd1739d96d0cc2c3sha256",
+    "a9ada719ce4191efa4735ee0e860b4f4d2c07c161802c71d01ad5470e5dc8288md5",
+    "bff3365be0f23613824166f0c52dbc4sha256",
+    "aaf898917f4408e755ddb3f559ea4e029a1ca970fcd68b1fcb2ecf2e1ef4f78md5",
+    "bb7583fbf0af466c116509cb73d32afe762fe90c4d0a961787c9c9f8fdf756md5",
+    "b23e4633c25d0cf918abbbe92d642affdd658c722642147722eb2a3086c0976md5",
+    "ad19595d21fdcdac483f760a75b16sha256",
+    "c2d278069e43fef3b99b7d6a8b31e03sha256",
+    "c6ddc2ba203dd915660530c6514e4sha256",
+    "a9acb182d094717097ba6d46ad295sha256",
+    "f67dc75c4cb44a901d88db38155f7fb98f41909e692e1cb729ac3ca0a8364aemd5",
+    "c839e06c3d634e9f1a2dd71b9a495722170f0944507eb58e3a19df3d62amd5",
+    "b8d3128c6f6e07803f137554d8c9ee9f3d8c57b62a2a7174a7d5adc1ad73dmd5",
+    "cfe8ae653c675e06b3a4f2298d4c25b766e59c64fdc5eb2315682ff737ec3d5md5",
+    "aa4e3391a725dcb26a931b8bc3dedac7d0ec34d04e175f3150f968669404fe6md5",
+    "cd59e208a9b887c9a8927e65f48d82133d825fecce9dd1b5142a51a6e36c2md5",
+    "e8622d40599fd9928d4d5eb0b631e738d6b9a58ca937a392810b662f9917f6md5",
+    "be37d8ce62fb5350806ff9794db3a1fsha256",
+    "c847b1788f7e8080e68021b3c41f0c81c465bb6274a065da336615fa76f6emd5",
+    "c79f7f5518c76f542a781aa385160sha256",
+    "fda6b4e76977ff6acb33b175b4beb5f143cae4b5ed6154587df08ff9158bemd5",
+    "cc998c99663e5c75e6f8e5b34ddf846f5eed7a0b55c87b4f6f0ef2996fd720md5",
+    "a805764bb38512a601efcf42eb4d50sha256",
+    "r11e",
+    "m33g",
+    "ike1",
+    "ff67721f7ff38e93abbca096af916f76sha256",
+    "f7f46d8af98e9d57ffbdc15613c40963sha256",
+    "f4c196bc2dba169c5b3cf876801cd580sha256",
+    "daf55e25d39b2a04a750a5d55d858760sha256",
+    "d33f28c6b7484ec46cf59f55223cd0b4sha256",
+    "c9470e217c25de39095fc0feb68aeb00sha256",
+    "c4878f4afae0e26db6e267b7ff16d508a4a4e74e1a11fb2bfc522b120c2396femd5",
+    "bd4603f75a8c0f48edfa47fd86c5a4c5sha256",
+    "bb74067855065245d466689b75e75e278f1c601a9d5d773905f6198ade8b37damd5",
+    "ba4fde24fbfa25928947e7bdedc9711e3c52bd2b0fc6723585ec48194c3ca1bfmd5",
+    "b45e11874186cc9caa7448a8efbd3f35ffedd24af4898534251e3bd8a8a1aa1emd5",
+    "b3d2d170427ed7647ebeeae7643a0232sha256",
+    "ad164e2fa469b77b5be78a04c6f009dbe1668120ff8746a39de24e25d620912amd5",
+    "a92c813360f83911459166067e5f02369b753257d964608836df2ca883af8344md5",
+    "bf24c8a0f2b0b9ffeb8f90cc89d87bc6adc8c877c4a320f015cf36d0a12md5",
+    "aefdeeaa93edbbe25e5366ad093cdbsha256",
+    "c9749e6e274265376ca68676eb77besha256",
+    "bf48e4394ef8ccdbc423bb5769be4sha256",
+    "a296698b43e55dc549b911945b7baccd9bc747173c3ed5854447e931b21922md5",
+    "e9dbd68991e13a2ed844b1b0d8e64b3sha256",
+    "df2b1da07b253238ab210f2c75768821ef634a76d175ac424e7076eb513e7md5",
+    "a4a080f12f887d1207c7bf7c1e8611sha256",
+    "c41ec5083abc8f76927b8845e045443sha256",
+    "b4328488e2d4a28a86499403c237dc80e91749a23d0f2682d4c801e02e0c4md5",
+    "be44161f1aa6f4a444b4d2343ac86f15f413184139b9fe90bdf2283703f437md5",
+    "f28b2d5b37cbcecfc56f2dsha256",
+    "c467d6950d496ac1e52d5c7a98c4cc9ebd15b64d1a87c9a180b9676c5d33md5",
+    "e540dc96526ece4972b3b1c62c12f63sha256",
+    "d1fa4d61f9e27468799d24fbb5cab8sha256",
+    "ce3624e928f568f84505a3f8af996a6ea3dbb81a1bf4b09d2cca82b91d8c18md5",
+    "b932fa7acd82676069d889bc869e70a8e45c6b30f30b7bae21d7c5cc1f1d14md5",
+    "bf3481cd8f1175d1b929896a35a159bcfc8c65d5337f2c281d17ddbc1000f84md5",
+    "bca785a0a77c195317c60d1559980791c66b411c0393f1c36d7bf465ddffef2md5",
+    "b59f7add45d8f5c03f92bdb24bf741095d1389afab2936e246e4dd006e19b0cmd5",
+    "a818c32dc5abe7644d99210ba388sha256",
+    "f4a02f85aaff41d640b37f2e2cea6f747fda4c56564dd920dd8cbc561e7fe3emd5",
+    "efdb962e4d31311f2052395ef1b7ea5sha256",
+    "b6199cff74abf53405d11410ee9601c0887b32f54a44fe04dc634cd3d05e99amd5",
+    "a8a033c7adf86758aad4b4c4ee34114b9100083282b75b84eb8a2f232a29md5",
+    "f49022ca24a6f02fc1d6aca1aaafdsha256",
+    "f40ddbe907fda4758e87347086csha256",
+    "fd4309533e59647e517cdb93cf3025c83b52556957721270f426531a503f43md5",
+    "f89b27b26ae9afd6bba6ba1b8c36e0974dc3799c8695f821b156277a01eb4be5md5",
+    "ac4f1adea659fd3a8d94b0edee9a8185sha256",
+    "a6c5c13a3c170374a0cbf279e9bb3f29d4425afc7074317713ef0847bd2a8ed9md5",
+    "a63848ed9871461ffc73b06ca9927108b4e292c462a251eea9ad431e68bfa670md5",
+    "c07b567aac3502439b84d17d82f29b0867473a8882a22c7fa15b22636ece9cmd5",
+    "aa6b35222b38b29b8cbcce464f6749fsha256",
+    "ca0c996ec8cb5ae4de01824bc5ba07e840005fab1002b285d100a6f7c64md5",
+    "b0158e5a72ae6a18f3ea03d6208d430ace00b188d591a840ba27b6f87359bemd5",
+    "c954a1f8def8c926f9a5946fca1ab8sha256",
+    "a1f3ee29e987b828ca3443558fb29b1sha256",
+    "f8a626155d0bbd6323cf7aa558b2sha256",
+    "bd5f819afb4c19e93806b0fc43c8sha256",
+    "rb4011",
+    "rb3011",
+    "crs317",
+    "fc637b30531fa48c7afa4d7f96bbe4e1sha256",
+    "f86735ea4feb79bbcaebacefefd63c38b140f6d275f09c6395f904da5810b4f4md5",
+    "f74c1194222ddb26f2480462ee91bc2da5f3400668d9ab751f12269bf370b3e4md5",
+    "f4d3c134650b9437d3dcc2f7e4f35df7sha256",
+    "ef5e2792a720a280d3960a6164cba67asha256",
+    "e4a8d3bfa8392a92f90a36d036d35767sha256",
+    "d6ec1921003059d6d6f3a4994cd77afasha256",
+    "d32097306ad298224640be9c44f5a78dsha256",
+    "cef37c1f7e489b87bcabce97f5c0bf7b94a34fe0c617b37dc6967d7964a3ac9cmd5",
+    "c5564e8d5339cd4688dfabf4e91b5167cc6de4c0ab4d49167b68907f6ba44f2emd5",
+    "c48f41c97285c416d13f0588a6c07e11sha256",
+    "aec4d29caa2eae03235e0e25cf8b909fsha256",
+    "b085bdd7e3cddced77e98f9ce819ad638accb94cfaf058934031b5c3174d6admd5",
+    "de9c6089709e30c2b044a29a837ac7sha256",
+    "dc3cbe490ba1fdc97430529eb27cf9ec1d225a911b15d4f4ca29272cmd5",
+    "cae563db93940933220f489dda5sha256",
+    "f0c18e6e69c44a2dba225bad08355c2sha256",
+    "e61680df044ef9709bd11f8ad064a02fd0ccbb30b95f87ab789510ab8bfeeb6md5",
+    "b52d20e1ddeb6cbc96e121538fcsha256",
+    "c0959f6f9b99f333490e6d3f2452f9cb59346f7891494f2fca5bf3a11a835md5",
+    "ccc7c86a6aa82afa70455818904408sha256",
+    "c7131ca644e79e0bbae986747137837sha256",
+    "d77d4a07239ffc52b534ce92dc9526fsha256",
+    "a61c1cb89b0a9da00a45dd9d7e540610059189ceb7a3b31910e9c09c143fmd5",
+    "bdc6202dd710688c55035cbd1a444sha256",
+    "a7ab84e6d0e23abfc9315bcc113e0fcfb3d7d4caff087066450887a4b7e2425md5",
+    "a6bb3c59f33ce950359541d8909394fbe5eec9734ab05df7c2c31f3eb33a1md5",
+    "e294984881d6bcbe7c1403ff0d022f4sha256",
+    "b41b13e3141ac0e139be71f1d7815cesha256",
+    "e75b42eeca8e05999389ef28becfec36c4b4a2db7e139da78ba618d0dd87fmd5",
+    "e9b94a85a9b04414ca7f2cfa1417120sha256",
+    "becaaa9e19f11fa77d948bc574f980fa06d0c061308f80489457d1f5ee06b4amd5",
+    "ae2174d31895aeac25afda0a27f22d5394134c0b64bdd34ff10c8a59df83832md5",
+    "a3a2531f4bcf65013ef5ef725286307dfa244ccce8a42e351eee34f8f2c478md5",
+    "a41318cf2b86dd6c8f33f16fb546e3sha256",
+    "efd6ca39f0ecdda045c8562fdd3131e30cc088761e960284f457a29866md5",
+    "b62550605b9b74e9eb6b6335b835dc086f5752354ae6f3cfd7735114399md5",
+    "df0f1a7c372588cc5a303e264816b87sha256",
+    "cc5116a1b90ad8e9bca8ac663948e4b0bf54911bbe1a62e90e5e8465f7md5",
+    "rb260gs",
+    "e2dfc04abefd6990810d3fdcfac9b975c8f915cb9f457685c44baae25ec8272dmd5",
+    "d9a3bf4c9405a3e6c639cfc0fa7798d2sha256",
+    "bff19bc14014251815386c7a8d54ae27sha256",
+    "b9c9e969b43d87697f593dbf17219957d75f1c3659f0725a4e27a78bd263182dmd5",
+    "ab295fec15ab9175036addcc8f2e4b44sha256",
+    "a09a92d9d9cedcfcdffa57c8ffc32008f00f4b4a2532fe85ec3eb7a58cea42f1md5",
+    "b347d2b90689520a2efe894b36941asha256",
+    "f935da7e6f8e3a80a6482c8c8fde94fb26933400cf1c03621c6ea5f6md5",
+    "a2decef3c44aa1ac40b2easha256",
+    "db698d60165464e63433944bdb76sha256",
+    "a9c9fbef461ef254bb93265a54a8562sha256",
+    "ca15549008cfe5b7259e125b8e5ae2bb23ddaa931ac65cc94a7851e90cfd6md5",
+    "fb351b55db558500e2e82742c650803905309d84f03c7f24fb7c83289f79a01md5",
+    "c0847299bf168d0d5a7453e9f654de9sha256",
+    "e730acb37b0a70bb52d282ca35d65sha256",
+    "e50d7522f28e77a5ae4ef8772fd3366sha256",
+    "d2f0cd48031355b315cd5412d52d87c7f8cbaa178106eeba38b75c07dcfa8bmd5",
+    "cd8e53e941ebe2811892d505c69f8ef98c986541f8d293156b7ae65c38bb7md5",
+    "a5c58c1584e84e4f7e20a5ad16c08a382ea082580e2d5c9f67a152749ed43famd5",
+    "cfdce42845e8a6b7b61d28931f73c00sha256",
+    "c5205b18e0315cbc06a05978b0c7fb1001e631f007697f1ccf39fbe68ad20c8md5",
+    "be6d8cdf06e392049bb1611eabfb22sha256",
+    "fdc929ad3c85796c19216474bdba5b8sha256",
+    "d7d1c45cebe6ce37cb5713e144cb9f52051c32c786ac9bfa78ba14f9964941amd5",
+    "aeace7bad83628f345fdc0325f011sha256",
+    "r216",
+    "bg96",
+    "rb260gspversion",
+    "v6",
+    "sfpplus1",
+    "serial0",
+    "secp384r1",
+    "rb9xx",
+    "rb8xx",
+    "rb7xx",
+    "rb600",
+    "rb4xx",
+    "rb2011",
+    "rb1100ahx4",
+    "rb1100ahx2",
+    "rb1100ah",
+    "rb1100",
+    "prime256v1",
+    "ph2",
+    "ospfv3",
+    "ospfv2",
+    "mschapv2",
+    "mipsbecrs1xx",
+    "dot1x",
+    "dot1dstpporttable",
+    "css326",
+    "css106",
+    "crs328",
+    "crs305",
+    "crs2xx",
+    "beta6"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[{"vendor": "mikrotik", "device_type": "router"}, {"vendor": "vodafone", "device_type": "router"}, {"vendor": "vodafone", "device_type": "tracking"}, {"vendor": "vodafone", "device_type": "gps"}, {"vendor": "arm", "device_type": "router"}, {"vendor": "quectel", "device_type": "router"}, {"vendor": "quectel", "device_type": "tracking"}, {"vendor": "quectel", "device_type": "gps"}, {"vendor": "variable", "device_type": "router"}, {"vendor": "variable", "device_type": "tracking"}, {"vendor": "variable", "device_type": "gps"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 rb edvsa brm FTP server (MikroTik 6.23) ready
+Refined:  220 rb edvsa brm ftp server mikrotik 6 ready
+
+============================https://mikrotik.com/thedude===============================
+
+MikroTik Routers and Wireless - Software
+HomeAboutBuyJobsHardwareSoftwareSupportTrainingAccount
+Software
+DownloadsChangelogsDownload archiveRouterOSThe DudeMobile app
+Software
+DownloadsChangelogsDownload archiveRouterOSThe DudeMobile app
+The Dude
+The Dude network monitor is a new application by MikroTik which can dramatically improve the way you manage your network environment. It will automatically scan all devices within specified subnets, draw and layout a map of your networks, monitor services of your devices and alert you in case some service has problems.
+Go to download page!
+Some of it's features
+Auto network discovery and layout
+Discovers any type or brand of device
+Device, Link monitoring, and notifications
+Includes SVG icons for devices, and supports custom icons and backgrounds
+Easy installation and usage
+Allows you to draw your own maps and add custom devices
+Supports SNMP, ICMP, DNS and TCP monitoring for devices that support it
+Individual Link usage monitoring and graphs
+Direct access to remote control tools for device management
+Supports remote Dude server and local client
+Runs in Linux Wine environment, MacOS Darwine, and Windows
+Help
+Documentation
+User Forum
+Screenshots
+MikroTik
+Home
+About
+Customers
+Jobs
+Support
+Get support
+Forum
+Wiki
+Send an E-mail
+Other
+Newsletters
+MUM
+Designs
+Youtube
+Privacy policy
+Click Here
+Sign up for the newsletter
+Please sign up to get notified about new RouterOS version releases and other useful information!
+MikroTik app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 rb edvsa brm FTP server (MikroTik 6.23) ready
+Refined:  220 rb edvsa brm ftp server mikrotik 6 ready
+
+============================https://mikrotik.com/thedude===============================
+
+ software homeaboutbuyjobshardwaresoftwaresupporttrainingaccount software downloadschangelogsdownload archiverouterosthe dudemobile app software downloadschangelogsdownload archiverouterosthe dudemobile app windows help documentation user forum screenshots mikrotik home customers jobs support get support forum wiki send newsletters mum designs youtube privacy policy click device management supports remote dude server add custom devices supports snmp notifications includes svg icons devices within specified subnets new routeros version releases features auto network discovery individual link usage monitoring supports custom icons mikrotik app remote control tools local client runs graphs direct access backgrounds easy installation dude network monitor linux wine environment newsletter please sign get notified device device support link monitoring network environment mikrotik routers usage allows new application tcp monitoring monitor services useful information macos darwine dramatically improve download page automatically scan layout discovers dude devices mikrotik sign layout wireless way type service problems networks maps map manage mail icmp go e draw dns case brand alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "mikrotik"
+  ],
+  "device_types": [],
+  "products": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 rb edvsa brm FTP server (MikroTik 6.23) ready
+Refined:  220 rb edvsa brm ftp server mikrotik 6 ready
+
+============================https://mikrotik.com/documentation/manual_2.7/Root/FTPServer.html===============================
+
+MikroTik RouterOS V2.7 FTP server
+FTP server
+Document revision 1.2 (05-May-2003)
+This document applies to the MikroTik RouterOS V2.7
+Table Of Contents
+Table Of Contents
+Summary
+Specifications
+Related Documents
+File Transfer Protocol Server
+Description
+Property Description
+Example
+Summary
+MicroTik RouterOS implements File Transfer Protocol (FTP) server feature. It is intended to use for
+software packages uploading as well as configuration script exporting and importing procedures.
+Specifications
+Packages required : None
+License required : Any
+Home menu level : /file
+Standards and Technologies : FTP (RFC 959)
+Hardware usage : not significant
+Related Documents
+Software
+Package Installation and Upgrading
+Configuration
+Export and Import
+Configuration
+Backup and Restore
+HotSpot Gateway
+File Transfer Protocol Server
+Submenu level : /file
+Description
+MikroTik RouterOS has an industry standard FTP server feature. It uses ports 20 and 21 for communication
+with other hosts on the network. Do not disable these ports on your router!
+Uploaded files as well as exported configuration or backup files can be accessed under
+/file menu. There you can also delete unwanted files from your router.
+Authorization via ftp uses router's system user account names and passwords.
+Property Description
+name (read-only: text) - item name
+type (read-only: file | directory | unknown) - item type
+package size (read-only: integer) - package size
+creation-time (read-only: time) - item creation date and time
+package-name (read-only: name) - package name
+package-version (read-only: text) - package version
+package-build-time (read-only: time) - build time of the package
+Example
+Suppose we need to upload a software package system-2.7rc4.npk to a router with IP address
+192.168.0.2 using generic text mode FTP client from a Linux workstation (the procedure and commands are
+the same also for Windows workstations):
+user@wildcat:~/work$ ftp 192.168.0.2
+Connected to 192.168.0.2.
+220 MikroTik FTP server (MikroTik v2.7rc3) ready
+Name (192.168.0.2:root): admin
+331 Password required for admin
+Password:
+230 User admin logged in
+Remote system type is UNIX.
+ftp> binary
+200 Type set to I
+ftp> send
+(local-file) /home/psi/system-2.7rc4.npk
+(remote-file) system-2.7rc4.npk
+local: /home/psi/system-2.7rc4.npk remote: system-2.7rc4.npk
+200 PORT command successful
+150 Opening BINARY mode data connection for '/system-2.7rc4.npk'
+226 Transfer complete
+8391343 bytes sent in 12.61 secs (649.7 kB/s)
+ftp> close
+221 Closing
+ftp> quit
+user@wildcat:~/work$
+Now you can see this package on the router:
+[admin@MikroTik] file> print
+# NAME
+TYPE
+SIZE
+CREATION-TIME
+0 system-2.7rc4.npk
+package
+8391343
+apr/30/2003 17:09:55
+1 hotspot
+directory
+mar/08/2003 16:14:19
+[admin@MikroTik] file>
+© Copyright 1999-2003, MikroTik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 rb edvsa brm FTP server (MikroTik 6.23) ready
+Refined:  220 rb edvsa brm ftp server mikrotik 6 ready
+
+============================https://mikrotik.com/documentation/manual_2.7/Root/FTPServer.html===============================
+
+ contents summary specifications related documents file transfer protocol server description property description example summary microtik routeros implements file transfer protocol npk 200 port command successful 150 opening binary mode data connection restore hotspot gateway file transfer protocol server submenu level 7 ftp server ftp server document revision 1 significant related documents software package installation 226 transfer complete 8391343 bytes sent 2 using generic text mode ftp client file description mikrotik routeros root ): admin 331 password required 55 1 hotspot directory mar industry standard ftp server feature property description name binary 200 type set authorization via ftp uses router 220 mikrotik ftp server specifications packages required package example suppose close 221 closing ftp windows workstations ): user npk package 8391343 apr 230 user admin logged mikrotik routeros v2 system user account names item type package size name type size creation also delete unwanted files contents table server feature file menu home menu level file standards package size creation software packages uploading none license required software package system item creation date item name type © copyright 1999 wildcat :~/ work uses ports 20 package name package upgrading configuration export configuration script exporting package version package file remote system type import configuration backup ip address 192 admin password document applies ftp 192 time 0 system npk remote 7 table 7 kb quit user npk local 2 connected mikrotik v2 time package backup files ftp exported configuration uploaded files ready name '/ system text rfc 959 npk linux workstation importing procedures hardware usage 61 secs 2003 17 2003 16 build time 2 admin package router directory mikrotik system name also version time remote ports home 192 0 2003 local build well use upload unknown unix technologies send see read psi procedure print passwords network need may intended integer hosts disable communication commands accessed 7rc4 7rc3 649 30 21 19 168 14 12 09 08 05
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "mikrotik"
+  ],
+  "device_types": [
+    "router"
+  ],
+  "products": [
+    "v2",
+    "rc4",
+    "rc3"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[{"vendor": "mikrotik", "device_type": "router"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

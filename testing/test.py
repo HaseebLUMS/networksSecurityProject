@@ -1,16 +1,7 @@
 import os
 from pathlib import Path
 query = [
-'220 MikroTik FTP server (MikroTik 6.42.11) ready',
-'220 Luna MV 50 FTP server (MikroTik 2.9.38) ready', 
-'220 AXIS 214 PTZ Network Camera 4.49 (Oct 05 2009) ready.', 
-'220 MikroTik_NEXUSCOWORK FTP server (MikroTik 6.44.3) ready', 
-'220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)', 
-'MikroTik v2.9.38\r\nLogin:',
-'MikroTik v6.42.11 (long-term)\r\nLogin:',
-'GPON ONT\r\nwlctl: wl driver adapter not found\r\nLogin:',
-'BCM963268 Broadband Router\r\nLogin:',
-'Kernel 3.10.0-957.12.1.el7.x86_64 on an x86_64\r\nhm login:'
+"220 POLO SERVER FTP server (MikroTik 6.44.2) ready"
 ]
 
 
@@ -69,6 +60,7 @@ def writeToFile(f, q):
 
 		with open(f+'.txt') as file2:
 			data = file2.read()
+		file.write("Raw Data: \n")
 		file.write(data)
 		file.write('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 
@@ -76,6 +68,7 @@ def writeToFile(f, q):
 		
 		with open(f+'m.txt') as file3:
 			data2 = file3.read()
+		file.write("Refined Data: \n")
 		file.write(data2)
 		file.write('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 
@@ -83,6 +76,7 @@ def writeToFile(f, q):
 
 		with open(f+' predictions.json') as file4:
 			data3 = file4.read()
+		file.write("NER Predictions: \n")
 		file.write(data3)
 		file.write('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 
@@ -90,6 +84,7 @@ def writeToFile(f, q):
 
 		with open('annotation.txt') as file5:
 			data4 = file5.read()
+		file.write("Local Dependencies: \n")
 		file.write(data4)
 		file.write('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 

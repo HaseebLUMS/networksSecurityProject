@@ -105,7 +105,7 @@ Makes a output.txt
 For every URL in URLs list, 
 calls getText() and stores in output.txt
 '''
-def create_output():
+def create_output(rfQ):
 	global page_limit
 
 	queue = []
@@ -115,12 +115,12 @@ def create_output():
 			if page_limit > 0:
 				text = getText(url)
 				with open(str(i) + '.txt', 'w') as f:
-					f.write(query + '\n\n============================' + url + '===============================\n\n')
+					f.write(query + '\nRefined: '+ rfQ + '\n\n============================' + url + '===============================\n\n')
 					f.write(text)
 
 				with open(str(i) + 'm.txt', 'w') as f:
 					text = refine_query(text, 2) #using the refining funtion
-					f.write(query + '\n\n============================' + url + '===============================\n\n')
+					f.write(query + '\nRefined: '+ rfQ + '\n\n============================' + url + '===============================\n\n')
 					f.write(text)
 					print(url, " : success")
 
@@ -137,12 +137,12 @@ def create_output():
 			if page_limit > 0:
 				text = getText(url)
 				with open(str(i) + '.txt', 'a+') as f:
-					f.write(query + '\n\n============================' + url + '===============================\n\n')
+					f.write(query + '\nRefined: '+ rfQ + '\n\n============================' + url + '===============================\n\n')
 					f.write(text)
 
 				with open(str(i) + 'm.txt', 'a+') as f:
 					text = refine_query(text, 2) #using the refining funtion
-					f.write(query + '\n\n==============================' + url + '==============================\n\n')
+					f.write(query + '\nRefined: '+ rfQ + '\n\n============================' + url + '===============================\n\n')
 					f.write(text)
 					print(url, " : success")
 				i += 1
@@ -201,6 +201,6 @@ def main():
 
 	findURLs(res)
 	for url in URLs: print(url)
-	is_written = create_output()
+	is_written = create_output(res)
 
 main()

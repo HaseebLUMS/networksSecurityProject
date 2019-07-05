@@ -156,11 +156,12 @@ def refine_query(q, mode):
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
 	res = ""
-	for k in keywords:
-		if mode == 1:
-			if k.isdigit():
-				continue
-		res += (" " + k)
+	for kword in keywords:
+		for k in kword.split(" "):
+			if mode == 1:
+				if k.isdigit() is True:
+					continue
+			res += (" " + k)
 	return res
 
 
