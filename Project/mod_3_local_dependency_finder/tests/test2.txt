@@ -1,0 +1,5 @@
+This is 135 characters file (excluding this line).
+ROUTER ASUS. 
+This should not return any dependency.
+Because vendor must appear before device type for being a genuine
+local dependency

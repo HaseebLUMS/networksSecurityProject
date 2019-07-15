@@ -4,7 +4,7 @@ Output: Device Annotation
 What does it do:
 	From a set of possible annotations, finds actual 
 	device annotation by finding local dependencies 
-	(defind in ARE paper) from web page test
+	(defind in ARE paper) from web page text
 '''
 
 
@@ -25,8 +25,9 @@ products = predictions['products']
 ''' Separate the lines of 
 the text and makes a list
 '''
-def linefyText(text): return re.split('[.]', text)
-
+def linefyText(text): 
+	text = text.replace("\n", ". ")
+	return text.split(". ")
 
 '''
 Counts the lines in text
@@ -37,10 +38,18 @@ or term "b" where as "a" and
 def count_related_lines(a, b, text):
 
 	count = 0
+	tmp = ""
 	for t in text:
 		if (a in t.lower()) and (b in t.lower()):
 			# print(t)
-			count += 1
+			for word in t.lower().split(" "):
+				if word == a:
+					tmp += 'v'
+				if word == b:
+					tmp += 'd'
+			
+			if('vd' in tmp):
+				count += 1
 	# if a is 'mikrotik':
 	# 	print(count)
 	return count
@@ -95,10 +104,10 @@ def find_product(text, a, b, tags):
 	for t in tags:
 		count  = 0
 		for line in text:
-			if ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()+' ') in line.lower())):
+			if ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()) in line.lower())):
 				count += 1
-			elif ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()+'. ') in line.lower())):
-				count += 1
+			# elif ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()+'. ') in line.lower())):
+			# 	count += 1
 		if count > max_lines:
 			max_lines = count
 			ans_prod = t

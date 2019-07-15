@@ -1,0 +1,24 @@
+{
+    "vendors": [
+        "asus",
+        "mikrotik",
+        "samsung",
+        "sony",
+        "microsoft",
+        "zte",
+        "nokia",
+        "apple"
+    ],
+    "device_types": [
+        "router",
+        "watch",
+        "switch",
+        "camera",
+        "air conditioner"
+    ],
+    "products": [
+        "RT-AC58U",
+        "AB-12CDE",
+        "XY-34ZAB"
+    ]
+  }
