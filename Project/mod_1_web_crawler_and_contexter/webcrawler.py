@@ -179,6 +179,10 @@ rank (frequency)
 
 mode 1 for refining query
 mode 2 for refining any other data
+
+The used regex is for eliminating
+the html tags from the banner data
+	--Second line of section 4.2, sub section "web crawler"
 '''
 def refine_query(q, mode):
 	d = enchant.Dict('en_US')
