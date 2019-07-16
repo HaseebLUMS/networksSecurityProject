@@ -1,0 +1,82 @@
+This file describes directory structure.
+
+The root directory contains:
+	1) Ferret-Data-Analysis-Code
+		-- a directory, contains code for analyzing ferret data
+	2) Project
+		-- a directory, contains ARE code
+		-- Further structure describes below
+	3) Testing
+		-- a directory, contains code for 
+		automated testing of ARE
+	4) README.md
+		-- project's readme text file
+
+
+
+Project Directory:
+	1) mod_1_web_crawler_and_contexter
+		i) webcrawler.py
+		ii) headlessUser.py
+		iii) config.py
+		...) and a few other temporary files
+			made during the execution
+
+
+	2) mod_2_corpus_and_rule_based_der
+		i) Database
+			a) device_types
+			b) vendors
+			c) readme
+		ii) Output
+			...) contains temporary files
+				for holding the output during execution
+		iii) NamedEntityRecognition.py
+		...) and a few other temporary files
+			made during the execution
+
+
+	3) mod_3_local_dependency_finder
+		i) local_dependency_finder.py
+		ii) tests
+			-- contains test cases for testing
+			local dependency finder
+		...) and a few other temporary files
+			made during the execution
+
+
+	4) Censys-API
+		-- contains code for extracting data
+		from Censys API
+	
+
+	5) apriori_algorithm
+		-- contains code of apriori algorithm
+	
+
+	6) input_banner_data.txt
+	
+
+	7) run.py
+		-- runs the ARE
+	
+
+	8) wrapper_run.py
+		-- same as run.py but for running on massive data instead of one banner data
+
+
+	9) scrap_vendors
+		-- code for scraping vendors names
+
+	
+	...) and a few other temporary files
+		made during the execution
+
+
+
+Order of files/folders for running ARE:
+
+1) mod_1_web_crawler_and_contexter
+2) mod_2_corpus_and_rule_based_der
+3) mod_3_local_dependency_finder
+4) apriori_algorithm
