@@ -6,6 +6,11 @@ What does it do:
 	-- Takes web pages data and cleans it
 	-- Finds important keywords by NLP techniques
 	-- Matches keywords with a corpus (device names and vendors)
+		--Corpus:
+			--scraped the vendors data from site https://www.iotone.com/suppliers.
+			There are approximately 2400 vendors.
+			--collected the device types data from from different websites like wikipedia,
+			amazon etc. There approximately 40 device types.
 	-- Finds product by matching regex
 	-- Outputs a json file containing possible device annotations
 '''

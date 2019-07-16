@@ -18,20 +18,70 @@ max_confidence = 0
 ans = {}
 
 
+'''
+While removing dictionary words,
+it is checked that whether the target word
+can be a vendor name or device name or not.
+If yes, then it is not removed.
+This functions just tells that the 
+word can be a vendor or device name or not
+'''
+def in_database(word):
+	with open(sys.argv[1]) as file: db1 = file.read()
+	with open(sys.argv[2]) as file: db2 = file.read()
+
+	return ((word in db1) or (word in db2))
+'''
+Product Regex is used here
+because sometimes the product number
+present in query is broken down by
+refining libraries. With the help of this 
+function, it will be prevented.
+'''
+def find_pattern(rawData):
+	import re
+	p = re.compile("[A-Za-z]+[-]?[A-Za-z]*[0-9]+[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
+	return p.findall(rawData)
+'''
+Uses Enchant library for removing dictionary words from 
+input banner and extracting keywords. 
+
+Uses Rake library for arranging words by their
+rank (frequency) 
+ -- useful when refining web page data
+ -- reference = first para of Wen Crawler under 4.2
+
+mode 1 for refining query
+mode 2 for refining any other data
+'''
 def refine_query(q, mode):
+	d = enchant.Dict('en_US')
 	reg = re.compile('<.*?>')
 	q = re.sub(reg, '', q)
+	keywords = q
+	possibleProd = find_pattern(q)
 	r = Rake()
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
 	res = ""
-	for k in keywords:
-		if mode == 1:
-			if k.isdigit():
+	for kword in keywords:
+		for k in kword.split(" "):
+			if (k is not "") and (d.check(k) == True) and (in_database(k.lower()) == False):
 				continue
-		res += (" " + k)
+			if mode == 1:
+				if k.isdigit() is True:
+					continue
+			res += (" " + k)
+	for ele in possibleProd:
+		res += (" " + ele)
 	return res
 
+
+'''
+Counts the number
+of rules which do not
+have predicted product number
+'''
 def countRulesWithoutProduct(rules):
 	ans = 0
 	for r in rules:
@@ -43,6 +93,12 @@ def countRulesWithoutProduct(rules):
 		if tmp == 2:
 			ans += 1
 	return [len(rules) - ans, len(rules)]
+
+'''
+Count overlap of query
+with rule by counting number
+of common keywords
+'''
 def countQueryELementsPresentInRule(rule, q):
 	ans = 0
 	for ele in rule:
@@ -53,6 +109,10 @@ def countQueryELementsPresentInRule(rule, q):
 				ans += 1
 	return ans
 
+'''
+Given a set of rules
+fins the rule with max overlap
+'''
 def findRuleWithMaxQueryOverlap(rules, query):
 	ansNum = 0
 	ansRule = {}
@@ -70,6 +130,10 @@ def findRuleWithMaxQueryOverlap(rules, query):
 	return ansRule
 
 
+'''
+Given Banner data file,
+returns predictions by ARE rules
+'''
 def main():
 	num = countRulesWithoutProduct(data)
 	print("Total Rules: ", num[1])

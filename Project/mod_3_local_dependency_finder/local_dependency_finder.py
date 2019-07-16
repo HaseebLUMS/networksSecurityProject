@@ -25,7 +25,7 @@ products = predictions['products']
 ''' Separate the lines of 
 the text and makes a list
 '''
-def linefyText(text): 
+def linefy_text(text): 
 	text = text.replace("\n", ". ")
 	return text.split(". ")
 
@@ -126,7 +126,7 @@ def main():
 	global device_types
 	global products
 
-	text = linefyText(file)
+	text = linefy_text(file)
 	predicted_label = {}
 	try: predicted_label = find_dependency(text, vendors, device_types)
 	except: pass
