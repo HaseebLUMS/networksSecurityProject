@@ -30,7 +30,7 @@ if not sys.warnoptions:
     warnings.simplefilter("ignore")
 # sys.path.append('./../')
 from config import page_limit
-from headlessUser import performSearch
+from headlessUser import perform_search
 import re
 
 
@@ -50,10 +50,10 @@ as they appear in search results on top but they are
 not useful.
 '''
 
-def findURLs(words):
+def find_urls(words):
 	i = 10
 	tmp_urls = []
-	tmp_urls = performSearch(words)
+	tmp_urls = perform_search(words)
 
 	trash = ['youtube.com', 'facebook.com', 'linkedin.com', 'twitter.com', 'quora.com', 'glassdoor.com', 'reddit.com', '.pdf', '.doc', '.docx']
 	for url in tmp_urls:
@@ -70,7 +70,7 @@ def findURLs(words):
 '''
 Returns plain cleaned (by NLP texhniques) text data 
 
-Goes to URLs found by function findURLs and extract text only
+Goes to URLs found by function find_urls and extract text only
 Then eliminates scripts or styles components from web text
 Then does the necessary cleaning like back-slach n or back-slash r
 And stores the output in file 'output.txt'
@@ -84,7 +84,7 @@ Steps:
 	--Extracts keywords
 	--returns text (combination of keywords)
 '''
-def getText(url):
+def get_text(url):
 	time.sleep(0.5)
 	req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}) #spoofed agent for avoiding scraping ban
 	html = urlopen(req).read()
@@ -104,7 +104,7 @@ def getText(url):
 '''
 Makes a output.txt
 For every URL in URLs list, 
-calls getText() and stores in output.txt
+calls get_text() and stores in output.txt
 '''
 def create_output():
 	global page_limit
@@ -119,7 +119,7 @@ def create_output():
 	for url in URLs:
 		try:
 			if page_limit > 0:
-				text = getText(url)
+				text = get_text(url)
 				with open('raw.txt', 'a+') as f:
 					f.write("\n\n\n\n\n\n\n================= "+url + " ==================\n\n\n\n\n\n")
 					f.write(text)
@@ -151,7 +151,7 @@ If yes, then it is not removed.
 This functions just tells that the 
 word can be a vendor or device name or not
 '''
-def InDatabase(word):
+def in_database(word):
 	with open(sys.argv[2]) as file: db1 = file.read()
 	with open(sys.argv[3]) as file: db2 = file.read()
 
@@ -192,7 +192,7 @@ def refine_query(q, mode):
 	res = ""
 	for kword in keywords:
 		for k in kword.split(" "):
-			if (k is not "") and (d.check(k) == True) and (InDatabase(k.lower()) == False):
+			if (k is not "") and (d.check(k) == True) and (in_database(k.lower()) == False):
 				continue
 			if mode == 1:
 				if k.isdigit() is True:
@@ -203,7 +203,7 @@ def refine_query(q, mode):
 	return res
 
 
-def countWords(l):
+def count_words(l):
 	count = 0
 	for e in l:
 		if len(e) > 2:
@@ -213,7 +213,7 @@ def countWords(l):
 
 '''
 Main function:
-	--Finds all respective URLs (by findURLs())
+	--Finds all respective URLs (by find_urls())
 	--shows the fetched URLs
 	--Fetches the Text from URL sites and creates
 	output.txt (by create_output())
@@ -222,12 +222,12 @@ def main():
 	global query
 	res = refine_query(query, 1)
 	res2= res.split(" ")
-	res2 = countWords(res2)
+	res2 = count_words(res2)
 	print('Query: ', res)
 	with open('refinedQuery.txt', 'w') as file: file.write(res)
 
 	if res2 > 1:
-		findURLs(res)
+		find_urls(res)
 		# for url in URLs: print(url)
 		is_written = create_output()
 	else:

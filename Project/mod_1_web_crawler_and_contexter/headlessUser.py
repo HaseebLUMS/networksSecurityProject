@@ -14,7 +14,7 @@ from selenium.webdriver.firefox.options import Options
     #Also some url are not complete
     they end at ...
 '''
-def isURL(url):
+def is_url(url):
     if " " in url: return False
     if "..." in url: return False
     return True
@@ -27,7 +27,7 @@ headless selenium so that there is
 no limit on searches
 '''
 
-def performSearch(words):
+def perform_search(words):
     print('Headless browser active.')
     options = Options()
     options.headless = True
@@ -57,13 +57,13 @@ def performSearch(words):
                 try:
                     path = path1+str(i)+path2
                     url = browser.find_element_by_xpath(path)
-                    if isURL(url.text):
+                    if is_url(url.text):
                         urls.append(url.text)
                 except:
                     try:
                         path = path11+str(i)+path22
                         url = browser.find_element_by_xpath(path)
-                        if isURL(url.text):
+                        if is_url(url.text):
                             urls.append(url.text)
                     except:
                         pass
@@ -79,4 +79,4 @@ def performSearch(words):
     return urls
 
 
-# performSearch('python')
+# perform_search('python')

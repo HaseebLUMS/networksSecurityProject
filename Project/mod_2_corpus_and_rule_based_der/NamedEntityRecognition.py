@@ -63,7 +63,6 @@ def find_important_word(words, corpus):
 		candidates[w] = corpus[w]
 	candidates = sorted(candidates.items(), key=lambda x: x[1], reverse=True)
 	ans = []
-	i = 5
 	for c in candidates:
 		ans.append(c[0])
 	return ans
