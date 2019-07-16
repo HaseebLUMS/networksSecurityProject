@@ -49,12 +49,13 @@ Ignores URLs of popular sites (like social platforms)
 as they appear in search results on top but they are 
 not useful.
 '''
-
 def find_urls(words):
 	i = 10
 	tmp_urls = []
 	tmp_urls = perform_search(words)
+	print(tmp_urls)
 
+	
 	trash = ['youtube.com', 'facebook.com', 'linkedin.com', 'twitter.com', 'quora.com', 'glassdoor.com', 'reddit.com', '.pdf', '.doc', '.docx']
 	for url in tmp_urls:
 		trashyURL = False

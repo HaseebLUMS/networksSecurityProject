@@ -194,7 +194,7 @@ Stock bootloader: U-Boot
 Stock FW OS: Linux 3.14
 Third party firmware supported: OpenWrt
 Flags: Wave2, MU-MIMO
-Default SSID: ASUS (88 addl. devices), ASUS_5G (40 addl. devices)Default IP address: 192.168.1.1the IP 192.168.1.1 is used by 1163 additional devicesof which 153 are ASUS devicesDefault login user: adminDefault login password: adminadmin:admin credentials used by 1200 additional devicesof which 166 are ASUS devices
+Default SSID: ASUS (88 addl. devices), ASUS_5G (40 addl. devices)Default IP address: 192.168.1.1the IP 192.168.1.1 is used by 1164 additional devicesof which 153 are ASUS devicesDefault login user: adminDefault login password: adminadmin:admin credentials used by 1200 additional devicesof which 166 are ASUS devices
 802dot11 OUI: AC:9E:17 (10 E, 10 W, 2015), 38:D5:47 (4 E, 4 W, 2016)Ethernet OUI: AC:9E:17 (10 E, 10 W, 2015), 38:D5:47 (4 E, 4 W, 2016)
 FCC IDASUS RT-ACRH13MSQ-RTACRH00
 For a list of all currently documented Qualcomm chipsets with specifications, see Qualcomm.
@@ -2297,22 +2297,22 @@ UPS
 UPS Accessories
 UPS Units
 Products You may also be interested
-Lenovo 81HN00GRAU V130....
-$719.00
-Cooler Master MPZ-F001....
-$499.00
-StarTech HDMM3M 3m Hig....
-$20.90
-LG 65UT761H COMMERCIAL....
-$2,499.00
-Corsair Air Series SP1....
-$19.00
-StarTech SVECONUS10 10....
-$23.00
-Thermaltake CL-W018-OS....
-$12.00
-Adata 1TB SD700 ASD700....
-$279.00
+Alogic MF-AUS2PC7-02RB....
+$7.00
+Micron MTFDDAK480TCC-1....
+$469.00
+Orico 20000mAh K20000 ....
+$74.00
+QNAP TES-1885U-D1531-1....
+$10,499.00
+CyberPower PR1000ERT2U....
+$585.00
+PLANTRONIC 17590-03 SP....
+$15.00
+PLANTRONICS 210901-01 ....
+$129.00
+mbeat MB-CHGR-CC01 Pow....
+$15.00
 Asus RT-AC58U Dual-Band Wireless-AC1200 Gigabit Router
 Model # : RT-AC58U
 $122.00
@@ -2426,6 +2426,19 @@ CPL West Melbourne
 CPL Distribution
 Jobs at CPL
 ©2012 - 2018 CPL Online. All Rights Reserved
+
+
+
+
+
+
+================= https://www.telemart.pk/asus-rt-ac58u-dual-band-in-pakistan.html ==================
+
+
+
+
+
+
 
 
 
@@ -5018,19 +5031,6 @@ Except where otherwise noted, content on this wiki is licensed under the followi
 
 
 
-================= https://www.telemart.pk/asus-rt-ac58u-dual-band-in-pakistan.html ==================
-
-
-
-
-
-
-
-
-
-
-
-
 ================= https://www.speedguide.net/routers/asus-rt-ac58u-ac1300-dual-band-wi-fi-router-4070 ==================
 
 
@@ -5434,506 +5434,130 @@ Privacy Policy
 
 
 
-================= https://globalbrand.com.bd/product/asus-rt-ac58u-router/ ==================
+================= https://www.jayacom.com.my/index.php?route=product/product&product_id=4290 ==================
 
 
 
 
 
-ASUS RT-AC58U Router - Global Brand Pvt. Ltd.
-Welcome to Global Brand Pvt. Ltd. - Largest ICT Provider in Bangladesh
-Global Brand Pvt. Ltd. Largest Computer Distributor in Bangladesh
-Select Category
-Select Category
-Accessories
-ADATA External HDD
-ADATA Solid State Drive (SSD)
-Casing Accessories
-External Blu-Ray Writer
-External Optical Drive
-Keyboard
-A4TECH Keyboard
-Asus Keyboard
-COOLER MASTER Keyboard
-Rapoo Keyboard
-Lighting Accessories
-Mobile Accessories
-Android Pendrive
-Charger
-Headset & Earphone
-Power Bank
-USB Cable
-Mouse
-A4TECH Mouse
-Asus Mouse
-COOLER MASTER Mouse
-Rapoo Mouse
-Pen Drive
-Power Bank
-ADATA
-Rapoo
-Power Strip
-Speakers
-Golden Field
-Rapoo
-Webcam
-Brother Label Printer
-Components
-Casing
-Cooler Master Casing
-Golden Field Casing
-NZXT Casing
-Phanteks Casing
-XIGMATEK Casing
-Casing Cooling Fan
-CPU Cooler
-Desktop RAM
-Graphics Card
-Hard Disk Drive
-Headphone
-A4TECH Headphone
-Asus Headphone
-Rapoo Headphone
-Monitor
-Asus Monitor
-Dell Monitor
-Lenovo Monitor
-LG Monitor
-PHILIPS Monitor
-Motherboard
-Optical Drives
-Power Supply
-Cooler Master Power Supply
-Golden Field Power Supply
-Huntkey Power Supply
-Seasonic Power Supply
-Sound Card
-Computer Gaming
-Desktop Pc
-All in One
-ASUS
-Brand Pc
-Acer Desktop
-ASUS Desktop
-DELL Desktop
-Lenovo Desktop
-Lenovo Workstation
-Desktops
-Display Solution
-Digital Signage
-Video Wall
-Enterprise Solutions
-Data Storage
-Dell NAS STORAGE
-QNAP
-Enterprise Networking
-Cisco Access Point
-Cisco Router
-Cisco Switch
-Mikrotik Router
-Mikrotik Switch
-Server
-Acer Server
-ASUS Server
-DELL Server
-Gaming
-Laptop & Notebook
-Acer Laptop
-ASUS Laptop
-DELL Laptop
-Lenovo Laptop
-Networking Products
-LAN Card
-ASUS LAN Card
-Micronet LAN Card
-TOTOLINK LAN Card
-Networking Accessories
-Cable Tester&Crimper
-Connector
-Patch Panel
-UTP Cable & Patch Cord
-Wall Socket
-Wireless Range Extender
-Router
-ASUS Router
-Mikrotik router
-Sundray Enterprise WLAN
-TOTOLINK Router
-Switch
-CISCO Switch
-Micronet Switch
-Mikrotik Switch
-TOTOLINK Switch
-Office Equipment
-Brother Printer
-Colour Inkjet Multi-function Printer
-Colour Laser Multi-function Printer
-Colour Laser Printer
-Monochrome Laser Multi-function Printer
-Monochrome Laser Printer
-Card Printer
-ECO SOLVENT PRINTER
-Fax Machine
-hp DesignJet Printer
-Kington Money Counting Machine
-Paper Shredder
-Photocopier
-Sharp Photocopier
-Pos & Label Printer
-Projector
-Asus Projector
-Casio Projector
-panasonic projector
-Projector Accessories
-Vivitek Projector
-Wireless Presenter
-Scanner
-Avision Scanner
-Barcode Scanner
-Brother Scanner
-Microtek Scanner
-Mustek Scanner
-Sewoo Printer
-Specialized Large Format Scanner
-Plotter Printer
-Power Backup Solution
-POWER GUARD
-POWER GUARD OFFLINE UPS
-CLASSIC SERIES
-PREMIUM SERIES
-POWER GUARD ONLINE UPS
-POWER GUARD UPS BATTERY
-VERTIV (Emerson)
-Leoch Battery
-VERTIV (EMERSON) Offline UPS
-VERTIV (EMERSON) Online UPS
-Security & Surveillance
-DEFENSE PLUS
-Archway Gate
-Hand Held Metal Detector
-X-ray Baggage Scanner
-HIKVISION
-Software
-Antivirus
-Autodesk
-Bridge design & Geo-technical software
-Designing and Engineering Software
-Graphics Design Software
-Microsoft
-Modeling Software
-Office Solution Software
-Planning and Geodatabase Software
-Tally
-Water Modeling Software
-Survey Equipment
-GEOMAX
-TRIMBLE
-Uncategorized
-Search
-9 am - 7 pm
-09666-77-44-22, 01729-200-300
-Laptop & Notebook
-ASUS Laptop
-DELL Laptop
-Lenovo Laptop
-Acer Laptop
-Desktop Pc
-Brand Pc
-ASUS Desktop
-DELL Desktop
-Lenovo Desktop
-Acer Desktop
-Lenovo Workstation
-All in One
-ASUS
-Lenovo
-Accessories
-Speakers
-Golden Field
-Rapoo
-A4TECH
-Keyboard
-GOLDEN FIELD KEYBOARD
-A4TECH Keyboard
-Rapoo Keyboard
-Asus Keyboard
-COOLER MASTER Keyboard
-Mouse
-GOLDEN FIELD MOUSE
-A4TECH Mouse
-Rapoo Mouse
-Asus Mouse
-COOLER MASTER Mouse
-Mobile Accessories
-Android Pendrive
-Headset & Earphone
-Bluetooth Speaker
-Charger
-Adapter
-USB Cable
-ADATA External HDD
-ADATA Solid State Drive (SSD)
-Pen Drive
-Power Bank
-Power Strip
-Webcam
-Casing Accessories
-Lighting Accessories
-Components
-Monitor
-Lenovo Monitor
-Asus Monitor
-Dell Monitor
-LG Monitor
-PHILIPS Monitor
-Casing
-Cooler Master Casing
-Golden Field Casing
-Phanteks Casing
-NZXT Casing
-XIGMATEK Casing
-Power Supply
-Seasonic Power Supply
-Huntkey Power Supply
-Cooler Master Power Supply
-Golden Field Power Supply
-Headphone
-A4TECH Headphone
-Asus Headphone
-Rapoo Headphone
-Optical Drives
-External Blu-Ray Writer
-External Optical Drive
-Motherboard
-Graphics Card
-Desktop RAM
-Hard Disk Drive
-CPU Cooler
-Casing Cooling Fan
-Sound Card
-Enterprise Solutions
-Enterprise Networking
-Cisco Access Point
-Mikrotik router
-Cisco Router
-Cisco Switch
-IP-COM Professional Wi-Fi
-AP Controller
-Outdoor Access Point
-Juniper
-Palo Alto
-Check Point
-Ruckus
-Avaya
-Edge-core
-Planet Technology
-IP-COM Switch
-Sundray Enterprise WLAN
-Lenovo Workstation
-Server
-ASUS Server
-DELL Server
-Acer Server
-Data Storage
-Dell NAS STORAGE
-QNAP
-Networking Products
-Router
-ASUS Router
-TOTOLINK Router
-Mikrotik router
-Switch
-CISCO Switch
-Micronet Switch
-TOTOLINK Switch
-LAN Card
-ASUS LAN Card
-Micronet LAN Card
-TOTOLINK LAN Card
-Networking Accessories
-UTP Cable & Patch Cord
-Cable Tester&Crimper
-Wall Socket
-Wireless Range Extender
-Patch Panel
-Connector
-Software
-Antivirus
-Autodesk
-Tally
-Bridge design & Geo-technical software
-Designing and Engineering Software
-Graphics Design Software
-Microsoft
-Modeling Software
-Water Modeling Software
-Office Solution Software
-Planning and Geodatabase Software
-Power Backup Solution
-POWER GUARD
-POWER GUARD OFFLINE UPS
-CLASSIC SERIES
-PREMIUM SERIES
-POWER GUARD ONLINE UPS
-POWER GUARD UPS BATTERY
-VERTIV (Emerson)
-VERTIV (EMERSON) Offline UPS
-VERTIV (EMERSON) Online UPS
-Leoch Battery
-Display Solution
-Digital Signage
-LED Signage
-LG
-Unilumin
-LCD Signage
-LG
-Panasonic
-Philips
-ASUS
-Video Wall
-LED Video Wall
-LG
-LCD Video Wall
-LG
-Panasonic
-Philips
-Interactive White Board (IWB)
-LG
-Panasonic
-Philips
-Sharp
-Security & Surveillance
-DEFENSE PLUS
-X-ray Baggage Scanner
-Hand Held Metal Detector
-Archway Gate
-HIKVISION
-Surveillance Products
-Time & Attendance
-Office Equipment
-Brother Printer
-Monochrome Laser Printer
-Monochrome Laser Multi-function Printer
-Colour Laser Printer
-Colour Laser Multi-function Printer
-Colour Inkjet Multi-function Printer
-Scanner
-Brother Scanner
-Microtek Scanner
-Mustek Scanner
-Barcode Scanner
-Avision Scanner
-Brother Label Printer
-Pos & Label Printer
-Fax Machine
-Sewoo Printer
-ECO SOLVENT PRINTER
-Projector
-Vivitek Projector
-Asus Projector
-Casio Projector
-panasonic projector
-Projector Accessories
-Photocopier
-Sharp Photocopier
-Sharp Interactive White Board
-Wireless Presenter
-Card Printer
-Kington Money Counting Machine
-Paper Shredder
-hp DesignJet Printer
-Specialized Large Format Scanner
-Survey Equipment
-GEOMAX
-TRIMBLE
-Sell On Martfury Track Your Order
-US DollarUS Dollar
-European Euro
-English
-French
-German
-Select Category
-Search
+ASUS RT-AC58U WIRELESS AC1300 DUAL BAND GIGABIT ROUTER
+Wish List
+My Account
+Checkout
+Register
+Login
+MYR
+MYR
+.
+0 item(s) RM0.00
+Your shopping cart is empty!
+Toggle navigation
+Menu
 Home
-/
-Networking Products
-/
-Router
-/
-ASUS RT-AC58U Router
-ASUS RT-AC58U Router
-Brand:
-ASUS
-Roll over image to zoom in
-Click to open expanded view
-৳ 9,000.00
-Status:In stock
-▪ Network Standard: IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac, IPv4, IPv6
-▪ Product Segment: AC1300 enhanced AC performance : 400+867 Mbps
-▪ Operating Frequency: 2.4 GHz / 5 GHz
-▪ Warranty 2 year
-Quantity
-Add to cart
-Buy Now
-Add to Wishlist
-Product added!
-Browse Wishlist
-The product is already in the wishlist!
-Browse Wishlist
-Compare
-Add to Wishlist
-Product added!
-Browse Wishlist
-The product is already in the wishlist!
-Browse Wishlist
-Compare
-Categories: ASUS Router, Networking Products, Router
-Tags: ASUS RT-AC58U Router Price in Bangladesh, Buy ASUS RT-AC58U Router Price in Bangladesh
+JAYACOM PROMOTION
+MONTHLY PROMOTION
+AKRACING DESK & GAMING CHAIR
+AMD CPU PROCESSOR
+MOTHERBOARD
+DESKTOP RAM & HARD DRIVE STORAGE
+PC CASING & PSU & CPU COOLER
+KEYBOARD & POWER BANK & PHONE
+SPEAKER & HEADSET & MICROPHONE
+WEEKEND PROMOTION
+IN-HOUSE PROMOTION
+Products
+Category
+Brand
+HOT SALES
+MONTHLY SALE
+WEEKEND SALE
+IN-HOUSE SALE
+Epson Day
+Customer Service
+About Us
+Contact Us
+Payment Method
+Privacy Policy
+Return & Refund Policy
+Terms & Conditions
+Career Opportunity
+Home
+» ASUS RT-AC58U WIRELESS AC1300 DUAL BAND GIGABIT ROUTER
+ASUS RT-AC58U WIRELESS AC1300 DUAL BAND GIGABIT ROUTER
+Click To Enlarge
+Brand: ASUS
+Super-fast network speed
+Concurrent dual-band AC1300 Wi-Fi speed plus quad-core processor for responsive network performance
+Full Wi-Fi speed on multiple devices simultaneously
+MU-MIMO technology and huge 128MB memory for the best multi-device performance
+Improved Wi-Fi range
+Four external antennas with AiRadar for improved Wi-Fi range
+Parental Controls
+Monitor and filter internet activities for your families and children
+Multi-purpose USB 3.0 port
+10X-faster data transfers than USB 2.0
+Product SKU: 1709041607207
+Availability: 4
+Price:
+RM435.00
+Qty:
+Estimate Shipping Cost
+0 reviews  |  Write a review
+Share
 Description
+What's in the box
 Reviews (0)
-ASUS RT-AC58U Router Price in Bangladesh
 Network Standard
 IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac, IPv4, IPv6
+Product Segment
+AC1300 enhanced AC performance : 400+867 Mbps
+Coverage
+Large homes
 Data Rate
 802.11a : 6,9,12,18,24,36,48,54 Mbps
 802.11b : 1, 2, 5.5, 11 Mbps
 802.11g : 6,9,12,18,24,36,48,54 Mbps
-802.11n TurboQAM : up to 400 Mbps
-802.11ac : up to 867 Mbps
+802.11n TurboQAM : up to 150 Mbps
+802.11ac : up to 150 Mbps
 Antenna
-External antenna x 4
+Select antenna x 0
+Transmit/Receive
+MIMO technology
+2.4 GHz 1 x 1
+2.4 GHz 1 x 1
+Memory
+128 MB Flash
+128 MB RAM
 Operating Frequency
 2.4 GHz / 5 GHz
 Encryption
 64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPA-Enterprise , WPS support
 Ports
-RJ45 for 10/100/1000/Gigabits BaseT for WAN x 1, RJ45 for 10/100/1000/Gigabits BaseT for LAN x 4
-USB 3.0 x 1
-WAN Connection Type
-Internet connection type : Automatic IP, Static IP, PPPoE(MPPE supported), PPTP, L2TP
+RJ45 for 10/100/1000/Gigabits BaseT for WAN x 0, RJ45 for 10/100/1000/Gigabits BaseT for WAN x 0
+USB 3.0 x 0
 Features
 MU-MIMO
 SmartQoS
-– WMM
-– User definable rules for IP/MAC/Port
-– Upload and download bandwidth management
-– ACK/SYN/FIN/RST/ICMP with highest priority
+- WMM
+- User definable rules for IP/MAC/Port
+- Upload and download bandwidth management
+- ACK/SYN/FIN/RST/ICMP with highest priority
 Parental Control
 Guest Network :
-VPN server : L2TP Pass-Through, PPTP Server, OpenVPN Server
-VPN client : PPTP client, L2TP client, OpenVPN client
-AiCloud personal cloud service
-3G/4G data sharing
+VPN server : L2TP Pass-Through, PPTP Server, OpenVPN Server
+VPN client : PPTP client, L2TP client, OpenVPN client
+AiCloud personal cloud service
+3G/4G data sharing
 Printer Server
-AiDisk file server
-– Samba and FTP server with account management
+AiDisk file server
+- Samba and FTP server with account management
 Button
 WPS Button, Reset Button, Power Button
 LED Indicator
-LAN x 1
-WAN x 1
-Wi-Fi x 2
-USB x 1
+Power x 0
+Power x 0
+Power x 0
+Power x 0
 Power Supply
 AC Input : 110V~240V(50~60Hz)
 DC Output : 12 V with max. 1.5 A current
@@ -5950,7 +5574,7 @@ Mac OS X 10.6
 Mac OS X 10.7
 Mac OS X 10.8
 Dimensions
-207 x 148.8 x 35.5 ~ mm (LxWxH)
+207 x 148.8 x 35.5 ~ cm (WxDxH) (Without Bezel)
 Weight
 395 g
 Package Content
@@ -5962,940 +5586,146 @@ Package Content
 Operation mode
 Wireless router mode
 Access point mode
-Submit your review Cancel reply
-Your email address will not be published. Required fields are marked *Your rating of this product
-Rate…
-Perfect
+All specifications are subject to change without notice. Please check with your supplier for exact offers. Products may not be available in all markets.
+PCB color and bundled software versions are subject to change without notice.
+Brand and product names mentioned are trademarks of their respective companies.
+•Wireless Router
+•AC adapter
+•Network cable (RJ-45)
+•Quick Start Guide
+•Support CD (User Manual)
+Write a review
+Your Name:
+Your Review:
+Note: HTML is not translated!
+Rating: Bad
 Good
-Average
-Not that bad
-Very poor
-Save my name, email, and website in this browser for the next time I comment.
-Reviews
-There are no reviews yet.
-Related products
-ASUS RT-AC55UHP Router
-ASUS RT-AC55UHP Router
-ASUS RT-AC3200 Router
-৳ 28,900.00
-ASUS RT-AC3200 Router
-৳ 28,900.00
-TOTOLINK ND300 Router
-৳ 2,600.00
-TOTOLINK ND300 Router
-৳ 2,600.00
-Asus RT-N14UHP 3G/4G Supported High Power Wireless
-৳ 7,500.00
-Asus RT-N14UHP 3G/4G Supported High Power Wireless
-৳ 7,500.00
-ASUS RT-AC88U Router
-৳ 28,000.00
-ASUS RT-AC88U Router
-৳ 28,000.00
-TOTOLINK N300RT Router
-৳ 1,499.00
-TOTOLINK N300RT Router
-৳ 1,499.00
-Contact UsCall us 9 am - 7 pm
-09666-77-44-22
-+88 01729 200 300
-19/2, West Panthapath Dhanmondi, Dhaka-1205, Bangladesh
-info@globalbrand.com.bd
-Policy InfoQuery By Brands
-Privacy Policy
-Returns & refunds rules
-Terms & Conditions
-Technical Help Line
-Service Policy
-Cookie Policy
-CompanyOur Management
-Our Human Resource
-About Us
-Mission & Vision
-Award & Achievements
-Corporate Clients
-Our Brands
-Branches
-Online Shop
-Blog
-Contact Us
-Recent Posts
-বাজারে এলজি মনিটরের নতুন চমক
-March 21, 2019
-বাজারে আসুসের নতুন মনিটর
-March 21, 2019
-বিশ্বের #১ নম্বর অ্যান্টিভাইরাস ‘বিট ডিফেন্ডার’এর বাংলাদেশে পরিবেশক হলো ‘গ্লোবাল ব্র্যান্ড প্রাইভেট লিমিটেড’
-March 19, 2019
-“স্মার্টফোন ও ট্যাব এক্সপো-২০১৯” এ গ্লোবালব্র্যান্ড প্রাইভেট লিমিটেডের অংশগ্রহণ
-January 10, 2019
-বাজারে হান্টকির নতুন গেমিং পাওয়ার সাপ্লাই
-December 23, 2018
-আসুস মনিটর আরও আকর্ষণীয় পাতলা গড়নে
-December 13, 2018
-CompanyOur Management
-Our Human Resource
-About Us
-Mission & Vision
-Award & Achievements
-Corporate Clients
-Our Brands
-Branches
-Online Shop
-Blog
-Contact Us
-Copyright © 2019 Global Brand Pvt. Ltd. - All Rights Reserved
-Shop By Department
-Laptop & Notebook
-ASUS Laptop
-DELL Laptop
-Lenovo Laptop
-Acer Laptop
-Desktop Pc
-Brand Pc
-ASUS Desktop
-DELL Desktop
-Lenovo Desktop
-Acer Desktop
-Lenovo Workstation
-All in One
-ASUS
-Lenovo
-Accessories
-Speakers
-Golden Field
-Rapoo
-A4TECH
-Keyboard
-GOLDEN FIELD KEYBOARD
-A4TECH Keyboard
-Rapoo Keyboard
-Asus Keyboard
-COOLER MASTER Keyboard
-Mouse
-GOLDEN FIELD MOUSE
-A4TECH Mouse
-Rapoo Mouse
-Asus Mouse
-COOLER MASTER Mouse
-Mobile Accessories
-Android Pendrive
-Headset & Earphone
-Bluetooth Speaker
-Charger
-Adapter
-USB Cable
-ADATA External HDD
-ADATA Solid State Drive (SSD)
-Pen Drive
-Power Bank
-Power Strip
-Webcam
-Casing Accessories
-Lighting Accessories
-Components
-Monitor
-Lenovo Monitor
-Asus Monitor
-Dell Monitor
-LG Monitor
-PHILIPS Monitor
-Casing
-Cooler Master Casing
-Golden Field Casing
-Phanteks Casing
-NZXT Casing
-XIGMATEK Casing
-Power Supply
-Seasonic Power Supply
-Huntkey Power Supply
-Cooler Master Power Supply
-Golden Field Power Supply
-Headphone
-A4TECH Headphone
-Asus Headphone
-Rapoo Headphone
-Optical Drives
-External Blu-Ray Writer
-External Optical Drive
-Motherboard
-Graphics Card
-Desktop RAM
-Hard Disk Drive
-CPU Cooler
-Casing Cooling Fan
-Sound Card
-Enterprise Solutions
-Enterprise Networking
-Cisco Access Point
-Mikrotik router
-Cisco Router
-Cisco Switch
-IP-COM Professional Wi-Fi
-AP Controller
-Outdoor Access Point
-Juniper
-Palo Alto
-Check Point
-Ruckus
-Avaya
-Edge-core
-Planet Technology
-IP-COM Switch
-Sundray Enterprise WLAN
-Lenovo Workstation
-Server
-ASUS Server
-DELL Server
-Acer Server
-Data Storage
-Dell NAS STORAGE
-QNAP
-Networking Products
-Router
-ASUS Router
-TOTOLINK Router
-Mikrotik router
-Switch
-CISCO Switch
-Micronet Switch
-TOTOLINK Switch
-LAN Card
-ASUS LAN Card
-Micronet LAN Card
-TOTOLINK LAN Card
-Networking Accessories
-UTP Cable & Patch Cord
-Cable Tester&Crimper
-Wall Socket
-Wireless Range Extender
-Patch Panel
-Connector
-Software
-Antivirus
-Autodesk
-Tally
-Bridge design & Geo-technical software
-Designing and Engineering Software
-Graphics Design Software
-Microsoft
-Modeling Software
-Water Modeling Software
-Office Solution Software
-Planning and Geodatabase Software
-Power Backup Solution
-POWER GUARD
-POWER GUARD OFFLINE UPS
-CLASSIC SERIES
-PREMIUM SERIES
-POWER GUARD ONLINE UPS
-POWER GUARD UPS BATTERY
-VERTIV (Emerson)
-VERTIV (EMERSON) Offline UPS
-VERTIV (EMERSON) Online UPS
-Leoch Battery
-Display Solution
-Digital Signage
-LED Signage
-LG
-Unilumin
-LCD Signage
-LG
-Panasonic
-Philips
-ASUS
-Video Wall
-LED Video Wall
-LG
-LCD Video Wall
-LG
-Panasonic
-Philips
-Interactive White Board (IWB)
-LG
-Panasonic
-Philips
-Sharp
-Security & Surveillance
-DEFENSE PLUS
-X-ray Baggage Scanner
-Hand Held Metal Detector
-Archway Gate
-HIKVISION
-Surveillance Products
-Time & Attendance
-Office Equipment
-Brother Printer
-Monochrome Laser Printer
-Monochrome Laser Multi-function Printer
-Colour Laser Printer
-Colour Laser Multi-function Printer
-Colour Inkjet Multi-function Printer
-Scanner
-Brother Scanner
-Microtek Scanner
-Mustek Scanner
-Barcode Scanner
-Avision Scanner
-Brother Label Printer
-Pos & Label Printer
-Fax Machine
-Sewoo Printer
-ECO SOLVENT PRINTER
-Projector
-Vivitek Projector
-Asus Projector
-Casio Projector
-panasonic projector
-Projector Accessories
-Photocopier
-Sharp Photocopier
-Sharp Interactive White Board
-Wireless Presenter
-Card Printer
-Kington Money Counting Machine
-Paper Shredder
-hp DesignJet Printer
-Specialized Large Format Scanner
-Survey Equipment
-GEOMAX
-TRIMBLE
-
-
-
-
-
-
-================= https://www.amazon.com/ask/questions/TxZ7IJRVHEEFFE/ref=ask_ql_ql_al_hza ==================
-
-
-
-
-
-Amazon.com: Customer Questions & Answers
-Skip to main content
-All
-Select the department you want to search in
-All Departments
-Arts & Crafts
-Automotive
-Baby
-Beauty & Personal Care
-Books
-Computers
-Digital Music
-Electronics
-Kindle Store
-Prime Video
-Women's Fashion
-Men's Fashion
-Girls' Fashion
-Boys' Fashion
-Deals
-Health & Household
-Home & Kitchen
-Industrial & Scientific
-Luggage
-Movies & TV
-Music, CDs & Vinyl
-Pet Supplies
-Software
-Sports & Outdoors
-Tools & Home Improvement
-Toys & Games
-Video Games
-Go
-Search
-Deliver toPakistan
-EN
-Hello, Sign in
-Account & Lists
-Sign in
-Account & Lists
-Orders
-Cart
-0
-Departments
-Today's Deals
-Your Amazon.com
-Gift Cards
-Help
-Registry
-Sell
-Disability Customer Support
-ASUS Dual-Band 2x2 AC1300 Super-Fast Wifi 4-port Gigabit Router with MU-MIMO and USB 3.0 (RT-ACRH13)
-What is the exact, technical difference between this router and the asus rt-ac58u? they appear identical but i find them at very different prices.
-asked on January 6, 2017Answer this questionAnswerSee all questions about this productShowing 1-2 of 2 answers
-It seems the RT-AC58U is a global router and the RT-ACRH13 is made specifically for the US.
-When searching the Asus site, the RT-AC58U can only be found on their Global website and the RT-ACRH13 can only be found on the US website.
-Also the only other differences that I could find was that the RT-AC58U has: AiClou…
-see more
-It seems the RT-AC58U is a global router and the RT-ACRH13 is made specifically for the US.
-When searching the Asus site, the RT-AC58U can only be found on their Global website and the RT-ACRH13 can only be found on the US website.
-Also the only other differences that I could find was that the RT-AC58U has: AiCloud personal cloud service, 3G/4G data sharing, and a designated Printer Server.
-(This was stuff listed on the Asus website.
-I do know you can hook up a printer to the RT-ACRH13 though.)
-Otherwise they are identical. (measurements, power consumption, memory, speed,etc.)Hope this helps.
-I personally would go with the RT-ACRH13 since it costs less.
-see less
-It seems the RT-AC58U is a global router and the RT-ACRH13 is made specifically for the US.
-When searching the Asus site, the RT-AC58U can only be found on their Global website and the RT-ACRH13 can only be found on the US website.
-Also the only other differences that I could find was that the RT-AC58U has: AiCloud personal cloud service, 3G/4G data sharing, and a designated Printer Server.
-(This was stuff listed on the Asus website.
-I do know you can hook up a printer to the RT-ACRH13 though.)
-Otherwise they are identical. (measurements, power consumption, memory, speed,etc.)Hope this helps.
-I personally would go with the RT-ACRH13 since it costs less.
-DjSker
-· January 11, 2017
-Comments
-Comments
-|
-Leave a Comment
-|
-Do you find this helpful?
-Yes
-No
-|
-Report abuse
-Thank you for the reply. I didn't even find the small differences you dug up. I think both routers were released last summer within 2 weeks of each other and the specs look identical. Given the big difference in price I too would lean toward the ACRH13. It's like $130. vs $70. And the ACRH13 is picking up some good use…
-see more
-Thank you for the reply. I didn't even find the small differences you dug up. I think both routers were released last summer within 2 weeks of each other and the specs look identical. Given the big difference in price I too would lean toward the ACRH13. It's like $130. vs $70. And the ACRH13 is picking up some good user reviews.
-see less
-Thank you for the reply. I didn't even find the small differences you dug up. I think both routers were released last summer within 2 weeks of each other and the specs look identical. Given the big difference in price I too would lean toward the ACRH13. It's like $130. vs $70. And the ACRH13 is picking up some good user reviews.
-Pug
-· January 11, 2017
-|
-Report abuse
-I believe it's the processor. The RT- AC58U has a quad-core A7 processor and the RT-ARCH13 has a quad-core Qualcomm chipset. Other than that they're pretty much the same when it comes to range and performance.
-Philly Kell
-· January 6, 2017
-Comments
-Comments
-|
-Leave a Comment
-|
-Do you find this helpful?
-Yes
-No
-|
-Report abuse
-Thank you. I figured it was something like that. There is a a big difference in the prices. Do you know if one is decidedly better than the other?
-Pug
-· January 6, 2017
-|
-Report abuse
-←Previous
-1
-Next→
-There's a problem loading this menu right now.
-Learn more about Amazon Prime.
-Get fast, free delivery with Amazon Prime
-Prime members enjoy FREE Two-Day Delivery and exclusive access to music, movies, TV shows, original audio series, and Kindle books.
->
-Get started
-
-
-
-
-
-
-================= https://www.anywarenz.co.nz/as-rt-ac58u.html ==================
-
-
-
-
-
-ASUS RT-AC58U Dual Band AC1200 Wireless Router With MU-MIMO Support
-JavaScript seems to be disabled in your browser.
-You must have JavaScript enabled in your browser to utilize the functionality of this website.
-Welcome to Anyware!
-Login
-Welcome to Anyware!
-Login or Register
-Call: +64 9 634 8088
-Account
-Menu
-Products
-Search
-Account
-Cart
-0
-Recently added item(s)
-×
-You have no items in your shopping cart.
-Home
-About Us
-Contact Us
-New Customer
-Where to Buy
-Vendor Links
-What's New
-Clearance
-Support
-Feedback
-ProductsView All ProductsAudio/VisualView All Audio/VisualCables & AdaptersView All Cables & AdaptersAudio CablesDisplay Port CablesDVI CablesExtenders - HDMI Audio / VideoExtenders - VGAHDMI CablesOptical ToslinkRCA CablesUSB Graphics AdaptersVGA CablesVideo Converters - Display PortVideo Converters - DVIVideo Converters - HDMIVideo Converters - VGAHeadsetsView All HeadsetsEarphonesHeadphone / Microphone HeadsetsHeadsets - Gaming ConsolesMicrophonesMedia Playing & CaptureView All Media Playing & CaptureMedia PlayersUSB Audio CaptureVideo Capture / EditingSpeakersView All SpeakersDesktop SpeakersUltra Portable SpeakersWireless Audio AdaptersWireless/Bluetooth SpeakersSplittersView All SplittersDisplay Port SplittersDVI Audio / Video SplittersHDMI SplittersVGA SplittersSwitchesView All SwitchesAV SwitchesDVI Audio / Video SwitchesHDMI Audio / Video SwitchesVGA Video SwitchesTV Accessories / BracketsView All TV Accessories / BracketsBrackets - Monitor / LCD / Plasma / LEDMonitor Stands / RisersProjector Screens and AccessoriesTV Adapters / Plugs / CablesCablesView All CablesAudio CablesCable TiesI/O CablesView All I/O CablesParallel / Serial CablesInternal PC CablesView All Internal PC CablesPower Cables - InternalSATA / SAS CablesKVM CablesView All KVM CablesKVM Cables - PS/2KVM Cables - USBMobile Device CablesNetwork CablesView All Network CablesNetwork Cables - Cat5ENetwork Cables - Cat6Network Cables - Cat6aNetwork Cables - FibreNetwork ConnectorsPower & Extension LeadsTV CablesView All TV CablesTV Adapters / Plugs / CablesUSB CablesView All USB CablesUSB 2.0 Cables - 'A-A'USB 2.0 Cables - 'A-B'USB 2.0 Cables - ExtensionUSB 2.0 Cables - MicroUSB 2.0 Cables - MiniUSB 3.0 Cables - 'A-B'USB 3.0 Cables - ExtensionUSB 3.0 Cables - MicroUSB Type-C CablesVideo CablesView All Video CablesDisplay Port CablesDVI CablesHDMI CablesOptical ToslinkVGA CablesGamingView All GamingAccessoriesChairsHeadsetsKeyboardsMiceMousepadsHealth HoldInput DevicesView All Input DevicesKeyboardsView All KeyboardsGaming and Mechanical KeyboardsKeyboard / Mouse CombosKeypads and Home Theatre KeyboardsMini KeyboardsWired KeyboardsWireless KeyboardsMiceView All MiceGaming MiceGaming MousepadsMini MiceMousepadsWired MiceWireless MicePOSScanners / PresentersView All Scanners / PresentersDocument ScannersSerial / ParallelView All Serial / ParallelDB9 AdaptersParallel / Serial CablesParallel Controller CardsSerial AdaptersSerial Controller CardsUSB to Parallel AdaptersUSB to Serial AdaptersTouch/MotionKVMView All KVMDesktop KVM SwitchesView All Desktop KVM Switches2-Port Desktop4-Port DesktopDual Display KVMDVI KVM SwitchesHDMI KVM SwitchesKVM Cables & AccessoriesView All KVM Cables & AccessoriesKVM Adapters - Cat5 to PS/2KVM Adapters - Cat5 to USBKVM Cables - PS/2KVM Cables - USBKVM ExtendersView All KVM ExtendersKVM Extenders - PS/2KVM Extenders - USBKVM Over IPView All KVM Over IPKVM Over IP - 16-PortKVM Over IP - 8-PortKVM Over IP - Single-PortLCD KVM ConsolesView All LCD KVM ConsolesLCD Console DrawersPetite KVM SwitchesView All Petite KVM Switches2-Port 'Petite' PS/22-Port 'Petite' USB4-Port 'Petite'Rackmount KVM SwitchesView All Rackmount KVM Switches16-Port KVM Switches4-Port Rackmount8-Port KVM SwitchesReverse KVM SwitchesLED LightingView All LED LightingLED Ceiling LightsLED DownlightsView All LED DownlightsLED Downlight KitsLED High Bay LightsLED Light GlobesView All LED Light GlobesLED Bayonet GlobesLED Screw-in GlobesLED Panel LightsLED Personal LightingView All LED Personal LightingLED DesklampsLED SpotlightsView All LED SpotlightsLED Spotlights - GU10LED Spotlights - MR16LED Strip LightsLED Tube LightsMobile Device AccessoriesView All Mobile Device AccessoriesCases & ProtectionView All Cases & ProtectionCovers / Cases / Protectors - iPhoneCovers / Cases / Protectors - SamsungCovers / Cases / Protectors - TabletsMobile Add-onsView All Mobile Add-onsBluetooth KitsCables & AdaptersMultimedia AccessoriesMobile PowerView All Mobile PowerExtended Life BatteriesMobile Device ChargersMounts & StandsMonitors / TVNetworkingView All NetworkingEnterprise / Industrial NetworkingView All Enterprise / Industrial NetworkingEthernet Switches - ManagedEthernet Switches - Web SmartFibre / Media ConvertersPower over EthernetSerial Over IPEthernet SwitchesView All Ethernet SwitchesEthernet Switches - 16-PortEthernet Switches - 24-PortEthernet Switches - 48-PortEthernet Switches - 5-PortEthernet Switches - 8-PortModems / RoutersView All Modems / Routers3G/4G Wireless RoutersADSL FiltersADSL Modem / Router CombosEthernet RoutersWireless RoutersNetwork AdaptersView All Network AdaptersEthernet Adapters - USBEthernet Adapters CardsWireless Adapters - CardbusWireless Adapters - Mini-PCIWireless Adapters - PCIWireless Adapters - PCI ExpressWireless Adapters - USBNetwork CablesView All Network CablesNetwork Cables - Cat5ENetwork Cables - Cat6Network Cables - Cat6aNetwork ToolsNetwork ConnectorsPowerline NetworkingPrint ServersWirelessView All Wireless3G/4G Wireless RoutersAntennas & CablesWireless Access PointsWireless Adapters - CardbusWireless Adapters - Mini-PCIWireless Adapters - PCIWireless Adapters - PCI ExpressWireless Adapters - USBWireless Range ExtendersWireless RoutersNotebookView All NotebookNotebook AccessoriesView All Notebook AccessoriesNotebook - Touch/MotionSecurity LocksNotebook BagsView All Notebook BagsNetbook Bags - Under 15.4"Notebook Bags - 15.4"Notebook Bags - 17"+Notebook Power AdaptersView All Notebook Power AdaptersCar Accessory Power AdaptersNotebook Power Adapter Tips & AccessoriesNotebook Power Adapters - 65WNotebook Power Adapters - 85WNotebook Power Adapters - 90WNotebook Power Adapters - Under 65WNotebook ScreenNotebook Stands and CoolersPC Cases & CoolingView All PC Cases & CoolingAccessoriesView All AccessoriesAssembly Tools & PartsBatteriesCase ModdingATX Power SuppliesCases - Full TowerCases - Mid TowerCases - Mini Tower / Desktop Fans / CoolersView All Fans / CoolersCase CoolingCase FansCooling AccessoriesCPU CoolingInternal CablesView All Internal CablesCable TiesPower Cables - InternalSATA / SAS CablesWater CoolingPowerView All PowerAdaptersView All AdaptersCar Accessory Power AdaptersPowerboards / Surge ProtectorsTravel AdaptersUSB Power HubsCablesView All CablesCable TiesPower & Extension LeadsDesktopView All DesktopATX Power SuppliesPower Distribution UnitsPower over IPUninterruptable Power SuppliesView All Uninterruptable Power SuppliesUPS - Domestic / OfficePrintingView All Printing3D PrintingDrumsTonersSecurity & SurveillanceView All Security & SurveillanceSecurity AccessoriesView All Security AccessoriesCamera BracketsSecurity - Cables & AdaptersSecurity CamerasView All Security CamerasCCTV CamerasIP CamerasSecurity Systems & KitsView All Security Systems & KitsDIY Security KitsDVRNetwork Video RecordersServer Racks & ChassisView All Server Racks & ChassisPortable Hardware CasesRack AccessoriesView All Rack AccessoriesCable ManagementPatch PanelsPower Distribution UnitsRack AccessoriesRack CabinetsView All Rack CabinetsOpen Rack CabinetsTower Rack CabinetsWall Mount CabinetsSoftwareView All SoftwareAnti-VirusInternet SecurityOfficeTotal Security SuiteWindowsStorage & MediaView All Storage & MediaFlash DriveHDD & SSDMemory CardMemory Card ReadersStorage EnclosuresView All Storage EnclosuresHDD Enclosures - ExternalHDD Enclosures - Internal Drive BayHDD Enclosures - Network StorageSATA Controller CardsUSB & FIREWIREView All USB & FIREWIREFirewire CablesView All Firewire CablesFirewire CablesFirewire HubsUSB / Firewire - Controller CardsView All USB / Firewire - Controller CardsFirewire 800 Controller CardsUSB 2.0 Controller CardsUSB 3.0 Controller CardsUSB AccessoriesView All USB AccessoriesUSB AccessoriesUSB CablesView All USB CablesUSB 2.0 Cables - 'A-A'USB 2.0 Cables - 'A-B'USB 2.0 Cables - ExtensionUSB 2.0 Cables - MicroUSB 2.0 Cables - MiniUSB 3.0 Cables - 'A-B'USB 3.0 Cables - ExtensionUSB 3.0 Cables - MicroUSB Type-C CablesUSB Converters / AdaptersUSB Docking Stations/HubsUSB HubsView All USB HubsUSB 2.0 HubsUSB 3.0 HubsUSB Extender HubsUSB Power HubsUSB SwitchesBrandView All Brand3608wareAdessoAerocoolallocacocAltusenAmacroxAntecASUSATENAVerMediaAzioBoogie BoardBracomBrateckCase LogicCougarDeepcoolDeltaE-BlueEdifierEdimaxEnergeticFractal DesignFSPGenericHuionHuntkeyiBenzer IRISJadensKonkaLamptronLEDwareLENKENGLexarLinkbasicLVSUNmBeatMicrolabMicrosoftMionixNationStarPelicanPlantronicsRapooRazerRoccatRockROMOSSSafemoreSframeSTARK SunixSymantecThermaltakeTP-LinkTrend MicroTribeTucanoV-LightWarcraft CollectableWavlinkWellandWestern DigitalWinstars
-Home
-About Us
-Contact Us
-New Customer
-Where to Buy
-Vendor Links
-What's New
-Clearance
-Support
-Feedback
-Search:
-Search
-My Account
-My Cart
-Checkout
+Continue
+BestsellersMore >>
+JYC MAGNETIC AIR VENT MOUNT FOR MOBILE DEVICES
+RM13.00
+LDNIO A6704 QUALCOMM2.0 QUICK CHARGE 6 USB PORTS (SZ)
+RM32.00
+SAMSUNG MZ-76E250BW 250GB 860 EVO SOLID STATE DRIVE
+RM259.00
+ADATA 480GB SU650 2.5" SATA SOLID STATE DRIVE
+RM269.00
+JYC IRING PHONE KICKSTAND + SIM POCKET
+RM10.00
 Categories
-Brands
-Audio/Visual
-Cables & Adapters
-Audio Cables
-Display Port Cables
-DVI Cables
-Extenders - HDMI Audio / Video
-Extenders - VGA
-HDMI Cables
-Optical Toslink
-RCA Cables
-USB Graphics Adapters
-VGA Cables
-Video Converters - Display Port
-Video Converters - DVI
-Video Converters - HDMI
-Video Converters - VGA
-Headsets
-Earphones
-Headphone / Microphone Headsets
-Headsets - Gaming Consoles
-Microphones
-Media Playing & Capture
-Media Players
-USB Audio Capture
-Video Capture / Editing
-Speakers
-Desktop Speakers
-Ultra Portable Speakers
-Wireless Audio Adapters
-Wireless/Bluetooth Speakers
-Splitters
-Display Port Splitters
-DVI Audio / Video Splitters
-HDMI Splitters
-VGA Splitters
-Switches
-AV Switches
-DVI Audio / Video Switches
-HDMI Audio / Video Switches
-VGA Video Switches
-TV Accessories / Brackets
-Brackets - Monitor / LCD / Plasma / LED
-Monitor Stands / Risers
-Projector Screens and Accessories
-TV Adapters / Plugs / Cables
-Cables
-Audio Cables
-Cable Ties
-I/O Cables
-Parallel / Serial Cables
-Internal PC Cables
-Power Cables - Internal
-SATA / SAS Cables
-KVM Cables
-KVM Cables - PS/2
-KVM Cables - USB
-Mobile Device Cables
-Network Cables
-Network Cables - Cat5E
-Network Cables - Cat6
-Network Cables - Cat6a
-Network Cables - Fibre
-Network Connectors
-Power & Extension Leads
-TV Cables
-TV Adapters / Plugs / Cables
-USB Cables
-USB 2.0 Cables - 'A-A'
-USB 2.0 Cables - 'A-B'
-USB 2.0 Cables - Extension
-USB 2.0 Cables - Micro
-USB 2.0 Cables - Mini
-USB 3.0 Cables - 'A-B'
-USB 3.0 Cables - Extension
-USB 3.0 Cables - Micro
-USB Type-C Cables
-Video Cables
-Display Port Cables
-DVI Cables
-HDMI Cables
-Optical Toslink
-VGA Cables
-Gaming
-Accessories
-Chairs
-Headsets
-Keyboards
-Mice
-Mousepads
-Health Hold
-Input Devices
-Keyboards
-Gaming and Mechanical Keyboards
-Keyboard / Mouse Combos
-Keypads and Home Theatre Keyboards
-Mini Keyboards
-Wired Keyboards
-Wireless Keyboards
-Mice
-Gaming Mice
-Gaming Mousepads
-Mini Mice
-Mousepads
-Wired Mice
-Wireless Mice
-POS
-Scanners / Presenters
-Document Scanners
-Serial / Parallel
-DB9 Adapters
-Parallel / Serial Cables
-Parallel Controller Cards
-Serial Adapters
-Serial Controller Cards
-USB to Parallel Adapters
-USB to Serial Adapters
-Touch/Motion
-KVM
-Desktop KVM Switches
-2-Port Desktop
-4-Port Desktop
-Dual Display KVM
-DVI KVM Switches
-HDMI KVM Switches
-KVM Cables & Accessories
-KVM Adapters - Cat5 to PS/2
-KVM Adapters - Cat5 to USB
-KVM Cables - PS/2
-KVM Cables - USB
-KVM Extenders
-KVM Extenders - PS/2
-KVM Extenders - USB
-KVM Over IP
-KVM Over IP - 16-Port
-KVM Over IP - 8-Port
-KVM Over IP - Single-Port
-LCD KVM Consoles
-LCD Console Drawers
-Petite KVM Switches
-2-Port 'Petite' PS/2
-2-Port 'Petite' USB
-4-Port 'Petite'
-Rackmount KVM Switches
-16-Port KVM Switches
-4-Port Rackmount
-8-Port KVM Switches
-Reverse KVM Switches
-LED Lighting
-LED Ceiling Lights
-LED Downlights
-LED Downlight Kits
-LED High Bay Lights
-LED Light Globes
-LED Bayonet Globes
-LED Screw-in Globes
-LED Panel Lights
-LED Personal Lighting
-LED Desklamps
-LED Spotlights
-LED Spotlights - GU10
-LED Spotlights - MR16
-LED Strip Lights
-LED Tube Lights
-Mobile Device Accessories
-Cases & Protection
-Covers / Cases / Protectors - iPhone
-Covers / Cases / Protectors - Samsung
-Covers / Cases / Protectors - Tablets
-Mobile Add-ons
-Bluetooth Kits
-Cables & Adapters
-Multimedia Accessories
-Mobile Power
-Extended Life Batteries
-Mobile Device Chargers
-Mounts & Stands
-Monitors / TV
-Networking
-Enterprise / Industrial Networking
-Ethernet Switches - Managed
-Ethernet Switches - Web Smart
-Fibre / Media Converters
-Power over Ethernet
-Serial Over IP
-Ethernet Switches
-Ethernet Switches - 16-Port
-Ethernet Switches - 24-Port
-Ethernet Switches - 48-Port
-Ethernet Switches - 5-Port
-Ethernet Switches - 8-Port
-Modems / Routers
-3G/4G Wireless Routers
-ADSL Filters
-ADSL Modem / Router Combos
-Ethernet Routers
-Wireless Routers
-Network Adapters
-Ethernet Adapters - USB
-Ethernet Adapters Cards
-Wireless Adapters - Cardbus
-Wireless Adapters - Mini-PCI
-Wireless Adapters - PCI
-Wireless Adapters - PCI Express
-Wireless Adapters - USB
-Network Cables
-Network Cables - Cat5E
-Network Cables - Cat6
-Network Cables - Cat6a
-Network Tools
-Network Connectors
-Powerline Networking
-Print Servers
-Wireless
-3G/4G Wireless Routers
-Antennas & Cables
-Wireless Access Points
-Wireless Adapters - Cardbus
-Wireless Adapters - Mini-PCI
-Wireless Adapters - PCI
-Wireless Adapters - PCI Express
-Wireless Adapters - USB
-Wireless Range Extenders
-Wireless Routers
-Notebook
-Notebook Accessories
-Notebook - Touch/Motion
-Security Locks
-Notebook Bags
-Netbook Bags - Under 15.4"
-Notebook Bags - 15.4"
-Notebook Bags - 17"+
-Notebook Power Adapters
-Car Accessory Power Adapters
-Notebook Power Adapter Tips & Accessories
-Notebook Power Adapters - 65W
-Notebook Power Adapters - 85W
-Notebook Power Adapters - 90W
-Notebook Power Adapters - Under 65W
-Notebook Screen
-Notebook Stands and Coolers
-PC Cases & Cooling
-Accessories
-Assembly Tools & Parts
-Batteries
-Case Modding
-ATX Power Supplies
-Cases - Full Tower
-Cases - Mid Tower
-Cases - Mini Tower / Desktop
-Fans / Coolers
-Case Cooling
-Case Fans
-Cooling Accessories
-CPU Cooling
-Internal Cables
-Cable Ties
-Power Cables - Internal
-SATA / SAS Cables
-Water Cooling
-Power
-Adapters
-Car Accessory Power Adapters
-Powerboards / Surge Protectors
-Travel Adapters
-USB Power Hubs
-Cables
-Cable Ties
-Power & Extension Leads
-Desktop
-ATX Power Supplies
-Power Distribution Units
-Power over IP
-Uninterruptable Power Supplies
-UPS - Domestic / Office
-Printing
-3D Printing
-Drums
-Toners
-Security & Surveillance
-Security Accessories
-Camera Brackets
-Security - Cables & Adapters
-Security Cameras
-CCTV Cameras
-IP Cameras
-Security Systems & Kits
-DIY Security Kits
-DVR
-Network Video Recorders
-Server Racks & Chassis
-Portable Hardware Cases
-Rack Accessories
-Cable Management
-Patch Panels
-Power Distribution Units
-Rack Accessories
-Rack Cabinets
-Open Rack Cabinets
-Tower Rack Cabinets
-Wall Mount Cabinets
-Software
-Anti-Virus
-Internet Security
-Office
-Total Security Suite
-Windows
-Storage & Media
-Flash Drive
-HDD & SSD
-Memory Card
-Memory Card Readers
-Storage Enclosures
-HDD Enclosures - External
-HDD Enclosures - Internal Drive Bay
-HDD Enclosures - Network Storage
-SATA Controller Cards
-USB & FIREWIRE
-Firewire Cables
-Firewire Cables
-Firewire Hubs
-USB / Firewire - Controller Cards
-Firewire 800 Controller Cards
-USB 2.0 Controller Cards
-USB 3.0 Controller Cards
-USB Accessories
-USB Accessories
-USB Cables
-USB 2.0 Cables - 'A-A'
-USB 2.0 Cables - 'A-B'
-USB 2.0 Cables - Extension
-USB 2.0 Cables - Micro
-USB 2.0 Cables - Mini
-USB 3.0 Cables - 'A-B'
-USB 3.0 Cables - Extension
-USB 3.0 Cables - Micro
-USB Type-C Cables
-USB Converters / Adapters
-USB Docking Stations/Hubs
-USB Hubs
-USB 2.0 Hubs
-USB 3.0 Hubs
-USB Extender Hubs
-USB Power Hubs
-USB Switches
-360
-8ware
-Adesso
-Aerocool
-allocacoc
-Altusen
-Amacrox
-Antec
-ASUS
-ATEN
-AVerMedia
-Azio
-Boogie Board
-Bracom
-Brateck
-Case Logic
-Cougar
-Deepcool
-Delta
-E-Blue
-Edifier
-Edimax
-Energetic
-Fractal Design
-FSP
-Generic
-Huion
-Huntkey
-iBenzer
-IRIS
-Jadens
-Konka
-Lamptron
-LEDware
-LENKENG
-Lexar
-Linkbasic
-LVSUN
-mBeat
-Microlab
-Microsoft
-Mionix
-NationStar
-Pelican
-Plantronics
-Rapoo
-Razer
-Roccat
-Rock
-ROMOSS
-Safemore
-Sframe
-STARK
-Sunix
-Symantec
-Thermaltake
-TP-Link
-Trend Micro
-Tribe
-Tucano
-V-Light
-Warcraft Collectable
-Wavlink
-Welland
-Western Digital
-Winstars
-Facebook
-Twitter
-Youtube
-Home
-|
-AS-RT-AC58U
-ASUS RT-AC58U Dual Band AC1300 Wireless Router With MU-MIMO Support
-SKU: AS-RT-AC58U
-More Views
-More Views
-Super-fast network speed - Concurrent dual-band AC1300 Wi-Fi speed plus quad-core processor for responsive network performanceFull Wi-Fi speed on multiple devices simultaneously - MU-MIMO technology and huge 128MB memory for the best multi-device performanceImproved Wi-Fi range - Four external 5dBi antennas with AiRadar universal beamforming for improved Wi-Fi rangeParental Controls - Monitor and filter internet activities for your families and childrenMulti-purpose USB 3.0 port - 10X-faster data transfers than USB 2.0
-Where to Buy?
-OR
-| Add to Compare
-Description
-Details
-Consistently Praised for Networking Excellence!Readers' Choice, 5 Years Running! (2012-2016)“With a Readers' Choice Award win every year since 2012, Asus seems to make a different router for every budget and need. Respondents continue to be very satisfied with what the company has to offer." – PC MagazineThe Most Consumer Recommended Router Maker of 2015! – PC MagazineEssential AC Upgrade with Uninterrupted Wi-Fi SignalASUS RT-AC58U AC1300 Dual-band Gigabit Wi-Fi Router with four high-gain antennas and high power technology delivers extremely long operating range. Its 802.11ac high-speed performance is perfect for streaming up to 4K Ultra HD videos, online gaming with support for latest gen consoles such as Xbox One® and PlayStation® 4 and performing other bandwidth-intensive tasks. Multi-purpose USB 3.0 port allow printer, hard drive and 3G/4G sharing1; while ASUS AiCloud support allows you to access, share, and stream files from your home PC to internet-connected devices.Full Wi-Fi Speeds on Multiple Devices SimultaneouslyThanks to MU-MIMO technology and powerful 128 MB memory, you can enjoy full-speed Wi-Fi on compatible devices2 at the same time without needing to wait for sequential transmissions.Powerful Processor, Higher Network SpeedRT-AC58U is equipped with improved WAN to LAN speed thanks to its latest quad-core A7 processor, ensuring responsive network performance for bandwidth-intensive tasks.Improved Wi-Fi RangeThe four external 5 dBi high performance antennas on RT-AC58U improve the Wi-Fi range and multi-device performance in your homeUltimate USB Speed and VersatilityUSB 3.0 port delivers up to 10-times faster data transfers than USB 2.0. It makes RT-AC58U perfect for file, multimedia, and 3G/4G sharing1, while ASUS AiCloud enables remote access and content streaming.The One Place for All Your Data - ASUS AiCloudASUS AiCloud keeps you connected to your data wherever and whenever you have an internet connection. It links your home network and online web storage services, giving you access to your files using the AiCloud mobile app on your iOS, Android smartphones or via a personalized browser URL. You can share photos instantly with services like Facebook, Flickr and Dropbox directly from the AiCloud app. It's your expandable and unlimited personal cloud — and it's completely free!Keep Up to Date!Remember to always keep your device's firmware up to date so you can benefit from the very latest service and security enhancements — and get exciting new features! Learn more about updating new firmware.Note: 1.Features may not be available in all markets. Please check with your supplier for exact offers. 2.MU-MIMO-certified client(s) required * ASUS received the highest numerical score among wireless routers in the J.D. Power 2015 Wireless Router Satisfaction Report, based on 2,716 responses from 8 companies measuring satisfaction with wireless routers surveyed November-December 2015. Your experiences may vary. Visit jdpower.com
-Features
-Super-fast network speed - Concurrent dual-band AC1300 Wi-Fi speed plus quad-core processor for responsive network performanceFull Wi-Fi speed on multiple devices simultaneously - MU-MIMO technology and huge 128MB memory for the best multi-device performanceImproved Wi-Fi range - Four external 5dBi antennas with AiRadar universal beamforming for improved Wi-Fi rangeParental Controls - Monitor and filter internet activities for your families and childrenMulti-purpose USB 3.0 port - 10X-faster data transfers than USB 2.0
-Specifications
-Network Standard: IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac, IPv4, IPv6Product Segment: AC1300 enhanced AC performance: 400+867 MbpsCoverage: Large homesData Rate802.11a: 6,9,12,18,24,36,48,54 Mbps802.11b: 1, 2, 5.5, 11 Mbps802.11g: 6,9,12,18,24,36,48,54 Mbps802.11n TurboQAM: up to 400 Mbps802.11ac: up to 867 MbpsAntenna: External antenna x 4Transmit/ReceiveMIMO technology2.4 GHz 2 x 25 GHz 2 x 2Memory128 MB Flash128 MB RAMOperating Frequency: 2.4 GHz / 5 GHzEncryption: 64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPA-Enterprise, WPS supportPorts:RJ45 for 10/100/1000/Gigabits BaseT for WAN x 1, RJ45 for 10/100/1000/Gigabits BaseT for LAN x 4USB 3.0 x 1FeaturesMU-MIMOSmartQoS- WMM- User definable rules for IP/MAC/Port- Upload and download bandwidth management- ACK/SYN/FIN/RST/ICMP with highest priorityParental ControlGuest Network:VPN server: L2TP Pass-Through, PPTP Server, OpenVPN ServerVPN client: PPTP client, L2TP client, OpenVPN clientAiCloud personal cloud service3G/4G data sharingPrinter ServerAiDisk file server- Samba and FTP server with account managementButton: WPS Button, Reset Button, Power ButtonLED IndicatorLAN x 1WAN x 1Wi-Fi x 2USB x 1Power SupplyAC Input: 110V~240V(50~60Hz)DC Output: 12 V with max. 1.5 A currentOS SupportWindows® 10Windows® 8.1Windows® 8Windows® 7Mac OS X 10.1Mac OS X 10.4Mac OS X 10.4Mac OS X 10.5Mac OS X 10.6Mac OS X 10.7Mac OS X 10.8Dimensions: 207 x 148.8 x 35.5 ~ mm (LxWxH)Weight: 395 gPackage ContentWireless RouterAC adapterNetwork cable (RJ-45)Quick Start GuideSupport CD (User Manual)Operation modeWireless router modeAccess point mode
-You May Also Like
-ASUS XG-U2008 10GBase-T 2x 10G + 8x 1G Network Switch
-Where to Buy?
-| Add to Compare
-ASUS PL-AC56 1200Mbps AV2 1200 WI-Fi Powerline Adapter Kit
-Where to Buy?
-| Add to Compare
-ASUS USB-AC68 Dual-Band AC1900 Wireless USB Adapter, USB 3.0
-Where to Buy?
-| Add to Compare
-ASUS DSL-AC56U AC1200 802.11ac Dual-Band VDSL/ADSL...more
-Where to Buy?
-| Add to Compare
-Copyright © 2014 Anyware All rights reserved.
-Privacy Policy
-Terms & Conditions
-Search:
-Search
+12.12
+ACCESSORIES
+ADAPTER PLUG / NOTEBOOK ADAPTER
+AUTO VOLTAGE REGULATOR ( AVR )
+BAG
+BUNDLE PC
+CABLE
+CAM
+CAR CHARGER
+CAR HOLDER
+CARD READER
+CASING
+CONVERTER
+COOLER PAD
+CPU COOLER/FAN
+EXTENSION PLUG
+EXTERNAL DVD
+FLASH MEMORY CARD
+GAMEPAD / JOYSTICK
+GAMING CHAIR
+GAMING DESK
+GAMING KEYBOARD
+GRAPHICS CARD
+HARD DISK ENCLOSURE / DOCKING
+HARD DRIVE ( EXTERNAL )
+HARD DRIVE ( INTERNAL )
+HEADSET/EARSET
+HOT SALES
+IN-HOUSE SALE
+INK/TONER CARTRIDGE
+KEYBOARD/KEYBOARD MOUSE COMBO/NUM PAD
+LAPTOP
+MICROPHONE
+MONITOR
+MOTHERBOARD
+MOUSE
+MOUSE PAD
+MP3 PLAYER
+Mining Casing
+NETWORK / DISPALY / AUDIO CABLE
+NETWORKING
+New node
+New node (1)
+New node (2)
+OPTICAL DRIVE ( INTERNAL/EXTERNAL )
+PC
+PHONE
+PHONE CABLE
+PHONE CASE
+PHONE HOLDER
+PHOTO PAPER
+POWER BANK
+POWER CABLE
+POWER SUPPLY
+PRINTER
+PROCESSOR
+PROJECTOR
+PROJECTOR SCREEN
+RAM
+SCANNER
+SCOOTER
+SELFIE STICK
+SMALL KITCHEN APPLIANCES
+SMART BAND
+SOFTWARE
+SOLID STATE DRIVE / M.2 2280
+SOUND CARD
+SPEAKER
+SPORT CAM/CAR CAM
+SURGE PROTECTOR
+TABLET
+TRAVEL & OUTDOOR
+TV BOX ( MEDIA/ANDROID PLAYER )
+UNINTERRUPTIBLE POWER SUPPLY ( UPS )
+USB FLASH DRIVE
+WALKIE TALKIE
+WALL MOUNT
+WEBCAM
+WEEKEND SALES
+WIRELESS PRESENTER
+Wireless Adapter
+Shop By Price
+RM0 - RM99.99
+RM100 - RM499.99
+RM500 - RM999.99
+RM1000 - Onwards
+Information
+Payment detalis / Delivery status
+Terms & Conditions / Warranty Policy
+Price Lists
+Facebook Like
+Customer Service
+Contact Us
+Outlet Location
+Extras
+Tell A Friend
+Gift Vouchers
+Special Promotions
+Latest Products
+Bestseller
+Featured Products
+My Account
+My Account
+Order History
+Receipt Upload
+Wish List
+Newsletter
+Email Address
+We Accept:
+Jayacom Information Sdn Bhd
+Lot 5.19, 5th Floor, Plaza Imbi,No 28,
+Jalan Imbi, 55100, Kuala Lumpur, Malaysia
++603-21130028/21100078
+online@jayacom.com.my
+Copyright
+© 2019 JAYACOM INFORMATION SDN BHD. All rights reserved.eCommerce by SiteGiant

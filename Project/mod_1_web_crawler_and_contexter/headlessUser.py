@@ -57,25 +57,25 @@ def perform_search(words):
                 try:
                     path = path1+str(i)+path2
                     url = browser.find_element_by_xpath(path)
-                    if is_url(url.text):
+                    if is_url(url.text) == True:
                         urls.append(url.text)
                 except:
                     try:
                         path = path11+str(i)+path22
                         url = browser.find_element_by_xpath(path)
-                        if is_url(url.text):
+                        if is_url(url.text) == True:
                             urls.append(url.text)
                     except:
                         pass
             try: #if no next then return
                 browser.find_element_by_xpath("//*[contains(local-name(), 'span') and contains(text(), 'Next')]").click()
             except:
-                print(urls)
+                print('=>', urls)
                 return urls
         except:
             pass
     browser.quit()
-    print(urls)
+    print('=>', urls)
     return urls
 
 
