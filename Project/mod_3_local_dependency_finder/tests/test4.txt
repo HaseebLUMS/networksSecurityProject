@@ -1,0 +1,4 @@
+It is a Mikrotik. It is a ASUS RT-AC58U. It is a router. 
+This should not return any local dependency. You know why? Let me reveal.
+No line contains device and vendor, a necessary condition for local dependency. 
+Now see test5 and bless yourself with magic.

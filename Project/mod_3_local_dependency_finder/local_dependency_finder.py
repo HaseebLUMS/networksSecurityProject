@@ -26,6 +26,7 @@ products = predictions['products']
 the text and makes a list
 '''
 def linefy_text(text): 
+	text = text.replace(".\n", ". ")
 	text = text.replace("\n", ". ")
 	return text.split(". ")
 
