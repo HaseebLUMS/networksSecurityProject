@@ -17,32 +17,17 @@ import sys
 import json
 import re
 from rake_nltk import Rake
+import enchant
 # from "./mod_1_web_crawler_and_contexter/webcrawler" import main as crawler
 
 
 '''
-Given a query
-refines it by using 
-NLP methods and returns 
-a list of important
-keywords
+Reads refined query written
+by web crawler and return a list
 '''
 def refine_query(q, mode):
-	reg = re.compile('<.*?>') #finds html tags
-	q = re.sub(reg, '', q) #replaces them ^| with empty string
-	r = Rake()
-	r.extract_keywords_from_text(q)
-	keywords = r.get_ranked_phrases()
-	res = ""
-	ans = []
-	for k in keywords:
-		if mode == 1:
-			if k.isdigit():
-				continue
-			if not k.isalnum():
-				continue
-		ans.append(k)
-	return ans
+	with open('refinedQuery.txt', 'r') as file: data = file.read()
+	return data.split(" ")
 
 
 '''
@@ -58,7 +43,7 @@ def run_files():
 
 	move = False
 	try:
-		comm = 'python3 mod_1_web_crawler_and_contexter/webcrawler.py input_banner_data.txt'
+		comm = 'python3 mod_1_web_crawler_and_contexter/webcrawler.py input_banner_data.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types'
 		os.system(comm)
 		move = True
 	except:

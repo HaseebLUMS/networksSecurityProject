@@ -23,6 +23,7 @@ import time
 from urllib.request import Request
 from urllib.request import urlopen
 import sys
+import enchant
 from rake_nltk import Rake
 if not sys.warnoptions:
     import warnings
@@ -142,26 +143,63 @@ def create_output():
 
 	return 1
 
+'''
+While removing dictionary words,
+it is checked that whether the target word
+can be a vendor name or device name or not.
+If yes, then it is not removed.
+This functions just tells that the 
+word can be a vendor or device name or not
+'''
+def InDatabase(word):
+	with open(sys.argv[2]) as file: db1 = file.read()
+	with open(sys.argv[3]) as file: db2 = file.read()
+
+	return ((word in db1) or (word in db2))
 
 '''
-Uses Rake library for removing dictionary words from 
+Product Regex is used here
+because sometimes the product number
+present in query is broken down by
+refining libraries. With the help of this 
+function, it will be prevented.
+'''
+def find_pattern(rawData):
+	import re
+	p = re.compile("[A-Za-z]+[-]?[A-Za-z]*[0-9]+[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
+	return p.findall(rawData)
+'''
+Uses Enchant library for removing dictionary words from 
 input banner and extracting keywords. 
+
+Uses Rake library for arranging words by their
+rank (frequency) 
+ -- useful when refining web page data
+ -- reference = first para of Wen Crawler under 4.2
+
 mode 1 for refining query
 mode 2 for refining any other data
 '''
 def refine_query(q, mode):
+	d = enchant.Dict('en_US')
 	reg = re.compile('<.*?>')
 	q = re.sub(reg, '', q)
+	keywords = q
+	possibleProd = find_pattern(q)
 	r = Rake()
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
 	res = ""
 	for kword in keywords:
 		for k in kword.split(" "):
+			if (k is not "") and (d.check(k) == True) and (InDatabase(k.lower()) == False):
+				continue
 			if mode == 1:
 				if k.isdigit() is True:
 					continue
 			res += (" " + k)
+	for ele in possibleProd:
+		res += (" " + ele)
 	return res
 
 
@@ -186,6 +224,7 @@ def main():
 	res2= res.split(" ")
 	res2 = countWords(res2)
 	print('Query: ', res)
+	with open('refinedQuery.txt', 'w') as file: file.write(res)
 
 	if res2 > 1:
 		findURLs(res)
