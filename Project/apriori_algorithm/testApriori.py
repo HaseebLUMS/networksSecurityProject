@@ -84,6 +84,7 @@ def main():
 	trans = []
 	for key in data:
 		trans.append(data[key])
+	print(len(trans))
 	run_apriori(trans)
 
 main()
