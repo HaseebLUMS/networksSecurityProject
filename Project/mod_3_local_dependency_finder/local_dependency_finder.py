@@ -89,7 +89,7 @@ def find_dependency(text, vendors, device_types):
 			# 	ans_dev = d
 	
 	print(anns)
-	return anns[0]
+	return anns
 
 
 '''
@@ -128,38 +128,40 @@ def main():
 	global products
 
 	text = linefy_text(file)
-	predicted_label = {}
-	try: predicted_label = find_dependency(text, vendors, device_types)
+	predicted_labels = []
+	try: predicted_labels = find_dependency(text, vendors, device_types)
 	except: pass
 	
-	
-	ans = ""
-	try:
-		print('Brand: ', predicted_label['vendor'].upper())
-		ans = predicted_label['vendor'].upper() + " | "
-	except:
-		pass
+	with open("annotation.txt", "w") as f: f.write("") #clearing the file
 
-	
-	try:
-		print('Device: ', predicted_label['device_type'].upper())
-		ans = ans + predicted_label['device_type'].upper()
-	except:
-		pass
 
-	try:
-		predicted_product = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
-	except:
-		pass
+	for predicted_label in predicted_labels:
+		ans = ""
+		try:
+			print('Brand: ', predicted_label['vendor'].upper())
+			ans = predicted_label['vendor'].upper() + " | "
+		except:
+			pass
+		
+		try:
+			print('Device: ', predicted_label['device_type'].upper())
+			ans = ans + predicted_label['device_type'].upper()
+		except:
+			pass
 
-	try:
-		if predicted_product and (predicted_product is not ''):
-			print('Product Number: ', predicted_product)
-			ans =  ans + " | " + predicted_product
-	except:
-		pass	
-	
-	with open('annotation.txt', 'w') as f:
-		f.write(ans)
+		try:
+			predicted_product = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
+		except:
+			pass
+
+		try:
+			if predicted_product and (predicted_product is not ''):
+				print('Product Number: ', predicted_product)
+				ans =  ans + " | " + predicted_product
+		except:
+			pass	
+		
+		with open('annotation.txt', 'a+') as f:
+			f.write(ans+"\n")
 
 main()

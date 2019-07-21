@@ -27,7 +27,7 @@ by web crawler and return a list
 '''
 def refine_query(q, mode):
 	with open('refinedQuery.txt', 'r') as file: data = file.read()
-	return data.split(" ")
+	return data
 
 
 '''
@@ -95,9 +95,9 @@ def run_files():
 		except:
 			print("Exception occured in local dependency finder")
 
-	if move is False:
-		with open('annotation.txt', 'w') as f:
-			f.write(" | | ")
+	# if move is False:
+	# 	with open('annotation.txt', 'w') as f:
+	# 		f.write(" | | ")
 	return move
 
 '''
@@ -111,16 +111,29 @@ def make_transaction():
 	
 	trans = ""
 	with open('transactions.json', 'r') as fr: trans = fr.read()
+
 	if len(trans) > 2: trans = json.loads(trans)
 	else: trans = {}
+
+
 	query = ''
-	annotation = ''
+	annotations = ''
+
+
 	with open('input_banner_data.txt', 'r') as b: query = b.read()
-	transaction = refine_query(query, 1)
-	with open('annotation.txt', 'r') as a: annotation = a.read()
-	transaction.append(annotation)
-	key = len(trans) + 1
-	trans[key] = transaction
+	transaction = [refine_query(query, 1)]
+
+	with open('annotation.txt', 'r') as a: annotations = a.read()
+	for annotation in annotations.split("\n"):
+		if annotation is "": continue
+
+		transaction2 = []
+		for ele in transaction: transaction2.append(ele)
+
+		transaction2.append(annotation)
+		key = len(trans) + 1
+		trans[(key)] = transaction2
+
 	trans = json.dumps(trans, indent=4)
 	with open('transactions.json', 'w+') as f: f.write(trans)
 
@@ -133,3 +146,5 @@ def main():
 	end = time.time()
 	print('Execution Time: ', end - start)
 main()
+
+

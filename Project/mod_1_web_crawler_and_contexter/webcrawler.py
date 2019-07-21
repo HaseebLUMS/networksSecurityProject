@@ -86,6 +86,7 @@ Steps:
 	--returns text (combination of keywords)
 '''
 def get_text(url):
+	print(".")
 	time.sleep(0.5)
 	req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}) #spoofed agent for avoiding scraping ban
 	html = urlopen(req).read()
@@ -156,7 +157,7 @@ def in_database(word):
 	with open(sys.argv[2]) as file: db1 = file.read()
 	with open(sys.argv[3]) as file: db2 = file.read()
 
-	return ((word in db1) or (word in db2))
+	return ((word.lower() in db1.lower().split("\n")) or (word.lower() in db2.lower().split("\n")))
 
 '''
 Product Regex is used here
@@ -189,22 +190,37 @@ def refine_query(q, mode):
 	d = enchant.Dict('en_US')
 	reg = re.compile('<.*?>')
 	q = re.sub(reg, '', q)
-	keywords = q
+	if mode == 1:
+		q = q.replace('\\r', " ")
+		q = q.replace('\\n', " ")
+		q = q.replace("  ", " ")
+	
+	keywords = q.split(" ")
 	possibleProd = find_pattern(q)
+	
 	r = Rake()
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
+
+
 	res = ""
 	for kword in keywords:
+		
+		if kword is "": continue
+		
 		for k in kword.split(" "):
-			if (k is not "") and (d.check(k) == True) and (in_database(k.lower()) == False):
-				continue
+
+			if k is "": continue
+			if (k is not "") and (d.check(k.lower()) == True) and (in_database(k.lower()) == False): continue
+			
 			if mode == 1:
-				if k.isdigit() is True:
-					continue
+				if k.isdigit() is True: continue
+			
 			res += (" " + k)
+	
 	for ele in possibleProd:
-		res += (" " + ele)
+		if ele not in res:
+			res += (" " + ele)
 	return res
 
 
@@ -241,5 +257,11 @@ def main():
 		
 		with open('output.txt', 'w') as f:
 			f.write(res)
+		ans = ""
+		for ele in res.split(" "):
+			if ele is "": continue
+			if in_database(ele) == True: ans += (" " + ele)
+		with open('annotation.txt', 'w') as f: f.write(ans)
+
 
 main()

@@ -1,588 +1,4250 @@
 {
     "1": [
-        "220 luna mv 50 ftp server",
-        "mikrotik 2",
-        "ready",
-        "MIKROTIK | ROUTER | v6"
+        " ac58u service asus rt RT-AC58U",
+        "ASUS | ROUTER | RT-AC58U"
     ],
     "2": [
-        "mikrotik v2",
-        "38 login",
-        "MIKROTIK | ROUTER | layer2"
+        " ac58u service asus rt RT-AC58U",
+        "ASUS | BUTTON | RT-AC58U"
     ],
     "3": [
-        "220 mikrotik ftp server",
-        "mikrotik 6",
-        "ready",
-        "MIKROTIK | ROUTER | rb1100ahx4"
+        " ac58u service asus rt RT-AC58U",
+        "NETGEAR | ROUTER | x4"
     ],
     "4": [
-        "mikrotik v6",
-        "term",
-        "long",
-        "login",
+        " luna mv server mikrotik",
         "MIKROTIK | ROUTER | v6"
     ],
     "5": [
-        "220 axis 214 ptz network camera 4",
-        "oct 05 2009",
-        "ready",
+        " luna mv server mikrotik",
         "MIKROTIK | ROUTER | v6"
     ],
     "6": [
-        "mikrotik v5",
-        "20 login",
-        "MIKROTIK | ROUTER | v6"
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
     ],
     "7": [
-        "220 mikrotik_nexuscowork ftp server",
-        "mikrotik 6",
-        "ready",
-        ""
+        " mikrotik v6 term long v6.42",
+        "MIKROTIK | ROUTER"
     ],
     "8": [
-        "mikrotik v6",
-        "stable",
-        "login",
-        "MIKROTIK | ROUTER | v6"
+        " mikrotik v6 term long v6.42",
+        "SPLUNK | ROUTER"
     ],
     "9": [
-        "220 test ftp server",
-        "mikrotik 6",
-        "ready",
-        "MICROSOFT | ROUTER | one100a"
+        " mikrotik v5 v5.20",
+        "MIKROTIK | ROUTER | x86"
     ],
     "10": [
-        "mikrotik v6",
-        "stable",
-        "login",
-        "MIKROTIK | ROUTER | v6"
+        " mikrotik_nexuscowork server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
     ],
     "11": [
-        "220 nasftpd turbo station 1",
-        "5a server",
-        "proftpd",
-        "CGI | ROUTER | wrt54gs"
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
     ],
     "12": [
-        "account",
-        " | | "
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
     ],
     "13": [
-        "220 ftp firmware update utility",
-        "EPSON | CAMERA"
+        " test server mikrotik",
+        "MIKROTIK | ROUTER"
     ],
     "14": [
-        "wl driver adapter",
-        "gpon ont wlctl",
-        "found login",
-        "ASUS | ROUTER"
+        " test server mikrotik",
+        "CISCO | ROUTER"
     ],
     "15": [
-        "220 ftp firmware update utility",
-        ""
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
     ],
     "16": [
-        "wl driver adapter",
-        "gpon ont wlctl",
-        "found login",
-        "ASUS | ROUTER"
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
     ],
     "17": [
-        "220 ftp server ready",
-        "ARM | TV | ipv6"
+        " wl gpon ont wlctl found",
+        "HUAWEI | ALARM | EDOC1000078313"
     ],
     "18": [
-        "login",
-        " | | "
+        " wl gpon ont wlctl found",
+        "ASUS | ROUTER | AC2600"
     ],
     "19": [
-        "220 ftp firmware update utility",
-        "ARM | BUTTON | p1"
+        " wl gpon ont wlctl found",
+        "NETGEAR | ROUTER | x4"
     ],
     "20": [
-        "bcm963268 broadband router login",
-        "IFS | ROUTER | mtdblock5"
+        " wl gpon ont wlctl found",
+        "HUAWEI | ALARM | EDOC1000078313"
     ],
     "21": [
-        "220 ftp firmware update utility",
-        "EPSON | CAMERA"
+        " wl gpon ont wlctl found",
+        "ASUS | ROUTER | AC2600"
     ],
     "22": [
-        "bcm963268 broadband router login",
-        "IFS | ROUTER | mtdblock5"
+        " wl gpon ont wlctl found",
+        "NETGEAR | ROUTER | x4"
     ],
     "23": [
-        "vsftpd 3",
-        " | | "
+        " server",
+        " server"
     ],
     "24": [
-        "x86_64 hm login",
-        "kernel 3",
-        "x86_64",
-        "el7",
-        "TEAM | WATCH"
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
     ],
     "25": [
-        "220 mikrotik ftp server",
-        "mikrotik 6",
-        "ready",
-        "MIKROTIK | ROUTER | rb1100ahx4"
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
     ],
     "26": [
-        "mikrotik v6",
-        "stable",
-        "login",
-        "MIKROTIK | ROUTER | v6"
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
     ],
     "27": [
-        "220 vec_opletnia ftp server",
-        "mikrotik 6",
-        "ready",
-        ""
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
     ],
     "28": [
-        "mikrotik v6",
-        "5 login",
-        "MIKROTIK | ROUTER | base64"
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
     ],
     "29": [
-        "220 haewoo1 ftp server ready",
-        ""
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
     ],
     "30": [
-        "mikrotik v6",
-        "15 login",
-        "MIKROTIK | ROUTER | base64"
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
     ],
     "31": [
-        "220 ftp firmware update utility",
-        ""
+        " mikrotik v6 v6.41",
+        "MIKROTIK | ROUTER | download2"
     ],
     "32": [
-        "bcm963268 broadband router login",
-        "IFS | ROUTER | mtdblock5"
+        " mikrotik v6 v6.41",
+        "ARM | PROCESSOR"
     ],
     "33": [
-        "220 ftp firmware update utility",
-        "ARM | BUTTON | p1"
+        " mikrotik v6 v6.41",
+        "MICROSOFT | CONTROLLER"
     ],
     "34": [
-        "wl driver adapter",
-        "gpon ont wlctl",
-        "found login",
-        "ASUS | ROUTER"
+        " mikrotik v6 v6.41",
+        "ZTE | GPS | ME3630"
     ],
     "35": [
-        "220 ftp firmware update utility",
-        "STAR | TV"
+        " mikrotik v6 v6.5",
+        "MIKROTIK | ROUTER | G2"
     ],
     "36": [
-        "wl driver adapter",
-        "gpon ont wlctl",
-        "found login",
-        ""
+        " mikrotik v6 v6.5",
+        "MIKROTIK | SWITCH | G2"
     ],
     "37": [
-        "220 usina ftp server",
-        "mikrotik 6",
-        "ready",
-        ""
+        " mikrotik v6 v6.5",
+        "EXACT | ROUTER"
     ],
     "38": [
-        "mikrotik v6",
-        "stable",
-        "login",
+        " mikrotik v6 v6.15",
         "MIKROTIK | ROUTER | v6"
     ],
     "39": [
-        "220 ftpu ready",
-        "login required",
-        "FILAMENT | SWITCH"
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
     ],
     "40": [
-        "localhost login",
-        "busybox",
-        "ARM | TRACKING | u3"
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
     ],
     "41": [
-        "220 ftp server ready",
-        "ARM | TV | ipv6"
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
     ],
     "42": [
-        "jobs",
-        " | | "
+        " wl gpon ont wlctl found",
+        "HUAWEI | ALARM | EDOC1000078313"
     ],
     "43": [
-        "220 mikrotik ftp server",
-        "mikrotik 6",
-        "ready",
-        "MIKROTIK | ROUTER | x86"
+        " wl gpon ont wlctl found",
+        "ASUS | ROUTER | AC2600"
     ],
     "44": [
-        "mikrotik v6",
-        "stable",
-        "login",
-        "MIKROTIK | ROUTER | v6"
+        " wl gpon ont wlctl found",
+        "NETGEAR | ROUTER | x4"
     ],
     "45": [
-        "220 er75i ftp server",
-        "gnu inetutils 1",
-        "ready",
-        ""
+        " wl gpon ont wlctl found",
+        "HUAWEI | ALARM | EDOC1000078313"
     ],
     "46": [
-        "irz ruh2m router console fw",
-        "router login",
-        "37 ruh2m",
-        "v ufu",
-        "master m7_1304",
-        "16 14",
-        "irz",
-        "ruh2m",
-        "welcome",
-        "205_vk",
-        "ASUS | ROUTER"
+        " wl gpon ont wlctl found",
+        "ASUS | ROUTER | AC2600"
     ],
     "47": [
-        "220 mikrotik ftp server",
-        "mikrotik 6",
-        "ready",
-        "MIKROTIK | ROUTER | x86"
+        " wl gpon ont wlctl found",
+        "NETGEAR | ROUTER | x4"
     ],
     "48": [
-        "mikrotik v6",
-        "stable",
-        "login",
-        "MIKROTIK | ROUTER | v6"
+        " usina server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
     ],
     "49": [
-        "220 mikrotik ftp server",
-        "mikrotik 6",
-        "ready",
-        "MIKROTIK | ROUTER | rb1100ahx4"
+        " mikrotik v6 v6.41",
+        "MIKROTIK | ROUTER | download2"
     ],
     "50": [
-        "mikrotik v6",
-        "23 login",
-        "MIKROTIK | ROUTER | base64"
+        " mikrotik v6 v6.41",
+        "ARM | PROCESSOR"
     ],
     "51": [
-        "spellcastin ') [:: ffff",
-        "220 proftpd 1",
-        "5b server",
-        ""
+        " mikrotik v6 v6.41",
+        "MICROSOFT | CONTROLLER"
     ],
     "52": [
-        "linux 9 spellcast",
-        "debian gnu",
-        "login",
-        "EXACT | TV"
+        " mikrotik v6 v6.41",
+        "ZTE | GPS | ME3630"
     ],
     "53": [
-        "user number 1",
-        "220 ---------- welcome",
-        "---------- 220",
-        "server port",
-        "local time",
-        "50 allowed",
-        "15 minutes",
-        "pure",
-        "privsep",
-        "inactivity",
-        "ftpd",
-        "disconnected",
-        "TEAM | SWITCH | posts1"
+        " server",
+        " server"
     ],
     "54": [
-        "root login",
-        "TEAM | SWITCH | esp8266"
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
     ],
     "55": [
-        "220 ftp firmware update utility",
-        "ARM | BUTTON | p1"
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
     ],
     "56": [
-        "bcm963268 broadband router login",
-        "IFS | ROUTER | mtdblock5"
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
     ],
     "57": [
-        "220 ftp print service",
-        "network password",
-        "v",
-        "use",
-        "updating",
-        "id",
-        "MATRIX | TRACKING"
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
     ],
     "58": [
-        "v",
-        "use",
-        "updating",
-        "id",
-        "STAR | WATCH"
+        " er75i server inetutils ER75i",
+        "ADVANTECH | ROUTER | ER75i"
     ],
     "59": [
-        "ready",
-        "TEAM | WATCH"
+        " irz ruh2m router fw router ruh2m v ufu master m7_1304 irz ruh2m 205_vk RUH2m RUH2m.1 M7 IRZ-RUH2m",
+        "ASUS | ROUTER | ELnEhD5hmz8J"
     ],
     "60": [
-        "ready",
-        "MIKROTIK | ROUTER | x86"
+        " irz ruh2m router fw router ruh2m v ufu master m7_1304 irz ruh2m 205_vk RUH2m RUH2m.1 M7 IRZ-RUH2m",
+        "NETGEAR | ROUTER"
     ],
     "61": [
-        "MIKROTIK | ROUTER"
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
     ],
     "62": [
-        "MIKROTIK | ROUTER"
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
     ],
     "63": [
-        ""
+        " mikrotik v6 v6.44",
+        "MIKROTIK | SWITCH"
     ],
     "64": [
-        ""
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
     ],
     "65": [
-        ""
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
     ],
     "66": [
-        "ASUS | ROUTER | AC68U"
+        " mikrotik v6 v6.23",
+        "MIKROTIK | ROUTER"
     ],
     "67": [
-        "",
-        "ac58u",
-        "asus",
-        ""
+        " mikrotik v6 v6.23",
+        "SPLUNK | ROUTER"
     ],
     "68": [
-        "",
-        "ac58u",
-        "asus",
-        "ASUS | ROUTER | RT-AC58U"
+        " linux spellcast debian",
+        "ARM | GPS | i386"
     ],
     "69": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "ASUS | ROUTER | ac58u"
+        " root",
+        " root"
     ],
     "70": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        "ASUS | ROUTER | RT-AC58U"
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
     ],
     "71": [
-        "",
-        "",
-        "",
-        "W",
-        "e",
-        "l",
-        "c",
-        "o",
-        "m",
-        "e",
-        "",
-        "",
-        "t",
-        "o",
-        "",
-        "",
-        "A",
-        "S",
-        "U",
-        "S",
-        "",
-        "",
-        "R",
-        "T",
-        "-",
-        "A",
-        "C",
-        "U",
-        "",
-        "",
-        "F",
-        "T",
-        "P",
-        "",
-        "",
-        "S",
-        "E",
-        "R",
-        "V",
-        "I",
-        "C",
-        "E",
-        "RT-AC58U",
-        " | | "
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
     ],
     "72": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        "ASUS | ROUTER | RT-AC58U"
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
     ],
     "73": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        "ASUS | ROUTER | RT-AC58U"
+        " wd cloud",
+        " wd cloud"
     ],
     "74": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        "ASUS | ROUTER | RT-AC58U"
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
     ],
     "75": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        "ASUS | ROUTER | RT-AC58U"
+        " mikrotik v6 v6.42",
+        "EXACT | ROUTER"
     ],
     "76": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
     ],
     "77": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " mikrotik ryb \ufffd vlevo server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
     ],
     "78": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
     ],
     "79": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
     ],
     "80": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " server",
+        " server"
     ],
     "81": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " server",
+        " server"
     ],
     "82": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
     ],
     "83": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
     ],
     "84": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
     ],
     "85": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " jd server",
+        " server"
     ],
     "86": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        ""
+        " server active",
+        "MICROSOFT | PROCESSOR"
     ],
     "87": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        "ASUS | ROUTER | RT-AC58U"
+        " server active",
+        "MICROSOFT | LOCK"
     ],
     "88": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        "ASUS | ROUTER | RT-AC58U"
+        " server active",
+        "MICROSOFT | CAMERA"
     ],
     "89": [
-        "",
-        "ac58u",
-        "service",
-        "asus",
-        "rt",
-        "RT-AC58U",
-        "ASUS | ROUTER | RT-AC58U"
+        " server active",
+        "MICROSOFT | SWITCH"
+    ],
+    "90": [
+        " server active",
+        "INTEL | PROCESSOR"
+    ],
+    "91": [
+        " user",
+        " user"
+    ],
+    "92": [
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
+    ],
+    "93": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "94": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "95": [
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
+    ],
+    "96": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "97": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "98": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "99": [
+        " mikrotik_asia server mikrotik",
+        "MIKROTIK | ROUTER | RB411"
+    ],
+    "100": [
+        " mikrotik_asia server mikrotik",
+        "MIKROTIK | GPS"
+    ],
+    "101": [
+        " mikrotik_asia server mikrotik",
+        "MIKROTIK | TRACKING"
+    ],
+    "102": [
+        " mikrotik_asia server mikrotik",
+        "MIKROTIK | THERMOMETER"
+    ],
+    "103": [
+        " mikrotik_asia server mikrotik",
+        "INTEL | PROCESSOR | SHLRouter10xx"
+    ],
+    "104": [
+        " mikrotik_asia server mikrotik",
+        "ARM | ROUTER | x86"
+    ],
+    "105": [
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
+    ],
+    "106": [
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
+    ],
+    "107": [
+        " la divulgacion de la clave puede afectar la seguridad de nue stra red recuerd e que su clave de acceso es e intransferible punto de utilizar un recurso tecnologico de etb $( hostname ), en caso de sospecha de divulgacion de su clave proceda toda actividad sera monitoreada por razones de seguridad text cambiarla de inmediato usted esta ingrese si esta autorizado xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx quit atencion '.",
+        "CISCO | ROUTER | S2"
+    ],
+    "108": [
+        " la divulgacion de la clave puede afectar la seguridad de nue stra red recuerd e que su clave de acceso es e intransferible punto de utilizar un recurso tecnologico de etb $( hostname ), en caso de sospecha de divulgacion de su clave proceda toda actividad sera monitoreada por razones de seguridad text cambiarla de inmediato usted esta ingrese si esta autorizado xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx quit atencion '.",
+        "HUAWEI | ROUTER | IPv6"
+    ],
+    "109": [
+        " rb_praia mole server mikrotik",
+        "MIKROTIK | ROUTER | RlO0Tt89kusJ"
+    ],
+    "110": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "111": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | SWITCH"
+    ],
+    "112": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "113": [
+        " service",
+        " service"
+    ],
+    "114": [
+        " version",
+        " version"
+    ],
+    "115": [
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
+    ],
+    "116": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "117": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "118": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "119": [
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
+    ],
+    "120": [
+        " mikrotik v6 bugfix v6.40",
+        "MIKROTIK | ROUTER | v6.40"
+    ],
+    "121": [
+        " mikrotik v6 bugfix v6.40",
+        "SPLUNK | ROUTER"
+    ],
+    "122": [
+        " ip ok server server mac auth server time http client_ip",
+        "VARIABLE | PROCESSOR"
+    ],
+    "123": [
+        " router",
+        " router"
+    ],
+    "124": [
+        " administracaopalmacia server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
+    ],
+    "125": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "126": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "127": [
+        " bcm96368 router BCM96368",
+        "AIRTEL | ROUTER | adsl2"
+    ],
+    "128": [
+        " bcm96368 router BCM96368",
+        "BROADCOM | ROUTER | BCM6338"
+    ],
+    "129": [
+        " bcm96368 router BCM96368",
+        "NETGEAR | ROUTER | WGT624"
+    ],
+    "130": [
+        " bcm96368 router BCM96368",
+        "CISCO | ROUTER | Articles130"
+    ],
+    "131": [
+        " mikrotik server mikrotik",
+        "MIKROTIK | ROUTER | v6.43"
+    ],
+    "132": [
+        " mikrotik v5 v5.24",
+        "MIKROTIK | ROUTER | v5.4"
+    ],
+    "133": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "134": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "135": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "136": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | SWITCH"
+    ],
+    "137": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "138": [
+        " bcm96318 router BCM96318",
+        "NETGEAR | ROUTER | ADSL2"
+    ],
+    "139": [
+        " bcm96318 router BCM96318",
+        "CISCO | ROUTER | M20"
+    ],
+    "140": [
+        " bcm96318 router BCM96318",
+        "SIEMENS | ROUTER"
+    ],
+    "141": [
+        " bcm96318 router BCM96318",
+        "ASUS | ROUTER"
+    ],
+    "142": [
+        " bcm96318 router BCM96318",
+        "VERIZON | ROUTER | mi424wr"
+    ],
+    "143": [
+        " bcm96318 router BCM96318",
+        "BELKIN | ROUTER"
+    ],
+    "144": [
+        " bcm96318 router BCM96318",
+        "EXACT | ROUTER"
+    ],
+    "145": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "146": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "147": [
+        " mikrotik v6 v6.40",
+        "MIKROTIK | ROUTER | x2"
+    ],
+    "148": [
+        " mikrotik v6 v6.40",
+        "SPLUNK | ROUTER"
+    ],
+    "149": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "150": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "151": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "152": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "153": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "154": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "155": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "156": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "157": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | SWITCH"
+    ],
+    "158": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "159": [
+        " 75mxp tandberg codec f9 ntsc sw boston tac providea F9.3",
+        "CISCO | CAMERA | TTC8-01"
+    ],
+    "160": [
+        " 75mxp tandberg codec f9 ntsc sw boston tac providea F9.3",
+        "CISCO | TRACKING | TTC8-01"
+    ],
+    "161": [
+        " 75mxp tandberg codec f9 ntsc sw boston tac providea F9.3",
+        "GLASS | WATCH"
+    ],
+    "162": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "163": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "164": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "165": [
+        " \ufffd bida mikrotik",
+        "MIKROTIK | ROUTER | c3"
+    ],
+    "166": [
+        " \ufffd bida mikrotik",
+        "ARDUINO | BUTTON"
+    ],
+    "167": [
+        " \ufffd bida mikrotik",
+        "ARDUINO | SWITCH"
+    ],
+    "168": [
+        " \ufffd bida mikrotik",
+        "DELL | WATCH | S1"
+    ],
+    "169": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "170": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "171": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "172": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "173": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "174": [
+        " freebsd openssh_7 SSH-2.0 FreeBSD-20170903",
+        "SUPERMICRO | SWITCH | v3"
+    ],
+    "175": [
+        " freebsd openssh_7 SSH-2.0 FreeBSD-20170903",
+        "AMD | PROCESSOR | N54L"
+    ],
+    "176": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "177": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "178": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "179": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "180": [
+        " mikrotik v6 v6.10",
+        "MIKROTIK | ROUTER | RB2011"
+    ],
+    "181": [
+        " mikrotik v6 v6.10",
+        "MIKROTIK | SWITCH | RB2011"
+    ],
+    "182": [
+        " router",
+        " router"
+    ],
+    "183": [
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
+    ],
+    "184": [
+        " mikrotik v6 v6.42",
+        "EXACT | ROUTER"
+    ],
+    "185": [
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
+    ],
+    "186": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "187": [
+        " mikrotik v6 v6.30",
+        "MIKROTIK | ROUTER | download2.mikrotik"
+    ],
+    "188": [
+        " mikrotik v6 v6.30",
+        "CISCO | SWITCH"
+    ],
+    "189": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "190": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "191": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "192": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "193": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "194": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "195": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "196": [
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
+    ],
+    "197": [
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
+    ],
+    "198": [
+        " microsoft",
+        " microsoft"
+    ],
+    "199": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "200": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "201": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "202": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "203": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "204": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "205": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | SWITCH"
+    ],
+    "206": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "207": [
+        " bcm963381 router BCM963381",
+        "BROADCOM | ROUTER | BCM963381"
+    ],
+    "208": [
+        " bcm963381 router BCM963381",
+        "BROADCOM | CONTROLLER | e4"
+    ],
+    "209": [
+        " bcm963381 router BCM963381",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "210": [
+        " microsoft",
+        " microsoft"
+    ],
+    "211": [
+        " gmbh wrt wrt v3 r34578 newmedia v3.0",
+        "NETGEAR | ROUTER | v2"
+    ],
+    "212": [
+        " gmbh wrt wrt v3 r34578 newmedia v3.0",
+        "BROADCOM | CONTROLLER | v1"
+    ],
+    "213": [
+        " gmbh wrt wrt v3 r34578 newmedia v3.0",
+        "BROADCOM | LOCK | x0"
+    ],
+    "214": [
+        " gmbh wrt wrt v3 r34578 newmedia v3.0",
+        "TPLINK | ROUTER | WR1043ND"
+    ],
+    "215": [
+        " gmbh wrt wrt v3 r34578 newmedia v3.0",
+        "CUBIC | CONTROLLER | v1"
+    ],
+    "216": [
+        " gmbh wrt wrt v3 r34578 newmedia v3.0",
+        "CUBIC | LOCK | v1"
+    ],
+    "217": [
+        " gmbh wrt wrt v3 r34578 newmedia v3.0",
+        "ASUS | ROUTER"
+    ],
+    "218": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "219": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "220": [
+        " mikrotik v5 v5.20",
+        "MIKROTIK | ROUTER | c4.hu"
+    ],
+    "221": [
+        " microsoft",
+        " microsoft"
+    ],
+    "222": [
+        " bcm96828 router BCM96828",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "223": [
+        " bcm96828 router BCM96828",
+        "NETGEAR | ROUTER | V3"
+    ],
+    "224": [
+        " bcm96828 router BCM96828",
+        "NETGEAR | SWITCH | WNDR4700-100NAS"
+    ],
+    "225": [
+        " bcm96828 router BCM96828",
+        "NETGEAR | SPEAKER | WBR-6003Edimax"
+    ],
+    "226": [
+        " bcm96828 router BCM96828",
+        "BROADCOM | ROUTER | BCM6338"
+    ],
+    "227": [
+        " bcm96828 router BCM96828",
+        "CISCO | ROUTER | T1"
+    ],
+    "228": [
+        " bcm96828 router BCM96828",
+        "CISCO | SWITCH | WNDR4700-100NAS"
+    ],
+    "229": [
+        " bcm96828 router BCM96828",
+        "CISCO | SPEAKER | WBR-6003Edimax"
+    ],
+    "230": [
+        " bcm96828 router BCM96828",
+        "BELKIN | ROUTER | WNDR4700-100NAS"
+    ],
+    "231": [
+        " bcm96828 router BCM96828",
+        "BELKIN | SWITCH | WNDR4700-100NAS"
+    ],
+    "232": [
+        " bcm96828 router BCM96828",
+        "BELKIN | SPEAKER | WBR-6003Edimax"
+    ],
+    "233": [
+        " bcm96828 router BCM96828",
+        "ASUS | ROUTER | WNDR4700-100NAS"
+    ],
+    "234": [
+        " bcm96828 router BCM96828",
+        "ASUS | SWITCH | WNDR4700-100NAS"
+    ],
+    "235": [
+        " bcm96828 router BCM96828",
+        "ASUS | SPEAKER | WBR-6003Edimax"
+    ],
+    "236": [
+        " kabinet mikrotik",
+        "MIKROTIK | SWITCH | Rj45"
+    ],
+    "237": [
+        " kabinet mikrotik",
+        "MIKROTIK | ROUTER | Cat6"
+    ],
+    "238": [
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
+    ],
+    "239": [
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
+    ],
+    "240": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "241": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "242": [
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
+    ],
+    "243": [
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
+    ],
+    "244": [
+        " bcm96328 router BCM96328",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "245": [
+        " bcm96328 router BCM96328",
+        "NETGEAR | ROUTER | WGT624"
+    ],
+    "246": [
+        " bcm96328 router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "247": [
+        " bcm96328 router BCM96328",
+        "BROADCOM | ROUTER | BCM96328"
+    ],
+    "248": [
+        " bcm96328 router BCM96328",
+        "ASUS | ROUTER | F5"
+    ],
+    "249": [
+        " bcm96328 router BCM96328",
+        "EXACT | ROUTER"
+    ],
+    "250": [
+        " bcm96328 router BCM96328",
+        "VERIZON | ROUTER"
+    ],
+    "251": [
+        " bcm96328 router BCM96328",
+        "BELKIN | ROUTER | F5"
+    ],
+    "252": [
+        " bcm96328 router BCM96328",
+        "SAMSUNG | ROUTER | F5"
+    ],
+    "253": [
+        " bcm96328 router BCM96328",
+        "SAMSUNG | TV | F5"
+    ],
+    "254": [
+        " bcm96328 router BCM96328",
+        "BOSCH | ROUTER"
+    ],
+    "255": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "256": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "257": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "258": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "259": [
+        " microsoft",
+        " microsoft"
+    ],
+    "260": [
+        " microsoft",
+        " microsoft"
+    ],
+    "261": [
+        " 414rg router",
+        "ASUS | ROUTER | RT-AC66U"
+    ],
+    "262": [
+        " 414rg router",
+        "TPLINK | ROUTER | Jan-21"
+    ],
+    "263": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "264": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "265": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "266": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "267": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "268": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "269": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "270": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "271": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "272": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "273": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "274": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "275": [
+        " microsoft",
+        " microsoft"
+    ],
+    "276": [
+        " microsoft",
+        " microsoft"
+    ],
+    "277": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "278": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "279": [
+        " mikrotik v5 v5.25",
+        "MIKROTIK | ROUTER | RB1200"
+    ],
+    "280": [
+        " wl gpon ont wlctl",
+        "HUAWEI | ALARM | EDOC1000078313"
+    ],
+    "281": [
+        " ruko mikrotik tb92 TB92",
+        "MIKROTIK | ROUTER | G1"
+    ],
+    "282": [
+        " ruko mikrotik tb92 TB92",
+        "INTEL | ROUTER | G1"
+    ],
+    "283": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "284": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "285": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "286": [
+        " mikrotik bln",
+        "MIKROTIK | ROUTER | l2"
+    ],
+    "287": [
+        " mikrotik bln",
+        "MIKROTIK | SWITCH | RB951G"
+    ],
+    "288": [
+        " mikrotik bln",
+        "MIKROTIK | TRACKING | Py2Bin"
+    ],
+    "289": [
+        " mikrotik bln",
+        "CISCO | ROUTER | RB951G"
+    ],
+    "290": [
+        " mikrotik bln",
+        "CISCO | SWITCH | RB951G"
+    ],
+    "291": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "292": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "293": [
+        " bucha mikrotik mikrotik",
+        "MIKROTIK | ROUTER | L4"
+    ],
+    "294": [
+        " bucha mikrotik mikrotik",
+        "MIKROTIK | SWITCH | Crs317-1g"
+    ],
+    "295": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "296": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "297": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "298": [
+        " kavarna mikrotik",
+        "MIKROTIK | ROUTER | RB-951Ui"
+    ],
+    "299": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "300": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "301": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "302": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "303": [
+        " mikrotik v6 v6.10",
+        "MIKROTIK | ROUTER | RB2011"
+    ],
+    "304": [
+        " mikrotik v6 v6.10",
+        "MIKROTIK | SWITCH | RB2011"
+    ],
+    "305": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "306": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | SWITCH"
+    ],
+    "307": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "308": [
+        " 434rg router",
+        "CISCO | CAMERA | RemoteCam5"
+    ],
+    "309": [
+        " 434rg router",
+        "PANASONIC | CAMERA | E1"
+    ],
+    "310": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "311": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "312": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "313": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "314": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "315": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "316": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "317": [
+        " mikrotik v6 v6.26",
+        "MIKROTIK | ROUTER | download2.mikrotik"
+    ],
+    "318": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "319": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "320": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "321": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "322": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "323": [
+        " microsoft",
+        " microsoft"
+    ],
+    "324": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "325": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "326": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "327": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "328": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "329": [
+        " mikrotik mikrotik 0rc11",
+        "MIKROTIK | ROUTER | rc11"
+    ],
+    "330": [
+        " mikrotik v5 0rc11 v5.0rc11",
+        "MIKROTIK | ROUTER | v5"
+    ],
+    "331": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "332": [
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
+    ],
+    "333": [
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
+    ],
+    "334": [
+        " rtr_monitoreo mikrotik",
+        "CISCO | ROUTER | Pv6"
+    ],
+    "335": [
+        " rtr_monitoreo mikrotik",
+        "CISCO | SWITCH | CM3024"
+    ],
+    "336": [
+        " rtr_monitoreo mikrotik",
+        "MIKROTIK | ROUTER | L4"
+    ],
+    "337": [
+        " rtr_monitoreo mikrotik",
+        "NETGEAR | ROUTER | x600"
+    ],
+    "338": [
+        " rtr_monitoreo mikrotik",
+        "NETGEAR | SWITCH | AC1900"
+    ],
+    "339": [
+        " mikrotik v6 v6.30",
+        "MIKROTIK | ROUTER | RB750GL"
+    ],
+    "340": [
+        " mikrotik v6 v6.30",
+        "CISCO | SWITCH"
+    ],
+    "341": [
+        " microsoft",
+        " microsoft"
+    ],
+    "342": [
+        " microsoft",
+        " microsoft"
+    ],
+    "343": [
+        " huawei huawei .,",
+        "HUAWEI | CAMERA | v3"
+    ],
+    "344": [
+        " huawei huawei .,",
+        "HUAWEI | SPEAKER | v3"
+    ],
+    "345": [
+        " huawei huawei .,",
+        "HUAWEI | WATCH"
+    ],
+    "346": [
+        " huawei huawei .,",
+        "INTEL | PROCESSOR"
+    ],
+    "347": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "348": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "349": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "350": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "351": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "352": [
+        " microsoft",
+        " microsoft"
+    ],
+    "353": [
+        " microsoft",
+        " microsoft"
+    ],
+    "354": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "355": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "356": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "357": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "358": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "359": [
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
+    ],
+    "360": [
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
+    ],
+    "361": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "362": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "363": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "364": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | TV | mp3"
+    ],
+    "365": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | WATCH | mp3"
+    ],
+    "366": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | OVEN | mp3"
+    ],
+    "367": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | SWITCH | mp3"
+    ],
+    "368": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | BUTTON | mp3"
+    ],
+    "369": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | CONTROLLER | mp3"
+    ],
+    "370": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | GPS | mp3"
+    ],
+    "371": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | PROCESSOR | mp3"
+    ],
+    "372": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | COOKER | mp3"
+    ],
+    "373": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | ROUTER | D1"
+    ],
+    "374": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | ALARM | c1"
+    ],
+    "375": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | BRACELET | c1"
+    ],
+    "376": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | LOCK | mp3"
+    ],
+    "377": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | SPEAKER | mp3"
+    ],
+    "378": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | TRACKING | mp3"
+    ],
+    "379": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | FEEDER | D2"
+    ],
+    "380": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "STAR | THERMOMETER | D1"
+    ],
+    "381": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | TV | mp3"
+    ],
+    "382": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | WATCH | mp3"
+    ],
+    "383": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | OVEN | mp3"
+    ],
+    "384": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | SWITCH | mp3"
+    ],
+    "385": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | BUTTON | mp3"
+    ],
+    "386": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | CONTROLLER | D2"
+    ],
+    "387": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | GPS | mp3"
+    ],
+    "388": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | PROCESSOR | mp3"
+    ],
+    "389": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | COOKER | mp3"
+    ],
+    "390": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | ROUTER | mp3"
+    ],
+    "391": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | BRACELET | mp3"
+    ],
+    "392": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | LOCK | mp3"
+    ],
+    "393": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | SPEAKER | mp3"
+    ],
+    "394": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | TRACKING | mp3"
+    ],
+    "395": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TEAM | FEEDER | mp3"
+    ],
+    "396": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | TV | mp3"
+    ],
+    "397": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | WATCH | mp3"
+    ],
+    "398": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | OVEN | mp3"
+    ],
+    "399": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | SWITCH | mp3"
+    ],
+    "400": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | BUTTON | mp3"
+    ],
+    "401": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | CONTROLLER | mp3"
+    ],
+    "402": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | GPS | mp3"
+    ],
+    "403": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | PROCESSOR | mp3"
+    ],
+    "404": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | COOKER | mp3"
+    ],
+    "405": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | ALARM | mp3"
+    ],
+    "406": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | BRACELET | mp3"
+    ],
+    "407": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | LOCK | mp3"
+    ],
+    "408": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | SPEAKER | mp3"
+    ],
+    "409": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GLASS | TRACKING | mp3"
+    ],
+    "410": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | TV | mp3"
+    ],
+    "411": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | WATCH | mp3"
+    ],
+    "412": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | OVEN | mp3"
+    ],
+    "413": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | SWITCH | mp3"
+    ],
+    "414": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | BUTTON | mp3"
+    ],
+    "415": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | CONTROLLER | mp3"
+    ],
+    "416": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | PROCESSOR | mp3"
+    ],
+    "417": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | COOKER | mp3"
+    ],
+    "418": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | LOCK | mp3"
+    ],
+    "419": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | SPEAKER | mp3"
+    ],
+    "420": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | TRACKING | mp3"
+    ],
+    "421": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BOSCH | FEEDER | mp3"
+    ],
+    "422": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | TV | mp3"
+    ],
+    "423": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | WATCH | mp3"
+    ],
+    "424": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | OVEN | mp3"
+    ],
+    "425": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | SWITCH | mp3"
+    ],
+    "426": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | BUTTON | mp3"
+    ],
+    "427": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | CONTROLLER | mp3"
+    ],
+    "428": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | GPS | mp3"
+    ],
+    "429": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | PROCESSOR | mp3"
+    ],
+    "430": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | COOKER | mp3"
+    ],
+    "431": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | ALARM | mp3"
+    ],
+    "432": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | BRACELET | mp3"
+    ],
+    "433": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | SPEAKER | mp3"
+    ],
+    "434": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAMSUNG | TRACKING | mp3"
+    ],
+    "435": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | TV | mp3"
+    ],
+    "436": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | WATCH | mp3"
+    ],
+    "437": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | OVEN | mp3"
+    ],
+    "438": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | SWITCH | mp3"
+    ],
+    "439": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | BUTTON | mp3"
+    ],
+    "440": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | PROCESSOR | mp3"
+    ],
+    "441": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | COOKER | mp3"
+    ],
+    "442": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | LOCK | mp3"
+    ],
+    "443": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | SPEAKER | mp3"
+    ],
+    "444": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MATRIX | TRACKING | mp3"
+    ],
+    "445": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | TV | mp3"
+    ],
+    "446": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | WATCH | mp3"
+    ],
+    "447": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | OVEN | mp3"
+    ],
+    "448": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | SWITCH | mp3"
+    ],
+    "449": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | BUTTON | mp3"
+    ],
+    "450": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | CONTROLLER | mp3"
+    ],
+    "451": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | GPS | mp3"
+    ],
+    "452": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | PROCESSOR | mp3"
+    ],
+    "453": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | COOKER | mp3"
+    ],
+    "454": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | ALARM | mp3"
+    ],
+    "455": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | BRACELET | mp3"
+    ],
+    "456": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ERICSSON | THERMOMETER | mp3"
+    ],
+    "457": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | TV | mp3"
+    ],
+    "458": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | WATCH | mp3"
+    ],
+    "459": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | OVEN | mp3"
+    ],
+    "460": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | SWITCH | mp3"
+    ],
+    "461": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | BUTTON | mp3"
+    ],
+    "462": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | CONTROLLER | mp3"
+    ],
+    "463": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | GPS | mp3"
+    ],
+    "464": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | PROCESSOR | mp3"
+    ],
+    "465": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | COOKER | mp3"
+    ],
+    "466": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | ALARM | mp3"
+    ],
+    "467": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | BRACELET | mp3"
+    ],
+    "468": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | SPEAKER | mp3"
+    ],
+    "469": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AGOSTO | TRACKING | mp3"
+    ],
+    "470": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | TV | mp3"
+    ],
+    "471": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | WATCH | mp3"
+    ],
+    "472": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | OVEN | mp3"
+    ],
+    "473": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | SWITCH | mp3"
+    ],
+    "474": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | BUTTON | mp3"
+    ],
+    "475": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | GPS | mp3"
+    ],
+    "476": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | PROCESSOR | mp3"
+    ],
+    "477": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | COOKER | mp3"
+    ],
+    "478": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | BRACELET | mp3"
+    ],
+    "479": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | LOCK | mp3"
+    ],
+    "480": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | TRACKING | mp3"
+    ],
+    "481": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ORACLE | THERMOMETER | mp3"
+    ],
+    "482": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | TV | mp3"
+    ],
+    "483": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | WATCH | mp3"
+    ],
+    "484": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | OVEN | mp3"
+    ],
+    "485": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | SWITCH | mp3"
+    ],
+    "486": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | CONTROLLER | mp3"
+    ],
+    "487": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | GPS | mp3"
+    ],
+    "488": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | PROCESSOR | mp3"
+    ],
+    "489": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | COOKER | mp3"
+    ],
+    "490": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | BRACELET | mp3"
+    ],
+    "491": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NOKIA | LOCK | mp3"
+    ],
+    "492": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | TV | mp3"
+    ],
+    "493": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | WATCH | mp3"
+    ],
+    "494": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | OVEN | mp3"
+    ],
+    "495": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | SWITCH | mp3"
+    ],
+    "496": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | BUTTON | mp3"
+    ],
+    "497": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | GPS | mp3"
+    ],
+    "498": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | PROCESSOR | mp3"
+    ],
+    "499": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | COOKER | mp3"
+    ],
+    "500": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | LOCK | mp3"
+    ],
+    "501": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | SPEAKER | mp3"
+    ],
+    "502": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELL | TRACKING | mp3"
+    ],
+    "503": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | TV | mp3"
+    ],
+    "504": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | WATCH | mp3"
+    ],
+    "505": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | OVEN | mp3"
+    ],
+    "506": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | SWITCH | mp3"
+    ],
+    "507": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | BUTTON | mp3"
+    ],
+    "508": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | GPS | mp3"
+    ],
+    "509": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | PROCESSOR | mp3"
+    ],
+    "510": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | COOKER | mp3"
+    ],
+    "511": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | ROUTER | mp3"
+    ],
+    "512": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | BRACELET | mp3"
+    ],
+    "513": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | LOCK | mp3"
+    ],
+    "514": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | SPEAKER | mp3"
+    ],
+    "515": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BROTHER | TRACKING | mp3"
+    ],
+    "516": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | TV | mp3"
+    ],
+    "517": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | WATCH | mp3"
+    ],
+    "518": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | OVEN | mp3"
+    ],
+    "519": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | SWITCH | mp3"
+    ],
+    "520": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | BUTTON | mp3"
+    ],
+    "521": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | CONTROLLER | mp3"
+    ],
+    "522": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | GPS | mp3"
+    ],
+    "523": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | PROCESSOR | mp3"
+    ],
+    "524": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | COOKER | mp3"
+    ],
+    "525": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | ROUTER | mp3"
+    ],
+    "526": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | BRACELET | mp3"
+    ],
+    "527": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | LOCK | mp3"
+    ],
+    "528": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INTEL | THERMOMETER | mp3"
+    ],
+    "529": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PANASONIC | TV | mp3"
+    ],
+    "530": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PANASONIC | WATCH | mp3"
+    ],
+    "531": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PANASONIC | OVEN | mp3"
+    ],
+    "532": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PANASONIC | SWITCH | mp3"
+    ],
+    "533": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PANASONIC | BUTTON | mp3"
+    ],
+    "534": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PANASONIC | SPEAKER | mp3"
+    ],
+    "535": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | TV | mp3"
+    ],
+    "536": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | WATCH | mp3"
+    ],
+    "537": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | OVEN | mp3"
+    ],
+    "538": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | SWITCH | mp3"
+    ],
+    "539": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | BUTTON | mp3"
+    ],
+    "540": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | PROCESSOR | mp3"
+    ],
+    "541": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | COOKER | mp3"
+    ],
+    "542": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | ROUTER | mp3"
+    ],
+    "543": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | ALARM | mp3"
+    ],
+    "544": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BLACKBERRY | BRACELET | mp3"
+    ],
+    "545": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARENA | TV | mp3"
+    ],
+    "546": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARENA | WATCH | mp3"
+    ],
+    "547": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARENA | OVEN | mp3"
+    ],
+    "548": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARENA | SWITCH | mp3"
+    ],
+    "549": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARENA | PROCESSOR | mp3"
+    ],
+    "550": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARENA | LOCK | mp3"
+    ],
+    "551": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | TV | mp3"
+    ],
+    "552": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | WATCH | mp3"
+    ],
+    "553": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | OVEN | mp3"
+    ],
+    "554": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | SWITCH | mp3"
+    ],
+    "555": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | BUTTON | mp3"
+    ],
+    "556": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | GPS | mp3"
+    ],
+    "557": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | PROCESSOR | mp3"
+    ],
+    "558": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | ALARM | mp3"
+    ],
+    "559": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | BRACELET | mp3"
+    ],
+    "560": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "MICROSOFT | THERMOMETER | mp3"
+    ],
+    "561": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | TV | mp3"
+    ],
+    "562": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | WATCH | mp3"
+    ],
+    "563": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | OVEN | mp3"
+    ],
+    "564": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | SWITCH | mp3"
+    ],
+    "565": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | BUTTON | mp3"
+    ],
+    "566": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | CONTROLLER | mp3"
+    ],
+    "567": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | COOKER | mp3"
+    ],
+    "568": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | ROUTER | mp3"
+    ],
+    "569": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | BRACELET | mp3"
+    ],
+    "570": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | SPEAKER | mp3"
+    ],
+    "571": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CISCO | TRACKING | mp3"
+    ],
+    "572": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "HUAWEI | TV | mp3"
+    ],
+    "573": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "HUAWEI | WATCH | mp3"
+    ],
+    "574": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "HUAWEI | OVEN | mp3"
+    ],
+    "575": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "HUAWEI | BUTTON | mp3"
+    ],
+    "576": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "HUAWEI | SPEAKER | mp3"
+    ],
+    "577": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | TV | mp3"
+    ],
+    "578": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | WATCH | mp3"
+    ],
+    "579": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | OVEN | mp3"
+    ],
+    "580": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | SWITCH | mp3"
+    ],
+    "581": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | BUTTON | mp3"
+    ],
+    "582": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | CONTROLLER | mp3"
+    ],
+    "583": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | GPS | mp3"
+    ],
+    "584": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | PROCESSOR | mp3"
+    ],
+    "585": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | LOCK | mp3"
+    ],
+    "586": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | SPEAKER | mp3"
+    ],
+    "587": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SAP | TRACKING | mp3"
+    ],
+    "588": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | TV | mp3"
+    ],
+    "589": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | WATCH | mp3"
+    ],
+    "590": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | OVEN | mp3"
+    ],
+    "591": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | SWITCH | mp3"
+    ],
+    "592": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | PROCESSOR | mp3"
+    ],
+    "593": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | ROUTER | mp3"
+    ],
+    "594": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | LOCK | mp3"
+    ],
+    "595": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | SPEAKER | mp3"
+    ],
+    "596": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TOSHIBA | THERMOMETER | mp3"
+    ],
+    "597": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TELIA | TV | mp3"
+    ],
+    "598": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TELIA | WATCH | mp3"
+    ],
+    "599": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TELIA | SWITCH | mp3"
+    ],
+    "600": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TELIA | THERMOMETER | mp3"
+    ],
+    "601": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CUBIC | TV | mp3"
+    ],
+    "602": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CUBIC | WATCH | mp3"
+    ],
+    "603": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CUBIC | OVEN | mp3"
+    ],
+    "604": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CUBIC | SWITCH | mp3"
+    ],
+    "605": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CUBIC | BUTTON | mp3"
+    ],
+    "606": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CUBIC | COOKER | mp3"
+    ],
+    "607": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CUBIC | ROUTER | mp3"
+    ],
+    "608": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CUBIC | SPEAKER | mp3"
+    ],
+    "609": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SICK | TV | mp3"
+    ],
+    "610": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SICK | WATCH | mp3"
+    ],
+    "611": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SICK | SWITCH | mp3"
+    ],
+    "612": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SICK | PROCESSOR | mp3"
+    ],
+    "613": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SICK | ALARM | mp3"
+    ],
+    "614": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SICK | LOCK | mp3"
+    ],
+    "615": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SPRINT | TV | mp3"
+    ],
+    "616": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SPRINT | WATCH | mp3"
+    ],
+    "617": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SPRINT | OVEN | mp3"
+    ],
+    "618": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SPRINT | SWITCH | mp3"
+    ],
+    "619": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SPRINT | PROCESSOR | mp3"
+    ],
+    "620": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SPRINT | BRACELET | mp3"
+    ],
+    "621": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SPRINT | LOCK | mp3"
+    ],
+    "622": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SPRINT | SPEAKER | mp3"
+    ],
+    "623": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | TV | mp3"
+    ],
+    "624": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | WATCH | mp3"
+    ],
+    "625": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | OVEN | mp3"
+    ],
+    "626": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | SWITCH | mp3"
+    ],
+    "627": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | CONTROLLER | mp3"
+    ],
+    "628": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | GPS | mp3"
+    ],
+    "629": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | PROCESSOR | mp3"
+    ],
+    "630": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | COOKER | mp3"
+    ],
+    "631": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | BRACELET | mp3"
+    ],
+    "632": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AMD | LOCK | mp3"
+    ],
+    "633": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | TV | mp3"
+    ],
+    "634": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | WATCH | mp3"
+    ],
+    "635": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | OVEN | mp3"
+    ],
+    "636": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | SWITCH | mp3"
+    ],
+    "637": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | BUTTON | mp3"
+    ],
+    "638": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | PROCESSOR | mp3"
+    ],
+    "639": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | ALARM | mp3"
+    ],
+    "640": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | BRACELET | mp3"
+    ],
+    "641": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | LOCK | mp3"
+    ],
+    "642": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DASHBOARD | SPEAKER | mp3"
+    ],
+    "643": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TORNADO | TV | mp3"
+    ],
+    "644": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TORNADO | WATCH | mp3"
+    ],
+    "645": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TORNADO | OVEN | mp3"
+    ],
+    "646": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TORNADO | SWITCH | mp3"
+    ],
+    "647": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TORNADO | BUTTON | mp3"
+    ],
+    "648": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TORNADO | SPEAKER | mp3"
+    ],
+    "649": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TORNADO | TRACKING | mp3"
+    ],
+    "650": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | TV | mp3"
+    ],
+    "651": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | WATCH | mp3"
+    ],
+    "652": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | OVEN | mp3"
+    ],
+    "653": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | SWITCH | mp3"
+    ],
+    "654": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | BUTTON | mp3"
+    ],
+    "655": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | GPS | mp3"
+    ],
+    "656": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | ROUTER | mp3"
+    ],
+    "657": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | ALARM | mp3"
+    ],
+    "658": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | BRACELET | mp3"
+    ],
+    "659": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | LOCK | mp3"
+    ],
+    "660": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARM | THERMOMETER | mp3"
+    ],
+    "661": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NVIDIA | TV | mp3"
+    ],
+    "662": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NVIDIA | WATCH | mp3"
+    ],
+    "663": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NVIDIA | OVEN | mp3"
+    ],
+    "664": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NVIDIA | SWITCH | mp3"
+    ],
+    "665": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NVIDIA | BUTTON | mp3"
+    ],
+    "666": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NVIDIA | LOCK | mp3"
+    ],
+    "667": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NVIDIA | SPEAKER | mp3"
+    ],
+    "668": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | TV | mp3"
+    ],
+    "669": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | WATCH | mp3"
+    ],
+    "670": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | OVEN | mp3"
+    ],
+    "671": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | SWITCH | mp3"
+    ],
+    "672": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | CONTROLLER | mp3"
+    ],
+    "673": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | GPS | mp3"
+    ],
+    "674": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | PROCESSOR | mp3"
+    ],
+    "675": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | COOKER | mp3"
+    ],
+    "676": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VARIABLE | BRACELET | mp3"
+    ],
+    "677": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ZONES | TV | mp3"
+    ],
+    "678": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ZONES | SWITCH | mp3"
+    ],
+    "679": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ZONES | SPEAKER | mp3"
+    ],
+    "680": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ZONES | TRACKING | mp3"
+    ],
+    "681": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PHILIPS | TV | mp3"
+    ],
+    "682": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PHILIPS | WATCH | mp3"
+    ],
+    "683": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PHILIPS | OVEN | mp3"
+    ],
+    "684": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PHILIPS | SWITCH | mp3"
+    ],
+    "685": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PHILIPS | BUTTON | mp3"
+    ],
+    "686": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PHILIPS | COOKER | mp3"
+    ],
+    "687": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PHILIPS | TRACKING | mp3"
+    ],
+    "688": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VODAFONE | TV | mp3"
+    ],
+    "689": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VODAFONE | WATCH | mp3"
+    ],
+    "690": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VODAFONE | OVEN | mp3"
+    ],
+    "691": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VODAFONE | BUTTON | mp3"
+    ],
+    "692": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VODAFONE | SPEAKER | mp3"
+    ],
+    "693": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARDUINO | TV | mp3"
+    ],
+    "694": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARDUINO | WATCH | mp3"
+    ],
+    "695": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARDUINO | OVEN | mp3"
+    ],
+    "696": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARDUINO | SWITCH | mp3"
+    ],
+    "697": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARDUINO | BUTTON | mp3"
+    ],
+    "698": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARDUINO | ALARM | mp3"
+    ],
+    "699": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ARDUINO | BRACELET | mp3"
+    ],
+    "700": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INFOSYS | TV | mp3"
+    ],
+    "701": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INFOSYS | OVEN | mp3"
+    ],
+    "702": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INFOSYS | CONTROLLER | mp3"
+    ],
+    "703": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "EATON | TV | mp3"
+    ],
+    "704": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "EATON | WATCH | mp3"
+    ],
+    "705": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "EATON | SWITCH | mp3"
+    ],
+    "706": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "EATON | COOKER | mp3"
+    ],
+    "707": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "EATON | TRACKING | mp3"
+    ],
+    "708": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INFORMATICA | WATCH | mp3"
+    ],
+    "709": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "INFORMATICA | ALARM | mp3"
+    ],
+    "710": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PARTICLE | TV | mp3"
+    ],
+    "711": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "PARTICLE | OVEN | mp3"
+    ],
+    "712": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VERIZON | TV | mp3"
+    ],
+    "713": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VERIZON | WATCH | mp3"
+    ],
+    "714": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VERIZON | OVEN | mp3"
+    ],
+    "715": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VERIZON | SWITCH | mp3"
+    ],
+    "716": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VERIZON | BUTTON | mp3"
+    ],
+    "717": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VERIZON | BRACELET | mp3"
+    ],
+    "718": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VERIZON | SPEAKER | mp3"
+    ],
+    "719": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AUGURY | TV | mp3"
+    ],
+    "720": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AUGURY | SWITCH | mp3"
+    ],
+    "721": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AUGURY | PROCESSOR | mp3"
+    ],
+    "722": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AUGURY | LOCK | mp3"
+    ],
+    "723": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CGI | TV | mp3"
+    ],
+    "724": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CGI | WATCH | mp3"
+    ],
+    "725": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CGI | OVEN | mp3"
+    ],
+    "726": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CGI | SWITCH | mp3"
+    ],
+    "727": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "CGI | BUTTON | mp3"
+    ],
+    "728": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VAI | TV | mp3"
+    ],
+    "729": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "VAI | WATCH | mp3"
+    ],
+    "730": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AIRTEL | TV | mp3"
+    ],
+    "731": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AIRTEL | WATCH | mp3"
+    ],
+    "732": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "AIRTEL | SWITCH | mp3"
+    ],
+    "733": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BASEN | TV | mp3"
+    ],
+    "734": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BASEN | WATCH | mp3"
+    ],
+    "735": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BASEN | OVEN | mp3"
+    ],
+    "736": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BASEN | SWITCH | mp3"
+    ],
+    "737": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BASEN | BUTTON | mp3"
+    ],
+    "738": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BASEN | SPEAKER | mp3"
+    ],
+    "739": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "BASEN | TRACKING | mp3"
+    ],
+    "740": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "DELPHI | TV | mp3"
+    ],
+    "741": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GIGABYTE | TV | mp3"
+    ],
+    "742": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GIGABYTE | WATCH | mp3"
+    ],
+    "743": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GIGABYTE | CONTROLLER | mp3"
+    ],
+    "744": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GIGABYTE | GPS | mp3"
+    ],
+    "745": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "GIGABYTE | FEEDER | mp3"
+    ],
+    "746": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "KONE | WATCH | mp3"
+    ],
+    "747": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "KONE | SWITCH | mp3"
+    ],
+    "748": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "KONE | LOCK | mp3"
+    ],
+    "749": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NPM | TV | mp3"
+    ],
+    "750": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NPM | WATCH | mp3"
+    ],
+    "751": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NPM | SWITCH | mp3"
+    ],
+    "752": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "NPM | THERMOMETER | mp3"
+    ],
+    "753": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "REED | TV | mp3"
+    ],
+    "754": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "REED | WATCH | mp3"
+    ],
+    "755": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "REED | OVEN | mp3"
+    ],
+    "756": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "REED | SWITCH | mp3"
+    ],
+    "757": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "REED | CONTROLLER | mp3"
+    ],
+    "758": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "REED | COOKER | mp3"
+    ],
+    "759": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "REED | ROUTER | mp3"
+    ],
+    "760": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "REED | LOCK | mp3"
+    ],
+    "761": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "RUFF | TV | mp3"
+    ],
+    "762": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "RUFF | WATCH | mp3"
+    ],
+    "763": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "RUFF | OVEN | mp3"
+    ],
+    "764": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "RUFF | SWITCH | mp3"
+    ],
+    "765": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "RUFF | BUTTON | mp3"
+    ],
+    "766": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "RUFF | CONTROLLER | mp3"
+    ],
+    "767": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "RUFF | GPS | mp3"
+    ],
+    "768": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "RUFF | SPEAKER | mp3"
+    ],
+    "769": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SENECA | TV | mp3"
+    ],
+    "770": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SENECA | WATCH | mp3"
+    ],
+    "771": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SENECA | OVEN | mp3"
+    ],
+    "772": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SENECA | BUTTON | mp3"
+    ],
+    "773": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SENECA | ALARM | mp3"
+    ],
+    "774": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SENECA | BRACELET | mp3"
+    ],
+    "775": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SKF | TV | mp3"
+    ],
+    "776": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SKF | WATCH | mp3"
+    ],
+    "777": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SKF | OVEN | mp3"
+    ],
+    "778": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SKF | SWITCH | mp3"
+    ],
+    "779": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SKF | BUTTON | mp3"
+    ],
+    "780": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "SKF | ROUTER | mp3"
+    ],
+    "781": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TESLA | TV | mp3"
+    ],
+    "782": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TESLA | WATCH | mp3"
+    ],
+    "783": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TESLA | SWITCH | mp3"
+    ],
+    "784": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TESLA | PROCESSOR | mp3"
+    ],
+    "785": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TESLA | LOCK | mp3"
+    ],
+    "786": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "TMC | TV | mp3"
+    ],
+    "787": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "WEISS | TV | mp3"
+    ],
+    "788": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "WEISS | WATCH | mp3"
+    ],
+    "789": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "WEISS | OVEN | mp3"
+    ],
+    "790": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "WEISS | SWITCH | mp3"
+    ],
+    "791": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "WEISS | BUTTON | mp3"
+    ],
+    "792": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "WEISS | CONTROLLER | mp3"
+    ],
+    "793": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "WEISS | BRACELET | mp3"
+    ],
+    "794": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "WEISS | SPEAKER | mp3"
+    ],
+    "795": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ASUS | TV | mp3"
+    ],
+    "796": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ASUS | WATCH | mp3"
+    ],
+    "797": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ASUS | OVEN | mp3"
+    ],
+    "798": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ASUS | SWITCH | mp3"
+    ],
+    "799": [
+        " burda praha tandberg codec f6 sw F6.1",
+        "ASUS | SPEAKER | mp3"
+    ],
+    "800": [
+        " mikrotik v5 v5.25",
+        "MIKROTIK | ROUTER | RB1200"
+    ],
+    "801": [
+        " b10b vmg3926 VMG3926-B10B",
+        "ASUS | ROUTER | RT-AC86U"
+    ],
+    "802": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "803": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "804": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "805": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "806": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "807": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "808": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "809": [
+        " wl gpon ont wlctl",
+        "HUAWEI | ALARM | EDOC1000078313"
+    ],
+    "810": [
+        " bcm96328 router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "811": [
+        " bcm96328 router BCM96328",
+        "NETGEAR | ROUTER | DGN2200MNETGEAR"
+    ],
+    "812": [
+        " bcm96328 router BCM96328",
+        "EXACT | ROUTER"
+    ],
+    "813": [
+        " bcm96328 router BCM96328",
+        "VERIZON | ROUTER"
+    ],
+    "814": [
+        " bcm96328 router BCM96328",
+        "BELKIN | ROUTER"
+    ],
+    "815": [
+        " bcm96328 router BCM96328",
+        "TECHNICOLOR | ROUTER | tc4400-cmt"
+    ],
+    "816": [
+        " bcm96328 router BCM96328",
+        "DELL | ROUTER"
+    ],
+    "817": [
+        " bcm96328 router BCM96328",
+        "BOSCH | ROUTER"
+    ],
+    "818": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "819": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "820": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "821": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "822": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "823": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "824": [
+        " gor25 mikrotik GOR25",
+        "ASUS | ROUTER"
+    ],
+    "825": [
+        " gor25 mikrotik GOR25",
+        "CISCO | ROUTER"
+    ],
+    "826": [
+        " gor25 mikrotik GOR25",
+        "ZTE | ROUTER"
+    ],
+    "827": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "828": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "829": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "830": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "831": [
+        " ecosense processor",
+        "ECOSENSE | PROCESSOR | ODO200M"
+    ],
+    "832": [
+        " ecosense processor",
+        "PARTICLE | CONTROLLER | ODO200M"
+    ],
+    "833": [
+        " ecosense processor",
+        "GLASS | CONTROLLER | ODO200M"
+    ],
+    "834": [
+        " jul ucftpd",
+        "HIKVISION | CAMERA"
+    ],
+    "835": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MIKROTIK | ROUTER | P1"
+    ],
+    "836": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MIKROTIK | SWITCH | P1"
+    ],
+    "837": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MIKROTIK | CONTROLLER | P1"
+    ],
+    "838": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | ROUTER | P1"
+    ],
+    "839": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | SWITCH | P1"
+    ],
+    "840": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | CAMERA | P1"
+    ],
+    "841": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | CONTROLLER | P1"
+    ],
+    "842": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | TV | P1"
+    ],
+    "843": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | WATCH | P1"
+    ],
+    "844": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | BULB | P1"
+    ],
+    "845": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | BRACELET | P1"
+    ],
+    "846": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | BUTTON | P1"
+    ],
+    "847": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | COOKER | P1"
+    ],
+    "848": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | GPS | P1"
+    ],
+    "849": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | LOCK | P1"
+    ],
+    "850": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "VARIABLE | THERMOSTAT | P1"
+    ],
+    "851": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | ROUTER | P1"
+    ],
+    "852": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | SWITCH | P1"
+    ],
+    "853": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | CAMERA | P1"
+    ],
+    "854": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | CONTROLLER | P1"
+    ],
+    "855": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | TV | P1"
+    ],
+    "856": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | WATCH | P1"
+    ],
+    "857": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | BULB | P1"
+    ],
+    "858": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | BRACELET | P1"
+    ],
+    "859": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | BUTTON | P1"
+    ],
+    "860": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | COOKER | P1"
+    ],
+    "861": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | GPS | P1"
+    ],
+    "862": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | LOCK | P1"
+    ],
+    "863": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SAMSUNG | THERMOSTAT | P1"
+    ],
+    "864": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ELASTIC | CAMERA | P1"
+    ],
+    "865": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ELASTIC | TV | P1"
+    ],
+    "866": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ELASTIC | BULB | P1"
+    ],
+    "867": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ELASTIC | BRACELET | P1"
+    ],
+    "868": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | ROUTER | P1"
+    ],
+    "869": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | SWITCH | P1"
+    ],
+    "870": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | CAMERA | P1"
+    ],
+    "871": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | CONTROLLER | P1"
+    ],
+    "872": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | TV | P1"
+    ],
+    "873": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | WATCH | P1"
+    ],
+    "874": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | BULB | P1"
+    ],
+    "875": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | BRACELET | P1"
+    ],
+    "876": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | BUTTON | P1"
+    ],
+    "877": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | COOKER | P1"
+    ],
+    "878": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | GPS | P1"
+    ],
+    "879": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | LOCK | P1"
+    ],
+    "880": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "EPSON | THERMOSTAT | P1"
+    ],
+    "881": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | ROUTER | P1"
+    ],
+    "882": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | SWITCH | P1"
+    ],
+    "883": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | CAMERA | P1"
+    ],
+    "884": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | CONTROLLER | P1"
+    ],
+    "885": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | TV | P1"
+    ],
+    "886": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | WATCH | P1"
+    ],
+    "887": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | BULB | P1"
+    ],
+    "888": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | BRACELET | P1"
+    ],
+    "889": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | BUTTON | P1"
+    ],
+    "890": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | GPS | P1"
+    ],
+    "891": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | LOCK | P1"
+    ],
+    "892": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BOSCH | THERMOSTAT | P1"
+    ],
+    "893": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | ROUTER | P1"
+    ],
+    "894": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | SWITCH | P1"
+    ],
+    "895": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | CAMERA | P1"
+    ],
+    "896": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | CONTROLLER | P1"
+    ],
+    "897": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | TV | P1"
+    ],
+    "898": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | WATCH | P1"
+    ],
+    "899": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | BULB | P1"
+    ],
+    "900": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | BRACELET | P1"
+    ],
+    "901": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | BUTTON | P1"
+    ],
+    "902": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | GPS | P1"
+    ],
+    "903": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | LOCK | P1"
+    ],
+    "904": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "STAR | THERMOSTAT | P1"
+    ],
+    "905": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | ROUTER | P1"
+    ],
+    "906": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | SWITCH | P1"
+    ],
+    "907": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | CAMERA | P1"
+    ],
+    "908": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | CONTROLLER | P1"
+    ],
+    "909": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | TV | P1"
+    ],
+    "910": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | WATCH | P1"
+    ],
+    "911": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | BULB | P1"
+    ],
+    "912": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | BRACELET | P1"
+    ],
+    "913": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | BUTTON | P1"
+    ],
+    "914": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | GPS | P1"
+    ],
+    "915": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PANASONIC | THERMOSTAT | P1"
+    ],
+    "916": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | ROUTER | P1"
+    ],
+    "917": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | SWITCH | P1"
+    ],
+    "918": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | CAMERA | P1"
+    ],
+    "919": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | CONTROLLER | P1"
+    ],
+    "920": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | TV | P1"
+    ],
+    "921": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | BULB | P1"
+    ],
+    "922": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | BRACELET | P1"
+    ],
+    "923": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | BUTTON | P1"
+    ],
+    "924": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | GPS | P1"
+    ],
+    "925": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ASUS | THERMOSTAT | P1"
+    ],
+    "926": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "TOSHIBA | SWITCH | P1"
+    ],
+    "927": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "TOSHIBA | CAMERA | P1"
+    ],
+    "928": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "TOSHIBA | CONTROLLER | P1"
+    ],
+    "929": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "TOSHIBA | TV | P1"
+    ],
+    "930": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "TOSHIBA | BULB | P1"
+    ],
+    "931": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "TOSHIBA | BRACELET | P1"
+    ],
+    "932": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "TOSHIBA | GPS | P1"
+    ],
+    "933": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ARDUINO | SWITCH | P1"
+    ],
+    "934": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ARDUINO | CAMERA | P1"
+    ],
+    "935": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ARDUINO | CONTROLLER | P1"
+    ],
+    "936": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ARDUINO | TV | P1"
+    ],
+    "937": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ARDUINO | BULB | P1"
+    ],
+    "938": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ARDUINO | BRACELET | P1"
+    ],
+    "939": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "ARDUINO | GPS | P1"
+    ],
+    "940": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | ROUTER | P1"
+    ],
+    "941": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | SWITCH | P1"
+    ],
+    "942": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | CAMERA | P1"
+    ],
+    "943": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | CONTROLLER | P1"
+    ],
+    "944": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | TV | P1"
+    ],
+    "945": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | WATCH | P1"
+    ],
+    "946": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | BULB | P1"
+    ],
+    "947": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | BRACELET | P1"
+    ],
+    "948": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | BUTTON | P1"
+    ],
+    "949": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | GPS | P1"
+    ],
+    "950": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MATRIX | THERMOSTAT | P1"
+    ],
+    "951": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "HUAWEI | CAMERA | P1"
+    ],
+    "952": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "HUAWEI | TV | P1"
+    ],
+    "953": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "HUAWEI | BULB | P1"
+    ],
+    "954": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "HUAWEI | BRACELET | P1"
+    ],
+    "955": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | ROUTER | P1"
+    ],
+    "956": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | SWITCH | P1"
+    ],
+    "957": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | CAMERA | P1"
+    ],
+    "958": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | CONTROLLER | P1"
+    ],
+    "959": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | TV | P1"
+    ],
+    "960": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | WATCH | P1"
+    ],
+    "961": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | BULB | P1"
+    ],
+    "962": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | BRACELET | P1"
+    ],
+    "963": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | BUTTON | P1"
+    ],
+    "964": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | GPS | P1"
+    ],
+    "965": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | LOCK | P1"
+    ],
+    "966": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "MICROSOFT | THERMOSTAT | P1"
+    ],
+    "967": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "CREE | SWITCH | P1"
+    ],
+    "968": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "CREE | CAMERA | P1"
+    ],
+    "969": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "CREE | TV | P1"
+    ],
+    "970": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "CREE | BULB | P1"
+    ],
+    "971": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "CREE | BRACELET | P1"
+    ],
+    "972": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "CREE | GPS | P1"
+    ],
+    "973": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SHARP | CAMERA | P1"
+    ],
+    "974": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "SHARP | TV | P1"
+    ],
+    "975": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | ROUTER | P1"
+    ],
+    "976": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | SWITCH | P1"
+    ],
+    "977": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | CAMERA | P1"
+    ],
+    "978": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | CONTROLLER | P1"
+    ],
+    "979": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | TV | P1"
+    ],
+    "980": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | BULB | P1"
+    ],
+    "981": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | BRACELET | P1"
+    ],
+    "982": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | BUTTON | P1"
+    ],
+    "983": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | GPS | P1"
+    ],
+    "984": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "BROTHER | THERMOSTAT | P1"
+    ],
+    "985": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | ROUTER | P1"
+    ],
+    "986": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | SWITCH | P1"
+    ],
+    "987": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | CAMERA | P1"
+    ],
+    "988": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | CONTROLLER | P1"
+    ],
+    "989": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | TV | P1"
+    ],
+    "990": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | WATCH | P1"
+    ],
+    "991": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | BULB | P1"
+    ],
+    "992": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | BRACELET | P1"
+    ],
+    "993": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | BUTTON | P1"
+    ],
+    "994": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | COOKER | P1"
+    ],
+    "995": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | GPS | P1"
+    ],
+    "996": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | LOCK | P1"
+    ],
+    "997": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "FILAMENT | THERMOSTAT | P1"
+    ],
+    "998": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "GLASS | SWITCH | P1"
+    ],
+    "999": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "GLASS | CAMERA | P1"
+    ],
+    "1000": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "GLASS | CONTROLLER | P1"
+    ],
+    "1001": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "GLASS | TV | P1"
+    ],
+    "1002": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "GLASS | BULB | P1"
+    ],
+    "1003": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "GLASS | BRACELET | P1"
+    ],
+    "1004": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "GLASS | BUTTON | P1"
+    ],
+    "1005": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "GLASS | GPS | P1"
+    ],
+    "1006": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | ROUTER | P1"
+    ],
+    "1007": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | SWITCH | P1"
+    ],
+    "1008": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | CAMERA | P1"
+    ],
+    "1009": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | CONTROLLER | P1"
+    ],
+    "1010": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | TV | P1"
+    ],
+    "1011": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | WATCH | P1"
+    ],
+    "1012": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | BULB | P1"
+    ],
+    "1013": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | BRACELET | P1"
+    ],
+    "1014": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | BUTTON | P1"
+    ],
+    "1015": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | GPS | P1"
+    ],
+    "1016": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "PHILIPS | THERMOSTAT | P1"
+    ],
+    "1017": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "RUFF | SWITCH | P1"
+    ],
+    "1018": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "RUFF | CAMERA | P1"
+    ],
+    "1019": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "RUFF | TV | P1"
+    ],
+    "1020": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "RUFF | BULB | P1"
+    ],
+    "1021": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "RUFF | BRACELET | P1"
+    ],
+    "1022": [
+        " 10m mikrotik pu lt13 PU-LT13-10M",
+        "RUFF | GPS | P1"
+    ],
+    "1023": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "1024": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "1025": [
+        " mikrotik v6 v6.40",
+        "MIKROTIK | ROUTER | x2"
+    ],
+    "1026": [
+        " mikrotik v6 v6.40",
+        "SPLUNK | ROUTER"
+    ],
+    "1027": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | ROUTER | osc86"
+    ],
+    "1028": [
+        " mikrotik v6 v6.44",
+        "MIKROTIK | SWITCH"
+    ],
+    "1029": [
+        " mikrotik v6 v6.44",
+        "SPLUNK | ROUTER"
+    ],
+    "1030": [
+        " bcm963381 router BCM963381",
+        "BROADCOM | ROUTER | BCM963381"
+    ],
+    "1031": [
+        " bcm963381 router BCM963381",
+        "BROADCOM | CONTROLLER | e4"
+    ],
+    "1032": [
+        " bcm963381 router BCM963381",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "1033": [
+        " bftpd :: ffff",
+        "SAMSUNG | ROUTER"
+    ],
+    "1034": [
+        " bftpd :: ffff",
+        "HUAWEI | ROUTER"
+    ],
+    "1035": [
+        " bftpd :: ffff",
+        "SHARP | TV"
+    ],
+    "1036": [
+        " bftpd :: ffff",
+        "TECHNICOLOR | ROUTER"
+    ],
+    "1037": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "1038": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "1039": [
+        " mikrotik v6 v6.42",
+        "MIKROTIK | ROUTER | v1"
+    ],
+    "1040": [
+        " mikrotik v6 v6.42",
+        "EXACT | ROUTER"
+    ],
+    "1041": [
+        " mikrotik v6 v6.42",
+        "CISCO | SWITCH"
+    ],
+    "1042": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TechnologyFounded1996HeadquartersLatvia"
+    ],
+    "1043": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "1044": [
+        " mikrotik v6 v6.43",
+        "MIKROTIK | ROUTER | raymondr15"
+    ],
+    "1045": [
+        " mikrotik v6 v6.43",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "1046": [
+        " mikrotik v6 v6.43",
+        "WIA | ROUTER"
+    ],
+    "1047": [
+        " wl gpon ont wlctl",
+        "HUAWEI | ALARM | EDOC1000078313"
+    ],
+    "1048": [
+        " freebsd openssh_7 SSH-2.0 FreeBSD-20170903",
+        "SUPERMICRO | SWITCH | v3"
+    ],
+    "1049": [
+        " freebsd openssh_7 SSH-2.0 FreeBSD-20170903",
+        "AMD | PROCESSOR | N54L"
+    ],
+    "1050": [
+        " jesus kololo mikrotik",
+        "TEAM | LOCK"
+    ],
+    "1051": [
+        " jesus kololo mikrotik",
+        "STAR | TV"
+    ],
+    "1052": [
+        " jesus kololo mikrotik",
+        "SHARP | THERMOMETER"
+    ],
+    "1053": [
+        " jesus kololo mikrotik",
+        "MICROSOFT | LOCK"
+    ],
+    "1054": [
+        " jesus kololo mikrotik",
+        "VERIZON | TV"
+    ],
+    "1055": [
+        " jesus kololo mikrotik",
+        "NOKIA | LOCK"
+    ],
+    "1056": [
+        " jesus kololo mikrotik",
+        "ORACLE | LOCK"
+    ],
+    "1057": [
+        " jesus kololo mikrotik",
+        "NVIDIA | BUTTON"
+    ],
+    "1058": [
+        " jesus kololo mikrotik",
+        "CHIRP | TV"
+    ],
+    "1059": [
+        " jesus kololo mikrotik",
+        "KELVIN | CONTROLLER"
+    ],
+    "1060": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | ROUTER | sr102"
+    ],
+    "1061": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | CONTROLLER | BCM435F"
+    ],
+    "1062": [
+        " bcm963268 router BCM963268",
+        "BROADCOM | PROCESSOR | v0.1"
     ]
 }
