@@ -3082,3 +3082,12 @@ JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 601:
 1563738292496	Marionette	INFO	Listening on port 36041
 1563738292504	Marionette	WARN	TLS certificate errors will be ignored for this session
 1563738298576	Marionette	INFO	Stopped listening on port 36041
+1563795913933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nwaqiebgQ4AK"
+*** You are running in headless mode.
+1563795921073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563795921074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563795921074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563795921074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563795928187	Marionette	INFO	Listening on port 42873
+1563795928294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563795938604	Marionette	INFO	Stopped listening on port 42873

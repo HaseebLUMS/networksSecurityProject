@@ -202,7 +202,6 @@ def refine_query(q, mode):
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
 
-
 	res = ""
 	for kword in keywords:
 		

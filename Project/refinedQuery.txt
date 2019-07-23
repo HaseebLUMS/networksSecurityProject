@@ -1,1 +1,1 @@
- steven defries hawaan mikrotik
+ freebsd openssh_7 SSH-2.0
