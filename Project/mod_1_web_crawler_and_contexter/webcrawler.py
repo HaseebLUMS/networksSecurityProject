@@ -18,7 +18,6 @@ Dependecy: Requires Rake Library
 
 
 from bs4 import BeautifulSoup
-from googlesearch import search 
 import time
 from urllib.request import Request
 from urllib.request import urlopen

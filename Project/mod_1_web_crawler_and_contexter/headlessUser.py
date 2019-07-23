@@ -71,4 +71,4 @@ def perform_search(words):
     return urls
 
 
-# perform_search('ASUS RT-AC58U router')
+perform_search('ASUS RT-AC58U router')
