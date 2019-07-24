@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
-
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 ''' checks for url
     #The only problem here can be that 
@@ -29,6 +29,8 @@ no limit on searches
 
 def perform_search(words):
     print('Headless browser active.')
+    # cap = DesiredCapabilities().FIREFOX
+    # cap["marionette"] = False
     options = Options()
     options.headless = True
     browser = webdriver.Firefox(options=options, executable_path='./mod_1_web_crawler_and_contexter/geckodriver')
@@ -54,6 +56,8 @@ def perform_search(words):
                     continue
                 if 'google.com' in link:
                     continue
+                if 'webcache.googleusercontent' in link:
+                    continue
                 if not is_url(link):
                     continue
                 urls.append(link)
@@ -71,4 +75,3 @@ def perform_search(words):
     return urls
 
 
-perform_search('ASUS RT-AC58U router')

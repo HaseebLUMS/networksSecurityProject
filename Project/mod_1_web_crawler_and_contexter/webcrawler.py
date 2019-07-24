@@ -31,6 +31,7 @@ if not sys.warnoptions:
 from config import page_limit
 from headlessUser import perform_search
 import re
+import json
 
 
 
@@ -187,38 +188,67 @@ the html tags from the banner data
 '''
 def refine_query(q, mode):
 	d = enchant.Dict('en_US')
-	reg = re.compile('<.*?>')
-	q = re.sub(reg, '', q)
+	
+	if mode == 1: #Section 4.2, sub sec: Web Crawler, first para
+		pat_script = r"(?is)<script[^>]*>(.*?)</script>"
+		q = re.sub(pat_script, "", q)
+
+
+		pat_style = r"(?is)<style[^>]*>(.*?)</style>"
+		q = re.sub(pat_style, "", q)
+
+
+		pat_links = r'^https?:\/\/.*[\r\n]*'
+		q = re.sub(pat_links, "", q)
+
+
+		pat_links = r'^http?:\/\/.*[\r\n]*'
+		q = re.sub(pat_links, "", q)
+
+
+		reg = re.compile('<[^<]+?>')
+		q = re.sub(reg, '', q)
+		
+
 	if mode == 1:
 		q = q.replace('\\r', " ")
 		q = q.replace('\\n', " ")
 		q = q.replace("  ", " ")
 	
-	keywords = q.split(" ")
+
 	possibleProd = find_pattern(q)
-	
+	if mode == 2:
+		keywords = q.split(" ")
+		newQ = ""
+		for ele in keywords:
+			if ele not in possibleProd:
+				newQ += (ele + " ")
+		q = newQ
+
+
 	r = Rake()
 	r.extract_keywords_from_text(q)
 	keywords = r.get_ranked_phrases()
 
+	
 	res = ""
-	for kword in keywords:
-		
+	for kword in keywords:	
 		if kword is "": continue
-		
 		for k in kword.split(" "):
-
 			if k is "": continue
-			if (k is not "") and (d.check(k.lower()) == True) and (in_database(k.lower()) == False): continue
-			
+			try:
+				if (k is not "") and (d.check(k.lower()) == True) and (in_database(k.lower()) == False): continue
+			except:
+				pass
 			if mode == 1:
 				if k.isdigit() is True: continue
-			
 			res += (" " + k)
 	
-	for ele in possibleProd:
-		if ele not in res:
-			res += (" " + ele)
+
+	if mode == 2:
+		for ele in possibleProd:
+			if ele not in res:
+				res += (" " + ele)
 	return res
 
 
@@ -239,10 +269,20 @@ Main function:
 '''
 def main():
 	global query
+	qCopy = query
 	res = refine_query(query, 1)
 	res2= res.split(" ")
 	res2 = count_words(res2)
 	print('Query: ', res)
+
+	with open("queryMap.json", "r") as f: prevData = f.read()
+	prevData = json.loads(prevData)
+	newKey = len(prevData)
+	prevData[str(newKey)] = {"ori": qCopy, "ref:": res}
+	prevData = json.dumps(prevData, indent=4)
+	with open("queryMap.json", "w") as f: f.write(prevData)
+
+
 	with open('refinedQuery.txt', 'w') as file: file.write(res)
 
 	if res2 > 1:

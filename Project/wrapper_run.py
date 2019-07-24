@@ -1,14 +1,19 @@
 import json
 import os
 
-with open('banners.json') as b:
+
+processedTransactions = {}
+
+with open('httpBanners.json') as b:
     data = b.read()
     data = json.loads(data)
 
 banners = []
-for i in range(2200, 2700):
-    if (data[str(i)]['protocol'] == 'FTP') or (data[str(i)]['protocol'] == 'TELNET'):
-        banners.append(data[str(i)]['banner'])
+for i in range(20, 100):
+	try:
+	    banners.append(data[str(i)]['banner'])
+	except:
+		pass
 
 print((banners))
 
