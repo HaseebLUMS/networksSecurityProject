@@ -30,9 +30,9 @@ for ip in ips:
 				ans = l
 				break
 		mapping[ip] = ans
-	with open("mapping.json", 'w') as f:
-		mapping2 = json.dumps(mapping, indent=4)
-		f.write(mapping2)
+		with open("mapping.json", 'w') as f:
+			mapping2 = json.dumps(mapping, indent=4)
+			f.write(mapping2)
 	except:
 		pass
 
