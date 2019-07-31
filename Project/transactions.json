@@ -16870,5 +16870,381 @@
     "4218": [
         "mikrotik v6 v6.12 ",
         "MIKROTIK | ROUTER | v5"
+    ],
+    "4219": [
+        " bcm96318 router ==================================================== ====================================================",
+        "BROADCOM | ROUTER | BCM6338"
+    ],
+    "4220": [
+        " bcm96318 router ==================================================== ====================================================",
+        "BROADCOM | CONTROLLER | e4"
+    ],
+    "4221": [
+        " bcm96318 router ==================================================== ====================================================",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "4222": [
+        " bcm96318 router ==================================================== ====================================================",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4223": [
+        " bcm96318 router ==================================================== ====================================================",
+        "NETGEAR | ROUTER | v3"
+    ],
+    "4224": [
+        " bcm96318 router ==================================================== ====================================================",
+        "CISCO | ROUTER | M20"
+    ],
+    "4225": [
+        " bcm96318 router ==================================================== ====================================================",
+        "ASUS | ROUTER"
+    ],
+    "4226": [
+        " bcm96318 router ==================================================== ====================================================",
+        "VERIZON | ROUTER"
+    ],
+    "4227": [
+        " bcm96328 router",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4228": [
+        " bcm96328 router",
+        "BROADCOM | ROUTER | BCM96338"
+    ],
+    "4229": [
+        " bcm96328 router",
+        "BROADCOM | CONTROLLER | a8d8"
+    ],
+    "4230": [
+        " bcm96328 router",
+        "NETGEAR | ROUTER | ADSL2"
+    ],
+    "4231": [
+        " bcm96328 router",
+        "CISCO | ROUTER | M20"
+    ],
+    "4232": [
+        " bcm96328 router",
+        "ASUS | ROUTER | RT-AC68U"
+    ],
+    "4233": [
+        " bcm96328 router",
+        "CGI | BUTTON"
+    ],
+    "4234": [
+        " bcm96328 router",
+        "VERIZON | ROUTER | g1100"
+    ],
+    "4235": [
+        " bcm96328 router",
+        "EXACT | ROUTER"
+    ],
+    "4236": [
+        " bcm96328 router",
+        "BELKIN | ROUTER | F5"
+    ],
+    "4237": [
+        " router",
+        " router"
+    ],
+    "4238": [
+        " asus ac58u",
+        "ASUS | ROUTER | RT-AC58"
+    ],
+    "4239": [
+        " asus ac58u",
+        "NETGEAR | ROUTER | AC1200"
+    ],
+    "4240": [
+        " asus ac58u",
+        "INTEL | PROCESSOR | x4"
+    ],
+    "4241": [
+        " asus ac58u",
+        "VODAFONE | ROUTER | You0"
+    ],
+    "4242": [
+        " asus RT-AC58U.",
+        "ASUS | ROUTER | RT-AC58U"
+    ],
+    "4243": [
+        " asus RT-AC58U.",
+        "NETGEAR | ROUTER | X6"
+    ],
+    "4244": [
+        " asus RT-AC58U.",
+        "INTEL | PROCESSOR | x4"
+    ],
+    "4245": [
+        " asus RT-AC58U.",
+        "GLASS | THERMOSTAT"
+    ],
+    "4246": [
+        " asus RT-AC58U.",
+        "TEAM | THERMOSTAT"
+    ],
+    "4247": [
+        " router BCM96328",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4248": [
+        " router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "4249": [
+        " router BCM96328",
+        "NETGEAR | ROUTER | WGT624"
+    ],
+    "4250": [
+        " router BCM96328",
+        "BROADCOM | ROUTER | BCM96338"
+    ],
+    "4251": [
+        " router BCM96328",
+        "ASUS | ROUTER | RT-AC68U"
+    ],
+    "4252": [
+        " router BCM96328",
+        "VERIZON | ROUTER"
+    ],
+    "4253": [
+        " router BCM96328",
+        "CGI | BUTTON"
+    ],
+    "4254": [
+        " router BCM96328",
+        "BELKIN | ROUTER | F5"
+    ],
+    "4255": [
+        " router BCM96328",
+        "EXACT | ROUTER"
+    ],
+    "4256": [
+        " router BCM96328",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4257": [
+        " router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "4258": [
+        " router BCM96328",
+        "NETGEAR | ROUTER | WGT624"
+    ],
+    "4259": [
+        " router BCM96328",
+        "BROADCOM | ROUTER | BCM96338"
+    ],
+    "4260": [
+        " router BCM96328",
+        "ASUS | ROUTER | F5"
+    ],
+    "4261": [
+        " router BCM96328",
+        "VERIZON | ROUTER"
+    ],
+    "4262": [
+        " router BCM96328",
+        "CGI | BUTTON"
+    ],
+    "4263": [
+        " router BCM96328",
+        "BELKIN | ROUTER | F5"
+    ],
+    "4264": [
+        " router BCM96328",
+        "EXACT | ROUTER"
+    ],
+    "4265": [
+        " broadband router BCM96328",
+        "BROADBAND | ROUTER | BCM96328"
+    ],
+    "4266": [
+        " broadband router BCM96328",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4267": [
+        " broadband router BCM96328",
+        "NETGEAR | ROUTER | ADSL2"
+    ],
+    "4268": [
+        " broadband router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "4269": [
+        " broadband router BCM96328",
+        "ASUS | ROUTER | C1"
+    ],
+    "4270": [
+        " broadband router BCM96328",
+        "BROADCOM | ROUTER | BCM96328"
+    ],
+    "4271": [
+        " broadband router BCM96328",
+        "VERIZON | ROUTER"
+    ],
+    "4272": [
+        " broadband router BCM96328",
+        "CGI | BUTTON"
+    ],
+    "4273": [
+        " broadband router BCM96328",
+        "BELKIN | ROUTER | F5"
+    ],
+    "4274": [
+        " broadband router BCM96328",
+        "EXACT | ROUTER"
+    ],
+    "4275": [
+        " broadband router BCM96318",
+        "BROADCOM | ROUTER | BCM6338"
+    ],
+    "4276": [
+        " broadband router BCM96318",
+        "BROADCOM | CONTROLLER | e4"
+    ],
+    "4277": [
+        " broadband router BCM96318",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "4278": [
+        " broadband router BCM96318",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4279": [
+        " broadband router BCM96318",
+        "BROADBAND | ROUTER | BCM96318"
+    ],
+    "4280": [
+        " broadband router BCM96318",
+        "NETGEAR | ROUTER | WGT624"
+    ],
+    "4281": [
+        " broadband router BCM96318",
+        "CISCO | ROUTER | M20"
+    ],
+    "4282": [
+        " broadband router BCM96318",
+        "VERIZON | ROUTER"
+    ],
+    "4283": [
+        " broadband router BCM96318",
+        "ASUS | ROUTER"
+    ],
+    "4284": [
+        " broadband router BCM96318",
+        "BELKIN | ROUTER"
+    ],
+    "4285": [
+        " router BCM96318",
+        "BROADCOM | ROUTER | BCM6338"
+    ],
+    "4286": [
+        " router BCM96318",
+        "BROADCOM | CONTROLLER | e4"
+    ],
+    "4287": [
+        " router BCM96318",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "4288": [
+        " router BCM96318",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4289": [
+        " router BCM96318",
+        "NETGEAR | ROUTER | N300"
+    ],
+    "4290": [
+        " router BCM96318",
+        "CISCO | ROUTER | M20"
+    ],
+    "4291": [
+        " router BCM96318",
+        "VERIZON | ROUTER"
+    ],
+    "4292": [
+        " router BCM96318",
+        "MIKROTIK | ROUTER | rb750"
+    ],
+    "4293": [
+        " router BCM96328",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4294": [
+        " router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "4295": [
+        " router BCM96328",
+        "NETGEAR | ROUTER | WGT624"
+    ],
+    "4296": [
+        " router BCM96328",
+        "BROADCOM | ROUTER | BCM96338"
+    ],
+    "4297": [
+        " router BCM96328",
+        "ASUS | ROUTER | RT-AC68U"
+    ],
+    "4298": [
+        " router BCM96328",
+        "MIKROTIK | ROUTER | F5"
+    ],
+    "4299": [
+        " router BCM96328",
+        "VERIZON | ROUTER"
+    ],
+    "4300": [
+        " router BCM96328",
+        "CGI | BUTTON"
+    ],
+    "4301": [
+        " router BCM96328",
+        "BELKIN | ROUTER | F5"
+    ],
+    "4302": [
+        " router BCM96328",
+        "EXACT | ROUTER"
+    ],
+    "4303": [
+        " router BCM96328",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4304": [
+        " router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "4305": [
+        " router BCM96328",
+        "NETGEAR | ROUTER | WGT624"
+    ],
+    "4306": [
+        " router BCM96328",
+        "BROADCOM | ROUTER | BCM96338"
+    ],
+    "4307": [
+        " router BCM96328",
+        "ASUS | ROUTER | RT-AC5300"
+    ],
+    "4308": [
+        " router BCM96328",
+        "MIKROTIK | ROUTER | F5"
+    ],
+    "4309": [
+        " router BCM96328",
+        "VERIZON | ROUTER"
+    ],
+    "4310": [
+        " router BCM96328",
+        "CGI | BUTTON"
+    ],
+    "4311": [
+        " router BCM96328",
+        "BELKIN | ROUTER | F5"
+    ],
+    "4312": [
+        " router BCM96328",
+        "EXACT | ROUTER"
     ]
 }

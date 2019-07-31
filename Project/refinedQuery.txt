@@ -1,1 +1,1 @@
- burda praha tandberg codec sw f6
+ router BCM96328

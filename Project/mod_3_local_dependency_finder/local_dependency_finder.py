@@ -28,6 +28,7 @@ the text and makes a list
 def linefy_text(text): 
 	text = text.replace(".\n", ". ")
 	text = text.replace("\n", ". ")
+	# print(text.split(". "))
 	return text.split(". ")
 
 '''
@@ -77,6 +78,7 @@ def find_dependency(text, vendors, device_types):
 		if len(v) < 3: continue
 		for d in device_types:
 			count = count_related_lines(v, d, text)
+			# print("=> ", count)
 			if count: #v and d are already sorted so the first one with a depen
 						#dency is answer
 				ans_ven = v
@@ -107,8 +109,7 @@ def find_product(text, a, b, tags):
 		for line in text:
 			if ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()) in line.lower())):
 				count += 1
-			# elif ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()+'. ') in line.lower())):
-			# 	count += 1
+
 		if count > max_lines:
 			max_lines = count
 			ans_prod = t

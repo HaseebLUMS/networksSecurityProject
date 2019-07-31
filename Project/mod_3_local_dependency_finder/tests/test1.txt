@@ -1,11 +1,6 @@
-This is 473 characters file (excluding this line).
-We are ASUS and our product is a router. Its name is ASUS router RT-AC58U.
-We are samsung and our product is <empty>. Its name is samsung RT-AC58U.
-Once there was a thirsty crow. He died of his thirst. The End.
-This is another useless sentence which will be followed by MikroTik. 
-ASUS ROUTER RT-AC58U.
-ROUTER SWITCH STOP WATCH.
-Everything on sale. 
-RT-AC58U ROUTER ASUS.
-This will return A$u$ as vendor, r0uter as device 
-This test is for first class of local dependencies
+
+BCM96328 Broadband Router X_BROADCOM_COM_3G_MODEM Routers Listed Here
+RouterIPAddress.com Find Your Config!
+Index
+By Brand
+By Model

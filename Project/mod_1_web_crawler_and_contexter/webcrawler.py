@@ -217,12 +217,14 @@ def refine_query(q, mode):
 	
 
 	possibleProd = find_pattern(q)
-	if mode == 2:
-		keywords = q.split(" ")
-		newQ = ""
+
+	keywords = q.split(" ")
+	newQ = ""
+	if mode == 1:
 		for ele in keywords:
-			if ele not in possibleProd:
-				newQ += (ele + " ")
+			for ep in possibleProd:
+				if ep not in ele:
+					newQ += (ele + " ")
 		q = newQ
 
 
@@ -241,14 +243,15 @@ def refine_query(q, mode):
 			except:
 				pass
 			if mode == 1:
+				if (k.isalpha() is False) and (k.isalnum() is False): continue
 				if k.isdigit() is True: continue
 			res += (" " + k)
 	
 
-	if mode == 2:
-		for ele in possibleProd:
-			if ele not in res:
-				res += (" " + ele)
+	# if mode == 2:
+	for ele in possibleProd:
+		if ele not in res:
+			res += (" " + ele)
 	return res
 
 
