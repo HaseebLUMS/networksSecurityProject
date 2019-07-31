@@ -1,1 +1,1 @@
-Service Info: OS: Linux; Device: router; CPE: cpe:/o:mikrotik:routeros, cpe:/o:linux:linux_kernel
+Service Info: OSs: Linux, RouterOS; Device: router; CPE: cpe:/o:linux:linux_kernel, cpe:/o:mikrotik:routeros
