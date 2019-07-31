@@ -17246,5 +17246,57 @@
     "4312": [
         " router BCM96328",
         "EXACT | ROUTER"
+    ],
+    "4313": [
+        " router BCM963381",
+        "BROADCOM | ROUTER | BCM963381"
+    ],
+    "4314": [
+        " router BCM963381",
+        "BROADCOM | CONTROLLER | bcm63xx"
+    ],
+    "4315": [
+        " router BCM963381",
+        "BROADCOM | PROCESSOR | v0.1"
+    ],
+    "4316": [
+        " router BCM963381",
+        "ASUS | ROUTER"
+    ],
+    "4317": [
+        " router BCM963381",
+        "QUALCOMM | BUTTON | ttyS0"
+    ],
+    "4318": [
+        " router BCM96328",
+        "AIRTEL | ROUTER | ADSL2"
+    ],
+    "4319": [
+        " router BCM96328",
+        "BROADCOM | ROUTER | BCM96338"
+    ],
+    "4320": [
+        " router BCM96328",
+        "NETGEAR | ROUTER | WGT624"
+    ],
+    "4321": [
+        " router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "4322": [
+        " router BCM96328",
+        "CGI | BUTTON"
+    ],
+    "4323": [
+        " router BCM96328",
+        "EXACT | ROUTER"
+    ],
+    "4324": [
+        " router BCM96328",
+        "VERIZON | ROUTER"
+    ],
+    "4325": [
+        " router BCM96328",
+        "BELKIN | ROUTER | F5"
     ]
 }

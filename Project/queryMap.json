@@ -3610,5 +3610,13 @@
     "902": {
         "ori": "Broadband Router BCM96328\\r\\nLogin:",
         "ref:": " router BCM96328"
+    },
+    "903": {
+        "ori": "BCM963381 Broadband Router\\r\\nLogin:\n",
+        "ref:": " router BCM963381"
+    },
+    "904": {
+        "ori": "BCM96328 Broadband Router\\r\\nLogin:\n",
+        "ref:": " router BCM96328"
     }
 }

@@ -1,1 +1,1 @@
-Broadband Router BCM96328\r\nLogin:
+BCM96328 Broadband Router\r\nLogin:

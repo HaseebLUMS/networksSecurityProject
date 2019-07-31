@@ -27,14 +27,14 @@ async def scan(ip):
 
 
 if __name__ == "__main__":
-	with open('unique-ips.json') as f: data = f.read()
+	with open('new-unique-ips.json') as f: data = f.read()
 	data = json.loads(data)
 	ips = data['ips']
 
 	import time
 	s = time.perf_counter()
 	loop = asyncio.get_event_loop()
-	loop.run_until_complete(asyncio.gather(*[scan(ip) for ip in ips[1001:]]))
+	loop.run_until_complete(asyncio.gather(*[scan(ip) for ip in ips[0:250]]))
 	loop.close()
 	elapsed = time.perf_counter() - s
 	print(f"{__file__} executed in {elapsed:0.2f} seconds.")
