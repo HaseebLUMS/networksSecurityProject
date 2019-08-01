@@ -9,6 +9,9 @@ vendors = []
 with open('clean-truths.json') as f: data = f.read()
 data = json.loads(data)
 
+with open('ip-wise-ground-truths.json', 'w') as f: f.write('')
+ip_gt = {}
+
 def find_all(a_str, sub):
 	start = 0
 	while True:
@@ -36,19 +39,25 @@ def findToken(token, info):
 	return True, ans
 
 for ele in data:
+	ip_gt[ele] = {'devices':[], 'os': [], 'hw':[]}
+
+for ele in data:
 	info = data[ele]
 	p, dev = findToken('Device: ', info)
 	if p is True:
+		ip_gt[ele]['devices'] = dev 
 		for d in dev:
 			devices.append(d)
 
 	p, ven = findToken('cpe:/o:', info)
 	if p is True:
+		ip_gt[ele]['os'] = ven
 		for v in ven:
 			vendors.append(v)
 
 	p, ven = findToken('cpe:/h:', info)
 	if p is True:
+		ip_gt[ele]['hw'] = ven
 		for v in ven:
 			vendors.append(v)
 
@@ -76,3 +85,7 @@ with open('analysis-Devices.json', 'w') as f:
 with open('analysis-Vendors.json', 'w') as f:
 	vends = json.dumps(vends, indent=4)
 	f.write(vends)
+
+with open('ip-wise-ground-truths.json', 'w') as f: 
+	IP_GT =json.dumps(ip_gt, indent=4)
+	f.write(IP_GT)

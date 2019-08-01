@@ -34,7 +34,7 @@ if __name__ == "__main__":
 	import time
 	s = time.perf_counter()
 	loop = asyncio.get_event_loop()
-	loop.run_until_complete(asyncio.gather(*[scan(ip) for ip in ips[500:750]]))
+	loop.run_until_complete(asyncio.gather(*[scan(ip) for ip in ips[750:1001]]))
 	loop.close()
 	elapsed = time.perf_counter() - s
 	print(f"{__file__} executed in {elapsed:0.2f} seconds.")

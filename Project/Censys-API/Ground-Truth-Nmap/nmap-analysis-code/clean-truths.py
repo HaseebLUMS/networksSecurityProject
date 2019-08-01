@@ -2,7 +2,7 @@ import os
 import json
 import sys
 
-with open('files/nmap-data.json') as f: data = f.read()
+with open('nmap-data.json') as f: data = f.read()
 data = json.loads(data)
 
 newData = {}
