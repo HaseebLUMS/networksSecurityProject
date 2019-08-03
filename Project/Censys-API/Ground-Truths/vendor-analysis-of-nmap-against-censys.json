@@ -1,0 +1,74 @@
+{
+    "annotated by nmap out of 1000": 230,
+    "annotated by censys out of 1000": 357,
+    "True in nmap checked against censys": {
+        "total": 164,
+        "names": {
+            "mikrotik": 157,
+            "hp": 1,
+            "huawei": 1,
+            "apc": 3,
+            "zyxel": 2
+        }
+    },
+    "False in nmap checked against censys": {
+        "total": 1,
+        "names": {
+            "via": 1
+        }
+    },
+    "In nmap but unknown by censys": {
+        "total": 65,
+        "names": {
+            "nomadix:ag_5900": 3,
+            "zyxel:vmg3926-b10b | acme:micro_httpd": 2,
+            "technicolor:tg582n": 4,
+            "broadcom:bcm963268": 12,
+            "lanier:mp_301": 1,
+            "broadcom:bcm963381": 3,
+            "acme:micro_httpd": 7,
+            "broadcom:bcm96838": 2,
+            "dlink:dsl-2640b": 3,
+            "dlink:dcs-932l": 6,
+            "broadcom:bcm96328": 2,
+            "cisco:ios": 2,
+            "broadcom:bcm96368 | acme:micro_httpd": 2,
+            "windriver:vxworks": 5,
+            "hp:comware:5.20.106": 1,
+            "broadcom:bcm96328 | acme:micro_httpd": 3,
+            "adtran:aos": 1,
+            "broadcom:bcm96318": 1,
+            "broadcom:bcm96816": 1,
+            "broadcom:bcm96818": 1,
+            "tp-link:wr740n": 1,
+            "broadcom:bcm95357 | acme:micro_httpd": 1,
+            "freebsd:freebsd": 1
+        }
+    },
+    "In censys but unknown by nmap": {
+        "total": 192,
+        "names": {
+            "brother": 7,
+            "mikrotik": 126,
+            "apc": 4,
+            "qnap": 3,
+            "zyxel": 2,
+            "draytek": 9,
+            "synology": 6,
+            "hikvision": 9,
+            "wind river": 3,
+            "hp": 5,
+            "iptime": 1,
+            "cisco": 1,
+            "econet": 1,
+            "huawei": 4,
+            "lutron": 1,
+            "fullrate": 3,
+            "allegro software": 2,
+            "mcquay international": 1,
+            "multitech": 1,
+            "dedicated micros": 2,
+            "dell": 1
+        }
+    }
+}

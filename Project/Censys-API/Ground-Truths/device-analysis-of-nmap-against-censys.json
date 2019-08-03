@@ -1,0 +1,52 @@
+//Device Analysis has some issues as there might be different names for a device,
+//webcam and camera might be reported by nmap and censys respectively and this
+//analysis will label it as wrong
+{
+    "annotated by nmap out of 1000": 281,
+    "annotated by censys out of 1000": 343,
+    "True in nmap checked against censys": {
+        "total": 173,
+        "names": {
+            "router": 167,
+            "printer": 6
+        }
+    },
+    "False in nmap checked against censys": {
+        "total": 8,
+        "names": {
+            "nas": 3,
+            "printer": 1,
+            "power distribution unit": 2,
+            "camera": 1,
+            "ipmi": 1
+        }
+    },
+    "In nmap but unknown by censys": {
+        "total": 100,
+        "names": {
+            "wap": 7,
+            "webcam": 12,
+            "router": 55,
+            "switch": 9,
+            "media device": 5,
+            "firewall": 5,
+            "voip adapter": 2,
+            "power-misc": 3,
+            "power-device": 1,
+            "printer": 1
+        }
+    },
+    "In censys but unknown by nmap": {
+        "total": 162,
+        "names": {
+            "printer": 10,
+            "router": 128,
+            "power distribution unit": 4,
+            "nas": 5,
+            "dsl modem": 4,
+            "camera": 8,
+            "dsl/cable modem": 1,
+            "dvr": 2
+        }
+    }
+}
