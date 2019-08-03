@@ -25,14 +25,15 @@ import sys
 import enchant
 from rake_nltk import Rake
 if not sys.warnoptions:
-    import warnings
-    warnings.simplefilter("ignore")
+	import warnings
+	warnings.simplefilter("ignore")
 # sys.path.append('./../')
 from config import page_limit
 from headlessUser import perform_search
 import re
 import json
-
+import multiprocessing
+import time
 
 
 query = ""
@@ -85,19 +86,18 @@ Steps:
 	--Extracts keywords
 	--returns text (combination of keywords)
 '''
-def get_text(url):
-	print(".")
+def get_text(url, return_dict):
 	time.sleep(0.5)
 	req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}) #spoofed agent for avoiding scraping ban
 	html = urlopen(req).read()
 	soup = BeautifulSoup(html)
 	for script in soup(["script", "style"]):
-	    script.extract()
+		script.extract()
 	text = soup.get_text()
 	lines = (line.strip() for line in text.splitlines())
 	chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
 	text = '\n'.join(chunk for chunk in chunks if chunk)
-
+	return_dict['text'] = text
 	return text
 
 
@@ -121,7 +121,28 @@ def create_output():
 	for url in URLs:
 		try:
 			if page_limit > 0:
-				text = get_text(url)
+
+				#get_text often stucks due to library Request so I have timed it.
+				manager = multiprocessing.Manager()
+				return_dict = manager.dict()
+				return_dict['text'] = query
+				text = ''
+				p = multiprocessing.Process(target=get_text, args=(url, return_dict, ))
+				p.start()
+				ans = p.join(1)
+				turns = 1
+				while p.is_alive():
+					if turns >= 10:
+						print ("killing a web search")
+						p.terminate()
+						p.join()
+						text = query
+						break
+					time.sleep(1)
+					turns += 1
+					text = return_dict['text']
+
+
 				with open('raw.txt', 'a+') as f:
 					f.write("\n\n\n\n\n\n\n================= "+url + " ==================\n\n\n\n\n\n")
 					f.write(text)

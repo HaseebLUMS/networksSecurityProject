@@ -17298,5 +17298,37 @@
     "4325": [
         " router BCM96328",
         "BELKIN | ROUTER | F5"
+    ],
+    "4326": [
+        " router BCM96328",
+        "BROADCOM | ROUTER | BCM96338"
+    ],
+    "4327": [
+        " router BCM96328",
+        "CISCO | ROUTER | M20"
+    ],
+    "4328": [
+        " router BCM96328",
+        "NETGEAR | ROUTER | R7000"
+    ],
+    "4329": [
+        " router BCM96328",
+        "ASUS | ROUTER | RT-AC5300"
+    ],
+    "4330": [
+        " router BCM96328",
+        "VERIZON | ROUTER | mi424wr"
+    ],
+    "4331": [
+        " router BCM96328",
+        "CGI | BUTTON"
+    ],
+    "4332": [
+        " router BCM96328",
+        "EXACT | ROUTER"
+    ],
+    "4333": [
+        " router BCM96328",
+        "BELKIN | ROUTER | F5"
     ]
 }

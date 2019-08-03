@@ -596,31 +596,32 @@ Router Features
 BroadbandBusiness ClassEthernetFirewallModemStorageUSBVoIPVPNWEPWLANWPAWPA2WPS
 Search
 Latest Searches
-router with usb 3.0 2015
-router on a stick configuration packet tracer
-docsis 3.0 modem router walmart
-laptop wireless looses router
-netgear wireless modem router that works with at&t u-verse
-bead and cove router bit set
-nighthawk x4 smart wifi router
-time warner compatible modem routers n600
-wireless router settings for best performance
-router bit left burn marks
-clean router support
-router login time warner
-at&t wireless wifi router
-ceramic tile router bit
-netgear g54 wireless router smart wizard
-router os
-second router with no wan
-192 168.31.120
-linksys wifi routers list
-linksys router security setup
-router settings internet half speed
-packet tracer configuring a router on a stick
-1.92.168.1.2 password
-virtual wifi router for linux
-Paradyne (6211-A2-200)
+optimum router not working
+pc world 4g router
+router cisco 7200 series vxr
+sky sagem router setup
+pppoe client on cisco router
+router cisco version 12.4 15 t17 track command
+security router reddit
+Inova.6b4a60
+dado router bit home depot
+192.168.254.45_1
+diy 4 axis cnc router kit
+verizon mi424wr rev g router vs
+connected devices disappearing from router
+wistron router
+fios router website
+best router at best buy for gaming
+192.168.10.1
+admin wifi repeater
+3.0 router modem wifi telephony w battery
+how to configure ubee router
+netgear r6400 router keeps rebooting
+netgear router website
+xfinity router login password default
+how to connect to router 192.168
+edge router assign static ip
+Nortel Networks BayStack ANH (RMAE1001012)
 If you are missing a Router please add it here. Thanks.
 Home
 Blog
@@ -644,12 +645,12 @@ Copyright © 2019 RouterIPAddress.com. All rights reserved.
 
 HOW to HACK into Broadband ADSL Modem (Router) and get the BroadBand User ID and Password!! | Techno Chat|Tech Blog!!
 Techno Chat|Tech Blog!!Chat with style.. :PMenuSkip to contentHomeDownloadWho’s OnlineBlog StatsAbout MeContact Us
-Who's Online42 visitors online now3 guests, 39 bots, 0 membersMap of VisitorsBookmarksAmazon Web ServicesCloudSiksha BlogMicrosoft AzureVirtualBoxWindows 10 UpgradeHOW to HACK into Broadband ADSL Modem (Router) and get the BroadBand User ID and Password!! November 5, 2010 by Saugata55NOTE: Purpose of this article is to help people to protect their own ADSL Router, and how to made them more secure, to avoid such indecent in future. First connect to your broadband, and goto http://whatismyip.com to know your public IP Address.
+Who's Online58 visitors online now3 guests, 55 bots, 0 membersMap of VisitorsBookmarksAmazon Web ServicesCloudSiksha BlogMicrosoft AzureVirtualBoxWindows 10 UpgradeHOW to HACK into Broadband ADSL Modem (Router) and get the BroadBand User ID and Password!! November 5, 2010 by Saugata55NOTE: Purpose of this article is to help people to protect their own ADSL Router, and how to made them more secure, to avoid such indecent in future. First connect to your broadband, and goto http://whatismyip.com to know your public IP Address.
 Now you need Port Scanner software, here I used a free one from RadMIN. Open Port Scanner after install and type your IP Range like following figure and set port range from 80 to 81.Hit Scan button as soon as you finish above steps.
 After finish scanning you have to look for the alive IP Addresses those have port 80 opened like following figure.Here I have found IP Address with port 80 opened. No you have to open that IP Address from internet Explorer like following figure.If everything went fine, It will ask you for user id and password, and out of 10 ADSL Router, at least 6 having default password, coz no one bother to change that default password L .So, give it a try with following ID and Pass:ID : admin / Pass : admin (most common) ID : admin / Pass : admin123 ID : admin / Pass : admin321 ID : root / Pass : root ID : root / Pass : admin ID : admin / Pass : root ETC…Wow!! I have got the access… Now I can do whatever I want. But I don’t want to do anything. 🙂
 You can access any settings on the ADSL Router.Now you need an Asterisk Key recovery tool to get the broadband user ID and PasswordHere password recovered successfully in a second. 🙂
 NOW, the question is how you are going to protect your own ADSL Router? Simple!! You have to check few things, add some extra security to avoid such incident in future. CHECKLIST! After Installation of your modem, ask the engineer about your modem user id and password. 90% of ADSL Modem using http://192.168.1.1 for their own console, so logon to that console and change your modem console password immediately. If you are using your modem to connect internet for only one system, it’s recommended to configure modem as BRIDGE type, coz, here you have to dial from your own desktop, so, it’s not required to save your broadband user id and password in your modem. In some router, you can restrict console access, if it is supported by your router, and then enable it for Private Network only. Finally, if you are reading this topic, then after reading, tell your friends about this hole, and secure yourself as well as your friends. 🙂Disclaimer: All posts and opinions on this site are provided AS IS with no warranties. These are my own personal opinions and do not represent my employer’s view in any way. This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License. This entry was posted in Windows and tagged HACK ADSL Router, Hack BSNL BroadBand, Hack Bsnl Broadband Username And Password, Hack BSNL ID & Password, How to Configure ADSL Router, How to Hack an Ethernet ADSL Router, How to HACK BroadBand user id and password, How to Hack BSLN Account, how to hack bsnl broadband, How to hack BSNL Modem, How to Hack WiFi Password, How to Hack Your Broadband Connection, How to Secure ADSL Router, How to Secure BSNL Router. Bookmark the permalink.
-226,288 viewsPost navigation← Domain Tools v1.0 – For Delegating Users ID related CallsHow to configure Home Folder with extra security → 55 thoughts on “HOW to HACK into Broadband ADSL Modem (Router) and get the BroadBand User ID and Password!!”
+226,314 viewsPost navigation← Domain Tools v1.0 – For Delegating Users ID related CallsHow to configure Home Folder with extra security → 55 thoughts on “HOW to HACK into Broadband ADSL Modem (Router) and get the BroadBand User ID and Password!!”
 Falhlaaan says:
 January 4, 2012 at 4:43 pm	 i can see a port 80 opened but how do i open it from internet explorer? Nothing is happening when i double click the port…please help! Reply
 Saugata says:
@@ -760,7 +761,7 @@ December 21, 2018 at 7:02 am	 i find IPs that some port like 80,22,443,445,21 �
 are open but i cant connect to their modems and my isp blocked this way to find username and password 🙁 anyone know other ways to access adsl user pass ? or hack bandwidth ? ReplyLeave a Reply Cancel reply Connect with:
 Your email address will not be published. Required fields are marked *CommentName * Email * Website
 This site uses Akismet to reduce spam. Learn how your comment data is processed.
-Random QuoteMeet yourself! Commit suicide and type “hack”— Someone
+Random QuoteI want to die peacefully in my sleep like my grandfather. Not screaming in terror like his passengers.— Jim Harkins
 Search
 Recent Posts Create Private PPTP VPN for personal use in Linode Cloud Hosting. Powerful AWS Bot for automation using Telegram Bot API written in PowerShell Add new Admin Account to AWS Windows Instances to rescue the system How to use Telegram Bot as Event Notifier to send instant notification on your Smartphone using PowerShell How to use AWS PowerShell cmdlets with FilterCategoriesAdmin ToolsAWSAzureGroup PolicyOff-TopicOfficeOthersPowerShellScriptsServerTech ReviewUncategorizedWindowsWindows PhoneMETA>Register >Login Connect with:
 Proudly powered by WordPress
@@ -778,612 +779,7 @@ Theme: Sunspot by WordPress.com.
 
 
 
-Hacking Beetel 220x ADSL router (Broadcom BCM6338) - nixCraft
-Skip to content nixCraftLinux Tips, Hacks, Tutorials, And Ideas In Blog FormatAboutHowtos and tutorialsLinux Shell Scripting TutorialRSS/FEEDDONATIONSSearch MenunixCraftLinux Tips, Hacks, Tutorials, And Ideas In Blog Format Hacking Beetel 220x ADSL router (Broadcom BCM6338) last updated December 6, 2005 in Categories Howto, India, Linux, Linux Embedded devices, TipsThis router is based upon Broadcom BCM6338 chipset. This router is used by Airtel, BSNL and other ISPs in India.Adblock detected 😱My website is made possible by displaying online advertisements to my visitors. I get it! Ads are annoying but they help keep this website running. It is hard to keep the site running and producing new content when so many people block ads. Please consider donating money to the nixCraft via PayPal/Bitcoin, or become a supporter using Patreon.
-Hack # 1 : How to Login into RouterLogin over telnet. This is a common feature of all router these days and this the only way to hack into box: Default IP: 192.168.1.1 Default Username: admin Default Password: passwordI have changed IP of router to 192.168.1.254 so here is my first session:$ telnet 192.168.1.254Trying 192.168.1.254… Connected to 192.168.1.254. Escape character is ‘^]’. BCM96338 ADSL Router Login: admin password: ******** Once you are logged in you will see menu: Main Menu1. ADSL Link State 2. LAN 3. WAN 4. DNS Server 5. Route Setup 6. NAT 7. Firewall 8. Quality Of Service 9. Management 10. Passwords 11. Reset to Default 12. Save and Reboot 13. Exit ->Hack # 2: Get out of this stupid shell menu script/program Yup, it is stupid stuff and don’t waste your time hitting CTRL+C, CTRL+D keys, to get out of this script/program (break shell script), just type sh and hit enter key at arrow prompt -> -> shAnd you will be taken to shell BusyBox v1.00 (2005.09.20-19:57+0000) Built-in shell (msh) Enter ‘help’ for a list of built-in commands. #Hack # 3: But where is my ls command… Type ls or dir command,# lsls: not found# dirdir: not foundThey have removed the ls and dir command. But don’t worry you can use old echo command trick:# echo *bin dev etc lib linuxrc mnt proc sbin usr var websecho * is old trick which displays list of all files in current directory without using ls or dir command.Hack #4: Looking for advanced web based configuration, use main.html Yet another stupid thing, they have removed main.html from web based configuration. Basically main.html is use to configure advanced options of router like port forwarding, DNS setting, firewall etc.Just type http://192.168.1.254/main.html (replace 192.168.1.254 with your actual router IP address) to get all advanced options.Hack # 5: Get more information about router hardware and Linux Since this is tiny device most of the userland command such as free, uname etc are removed. However /proc file system provides all information:Display CPU Information# cat /proc/cpuinfoDisplay RAM Information# cat /proc/meminfoDisplay Linux versions# cat /proc/versionLinux version 2.6.8.1 (root@localhost.localdomain) (gcc version 3.4.2) #1 Tue Sep 20 15:52:07 EDT 2005Display list of running Processes:# ps Display list of all kernel module (drivers):# cat /proc/modulesHack # 6: Get more information about your network configuration Display list of network interfaces# ifconfigGet default routing information i.e. find out your ISP’s router:# routeDisplay Iptables rules# iptables -L -nHack 6 : Secure your router (A) Fire web browser such as firefox and login to web based interface. Type url http://192.168.1.1/ main.html (or 192.168.1.254/main.html)(B) Enable Firewall Click on Security > Ip filtering > Outgoing or Incoming > Click add(C) Change default admin password Click on Tools > Select Administrator and type the password. > Click apply(D) Save changes and reboot router Click on Management > Access Control > Password > Select Admin > Setup new passwordSave changes and reboot router.Quick reboot router with reboot command:# rebootSee also:Hacking the Dlink 502T routerShell Script to reboot DSL/ADSL routerShare on
-Facebook Twitter
-Posted by:
-Vivek Gite The author is the creator of nixCraft and a seasoned sysadmin, DevOps engineer, and a trainer for the Linux operating system/Unix shell scripting. Get the latest tutorials on SysAdmin, Linux/Unix and open source topics via RSS/XML feed or weekly email newsletter.Your support makes a big difference:I have a small favor to ask. More people are reading the nixCraft. Many of you block advertising which is your right, and advertising revenues are not sufficient to cover my operating costs. So you can see why I need to ask for your help. The nixCraft takes a lot of my time and hard work to produce. If everyone who reads nixCraft, who likes it, helps fund it, my future would be more secure. You can donate as little as $1 to support nixCraft:Become a Supporter Make a contribution via Paypal/Bitcoin
-214 comment makuchaku says:
-January 22, 2006 at 4:18 pm
-Wow!I have registered for an Airtel connection & this post looks amazing to me.🙂 makuchaku http://makuchaku.info LinuxTitli says:
-January 22, 2006 at 5:14 pm
-makuchaks 🙂Airtel rocks go for it 🙂 Anonymous says:
-March 27, 2006 at 9:24 pm
-Pleaselet me know how to find the latet firmare for 220 bx airtel (bbetel) modem .There r builin ‘user’ and ‘support’ which are preconfigured and I dont know the password and the support in airtel is helpless Pls help George.abap@gmail.com LinuxTitli says:
-March 27, 2006 at 11:45 pm
-1)Firmare for 220 bx : You can download it here2) Default Username: admin Default Password: passwordUse only above don’t use other username such as a user and support. Anonymous says:
-April 22, 2006 at 5:57 am
-does it increase the net speed? is there any way we can increase the net speed by coufiguring the router? nixcraft says:
-April 22, 2006 at 9:56 am
-Noop,However, you can increase user experience by configuring local proxy server (such as Squid) and local dns server.Airtelâ€™s DNS servers are overloaded sometime it take upto 2-3 seconds before you get result.Hope this helps Anonymous says:
-May 15, 2006 at 9:11 am
-I have UTstarcom 300R2U modem which uses the same Broadcom chipset. All the telnet menus are exactly the same. Can u tell me how to log on to the modem remotely ie from the internet. I cant do it even after entering the correct admin password. nixcraft says:
-May 15, 2006 at 11:17 am
-You need to enable WAN access to telnet service. Here are the steps:Login to router from local network: telnet router-ipa) You will get Main menu b) Type 9 to select Management c) Type 4 to Select Access Control d) Type 1 to Select Services e) Again Type 1 to configure f) Type 6 to select telnet g) Type 1 to Enable It should like as follows:LAN [1-enable,2-disable] (2) : 1 WAN [1-enable,2-disable] (2) : 1Exit and come back to main menu select 12 to save and reboot router. Now you can connect router from internet using Public IP assigned by your ISP. Anonymous says:
-May 16, 2006 at 10:58 am
-Thanks for ur reply but i have tried accessing the Html interface of the modem by enabling http service from WAN. When i type in my external modem ip from net i get a prompt asking for username and password of “dsl Router” but even after entering the correct admin password (which works from LAN) i cant access the GUI.I tried telnetting into it also by enabling telnet access from WAN services but that also doesnt work. I get an error “Could not open connection to the host, on port 23: Connect failed”I have searched a lot but even in main menu ie 192.168.1.1/main.html , i cant find any option to enable disable or change webserver port for remote access.There are three accounts in this broadcom router ie admin, support and user, maybe the support account needs to be used to gain access from external networkI would also like to add that my ISP doesnt block any ports, so the problem is with the router only. :::::H@CkING_GoD::::: says:
-June 29, 2006 at 2:59 am
-NO NEED TO TELNET GUYZ!!! u can easily do this thruogh IE(Internet Explorer)…just open the IP thru browser on port 80 which is the default port(http)…to make it clear..i’ll giv u guyz an example.. the situation is that u wanna get into my router so what u will hav to do is just get my ip and then open it thru browser like http://59.176.27.70…(My ip is 59.176.27.70 in this case)…..to make it EVEN MORE CLEAR…to hack sum1z router goto http://xxx.xxx.xxx.xxx (replace xxx with the victim’s ip)….and then type in the default username and password….most common user name and password is ‘admin’ eg. username:admin password:admin…THATS IT!!!DO U GUYZ KNOW U CAN EVEN GET THE USER NAME AND PASSWORD OF THE PPPoE/PPPoA connection…after getting into his router and find the password…most of the routers hide this password behind ‘*’..now to see whats behind it there are many tools called ‘unmask password’….There u go…And yes guyz u can increase ur net speed(u cant increase from router but u can increase it by 20% by configuring ur PC!!)..Its not that difficult..i will post it later if i see the need…CheersH@cKInG_GoD :::::the_chatting_god@msn.com::::: Anonymous says:
-June 30, 2006 at 9:22 am
-How to configure the router such that it makes a direct internet connection without dialing up? nixcraft says:
-July 3, 2006 at 2:52 am
-You canâ€™t most ISP need to dial in so that they can do authentication and other accounting on your account. Anonymous says:
-July 7, 2006 at 9:47 pm
-i have an airtel connection. zyxel usb modem with 10mbps speed. but my internet speed is 128kbps. how to increase my internet speed to 10mbps. you can contact me at buzz_cooldude@yahoo.com nixcraft says:
-July 8, 2006 at 1:21 am
-@buzz_cooldude, Short answer:, Noop, Long answer: Speed for ADSL/DSL is controlled by your ISP (in your case Airtel). To get higher speed you need to contact them. :::::H@CkING_GoD::::: says:
-July 16, 2006 at 7:57 pm
-AAAHHHHH.. CUM ON… 10 mbps is ur maximum speed thru USB router…lol.. Anonymous says:
-July 18, 2006 at 6:41 pm
-Can I make it redirect all WAN:http (port 80) requests to 192.168.1.2:80 (that’s my homepage on Linux/apache2)?If yes, how? nixcraft says:
-July 18, 2006 at 7:04 pm
-No you cannot. As port 80 used by Beetel router. Howver you can setup your Apache to listen on port 81 and redirect all traffic comming to WAN:http (port 81) requests to 192.168.1.2:81. With beetel you need to use port other than 80.If you are using Dlink router, it allows to change default router http management port 80 to 81 and then you can redirect WAN:80 to PC:80. But this is not avilable with Beetel. Anonymous says:
-August 21, 2006 at 12:36 pm
-hey – How to redirect all traffic comming to WAN:http (port 81) requests to 192.168.1.2:81. in the beetel modem nixcraft says:
-August 21, 2006 at 7:47 pm
-1) Goto http://192.168.1.1/main.html2) Click on Advanced Setup3) Click on NAT4) Click on Virtual Server5) Click on Add6) Set External Port Start and External Port End to 817) Set Internal Port Start and Internal Port End to 808) Set Server IP Address to 192.168.1.29) Save changes and save and reboot router Anonymous says:
-August 22, 2006 at 7:43 am
-Hey- I am trying to setup a webserver on my comp, with the BEETEL 220x,I am currently using the WAMP using the below steps. But whenever I am trying to acces it from outside, it is taking to the DSL Router home page. Please help. Click Start –> Run –> type “cmd” (without quotes) –> Hit Enter/Return.In the Command Prompt that opens up, type “ipconfig” (without quotes).Note down your internal/LAN IP address.2. Goto the Beetel Router config page, http://192.168.1.1/main.html3. Click Advanced Setup –> NAT –> Virtual Servers –> Click “Add”4. Under Server Name check “Select a Service” and from the Drop Down Menu select “Web Server (HTTP)”.In “Server IP Address” box enter the IP address you noted in Step 1.Click on Save/Apply. You will get a message “Since port 80 is used, the DSL router WEB server port will be moved to 8080”, click “OK”.This basically forwards all your HTTP traffic on port 80 of your WAN IP, received by your router, to your Internal/LAN IP and moves the Admin Page of the Router to port 8080.5. Verify your setup by going to Anonymouse and entering this URL http://125.22.35.159(WAN IP) If it opens your WAMP Index Page, Congratulations you’re done with configuring your Router.But it is still not working.. Anonymous says:
-August 23, 2006 at 4:08 pm
-i also tried to telnet from outside to external IP of ADSL but in vain. although i was getting login prompt. i tried admin & password but not able to go thru. if i try same un & pwd from LAN it worked. strange things need help to diagnose nixcraft says:
-August 23, 2006 at 11:39 pm
-Did you enabled WAN access to telnet? Is your port 81 open i.e. Apache or IIS is running ? gattu says:
-August 26, 2006 at 9:52 am
-what is AnnexM SID says:
-September 21, 2006 at 6:41 am
-hi, just came across ur blog when I was searching for a fix to my problEM. Maybe you or one of your readers can help.I have connected the Airtel modem to two computers-one using USB and one using ethernet. But the USB connection keeps conking off in certain durations of time(nothing fixed). And by this I dont mean it gets disconnected, it just stops recieving any bits. I have to then disable and re-enable the connection and it works fine again.Any idea what the problem is? Anonymous says:
-September 21, 2006 at 1:23 pm
-Try to upgrade modem/router driver or firmware. Otherwise replace device call Airtel and tell your problem. Anonymous says:
-October 5, 2006 at 5:43 pm
-get Sify Boradband Hacking Inside story only @ DigitalMafia’s Web portallogon to day! http://www.digitalmafia.in Anonymous says:
-October 9, 2006 at 6:08 pm
-I have connected two machines to the modem using USB and Ethernet.But I cann’t ping other machine from one machine.But I can browse internet from these machines. dhruv says:
-February 27, 2007 at 5:58 pm
-using airtel dsl connection can acees another pc if they r using 220bx modem in routing mode…plz mail me….or how can i hack another yahoo id wants to know something about it ram says:
-March 3, 2007 at 8:18 am
-I am using Airtel DSL connection with a Beetel 220BX adsl2+ modem. I have a Netgear WGT624 v3 Wireless router that I want to connect to this modem to wireless enable my home. I tried setting it up but could not get it to work. I believe there could be some issue as both the Beetel and Netgear are routers. Can I setup my Beetel as a bridge? anand says:
-March 6, 2007 at 10:04 am
-nice info vivek. thanks for the article Skullz says:
-March 6, 2007 at 8:40 pm
-hello bro can i connect the website by telnet and get admin nadems and password please sir i need. Joost says:
-March 10, 2007 at 3:28 pm
-Hi, I have the same problem of SID: I have connected the beetel 220BX modem to two computers, one using USB and one using ethernet. I configured the tcp/ip settings on the pc’s (ip and dns settings). But the USB connection keeps conking off in certain durations of time(nothing fixed). And by this I dont mean it gets disconnected, it just stops recieving any bits. I have to then disable and re-enable the connection and it works fine again.Does anybody have any clue?my firmware version was: 3.04L.01.A2pB021c.d16m and I “updated” this to: 3.00L.03.A2pB017l.d15hI also enabled DHCP server and set the pc’s to obtain ip and dns automatically riman says:
-March 15, 2007 at 5:21 am
-dear sir, i m using internet cable connection 80kbps.but i want increase speed uo to 128 kbps with out pay any cost.so it’s possible.but i dont no witch software install in my computer and increse my inter net speed rerply soon as well as possible riman_21@yahoo.com riman_vekariya@hotnail.com Faizal says:
-March 17, 2007 at 2:50 pm
-My query is regarding the IP Address. While downloading from sites like rapidshare.com it asks us to wait for 120mins or at times more than 180mins. Reason is stated as download from the same IP. I have an airtel broadband connection. Can I do something to change the IP address…. nixCraft says:
-March 19, 2007 at 3:26 pm
-Faizal,You can reboot router or force dhcp to assign a new IP or write a script for same lame_ass says:
-March 19, 2007 at 8:25 pm
-> i m using internet cable connection 80kbps. > but i want increase speed uo to 128 kbps > with out pay any cost Everyone wanna free cheese but don’t forget, if you see free cheese, this is definitely mousetrap.As for speed, usually, ADSL provider either limits ADSL physical speed from it’s side or uses traffic shaping on its side.This done from operator’s side and there is nothing you can do about it from your side.Your modem does not performs rate limiting at all.Of course in theory you can manage to get access to DSLAM or billing system and tweak your DSLAM port or traffic shaping setup, but you’re strongly advised not even to try to do so since operator surely knows who is phone’s line owner and will kick your ass quickly if you’ll manage to cause any malfunction to operator’s side hardware (this will cause dozen of unhappy customers and operator will really take some steps to kick your ass). Faizal says:
-March 20, 2007 at 3:44 am
-Thanks Mr.Nixcraft.Could you please explain in detail how to execute the first two options of rebooting the router and forcing dhcp. For the third option,that of writing script, I would pray the God in heaven to forgive you for giving me such a suggestion. I would consider it a help to mankind if you can write the script and explain me in detail how to execute same.Faizal… nixCraft says:
-March 20, 2007 at 10:39 am
-To reboot router use webinterface or just send power reset or use this linux shell script cracker says:
-March 22, 2007 at 6:23 pm
-i have a starcom UT-304R2 modem… how to crack it.. means to get free internet usage while my airtel broadbad connection is not billed…. please help….. prateek gupta says:
-March 31, 2007 at 10:37 am
-hi, i want to increase my dsl speed. i’m using airtel 699 plan and got 126 kpps spped …..plz help me rg says:
-April 19, 2007 at 5:56 am
-Put the beetel at the ISP termination , ie, the RJ11. Connect the netgear in dynamic ip address – the beetel will assign ip , dns etc etc by putting an ethernet patch cord ( RJ45 ) between the the two devices. Thats it. You will be up and running. # ram Says: March 3rd, 2007 at 8:18 amI am using Airtel DSL connection with a Beetel 220BX adsl2+ modem. I have a Netgear WGT624 v3 Wireless router that I want to connect to this modem to wireless enable my home. I tried setting it up but could not get it to work. I believe there could be some issue as both the Beetel and Netgear are routers. Can I setup my Beetel as a bridge? Kray says:
-April 19, 2007 at 6:38 pm
-This modem updates the DDNS server every few minutes and ddns.org treats that as a spam and blocks the IP. How can I make the modem update only when the IP changes – or only at startup? CK Bajpai says:
-April 20, 2007 at 10:52 am
-I have a serious problem of configuring my network products. We have LAN connected to D-Link switch, D-link wireless router and Beetel 220Bx Router/modem. I am using this was PC’s on LAN and laptops on wireless. As all of them have default 192.168.0.1 there is chaos by having IP clashes. I cannot open ANY by connecting to my Laptop. I have tried to have wireless router directly connected Laptop but still cannot access. Obviously looks that someone has changed defaults. I have reset Wireless router but cannot access. Can you help on how to break the jam? Thanks CK Bajpai Rajesh says:
-April 23, 2007 at 5:46 pm
-y this is call “HACKING” ????lol DUde says:
-April 25, 2007 at 7:04 pm
-Hi Geeks I tried to host a web server inside my lan and fixed it as a virtual server on NAT setup on my router configuration, I mapped the ports properly it didn’t work. Then i created an incoming firewall allow incoming connection exception on router for port 5001 (i use that port as a test and my IIS is running on 5001 as well). That didn’t work even. I created a windows firewall rule as well, but the requests are not reaching at all to my windows firewall. Any idea how can I verify where it is getting blocked ? vinay says:
-April 26, 2007 at 1:18 pm
-can i get any working 512 kbps connection id and password here ?????? vinay says:
-April 29, 2007 at 10:04 am
-the method u suggested,is capable of giving my own id and password or can i also get the password of any other airtel user????? nixCraft says:
-April 29, 2007 at 2:01 pm
-vinay,Why do you wanna see other users passwords or usernames? Most username and passwords are also tie up with Phone number, AFAK. It is also a security risk and Airtel may ban you forever. vinay says:
-May 1, 2007 at 5:51 am
-vivek,im having 64 kbps connection,i want id and password of any guy with 512 kbps with plan ofunlimited downloading.by this his speed will not decrease,and mine speed will get upto 512kbps.theres nothing wrong in it,i guess,is it ?????? Airtel user says:
-May 1, 2007 at 10:39 am
-this is called actual hacking and airtel can easilly detect this kind of working and will sue u. Rest is up to u,Would u like to end up in JAIL for just some internet connection. littledemon says:
-May 14, 2007 at 4:26 pm
-i want to know is there anyway to improve the downloads from p2p softwares like emule. Right now i cant download fast since my connection priority is very low.help on this would be greatly appreciated. romy says:
-May 21, 2007 at 12:03 pm
-hey i have user name and password of my friend given to me by him only so no cheating….but it does not work on my airtel connection(with a phone line)coz user name and password r linked to phone no….any way to still use his userid and password at my side.my connection airtel broadband with beetel 220bx adsl 2+ modem? ajnabi says:
-June 2, 2007 at 7:29 pm
-hi how are u thx for providing information reply says:
-June 6, 2007 at 5:41 pm
-you cant work anyone else’s username and password with beetel 200bx but you can surely do so with a beetel 100cx, i have been there and done that. even asked about this at the airtel helpline, however this was a loophole in their software tha they have already fixed and now username and password’s related to a perticular tel line works on that only. Clive says:
-June 17, 2007 at 2:40 pm
-Hi I have a BB connection using Beetel ADSL router. I can goto 192.168.1.1/main.html. I am using eMule & UTorrent which uses port 6580 & 34288 resp. How do I open these ports in adsl router so that these apps work? Pl help Thanks Maccie says:
-June 23, 2007 at 11:31 pm
-Is there a way to improve the connection & download speed. I have Airtel 256Kbps broadband with a Beetel 220BX modem… Need a constant and fast speed for download. Can anyone assist? Email me at machkris@gmail.com kunal says:
-June 30, 2007 at 12:16 pm
-I have queries Queries: Q1. I have Dynamic IP with No-ip DNS services and running WebServer at home on Port 80 Port Forwarding and Firewall allows redirects to port 80 as configured on my Webserver. Is it possible to use No-ip domain names to allow redirect to other folder on my computer? or have a another host assigned in the Server config, pointing to other server. What NAT settings for running another HOST/ HTTP server on the SAME IP but different port/pointing to different folder is required.Q2 I can telnet other computers on my ISP, is it possible somehow to hack through the modem 220bx using above steps and be able to access the contents of the Victims computer, leaving aside the settings of the ROUTER/MODEM as accessed here using the buil-In Unix/linux in it? This hack is for Router/Modem Software only not for the computer..is it so? how…can I do what I asked.Waitin, Kunal Delhi Apurva Mirajkar says:
-July 1, 2007 at 2:29 am
-Hey, this is great info. But has anyone seen an issue where the 220bx is not able authentic, when the dynamic DNS service is able. On the local subnet i have no issue, but if i assess the modem out for the web, it is not able to authentic. I have done a reset, but no go. Anyone has any idea on this one. I did not have this issue sometime back, but out of no where this has started. Karan says:
-July 3, 2007 at 10:27 am
-Hi Apurva Mirajkar !Are you talking about DynDNS client you installed or the build in DynDNS feature in 220bx for Dynamic IP.I havent tried it yet (220Bx DynDns Feature n other too)..but heard it works. Please add Virtual servers and port forwarding is done okayed..also ensure that windows Firewall allows you to run HTTP webserver at port 80, if you are doing so. Some settings inside Router 220bx may be changed. You can alternatively try to reset the Modem cum Router and RETRY – with original settings!Also check config at DynDNS.org if you have done some changes reset to defaults.Hope it Works…I’ll come back to check.PS :
-I found a link on 220BX nice tutorial here !!Karan (On No-Ip) vikas says:
-July 8, 2007 at 3:02 pm
-how to hack zte corporation model no:zxdsl 831 Apurva says:
-July 15, 2007 at 5:32 pm
-Thanx for your reply, Karan!Yup, I am talking about DynDNS. I have reset both dynDNS setting and the Modem. No luck.I know my settings are fine as, i can get to the authentication required window but my 220BX modem will not authenticate. If i did it from any of my computers inside my subnet (192.168.1.x and 192.168.0.x) no issues but from WWW, Nope it just does not.Something is tell me, i could be a victim of brute force attack and the Swap memory is flooded, very hypothetical reason. Until some one has a better reasoning to this, as it has worked before and this thing has started since few days.Any ideas? The next thing i would be trying is creating a bridge b/w the 220bx and my netgear wireless router. That way i would take 220bx out of the equation. DIneshkumar.G says:
-July 16, 2007 at 12:37 pm
-Can we install this BCM 6338 in Xp PC? DIneshkumar.G says:
-July 16, 2007 at 12:39 pm
-can we Install BCM 6338 in Xp PC? Karan says:
-July 16, 2007 at 1:19 pm
-Hi Friends,For APURVA :Not got any further ideas, as I have’nt come yet to use this DynDns feature in 220BX.Reason for non-functionality may be either: 1. Modem Settings have changed 2. May be Airtel banned usage 3. Port may be firewalled from Modem or Computer, or has not been port-forwarded well. 4. DynDNS service providers may not be supporting it any longer.I would recommend you to instead try out the DYNDns client and use it on a remote computer.You just need to know the IP of your computer from remote machine, that you can ensure by just having the DNS name/IP (static/dyn for time being) you got and pinging it from remote computer or may be try pinging from a mobile.Just keep your Servers RUnning …..!FOR the HacKeneTics :I AM LOOKING FOR INFORMATION ON HOW TO BAN A PARTICULAR IP to access my computer or disallow his pings/telnets/http etc. services/requests to be used from my IP. Any one got any IDEAS….does this can be done on 220bx to Ban an IP from pinging or establishing a TCP/UDP/NetBios or other connections.. May be it is there in Modem 220bx or Airtel subnet I am part of does not allow me to do this…..Any ONE for this …..reply back soon.LUV:KARANPS: zxdsl 831 may be same kinda menu options Vikas…..is it the ZYXEL one…yeah! .. it is somewhat similar…Ask the Author here ! Karan says:
-July 16, 2007 at 1:21 pm
-SOme one Reply to KUNAL too….Byee… Apurva says:
-July 16, 2007 at 2:37 pm
-Hey Karan!It is my 220bx causing the issue. Now with my Netgear router facing the web, i am able to access without any issues. There was one other person, report the same problem with 220BX, check Anonymous Says: August 22nd, 2006 at 7:43 am.Looks to be known issue with 220BX. I spoke to Airtel they have not seen this issue (expected that from them). Parul says:
-July 17, 2007 at 4:47 pm
-What are these IP’s on Airtel? anyone got ideas…I always see them connecting me…am I hacked. (see em on netstat -o commd) 125.23.216.201 125.23.216.202 125.23.216.203 125.23.216.204 125.23.216.205 125.23.216.206 125.23.216.207 125.23.216.208 125.23.216.209I have atl bb. Any one for genuine helpppppp !!!! nixCraft says:
-July 17, 2007 at 5:07 pm
-It may be your own IP address; you should always use firewall to protect yourself. It may be also possible that you are using bittorent and you will see IPs near by computers while sharing files. manpreet singh says:
-July 18, 2007 at 11:11 pm
-i have beetel 220bx+modem and bsnl broadband connection How to hack it. maddoctor says:
-July 21, 2007 at 5:54 am
-I’m having this firmware: [quote]Board ID: 96338L-2M-8M Software Version: 3.02L.09.A2pB019b8.d16m Bootloader (CFE) Version: 1.0.37-0.8[/quote] Is any chance to find a more updated firmware from somewhere? The link you were giving above, doen’t work.Thank you very much Karan says:
-July 24, 2007 at 3:32 pm
-Mad Doc Mine is :
-Board ID: 96338L-2M-8M Software Version ID: V8.8.01.01 Firmware Version: 3.04L.01.A2pB021c.d16m Bootloader (CFE) Version: 1.0.37-4.3 Download firmware or other upgrade for your Airtel at : Airtel Broadband.in Download center : Home at speed.airtelbroadband.in– Karan ashish says:
-July 24, 2007 at 4:00 pm
-hi i am trying to get my friend computer using telnet or http://ftp.but i don`t know what host name or ip address should give with these command.i have airtel broadband and he has bsnl broadband. and one another thing telnet 192.168.1.1 takes me to my router configuration and i want to access my computer data .how it is possible. telnet localhost does my thing but how to use for remote computer of my friend. “telnet my friendip/hostname” i want to run this what should i do? i have googling too much but not satisfactory answer. w KARAN says:
-August 2, 2007 at 7:33 am
-Hi Ashish!Firstly you have to enable FTP or Telnet Service and ports (also portforward these services) in the 220bx modem cum router.This also has to be configured internally in the Windows Firewall or Firewall you have installed to allow the services on FTP / Telnet Port to run..21/23 portsNow the basic thing you need to do is you have to run either a Telnet or FTP server to have access to the files from other computer. Why don’t you try BPFTP (bullet proof ftp server) there are others free too.For FTP :On Remote computer you wish to access : You should have FTP server running and not blocking you with proper modem / firewall/ port forward settings. And allowing the access for other computer.On Computer (Client) : You could have a FTP client and enter ftp:// you could try out ftp:// in Internet Explorer as well.That’s it Problem solved. Is’nt it? Now do some research or read something, if you dont get all this.You are welcome!I am regular visitor here and look for new hacks. may be vivek would provide.Bye KARAN KARAN says:
-August 2, 2007 at 7:36 am
-I AM LOOKING FOR INFORMATION ON HOW TO BAN A PARTICULAR IP to access my computer or disallow his pings/telnets/http etc. services/requests to be used from my IP. Any one got any IDEASâ€¦.does this can be done on 220bx to Ban an IP from pinging or establishing a TCP/UDP/NetBios or other connections.. May be it is there in Modem 220bx or Airtel subnet I am part of does not allow me to do thisâ€¦..Any ONE for this â€¦..reply back soon.Karan ashish says:
-August 3, 2007 at 3:27 am
-thankx karan i start my telnet service in xp by using(services windows) then i set my zone alarm firewall as follows porgram control->telnet settings are: smart defence : custom trust level : trusted Access ->trusted : ok Access ->internet : ok Server ->trusted : ok server ->internet:okthen i open 192.168.1.1/main.html Nat->virtual server->add select a service -telnet server ip address:192.168.1.2 (my internal pc ip) external port start and End : 23 protocol :TCP internal port start and end :23then i click on save/reboot a message box told me” since port 23 is used the DSL router telnet server will be moved to port 2323″ i click OK and then save/rebootit rebooted and when i type”telnet 122.168.xx.xx(my wan ip) 23″ in command windows.it login to my modem 🙁 then i tried “telnet 122.168.xx.xx 2323″ message was” could not open connection to host on port 23: connect failed.am i missing something else? 🙁 Karan says:
-August 8, 2007 at 6:36 am
-Try Disabling Zone Alarm Completely instead.What are the settings on the other computer…i.e. the Friends computer you are trying to connect…does it have FTP server or TELNET running on the Modem.FOR FTP: You should Run FTP server on Friends computer with security settings adjusted to allow all access or access to your IP.On your computer being client you should have FTP client software or iexplore ftp://&gt; SECURITY may be.I some time ago…FTPied..Successfully to myself from OUTSIDE and RUN HTTP server on my computer as well.You could TELNET the others or friends MODEm, but I don’t know how you go about accessing others computer when its behind a TELNET on MODEM as well as TELNET server on COMPUTEr. ASK SOMEONE ..about this say VIVEK.That’s what info I got..buddy!Bye KARAN Shaun says:
-August 10, 2007 at 8:40 am
-I would like to know…if it’s possible to change the MAC Address (PHYSICAL ADDRESS) of my 220BX Router.I did it in Windows XP (may be SOFTWARE MAC) but what about the HARDWARE MAC ADDRESS of 220BX which remains the same and is shown to the world.I want to change the one listed onhttp://192.168.1.1/main.html >> pageI preassume that…the MAC Address is the only thing…someone could trace you any time…which if in hardware…remains the same throughtout…and can be used to track a particular person.Can Vivek answer this to me?Thanks in Advance!Shaun Delhi Airtel Shaun says:
-August 10, 2007 at 8:45 am
-To Parul :Those IP you have given appear to be of Yahoo! i.e. when visiting yahoo or yahoo pages you get those connections…also may be with Y! messenger too..Those are India IP’s provided by Airtel.Shaun Shaun says:
-August 10, 2007 at 8:48 am
-To Parul:May be appear to me associated with GOOGLE Ads too…See this page and chekc your ports…its connected to some of the IP’s as shown by you. rohit says:
-August 11, 2007 at 4:20 am
-Pleaselet me know how to find the latet firmare for 220 bx airtel (bbetel) modem .There r builin â€˜userâ€™ and â€™supportâ€™ which are preconfigured and I dont know the password and the support in airtel is helpless Pls helpsharmarohit4004@gmail.com Karan says:
-August 12, 2007 at 9:01 am
-ROHIT :FIRMWARE UPDATES FOR AIRTEL 220BX Broadcomm Modem are here:CLICK HERECheck your version at 192.168.1.1/main.html Page
-Use generic admin – password and user – password combinations. I too was not able to change … SUPPORT PASSWORD SOME TIME BACK I have changed both admin / user but support password may not be changed set by AIRTEL MAY BE.Karan
-nurturer says:
-August 22, 2007 at 5:09 pm
-check your airtel broadband speed here http://203.145.184.14/meter.php Karan says:
-August 29, 2007 at 8:52 am
-Hi!Anyone Got ideas on these two:1. Banning an IP to access your computer on Airtel Broadband 220BX.2. Change the MAC(physical) Address of Beetel 220BX (Both Software and Hardware MAC Address).3. What are the ways the ISP Airtel BB can log you or peep into your Surfing habits or track you somehow.4. Microsoft Telnet> telnet 122.xxx.xxx.xxx 21 (ftp), here what commands are what do I use to logon to the already running FTP Server on Modem 220BX. As it says:220 Ftp firmware update utility 500 Unknown command: “” SYST/SYSTAT 215 UNIX Type: L8Help! ASAPKARAN Delhi, IndiaPS: What if some telnets to FTP port of a AIRTEL BB MODEM, what commands are supported there. nixCraft says:
-August 29, 2007 at 9:02 am
-Karan,Disable WAN access and nobody will be able to login using telnet / ftp using public IP. You can login using telnet / ftp etc from private IP. Karan says:
-September 1, 2007 at 11:05 am
-Thanks Vivek !I have already done this..in 192.168.1.1/main.html > Mgmt > Access Control > Services:
-Services LAN WAN FTP Disabled Disabled HTTP Enable Enable (RUNNIT HTTP SERVER) ICMP Disabled Disabled SNMP Disabled Disabled TELNET Disabled Disabled TFTP Disabled Disabled But sometimes when browsing the Internet I see some strange IP address and that belong to Airtel, is Airtel Peeping or taking a snapshot of my computer.THE IP’s Being : WHOIS 125.23.216.203 125.23.216.209 125.23.216.202 125.23.216.200 125.23.216.208 125.23.216.201Does any one on Airtel BB see these IP, untimed or random connections in ActivePort(port Connects Scanner) or Netstat.Please help.Regards, Karan nixCraft says:
-September 1, 2007 at 11:49 am
-If you are running peer to peer apps such as Bittorent, Napster, OpenNAP and IRC server Gnutella or Freenet or others you will see connections from other computer IP including Other Airtel users IP. Karan says:
-September 2, 2007 at 10:54 pm
-Thanks Vivek!But I am not running any P2P Clients on my computer or other same kinda.I have no shifted to OpenDNS and have’nt seen those IP’s yet. May be on Airtel DNS these IP appear somehow.Any further Clues on this?… DUDEKaran soroccoheaven says:
-September 18, 2007 at 4:38 pm
-hi karan can you pls post password for user and support accounts for beetel 220 bx . waiting. thanks soroccoheaven says:
-September 18, 2007 at 4:56 pm
-hi pls find the Beetel’s latest firmware from :
-soroccoheaven says:
-September 18, 2007 at 4:59 pm
-http://beetelmodems.com/220bx.html hyo says:
-September 22, 2007 at 4:29 pm
-Hi all!I have a question. There are 4 computers connect to internet via BCM96338 ADSL Router. And I want one computer having higher priority and bandwith than others. Login over telnet: [B]$ telnet 192.168.1.254[/B] I saw the [B]brctl [/B]command with an argument [B]”setportprio set port priority”[/B]. And I tried:[B]$ brctl setportprio br0 eth0.3 0 $ brctl setportprio br0 eth0.2 255 $ brctl setportprio br0 eth0.4 255 $ brctl setportprio br0 eth0.5 255 $ brctl stp br0 1 $ brctl showstp br0[/B] br0 bridge id 8000.0073070d9571 designated root 8000.0073070d9571 root port 0 path cost 0 max age 20.00 bridge max age 40.00 hello time 2.00 bridge hello time 4.00 forward delay 0.00 bridge forward delay 0.00 ageing time 300.00 hello timer 0.52 tcn timer 0.00 topology change timer 0.00 gc timer 212.52 flagseth0.2 (1) port id 8001 state forwarding designated root 8000.0073070d9571 path cost 255 designated bridge 8000.0073070d9571 message age timer 0.00 designated port 8001 forward delay timer 0.00 designated cost 0 hold timer 0.00 flagsnas_0_33 (2) port id 8002 state forwarding designated root 8000.0073070d9571 path cost 100 designated bridge 8000.0073070d9571 message age timer 0.00 designated port 8002 forward delay timer 0.00 designated cost 0 hold timer 0.00 flagsnas_8_35 (3) port id 8003 state forwarding designated root 8000.0073070d9571 path cost 100 designated bridge 8000.0073070d9571 message age timer 0.00 designated port 8003 forward delay timer 0.00 designated cost 0 hold timer 0.00 flagseth0.4 (4) port id 8004 state forwarding designated root 8000.0073070d9571 path cost 255 designated bridge 8000.0073070d9571 message age timer 0.00 designated port 8004 forward delay timer 0.00 designated cost 0 hold timer 0.00 flagseth0.5 (5) port id 8005 state forwarding designated root 8000.0073070d9571 path cost 255 designated bridge 8000.0073070d9571 message age timer 0.00 designated port 8005 forward delay timer 0.00 designated cost 0 hold timer 0.00 flagseth0.3 (6) port id 8006 state forwarding designated root 8000.0073070d9571 path cost 0 designated bridge 8000.0073070d9571 message age timer 0.00 designated port
-8006 forward delay timer 0.00 designated cost 0 hold timer 0.00 flagsBut the computer connect through eth0.3 still surf the web slowly when others download with hight banwidth. Can you explain “brctl setportprio” command? And are there any solutions for my problem? soroccoheaven says:
-September 23, 2007 at 8:28 am
-hi hyo..it can be the perticular pc try changingin the connection position see the result i myself never tried this.but what i think as of now theses port has been allocated dynamically..first come first serve basis..so what is the use of it..you can not bind any machine or even IP to perticular port..can you ? Karan says:
-September 26, 2007 at 8:40 pm
-Hi Admin Vivek!I posted a reply to Sorocco and other info, but could not post…the Post process failed.May be the the data in your Log? Please repost it correctly…THANKS KARAN nixCraft says:
-September 27, 2007 at 6:28 pm
-Noop it is not in log or spam folder.. can you repost the information? sorrocoheaven says:
-September 29, 2007 at 5:07 pm
-hi karan will you pls post/mail it again .. Thanks soroccoheaven says:
-September 29, 2007 at 5:08 pm
-hello karan will you pls/mail post it again.. Thanks soroccoheaven says:
-September 29, 2007 at 6:27 pm
-@Vivek ..are you using post action mail for this form ?.. nixCraft says:
-September 30, 2007 at 3:06 am
-@soroccoheaven,Standard wordpress form, I guess it is post method. Wolverine says:
-September 30, 2007 at 6:02 pm
-Hi guys! I need help regarding ip & mac filtering ?Basically i want only specific ip and mac address allowed use internet.One more question.. can i use above firmware posted by karan on utstarcom ut300-R2(no usb)?thanks in Advance 😉 Karan says:
-October 9, 2007 at 2:54 am
-Hi Sorocco!admin – password user – pass user – password user-beetel admin-beetel administrator – passwordTry all kind of combinations, I was able to change it sometime back and now myself dont remember, what it is set to now…But probably wont tryAlthough Support password wont be easy…As I was unable to open it.Find a List here for Modem/Routers:LIST OF DEFAULT PASSWORDSProbably POST method post wont go beyond 255 char so it is not stored as GET, is there actually a way to detect a POST post to a webserver Vivek?, in the Web Server or Log somewhere…probably would be good hack…as it would help find out unsuccessful comments/posts here.– KaranI posted this too…. Tracking someone via their IP address is possible. If a person has committed a crime online, typically the authorities send a subpoena to the ISP that person subscribes to (determined by seeing what ISP the address is assigned to). The ISP then can check their logs (they are required by law to keep logs for a certain amount of time) to see what customer they gave that IP address to at the time of the alleged crime. This works by checking the logged username of the person (if logged in via dialup or PPPoE) or the MAC address (a unique address assigned to a piece of network hardware when it is manufactured) of the machine connected (if via DSL or other broadband connection). Either the username or MAC address are tied to a customer. soroccoheaven says:
-October 10, 2007 at 6:09 pm
-Thanks karan …these password need to be changed for security reasons.. soroccoheaven says:
-October 10, 2007 at 6:17 pm
-karan sorry to say ..none worked …Thanks soroccoheaven says:
-October 10, 2007 at 6:28 pm
-beetel 220bx owner’s pls change your default passwprds for admin,user, support accounts. because:1.Access to your DSL router is controlled through three user accounts: admin, support, and user.2.The user name “admin” has unrestricted access to change and view configuration of your DSL Router.3.The user name “support” is used to allow an ISP technician to access your DSL Router for maintenance and to run diagnostics.4.The user name “user” can access the DSL Router, view configuration settings and statistics, as well as, update the router’s software. Karan says:
-October 24, 2007 at 1:29 pm
-For Modem/Routers with New Version of Firmware..which shows Busy Box Unix Default PromptPassword can be changed:(I successfully changed a password for Support on other IP):Using the passwd {username} {newpassword} while at the command prompt in busy box. eg: passwd support {newpassword} passwd admin {newpassword}
-NOTE: You can also try these commands to run at older version of the 220bx firmwares. Just check at initial telnet screen with passwd or help command. Karan says:
-October 24, 2007 at 1:45 pm
-I WOULD ALSO RECOMMEND SOROCCOHEAVEN TO RETRY PASSWORD COMBINATIONS … FIRST RESETTING THE ROUTER 220BX to Default Configuration. RESET THE hARDWARE. rdb says:
-October 28, 2007 at 7:17 pm
-i want to increase my dsl speed. iâ€™m using airtel 699 plan and got 126 kpps spped â€¦..plz help me Ricardo Verdi says:
-October 31, 2007 at 6:51 pm
-I have d-link DSL G624T & it’s somehow blocking access to port 8004. I’m not sure what this means, except i can’t renew library books on-line because of it. Previous router (Zyxel, not wireless) works fine. Ive tried looking at the settings in http://192.168.1.1/cgi-bin/webcm but i can’t understand how to open port 8004, to allow it for the trinity college library website (opac.lib.tcd.ie) I already did this for windows firewall (XP) but apparently it’s the router settings that need to be changed. I googled & found this site where there seem to be some helpful people – any suggestions please? Uday says:
-November 8, 2007 at 9:58 pm
-HI, Its really great topic and valuable comments, replies. Any one you pls help me to setup webserver using beetel 220 bx adsl modem. I am using dnspark for dynamic dns. Its working fine for me. But i am not able to redirect the wan requests to my local IIS sites. when i open http://www.mydomain.com, Its redirecting to modem admin page. Any possible ways to use port 80 to redirect my requests. I tried with some other ports also, its not working for me 🙁 steeL says:
-November 10, 2007 at 5:42 am
-is there any way that I can add a External DNS from Advanced TCP/IP settings ?I get very high Ping on gaming serevrs, even if a server is only abt 20km away I get 100ms PING.Between i was thinking if u have scanned AirTel with ‘nikto’ ? .. LOL Rohit says:
-November 10, 2007 at 8:38 pm
-how to hack beetel 220bxi adsl2 modem in windows xp sp2…I have 128kbps broadband connection(AIRTEL)..I want to increase the speed…What I supposed to do.. SOMEBODY HELP… Karan says:
-November 16, 2007 at 7:17 am
-Hi People!@rdb / Rohit
-@Rohit it is similar as in for XP/ try 192.168.1.1/main.htmlMore… It’s not actually possible to increase the speed as per done by Airtel at backend…however you can finetune your connection/port-forward for particular Internet application. I did’nt do anythin on my Airtel BB, its working as same. May be if you have less of RAM (..increase it. )/more programs running in background(esp. internet prog/AV/FW etc.), it would hamper your surfing speeds.@Ricardo Verdi First portforward using your Modem Guide or search for router/modem manual or settings webpage on Internet. If Windows or Installed Firewall is enabled do check for not blocking your 8004 port. Use some app like ActivePorts (aports.exe) to check for ports being used on your computer. Also, chk with ISP if it is blocking that port…there are many ways to do it.If your Router/Modem allows telnet, chk it to port-forward, through that mode.@Steel What is nikto?Yes, you can change the default DNS settings as per Airtel, to some other DNS server settings or your Own. But it would also have to go thru Airtel/your ISPs server that’s why the ping remains high. If you connecting using LAN or your own N/w it would decrease considerably..bypassing the Internet 😉@Uday Its simple man ! Enable HTTP port 80 in Win ICF or XP2 firewall n also installed firewall. Port forward port 80 in modem page as per this guide.Follow this guide, as I found:*HOW TO: Set up a Webserver at HOME*Very ValuableBye,
-Karan
-nixclusive says:
-November 29, 2007 at 5:20 am
-There are people who want to host a website on port 80 on their computer and their are mostly negative responses to that (..sigh). What you’ll need to do is called port-forwarding on your router. This is how: 1. log in the router via the telnet interface and go through the menu Management>Access Control>Services>Configure>http>disable on wan; now enter ‘sh’ to get the command shell. 2. enter these commands to expose one of you _computers_ ports outside. (port forwarding) # iptables -t nat -A PREROUTING -p tcp -i ppp_1_32_1 –destination –destination-port 80 -j DNAT –to-destination :80 # iptables -I FORWARD -p tcp -m state –state NEW -d –destination-port 80 -j ACCEPT* the parameter ppp_1_32_1 is the service name you entered in the web interface while configuring your internet address. Alternatively you can figure this name out by entering “ifconfig” in the command shell and look for the interface that holds your external-ip-address. * can be determined from sites like whatismyip.com if by entering ifconfig ppp_1_32_1 (note above) in the command shell. * is the one assigned to your computer. look for “client-ip-address” in your computers settings. nixclusive says:
-November 29, 2007 at 7:25 am
-I wonder how that got into here.. here’s the fixed version.There are people who want to host a website on port 80 on their computer and their are mostly negative responses to that (..sigh). What youâ€™ll need to do is called port-forwarding on your router. This is how:1. log in the router via the telnet interface and go through the menu Management>Access Control>Services>Configure>http>disable on wan; now enter â€™shâ€™ to get the command shell.2. enter these commands to expose one of you _computers_ ports outside. (port forwarding)# iptables -t nat -A PREROUTING -p tcp -i ppp_1_32_1 â€“-destination (your-external-ip-address) â€“destination-port 80 -j DNAT -â€“to-destination (your-internal-ip-address):80 # iptables -I FORWARD -p tcp -m state -â€“state NEW -d (your-internal-ip-address) â€“-destination-port 80 -j ACCEPT* the parameter ppp_1_32_1 is the service name you entered in the web interface while configuring your internet address. Alternatively you can figure this name out by entering â€œifconfigâ€ in the command shell and look for the interface that holds your external-ip-address. * (your-external-ip-address) can be determined from sites like whatismyip.com if by entering ifconfig ppp_1_32_1 (note above) in the command shell. * (your-internal-ip-address) is the one assigned to your computer. look for â€œclient-ip-addressâ€ in your computers settings. PCChazter says:
-December 16, 2007 at 7:16 am
-I was looking at the http server on this, and whoever programmed the javascript is a dum***. the reason being is that you can look at the source code for the password change page, and all the passwords are there (except the ftp password). it goes:pwdAdmin = ‘password’; pwdSupport = ‘supportuser’; pwdUser = ‘normaluser’;which are the default passwords for the accounts. Also, whoever was using Airtel to send Vi*****a ads, your a pain in the ass, and I’m onto you. nixCraft says:
-December 16, 2007 at 1:40 pm
-PCChazter,Get DLINK 510/520 router or Wifi router from market.Spam may be coming because of zombie computer. Add Capatch or simple math plugin protection for your blog. Pram says:
-December 20, 2007 at 12:19 pm
-Hi,I have a Beetel 220BX ADSL router provided by Airtel. While we were troubleshooting connection issues, I accidently did a reboot restoring it to factory defaults. After that when I try connecting my laptop, my Laptop says limited or no connection. When I try pinging the default IP 198.168.1.1, it comes up with ” Destination host unreachable” error. I tried pulling up the page “http://198.168.1.1/main.html, it comes up with “Page cannot be displayed. eeds to be done Please let me know what n Hemant says:
-December 20, 2007 at 7:40 pm
-Very informativeand Pramit is 192.168.1.1 and not 198.168.1.1 Master says:
-January 5, 2008 at 1:35 am
-Nice trick dude 🙂 Foxi says:
-January 8, 2008 at 1:34 pm
-Hello, im a german student living in india for about 1 year. So my appartement here is ( or should ) be connected via a Beetel 220BX ADSL router to Airtel DSL. But i have the big problem, that the router always hangs up after just one minute or something like that. No reaction on Telnet or the Webinterface anymore. I called Airtel several times because of that, but they couldnt help me more than to tell me that i have to reboot the router. Thats weird. For the first 5 Minutes my download speed is about 2mbit as it should be, but after the webserver and telnetserver hangs up the download speed decreases to 20kb/sec max. The airtel people also told me that theres already the newest firmware installed on it. Does anyone here have an idea what i can do?Please contact me @ jhornung1984@web.de or just reply here. webmaster says:
-January 15, 2008 at 7:29 am
-HI FOXY, its a common problem of hanging in 220 bx, if it is connected through a USB Cable. i suggest you to use it with an ethernet cable. for latest firmware visit http://beetelmodems.com/220bx.html.and for the speed problems it may be a problem in the medium(cable coming from airtel’s end), ask them to get it checked. Karan says:
-January 24, 2008 at 9:06 pm
-@ PCChazterThanks for the password, yah they are there in the main.html page’s Password (inner Frame).So, here comes another shocker for all those using Airtel Beetel 220BX Password.BEETEL 220BX Modem is flawed. I am not revealing this secret of now…..But a lot of damaged can be done to the people using the BEETEL modem, without actually knowing the Password. A lot is hidden in its firmware, which can reveal its dreadful side.Ask me for the More…and me n even you cannot safeguard against it. I am wondering whom should I tell it about.So, for the time being (assume u are secure) – KARAN@Foxi – I too use it @ USB but No Modem/Router hanging problems as such earlier or ever to me (500 Mhz, 64 mB XP). But nowaadays, I am seeing a strange behavior.Q: Does anyone know how to immediately release or disconnect a TCP/IP connection, I am seing in TIME_WAIT or SYN_SENT state in Port status (active ports), its hanged in there.? My Download app is suffering….Help Needed?? soroccoheaven says:
-January 25, 2008 at 9:02 am
-@karan …yeah thats what i was asking for @ PCChazter soroccoheaven says:
-January 25, 2008 at 9:25 am
-@ karan i am using beetel 220bx and changed all the password’s closed all other ports (from wan )and forwarded http,22 ports to a server (for remote access etc.).am i secure ? Karan says:
-January 29, 2008 at 2:38 pm
-@soroccoheavenNo! you and others are still not. I found a flaw in it…its firmware may be…which actually opens it for the world, i.e. anyone whose Modem is BEETEL 220BX in whole wide world, just his IP is required and presto you can make him disconnect outta INTERNET. No Passwords can actually protect…its password resistant or does’nt depend it on it at all.For a free Demo, I would recommend you to send me an IP or yours for a dummy test. Come back here and fix a time when you wish to have me a go on it…!!Its such a silly thing…inside its firmware anyone can find it out and do it remotely.Karan Raj says:
-January 29, 2008 at 2:54 pm
-Soroccoheaven,There is no thing called secure router or server. You can try your best to secure it. If you need 100% security unplug both electric and telephone lines 😉Karan, Almost all ISPs are insecure, especially cheap routers bundled with A/DSL / Cable connections. If beetel sucks get your good router such as Linksys or build your own 😉 Trust me I used to work for VSNL when dial-up connection used to cost 10000 ruppes and people used to steal your internet connection hour those days 😉Btw, vivek can we get rid of this *anti-spam word * for registered users? soroccoheaven says:
-February 2, 2008 at 7:17 pm
-@Raj ..yeah you are right when i say i am secure i mean the best i can be with this beetel i dont expect alot from it. @ Karan can you pls explain this ?.. nixCraft says:
-February 2, 2008 at 7:20 pm
-Raj,Thanks for comment, if I remove anti-spam – I get tons of spam via bots. I don’t think so it will go anytime soon… heh Karan says:
-February 9, 2008 at 9:57 pm
-The Secret is …The internal Scripts inside your Modem cum Router Beetel 220BX can be remotely executed without actually providing the password / access….Enabling others to remotely Reboot/Reconfigure or Reset to Default Settings. Making your Internet Connection vulnerable…to attack(s).Without you knowin…at an instant. Atleast most of whom, having firmware like mine or may be in upgrades too.Rgds,KARAN Kris says:
-February 12, 2008 at 12:52 am
-Hi,I have a Beetel 220BX ADSL router provided by Airtel. I have connected it to a HUB, from HUB am connecting to a Laptop and a Desktop. What I want is to connect the Remote Desktop of the Desktop system from my Outside (office). I have installed SAP Server in my Desktop System. So, I want to access it from outside through SAP Logon (Client Application). That application (SAP Logon) needs SYSTEM CONNECTION PARAMETERS— Description: __________________ Application Server : System Name or IP Address System Number : ________ System ID: ______Application Server is the main to connect to the server, its the IP Address of the SAPSERVERAnyone can help me to NAT My Local IP to WAN IP. i.e. 192.168.1.2 to 122.xxx.xxx.xxx to access the server from any where from outside……Please help me………. soroccoheaven says:
-February 16, 2008 at 4:28 pm
-@kris ..you can direct wan traffic to particular local ip (use port forwarding 3389 for ms-term remote access,you have to configure your SAP server pc with static ip)but you can not connect because of dynamic IP.so get no-ip or dyndns account and configure beetel for DDNS.so now you connect/call you computer by using your domainname. kk says:
-February 20, 2008 at 10:42 am
-hi all,when i try to click on WAN link in the basic options page in my modem, it gives out “page not found” error.I’ve tried in advanced options with 192.168.1.1/main.html, but there are many links which report the same error. The WAN, NAT etc doesn’t work.Is this a modem problem. soroccoheaven says:
-February 21, 2008 at 6:31 pm
-@kk ..are you in ppp mode ?.. if so try accessing 192.168.1.1 or 1912.168.1.1/main.html without net connection (dont dial)..now try access anyone ..192.168.1.1 or 192.168.1.1/main.html it will open now. mk says:
-March 6, 2008 at 11:22 am
-Anyone configured more than 1 Static IP on DSL line? Airtel says only 1 Static IP can be added on ADSL modem. my Setup is like this : ADSL modem -> Switch -> 3 PCs (one running web server) I have port forwarded and things are running ok but want to add another IP for Nameserver purpose or in future if want to put a website on static IP. any ideas?? Karthikeyan says:
-March 25, 2008 at 7:43 am
-HI Gurus, I have the airtel BB coinnection using the beetel 220BXI modem.I want to split my connection to more than one PCs ( Right now i need it for 2 ).Can you tell me how can i do that. The modem seems to be using class c ip ( 192.168.1.1 ) Do i need to place a hub and do nating ? Sidhu says:
-March 27, 2008 at 3:39 am
-Hi! I am Sidhu and i am interested in learning all the hacking thing..man i have airtel connection and i wan to know how i do all this…man i a noob in this area and can u help me with few things.. where should i type these commands? i think its in the RUN box but what should i type to open it?Please reply, Thanks!! Sidhu Manoj Desai says:
-March 29, 2008 at 7:34 am
-i have D-Link GLB 502 T ADSL Lamp is not coming on it and even i can access 192.168.1.1 page from my browser and i cant get the ping 192.168.1.1. i want to master reset the modem is there any procedure please let me know D Singh says:
-April 2, 2008 at 5:15 pm
-I have connected the beetel 220BX ADSL2+ modem to two computers, one using USB and one using ethernet. I configured the tcp/ip settings on the pcâ€™s But the USB connection keeps conking off in certain durations of time(AFTER 5 MINUTES ). And by this I dont mean it gets disconnected, it just stops recieving any bits. I have to then disable and re-enable the connection and it works fine again.Does anybody have any clue? amit says:
-April 3, 2008 at 8:15 pm
-I have a problem just because sometimes I get a whopping 200 kBps speed for utorrent. I have a 128 kbps connection. “pls note kBps & kbps.” I tried to track all the reasons for this, from ‘time of the day’ to ‘my utorrent settings’ to ‘my connection settings’. I know dsl providers have these speed caps for all subscribers. but then how can I get this speed at any time. and if ever i can get this then why not for ever 🙁 ………???Do any one have any idea of the speed on demand facility that airtel provides. I wonder if any1 can breach thru n use this facility for free…get in touch if u have any idea…. Piyush says:
-April 6, 2008 at 9:35 am
-I am unable to open any configuration page using the beetel 100cx modem . i am using airtel broadband. please help me out D Singh says:
-April 13, 2008 at 5:04 pm
-CAN SOME ONE HELPI have connected the beetel 220BX ADSL2+ modem to two computers, one using USB and one using ethernet. I configured the tcp/ip settings on the pcâ€™s But the USB connection keeps conking off in certain durations of time(AFTER 5 MINUTES ). And by this I dont mean it gets disconnected, it just stops recieving any bits. I have to then disable and re-enable the connection and it works fine again.Does anybody have any clue? Karan says:
-April 15, 2008 at 12:30 am
-@ DSinghWhat OS are you using on both computers? If 9x and XP ensure that you start the 9x computer first and then XP computer to avoid glitches.Q’s Are you sharing the Internet connection b/w two computers? What kind of cable did you use to connect to Ethernet Card of other computer?…Straight or Cross…It should be straight if you are not sharing Internet(may be)Also, you have to manually setup the Internet Connection sharing i.e. the Network Setup for the same. Although, I used one with Internet and other for LAN(not internet) and computers talked to each others without any difficulty. I used :PC-I WinXP.. USB .. Beetel 220BX Beetel 220BX .. LAN ..STRAIGHT-CABLE ..EtherNet PC-II Win9X [Same may be with Both WinXP]What’s your case? Hoping this would help somehow. Karan says:
-April 15, 2008 at 12:37 am
-@ DSinghAlso ensure these:1.Both should be in Same LAN Workgroup 2.Both PC should be able to Ping each other 3.Ensure necessary Windows Services for Networking are started…Like Workstation, LAN related. 4.Try disabling the Firewall and then retry. 5.Try resetting the configuration again and restart from begining with fresh settings. i.e. The N/w Authentification settings b/w two computers should be known and configured properly.-KARAN janardhan says:
-April 19, 2008 at 5:32 pm
-hi im janardhan recently i had taken airtel broadband connection of 64 kbps but instead for first one month i use to get around 512 kbps about 55kbps downloading speed but after a month im enable to get 512 kbps and im getting my original64 kbps speed while trying to that speed i just can open only airtel dsl online connection………can i know whats the matter why im not getting 512 kbps? Ram says:
-May 4, 2008 at 12:49 pm
-I connect to the net through a cable. The connection speed of the local provider is 1Mbps. He will distribute this speed and each user usually get 64- 96 Kbps speed. I have access to the router. can i change any router settings and increase the speed. Thanks. Mangalman says:
-June 18, 2008 at 6:49 am
-Can any one help? Ok my TD-8840 router looks a lot like this beetle Broadcom BCM6338 router here.So i thought someone would help Router is 192.168.1.1 My computer is 192.168.1.2 Sisters comp is 192.168.1.3 both computers are plugged in to the router.Default gateways in both is set as router ie 192.168.1.1 there is internet connection in both but i want to share files and printer.However when i ping 192.168.1.3 from my computer it says request timed out.ipconfig does not show her computer. My friend told me you have to enable routing from telnet command and i did log in to router from telnet and did this as he said “route 192.168.1.0 255.255.255.0 192.168.1.1” without quote but nothing happened what am i missing here help me guys.I am desperate. kush says:
-July 15, 2008 at 4:36 pm
-hii, wanna know that does it not works on windows?? if it works could u plzzz plzz tell me the way.. Cannan says:
-July 24, 2008 at 12:09 am
-Hi Mangalman,if your PC and your sis’s PC are getting IP from the inbuilt DHCP server in your router/modem, I strongly suspect the culprit is the Windows Firewall assuming both the PCs are running Windows OS…u need to allow inbound connections in the Windows Firewall to connect to each other…NO NEED OF ROUTING CHANGES…as both the PCs are already in the same subnet…. prasad says:
-July 29, 2008 at 12:33 pm
-i have beetel 220xi adsl modem this is a new modem how can i increase the speed now i have 64kbps i want to get the speed of 512kbps how can i get itplease tell i very tried to find the solution connected RJ-45 cable between modem and pc Rahul .. says:
-August 14, 2008 at 6:40 am
-My Computer>Manage>Device Manager>Ports(COM & LPT)>Communication port(COM1)>Port SettingsBits per second=128000 Data bits=8 Parity=None Stop bits=None Flow control=HardwareOKIt may help.Enjoy high speed surfing and downloading until Airtel Server gets rid of you. Restarting the modem may increase the speed again so keep enjoying.😀Bwahahahahahaha…!! PRIYA says:
-August 16, 2008 at 3:22 pm
-My config : BSNL BB 256 Kbps OS : Win XP SP3 updated. I have a wireless router to which I connect my laptop wirelessly..and a desktop which I connect using the usual network cable.. Desktop Ip : 192.168.0.166 Gateway: 192.168.0.1My friend’s config : AIRTEL BB 256 Kbps (Beetel BCM6638) OS : Win XP SP3 updated. IP : 192.168.1.2I’m able to login to his Router through “telnet Friend’s public ip”..But we want to have total access to each other’s pcs….Can you guys throw some limelight into this issue? sorocco says:
-September 10, 2008 at 12:42 pm
-@priya try remote desktop connection ..for this you have to forward port 3389 tcp and 500 UDP in your router and make required changes in both the pc’s for remote connection. Dinesh says:
-September 12, 2008 at 9:32 am
-I have airtel connection and 220bx beetel modem. the technician has set my username n password in the modem and so i get internet without needing to login with my usern + pass. I want to frequently change my ip bcos of accessing rapidshare downloads. So i want to know how to set by 192.168.1.1 – setup so that on needing internet i need to login with my username + pass. and change ip by just reconnecting.wud be glad if u also tell how to setup username + password later in the modem again as well.Can anyone tell me ? KARAN says:
-September 17, 2008 at 11:13 am
-@DineshJust switch on and Off the Router cum Modem Beetel 220BX.This would get you a new IP every time and change our Ip-identity. Your connection would resume automatically.However, to avoid glitches…disconnect from all Internet Sites and then Disable LAN connection and then switch off and restart would be better.-KARAN KARAN says:
-September 17, 2008 at 11:18 am
-@PRIYAPlease see my response to DSingh starting @DSingh.You need to Telnet LAN IP(among two computers) and allow connections.You could also run a small webserver[port 80] on One computer and access the Intranet b/w two computers.I believe this whole article, have enough for you to setup.-KARAN bahubali says:
-September 18, 2008 at 10:38 am
-i am using 110bx1 modem,,,,airtel 64kbps plan,,,so any body can help me to get more speed,,, Vikram says:
-September 27, 2008 at 3:05 pm
-Have detailed how to use your Wifi Router as an Access Point and get your Modem / Router to issue addresseshttp://piglings.blogspot.com/2008/09/airtel-beetel-modem-netgear-wgr614-wifi.html Karan says:
-October 5, 2008 at 4:01 pm
-Hi! vivekIs there a way to access the in-build scripts inside the 220BX and edit them.I would like to change the Realm-Message used for WWW-Authentification when loggin onto the DSL-Router cum Modem.Please help/advice.Regards, -Karan jitendra says:
-October 8, 2008 at 5:25 pm
-hii can i access DSLAM from my modem zxdsl , if yes how, please reply on mail. thanks phoneynk says:
-October 13, 2008 at 6:55 pm
-Hey- I am trying to setup a webserver on my comp, with the BEETEL 220x,I am currently using the WAMP using the below steps. But whenever I am trying to acces it from outside, it is taking to the DSL Router home page. Please help. Click Start â€“> Run â€“> type â€œcmdâ€ (without quotes) â€“> Hit Enter/Return.In the Command Prompt that opens up, type â€œipconfigâ€ (without quotes).Note down your internal/LAN IP address.2. Goto the Beetel Router config page, http://192.168.1.1/main.html3. Click Advanced Setup â€“> NAT â€“> Virtual Servers â€“> Click â€œAddâ€4. Under Server Name check â€œSelect a Serviceâ€ and from the Drop Down Menu select â€œWeb Server (HTTP)â€.In â€œServer IP Addressâ€ box enter the IP address you noted in Step 1.Click on Save/Apply. You will get a message â€œSince port 80 is used, the DSL router WEB server port will be moved to 8080â€³, click â€œOKâ€.This basically forwards all your HTTP traffic on port 80 of your WAN IP, received by your router, to your Internal/LAN IP and moves the Admin Page of the Router to port 8080.5. Verify your setup by going to Anonymouse and entering this URL http://125.22.35.159(WAN IP) If it opens your WAMP Index Page, Congratulations youâ€™re done with configuring your Router.But it is still not working.. IT indeed works.. just goto any proxy http://250.eu/ enter your wan ip http://125.22.35.159(WAN IP) Hit the enter and it should show you your web server page. mssbusybee says:
-October 31, 2008 at 5:48 pm
-Hi I am using Beetel 110BXI router and I am not able to see the NAT and virtual server option that I would see in Beetel 220 Bx can some one tell me how to port forward 21 to 22 of my system. mssbusybee says:
-November 3, 2008 at 4:44 pm
-Hi there I atlast found out how to do that. The new modem 110BXI need not have an entry into the router for the port to be forwarded to. It works automatically. soroccoheaven says:
-November 22, 2008 at 7:32 pm
-@mssbusybee if the beetel 110bx1 router is forwarding port without any configuration changes means you have configured it for DMZ mode or your modems firewall needs extra care. mag says:
-December 11, 2008 at 11:29 pm
-hi i had accesed to neerby Router and allawed mac filter from my laptop wirlessly and didnt add any mac address for router to allow i lost the connection with router and it refuse to connect to me what can i do to get connection back (it’s not my Router) hahaha to hacking god says:
-December 24, 2008 at 3:09 am
-HAHAHA to Hacking gods comment where he says he can increase your internet speed by 20% on the PC’s end. Bet you he is talking baout disabling QoS which is proven not to affect speeds as nothong we use implements QoS. DH sandeep says:
-January 6, 2009 at 5:05 pm
-@Pram: The most likely reason for the limited or no connectivity is you havent configured the ip addresses. Try configure TCP/IP with ip address, DNS, primary gateway etc.. Then you will get the full connection. ankit says:
-January 8, 2009 at 9:57 pm
-hi… m using a beetel 450bx1 adsl2+modem…. have a laptop which directly automatically detects the connection… now…have a 256kbps connections…..any tricks 2 increase the speed furthur also …..i don knw much of the computer fundas…!!!! saurabh says:
-January 10, 2009 at 4:00 pm
-hi i m using an airtel broadband with speed 256 kbps i hv windows vista and a beetel router 110BX1can u plz tell me how to increase the speed thx Ranjith Poduval says:
-January 14, 2009 at 3:02 pm
-I thought I should add to this post. When we do ifconfig, we find an entry for nas_1_32. Got its meaning here: http://linux.die.net/man/8/br2684ctl FYI.thanks. vineet says:
-January 23, 2009 at 2:53 pm
-hi, i hv 64kbps plan. modem:220BX adsl+modem. downloding speed:9kbps. please tell how can i increase speed and please give whole discription that how to do this.pls pls nani says:
-January 24, 2009 at 2:43 am
-Hi, I have remotely accesed a BSNL CPE and able to login with password but i want to see cusctomer internet password(ISP alloted pppoe password). Which revealer is best to UTSTAR com router varun verma says:
-February 22, 2009 at 7:52 pm
-sir can u help me to enhance speed of my neet going very low as 22kbpsits beetel 110bx1do u have some tech to hack it and enhance downloading speed. connection in area is 512how can i break this speed barrier.please help desperately require d way sugandh says:
-March 18, 2009 at 5:20 am
-Does any one know how to configure QOS in Beetel 450BXI modem router? I have a VoIP phone. I have 256 kbps line. I have to give priority to the VoIP phone in the network. Pls help me regarding this… Vijay says:
-May 9, 2009 at 2:33 pm
-can anybody tell me whether the Beetel 450BXI ADSL2 modem can be used for both wired ehternet (RJ45) and wireless to access internet at the sametime, Does this modem has both the facility. I’ve applied a new connection, I would like to use internet access from my desktop (RJ45), and laptop and Windows mobile phone thorough WiFi. Rajat Gupta says:
-June 29, 2009 at 3:23 pm
-I am using the Beetel 450BXI ADSL2+ wireless Router, with 256Kbps airtel connetion. We are 4 users sharing the bandwidth. I want to know how to control bandwidth (if possible) so that each one can have same bandwidthRegards Rajat Shashi says:
-July 30, 2009 at 12:00 pm
-Hi, I’m using airtel 256kbps internet connection and beetel 220x adsl modem. After checking n seeing the download n upload speed, i came to know that my up speed is more than my down speed. I want my down speed to be more than up speed. Is there any way to do it??? Please tell me akareliya says:
-August 13, 2009 at 6:09 pm
-hello i m new to this site .i have hack before 1 year i m getting 7 mbps speead for 1 year before two weak my pc crash down . i try 2 rehacking in modem and i get massage u r hacked so i restore my router to default . now i have 256 kbps again which is my actual spead and now i m not able to open http://192.168.1.254./ its show massage time out anybody plz help me arn says:
-August 29, 2009 at 9:15 am
-I i need to reserve ip adders on dsl router how i can do it.. Ram Lal MCSE says:
-August 31, 2009 at 10:19 am
-I am using same black internet modem given by airtel people, but the biggest of the problem is that speed is very down. My browser is doing very fine with all up to date latest patches installed in automatic ways. i want to hack around this modem to up some speed which is beyond any imagination. Please suggest your best possible and super inventive methods to do it in the simplest possible english. Shadi says:
-August 31, 2009 at 3:39 pm
-I have a BroadKam Modem. I want to disable the firewall. I tried to find the item at http://192.168.1.1/, but I couldn’t find. Do you have any recommendation ?! kumar says:
-October 9, 2009 at 12:25 pm
-Hai,I want enable firewall in UTSTARTCOM WA3002G4 rouer,I want to Ristrict web for those systems through This modem like proxy, is it possibale,Pls helpme Rishi Sethi says:
-October 15, 2009 at 8:35 pm
-Hi,I am having a very weird problem with Beetel 450BX1 ADSL2+ Router, I am unable to view menu option in web interface of it. I am logging to 192.168.1.1 but no menu option is visible. If anybody can help me to resolve this problem…. thanks in advance….. if any one can guide hoe to use telnet command to update its firmware……. Venkat says:
-December 2, 2009 at 10:03 am
-Hi, I got a new Airtel Broadband connection, I wish to use Wireless router to connect to internet. I have Beetel 450BXI ASDL2+router, the modem is still not configured. Can anyone help me how I can configure the modem for both Laptop(OS: Windows Vista) and Desktop(OS:Windows XP). Please help me how I can configure internet on my own. Many thanks in advance. Best Regards, Venkat Arjun says:
-December 4, 2009 at 12:03 pm
-Hi friendz , i tried so many types to increase net speed . these all tricks but no affect . I have BSNL broadbond connection 256kbps speed .If any body tell me how to increase 256 to 512 kbps speed .OR hack those who tell me or send my mail . i will give u SBI – ATM no and pin ,and also HDFC ACC NO. OKKKK BUT FIRST I WILL TRY azharuddin says:
-December 21, 2009 at 5:04 am
-hi i want to connect my bsnl wa3002g4 with local provider beam cable connected via lan 1 and connected the system with lan 4 it is working as a switch but wifi is not working can u send me the settings. azhar says:
-January 4, 2010 at 8:53 pm
-hi i am having bsnl wa3002g4 router i want to use it with beam connection i have configured it from 192.168.1.1 it is working fine but the problem is when i am login on my laptop it is getting logout from desktop i am unable to use it simultaneously on both the devices please help me azhar says:
-January 4, 2010 at 9:03 pm
-hi i want to connect my bsnl wa3002g4 with local provider beam cable connected via lan 1 and connected the system with lan 4 it is working as a switch but wifi is not working can u send me the settings. Mangat says:
-January 8, 2010 at 1:40 pm
-Great Article !!All these are Linux commands. These are working because even routers have operating system which is a variant of UNIX. This again prove the fact, that I think people should know, that every serious technical machine use Linux or Unix. It’s free, powerful, secure.C’mon people use Linux not Windows. yash says:
-January 20, 2010 at 1:29 pm
-its getting 401 unauthorized akash gera says:
-January 25, 2010 at 6:22 am
-hey guys i hav this beetel 450bx1… and i guess something s wrong with it… the WLAN light doesnt glows …..when i connect it thru my nic card it sows limited conneectivity… when i manually assign the ip to say 192.168.1.1 then it gets connected but im not able to open the login page of my beetel routercan u help me Surinder says:
-February 3, 2010 at 10:50 am
-Dear AllCan anybody Pls tell me how to login beetal 220bx DSL Modem as i forgot the password without resetting itor any hacking tackts to how to see username and password of login page of ModemThanks Surinder Alok Prasad says:
-February 23, 2010 at 2:32 pm
-This is not hacking this is exploring. Alok Prasad says:
-February 24, 2010 at 5:20 am
-Tiny url link for the same Hardware hack of airtel Beetel 220x and 220bxi router. http://tinyurl.com/yfnwylo Karan says:
-March 26, 2010 at 2:56 pm
-Hi Author,People say that when the router i.e. 220BX Beetel here once compromised can allow access to the network and monitor network activity.So, i have a compromised router at hand…with some IP on Airtel Network using 220BX how can I use its config or telnet or otherwise to access the network it connects or provided internet access. Is it possible to view the files and contents on its networked computers.How it is done, if possible pls mail me. Karan Dipendra says:
-April 20, 2010 at 1:01 am
-I am using my modem in bridge mode and want to use in routing mode.Please help.Contact me at my webside SEND FREE SMS with email Thanks Airboy says:
-June 22, 2010 at 4:56 pm
-I am having Beetel 110BXI modem and one other modem given by BSNL and Airtel.Besides present airtel 220BXI modem.I m havin BSNL landline And aIRTEL broadband CONNECTION. but i wanna know how can i use my modem to use internet by hacking the BSNL without letting BSNL know that I am using Broadband just by paying landline bill. If this method is possible tell me how to hack BSNL network and configs of modem. varun dev says:
-September 5, 2010 at 7:25 pm
-Hello guys ….. there have been lot of questions raised for increasing net speed … but is there anyway to increase the net speed for a particular IP within the airtel Wireless LAN. The motive being I want more speed than other guys using the same Beetel modem. DHCP is being used. Is there a way to set up high priority for a particular IP .. or something like that ?? ANWER says:
-November 18, 2010 at 3:21 pm
-We are using Beetel router ADSL2. how i make it secure from stolen. does it is possible to protect from using other client/system.when router use in other system it should be authenticate from unauthorizes. does this facility available. so i want no other person use my router by connecting him/her system without my permission. Walchand says:
-March 20, 2011 at 10:31 pm
-I have the same terrible modem. However, right now the problem is of my own making. I’ve forgotten the password, so could someone guide me how to do a hard reset to default settings. I have a backed up configuration file, which I can upload to restore the settings. Navneet says:
-April 8, 2011 at 9:27 am
-Hi,I was using UT-304 R2 4-port modem on airtel connection. Now I want to use same modem on BSNL. To change it’s setting for BSNL I need admin password. I know that default password is admin but it is not working I tried password as password also but it is also not working. Can someone help me on this? So that I can get inside the seetting of modem and chage those. [DiaBlo][As$@sIn] says:
-May 3, 2011 at 10:28 am
-can sum1 plzz help me out i’ve an airtel 220bx modem and i’ve connected it to a netgear wi-fi router.The problem is they both have the same address that is 192.68.1.1 now i need to configure my wi-fi can sum1 plzz help..I tried disconnecting the modem and configuring the wi-fi bt still dsnt wrk..plzz help..thanks in advance..:) TechGuy says:
-May 6, 2011 at 8:22 am
-[DiaBlo][As$@sIn] : Connect only the router from Port 1 to the computer. Open the router page at 192.168.1.1, login. Go to LAN setup and change the IP to 192.168.10.1, For DHCP also change it to 192.168.10.2 onwards. Save and reboot router. Now connect the modem to the Internet port and configure the router accordingly. TechGuy says:
-May 6, 2011 at 8:23 am
-Does anyone have any idea how to remove the 220BX from Bridge mode to regular made?? [DiaBlo][As$@sIn] says:
-May 7, 2011 at 5:00 am
-thanks tonnzz tech guy..it really wrks..:) Raj says:
-August 21, 2011 at 7:50 am
-Thx a ton!!!!!!!!!!! Techguy it workssssssssss 🙂 meet says:
-September 11, 2011 at 7:20 am
-hey ,,i have spidigo brodband connection ..its due to 2 day and i have no mony ritgh now so .pls tell me how to continue my connection,,, hack or other trik…??? pls.. ZeroCool says:
-November 9, 2011 at 3:42 pm
-Dear all suppose i hacked smart huwai adsl 882a .. and now i can loged on thier through telnet & web .. but i dont know how to crash this ADSL modem .. anybody pls tell me how to do that… pls help me i dont know how to delete firmware or upload corrupted firmware Rabindra Lamsal says:
-February 18, 2012 at 1:42 am
-Worked for me..Thanks!! Bilal says:
-March 24, 2012 at 11:19 am
-Hi can you give the password of Blink1E7E35 pluto says:
-June 25, 2012 at 2:50 am
-Hi all! Thanx to topicstarter for a easter eggs, it’s works. Have a question: how to add a new virtual server in busybox via telnet session? Hafis says:
-July 16, 2012 at 1:15 pm
-Thanks, but I think this is not required with latest modems… BUDA20 says:
-December 29, 2012 at 10:55 am
-if you run “sh” you can run all built in commands like “ls”. Zahra says:
-August 2, 2014 at 9:20 am
-i need username of BCM96328 broadband router sureshbabu.mp says:
-September 12, 2014 at 3:11 pm
-how can we increase our net speed in a netsetter Raj says:
-January 16, 2016 at 3:14 pm
-I m logging in to MGMNT of beetle adsl2+ 450TC3 router.. It shows status only … What to do next to configure ssid 1 settings.. Help needed urgent    Have a question? Post it on our forum!Post navigationPrevious post: Previous post: I will show you mine if you show me yours – Displaying filesNext post: Next post: Macedonia Deploys 5,000 GNOME Desktops on an Ubuntu distro in Public SchoolsTagged as: Tags airtel, broadband isp in india, broadcom, bsnl, chipset, India, ispsCool Linux penguin shirt
-Featured Articles130 Cool Open Source Software I Discovered in 2013230 Handy Bash Shell Aliases For Linux / Unix / Mac OS X3Top 32 Nmap Command Examples For Linux Sys/Network Admins425 PHP Security Best Practices For Linux Sys Admins530 Linux System Monitoring Tools Every SysAdmin Should Know640 Linux Server Hardening Security Tips7Linux: 25 Iptables Netfilter Firewall Examples For New SysAdmins8Top 20 OpenSSH Server Best Security Practices 9Top 25 Nginx Web Server Best Security Practices10My 10 UNIX Command Line MistakesRelated Posts:Hacking the Dlink 502T routerLinux Shell Script to reboot DSL or ADSL routerLinux How to setup multi homing networkNo Route to Host error and solutionHow to configure cisco router using linux for (COM…Hacking Linksys router: WRT54GL DIY Internal POELinux Iptables open Bittorrent tcp ports 6881 to 6889Logging to a centralized loghost from Router or other hostsSolaris: How do I setup a default static route /…How to setup Linux as a router for DSL, T1 line etcHP-UX: How Do I configure routing or add route?Setup VMWARE Host as router for Solaris, Linux,…Howto Setup Linux as router for ppp dial up…Linux Configure WPA2 for RT61 based Wireless CardSecurity Through Obscurity: MAC Address Filtering (…Sign up for my newsletter
-Recently updatedLinux / Unix whereis Command ExamplesHow to install Ansible on Ubuntu 18.04 for IT automationHow to install curl command on Ubuntu LinuxLinux Monitor Hard Disks Temperature With hddtempHow to install snapd on Fedora Linux system using dnf commandHow to update source tree at /usr/src using svn on FreeBSDHow To Check Swap Usage Size and Utilization in LinuxHow to reinstall a package using apt-get on a Debian or Ubuntu LinuxLinux Execute Cron Job After System RebootHow To Flush Contents Of a Memcached Server Using Command LineCorporate PatronLinodeCloudflareProspect One
-@2000-2019 nixCraft. All rights reserved.PRIVACYTERM OF SERVICECONTACT/EMAILDONATIONSSearch
 
-
-
-
-
-
-================= https://www.routerpasswords.com/ ==================
-
-
-
-
-
-Router Passwords Community Database - The Wireless Router Experts
-Skip to content
-Home
-Add Router Password
-Buyers Guides
-Reviews
-How to
-Menu
-Home
-Add Router Password
-Buyers Guides
-Reviews
-How to
-Search
-Close
-Home
-Add Router Password
-Buyers Guides
-Reviews
-How to
-Menu
-Home
-Add Router Password
-Buyers Guides
-Reviews
-How to
-Select your Router Manufacturer
-2Wire\xA3COM\xA3M\xA3ware\xAAccelerated Networks\xAAcconet\xAACCTON\xAaccton t-online\xAAceex\xAActiontec\xAADC Kentrox\xAADIC\xAadtran\xAAdvantek Networks\xAAethra\xAAirties\xAALAXALA\xAALCATEL\xAAllied\xAAllied Telesyn\xAALLNET\xAAlteon\xAAMBIT\xAAmitech\xAAndover Controls\xAAOC\xAAPC\xAApple\xAAreca\xAArescom\xAArris\xAARtem\xAAsante\xAAscend\xAAscom\xAasmack\xAASMAX\xAAspect\xAAsus\xAAtlantis\xAAVAYA\xAAxis\xAAXUS\xAaztech\xABausch Datacom\xABay Networks\xABelkin\xABenq\xABillion\xABinTec\xABlue Coat Systems\xABMC\xABMC Software\xABreezecom\xABroadlogic\xABrocade\xABrother\xABUFFALO\xACable And Wireless\xACabletron\xAcanyon\xACayman\xACelerity\xACellit\xACheckpoint\xACipherTrust\xACISCO\xACNET\xACOM3\xACompaq\xAcomtrend\xAConexant\xACorecess\xAcreative\xACTC Union\xAcyberguard\xACyclades\xAD-LINK\xADallas Semiconductors\xADatacom\xADatawizard.net\xADavox\xADD-WRT\xADeerfield\xADell\xADemarc\xADeutsch Telekomm\xADeutsche Telekom\xADevelcon\xADictaphone\xADigicom\xADigicorp\xADraytek\xADynalink\xAE-Con\xAE-Tech\xAEchoLife\xAEdimax\xAEfficient\xAEfficient Networks\xAElsa\xAEnterasys\xAEntrust\xAEricsson\xAESP\xAEverFocus\xAExabyte\xAExtreme Networks\xAF5\xAF5-Networks\xAFlowpoint\xAFortinet\xAFoundry Networks\xAFreetech\xAFujitsu Siemens\xAFunk Software\xAGericom\xAgiga\xAGVC\xAHP\xAHuawei\xAiblitzz\xAIBM\xAihoi\xAIMAI\xAinchon\xAInfosmart\xAIntegral Technologies\xAIntel\xAIntel/Shiva\xAInteno\xAInterbase\xAIntermec\xAIntershop\xAIntersystems\xAintex\xAInventel\xAion\xAiPSTAR\xAIronPort\xAJAHT\xAJD Edwards\xAJDE\xAJDS Microprocessing\xAJuniper\xAKalatel\xAKonica Minolta\xAKTI\xAKyocera\xALANCOM\xALantronics\xALantronix\xAlatis network\xALG\xALinksys\xALivingston\xALockdown Networks\xALogitech\xAlongshine\xALoopcom\xALUCENT\xAMarconi\xAmaxdata\xAMcAfee\xAMcData\xAmediatrix 2102\xAmedion\xAMegastar\xAMentec\xAMERCURY\xAMeridian\xAMicronet\xAMicroplex\xAmicroRouter\xAMicrosoft\xAMikrotik\xAMilan\xAMinolta QMS\xAMintel\xAMitel\xAMotorola\xAmro software\xAMutare Software\xANAI\xANEC\xANetcomm\xANetGear\xANetGenesis\xANetopia\xANetport\xANetscreen\xANetstar\xANetwork Appliance\xANetwork Associates\xANetwork Everywhere\xANexxt Solutions\xANGSec\xANiksun\xANimble\xANOKIA\xANortel\xANRG or RICOH\xANullsoft\xAOKI\xAolitec\xAolitec (Trendchip)\xAOmnitronix\xAOMRON\xAOnixon\xAOpenConnect\xAOpenwave\xAOracle\xAOrange\xAOrigo\xAOsicom\xAovislink\xAPacific Micro Data\xAPanasonic\xApenril datability\xAPentagram\xAPentaoffice\xAPentaSafe\xAPerle\xAPhoenix v1.14\xAPirelli\xAPlanet\xAPolycom\xAPrestigio\xAProxim\xAPsion Teklogix\xAPyramid Computer\xAQuintum Technologies Inc.\xARadware\xARaidzone\xARamp Networks\xARedHat\xAResearch\xARicoh\xARM\xARoamAbout\xASAGEM\xASamsung\xAScientific Atlanta\xASenao\xAServer Technology\xAsharp\xASIEMENS\xASigma\xASiips\xAsilex technology\xAsitara\xASitecom\xASky\xASmartSwitch\xASMC\xASnapgear\xASolution 6\xASonic-X\xASonicWALL\xASOPHIA (Schweiz) AG\xASorenson\xASpeedcom\xASpeedStream\xASpeedXess\xASphairon\xASpike\xASun\xASun Microsystems\xASweex\xASwissvoice\xASybase\xASymbol\xASystem/32\xAT-Comfort\xATANDBERG\xATandberg Data\xATandem\xATeam Xodus\xATeklogix\xATelco Systems\xATeledat\xATeletronics\xATelewell\xATelindus\xATellabs\xATENDA\xATerayon\xATiara\xAtopsec\xATP Link\xATRENDnet\xATRICHEER\xATroy\xATVT System\xAU.S. Robotics\xAubee\xAUNEX\xAUniden\xAUnisys\xAUS Robotics\xAus21100060\xAV-Tech\xAVASCO\xAVerifone\xAVerilink\xAVirgin Media\xAVisual Networks\xAVodafone\xAVonage\xAVxWorks\xAWanadoo\xAWang\xAWatchGuard\xAWestell\xAWyse\xAX-Micro\xAXavi\xAxd\xAXerox\xAXylan\xAXyplex\xAYakumo\xAZcom\xAZebra\xAZonet\xAZOOM\xAZTE \xAZXDSL\xAZyXEL\xAFind Password
-Router Passwords is officially the most updated default router password repository on the internet. To find the default password of your router select the manufacturer from the drop-down and click the Find Password Button.
-TOP STORIES OF THE DAY
-Best Wireless router of 2019
-Router Passwords have rounded up the very best wireless routers available in 2019!
-But not only that – we have also included where you can purchase these must-have routers at the very best prices!
-READ MORE
-REVIEWS
-D-Link DIR 890L Tri-Band Router Review
-07/02/2019
-Our review breaks down exactly what it is we love about one of the fastest Wi-Fi routers…
-Read More »
-TP-Link Archer C7 router Review
-07/10/2018
-Read our TP-Link Archer C7 router review. Is it worth buying? How does it compare to other…
-Read More »
-Netgear Nighthawk R7000 router review
-11/02/2019
-Netgear designed the R7000 to simply be the fastest and rangiest wireless router available…
-Read More »
-MORE REVIEWS
-BUYERS GUIDES
-Buyers Guides
-Best Wireless router 2019 – Our roundup and definitive buyers guide
-Which router has the best port forwarding, has fewer instances of lag, and is…
-Read More »
-29/03/2019
-No Comments
-Buyers Guides
-The Ten Best Routers for XBox Live and PSN
-Which router has the best port forwarding, has fewer instances of lag, and is…
-Read More »
-08/11/2018
-No Comments
-Buyers Guides
-Top 5 Best Powerline Adapters
-A powerline adapter is using the wiring of a home as a cabled computer network. You have…
-Read More »
-28/09/2018
-No Comments
-MORE BUYERS GUIDES
-TOP HEADLINES IN CYBER SECURITY
-Stay up to date with the Latest Cyber Security News
-Latest UpdatesCapital One Data Breach: How Impacted Users Can Stay More Secure 30/07/2019 Gary DavisDon’t Silo Your Endpoint Security Roadmap 30/07/2019 Shailaja ShankarJet Database Engine Flaw May Lead to Exploitation: Analyzing CVE-2018-8423 30/07/2019 Hardik Shah“Hackable?” Dedicates an Entire Episode to “Mr. Robot” 30/07/2019 Hackable? Podcast“Hackable?” Dedicates an Entire Episode to “Mr. Robot” 30/07/2019 Hackable? PodcastWhat Is Mshta, How Can It Be Used and How to Protect Against It 29/07/2019 Brandon Nevarez
-TECH ARTICLES
-Tech Articles
-What is WIFI, What does WIFI stand for and how does it work?
-What does WiFi stand for and how does WiFi work? All these questions will be answered right here and you will be able to know exactly what it is!
-Read More »
-19/02/2019
-No Comments
-Security
-3 Reasons Not to Use Cloud on your CCTV
-3 Reasons why you should be port forwarding and not using the cloud setup for mobile viewing with your DVR or NVR. Although Cloud setup
-Read More »
-16/04/2019
-No Comments
-How-to Articles
-Speed up your internet
-Internet connectivity has become an essential part of modern day life. You should know how annoying it is when your internet is down or when your line is incredibly slow.
-Read More »
-19/09/2018
-No Comments
-MORE TECH ARTICLES
-SECURITY
-Security
-3 Reasons Not to Use Cloud on your CCTV
-3 Reasons why you should be port forwarding and not using the cloud setup for mobile viewing with your DVR or NVR. Although Cloud setup
-Read More »
-16/04/2019
-No Comments
-How-to Articles
-Port Forward a HikVision DVR/NVR
-The Hikvision DVR uses the ports 8000, 554 and 80 for remote services. The remote app used to connect from iPhone or an Android phone
-Read More »
-21/01/2019
-1 Comment
-Security
-WiFi Security Basics
-Wifi or wireless networking has removed the need to run cables throughout a home to make sure that everyone has an Internet connection.
-Read More »
-28/01/2019
-No Comments
-MORE SECURITY ARTICLES
-Routers
-Find Password
-Asus
-TP Link
-Linksys
-Netgear
-D-Link
-Best Sellers
-Best Routers of 2019
-Best Powerline Adapters
-Our Pages
-Buyers Guides
-Reviews
-How-to
-Technology
-Security
-Our Newsletter
-Name
-Email
-Subscribe
-© 2019. All Rights reserved. Routerpasswords.com. Clickshow Limited Registered in England & Wales with Company Number 09532149.
-Twitter
-Facebook
-We use cookies to give you the best online experience. By agreeing you accept the use of cookies in accordance with our cookie policy.
-I accept
-Privacy Settings
-Privacy Settings saved!
-Privacy Settings
-When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. Control your personal Cookie Services here.
-Main
-Privacy Center Privacy Policy Cookie Policy
-Cookie Service
-Decline all Services
-Accept all Services
 
 
 
@@ -1397,7 +793,7 @@ Accept all Services
 
 
 Router Hack - How to hack ADSL router using NMAP - blackMORE Ops
-Wednesday , July 31 2019
+Sunday , August 4 2019
 Home
 Kali Linux
 Hacking
@@ -1791,11 +1187,11 @@ Reply
 Use WordPress.com, Twitter, Facebook, or Google+ accounts to comment (anonymous comments allowed) Cancel reply
 This site uses Akismet to reduce spam. Learn how your comment data is processed.
 Recent Comments
+zafar nawaz: how to hack website usign wireshark on windows .. please tell or tell me this we...
 Big Moo: My system has a bad "apt-itude". lol...
 YourCousin: apt isn't apptitude you're using options that leak your real ip even through a p...
 JoeHo: Because the author doesn't know what they're even doing with what they posted. I...
 Anonygator: "For Ubuntu, Debian or aptitude based system" apt is NOT apptitude "rom man apt...
-Iran Ramos: Thank you!...
 Recent Posts
 A .vimrc config file everyone should use
 April 24, 2019
@@ -1979,9 +1375,164 @@ November 2013
 October 2013
 Designed by blackMORE Ops
 © Copyright 2019, All Rights Reserved
-ACCEPT Privacy Policy on Cookies UsageSome services used in this site uses cookies to tailor user experience or to show ads.
-Facebook
 %d bloggers like this:
+
+
+
+
+
+
+================= https://www.routerpasswords.com/ ==================
+
+
+
+
+
+Router Passwords Community Database - The Wireless Router Experts
+Skip to content
+Home
+Add Router Password
+Buyers Guides
+Reviews
+How to
+Menu
+Home
+Add Router Password
+Buyers Guides
+Reviews
+How to
+Search
+Close
+Home
+Add Router Password
+Buyers Guides
+Reviews
+How to
+Menu
+Home
+Add Router Password
+Buyers Guides
+Reviews
+How to
+Select your Router Manufacturer
+2Wire\xA3COM\xA3M\xA3ware\xAAccelerated Networks\xAAcconet\xAACCTON\xAaccton t-online\xAAceex\xAActiontec\xAADC Kentrox\xAADIC\xAadtran\xAAdvantek Networks\xAAethra\xAAirties\xAALAXALA\xAALCATEL\xAAllied\xAAllied Telesyn\xAALLNET\xAAlteon\xAAMBIT\xAAmitech\xAAndover Controls\xAAOC\xAAPC\xAApple\xAAreca\xAArescom\xAArris\xAARtem\xAAsante\xAAscend\xAAscom\xAasmack\xAASMAX\xAAspect\xAAsus\xAAtlantis\xAAVAYA\xAAxis\xAAXUS\xAaztech\xABausch Datacom\xABay Networks\xABelkin\xABenq\xABillion\xABinTec\xABlue Coat Systems\xABMC\xABMC Software\xABreezecom\xABroadlogic\xABrocade\xABrother\xABUFFALO\xACable And Wireless\xACabletron\xAcanyon\xACayman\xACelerity\xACellit\xACheckpoint\xACipherTrust\xACISCO\xACNET\xACOM3\xACompaq\xAcomtrend\xAConexant\xACorecess\xAcreative\xACTC Union\xAcyberguard\xACyclades\xAD-LINK\xADallas Semiconductors\xADatacom\xADatawizard.net\xADavox\xADD-WRT\xADeerfield\xADell\xADemarc\xADeutsch Telekomm\xADeutsche Telekom\xADevelcon\xADictaphone\xADigicom\xADigicorp\xADraytek\xADynalink\xAE-Con\xAE-Tech\xAEchoLife\xAEdimax\xAEfficient\xAEfficient Networks\xAElsa\xAEnterasys\xAEntrust\xAEricsson\xAESP\xAEverFocus\xAExabyte\xAExtreme Networks\xAF5\xAF5-Networks\xAFlowpoint\xAFortinet\xAFoundry Networks\xAFreetech\xAFujitsu Siemens\xAFunk Software\xAGericom\xAgiga\xAGVC\xAHP\xAHuawei\xAiblitzz\xAIBM\xAihoi\xAIMAI\xAinchon\xAInfosmart\xAIntegral Technologies\xAIntel\xAIntel/Shiva\xAInteno\xAInterbase\xAIntermec\xAIntershop\xAIntersystems\xAintex\xAInventel\xAion\xAiPSTAR\xAIronPort\xAJAHT\xAJD Edwards\xAJDE\xAJDS Microprocessing\xAJuniper\xAKalatel\xAKonica Minolta\xAKTI\xAKyocera\xALANCOM\xALantronics\xALantronix\xAlatis network\xALG\xALinksys\xALivingston\xALockdown Networks\xALogitech\xAlongshine\xALoopcom\xALUCENT\xAMarconi\xAmaxdata\xAMcAfee\xAMcData\xAmediatrix 2102\xAmedion\xAMegastar\xAMentec\xAMERCURY\xAMeridian\xAMicronet\xAMicroplex\xAmicroRouter\xAMicrosoft\xAMikrotik\xAMilan\xAMinolta QMS\xAMintel\xAMitel\xAMotorola\xAmro software\xAMutare Software\xANAI\xANEC\xANetcomm\xANetGear\xANetGenesis\xANetopia\xANetport\xANetscreen\xANetstar\xANetwork Appliance\xANetwork Associates\xANetwork Everywhere\xANexxt Solutions\xANGSec\xANiksun\xANimble\xANOKIA\xANortel\xANRG or RICOH\xANullsoft\xAOKI\xAolitec\xAolitec (Trendchip)\xAOmnitronix\xAOMRON\xAOnixon\xAOpenConnect\xAOpenwave\xAOracle\xAOrange\xAOrigo\xAOsicom\xAovislink\xAPacific Micro Data\xAPanasonic\xApenril datability\xAPentagram\xAPentaoffice\xAPentaSafe\xAPerle\xAPhoenix v1.14\xAPirelli\xAPlanet\xAPolycom\xAPrestigio\xAProxim\xAPsion Teklogix\xAPyramid Computer\xAQuintum Technologies Inc.\xARadware\xARaidzone\xARamp Networks\xARedHat\xAResearch\xARicoh\xARM\xARoamAbout\xASAGEM\xASamsung\xAScientific Atlanta\xASenao\xAServer Technology\xAsharp\xASIEMENS\xASigma\xASiips\xAsilex technology\xAsitara\xASitecom\xASky\xASmartSwitch\xASMC\xASnapgear\xASolution 6\xASonic-X\xASonicWALL\xASOPHIA (Schweiz) AG\xASorenson\xASpeedcom\xASpeedStream\xASpeedXess\xASphairon\xASpike\xASun\xASun Microsystems\xASweex\xASwissvoice\xASybase\xASymbol\xASystem/32\xAT-Comfort\xATANDBERG\xATandberg Data\xATandem\xATeam Xodus\xATeklogix\xATelco Systems\xATeledat\xATeletronics\xATelewell\xATelindus\xATellabs\xATENDA\xATerayon\xATiara\xAtopsec\xATP Link\xATRENDnet\xATRICHEER\xATroy\xATVT System\xAU.S. Robotics\xAubee\xAUNEX\xAUniden\xAUnisys\xAUS Robotics\xAus21100060\xAV-Tech\xAVASCO\xAVerifone\xAVerilink\xAVirgin Media\xAVisual Networks\xAVodafone\xAVonage\xAVxWorks\xAWanadoo\xAWang\xAWatchGuard\xAWestell\xAWyse\xAX-Micro\xAXavi\xAxd\xAXerox\xAXylan\xAXyplex\xAYakumo\xAZcom\xAZebra\xAZonet\xAZOOM\xAZTE \xAZXDSL\xAZyXEL\xAFind Password
+Router Passwords is officially the most updated default router password repository on the internet. To find the default password of your router select the manufacturer from the drop-down and click the Find Password Button.
+TOP STORIES OF THE DAY
+Best Wireless router of 2019
+Router Passwords have rounded up the very best wireless routers available in 2019!
+But not only that – we have also included where you can purchase these must-have routers at the very best prices!
+READ MORE
+REVIEWS
+Netgear Nighthawk R7000 router review
+11/02/2019
+Netgear designed the R7000 to simply be the fastest and rangiest wireless router available…
+Read More »
+D-Link DIR 890L Tri-Band Router Review
+07/02/2019
+Our review breaks down exactly what it is we love about one of the fastest Wi-Fi routers…
+Read More »
+ASUS RT-AC5300 ROUTER REVIEW
+18/11/2018
+The Asus RT-AC5300 router is an expensive device, but will deliver blistering Wi-Fi speeds…
+Read More »
+MORE REVIEWS
+BUYERS GUIDES
+Buyers Guides
+Best Wireless router 2019 – Our roundup and definitive buyers guide
+Which router has the best port forwarding, has fewer instances of lag, and is…
+Read More »
+29/03/2019
+No Comments
+Buyers Guides
+Top 5 Best Powerline Adapters
+A powerline adapter is using the wiring of a home as a cabled computer network. You have…
+Read More »
+28/09/2018
+No Comments
+Buyers Guides
+The Ten Best Routers for XBox Live and PSN
+Which router has the best port forwarding, has fewer instances of lag, and is…
+Read More »
+08/11/2018
+No Comments
+MORE BUYERS GUIDES
+TOP HEADLINES IN CYBER SECURITY
+Stay up to date with the Latest Cyber Security News
+Latest Updates5 Digital Risks That Could Affect Your Kids This New School Year 03/08/2019 Toni BirdsongDHCP Client Remote Code Execution Vulnerability Demystified 02/08/2019 Bosco SebastianClop Ransomware 01/08/2019 Alexandre MundoBe Wary of WhatsApp Messages Offering 1000GB of Free Data 31/07/2019 Gary DavisThe Twin Journey, Part 1 31/07/2019 Cedric CochinCapital One Data Breach: How Impacted Users Can Stay More Secure 30/07/2019 Gary Davis
+TECH ARTICLES
+Tech Articles
+What is WIFI, What does WIFI stand for and how does it work?
+What does WiFi stand for and how does WiFi work? All these questions will be answered right here and you will be able to know exactly what it is!
+Read More »
+19/02/2019
+No Comments
+Security
+3 Reasons Not to Use Cloud on your CCTV
+3 Reasons why you should be port forwarding and not using the cloud setup for mobile viewing with your DVR or NVR. Although Cloud setup
+Read More »
+16/04/2019
+No Comments
+How-to Articles
+Speed up your internet
+Internet connectivity has become an essential part of modern day life. You should know how annoying it is when your internet is down or when your line is incredibly slow.
+Read More »
+19/09/2018
+No Comments
+MORE TECH ARTICLES
+SECURITY
+Security
+3 Reasons Not to Use Cloud on your CCTV
+3 Reasons why you should be port forwarding and not using the cloud setup for mobile viewing with your DVR or NVR. Although Cloud setup
+Read More »
+16/04/2019
+No Comments
+Security
+WiFi Security Basics
+Wifi or wireless networking has removed the need to run cables throughout a home to make sure that everyone has an Internet connection.
+Read More »
+28/01/2019
+No Comments
+How-to Articles
+Port Forward a HikVision DVR/NVR
+The Hikvision DVR uses the ports 8000, 554 and 80 for remote services. The remote app used to connect from iPhone or an Android phone
+Read More »
+21/01/2019
+1 Comment
+MORE SECURITY ARTICLES
+Routers
+Find Password
+Asus
+TP Link
+Linksys
+Netgear
+D-Link
+Best Sellers
+Best Routers of 2019
+Best Powerline Adapters
+Our Pages
+Buyers Guides
+Reviews
+How-to
+Technology
+Security
+Our Newsletter
+Name
+Email
+Subscribe
+© 2019. All Rights reserved. Routerpasswords.com. Clickshow Limited Registered in England & Wales with Company Number 09532149.
+Twitter
+Facebook
+We use cookies to give you the best online experience. By agreeing you accept the use of cookies in accordance with our cookie policy.
+I accept
+Privacy Settings
+Privacy Settings saved!
+Privacy Settings
+When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. Control your personal Cookie Services here.
+Main
+Privacy Center Privacy Policy Cookie Policy
+Cookie Service
+Decline all Services
+Accept all Services
 
 
 
@@ -2140,7 +1691,7 @@ exit(0);\n
 }\n
 return 0;\n}\n\n# We don't want to spend 3 * read_timeout on every telnet server.\nb = get_telnet_banner(port: port);\nif (isnull(b)) audit(AUDIT_NO_BANNER, port);\nif (! egrep(string: b, pattern: \"BCM[0-9]+ ADSL Router\"))\n
 exit(0, \"The Telnet banner on port \"+ port +\" is not for a Broadcom BCM96338 ADSL Router.\");\n\nif (! telnet2_init(port: port, timeout: 3 * get_read_timeout()))\n
-audit(AUDIT_SVC_FAIL, \"Telnet\", port);\ntelnet_loop();\nexit(0);\n", "title": "Default Password (password) for 'admin' Account on Broadcom BCM96338 ADSL Router", "type": "nessus", "viewCount": 772}, "differentElements": ["description"], "edition": 1, "lastseen": "2016-09-26T17:26:12"}], "edition": 3, "hashmap": [{"key": "bulletinFamily", "hash": "bbdaea376f500d25f6b0c1050311dd07"}, {"key": "cpe", "hash": "d41d8cd98f00b204e9800998ecf8427e"}, {"key": "cvelist", "hash": "d41d8cd98f00b204e9800998ecf8427e"}, {"key": "cvss", "hash": "8cd4821cb504d25572038ed182587d85"}, {"key": "description", "hash": "3b44b7a06b1888a87a6ba53f6d0b7508"}, {"key": "href", "hash": "3cbb9610270b1026c8ed34a5a0e0d5b3"}, {"key": "modified", "hash": "ca9b79350dd1d4ef33ccdf723f78b5d9"}, {"key": "naslFamily", "hash": "98229c13ca0419b92d92c2af6ae65a55"}, {"key": "pluginID", "hash": "43bd05407f445ba956b75a1911ddfe28"}, {"key": "published", "hash": "b6d85ea0ed085d15e08bdbdd507c7b6d"}, {"key": "references", "hash": "d41d8cd98f00b204e9800998ecf8427e"}, {"key": "reporter", "hash": "9cf00d658b687f030ebe173a0528c567"}, {"key": "sourceData", "hash": "b519c5e9ac369862261ebb3aaa3f90bc"}, {"key": "title", "hash": "eb20c0f8648ef510b66c440d4ecfae08"}, {"key": "type", "hash": "5e0bd03bec244039678f2b955a2595aa"}], "hash": "d65781047dfdcb7aa6ae029ef8c020ad8d3786a93db8752e8a81d5a90ceddd45", "viewCount": 1213, "enchantments": {"dependencies": {"references": [{"type": "nessus", "idList": ["ACCOUNT_ADMIN_PASSWORD.NASL"]}], "modified": "2019-02-21T01:11:29"}, "score": {"value": 1.2, "vector": "NONE", "modified": "2019-02-21T01:11:29"}, "vulnersScore": 1.2}, "objectVersion": "1.3", "sourceData": "#\n# (C) Tenable Network Security, Inc.\n#\n\n\ninclude(\"compat.inc\");\n\nif (description)\n{\n
+audit(AUDIT_SVC_FAIL, \"Telnet\", port);\ntelnet_loop();\nexit(0);\n", "title": "Default Password (password) for 'admin' Account on Broadcom BCM96338 ADSL Router", "type": "nessus", "viewCount": 772}, "differentElements": ["description"], "edition": 1, "lastseen": "2016-09-26T17:26:12"}], "edition": 3, "hashmap": [{"key": "bulletinFamily", "hash": "bbdaea376f500d25f6b0c1050311dd07"}, {"key": "cpe", "hash": "d41d8cd98f00b204e9800998ecf8427e"}, {"key": "cvelist", "hash": "d41d8cd98f00b204e9800998ecf8427e"}, {"key": "cvss", "hash": "8cd4821cb504d25572038ed182587d85"}, {"key": "description", "hash": "3b44b7a06b1888a87a6ba53f6d0b7508"}, {"key": "href", "hash": "3cbb9610270b1026c8ed34a5a0e0d5b3"}, {"key": "modified", "hash": "ca9b79350dd1d4ef33ccdf723f78b5d9"}, {"key": "naslFamily", "hash": "98229c13ca0419b92d92c2af6ae65a55"}, {"key": "pluginID", "hash": "43bd05407f445ba956b75a1911ddfe28"}, {"key": "published", "hash": "b6d85ea0ed085d15e08bdbdd507c7b6d"}, {"key": "references", "hash": "d41d8cd98f00b204e9800998ecf8427e"}, {"key": "reporter", "hash": "9cf00d658b687f030ebe173a0528c567"}, {"key": "sourceData", "hash": "b519c5e9ac369862261ebb3aaa3f90bc"}, {"key": "title", "hash": "eb20c0f8648ef510b66c440d4ecfae08"}, {"key": "type", "hash": "5e0bd03bec244039678f2b955a2595aa"}], "hash": "d65781047dfdcb7aa6ae029ef8c020ad8d3786a93db8752e8a81d5a90ceddd45", "viewCount": 1225, "enchantments": {"dependencies": {"references": [{"type": "nessus", "idList": ["ACCOUNT_ADMIN_PASSWORD.NASL"]}], "modified": "2019-02-21T01:11:29"}, "score": {"value": 1.2, "vector": "NONE", "modified": "2019-02-21T01:11:29"}, "vulnersScore": 1.2}, "objectVersion": "1.3", "sourceData": "#\n# (C) Tenable Network Security, Inc.\n#\n\n\ninclude(\"compat.inc\");\n\nif (description)\n{\n
 script_id(35621);\n
 script_version (\"$Revision: 1.10 $\");\n
 script_cvs_date(\"$Date: 2015/10/09 22:45:48 $\");\n \n
@@ -2276,7 +1827,7 @@ FAQ
 Search
 Register
 Login
-It is currently Wed Jul 31, 2019 11:38 am
+It is currently Sat Aug 03, 2019 10:11 pm
 View unanswered posts | View active topics
 Board index » PureBasic » Coding Questions
 All times are UTC + 1 hour
@@ -2291,7 +1842,7 @@ Message
 skywalk
 Post subject: Login/interact with router using code?Posted: Sun Sep 22, 2013 4:21 am
 Addict
-Joined: Wed Dec 23, 2009 10:14 pmPosts: 2980Location: Boston, MA
+Joined: Wed Dec 23, 2009 10:14 pmPosts: 2989Location: Boston, MA
 Has anyone tried to login to their router with code?I want to automate some repetitive tasks like turning on/off the wireless radio and rebooting. I enabled telnet on the router and queried its commands, but there were none clearly labeled as such. Even the config file is encrypted so I can't modify that and reload. So, I assume I have to work the web cgi utility 192.168.1.1, and browse to the settings page and somehow send a click to a radio button and then hit apply button.I searched a bit through the forum but nothing stuck.Outside there are some iMacro recorders but I don't want my password encased in a 3rd party app.
 _________________The nice thing about standards is there are so many to choose from. ~ Andrew Tanenbaum
 Top
@@ -2316,7 +1867,7 @@ Top
 skywalk
 Post subject: Re: Login/interact with router using code?Posted: Sun Sep 22, 2013 5:41 pm
 Addict
-Joined: Wed Dec 23, 2009 10:14 pmPosts: 2980Location: Boston, MA
+Joined: Wed Dec 23, 2009 10:14 pmPosts: 2989Location: Boston, MA
 Ok, I guess network sniffing is the 1st step and then I use api to send the data bytes of my login.Thanks for the Wireshark link.
 _________________The nice thing about standards is there are so many to choose from. ~ Andrew Tanenbaum
 Top
@@ -2330,7 +1881,7 @@ Top
 skywalk
 Post subject: Re: Login/interact with router using code?Posted: Mon Sep 23, 2013 4:50 pm
 Addict
-Joined: Wed Dec 23, 2009 10:14 pmPosts: 2980Location: Boston, MA
+Joined: Wed Dec 23, 2009 10:14 pmPosts: 2989Location: Boston, MA
 Unfortunately, my router only lists commands from the telnet dump and there is no direct documentation.The mfg(Actiontec) did make the firmware code available in a 150MB download
 I hope it's well documented
 _________________The nice thing about standards is there are so many to choose from. ~ Andrew Tanenbaum
@@ -2353,7 +1904,7 @@ Top
 skywalk
 Post subject: Re: Login/interact with router using code?Posted: Mon Sep 23, 2013 5:26 pm
 Addict
-Joined: Wed Dec 23, 2009 10:14 pmPosts: 2980Location: Boston, MA
+Joined: Wed Dec 23, 2009 10:14 pmPosts: 2989Location: Boston, MA
 sec wrote:Actiontec is linux based, GPL license. So you can to ask actiontec give u the source, its legal.By the way, i hear actiontec is stable on make connection , why u need reboot iYes, I mentioned already downloaded the source code. I need to force a reboot, since some users mentioned that improves upload speeds. I was experiencing the same slow downs.luis wrote:I saw many Actiontec routers use BusyBox, are you sure yours doesn't ?I haven't tried this yet, since I don't know how to invoke busybox on my router? I don't have a linux machine to debug.
 _________________The nice thing about standards is there are so many to choose from. ~ Andrew Tanenbaum
 Top
@@ -2466,7 +2017,7 @@ Top
 skywalk
 Post subject: Re: Login/interact with router using code?Posted: Mon Sep 23, 2013 6:18 pm
 Addict
-Joined: Wed Dec 23, 2009 10:14 pmPosts: 2980Location: Boston, MA
+Joined: Wed Dec 23, 2009 10:14 pmPosts: 2989Location: Boston, MA
 luis wrote:You don't need a linux box, linux is running inside the router and you can simply open a telnet session to it.Just launch Telnet.exe from Windows. Yes luis, I have already telnet'd to my router successfully, but 'sh' did not work.But wait! I found it buried in a lower command structure.Quote:Wireless Broadband Router> system shellTemporary setting log_level offBusyBox v1.01 (2005.09.07-07:38+0000) Built-in shell (lash)Enter 'help' for a list of built-in commands./ # helpBuilt-in commands:-------------------bg
 Resume a job in the backgroundcd
 Change working directoryexec
@@ -2489,7 +2040,7 @@ Go to page 1, 2  Next
 Board index » PureBasic » Coding Questions
 All times are UTC + 1 hour
 Who is online
-Users browsing this forum: No registered users and 16 guests
+Users browsing this forum: No registered users and 19 guests
 You cannot post new topics in this forumYou cannot reply to topics in this forumYou cannot edit your posts in this forumYou cannot delete your posts in this forum
 Search for:
 Jump to:
@@ -4562,7 +4113,7 @@ Watch
 Star
 326
 Fork
-120
+119
 knipknap/exscript
 Code
 Issues
