@@ -50,7 +50,7 @@ def perform_search(words):
                 break
             res = browser.find_elements_by_xpath("//*[@href]")
             for r in res:
-                print(".")
+                # print(".")
                 link = r.get_attribute('href')
                 if 'https://www.google.com/search?' in link:
                     continue
@@ -68,10 +68,10 @@ def perform_search(words):
             browser.find_element_by_xpath("//*[contains(local-name(), 'span') and contains(text(), 'Next')]").click()
         except:
             browser.quit()
-            print('=>', urls)
+            # print('=>', urls)
             return urls
     browser.quit()
-    print('=>', urls)
+    # print('=>', urls)
     return urls
 
 

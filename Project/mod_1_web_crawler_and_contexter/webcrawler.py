@@ -54,7 +54,7 @@ def find_urls(words):
 	i = 10
 	tmp_urls = []
 	tmp_urls = perform_search(words)
-	print(tmp_urls)
+	# print(tmp_urls)
 
 	
 	trash = ['youtube.com', 'facebook.com', 'linkedin.com', 'twitter.com', 'quora.com', 'glassdoor.com', 'reddit.com', '.pdf', '.doc', '.docx']
@@ -87,8 +87,8 @@ Steps:
 	--returns text (combination of keywords)
 '''
 def get_text(url, return_dict):
-	time.sleep(0.5)
-	req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}) #spoofed agent for avoiding scraping ban
+	time.sleep(1)
+	req = Request(url, headers={'User-Agent': 'Mozilla/4.0'}) #spoofed agent for avoiding scraping ban
 	html = urlopen(req).read()
 	soup = BeautifulSoup(html)
 	for script in soup(["script", "style"]):
@@ -230,7 +230,6 @@ def refine_query(q, mode):
 		reg = re.compile('<[^<]+?>')
 		q = re.sub(reg, '', q)
 		
-
 	if mode == 1:
 		q = q.replace('\\r', " ")
 		q = q.replace('\\n', " ")
@@ -238,7 +237,6 @@ def refine_query(q, mode):
 	
 
 	possibleProd = find_pattern(q)
-
 	keywords = q.split(" ")
 	newQ = ""
 	if mode == 1:
@@ -246,7 +244,8 @@ def refine_query(q, mode):
 			for ep in possibleProd:
 				if ep not in ele:
 					newQ += (ele + " ")
-		q = newQ
+		if len(possibleProd) > 0:
+			q = newQ
 
 
 	r = Rake()
@@ -301,10 +300,18 @@ def main():
 
 	with open("queryMap.json", "r") as f: prevData = f.read()
 	prevData = json.loads(prevData)
-	newKey = len(prevData)
-	prevData[str(newKey)] = {"ori": qCopy, "ref:": res}
-	prevData = json.dumps(prevData, indent=4)
-	with open("queryMap.json", "w") as f: f.write(prevData)
+	RESs = set({})
+	for ele in prevData:
+		if ele == '0':continue
+		# print('ele: ', prevData[ele])
+		RESs.add(prevData[ele]['ref:'])
+	if res in RESs:
+		res2 = 0
+	else:
+		newKey = len(prevData)
+		prevData[str(newKey)] = {"ori": qCopy, "ref:": res}
+		prevData = json.dumps(prevData, indent=4)
+		with open("queryMap.json", "w") as f: f.write(prevData)
 
 
 	with open('refinedQuery.txt', 'w') as file: file.write(res)

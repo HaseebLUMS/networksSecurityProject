@@ -21,6 +21,7 @@ vendors = predictions['vendors']
 device_types = predictions['device_types']
 products = predictions['products']
 
+selected_text = []
 
 ''' Separate the lines of 
 the text and makes a list
@@ -52,6 +53,7 @@ def count_related_lines(a, b, text):
 			
 			if('vd' in tmp):
 				count += 1
+				selected_text.append(t)
 	# if a is 'mikrotik':
 	# 	print(count)
 	return count
@@ -150,6 +152,7 @@ def main():
 		except:
 			pass
 
+		text = selected_text #narrows down the text to the lines containing vendor and devices
 		try:
 			predicted_product = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
 		except:

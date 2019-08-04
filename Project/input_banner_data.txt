@@ -1,1 +1,1 @@
-BCM96328 Broadband Router\r\nLogin:
+220 MikroTik-KPI FTP server (MikroTik 6.45.2) ready

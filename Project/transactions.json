@@ -2,5 +2,3633 @@
     "1": [
         "test 1",
         " test 2"
+    ],
+    "2": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "3": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "4": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "5": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "6": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "7": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "8": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "9": [
+        " ffff USG110",
+        "ZONES | NETWORK"
+    ],
+    "10": [
+        " proftpd netgear readynas ffff 5b",
+        "NETGEAR | NETWORK | IM5.0"
+    ],
+    "11": [
+        " proftpd netgear readynas ffff 5b",
+        "INTEL | CONTROLLER | freenas2"
+    ],
+    "12": [
+        " proftpd netgear readynas ffff 5b",
+        "MIKROTIK | NAS"
+    ],
+    "13": [
+        " proftpd netgear readynas ffff 5b",
+        "MIKROTIK | ROUTER"
+    ],
+    "14": [
+        " proftpd netgear readynas ffff 5b",
+        "MIKROTIK | FIREWALL"
+    ],
+    "15": [
+        " proftpd netgear readynas ffff 5b",
+        "MIKROTIK | SWITCH"
+    ],
+    "16": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | lia640230"
+    ],
+    "17": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "18": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "19": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "20": [
+        " http sourceforge filezilla tim kosse filezilla tim kosse gmx de",
+        "MICROSOFT | STORAGE | S3"
+    ],
+    "21": [
+        " freebits mikrotik acis",
+        "MICROSOFT | NETWORK"
+    ],
+    "22": [
+        " freebits mikrotik acis",
+        "MICROSOFT | STORAGE"
+    ],
+    "23": [
+        " freebits mikrotik acis",
+        "MICROSOFT | FIREWALL"
+    ],
+    "24": [
+        " freebits mikrotik acis",
+        "MICROSOFT | PRINTER"
+    ],
+    "25": [
+        " freebits mikrotik acis",
+        "MICROSOFT | PROCESSOR"
+    ],
+    "26": [
+        " freebits mikrotik acis",
+        "VARIABLE | NETWORK"
+    ],
+    "27": [
+        " freebits mikrotik acis",
+        "VARIABLE | STORAGE"
+    ],
+    "28": [
+        " freebits mikrotik acis",
+        "VARIABLE | FIREWALL"
+    ],
+    "29": [
+        " freebits mikrotik acis",
+        "VARIABLE | USB"
+    ],
+    "30": [
+        " freebits mikrotik acis",
+        "IBM | STORAGE"
+    ],
+    "31": [
+        " freebits mikrotik acis",
+        "IBM | FIREWALL"
+    ],
+    "32": [
+        " freebits mikrotik acis",
+        "CISCO | NETWORK"
+    ],
+    "33": [
+        " freebits mikrotik acis",
+        "CISCO | ROUTER"
+    ],
+    "34": [
+        " freebits mikrotik acis",
+        "CISCO | CAMERA"
+    ],
+    "35": [
+        " freebits mikrotik acis",
+        "CISCO | FIREWALL"
+    ],
+    "36": [
+        " freebits mikrotik acis",
+        "CISCO | CONTROLLER"
+    ],
+    "37": [
+        " freebits mikrotik acis",
+        "CISCO | SWITCH"
+    ],
+    "38": [
+        " freebits mikrotik acis",
+        "CGI | NETWORK"
+    ],
+    "39": [
+        " freebits mikrotik acis",
+        "CGI | CAMERA"
+    ],
+    "40": [
+        " freebits mikrotik acis",
+        "ORACLE | SIGN"
+    ],
+    "41": [
+        " freebits mikrotik acis",
+        "SYMANTEC | NETWORK"
+    ],
+    "42": [
+        " freebits mikrotik acis",
+        "SYMANTEC | STORAGE"
+    ],
+    "43": [
+        " freebits mikrotik acis",
+        "SYMANTEC | FIREWALL"
+    ],
+    "44": [
+        " freebits mikrotik acis",
+        "HUAWEI | ROUTER"
+    ],
+    "45": [
+        " freebits mikrotik acis",
+        "HUAWEI | CAMERA"
+    ],
+    "46": [
+        " freebits mikrotik acis",
+        "SAP | NETWORK"
+    ],
+    "47": [
+        " freebits mikrotik acis",
+        "SAP | ROUTER"
+    ],
+    "48": [
+        " freebits mikrotik acis",
+        "QUALCOMM | ROUTER"
+    ],
+    "49": [
+        " freebits mikrotik acis",
+        "QUALCOMM | CAMERA"
+    ],
+    "50": [
+        " freebits mikrotik acis",
+        "QUALCOMM | STORAGE"
+    ],
+    "51": [
+        " freebits mikrotik acis",
+        "QUALCOMM | USB"
+    ],
+    "52": [
+        " freebits mikrotik acis",
+        "QUALCOMM | SWITCH"
+    ],
+    "53": [
+        " freebits mikrotik acis",
+        "INTEL | NETWORK"
+    ],
+    "54": [
+        " freebits mikrotik acis",
+        "INTEL | PROCESSOR"
+    ],
+    "55": [
+        " freebits mikrotik acis",
+        "FREEBSD | ROUTER"
+    ],
+    "56": [
+        " freebits mikrotik acis",
+        "BLACKBERRY | NETWORK"
+    ],
+    "57": [
+        " freebits mikrotik acis",
+        "SIEMENS | FIREWALL"
+    ],
+    "58": [
+        " freebits mikrotik acis",
+        "SIEMENS | SWITCH"
+    ],
+    "59": [
+        " freebits mikrotik acis",
+        "SAMSUNG | CAMERA"
+    ],
+    "60": [
+        " freebits mikrotik acis",
+        "SAMSUNG | TV"
+    ],
+    "61": [
+        " freebits mikrotik acis",
+        "ASUS | ROUTER"
+    ],
+    "62": [
+        " freebits mikrotik acis",
+        "NETGEAR | ROUTER"
+    ],
+    "63": [
+        " freebits mikrotik acis",
+        "DELL | CONTROLLER"
+    ],
+    "64": [
+        " freebits mikrotik acis",
+        "MIKROTIK | ROUTER"
+    ],
+    "65": [
+        " freebits mikrotik acis",
+        "NVIDIA | TV"
+    ],
+    "66": [
+        " freebits mikrotik acis",
+        "EMERSON | CONTROLLER"
+    ],
+    "67": [
+        " freebits mikrotik acis",
+        "HIKVISION | NETWORK"
+    ],
+    "68": [
+        " freebits mikrotik acis",
+        "HIKVISION | CAMERA"
+    ],
+    "69": [
+        " freebits mikrotik acis",
+        "BOSCH | CAMERA"
+    ],
+    "70": [
+        " freebits mikrotik acis",
+        "SUPERMICRO | CONTROLLER"
+    ],
+    "71": [
+        " freebits mikrotik acis",
+        "BELKIN | ROUTER"
+    ],
+    "72": [
+        " freebits mikrotik acis",
+        "NUUO | NETWORK"
+    ],
+    "73": [
+        " freebits mikrotik acis",
+        "NUUO | CAMERA"
+    ],
+    "74": [
+        " freebits mikrotik acis",
+        "BROTHER | PRINTER"
+    ],
+    "75": [
+        " freebits mikrotik acis",
+        "HANGZHOU | NETWORK"
+    ],
+    "76": [
+        " freebits mikrotik acis",
+        "SMARTTHINGS | CAMERA"
+    ],
+    "77": [
+        " draytek",
+        " draytek"
+    ],
+    "78": [
+        " asus RT-AC66U",
+        "ASUS | ROUTER | AC66u"
+    ],
+    "79": [
+        " asus RT-AC66U",
+        "ASUS | USB | AC66u"
+    ],
+    "80": [
+        " asus RT-AC66U",
+        "ASUS | NETWORK | AC66u"
+    ],
+    "81": [
+        " asus RT-AC66U",
+        "ASUS | STORAGE | RT-AC66U"
+    ],
+    "82": [
+        " asus RT-AC66U",
+        "ASUS | WIFI | RT-AC66U"
+    ],
+    "83": [
+        " asus RT-AC66U",
+        "ASUS | PRINTER | RT-AC66U"
+    ],
+    "84": [
+        " asus RT-AC66U",
+        "BROADCOM | ROUTER | AC66u"
+    ],
+    "85": [
+        " asus RT-AC66U",
+        "BROADCOM | SWITCH | RT-N66U"
+    ],
+    "86": [
+        " asus RT-AC66U",
+        "NETGEAR | ROUTER | R6700"
+    ],
+    "87": [
+        " asus RT-AC66U",
+        "NETGEAR | USB | R6700"
+    ],
+    "88": [
+        " asus RT-AC66U",
+        "NETGEAR | WIFI | x1"
+    ],
+    "89": [
+        " asus RT-AC66U",
+        "DASHBOARD | USB | RT-AC66U"
+    ],
+    "90": [
+        " asus RT-AC66U",
+        "DASHBOARD | NETWORK | RT-AC66U"
+    ],
+    "91": [
+        " asus RT-AC66U",
+        "DASHBOARD | STORAGE | RT-AC66U"
+    ],
+    "92": [
+        " asus RT-AC66U",
+        "DASHBOARD | PRINTER | RT-AC66U"
+    ],
+    "93": [
+        " asus RT-AC66U",
+        "INTEL | NETWORK | AC2600"
+    ],
+    "94": [
+        " asus RT-AC66U",
+        "INTEL | WIFI | AC2600"
+    ],
+    "95": [
+        " asus RT-AC66U",
+        "BELKIN | ROUTER"
+    ],
+    "96": [
+        " asus RT-AC66U",
+        "CISCO | USB"
+    ],
+    "97": [
+        " asus RT-AC66U",
+        "EXACT | ROUTER | B1"
+    ],
+    "98": [
+        " asus RT-AC66U",
+        "GIGABYTE | USB | RT-N66U"
+    ],
+    "99": [
+        " asus RT-AC66U",
+        "MEDIATEK | ROUTER | R6700"
+    ],
+    "100": [
+        " asus RT-AC66U",
+        "HONEYWELL | THERMOSTAT | T9"
+    ],
+    "101": [
+        " axis ptz network camera M5013",
+        "HIKVISION | CAMERA | M1004-W"
+    ],
+    "102": [
+        " axis ptz network camera M5013",
+        "SAMSUNG | CAMERA | M1004-W"
+    ],
+    "103": [
+        " axis ptz network camera M5013",
+        "BOSCH | CAMERA | M1004-W"
+    ],
+    "104": [
+        " indah desi mikrotik",
+        "MIKROTIK | NETWORK | K1"
+    ],
+    "105": [
+        " indah desi mikrotik",
+        "MIKROTIK | ROUTER | WNR1004"
+    ],
+    "106": [
+        " indah desi mikrotik",
+        "MIKROTIK | FIREWALL"
+    ],
+    "107": [
+        " indah desi mikrotik",
+        "MIKROTIK | USB"
+    ],
+    "108": [
+        " indah desi mikrotik",
+        "MIKROTIK | WIFI"
+    ],
+    "109": [
+        " indah desi mikrotik",
+        "ROUTERBOARD | ROUTER | WNR1004"
+    ],
+    "110": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "111": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "112": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "113": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "114": [
+        " asus RT-AC1200G",
+        "ASUS | ROUTER | AC1200"
+    ],
+    "115": [
+        " asus RT-AC1200G",
+        "ASUS | NETWORK | RT-AC1200G"
+    ],
+    "116": [
+        " asus RT-AC1200G",
+        "ASUS | WIFI | RT-AC66U"
+    ],
+    "117": [
+        " asus RT-AC1200G",
+        "ASUS | USB | AC1200"
+    ],
+    "118": [
+        " asus RT-AC1200G",
+        "ASUS | PRINTER | RT-AC66U"
+    ],
+    "119": [
+        " asus RT-AC1200G",
+        "ASUS | FIREWALL | RT-AC1200G"
+    ],
+    "120": [
+        " asus RT-AC1200G",
+        "DASHBOARD | NETWORK | RT-AC1200G"
+    ],
+    "121": [
+        " asus RT-AC1200G",
+        "DASHBOARD | USB | RT-AC1200G"
+    ],
+    "122": [
+        " asus RT-AC1200G",
+        "DASHBOARD | BUTTON | RT-AC1200G"
+    ],
+    "123": [
+        " asus RT-AC1200G",
+        "DASHBOARD | FIREWALL | RT-AC1200G"
+    ],
+    "124": [
+        " asus RT-AC1200G",
+        "NETGEAR | ROUTER | X6"
+    ],
+    "125": [
+        " asus RT-AC1200G",
+        "NETGEAR | SWITCH"
+    ],
+    "126": [
+        " asus RT-AC1200G",
+        "BCM | USB | RT-AC1200G"
+    ],
+    "127": [
+        " asus RT-AC1200G",
+        "BCM | BUTTON | RT-AC1200G"
+    ],
+    "128": [
+        " asus RT-AC1200G",
+        "BCM | FIREWALL | RT-AC1200G"
+    ],
+    "129": [
+        " proftpd netgear readynas 3g",
+        "NETGEAR | NAS | V1"
+    ],
+    "130": [
+        " proftpd netgear readynas 3g",
+        "NETGEAR | NETWORK | V1"
+    ],
+    "131": [
+        " proftpd netgear readynas 3g",
+        "VERIZON | ROUTER"
+    ],
+    "132": [
+        " proftpd netgear readynas 3g",
+        "HITACHI | NAS | V1"
+    ],
+    "133": [
+        " proftpd netgear readynas 3g",
+        "HITACHI | NETWORK | V1"
+    ],
+    "134": [
+        " mikrotik",
+        "MIKROTIK | ROUTER | RB1100AHx2"
+    ],
+    "135": [
+        " mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "136": [
+        " mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "137": [
+        " mikrotik",
+        "MIKROTIK | USB"
+    ],
+    "138": [
+        " mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "139": [
+        " mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "140": [
+        " mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "141": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "142": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "143": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "144": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "145": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "146": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "147": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "148": [
+        " speedport 921v v1.45",
+        "BROADCOM | NETWORK | BCM4313"
+    ],
+    "149": [
+        " speedport 921v v1.45",
+        "NETGEAR | SWITCH | GS108PE"
+    ],
+    "150": [
+        " Box7581",
+        "MATRIX | PRINTER"
+    ],
+    "151": [
+        " Box7581",
+        "GLASS | NETWORK | landlines4"
+    ],
+    "152": [
+        " Box7581",
+        "GLASS | WIFI | landlines4"
+    ],
+    "153": [
+        " Box7581",
+        "GLASS | STORAGE | landlines4"
+    ],
+    "154": [
+        " Box7581",
+        "GLASS | FIREWALL | landlines4"
+    ],
+    "155": [
+        " Box7581",
+        "GLASS | SWITCH | landlines4"
+    ],
+    "156": [
+        " mikrotik obertorstrasse",
+        "MIKROTIK | ROUTER | B1"
+    ],
+    "157": [
+        " mikrotik obertorstrasse",
+        "SPRINT | CONTROLLER | NH-156"
+    ],
+    "158": [
+        " mikrotik obertorstrasse",
+        "SPRINT | SWITCH | NH-156"
+    ],
+    "159": [
+        " rackstation",
+        "INTEL | STORAGE"
+    ],
+    "160": [
+        " rackstation",
+        "INTEL | NETWORK"
+    ],
+    "161": [
+        " rackstation",
+        "INTEL | PROCESSOR | RS816"
+    ],
+    "162": [
+        " rackstation",
+        "OPENSTACK | NAS"
+    ],
+    "163": [
+        " rackstation",
+        "OPENSTACK | STORAGE"
+    ],
+    "164": [
+        " diskstation",
+        "OPENSTACK | STORAGE"
+    ],
+    "165": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "166": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "167": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "168": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "169": [
+        " ffff USG40",
+        "CISCO | ROUTER | RV-345P"
+    ],
+    "170": [
+        " ffff USG40",
+        "NETGEAR | ROUTER | R7800"
+    ],
+    "171": [
+        " ffff USG40",
+        "NETGEAR | SWITCH"
+    ],
+    "172": [
+        " ffff USG40",
+        "NETGEAR | WIFI | R7800"
+    ],
+    "173": [
+        " arbelon schott mikrotik hotspotrouter",
+        "MIKROTIK | NETWORK"
+    ],
+    "174": [
+        " arbelon schott mikrotik hotspotrouter",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "175": [
+        " arbelon schott mikrotik hotspotrouter",
+        "MIKROTIK | ROUTER | RB1100AHx4"
+    ],
+    "176": [
+        " arbelon schott mikrotik hotspotrouter",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "177": [
+        " Box7490",
+        "ASUS | ROUTER | RT-AC68U"
+    ],
+    "178": [
+        " Box7490",
+        "ASUS | NETWORK | PCE-AC68"
+    ],
+    "179": [
+        " Box7490",
+        "NETGEAR | ROUTER"
+    ],
+    "180": [
+        " Box7490",
+        "NETGEAR | USB | AC750"
+    ],
+    "181": [
+        " Box7490",
+        "NETGEAR | WIFI | AC750"
+    ],
+    "182": [
+        " Box7490",
+        "NETGEAR | NETWORK | AC750"
+    ],
+    "183": [
+        " Box7490",
+        "GIGABYTE | NETWORK"
+    ],
+    "184": [
+        " alcatel alcatel alcatel alcatel alcatel sr sr sr sr sr tue tue tue tue tue sep sep sep sep sep pdt pdt pdt pdt pdt alcatel alcatel cpm r6 r6 cpm r6 timos rel9 panos lucent b1 C-9.0 R6 rel9.0",
+        "CISCO | ROUTER | CSR1000v"
+    ],
+    "185": [
+        " alcatel alcatel alcatel alcatel alcatel sr sr sr sr sr tue tue tue tue tue sep sep sep sep sep pdt pdt pdt pdt pdt alcatel alcatel cpm r6 r6 cpm r6 timos rel9 panos lucent b1 C-9.0 R6 rel9.0",
+        "CISCO | NETWORK | GNS3"
+    ],
+    "186": [
+        " alcatel alcatel alcatel alcatel alcatel sr sr sr sr sr tue tue tue tue tue sep sep sep sep sep pdt pdt pdt pdt pdt alcatel alcatel cpm r6 r6 cpm r6 timos rel9 panos lucent b1 C-9.0 R6 rel9.0",
+        "NOKIA | ROUTER"
+    ],
+    "187": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "188": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "189": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "190": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "191": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "192": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "193": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "194": [
+        " mikrotik Opatowicka11",
+        "SAMSUNG | TV | S8"
+    ],
+    "195": [
+        " mikrotik Opatowicka11",
+        "HUAWEI | TV"
+    ],
+    "196": [
+        " mikrotik Opatowicka11",
+        "HUAWEI | SIGN | m1"
+    ],
+    "197": [
+        " mikrotik Opatowicka11",
+        "STAR | TV | x1"
+    ],
+    "198": [
+        " mikrotik Opatowicka11",
+        "STAR | WATCH"
+    ],
+    "199": [
+        " mikrotik Opatowicka11",
+        "ZTE | SWITCH | E5"
+    ],
+    "200": [
+        " mikrotik Opatowicka11",
+        "ASUS | WATCH"
+    ],
+    "201": [
+        " mikrotik Opatowicka11",
+        "PHILIPS | TV | xe2"
+    ],
+    "202": [
+        " mikrotik Opatowicka11",
+        "TEGO | NAS"
+    ],
+    "203": [
+        " mikrotik Opatowicka11",
+        "DJI | CAMERA"
+    ],
+    "204": [
+        " mikrotik Opatowicka11",
+        "DJI | WIFI | nc-17"
+    ],
+    "205": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "206": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "207": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "208": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "209": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "210": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "211": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "212": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "213": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "214": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "215": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "216": [
+        " router mikrotik tiffany",
+        "MIKROTIK | NETWORK | RB2011UiAS"
+    ],
+    "217": [
+        " router mikrotik tiffany",
+        "MIKROTIK | ROUTER | RB2011UiAS"
+    ],
+    "218": [
+        " router mikrotik tiffany",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "219": [
+        " router mikrotik tiffany",
+        "MIKROTIK | WIFI | RB2011UiAS"
+    ],
+    "220": [
+        " router mikrotik tiffany",
+        "ROUTERBOARD | NETWORK | RB2011UiAS"
+    ],
+    "221": [
+        " router mikrotik tiffany",
+        "ROUTERBOARD | ROUTER | RB2011UiAS"
+    ],
+    "222": [
+        " router mikrotik tiffany",
+        "ROUTERBOARD | WIFI | RB2011UiAS"
+    ],
+    "223": [
+        " router mikrotik tiffany",
+        "CISCO | NETWORK"
+    ],
+    "224": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "225": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "226": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "227": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "228": [
+        " mikrotiksalon mikrotik",
+        "MIKROTIK | ROUTER | com185.11"
+    ],
+    "229": [
+        " mikrotiksalon mikrotik",
+        "MIKROTIK | WIFI | g-2hnd"
+    ],
+    "230": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "231": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "232": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "233": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "234": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "235": [
+        " mikrotik Router1",
+        "MIKROTIK | ROUTER | R2"
+    ],
+    "236": [
+        " mikrotik Router1",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "237": [
+        " mikrotik Router1",
+        "MIKROTIK | USB | R2"
+    ],
+    "238": [
+        " mikrotik Router1",
+        "CISCO | ROUTER | Router1"
+    ],
+    "239": [
+        " mikrotik Router1",
+        "ROUTERBOARD | USB | R2"
+    ],
+    "240": [
+        " asus RT-AC87U",
+        "ASUS | ROUTER | AC87U"
+    ],
+    "241": [
+        " asus RT-AC87U",
+        "ASUS | USB | c5"
+    ],
+    "242": [
+        " asus RT-AC87U",
+        "ASUS | NETWORK | AC87U"
+    ],
+    "243": [
+        " asus RT-AC87U",
+        "ASUS | WIFI | c2"
+    ],
+    "244": [
+        " asus RT-AC87U",
+        "ASUS | PROCESSOR | RT-AC86U"
+    ],
+    "245": [
+        " asus RT-AC87U",
+        "ASUS | SWITCH | AC87U"
+    ],
+    "246": [
+        " asus RT-AC87U",
+        "BROADCOM | ROUTER"
+    ],
+    "247": [
+        " asus RT-AC87U",
+        "BROADCOM | CONTROLLER | r456083"
+    ],
+    "248": [
+        " asus RT-AC87U",
+        "INTEL | NETWORK | AC2600"
+    ],
+    "249": [
+        " asus RT-AC87U",
+        "INTEL | WIFI | AC2600"
+    ],
+    "250": [
+        " asus RT-AC87U",
+        "NETGEAR | ROUTER | AC68U"
+    ],
+    "251": [
+        " asus RT-AC51U",
+        "ASUS | ROUTER | RT-AC51U"
+    ],
+    "252": [
+        " asus RT-AC51U",
+        "ASUS | USB | RT-AC51U"
+    ],
+    "253": [
+        " asus RT-AC51U",
+        "ASUS | NETWORK | RT-AC51U"
+    ],
+    "254": [
+        " asus RT-AC51U",
+        "ASUS | WIFI | RT-AC51U"
+    ],
+    "255": [
+        " asus RT-AC51U",
+        "NETGEAR | ROUTER | RS400"
+    ],
+    "256": [
+        " asus RT-AC51U",
+        "NETGEAR | USB | RS400"
+    ],
+    "257": [
+        " asus RT-AC51U",
+        "NETGEAR | WIFI | RS400"
+    ],
+    "258": [
+        " asus RT-AC51U",
+        "DASHBOARD | NETWORK"
+    ],
+    "259": [
+        " asus RT-AC51U",
+        "SAMSUNG | ROUTER | S8"
+    ],
+    "260": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "261": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "262": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "263": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "264": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "265": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "266": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "267": [
+        " garaccionigraziano mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "268": [
+        " garaccionigraziano mikrotik",
+        "MIKROTIK | STORAGE | i386"
+    ],
+    "269": [
+        " garaccionigraziano mikrotik",
+        "MIKROTIK | USB | i386"
+    ],
+    "270": [
+        " ivigilant cloudapp",
+        "ORACLE | SWITCH"
+    ],
+    "271": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "272": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "273": [
+        " asus RT-AC68U",
+        "ASUS | ROUTER | AC68U"
+    ],
+    "274": [
+        " asus RT-AC68U",
+        "ASUS | NETWORK | AC68U"
+    ],
+    "275": [
+        " asus RT-AC68U",
+        "ASUS | WIFI | AC1900"
+    ],
+    "276": [
+        " asus RT-AC68U",
+        "ASUS | USB | x3"
+    ],
+    "277": [
+        " asus RT-AC68U",
+        "ASUS | STORAGE"
+    ],
+    "278": [
+        " asus RT-AC68U",
+        "ASUS | PROCESSOR | RT-AC68U"
+    ],
+    "279": [
+        " asus RT-AC68U",
+        "DASHBOARD | NETWORK"
+    ],
+    "280": [
+        " pppoe teluk intan router dst mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "281": [
+        " pppoe teluk intan router dst mikrotik",
+        "NETGEAR | NETWORK | iQq9b6kXJn"
+    ],
+    "282": [
+        " pppoe teluk intan router dst mikrotik",
+        "NETGEAR | ROUTER | iQq9b6kXJn"
+    ],
+    "283": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "284": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "285": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "286": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "287": [
+        " proftpd netgear readynas 3g",
+        "NETGEAR | NAS | V1"
+    ],
+    "288": [
+        " proftpd netgear readynas 3g",
+        "NETGEAR | NETWORK | V1"
+    ],
+    "289": [
+        " proftpd netgear readynas 3g",
+        "VERIZON | ROUTER"
+    ],
+    "290": [
+        " proftpd netgear readynas 3g",
+        "HITACHI | NAS | V1"
+    ],
+    "291": [
+        " proftpd netgear readynas 3g",
+        "HITACHI | NETWORK | V1"
+    ],
+    "292": [
+        " asus RT-AC86U",
+        "ASUS | ROUTER | RT-AC86U"
+    ],
+    "293": [
+        " asus RT-AC86U",
+        "ASUS | NETWORK | RT-AC86U"
+    ],
+    "294": [
+        " asus RT-AC86U",
+        "ASUS | WIFI | RT-AC86U"
+    ],
+    "295": [
+        " asus RT-AC86U",
+        "ASUS | STORAGE"
+    ],
+    "296": [
+        " asus RT-AC86U",
+        "ASUS | USB | RT-AC66U"
+    ],
+    "297": [
+        " asus RT-AC86U",
+        "ASUS | PROCESSOR | RT-AC86U"
+    ],
+    "298": [
+        " asus RT-AC86U",
+        "ASUS | SIGN | RT-AC86U"
+    ],
+    "299": [
+        " asus RT-AC86U",
+        "INTEL | NETWORK | AC2600"
+    ],
+    "300": [
+        " asus RT-AC86U",
+        "INTEL | WIFI | AC2600"
+    ],
+    "301": [
+        " asus RT-N18U",
+        "ASUS | ROUTER | N18U"
+    ],
+    "302": [
+        " asus RT-N18U",
+        "ASUS | NETWORK | N18U"
+    ],
+    "303": [
+        " asus RT-N18U",
+        "ASUS | STORAGE | RT-N18U"
+    ],
+    "304": [
+        " asus RT-N18U",
+        "ASUS | USB | RT-N18U"
+    ],
+    "305": [
+        " asus RT-N18U",
+        "ASUS | WIFI | AC750"
+    ],
+    "306": [
+        " asus RT-N18U",
+        "ASUS | PROCESSOR | RT-N18U"
+    ],
+    "307": [
+        " asus RT-N18U",
+        "ASUS | SWITCH | RT-N18U"
+    ],
+    "308": [
+        " asus RT-N18U",
+        "BROADCOM | WIFI"
+    ],
+    "309": [
+        " asus RT-N18U",
+        "BROADCOM | CONTROLLER | r448163"
+    ],
+    "310": [
+        " asus RT-N18U",
+        "ARM | PROCESSOR | RT-N18U"
+    ],
+    "311": [
+        " asus RT-N18U",
+        "DASHBOARD | NETWORK"
+    ],
+    "312": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "313": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "314": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "315": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "316": [
+        " asus RT-N56U",
+        "ASUS | ROUTER | RT-N56U"
+    ],
+    "317": [
+        " asus RT-N56U",
+        "ASUS | NETWORK | RTN56U"
+    ],
+    "318": [
+        " asus RT-N56U",
+        "ASUS | USB | GT-AX11000"
+    ],
+    "319": [
+        " asus RT-N56U",
+        "ASUS | WIFI | RT-N56U"
+    ],
+    "320": [
+        " asus RT-N56U",
+        "DASHBOARD | NETWORK"
+    ],
+    "321": [
+        " asus RT-N56U",
+        "NETGEAR | ROUTER | EA8300"
+    ],
+    "322": [
+        " asus RT-N56U",
+        "NETGEAR | USB | EA8300"
+    ],
+    "323": [
+        " asus RT-N56U",
+        "SHARP | BUTTON"
+    ],
+    "324": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "325": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "326": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "327": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "328": [
+        " https filezilla filezilla filezilla tim kosse tim kosse",
+        "MICROSOFT | STORAGE | S3"
+    ],
+    "329": [
+        " http sourceforge filezilla tim kosse filezilla tim kosse gmx de",
+        "MICROSOFT | STORAGE | S3"
+    ],
+    "330": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "331": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "332": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "333": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "334": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "335": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "336": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "337": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "338": [
+        " tdi kraljevica mikrotik",
+        "ORANGE | SWITCH | m3"
+    ],
+    "339": [
+        " tdi kraljevica mikrotik",
+        "DIGI | TV"
+    ],
+    "340": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "341": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "342": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "343": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "344": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "345": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "346": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "347": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "348": [
+        " https filezilla filezilla filezilla tim kosse tim kosse",
+        "MICROSOFT | STORAGE | S3"
+    ],
+    "349": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "350": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "351": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "352": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "353": [
+        " asus DSL-AC68U",
+        "ASUS | ROUTER | AC68U"
+    ],
+    "354": [
+        " asus DSL-AC68U",
+        "ASUS | NETWORK | ADSL2"
+    ],
+    "355": [
+        " asus DSL-AC68U",
+        "ASUS | WIFI | AC1900"
+    ],
+    "356": [
+        " asus DSL-AC68U",
+        "ASUS | USB | AC68U"
+    ],
+    "357": [
+        " asus DSL-AC68U",
+        "NETGEAR | ROUTER | AC1900"
+    ],
+    "358": [
+        " asus DSL-AC68U",
+        "NETGEAR | NETWORK"
+    ],
+    "359": [
+        " asus DSL-AC68U",
+        "NETGEAR | WIFI | AC1900"
+    ],
+    "360": [
+        " asus DSL-AC68U",
+        "NETGEAR | USB | D6200"
+    ],
+    "361": [
+        " asus DSL-AC68U",
+        "VERIZON | ROUTER | D6200"
+    ],
+    "362": [
+        " asus DSL-AC68U",
+        "VERIZON | USB | D6200"
+    ],
+    "363": [
+        " asus DSL-AC68U",
+        "DASHBOARD | NETWORK"
+    ],
+    "364": [
+        " asus DSL-AC68U",
+        "STAR | ROUTER | ADSL2"
+    ],
+    "365": [
+        " speedport 723v typ v1.46",
+        "BROADCOM | WIFI | xrx200Package"
+    ],
+    "366": [
+        " nasftpd proftpd rc2",
+        "MICROSOFT | FIREWALL"
+    ],
+    "367": [
+        " nasftpd proftpd rc2",
+        "ASUS | ROUTER"
+    ],
+    "368": [
+        " ariano mikrotik router",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "369": [
+        " ariano mikrotik router",
+        "MIKROTIK | ROUTER | L4"
+    ],
+    "370": [
+        " ariano mikrotik router",
+        "MIKROTIK | WIFI | rbsxtsq-60ad"
+    ],
+    "371": [
+        " ariano mikrotik router",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "372": [
+        " ariano mikrotik router",
+        "ROUTERBOARD | ROUTER | rb3011uias"
+    ],
+    "373": [
+        " ramsi mikrotik",
+        "MIKROTIK | ROUTER | Ether1"
+    ],
+    "374": [
+        " ramsi mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "375": [
+        " ramsi mikrotik",
+        "CISCO | WIFI | C3"
+    ],
+    "376": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | NETWORK | v1.2"
+    ],
+    "377": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | CONTROLLER | v3.0"
+    ],
+    "378": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | ROUTER | v1.0"
+    ],
+    "379": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | FIREWALL | ASA5540"
+    ],
+    "380": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | SWITCH | v6"
+    ],
+    "381": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | SIGN"
+    ],
+    "382": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | STORAGE"
+    ],
+    "383": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | CAMERA"
+    ],
+    "384": [
+        " edu cisco jcesateb V12.1",
+        "CISCO | USB"
+    ],
+    "385": [
+        " edu cisco jcesateb V12.1",
+        "ELASTIC | CONTROLLER | v3.0"
+    ],
+    "386": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "387": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "388": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "389": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "390": [
+        " mikrotik P2V",
+        "MIKROTIK | SWITCH | RB750"
+    ],
+    "391": [
+        " mikrotik P2V",
+        "MIKROTIK | ROUTER"
+    ],
+    "392": [
+        " mikrotik P2V",
+        "NOMI | NETWORK | eth0"
+    ],
+    "393": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "394": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "395": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "396": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "397": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "398": [
+        " evermen cisco mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "399": [
+        " evermen cisco mikrotik",
+        "MIKROTIK | ROUTER | R1"
+    ],
+    "400": [
+        " evermen cisco mikrotik",
+        "MIKROTIK | FIREWALL"
+    ],
+    "401": [
+        " evermen cisco mikrotik",
+        "MIKROTIK | WIFI"
+    ],
+    "402": [
+        " evermen cisco mikrotik",
+        "CISCO | NETWORK"
+    ],
+    "403": [
+        " evermen cisco mikrotik",
+        "CISCO | ROUTER | CCR1036-12G"
+    ],
+    "404": [
+        " evermen cisco mikrotik",
+        "CISCO | FIREWALL"
+    ],
+    "405": [
+        " evermen cisco mikrotik",
+        "ROUTERBOARD | USB"
+    ],
+    "406": [
+        " evermen cisco mikrotik",
+        "ROUTERBOARD | GPS"
+    ],
+    "407": [
+        " evermen cisco mikrotik",
+        "SPLUNK | ROUTER"
+    ],
+    "408": [
+        " asus WS880",
+        "HUAWEI | ROUTER | WS880"
+    ],
+    "409": [
+        " asus WS880",
+        "HUAWEI | WIFI | WS880"
+    ],
+    "410": [
+        " asus WS880",
+        "HUAWEI | BUTTON | WS880"
+    ],
+    "411": [
+        " asus WS880",
+        "HUAWEI | SWITCH | WS880"
+    ],
+    "412": [
+        " asus WS880",
+        "HUAWEI | NAS | WS880"
+    ],
+    "413": [
+        " asus WS880",
+        "ASUS | ROUTER | WS880"
+    ],
+    "414": [
+        " asus WS880",
+        "ASUS | WIFI | WS880"
+    ],
+    "415": [
+        " asus WS880",
+        "ASUS | BUTTON | WS880"
+    ],
+    "416": [
+        " asus WS880",
+        "STAR | ROUTER | WS880"
+    ],
+    "417": [
+        " asus WS880",
+        "BROADCOM | USB | BCM4708"
+    ],
+    "418": [
+        " asus WS880",
+        "ARM | ROUTER"
+    ],
+    "419": [
+        " grup mikrotik diem prod4.cent",
+        "MIKROTIK | NETWORK"
+    ],
+    "420": [
+        " grup mikrotik diem prod4.cent",
+        "MIKROTIK | ROUTER"
+    ],
+    "421": [
+        " grup mikrotik diem prod4.cent",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "422": [
+        " grup mikrotik diem prod4.cent",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "423": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "424": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "425": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "426": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "427": [
+        " zywall usg ffff",
+        "CISCO | ROUTER"
+    ],
+    "428": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "429": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "430": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "431": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "432": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "433": [
+        " ipcamera ftpserver www maygion",
+        "TEAM | ALARM | OpenEye23221"
+    ],
+    "434": [
+        " ipcamera ftpserver www maygion",
+        "EXACT | CAMERA | ra0"
+    ],
+    "435": [
+        " gerrykennedystables mikrotik",
+        "TEAM | NETWORK | C2"
+    ],
+    "436": [
+        " gerrykennedystables mikrotik",
+        "TEAM | CONTROLLER"
+    ],
+    "437": [
+        " gerrykennedystables mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "438": [
+        " gerrykennedystables mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "439": [
+        " gerrykennedystables mikrotik",
+        "MIKROTIK | FIREWALL"
+    ],
+    "440": [
+        " gerrykennedystables mikrotik",
+        "MATRIX | NETWORK"
+    ],
+    "441": [
+        " gerrykennedystables mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "442": [
+        " gerrykennedystables mikrotik",
+        "IBM | STORAGE"
+    ],
+    "443": [
+        " gerrykennedystables mikrotik",
+        "STAR | TV"
+    ],
+    "444": [
+        " gerrykennedystables mikrotik",
+        "STAR | SIGN"
+    ],
+    "445": [
+        " gerrykennedystables mikrotik",
+        "NVIDIA | WATCH"
+    ],
+    "446": [
+        " gerrykennedystables mikrotik",
+        "NOKIA | SIGN"
+    ],
+    "447": [
+        " gerrykennedystables mikrotik",
+        "SHARP | TV"
+    ],
+    "448": [
+        " gerrykennedystables mikrotik",
+        "ZONES | TV"
+    ],
+    "449": [
+        " gerrykennedystables mikrotik",
+        "DASHBOARD | SIGN"
+    ],
+    "450": [
+        " gerrykennedystables mikrotik",
+        "TESLA | CAMERA"
+    ],
+    "451": [
+        " gerrykennedystables mikrotik",
+        "DELL | WIFI"
+    ],
+    "452": [
+        " gerrykennedystables mikrotik",
+        "DELL | THERMOSTAT"
+    ],
+    "453": [
+        " gerrykennedystables mikrotik",
+        "ARENA | CINEMA"
+    ],
+    "454": [
+        " gerrykennedystables mikrotik",
+        "SPRINT | GPS"
+    ],
+    "455": [
+        " gerrykennedystables mikrotik",
+        "ELASTIC | STORAGE"
+    ],
+    "456": [
+        " gerrykennedystables mikrotik",
+        "NOMI | SIGN"
+    ],
+    "457": [
+        " gerrykennedystables mikrotik",
+        "NOMI | GPS"
+    ],
+    "458": [
+        " ogr evb mikrotik bulanacak",
+        "MIKROTIK | NETWORK"
+    ],
+    "459": [
+        " ogr evb mikrotik bulanacak",
+        "MIKROTIK | ROUTER"
+    ],
+    "460": [
+        " ogr evb mikrotik bulanacak",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "461": [
+        " muy esc mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "462": [
+        " muy esc mikrotik",
+        "MIKROTIK | FIREWALL"
+    ],
+    "463": [
+        " muy esc mikrotik",
+        "MIKROTIK | WIFI"
+    ],
+    "464": [
+        " muy esc mikrotik",
+        "MIKROTIK | TV"
+    ],
+    "465": [
+        " muy esc mikrotik",
+        "NETGEAR | ROUTER | login1"
+    ],
+    "466": [
+        " muy esc mikrotik",
+        "NETGEAR | WIFI | login1"
+    ],
+    "467": [
+        " muy esc mikrotik",
+        "EPSON | WIFI"
+    ],
+    "468": [
+        " muy esc mikrotik",
+        "ZONES | NETWORK"
+    ],
+    "469": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "470": [
+        " zywall usg ffff",
+        "CISCO | ROUTER"
+    ],
+    "471": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "472": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "473": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "474": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "475": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "476": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "477": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "478": [
+        " medinova mikrotik",
+        "AIRTEL | TV"
+    ],
+    "479": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "480": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "481": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "482": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "483": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "484": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "485": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "486": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "487": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "488": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "489": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "490": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "491": [
+        " axis ptz network camera Q6115-E",
+        "SHARP | CAMERA | Q61"
+    ],
+    "492": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "493": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "494": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "495": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "496": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "497": [
+        " ffff USG40",
+        "CISCO | ROUTER | S2"
+    ],
+    "498": [
+        " ffff USG40",
+        "NETGEAR | ROUTER | R7800"
+    ],
+    "499": [
+        " ffff USG40",
+        "NETGEAR | SWITCH | S2"
+    ],
+    "500": [
+        " ffff USG40",
+        "NETGEAR | WIFI | R7800"
+    ],
+    "501": [
+        " ffff USG40",
+        "ASUS | ROUTER | RT-AC86U"
+    ],
+    "502": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "503": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "504": [
+        " prax mikrotik",
+        "MIKROTIK | ROUTER | IPv6"
+    ],
+    "505": [
+        " prax mikrotik",
+        "MIKROTIK | FIREWALL"
+    ],
+    "506": [
+        " prax mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "507": [
+        " proftpd netgear readynas",
+        "NETGEAR | NETWORK | IM5.0"
+    ],
+    "508": [
+        " proftpd netgear readynas",
+        "VERIZON | ROUTER"
+    ],
+    "509": [
+        " microsoft",
+        " microsoft"
+    ],
+    "510": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "511": [
+        " asus RT-N66U",
+        "ASUS | ROUTER | RT-N66"
+    ],
+    "512": [
+        " asus RT-N66U",
+        "ASUS | USB | RT-N66U"
+    ],
+    "513": [
+        " asus RT-N66U",
+        "ASUS | NETWORK | N66U"
+    ],
+    "514": [
+        " asus RT-N66U",
+        "ASUS | STORAGE | RT-N66U"
+    ],
+    "515": [
+        " asus RT-N66U",
+        "ASUS | WIFI | RT-N66U"
+    ],
+    "516": [
+        " asus RT-N66U",
+        "ASUS | SIGN | RT-N66U"
+    ],
+    "517": [
+        " asus RT-N66U",
+        "ASUS | NAS | RT-N66U"
+    ],
+    "518": [
+        " asus RT-N66U",
+        "BROADCOM | USB | BCM4708"
+    ],
+    "519": [
+        " asus RT-N66U",
+        "DASHBOARD | NETWORK | RT-N66U"
+    ],
+    "520": [
+        " asus RT-N66U",
+        "BELKIN | ROUTER"
+    ],
+    "521": [
+        " asus RT-N66U",
+        "NETGEAR | USB"
+    ],
+    "522": [
+        " asus RT-N66U",
+        "NETGEAR | NETWORK"
+    ],
+    "523": [
+        " asus RT-N66U",
+        "GIGABYTE | USB | RT-N66U"
+    ],
+    "524": [
+        " guaymasrb mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "525": [
+        " guaymasrb mikrotik",
+        "MIKROTIK | ROUTER | RB1100"
+    ],
+    "526": [
+        " guaymasrb mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "527": [
+        " guaymasrb mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "528": [
+        " asus RT-AC68W",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "529": [
+        " asus RT-AC68W",
+        "ASUS | NETWORK | RT-AC68U"
+    ],
+    "530": [
+        " asus RT-AC68W",
+        "ASUS | USB | RT-AC68U"
+    ],
+    "531": [
+        " asus RT-AC68W",
+        "ASUS | WIFI | AC1900"
+    ],
+    "532": [
+        " asus RT-AC68W",
+        "ASUS | STORAGE"
+    ],
+    "533": [
+        " asus RT-AC68W",
+        "ASUS | PROCESSOR | RT-AC68W"
+    ],
+    "534": [
+        " asus RT-AC68W",
+        "ASUS | PRINTER | RT-AC68W"
+    ],
+    "535": [
+        " asus RT-AC68W",
+        "NETGEAR | ROUTER"
+    ],
+    "536": [
+        " asus RT-AC68W",
+        "INTEL | NETWORK | AC2600"
+    ],
+    "537": [
+        " asus RT-AC68W",
+        "INTEL | WIFI | AC2600"
+    ],
+    "538": [
+        " asus RT-AC68W",
+        "DASHBOARD | NETWORK"
+    ],
+    "539": [
+        " axis mk ptz network camera Q6045-E",
+        "HIKVISION | CAMERA | Xt2"
+    ],
+    "540": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "541": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "542": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "543": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "544": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "545": [
+        " zywall usg ffff",
+        "CISCO | ROUTER"
+    ],
+    "546": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "547": [
+        " synology",
+        " synology"
+    ],
+    "548": [
+        " balanceador mikrotik",
+        "MIKROTIK | ROUTER | Rb941"
+    ],
+    "549": [
+        " balanceador mikrotik",
+        "MIKROTIK | WIFI | L4"
+    ],
+    "550": [
+        " balanceador mikrotik",
+        "MIKROTIK | SWITCH | Crs328-24p"
+    ],
+    "551": [
+        " balanceador mikrotik",
+        "MIKROTIK | USB | Rb750up"
+    ],
+    "552": [
+        " balanceador mikrotik",
+        "TPLINK | ROUTER"
+    ],
+    "553": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "554": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "555": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "556": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "557": [
+        " capitan navarro mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "558": [
+        " capitan navarro mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "559": [
+        " asus TM-AC1900",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "560": [
+        " asus TM-AC1900",
+        "ASUS | NETWORK | AC-1900"
+    ],
+    "561": [
+        " asus TM-AC1900",
+        "ASUS | WIFI | AC1900"
+    ],
+    "562": [
+        " asus TM-AC1900",
+        "ASUS | BUTTON"
+    ],
+    "563": [
+        " asus TM-AC1900",
+        "ASUS | TRACKING | ac68u"
+    ],
+    "564": [
+        " asus TM-AC1900",
+        "INTEL | NETWORK | AC2600"
+    ],
+    "565": [
+        " asus TM-AC1900",
+        "INTEL | WIFI | AC2600"
+    ],
+    "566": [
+        " asus TM-AC1900",
+        "EXACT | ROUTER | ac68u"
+    ],
+    "567": [
+        " asus TM-AC1900",
+        "EXACT | WIFI | ac68u"
+    ],
+    "568": [
+        " mikrotik SANLORENZO-71",
+        "MIKROTIK | ROUTER | Rb951"
+    ],
+    "569": [
+        " mikrotik SANLORENZO-71",
+        "MIKROTIK | WIFI | Rb951"
+    ],
+    "570": [
+        " mikrotik SANLORENZO-71",
+        "MIKROTIK | USB | Rb951"
+    ],
+    "571": [
+        " mikrotik SANLORENZO-71",
+        "ROUTERBOARD | WIFI | Rb951ui"
+    ],
+    "572": [
+        " mikrotik SANLORENZO-71",
+        "ROUTERBOARD | USB | Rb951"
+    ],
+    "573": [
+        " mikrotik SANLORENZO-71",
+        "SAMSUNG | WIFI | D6"
+    ],
+    "574": [
+        " mikrotik SANLORENZO-71",
+        "SAMSUNG | NETWORK | E1"
+    ],
+    "575": [
+        " mikrotik SANLORENZO-71",
+        "HUAWEI | WIFI | Print-85-LaserJet"
+    ],
+    "576": [
+        " mikrotik SANLORENZO-71",
+        "HUAWEI | NETWORK | Print-85-LaserJet"
+    ],
+    "577": [
+        " mikrotik SANLORENZO-71",
+        "NOKIA | WIFI | Print-26-LaserJet"
+    ],
+    "578": [
+        " mikrotik SANLORENZO-71",
+        "NOKIA | NETWORK | Print-26-LaserJet"
+    ],
+    "579": [
+        " mikrotik SANLORENZO-71",
+        "STAR | WIFI | A5"
+    ],
+    "580": [
+        " paula harman mikrotik",
+        "MIKROTIK | NETWORK | L2"
+    ],
+    "581": [
+        " paula harman mikrotik",
+        "MIKROTIK | FIREWALL | L2TP"
+    ],
+    "582": [
+        " paula harman mikrotik",
+        "MIKROTIK | WIFI"
+    ],
+    "583": [
+        " paula harman mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "584": [
+        " paula harman mikrotik",
+        "INTEL | WIFI | DDR4"
+    ],
+    "585": [
+        " paula harman mikrotik",
+        "INTEL | USB | DDR4"
+    ],
+    "586": [
+        " paula harman mikrotik",
+        "TEAM | NETWORK | PS2"
+    ],
+    "587": [
+        " paula harman mikrotik",
+        "TEAM | SWITCH | PS2"
+    ],
+    "588": [
+        " paula harman mikrotik",
+        "TEAM | CONTROLLER | PS2"
+    ],
+    "589": [
+        " paula harman mikrotik",
+        "TEAM | STORAGE | PS2"
+    ],
+    "590": [
+        " paula harman mikrotik",
+        "TEAM | CAMERA | PS2"
+    ],
+    "591": [
+        " paula harman mikrotik",
+        "TEAM | ALARM | S3"
+    ],
+    "592": [
+        " paula harman mikrotik",
+        "CISCO | NETWORK | cables-accessories2017-06"
+    ],
+    "593": [
+        " paula harman mikrotik",
+        "CISCO | FIREWALL"
+    ],
+    "594": [
+        " paula harman mikrotik",
+        "NVIDIA | USB | i7"
+    ],
+    "595": [
+        " paula harman mikrotik",
+        "STAR | NETWORK | PS2"
+    ],
+    "596": [
+        " paula harman mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "597": [
+        " paula harman mikrotik",
+        "IBM | NETWORK | OvalsInno3DInnova"
+    ],
+    "598": [
+        " paula harman mikrotik",
+        "SAP | NETWORK | O2"
+    ],
+    "599": [
+        " khalife mikrotik",
+        "MIKROTIK | NETWORK | D1"
+    ],
+    "600": [
+        " khalife mikrotik",
+        "MIKROTIK | WIFI | D1"
+    ],
+    "601": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "602": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "603": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "604": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "605": [
+        " asus RT-AC58U",
+        "ASUS | ROUTER | C58"
+    ],
+    "606": [
+        " asus RT-AC58U",
+        "ASUS | NETWORK | AC58U"
+    ],
+    "607": [
+        " asus RT-AC58U",
+        "ASUS | USB | GT-AX11000"
+    ],
+    "608": [
+        " asus RT-AC58U",
+        "ASUS | WIFI | AC1300"
+    ],
+    "609": [
+        " asus RT-AC58U",
+        "NETGEAR | ROUTER | AC1200"
+    ],
+    "610": [
+        " asus RT-AC58U",
+        "NETGEAR | USB | C5400X"
+    ],
+    "611": [
+        " asus RT-AC58U",
+        "NETGEAR | WIFI | AC1200"
+    ],
+    "612": [
+        " ap7932 network network aos aos v3 AP7932 v3.9",
+        "EATON | STORAGE"
+    ],
+    "613": [
+        " ap7932 network network aos aos v3 AP7932 v3.9",
+        "EXACT | BULB"
+    ],
+    "614": [
+        " mikrotik axk",
+        "MIKROTIK | SWITCH | V-24V"
+    ],
+    "615": [
+        " mikrotik axk",
+        "MIKROTIK | ROUTER | V-24V"
+    ],
+    "616": [
+        " mikrotik axk",
+        "MIKROTIK | NETWORK | kaos-165"
+    ],
+    "617": [
+        " mikrotik axk",
+        "MIKROTIK | WIFI | V-24V"
+    ],
+    "618": [
+        " mikrotik axk",
+        "MIKROTIK | FIREWALL"
+    ],
+    "619": [
+        " mikrotik axk",
+        "ROUTERBOARD | WIFI | V-24V"
+    ],
+    "620": [
+        " mikrotik axk",
+        "INTEL | PROCESSOR | i5"
+    ],
+    "621": [
+        " mikrotik axk",
+        "CISCO | SWITCH"
+    ],
+    "622": [
+        " nasftpd proftpd rc2",
+        "MICROSOFT | FIREWALL"
+    ],
+    "623": [
+        " nasftpd proftpd rc2",
+        "ASUS | ROUTER"
+    ],
+    "624": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "625": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "626": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "627": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "628": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "629": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "630": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "631": [
+        " asus RT-AC3200",
+        "ASUS | ROUTER | RT-AC3200"
+    ],
+    "632": [
+        " asus RT-AC3200",
+        "ASUS | NETWORK | RT-AC3200"
+    ],
+    "633": [
+        " asus RT-AC3200",
+        "ASUS | USB | PS4"
+    ],
+    "634": [
+        " asus RT-AC3200",
+        "ASUS | WIFI | RT-AC3200"
+    ],
+    "635": [
+        " asus RT-AC3200",
+        "ASUS | STORAGE | DDR3"
+    ],
+    "636": [
+        " asus RT-AC3200",
+        "ASUS | PROCESSOR | AM4"
+    ],
+    "637": [
+        " asus RT-AC3200",
+        "INTEL | NETWORK | PS4"
+    ],
+    "638": [
+        " asus RT-AC3200",
+        "INTEL | WIFI | PS4"
+    ],
+    "639": [
+        " asus RT-AC3200",
+        "BROADCOM | WIFI | BCM43602"
+    ],
+    "640": [
+        " asus RT-AC3200",
+        "BROADCOM | STORAGE | BCM4709"
+    ],
+    "641": [
+        " asus RT-AC3200",
+        "BROADCOM | PROCESSOR | BCM4709"
+    ],
+    "642": [
+        " asus RT-AC3200",
+        "NETGEAR | ROUTER | X8"
+    ],
+    "643": [
+        " asus RT-AC3200",
+        "NETGEAR | WIFI | X8"
+    ],
+    "644": [
+        " asus RT-AC3200",
+        "CISCO | ROUTER"
+    ],
+    "645": [
+        " asus RT-AC68P",
+        "ASUS | ROUTER | AC68P"
+    ],
+    "646": [
+        " asus RT-AC68P",
+        "ASUS | NETWORK | AC1900"
+    ],
+    "647": [
+        " asus RT-AC68P",
+        "ASUS | USB | AC68P"
+    ],
+    "648": [
+        " asus RT-AC68P",
+        "ASUS | WIFI | RT-AC68P"
+    ],
+    "649": [
+        " asus RT-AC68P",
+        "ASUS | STORAGE | RT-AC68P"
+    ],
+    "650": [
+        " asus RT-AC68P",
+        "ASUS | PROCESSOR | RT-AC68P"
+    ],
+    "651": [
+        " asus RT-AC68P",
+        "NETGEAR | ROUTER | A12"
+    ],
+    "652": [
+        " asus RT-AC68P",
+        "NETGEAR | WIFI | X4"
+    ],
+    "653": [
+        " asus RT-AC68P",
+        "CISCO | ROUTER | A12"
+    ],
+    "654": [
+        " asus RT-AC68P",
+        "CISCO | BUTTON"
+    ],
+    "655": [
+        " asus RT-AC68P",
+        "DASHBOARD | NETWORK"
+    ],
+    "656": [
+        " asus RT-AC68P",
+        "ROUTERBOARD | ROUTER | A12"
+    ],
+    "657": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "658": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "659": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "660": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "661": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "662": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "663": [
+        " mikrotik mikrotik",
+        "ENDIAN | FIREWALL"
+    ],
+    "664": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "665": [
+        " pesatnet mikrotik ams mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "666": [
+        " pesatnet mikrotik ams mikrotik",
+        "MIKROTIK | WIFI | RB411"
+    ],
+    "667": [
+        " pesatnet mikrotik ams mikrotik",
+        "MIKROTIK | ROUTER | RB411"
+    ],
+    "668": [
+        " pesatnet mikrotik ams mikrotik",
+        "MIKROTIK | FIREWALL"
+    ],
+    "669": [
+        " pesatnet mikrotik ams mikrotik",
+        "MIKROTIK | TRACKING"
+    ],
+    "670": [
+        " pesatnet mikrotik ams mikrotik",
+        "MIKROTIK | PRINTER | WG-500P"
+    ],
+    "671": [
+        " pesatnet mikrotik ams mikrotik",
+        "MIKROTIK | GPS"
+    ],
+    "672": [
+        " pesatnet mikrotik ams mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "673": [
+        " pesatnet mikrotik ams mikrotik",
+        "ROUTERBOARD | WIFI | RB411"
+    ],
+    "674": [
+        " pesatnet mikrotik ams mikrotik",
+        "ROUTERBOARD | ROUTER | RB411"
+    ],
+    "675": [
+        " pesatnet mikrotik ams mikrotik",
+        "MICROSOFT | WIFI"
+    ],
+    "676": [
+        " pesatnet mikrotik ams mikrotik",
+        "TEAM | ROUTER"
+    ],
+    "677": [
+        " dedicado mikrotik",
+        "MIKROTIK | WIFI"
+    ],
+    "678": [
+        " dedicado mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "679": [
+        " dedicado mikrotik",
+        "MIKROTIK | NAS"
+    ],
+    "680": [
+        " dedicado mikrotik",
+        "VAI | FIREWALL | RB750"
+    ],
+    "681": [
+        " dedicado mikrotik",
+        "ROUTERBOARD | WIFI"
+    ],
+    "682": [
+        " dedicado mikrotik",
+        "ROUTERBOARD | ROUTER"
+    ],
+    "683": [
+        " ap9619 network network aos aos v3 AP9619 v3.5",
+        "MATRIX | NETWORK | v3.x"
+    ],
+    "684": [
+        " mikrotik AP-1006",
+        "MIKROTIK | ROUTER | RJ-45"
+    ],
+    "685": [
+        " mikrotik AP-1006",
+        "MIKROTIK | NETWORK | Rb931-2nd"
+    ],
+    "686": [
+        " mikrotik AP-1006",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "687": [
+        " mikrotik AP-1006",
+        "MIKROTIK | WIFI | RJ-45"
+    ],
+    "688": [
+        " mikrotik AP-1006",
+        "MIKROTIK | PROCESSOR | RJ-45"
+    ],
+    "689": [
+        " mikrotik AP-1006",
+        "ROUTERBOARD | ROUTER | Rb941-2nd"
+    ],
+    "690": [
+        " mikrotik AP-1006",
+        "ROUTERBOARD | NETWORK | RJ-45"
+    ],
+    "691": [
+        " mikrotik AP-1006",
+        "ROUTERBOARD | WIFI | RJ-45"
+    ],
+    "692": [
+        " mikrotik AP-1006",
+        "ROUTERBOARD | PROCESSOR | RJ-45"
+    ],
+    "693": [
+        " mikrotik AP-1006",
+        "CISCO | ROUTER | RJ-45"
+    ],
+    "694": [
+        " mikrotik AP-1006",
+        "CISCO | NETWORK | RJ-45"
+    ],
+    "695": [
+        " mikrotik AP-1006",
+        "CISCO | SWITCH | RB493"
+    ],
+    "696": [
+        " mikrotik AP-1006",
+        "CISCO | PROCESSOR | RJ-45"
+    ],
+    "697": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "698": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | WIFI | RB411"
+    ],
+    "699": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | ROUTER | RB411"
+    ],
+    "700": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | FIREWALL"
+    ],
+    "701": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | PRINTER | WG-500P"
+    ],
+    "702": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | GPS"
+    ],
+    "703": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | TRACKING"
+    ],
+    "704": [
+        " paeezan tejarat mehr su mikrotik",
+        "ROUTERBOARD | WIFI | RB411"
+    ],
+    "705": [
+        " paeezan tejarat mehr su mikrotik",
+        "ROUTERBOARD | ROUTER | RB411"
+    ],
+    "706": [
+        " paeezan tejarat mehr su mikrotik",
+        "INTEL | PROCESSOR | SHLRouter10xx"
+    ],
+    "707": [
+        " paeezan tejarat mehr su mikrotik",
+        "MICROSOFT | WIFI"
+    ],
+    "708": [
+        " paeezan tejarat mehr su mikrotik",
+        "ARM | ROUTER | x86"
+    ],
+    "709": [
+        " tenden aage mikrotik",
+        "AMD | PROCESSOR | EM64T"
+    ],
+    "710": [
+        " tenden aage mikrotik",
+        "INTEL | PROCESSOR | EM64T"
+    ],
+    "711": [
+        " tenden aage mikrotik",
+        "INTEL | CONTROLLER"
+    ],
+    "712": [
+        " tenden aage mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "713": [
+        " tenden aage mikrotik",
+        "BROADCOM | NETWORK"
+    ],
+    "714": [
+        " nov nov P660HW T3",
+        "ASUS | ROUTER"
+    ],
+    "715": [
+        " nov nov P660HW T3",
+        "SAMSUNG | ROUTER"
+    ],
+    "716": [
+        " nov nov P660HW T3",
+        "ZTE | ROUTER"
+    ],
+    "717": [
+        " mikrotik IRC-SAS1-RTR",
+        "MIKROTIK | ROUTER | RB1100AHx4"
+    ],
+    "718": [
+        " mikrotik IRC-SAS1-RTR",
+        "MIKROTIK | NETWORK"
+    ],
+    "719": [
+        " mikrotik IRC-SAS1-RTR",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "720": [
+        " aug P-660HW",
+        "MICROSOFT | SIGN"
+    ],
+    "721": [
+        " aug P-660HW",
+        "BELKIN | ROUTER | V2"
+    ],
+    "722": [
+        " aug P-660HW",
+        "BELKIN | TV | V2"
+    ],
+    "723": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "724": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "725": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "726": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "727": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "728": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "729": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "730": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "731": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "732": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "733": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "734": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "735": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "736": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "737": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "738": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "739": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "740": [
+        " asus RT-AC88U",
+        "ASUS | ROUTER | RT-AC88U"
+    ],
+    "741": [
+        " asus RT-AC88U",
+        "ASUS | NETWORK | RT-AC88U"
+    ],
+    "742": [
+        " asus RT-AC88U",
+        "ASUS | WIFI | RT-AC88U"
+    ],
+    "743": [
+        " asus RT-AC88U",
+        "ASUS | USB | RT-AC66U"
+    ],
+    "744": [
+        " asus RT-AC88U",
+        "ASUS | STORAGE"
+    ],
+    "745": [
+        " asus RT-AC88U",
+        "NETGEAR | ROUTER | X8"
+    ],
+    "746": [
+        " asus RT-AC88U",
+        "NETGEAR | WIFI | AX8"
+    ],
+    "747": [
+        " asus RT-AC88U",
+        "NETGEAR | USB | AX8"
+    ],
+    "748": [
+        " mikrotik adslf306",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "749": [
+        " mikrotik adslf306",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "750": [
+        " mikrotik adslf306",
+        "MIKROTIK | FIREWALL | T1"
+    ],
+    "751": [
+        " mikrotik adslf306",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "752": [
+        " mikrotik adslf306",
+        "ROUTERBOARD | ROUTER | IPv4"
+    ],
+    "753": [
+        " zolkiewskiego mikrotik",
+        "STAR | BRACELET"
+    ],
+    "754": [
+        " zolkiewskiego mikrotik",
+        "STAR | LOCK | stark-3"
+    ],
+    "755": [
+        " zolkiewskiego mikrotik",
+        "SAMSUNG | SIGN | s2"
+    ],
+    "756": [
+        " zolkiewskiego mikrotik",
+        "HUAWEI | SIGN | y360-u82"
+    ],
+    "757": [
+        " zolkiewskiego mikrotik",
+        "HUAWEI | WATCH | x9"
+    ],
+    "758": [
+        " zolkiewskiego mikrotik",
+        "ZTE | SIGN | a112"
+    ],
+    "759": [
+        " zolkiewskiego mikrotik",
+        "BROTHER | OVEN"
+    ],
+    "760": [
+        " zolkiewskiego mikrotik",
+        "GLASS | TV"
+    ],
+    "761": [
+        " zolkiewskiego mikrotik",
+        "GLASS | BRACELET | j5"
+    ],
+    "762": [
+        " zolkiewskiego mikrotik",
+        "MIKROTIK | USB | AR9344"
+    ],
+    "763": [
+        " zolkiewskiego mikrotik",
+        "MIKROTIK | SWITCH | AR9344"
+    ],
+    "764": [
+        " zolkiewskiego mikrotik",
+        "MIKROTIK | ROUTER | AR9344"
+    ],
+    "765": [
+        " zolkiewskiego mikrotik",
+        "ARCHOS | SIGN | A8"
+    ],
+    "766": [
+        " zolkiewskiego mikrotik",
+        "PHILIPS | SIGN | s3"
+    ],
+    "767": [
+        " zolkiewskiego mikrotik",
+        "ROUTERBOARD | ROUTER | Gr2"
+    ],
+    "768": [
+        " zolkiewskiego mikrotik",
+        "QUALCOMM | USB | AR9344"
+    ],
+    "769": [
+        " pharma mikrotik",
+        "MIKROTIK | ROUTER | CoursesMTCNAMTCREMTCSEMTCTCEMTCUMEMTCWEMTCIPv6EMTCINEMikroTik"
+    ],
+    "770": [
+        " pharma mikrotik",
+        "MIKROTIK | NETWORK | CoursesMTCNAMTCREMTCSEMTCTCEMTCUMEMTCWEMTCIPv6EMTCINEMikroTik"
+    ],
+    "771": [
+        " pharma mikrotik",
+        "MIKROTIK | FIREWALL | CoursesMTCNAMTCREMTCSEMTCTCEMTCUMEMTCWEMTCIPv6EMTCINEMikroTik"
+    ],
+    "772": [
+        " pharma mikrotik",
+        "MIKROTIK | WIFI | CoursesMTCNAMTCREMTCSEMTCTCEMTCUMEMTCWEMTCIPv6EMTCINEMikroTik"
+    ],
+    "773": [
+        " pharma mikrotik",
+        "ROUTERBOARD | ROUTER | RB2011UIAS"
+    ],
+    "774": [
+        " pharma mikrotik",
+        "ROUTERBOARD | NETWORK | RB2011UIAS"
+    ],
+    "775": [
+        " pharma mikrotik",
+        "CISCO | NETWORK | RB2011UIAS"
+    ],
+    "776": [
+        " pharma mikrotik",
+        "CISCO | WIFI | Price42"
+    ],
+    "777": [
+        " pharma mikrotik",
+        "HUAWEI | WIFI | Price42"
+    ],
+    "778": [
+        " pharma mikrotik",
+        "NETGEAR | STORAGE"
+    ],
+    "779": [
+        " pharma mikrotik",
+        "TPLINK | NETWORK | RB2011UIAS"
+    ],
+    "780": [
+        " technics mikrotik",
+        "MIKROTIK | NETWORK | r3"
+    ],
+    "781": [
+        " technics mikrotik",
+        "MIKROTIK | SWITCH | r3"
+    ],
+    "782": [
+        " technics mikrotik",
+        "MIKROTIK | WIFI | r3"
+    ],
+    "783": [
+        " technics mikrotik",
+        "MIKROTIK | KVM"
+    ],
+    "784": [
+        " technics mikrotik",
+        "CISCO | SWITCH | eth4"
+    ],
+    "785": [
+        " technics mikrotik",
+        "CISCO | KVM"
+    ],
+    "786": [
+        " technics mikrotik",
+        "ROUTERBOARD | NETWORK | r3"
+    ],
+    "787": [
+        " technics mikrotik",
+        "QUALCOMM | SWITCH | QCA8337"
+    ],
+    "788": [
+        " technics mikrotik",
+        "QUALCOMM | ROUTER | QCA8337"
+    ],
+    "789": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "790": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "791": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "792": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "793": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "794": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "795": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "796": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "797": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "798": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | FIREWALL"
+    ],
+    "799": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "800": [
+        " htgh mikrotik",
+        "MIKROTIK | ROUTER | D1"
+    ],
+    "801": [
+        " htgh mikrotik",
+        "MIKROTIK | SWITCH | D1"
+    ],
+    "802": [
+        " htgh mikrotik",
+        "MIKROTIK | CONTROLLER"
+    ],
+    "803": [
+        " madrasha nurulislam toladigari mikrotik",
+        "MIKROTIK | NETWORK | L2"
+    ],
+    "804": [
+        " madrasha nurulislam toladigari mikrotik",
+        "MIKROTIK | FIREWALL | L2TP"
+    ],
+    "805": [
+        " madrasha nurulislam toladigari mikrotik",
+        "MIKROTIK | WIFI | morePrice21"
+    ],
+    "806": [
+        " madrasha nurulislam toladigari mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "807": [
+        " madrasha nurulislam toladigari mikrotik",
+        "CISCO | NETWORK | morePrice21"
+    ],
+    "808": [
+        " madrasha nurulislam toladigari mikrotik",
+        "CISCO | FIREWALL"
+    ],
+    "809": [
+        " madrasha nurulislam toladigari mikrotik",
+        "CISCO | WIFI | morePrice21"
+    ],
+    "810": [
+        " madrasha nurulislam toladigari mikrotik",
+        "TEAM | NETWORK"
+    ],
+    "811": [
+        " madrasha nurulislam toladigari mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "812": [
+        " madrasha nurulislam toladigari mikrotik",
+        "HUAWEI | WIFI | morePrice21"
+    ],
+    "813": [
+        " madrasha nurulislam toladigari mikrotik",
+        "SAP | NETWORK | morePrice21"
+    ],
+    "814": [
+        " madrasha nurulislam toladigari mikrotik",
+        "STAR | NETWORK"
+    ],
+    "815": [
+        " madrasha nurulislam toladigari mikrotik",
+        "TPLINK | NETWORK | RB2011UiAS"
+    ],
+    "816": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "817": [
+        " mikrotik mikrotik",
+        "MIKROTIK | NETWORK | CCR12G"
+    ],
+    "818": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "819": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "820": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "821": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "822": [
+        " easybox dsl v30.05",
+        "VODAFONE | ROUTER | A300"
+    ],
+    "823": [
+        " easybox dsl v30.05",
+        "VODAFONE | NETWORK | B3"
+    ],
+    "824": [
+        " easybox dsl v30.05",
+        "VODAFONE | WIFI | B3"
+    ],
+    "825": [
+        " easybox dsl v30.05",
+        "VODAFONE | TV"
+    ],
+    "826": [
+        " nasftpd proftpd rc2",
+        "ASUS | ROUTER"
+    ],
+    "827": [
+        " asus RT-AC68R",
+        "ASUS | ROUTER | RT-AC68R"
+    ],
+    "828": [
+        " asus RT-AC68R",
+        "ASUS | NETWORK | AC1900"
+    ],
+    "829": [
+        " asus RT-AC68R",
+        "ASUS | USB | RT-AC68R"
+    ],
+    "830": [
+        " asus RT-AC68R",
+        "ASUS | WIFI | AC1900"
+    ],
+    "831": [
+        " asus RT-AC68R",
+        "ASUS | STORAGE"
+    ],
+    "832": [
+        " asus RT-AC68R",
+        "ASUS | PROCESSOR | LinuxDimensions6.30"
+    ],
+    "833": [
+        " asus RT-AC68R",
+        "NETGEAR | ROUTER | M010301"
+    ],
+    "834": [
+        " asus RT-AC68R",
+        "NETGEAR | NETWORK | AC1900"
+    ],
+    "835": [
+        " asus RT-AC68R",
+        "NETGEAR | WIFI | M010301"
+    ],
+    "836": [
+        " asus RT-AC68R",
+        "INTEL | ROUTER | AC2600"
+    ],
+    "837": [
+        " asus RT-AC68R",
+        "INTEL | NETWORK | AC2600"
+    ],
+    "838": [
+        " asus RT-AC68R",
+        "INTEL | WIFI | AC2600"
+    ],
+    "839": [
+        " asus RT-AC68R",
+        "DASHBOARD | NETWORK"
+    ],
+    "840": [
+        " asus RT-AC68R",
+        "SPRINT | ROUTER | RT-AC68R"
+    ],
+    "841": [
+        " asus RT-AC68R",
+        "SPRINT | NETWORK | RT-AC68R"
+    ],
+    "842": [
+        " asus RT-AC68R",
+        "SPRINT | WIFI | RT-AC68R"
+    ],
+    "843": [
+        " controle sjc mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "844": [
+        " controle sjc mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "845": [
+        " mikrotik mikrotik",
+        " mikrotik mikrotik"
+    ],
+    "846": [
+        " mikrotik mikrotik",
+        " mikrotik mikrotik"
+    ],
+    "847": [
+        " mikrotik mikrotik rc51",
+        "MIKROTIK | NETWORK | P2MP"
+    ],
+    "848": [
+        " mikrotik mikrotik rc51",
+        "MIKROTIK | ROUTER | rc51"
+    ],
+    "849": [
+        " mikrotik mikrotik rc51",
+        "ROUTERBOARD | ROUTER"
+    ],
+    "850": [
+        " mikrotik mikrotik rc51",
+        "CISCO | SWITCH"
+    ],
+    "851": [
+        " mikrotik mikrotik rc51",
+        "SPLUNK | ROUTER"
+    ],
+    "852": [
+        " mikrotik mikrotik rc51",
+        "MEDIATEK | SWITCH | Atheros8327"
+    ],
+    "853": [
+        " sep ucftpd",
+        "AMD | NETWORK"
+    ],
+    "854": [
+        " jodlowski mikrotik",
+        "MICROSOFT | NETWORK | Win32-UPX"
+    ],
+    "855": [
+        " jodlowski mikrotik",
+        "MICROSOFT | CONTROLLER | Win32-UPX"
+    ],
+    "856": [
+        " jodlowski mikrotik",
+        "MICROSOFT | ROUTER | Win32-UPX"
+    ],
+    "857": [
+        " jodlowski mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "858": [
+        " jodlowski mikrotik",
+        "CISCO | NETWORK"
+    ],
+    "859": [
+        " jodlowski mikrotik",
+        "SYMANTEC | NETWORK | Win32-UPX"
+    ],
+    "860": [
+        " jodlowski mikrotik",
+        "SYMANTEC | CONTROLLER | Win32-UPX"
+    ],
+    "861": [
+        " jodlowski mikrotik",
+        "SYMANTEC | ROUTER | Win32-UPX"
+    ],
+    "862": [
+        " mikrotik mikrotik",
+        " mikrotik mikrotik"
+    ],
+    "863": [
+        " mikrotik mikrotik",
+        " mikrotik mikrotik"
+    ],
+    "864": [
+        " zywall usg",
+        "CISCO | ROUTER"
+    ],
+    "865": [
+        " nasftpd 2e proftpd",
+        "ASUS | ROUTER"
+    ],
+    "866": [
+        " router mikrotik",
+        "MIKROTIK | NETWORK"
+    ],
+    "867": [
+        " router mikrotik",
+        "MIKROTIK | ROUTER | v2.6"
+    ],
+    "868": [
+        " router mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "869": [
+        " router mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "870": [
+        " router mikrotik",
+        "ROUTERBOARD | ROUTER | r2"
+    ],
+    "871": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "872": [
+        " router fani mikrotik",
+        "MIKROTIK | NETWORK | L2"
+    ],
+    "873": [
+        " router fani mikrotik",
+        "MIKROTIK | FIREWALL | L2TP"
+    ],
+    "874": [
+        " router fani mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "875": [
+        " router fani mikrotik",
+        "MIKROTIK | WIFI"
+    ],
+    "876": [
+        " router fani mikrotik",
+        "MIKROTIK | SWITCH | L2TP"
+    ],
+    "877": [
+        " router fani mikrotik",
+        "MIKROTIK | TRACKING"
+    ],
+    "878": [
+        " router fani mikrotik",
+        "ROUTERBOARD | NETWORK"
+    ],
+    "879": [
+        " router fani mikrotik",
+        "ROUTERBOARD | ROUTER | L2TP"
+    ],
+    "880": [
+        " router fani mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "881": [
+        " router fani mikrotik",
+        "CISCO | NETWORK"
+    ],
+    "882": [
+        " router fani mikrotik",
+        "CISCO | FIREWALL"
+    ],
+    "883": [
+        " router fani mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "884": [
+        " router fani mikrotik",
+        "CISCO | TRACKING"
+    ],
+    "885": [
+        " router fani mikrotik",
+        "TEAM | NETWORK"
+    ],
+    "886": [
+        " router fani mikrotik",
+        "SAP | NETWORK"
+    ],
+    "887": [
+        " router fani mikrotik",
+        "STAR | NETWORK"
+    ],
+    "888": [
+        " mikrotik mikrotik",
+        " mikrotik mikrotik"
+    ],
+    "889": [
+        " axis network camera M3004",
+        "SAMSUNG | CAMERA | PNV-9080R"
+    ],
+    "890": [
+        " axis network camera M3004",
+        "SAMSUNG | STORAGE | PNV-9080R"
+    ],
+    "891": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "892": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "893": [
+        " mikrotik el",
+        " mikrotik"
+    ],
+    "894": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "895": [
+        " mikrotik mikrotik",
+        " mikrotik mikrotik"
+    ],
+    "896": [
+        " cerberus cerberus cerberus llc",
+        "MICROSOFT | NETWORK"
+    ],
+    "897": [
+        " cerberus cerberus cerberus llc",
+        "ARM | PROCESSOR"
+    ],
+    "898": [
+        " jeka mikrotik",
+        "MIKROTIK | ROUTER | RB250GS"
+    ],
+    "899": [
+        " jeka mikrotik",
+        "ROUTERBOARD | ROUTER | RB250GS"
+    ],
+    "900": [
+        " jeka mikrotik",
+        "ZTE | WIFI | MF65"
+    ],
+    "901": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "902": [
+        " asus RT-N13U",
+        "ASUS | ROUTER | N13U"
+    ],
+    "903": [
+        " asus RT-N13U",
+        "ASUS | USB | RT-N13U"
+    ],
+    "904": [
+        " asus RT-N13U",
+        "ASUS | NETWORK | N13U"
+    ],
+    "905": [
+        " asus RT-N13U",
+        "ASUS | STORAGE | RT-N13U"
+    ],
+    "906": [
+        " asus RT-N13U",
+        "ASUS | PRINTER | RT-N13U"
+    ],
+    "907": [
+        " asus RT-N13U",
+        "ASUS | SWITCH"
+    ],
+    "908": [
+        " asus RT-N13U",
+        "ASUS | WIFI | N13U"
     ]
 }

@@ -1,1 +1,1 @@
- router BCM96328
+ kpi mikrotik mikrotik

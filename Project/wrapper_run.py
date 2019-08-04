@@ -9,13 +9,13 @@ with open('inputBanners.json') as b:
     data = json.loads(data)
 
 banners = []
-for i in range(20, 100):
+for i in range(300, 400):
 	try:
 	    banners.append(data[str(i)]['banner'])
 	except:
 		pass
 
-print((banners))
+print(len(banners))
 
 for i in range(0, len(banners)):
 	print("\n\n==================", i , "================\n\n")
