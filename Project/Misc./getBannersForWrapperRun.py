@@ -1,6 +1,8 @@
 import json
-with open('cleanBanners.json') as f: data = f.read()
-
+with open('bannersFTP.json') as f: data1 = f.read()
+with open('bannersTELNET.json') as f: data2 = f.read()
+data = data1 + data2
+# print(data1[len(data1)-1])
 data = data.split('\n')
 
 count = 0

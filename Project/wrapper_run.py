@@ -4,7 +4,7 @@ import os
 
 processedTransactions = {}
 
-with open('httpBanners.json') as b:
+with open('inputBanners.json') as b:
     data = b.read()
     data = json.loads(data)
 
