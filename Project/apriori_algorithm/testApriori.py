@@ -49,7 +49,7 @@ def contains_prediction(a):
 --writes the inferred rule in file "RULES"
 '''
 def run_apriori(trans):
-	results = list(apriori(trans, min_support=0.001, min_confidence=0.5) ) 
+	results = list(apriori(trans, min_support=0.0005, min_confidence=0.01) ) 
 
 	print(len(results))
 	df = pd.DataFrame(columns=('Items','Support','Confidence'))
@@ -77,6 +77,7 @@ def run_apriori(trans):
 	df['Confidence'] = Confidence
 	df.to_csv('Rules.csv')
 	df.to_pickle('RULES')
+	print(df)
 
 def main():
 	with open('transactions.json') as f: data = f.read()
