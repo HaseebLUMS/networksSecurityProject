@@ -2798,5 +2798,209 @@
     "699": {
         "ori": "\nMikroTik v6.43rc51 (testing)\nLogin: ",
         "ref:": " v6.43rc51"
+    },
+    "700": {
+        "ori": "220 PONPES DARUNNAHDLAH AP02 FTP server (MikroTik 6.44.3) ready\n",
+        "ref:": " ponpes darunnahdlah ap02 mikrotik"
+    },
+    "701": {
+        "ori": "220 PhotoStation FTP server ready.\n",
+        "ref:": " photostation"
+    },
+    "702": {
+        "ori": "220 CCTV Server FTP server (MikroTik 6.44.1) ready\n",
+        "ref:": " cctv mikrotik"
+    },
+    "703": {
+        "ori": "220 FTP Server (ZyWALL 110) [::ffff:85.93.247.25]\n",
+        "ref:": " zywall"
+    },
+    "704": {
+        "ori": "220 AP8959EU3 Network Management Card AOS v5.1.4 FTP server ready.\n",
+        "ref:": " ap8959eu3 aos"
+    },
+    "705": {
+        "ori": "220 MikroGate14 FTP server (MikroTik 6.44) ready\n",
+        "ref:": " mikrogate14 mikrotik"
+    },
+    "706": {
+        "ori": "220 morosnas FTP server ready.\n",
+        "ref:": " morosnas"
+    },
+    "707": {
+        "ori": "220 yad FTP server (MikroTik 6.44.3) ready\n",
+        "ref:": " yad mikrotik"
+    },
+    "708": {
+        "ori": "220 RICOH Aficio MP C3502 FTP server (11.99) ready.\n",
+        "ref:": " ricoh aficio c3502"
+    },
+    "709": {
+        "ori": "220 Estefania Maria Valderrama Garcia FTP server (MikroTik 6.43.4) ready\n",
+        "ref:": " estefania valderrama garcia mikrotik"
+    },
+    "710": {
+        "ori": "220 Lyudovik FTP server (MikroTik 5.24) ready\n",
+        "ref:": " lyudovik mikrotik"
+    },
+    "711": {
+        "ori": "220 PollekeNas FTP server ready.\n",
+        "ref:": " pollekenas"
+    },
+    "712": {
+        "ori": "220 Kuprianowicz-Bozena Skrzydlice 42A FTP server (MikroTik 6.39.2) ready\n",
+        "ref:": " skrzydlice 42a mikrotik"
+    },
+    "713": {
+        "ori": "220 ENCONS FTP server ready.\n",
+        "ref:": " encons"
+    },
+    "714": {
+        "ori": "220 CL - Jakubec V\ufffdt FTP server (MikroTik 6.43.7) ready\n",
+        "ref:": " jakubec mikrotik"
+    },
+    "715": {
+        "ori": "220 ET0021B76EED6E Dell B5460dn Laser Printer FTP Server NW2.YS.N231 ready.\n",
+        "ref:": " et0021b76eed6e dell b5460dn printer"
+    },
+    "716": {
+        "ori": "220 daigorou FTP server ready.\n",
+        "ref:": " daigorou"
+    },
+    "717": {
+        "ori": "220 Bruce Tower FTP server (MikroTik 6.45.2) ready\n",
+        "ref:": " bruce mikrotik"
+    },
+    "718": {
+        "ori": "220 ipTIME_FTPD 1.3.4d Server (autoenp-AB0AF8) [192.168.0.84] EUC-KR\n",
+        "ref:": " autoenp-ab0af8"
+    },
+    "719": {
+        "ori": "220 IBN FTP server (MikroTik 6.41.3) ready\n",
+        "ref:": " ibn mikrotik"
+    },
+    "720": {
+        "ori": "220 FTP ( BlackJumboDog Version 6.2.0 ) ready\n",
+        "ref:": " blackjumbodog"
+    },
+    "721": {
+        "ori": "220 sanduo FTP server ready.\n",
+        "ref:": " sanduo"
+    },
+    "722": {
+        "ori": "220 yjghy FTP server ready.\n",
+        "ref:": " yjghy"
+    },
+    "723": {
+        "ori": "220 et027050 FTP server ready.\n",
+        "ref:": " et027050"
+    },
+    "724": {
+        "ori": "220 AXIS M5014-V PTZ Dome Network Camera 5.51.5.1 (2018) ready.\n",
+        "ref:": " axis m5014-v ptz camera"
+    },
+    "725": {
+        "ori": "220 ipTIME_FTPD 1.3.4d Server (DaeYangNas-5F2A07) [::ffff:192.168.0.8] EUC-KR\n",
+        "ref:": " daeyangnas-5f2a07"
+    },
+    "726": {
+        "ori": "220 sterinterieurs FTP server ready.\n",
+        "ref:": " sterinterieurs"
+    },
+    "727": {
+        "ori": "220 Welcome to ASUS R7000 FTP service.\n",
+        "ref:": " asus r7000"
+    },
+    "728": {
+        "ori": "220 Homebase FTP server ready.\n",
+        "ref:": " homebase"
+    },
+    "729": {
+        "ori": "220 SynologyDisk FTP server ready.\n",
+        "ref:": " synologydisk"
+    },
+    "730": {
+        "ori": "220 Bank of Benoit FTP server (MikroTik 6.43.8) ready\n",
+        "ref:": " benoit mikrotik"
+    },
+    "731": {
+        "ori": "220 ipTIME_FTPD 1.3.4d Server (NAS-C809B8) [192.168.219.150] UTF-8\n",
+        "ref:": " nas-c809b8"
+    },
+    "732": {
+        "ori": "220 BLUE CALLE 78 CON 12 FTP server (MikroTik 6.43.4) ready\n",
+        "ref:": " calle mikrotik"
+    },
+    "733": {
+        "ori": "220 Provider Solucoes FTP server (MikroTik 6.35.4) ready\n",
+        "ref:": " solucoes mikrotik"
+    },
+    "734": {
+        "ori": "220 LohmanNAS FTP server ready.\n",
+        "ref:": " lohmannas"
+    },
+    "735": {
+        "ori": "220 CID-14126 Premier Food LLC - Don Taco FTP server (MikroTik 6.43.8) ready\n",
+        "ref:": " cid-14126 llc mikrotik"
+    },
+    "736": {
+        "ori": "220 Disdroblan FTP server (MikroTik 5.24) ready\n",
+        "ref:": " disdroblan mikrotik"
+    },
+    "737": {
+        "ori": "220 RomeroDoggDS FTP server ready.\n",
+        "ref:": " romerodoggds"
+    },
+    "738": {
+        "ori": "220 ipTIME_FTPD 1.3.4d Server (TVBOX-1B0225) [192.168.1.134] EUC-KR\n",
+        "ref:": " tvbox-1b0225"
+    },
+    "739": {
+        "ori": "220 Allworx FTP server ready\n",
+        "ref:": " allworx"
+    },
+    "740": {
+        "ori": "220 Welcome to ASUS DSL-AC56U FTP service.\n",
+        "ref:": " asus dsl-ac56u"
+    },
+    "741": {
+        "ori": "220 ipTIME_FTPD 1.3.4d Server (myungjin-AB0EBA) [192.168.0.2] EUC-KR\n",
+        "ref:": " myungjin-ab0eba"
+    },
+    "742": {
+        "ori": "220 AXIS P5534 PTZ Dome Network Camera 5.40.9.2 (2012) ready.\n",
+        "ref:": " axis p5534 ptz camera"
+    },
+    "743": {
+        "ori": "220 ipTIME_FTPD 1.3.4d Server (NAS3-1B0E96) [192.168.0.17] EUC-KR\n",
+        "ref:": " nasb0e96"
+    },
+    "744": {
+        "ori": "220 suwonkim FTP server ready.\n",
+        "ref:": " suwonkim"
+    },
+    "745": {
+        "ori": "220 JSZhongyi FTP server ready.\n",
+        "ref:": " jszhongyi"
+    },
+    "746": {
+        "ori": "220 KZC FTP server (MikroTik 6.44.1) ready\n",
+        "ref:": " kzc mikrotik"
+    },
+    "747": {
+        "ori": "220 ipTIME_FTPD 1.3.4d Server (server-294B84) [192.168.0.16] EUC-KR\n",
+        "ref:": " server-294b84"
+    },
+    "748": {
+        "ori": "220 ipTIME_FTPD 1.3.4d Server (jjsdisk-943C23) [192.168.0.7] EUC-KR\n",
+        "ref:": " jjsdisk-943c23"
+    },
+    "749": {
+        "ori": "220 CPe - MK - PMMRN - DEFESA SOCIAL - 126212 FTP server (MikroTik 6.35.4) ready\n",
+        "ref:": " cpe mk pmmrn defesa mikrotik"
+    },
+    "750": {
+        "ori": "220 Nagiec Pawel FTP server (MikroTik 6.22) ready\n",
+        "ref:": " nagiec pawel mikrotik"
     }
 }

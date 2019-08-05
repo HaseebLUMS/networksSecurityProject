@@ -1,7 +1,7 @@
 import json
-with open('bannersFTP.json') as f: data1 = f.read()
-with open('bannersTELNET.json') as f: data2 = f.read()
-data = data1 + data2
+with open('bannersFTP2.json') as f: data = f.read()
+# with open('bannersTELNET.json') as f: data2 = f.read()
+# data = data1 + data2
 # print(data1[len(data1)-1])
 data = data.split('\n')
 
@@ -24,4 +24,4 @@ for i in range(0, len(data)-1):
 print(newData)
 
 newData = json.dumps(newData, indent=4)
-with open('inputBanners.json', 'w') as f: f.write(newData) 
+with open('inputBanners2.json', 'w') as f: f.write(newData) 

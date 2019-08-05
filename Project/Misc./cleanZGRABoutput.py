@@ -5,7 +5,7 @@ import json
 tag = 'ftp'
 banners = set({})
 
-with open('banners2.json') as f: data = f.read()
+with open('banners3.json') as f: data = f.read()
 newData = ''
 data = data.split('\n')
 
@@ -23,5 +23,5 @@ for rec in data:
 print(newData)
 
 
-with open('bannersFTP.json', 'a+') as f: f.write(newData)
+with open('bannersFTP2.json', 'w') as f: f.write(newData)
 

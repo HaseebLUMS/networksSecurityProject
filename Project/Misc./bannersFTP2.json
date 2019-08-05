@@ -1,0 +1,184 @@
+{"ip": "210.56.10.162", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Chawala-MikroTik Proxy FTP server (MikroTik 5.20) ready\r\n"}}}
+{"ip": "138.75.134.160", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC56U FTP service.\r\n"}}}
+{"ip": "171.244.166.22", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 R2_G,H,V,B FTP server (MikroTik 6.42.7) ready\r\n"}}}
+{"ip": "36.92.44.227", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 PONPES DARUNNAHDLAH AP02 FTP server (MikroTik 6.44.3) ready\r\n"}}}
+{"ip": "203.80.235.14", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 DiskStation FTP server ready.\r\n"}}}
+{"ip": "36.89.183.61", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 SDN_CB_15PAGI FTP server (MikroTik 6.39.3) ready\r\n"}}}
+{"ip": "58.10.108.61", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)\r\n"}}}
+{"ip": "113.160.154.52", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FTP version 1.0\r\n"}}}
+{"ip": "103.21.77.45", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.36.4) ready\r\n"}}}
+{"ip": "58.176.123.59", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC55UHP FTP service.\r\n"}}}
+{"ip": "62.146.84.254", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AP7922 Network Management Card AOS v3.7.3 FTP server ready.\r\n"}}}
+{"ip": "5.51.39.175", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 media FTP server ready.\r\n"}}}
+{"ip": "202.79.29.148", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.39.3) ready\r\n"}}}
+{"ip": "163.21.206.75", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 PhotoStation FTP server ready.\r\n"}}}
+{"ip": "84.8.19.65", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "550 Permission denied ,please check access control list\r\n"}}}
+{"ip": "212.115.199.26", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AXIS P3367 Fixed Dome Network Camera 6.10.1 (2016) ready.\r\n"}}}
+{"ip": "103.115.164.125", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 CCTV Server FTP server (MikroTik 6.44.1) ready\r\n"}}}
+{"ip": "185.167.210.70", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.43.2) ready\r\n"}}}
+{"ip": "93.174.94.54", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.43.4) ready\r\n"}}}
+{"ip": "51.7.184.237", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 \"Welcome to MyBookLive\"\r\n"}}}
+{"ip": "88.156.242.86", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC51U FTP service.\r\n"}}}
+{"ip": "80.14.15.41", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.1.30]\r\n"}}}
+{"ip": "62.176.116.60", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 5.26) ready\r\n"}}}
+{"ip": "193.59.72.118", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik_TB FTP server (MikroTik 6.42.3) ready\r\n"}}}
+{"ip": "85.93.247.25", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FTP Server (ZyWALL 110) [::ffff:85.93.247.25]\r\n"}}}
+{"ip": "180.250.188.26", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 5.14) ready\r\n"}}}
+{"ip": "87.79.236.208", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ON_AIR_TV FTP server ready.\r\n"}}}
+{"ip": "85.228.17.201", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC66U FTP service.\r\n"}}}
+{"ip": "95.211.187.251", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AP8959EU3 Network Management Card AOS v5.1.4 FTP server ready.\r\n"}}}
+{"ip": "188.240.25.81", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FRITZ!BoxFonWLAN7360 FTP server ready.\r\n"}}}
+{"ip": "178.214.193.66", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroGate14 FTP server (MikroTik 6.44) ready\r\n"}}}
+{"ip": "84.56.12.92", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 DSL-EasyBox 803 FTP Server v30.05.233 ready\r\n"}}}
+{"ip": "59.129.35.249", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 morosnas FTP server ready.\r\n"}}}
+{"ip": "62.45.240.129", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC3200 FTP service.\r\n"}}}
+{"ip": "80.76.93.90", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [10.10.10.1]\r\n"}}}
+{"ip": "62.45.225.196", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FRITZ!BoxFonWLAN7390 FTP server ready.\r\n"}}}
+{"ip": "188.194.12.220", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FRITZ!Box6490Cable FTP server ready.\r\n"}}}
+{"ip": "185.95.228.1", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 yad FTP server (MikroTik 6.44.3) ready\r\n"}}}
+{"ip": "178.176.141.179", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AXIS Q6115-E PTZ Dome Network Camera 6.50.3 (2018) ready.\r\n"}}}
+{"ip": "210.240.144.64", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 RICOH Aficio MP C3502 FTP server (11.99) ready.\r\n"}}}
+{"ip": "176.119.135.32", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Estefania Maria Valderrama Garcia FTP server (MikroTik 6.43.4) ready\r\n"}}}
+{"ip": "93.80.239.226", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-N66U FTP service.\r\n"}}}
+{"ip": "163.53.83.188", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.40.8) ready\r\n"}}}
+{"ip": "84.141.92.19", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FRITZ!Box7490 FTP server ready.\r\n"}}}
+{"ip": "124.244.13.95", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Winson_DS FTP server ready.\r\n"}}}
+{"ip": "109.167.153.105", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC68U FTP service.\r\n"}}}
+{"ip": "46.223.252.145", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FRITZ!Box6360Cable(kbw) FTP server ready.\r\n"}}}
+{"ip": "202.123.181.0", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220-TiMOS-C-9.0.R6 cpm/hops ALCATEL SR 7750 Copyright (c) 2000-2011 Alcatel-Lucent.\r\n220-All rights reserved. All use subject to applicable license agreements.\r\n220-Built on Tue Sep 27 12:38:04 PDT 2011 by builder in /rel9.0/b1/R6/panos/main\r\n220-\r\n220-WARNING\r\n220 FTP server ready\r\n"}}}
+{"ip": "178.212.49.170", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Globus_do_Radoszyna FTP server (MikroTik 6.43) ready\r\n"}}}
+{"ip": "178.27.219.91", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FRITZ!Box6490Cable(kdg) FTP server ready.\r\n"}}}
+{"ip": "91.133.3.207", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.5) ready\r\n"}}}
+{"ip": "85.255.79.40", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AP9617 Network Management Card AOS v3.5.5 FTP server ready.\r\n"}}}
+{"ip": "93.209.183.42", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Speedport W 921V FTP Server v1.45.000 ready\r\n"}}}
+{"ip": "37.109.50.160", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS 4G-AC55U FTP service.\r\n"}}}
+{"ip": "77.79.132.104", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Lyudovik FTP server (MikroTik 5.24) ready\r\n"}}}
+{"ip": "46.209.128.110", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.40.6) ready\r\n"}}}
+{"ip": "84.192.42.67", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 PollekeNas FTP server ready.\r\n"}}}
+{"ip": "89.25.63.167", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC66U_B1 FTP service.\r\n"}}}
+{"ip": "128.143.136.204", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "421 Session"}}, "error": "read tcp 10.130.0.68:49578->128.143.136.204:21: read: connection reset by peer", "error_component": "ftp"}
+{"ip": "78.186.16.176", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FTP Server (USG40) [::ffff:78.186.16.176]\r\n"}}}
+{"ip": "46.39.136.47", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC58U FTP service.\r\n"}}}
+{"ip": "178.201.205.7", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FRITZ!Box6490Cable(lgi) FTP server ready.\r\n"}}}
+{"ip": "202.22.154.67", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 DrayTek FTP version 1.0\r\n"}}}
+{"ip": "80.51.171.230", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FTP FTP server ready.\r\n"}}}
+{"ip": "76.118.158.223", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Axis 2120 Network Camera 2.43 Nov 09 2004 ready.\r\n"}}}
+{"ip": "41.204.238.244", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 test FTP server (MikroTik 6.42.7) ready\r\n"}}}
+{"ip": "195.9.18.78", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220-Microsoft FTP Service\r\n220 ZOOM FTP Server\r\n"}}}
+{"ip": "103.211.188.145", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.44) ready\r\n"}}}
+{"ip": "178.219.127.123", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Kuprianowicz-Bozena Skrzydlice 42A FTP server (MikroTik 6.39.2) ready\r\n"}}}
+{"ip": "216.210.69.233", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.42.3) ready\r\n"}}}
+{"ip": "94.114.94.39", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FRITZ!Box6590Cable FTP server ready.\r\n"}}}
+{"ip": "82.127.20.153", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FTP Server (USG110) [::ffff:82.127.20.153]\r\n"}}}
+{"ip": "195.228.80.184", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ENCONS FTP server ready.\r\n"}}}
+{"ip": "72.128.68.80", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC66R FTP service.\r\n"}}}
+{"ip": "31.47.105.160", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 CL - Jakubec V\ufffdt FTP server (MikroTik 6.43.7) ready\r\n"}}}
+{"ip": "124.41.228.59", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.44.3) ready\r\n"}}}
+{"ip": "212.224.44.122", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [172.16.101.1]\r\n"}}}
+{"ip": "202.179.7.133", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 3-Tes-SUM FTP server (MikroTik 6.43.14) ready\r\n"}}}
+{"ip": "138.123.134.76", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ET0021B76EED6E Dell B5460dn Laser Printer FTP Server NW2.YS.N231 ready.\r\n"}}}
+{"ip": "176.125.84.61", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-N14U FTP service.\r\n"}}}
+{"ip": "125.132.90.116", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A89B5) [192.168.0.1] EUC-KR\r\n"}}}
+{"ip": "131.213.148.200", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 daigorou FTP server ready.\r\n"}}}
+{"ip": "81.182.242.190", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 (vsFTPd 3.0.2)\r\n"}}}
+{"ip": "176.215.199.63", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.44.1) ready\r\n"}}}
+{"ip": "60.251.50.230", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220-FTP server ready.\r\n220 This is a private system - No anonymous login\r\n"}}}
+{"ip": "75.109.190.108", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to Linksys20828\r\n"}}}
+{"ip": "71.93.3.167", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to Linksys08260\r\n"}}}
+{"ip": "12.103.43.160", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FTP Server\r\n"}}}
+{"ip": "50.241.222.233", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:52. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}}
+{"ip": "175.197.3.144", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B310E) [192.168.0.2] UTF-8\r\n"}}}
+{"ip": "172.79.142.248", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-ACRH13 FTP service.\r\n"}}}
+{"ip": "114.70.77.20", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C82718) [114.70.77.20] EUC-KR\r\n"}}}
+{"ip": "203.205.34.85", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.43) ready\r\n"}}}
+{"ip": "205.210.22.101", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Bruce Tower FTP server (MikroTik 6.45.2) ready\r\n"}}}
+{"ip": "218.154.23.68", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (autoenp-AB0AF8) [192.168.0.84] EUC-KR\r\n"}}}
+{"ip": "202.52.248.13", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 IBN FTP server (MikroTik 6.41.3) ready\r\n"}}}
+{"ip": "203.216.171.75", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [203.216.171.75]\r\n"}}}
+{"ip": "153.131.176.244", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FTP ( BlackJumboDog Version 6.2.0 ) ready\r\n"}}}
+{"ip": "163.24.14.200", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 sanduo FTP server ready.\r\n"}}}
+{"ip": "112.184.138.235", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220-FileZilla Server version 0.9.41 beta\r\n220-written by Tim Kosse (Tim.Kosse@gmx.de)\r\n220 Please visit http://sourceforge.net/projects/filezilla/\r\n"}}}
+{"ip": "121.159.201.234", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B2FB8) [192.168.0.55]\r\n"}}}
+{"ip": "118.163.16.8", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [192.168.10.16]\r\n"}}}
+{"ip": "221.162.226.113", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A7781) [192.168.0.1] EUC-KR\r\n"}}}
+{"ip": "125.185.242.196", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 yjghy FTP server ready.\r\n"}}}
+{"ip": "162.253.232.11", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.42.6) ready\r\n"}}}
+{"ip": "45.221.72.74", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.40.9) ready\r\n"}}}
+{"ip": "219.84.34.232", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 et027050 FTP server ready.\r\n"}}}
+{"ip": "152.8.247.128", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AXIS M5014-V PTZ Dome Network Camera 5.51.5.1 (2018) ready.\r\n"}}}
+{"ip": "46.21.80.109", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ucftpd FTP server ready.\r\n"}}}
+{"ip": "59.37.13.106", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 FTP service ready.\r\n"}}}
+{"ip": "49.166.16.171", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (DaeYangNas-5F2A07) [::ffff:192.168.0.8] EUC-KR\r\n"}}}
+{"ip": "86.95.84.24", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 sterinterieurs FTP server ready.\r\n"}}}
+{"ip": "184.152.231.158", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS R7000 FTP service.\r\n"}}}
+{"ip": "92.27.8.109", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Microsoft FTP Service\r\n"}}}
+{"ip": "205.210.20.33", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Chandler FTP server (MikroTik 6.45.2) ready\r\n"}}}
+{"ip": "84.85.60.135", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Homebase FTP server ready.\r\n"}}}
+{"ip": "59.9.196.241", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C817E5) [::ffff:172.30.1.54] UTF-8\r\n"}}}
+{"ip": "220.70.29.183", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45848D) [::ffff:192.168.0.1] EUC-KR\r\n"}}}
+{"ip": "42.200.149.213", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 SynologyDisk FTP server ready.\r\n"}}}
+{"ip": "14.48.151.122", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (NAS1dual-5F026C) [192.168.0.33] EUC-KR\r\n"}}}
+{"ip": "68.179.131.66", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC88U FTP service.\r\n"}}}
+{"ip": "213.174.101.223", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "Permission denied.(Please check access control list)\r\n"}}, "error": "EOF", "error_component": "ftp"}
+{"ip": "12.250.175.170", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Bank of Benoit FTP server (MikroTik 6.43.8) ready\r\n"}}}
+{"ip": "222.16.166.34", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 JCZ-NAS FTP server ready.\r\n"}}}
+{"ip": "121.129.128.123", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME N904NS-0E7F11) [192.168.0.1]\r\n"}}}
+{"ip": "213.159.240.239", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.39.2) ready\r\n"}}}
+{"ip": "2.93.31.68", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.42.5) ready\r\n"}}}
+{"ip": "125.185.92.48", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (NAS-C809B8) [192.168.219.150] UTF-8\r\n"}}}
+{"ip": "5.19.141.173", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.42.7) ready\r\n"}}}
+{"ip": "190.184.203.186", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 BLUE CALLE 78 CON 12 FTP server (MikroTik 6.43.4) ready\r\n"}}}
+{"ip": "153.129.86.139", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 192.168.11.2 FTP server (tnftpd 20080929) ready.\r\n"}}}
+{"ip": "89.32.224.200", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.45.1) ready\r\n"}}}
+{"ip": "211.194.173.15", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2dual-29510B) [::ffff:192.168.0.135] EUC-KR\r\n"}}}
+{"ip": "112.156.227.170", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (j2hhome-C92A7B) [192.168.219.167] EUC-KR\r\n"}}}
+{"ip": "67.53.63.53", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AXIS 210 Network Camera 4.40.2 (Nov 04 2008) ready.\r\n"}}}
+{"ip": "96.35.45.46", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC3100 FTP service.\r\n"}}}
+{"ip": "112.156.187.85", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DC515) [192.168.0.1] EUC-KR\r\n"}}}
+{"ip": "183.106.239.80", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A847F1) [::ffff:192.168.0.1] EUC-KR\r\n"}}}
+{"ip": "177.154.82.180", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Provider Solucoes FTP server (MikroTik 6.35.4) ready\r\n"}}}
+{"ip": "24.217.120.91", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 LohmanNAS FTP server ready.\r\n"}}}
+{"ip": "76.72.245.6", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 CID-14126 Premier Food LLC - Don Taco FTP server (MikroTik 6.43.8) ready\r\n"}}}
+{"ip": "81.150.188.206", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "550 Permission denied ,please check access control list\r\nPermission denied.(Please check access control list)\r\n"}}, "error": "EOF", "error_component": "ftp"}
+{"ip": "181.143.28.180", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Disdroblan FTP server (MikroTik 5.24) ready\r\n"}}}
+{"ip": "46.45.103.249", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Synology FTP server ready.\r\n"}}}
+{"ip": "138.94.84.138", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Z-3G_MATRIZ FTP server (MikroTik 6.44.1) ready\r\n"}}}
+{"ip": "138.59.95.209", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 CGNAT01 FTP server (MikroTik 6.44.3) ready\r\n"}}}
+{"ip": "70.181.192.147", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 RomeroDoggDS FTP server ready.\r\n"}}}
+{"ip": "58.120.49.110", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (TVBOX-1B0225) [192.168.1.134] EUC-KR\r\n"}}}
+{"ip": "208.58.52.122", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Allworx FTP server ready\r\n"}}}
+{"ip": "92.29.250.26", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS DSL-AC56U FTP service.\r\n"}}}
+{"ip": "218.209.156.237", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (231-C93D8F) [192.168.0.250] EUC-KR\r\n"}}}
+{"ip": "103.23.236.88", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.34.2) ready\r\n"}}}
+{"ip": "14.46.207.115", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (myungjin-AB0EBA) [192.168.0.2] EUC-KR\r\n"}}}
+{"ip": "117.29.179.182", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AXIS P5534 PTZ Dome Network Camera 5.40.9.2 (2012) ready.\r\n"}}}
+{"ip": "14.42.183.35", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A85431) [::ffff:192.168.0.1] UTF-8\r\n"}}}
+{"ip": "59.26.201.134", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-658E59) [::ffff:59.26.123.1] EUC-KR\r\n"}}}
+{"ip": "138.117.160.114", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 CIBERPROTECCION_DIREICAJ_-_LIMA_-_INTERNET FTP server (MikroTik 6.42.7) ready\r\n"}}}
+{"ip": "218.55.221.210", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-698DFD) [192.168.0.1] UTF-8\r\n"}}}
+{"ip": "39.118.162.194", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE1F61) [192.168.0.1] EUC-KR\r\n"}}}
+{"ip": "14.39.163.116", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (NAS3-1B0E96) [192.168.0.17] EUC-KR\r\n"}}}
+{"ip": "221.138.227.158", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC87U FTP service.\r\n"}}}
+{"ip": "210.90.167.50", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 suwonkim FTP server ready.\r\n"}}}
+{"ip": "175.114.193.124", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A072E1) [192.168.0.1] UTF-8\r\n"}}}
+{"ip": "61.105.10.154", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC68P FTP service.\r\n"}}}
+{"ip": "93.171.157.229", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.44.2) ready\r\n"}}}
+{"ip": "61.35.195.146", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 AEROVER_PAF FTP server ready.\r\n"}}}
+{"ip": "222.186.32.68", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 JSZhongyi FTP server ready.\r\n"}}}
+{"ip": "218.236.244.139", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-04E705) [192.168.0.1] UTF-8\r\n"}}}
+{"ip": "45.225.140.190", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 KZC FTP server (MikroTik 6.44.1) ready\r\n"}}}
+{"ip": "106.247.23.126", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (server-294B84) [192.168.0.16] EUC-KR\r\n"}}}
+{"ip": "200.5.229.246", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MEDANOS-MASTER FTP server (MikroTik 6.43) ready\r\n"}}}
+{"ip": "211.211.134.148", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A5975) [192.168.0.1] UTF-8\r\n"}}}
+{"ip": "218.233.242.114", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 ipTIME_FTPD 1.3.4d Server (jjsdisk-943C23) [192.168.0.7] EUC-KR\r\n"}}}
+{"ip": "68.9.25.48", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to ASUS RT-AC5300 FTP service.\r\n"}}}
+{"ip": "60.165.53.45", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Welcome to WD My Cloud\r\n"}}}
+{"ip": "95.47.197.28", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.36) ready\r\n"}}}
+{"ip": "170.247.203.206", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.34.4) ready\r\n"}}}
+{"ip": "189.90.248.163", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 CPe - MK - PMMRN - DEFESA SOCIAL - 126212 FTP server (MikroTik 6.35.4) ready\r\n"}}}
+{"ip": "46.104.86.136", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.42.2) ready\r\n"}}}
+{"ip": "113.161.167.150", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 MikroTik FTP server (MikroTik 6.40.3) ready\r\n"}}}
+{"ip": "94.241.143.247", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Shahriar-Router FTP server (MikroTik 6.44.3) ready\r\n"}}}
+{"ip": "185.124.117.230", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Nagiec Pawel FTP server (MikroTik 6.22) ready\r\n"}}}
+{"ip": "82.247.167.1", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.0.1]\r\n"}}}
+{"ip": "66.235.225.230", "timestamp": "2019-08-06T02:52:45+05:00", "data": {"ftp": {"banner": "220 Gene6 FTP Server v3.10.0 (Build 2) ready...\r\n"}}}
