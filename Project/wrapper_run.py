@@ -5,13 +5,17 @@ import os
 processedTransactions = {}
 
 with open('inputBanners.json') as b:
-    data = b.read()
-    data = json.loads(data)
+	data = b.read()
+	data = json.loads(data)
 
 banners = []
-for i in range(500, 1000):
+for i in range(1000, 1500):
 	try:
-	    banners.append(data[str(i)]['banner'])
+		tmp = data[str(i)]['banner']
+		if 'filezilla' in tmp.lower(): continue
+		if 'serve-u' in tmp.lower(): 
+			continue
+		banners.append(data[str(i)]['banner'])
 	except:
 		pass
 

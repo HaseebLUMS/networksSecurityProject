@@ -245,6 +245,11 @@ def refine_query(q, mode):
 
 		reg = re.compile('<[^<]+?>')
 		q = re.sub(reg, '', q)
+
+		date_time = r'\d+[\/:\-]\d+[\/:\-\s]*[\dAaPpMn]*'
+		q = re.sub(date_time, '', q)
+
+		
 		
 	if mode == 1:
 		q = q.replace('\\r', " ")
