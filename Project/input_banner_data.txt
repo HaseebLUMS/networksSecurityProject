@@ -1,1 +1,1 @@
-220 MikroTik-KPI FTP server (MikroTik 6.45.2) ready
+220 MikroTik-EQ FTP server (MikroTik 5.19) ready\r\n

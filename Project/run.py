@@ -140,6 +140,13 @@ def make_transaction():
 
 
 def main():
+	heavy_servers = ['apache', 'iis', 'ngnix']
+	with open('input_banner_data.txt') as f: data = f.read()
+	data = data.lower()
+	for ele in heavy_servers:
+		if ele in data:
+			print('banner belongs to nonIOT device.')
+			return
 	start = time.time()
 	run_files()
 	make_transaction()

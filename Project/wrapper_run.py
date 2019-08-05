@@ -9,7 +9,7 @@ with open('inputBanners.json') as b:
     data = json.loads(data)
 
 banners = []
-for i in range(300, 400):
+for i in range(500, 1000):
 	try:
 	    banners.append(data[str(i)]['banner'])
 	except:

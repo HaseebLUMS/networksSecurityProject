@@ -1,5 +1,7 @@
 {
-  "vendors": [],
+  "vendors": [
+    "mikrotik"
+  ],
   "device_types": [],
   "products": []
 }

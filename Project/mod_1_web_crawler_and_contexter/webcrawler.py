@@ -188,9 +188,9 @@ refining libraries. With the help of this
 function, it will be prevented.
 '''
 def find_pattern(rawData):
-	import re
 	p = re.compile("[A-Za-z]+[-]?[A-Za-z]*[0-9]+[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
 	return p.findall(rawData)
+
 '''
 Uses Enchant library for removing dictionary words from 
 input banner and extracting keywords. 
@@ -207,6 +207,22 @@ The used regex is for eliminating
 the html tags from the banner data
 	--Second line of section 4.2, sub section "web crawler"
 '''
+
+def trim(k):
+	f = False
+	l = False
+	extra = ["(", ")", "{", "}", "[", "]"]
+	for ele in extra:
+		if k[0] is ele:
+			f = True
+		if k[len(k)-1] is ele:
+			l = True
+	if f:
+		k = k[1:]
+	if l:
+		k = k[:-1]
+	return k
+
 def refine_query(q, mode):
 	d = enchant.Dict('en_US')
 	
@@ -237,42 +253,51 @@ def refine_query(q, mode):
 	
 
 	possibleProd = find_pattern(q)
+	# possibleProdText = ''
+	# for ele in possibleProd:
+	# 	possibleProdText += (ele + ' ')
+
+
 	keywords = q.split(" ")
-	newQ = ""
-	if mode == 1:
-		for ele in keywords:
-			for ep in possibleProd:
-				if ep not in ele:
-					newQ += (ele + " ")
-		if len(possibleProd) > 0:
-			q = newQ
+	# newQ = ""
+	# if mode == 1:
+	# 	for ele in keywords:
+	# 		for ep in possibleProd:
+	# 			if ep not in ele:
+	# 				newQ += (ele + " ")
+	# 	if len(possibleProd) > 0:
+	# 		q = newQ
 
 
-	r = Rake()
-	r.extract_keywords_from_text(q)
-	keywords = r.get_ranked_phrases()
+	if mode == 2:
+		r = Rake()
+		r.extract_keywords_from_text(q)
+		keywords = r.get_ranked_phrases()
+	else:
+		keywords = q.split(" ")
 
-	
+
 	res = ""
-	for kword in keywords:	
+	for kword in keywords:
 		if kword is "": continue
 		for k in kword.split(" "):
+			k = trim(k)
 			if k is "": continue
 			try:
-				if (k is not "") and (d.check(k.lower()) == True) and (in_database(k.lower()) == False): continue
+				if (d.check(k.lower()) == True) and (in_database(k.lower()) == False): continue
 			except:
 				pass
 			if mode == 1:
-				if (k.isalpha() is False) and (k.isalnum() is False): continue
+				if (k.isalpha() is False) and (k.isalnum() is False) and (k not in possibleProd): continue
 				if k.isdigit() is True: continue
 			res += (" " + k)
 	
 
-	# if mode == 2:
-	for ele in possibleProd:
-		if ele not in res:
-			res += (" " + ele)
-	return res
+	if mode == 2:
+		for ele in possibleProd:
+			if ele not in res:
+				res += (" " + ele)
+	return res.lower()
 
 
 def count_words(l):

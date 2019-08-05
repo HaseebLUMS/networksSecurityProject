@@ -1,94 +1,21 @@
-cable modem
-DSL modem
-wireless modem
-DSL/cable modem
-alarm system
 camera
-cinema
-DVR
-environment monitor
-printer
-printer
-industrial control system
-infrastructure router
-inkjet printer
-IPMI
-IPMI
-laser printer
-light controller
-multifunction printer
-nas
-network
-switch
-firewall
-fire alarm
-network analyzer
-power distribution unit
-phaser printer
-programmable logic controller
-power controller
-power monitor
-print server
-scada controller
-scada gateway
-scada processor
-scada router
-scada frontend
-scada server
-soho router
-solar panel
-storage
-temperature monitor
-thermostat
-set-top box
-TV tuner
-UPS
-usb
-VoIP phone
-water flow controller
-wifi
-hvac
-access control
-power monitor
-sign
-kvm
-activity tracker
-air conditioner
-air purifier
-air quality monitor
-alarm
-baby monitor
-blood pressure monitor
-bracelet
-bulb
-button
-button controller
-camera
-coffeemaker
-controller
-cooker
-doorbell
-expresso
-feeder
-garden sensor
-gesture controller
-gps
-irrigation controller
-lock
-navgation system
-oven
-plant monitor
+ipcam
+netcam
+cam
+dvr
 router
-sleep tracker
-smoke alarm
-speaker
-switch
-thermometer
-thermostat
-tracking
-tv
-voice controller
-watch
-yoga mat
-processor
+nvr
+nvs
+video server
+video encoder
+video recorder
+diskstation
+rackstation
 printer
+copier
+scanner
+switches
+modem
+switch
+gateway
+access point

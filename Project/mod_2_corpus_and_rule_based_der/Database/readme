@@ -1,5 +1,4 @@
 I have scraped the vendors data from site https://www.iotone.com/suppliers.
 There are approximately 2400 vendors.
 
-I have collected the device types data from from different websites like wikipedia,
-amazon etc. There approximately 40 device types.
+I have collected the device types data from from Table 1 in the paper.
