@@ -1,0 +1,7058 @@
+{
+    "0": [
+        "test 1",
+        " test 2"
+    ],
+    "1": [
+        "test 1",
+        " test 2"
+    ],
+    "2": [
+        " mikrotik mikrotik",
+        "MIKROTIK | ROUTER | v3.3"
+    ],
+    "3": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "4": [
+        " mikrotik mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "5": [
+        " mikrotik mikrotik",
+        "ROUTERBOARD | SWITCHES"
+    ],
+    "6": [
+        " mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "7": [
+        " mikrotik mikrotik",
+        "MICROSOFT | GATEWAY"
+    ],
+    "8": [
+        " proftpd netgear readynas",
+        "VERIZON | ROUTER"
+    ],
+    "9": [
+        " mikrotik",
+        " mikrotik"
+    ],
+    "10": [
+        " draytek",
+        " draytek"
+    ],
+    "11": [
+        " asus rt-ac66u",
+        "ASUS | ROUTER | AC66u"
+    ],
+    "12": [
+        " asus rt-ac66u",
+        "ASUS | PRINTER | RT-AC66U"
+    ],
+    "13": [
+        " asus rt-ac66u",
+        "BROADCOM | ROUTER | AC66u"
+    ],
+    "14": [
+        " asus rt-ac66u",
+        "BROADCOM | SWITCH | RT-N66U"
+    ],
+    "15": [
+        " asus rt-ac66u",
+        "NETGEAR | ROUTER | R6700"
+    ],
+    "16": [
+        " asus rt-ac66u",
+        "DASHBOARD | PRINTER | RT-AC66U"
+    ],
+    "17": [
+        " asus rt-ac66u",
+        "BELKIN | ROUTER"
+    ],
+    "18": [
+        " asus rt-ac66u",
+        "EXACT | ROUTER | B1"
+    ],
+    "19": [
+        " asus rt-ac66u",
+        "MEDIATEK | ROUTER | R6700"
+    ],
+    "20": [
+        " axis m5013 ptz camera",
+        "SAMSUNG | CAMERA | v3"
+    ],
+    "21": [
+        " axis m5013 ptz camera",
+        "SAMSUNG | NVR"
+    ],
+    "22": [
+        " axis m5013 ptz camera",
+        "SAMSUNG | DVR"
+    ],
+    "23": [
+        " axis m5013 ptz camera",
+        "HIKVISION | CAMERA | v3"
+    ],
+    "24": [
+        " axis m5013 ptz camera",
+        "HIKVISION | NVR"
+    ],
+    "25": [
+        " axis m5013 ptz camera",
+        "HIKVISION | DVR"
+    ],
+    "26": [
+        " axis m5013 ptz camera",
+        "BOSCH | CAMERA | v3"
+    ],
+    "27": [
+        " axis m5013 ptz camera",
+        "BOSCH | NVR"
+    ],
+    "28": [
+        " axis m5013 ptz camera",
+        "BOSCH | DVR"
+    ],
+    "29": [
+        " indah desi mikrotik",
+        "NOKIA | PRINTER | c1-o1"
+    ],
+    "30": [
+        " indah desi mikrotik",
+        "NOKIA | CAMERA | c6"
+    ],
+    "31": [
+        " indah desi mikrotik",
+        "NOKIA | SCANNER | e7"
+    ],
+    "32": [
+        " indah desi mikrotik",
+        "NOKIA | CAM | c6"
+    ],
+    "33": [
+        " indah desi mikrotik",
+        "NOKIA | NVS | c5-03"
+    ],
+    "34": [
+        " indah desi mikrotik",
+        "MICROSOFT | PRINTER | g2"
+    ],
+    "35": [
+        " indah desi mikrotik",
+        "BLACKBERRY | CAMERA | c6"
+    ],
+    "36": [
+        " indah desi mikrotik",
+        "STAR | CAMERA | v1"
+    ],
+    "37": [
+        " indah desi mikrotik",
+        "STAR | CAM | P4"
+    ],
+    "38": [
+        " indah desi mikrotik",
+        "MIKROTIK | ROUTER | IPv4"
+    ],
+    "39": [
+        " indah desi mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "40": [
+        " indah desi mikrotik",
+        "TEAM | PRINTER | c1-o1"
+    ],
+    "41": [
+        " indah desi mikrotik",
+        "ARENA | CAM | e1"
+    ],
+    "42": [
+        " indah desi mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "43": [
+        " indah desi mikrotik",
+        "CISCO | CAM | e1"
+    ],
+    "44": [
+        " indah desi mikrotik",
+        "ROUTERBOARD | ROUTER | WNR1004"
+    ],
+    "45": [
+        " indah desi mikrotik",
+        "TOSHIBA | SCANNER"
+    ],
+    "46": [
+        " indah desi mikrotik",
+        "DASHBOARD | CAMERA | editorusb20"
+    ],
+    "47": [
+        " indah desi mikrotik",
+        "FLIR | CAMERA"
+    ],
+    "48": [
+        " asus",
+        " asus"
+    ],
+    "49": [
+        " speedport 921v",
+        "NETGEAR | ROUTER | ADSL2"
+    ],
+    "50": [
+        " speedport 921v",
+        "NETGEAR | MODEM | ADSL2"
+    ],
+    "51": [
+        " speedport 921v",
+        "NETGEAR | SWITCH | GS108PE"
+    ],
+    "52": [
+        " rackstation",
+        " rackstation"
+    ],
+    "53": [
+        " diskstation",
+        " diskstation"
+    ],
+    "54": [
+        " hotspotrouter arbelon schott mikrotik",
+        "MIKROTIK | ROUTER | x86"
+    ],
+    "55": [
+        " hotspotrouter arbelon schott mikrotik",
+        "MIKROTIK | SWITCH | L2TP"
+    ],
+    "56": [
+        " hotspotrouter arbelon schott mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "57": [
+        " hotspotrouter arbelon schott mikrotik",
+        "MIKROTIK | SWITCHES | x86"
+    ],
+    "58": [
+        " hotspotrouter arbelon schott mikrotik",
+        "ROUTERBOARD | ROUTER | x86"
+    ],
+    "59": [
+        " hotspotrouter arbelon schott mikrotik",
+        "ROUTERBOARD | SWITCH | x86"
+    ],
+    "60": [
+        " mikrotiksalon mikrotik",
+        "MIKROTIK | ROUTER | com185.11"
+    ],
+    "61": [
+        " softathome privsep",
+        "SAMSUNG | CAMERA"
+    ],
+    "62": [
+        " asus rt-ac87u",
+        "ASUS | ROUTER | AC87U"
+    ],
+    "63": [
+        " asus rt-ac87u",
+        "ASUS | SWITCH | AC87U"
+    ],
+    "64": [
+        " asus rt-ac87u",
+        "BROADCOM | ROUTER | S1"
+    ],
+    "65": [
+        " asus rt-ac87u",
+        "NETGEAR | ROUTER | AC68U"
+    ],
+    "66": [
+        " asus rt-ac87u",
+        "EXACT | ROUTER"
+    ],
+    "67": [
+        " asus rt-ac51u",
+        "ASUS | ROUTER | RT-AC51U"
+    ],
+    "68": [
+        " asus rt-ac51u",
+        "ASUS | MODEM"
+    ],
+    "69": [
+        " asus rt-ac51u",
+        "NETGEAR | ROUTER | X6"
+    ],
+    "70": [
+        " asus rt-ac51u",
+        "SAMSUNG | ROUTER | S8"
+    ],
+    "71": [
+        " garaccionigraziano mikrotik",
+        "ROUTERBOARD | ROUTER"
+    ],
+    "72": [
+        " garaccionigraziano mikrotik",
+        "ROUTERBOARD | SWITCH"
+    ],
+    "73": [
+        " asus rt-ac68u",
+        "CISCO | ROUTER"
+    ],
+    "74": [
+        " asus rt-ac68u",
+        "CISCO | SWITCH"
+    ],
+    "75": [
+        " asus rt-ac68u",
+        "CISCO | SWITCHES"
+    ],
+    "76": [
+        " asus rt-ac68u",
+        "ASUS | ROUTER | RT-AC68U"
+    ],
+    "77": [
+        " asus rt-ac68u",
+        "HUAWEI | ROUTER"
+    ],
+    "78": [
+        " asus rt-ac68u",
+        "HUAWEI | SWITCH"
+    ],
+    "79": [
+        " asus rt-ac68u",
+        "HUAWEI | MODEM"
+    ],
+    "80": [
+        " asus rt-ac68u",
+        "MIKROTIK | ROUTER"
+    ],
+    "81": [
+        " router teluk intan mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "82": [
+        " router teluk intan mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "83": [
+        " router teluk intan mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "84": [
+        " router teluk intan mikrotik",
+        "ROUTERBOARD | ROUTER | ether1"
+    ],
+    "85": [
+        " router teluk intan mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "86": [
+        " iptime",
+        " iptime"
+    ],
+    "87": [
+        " asus rt-ac86u",
+        "ASUS | ROUTER | RT-AC86U"
+    ],
+    "88": [
+        " asus rt-ac86u",
+        "ASUS | SWITCH | RT-AC86U"
+    ],
+    "89": [
+        " asus rt-n18u",
+        "ASUS | ROUTER | N18U"
+    ],
+    "90": [
+        " asus rt-n18u",
+        "ASUS | MODEM | RT-AC58U"
+    ],
+    "91": [
+        " asus rt-n18u",
+        "ASUS | SWITCH | RT-N18U"
+    ],
+    "92": [
+        " asus rt-n56u",
+        "ASUS | ROUTER | RT-N56U"
+    ],
+    "93": [
+        " asus rt-n56u",
+        "ASUS | MODEM | PS3"
+    ],
+    "94": [
+        " asus rt-n56u",
+        "ASUS | PRINTER | RT-N56U"
+    ],
+    "95": [
+        " asus rt-n56u",
+        "NETGEAR | ROUTER | N600"
+    ],
+    "96": [
+        " tdi kraljevica mikrotik",
+        "ORANGE | SWITCH | m3"
+    ],
+    "97": [
+        " tdi kraljevica mikrotik",
+        "ORANGE | SWITCHES | m3"
+    ],
+    "98": [
+        " asus dsl-ac68u",
+        "ASUS | ROUTER | AC68U"
+    ],
+    "99": [
+        " asus dsl-ac68u",
+        "ASUS | MODEM | AC68U"
+    ],
+    "100": [
+        " asus dsl-ac68u",
+        "ASUS | SWITCH | ADSL2"
+    ],
+    "101": [
+        " asus dsl-ac68u",
+        "BROADCOM | ROUTER | ADSL2"
+    ],
+    "102": [
+        " asus dsl-ac68u",
+        "BROADCOM | MODEM | ADSL2"
+    ],
+    "103": [
+        " asus dsl-ac68u",
+        "BROADCOM | SWITCH | ADSL2"
+    ],
+    "104": [
+        " asus dsl-ac68u",
+        "INTEL | MODEM | x2"
+    ],
+    "105": [
+        " asus dsl-ac68u",
+        "NETGEAR | ROUTER | AC1900"
+    ],
+    "106": [
+        " asus dsl-ac68u",
+        "NETGEAR | MODEM | AC1900"
+    ],
+    "107": [
+        " asus dsl-ac68u",
+        "HUAWEI | ROUTER | You3"
+    ],
+    "108": [
+        " asus dsl-ac68u",
+        "HUAWEI | MODEM | You0"
+    ],
+    "109": [
+        " asus dsl-ac68u",
+        "MICROSOFT | ROUTER | ADSL2"
+    ],
+    "110": [
+        " asus dsl-ac68u",
+        "MICROSOFT | MODEM | ADSL2"
+    ],
+    "111": [
+        " asus dsl-ac68u",
+        "MICROSOFT | SWITCH | ADSL2"
+    ],
+    "112": [
+        " asus dsl-ac68u",
+        "AMD | MODEM | x2"
+    ],
+    "113": [
+        " asus dsl-ac68u",
+        "VODAFONE | ROUTER | You1"
+    ],
+    "114": [
+        " asus dsl-ac68u",
+        "VODAFONE | MODEM | You1"
+    ],
+    "115": [
+        " asus dsl-ac68u",
+        "STAR | ROUTER | DDR3"
+    ],
+    "116": [
+        " axis m1124 camera",
+        "SAMSUNG | CAMERA | PNV-9080R"
+    ],
+    "117": [
+        " ramsi mikrotik",
+        "MIKROTIK | ROUTER | Ether1"
+    ],
+    "118": [
+        " ramsi mikrotik",
+        "MIKROTIK | MODEM"
+    ],
+    "119": [
+        " ramsi mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "120": [
+        " cisco",
+        " cisco"
+    ],
+    "121": [
+        " p2v mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "122": [
+        " p2v mikrotik",
+        "MIKROTIK | SWITCH | RB750"
+    ],
+    "123": [
+        " p2v mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "124": [
+        " p2v mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "125": [
+        " evermen cisco mikrotik",
+        "MIKROTIK | ROUTER | R1"
+    ],
+    "126": [
+        " evermen cisco mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "127": [
+        " evermen cisco mikrotik",
+        "MIKROTIK | SWITCHES | R1"
+    ],
+    "128": [
+        " evermen cisco mikrotik",
+        "CISCO | ROUTER | CCR1036-12G"
+    ],
+    "129": [
+        " evermen cisco mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "130": [
+        " evermen cisco mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "131": [
+        " asus ws880",
+        "HUAWEI | ROUTER | WS880"
+    ],
+    "132": [
+        " asus ws880",
+        "HUAWEI | SWITCH | WS880"
+    ],
+    "133": [
+        " asus ws880",
+        "ASUS | ROUTER | WS880"
+    ],
+    "134": [
+        " asus ws880",
+        "STAR | ROUTER | WS880"
+    ],
+    "135": [
+        " prod4.cent mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "136": [
+        " zywall usg",
+        "CISCO | ROUTER"
+    ],
+    "137": [
+        " gerrykennedystables mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "138": [
+        " gerrykennedystables mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "139": [
+        " gerrykennedystables mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "140": [
+        " gerrykennedystables mikrotik",
+        "QUALCOMM | MODEM"
+    ],
+    "141": [
+        " gerrykennedystables mikrotik",
+        "TESLA | CAMERA"
+    ],
+    "142": [
+        " evb mikrotik",
+        "MIKROTIK | ROUTER | RB450G"
+    ],
+    "143": [
+        " evb mikrotik",
+        "MIKROTIK | MODEM | V3"
+    ],
+    "144": [
+        " evb mikrotik",
+        "ROUTERBOARD | GATEWAY | ether1"
+    ],
+    "145": [
+        " evb mikrotik",
+        "ASUS | MODEM | v7"
+    ],
+    "146": [
+        " axis q6115-e ptz camera",
+        "SHARP | CAMERA | Q61"
+    ],
+    "147": [
+        " axis q6115-e ptz camera",
+        "SAMSUNG | CAMERA"
+    ],
+    "148": [
+        " prax mikrotik",
+        "MIKROTIK | ROUTER | IPv6"
+    ],
+    "149": [
+        " microsoft",
+        " microsoft"
+    ],
+    "150": [
+        " asus rt-n66u",
+        "ASUS | ROUTER | RT-N66U"
+    ],
+    "151": [
+        " asus rt-n66u",
+        "ASUS | MODEM | RT-N66U"
+    ],
+    "152": [
+        " asus rt-n66u",
+        "ASUS | SWITCH | RT-N66U"
+    ],
+    "153": [
+        " guaymasrb mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "154": [
+        " guaymasrb mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "155": [
+        " guaymasrb mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "156": [
+        " guaymasrb mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "157": [
+        " guaymasrb mikrotik",
+        "ROUTERBOARD | ROUTER | RB1100"
+    ],
+    "158": [
+        " guaymasrb mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "159": [
+        " asus rt-ac68w",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "160": [
+        " asus rt-ac68w",
+        "ASUS | PRINTER | RT-AC68W"
+    ],
+    "161": [
+        " asus rt-ac68w",
+        "NETGEAR | ROUTER | EA8300"
+    ],
+    "162": [
+        " asus rt-ac68w",
+        "TEAM | ROUTER"
+    ],
+    "163": [
+        " axis q6045-e mk ptz camera",
+        "HIKVISION | CAMERA"
+    ],
+    "164": [
+        " synology",
+        " synology"
+    ],
+    "165": [
+        " balanceador mikrotik",
+        "MIKROTIK | ROUTER | Rb941"
+    ],
+    "166": [
+        " balanceador mikrotik",
+        "MIKROTIK | MODEM | RBSXTG2HND"
+    ],
+    "167": [
+        " balanceador mikrotik",
+        "MIKROTIK | SWITCH | Crs328-24p"
+    ],
+    "168": [
+        " balanceador mikrotik",
+        "NETGEAR | MODEM"
+    ],
+    "169": [
+        " balanceador mikrotik",
+        "TPLINK | MODEM | Rb750"
+    ],
+    "170": [
+        " capitan navarro mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "171": [
+        " asus tm-ac1900",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "172": [
+        " asus tm-ac1900",
+        "ASUS | GATEWAY"
+    ],
+    "173": [
+        " asus tm-ac1900",
+        "EXACT | ROUTER | ac68u"
+    ],
+    "174": [
+        " paula harman mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "175": [
+        " paula harman mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "176": [
+        " asus rt-ac58u",
+        "ASUS | ROUTER | C58"
+    ],
+    "177": [
+        " asus rt-ac58u",
+        "ASUS | MODEM | RT-AC58U"
+    ],
+    "178": [
+        " asus rt-ac58u",
+        "NETGEAR | ROUTER | AC1200"
+    ],
+    "179": [
+        " asus rt-ac3200",
+        "ASUS | ROUTER | RT-AC3200"
+    ],
+    "180": [
+        " asus rt-ac3200",
+        "NETGEAR | ROUTER | X8"
+    ],
+    "181": [
+        " asus rt-ac3200",
+        "CISCO | ROUTER"
+    ],
+    "182": [
+        " asus rt-ac68p",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "183": [
+        " asus rt-ac68p",
+        "NETGEAR | ROUTER | A12"
+    ],
+    "184": [
+        " asus rt-ac68p",
+        "CISCO | ROUTER | A12"
+    ],
+    "185": [
+        " asus rt-ac68p",
+        "ROUTERBOARD | ROUTER | A12"
+    ],
+    "186": [
+        " dedicado mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "187": [
+        " dedicado mikrotik",
+        "MIKROTIK | MODEM"
+    ],
+    "188": [
+        " dedicado mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "189": [
+        " dedicado mikrotik",
+        "ROUTERBOARD | ROUTER"
+    ],
+    "190": [
+        " ap-1006 mikrotik",
+        "MIKROTIK | ROUTER | RJ-45"
+    ],
+    "191": [
+        " ap-1006 mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "192": [
+        " ap-1006 mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "193": [
+        " ap-1006 mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "194": [
+        " ap-1006 mikrotik",
+        "ROUTERBOARD | ROUTER | Rb941-2nd"
+    ],
+    "195": [
+        " ap-1006 mikrotik",
+        "CISCO | ROUTER | RJ-45"
+    ],
+    "196": [
+        " ap-1006 mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "197": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | ROUTER | RB411"
+    ],
+    "198": [
+        " paeezan tejarat mehr su mikrotik",
+        "MIKROTIK | PRINTER | WG-500P"
+    ],
+    "199": [
+        " paeezan tejarat mehr su mikrotik",
+        "ROUTERBOARD | ROUTER | RB411"
+    ],
+    "200": [
+        " aage tenden mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "201": [
+        " aage tenden mikrotik",
+        "SHARP | COPIER"
+    ],
+    "202": [
+        " aage tenden mikrotik",
+        "TOSHIBA | COPIER"
+    ],
+    "203": [
+        " asus rt-ac88u",
+        "ASUS | ROUTER | RT-AC88U"
+    ],
+    "204": [
+        " asus rt-ac88u",
+        "NETGEAR | ROUTER | RT-AC88U"
+    ],
+    "205": [
+        " asus rt-ac88u",
+        "NETGEAR | MODEM | C3000"
+    ],
+    "206": [
+        " zolkiewskiego mikrotik",
+        "MIKROTIK | ROUTER | RJ45"
+    ],
+    "207": [
+        " zolkiewskiego mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "208": [
+        " zolkiewskiego mikrotik",
+        "ROUTERBOARD | ROUTER | Gr2"
+    ],
+    "209": [
+        " pharma mikrotik",
+        "MIKROTIK | ROUTER | IPv6"
+    ],
+    "210": [
+        " pharma mikrotik",
+        "MIKROTIK | SWITCHES | MTCIPv6E"
+    ],
+    "211": [
+        " pharma mikrotik",
+        "ROUTERBOARD | ROUTER | RB2011UIAS"
+    ],
+    "212": [
+        " pharma mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "213": [
+        " technics mikrotik",
+        "MIKROTIK | SWITCH | r3"
+    ],
+    "214": [
+        " technics mikrotik",
+        "MIKROTIK | SWITCHES | r3"
+    ],
+    "215": [
+        " technics mikrotik",
+        "CISCO | SWITCH | eth4"
+    ],
+    "216": [
+        " technics mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "217": [
+        " technics mikrotik",
+        "QUALCOMM | SWITCH | QCA8337"
+    ],
+    "218": [
+        " technics mikrotik",
+        "QUALCOMM | ROUTER | QCA8337"
+    ],
+    "219": [
+        " htgh mikrotik",
+        "MIKROTIK | ROUTER | D1"
+    ],
+    "220": [
+        " htgh mikrotik",
+        "MIKROTIK | SWITCH | D1"
+    ],
+    "221": [
+        " madrasha nurulislam toladigari mikrotik",
+        "MIKROTIK | ROUTER | Vault7"
+    ],
+    "222": [
+        " asus rt-ac68r",
+        "ASUS | ROUTER | RT-AC68R"
+    ],
+    "223": [
+        " asus rt-ac68r",
+        "ASUS | MODEM | M010301"
+    ],
+    "224": [
+        " asus rt-ac68r",
+        "NETGEAR | ROUTER | R7000"
+    ],
+    "225": [
+        " asus rt-ac68r",
+        "NETGEAR | MODEM | M010301"
+    ],
+    "226": [
+        " asus rt-ac68r",
+        "INTEL | ROUTER | M010301"
+    ],
+    "227": [
+        " asus rt-ac68r",
+        "SPRINT | ROUTER | RT-AC68R"
+    ],
+    "228": [
+        " controle sjc mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "229": [
+        " dbd-c3 mikrotik",
+        "MIKROTIK | ROUTER | x86"
+    ],
+    "230": [
+        " dbd-c3 mikrotik",
+        "MIKROTIK | MODEM | x86"
+    ],
+    "231": [
+        " dbd-c3 mikrotik",
+        "MIKROTIK | GATEWAY | v2.7"
+    ],
+    "232": [
+        " dbd-c3 mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "233": [
+        " dbd-c3 mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "234": [
+        " dbd-c3 mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "235": [
+        " dbd-c3 mikrotik",
+        "MICROSOFT | ROUTER | R2"
+    ],
+    "236": [
+        " dbd-c3 mikrotik",
+        "VARIABLE | ROUTER"
+    ],
+    "237": [
+        " dbd-c3 mikrotik",
+        "TELTONIKA | MODEM | x86"
+    ],
+    "238": [
+        " axis q6044-e ptz camera",
+        "HIKVISION | CAMERA"
+    ],
+    "239": [
+        " fibre fw mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "240": [
+        " fibre fw mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "241": [
+        " fibre fw mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "242": [
+        " fibre fw mikrotik",
+        "ROUTERBOARD | ROUTER | r2"
+    ],
+    "243": [
+        " fibre fw mikrotik",
+        "ROUTERBOARD | SWITCHES"
+    ],
+    "244": [
+        " fibre fw mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "245": [
+        " arge karimkhan mikrotik",
+        "MIKROTIK | ROUTER | dot11n"
+    ],
+    "246": [
+        " jodlowski mikrotik",
+        "MICROSOFT | ROUTER | t5"
+    ],
+    "247": [
+        " jodlowski mikrotik",
+        "SYMANTEC | ROUTER | t5"
+    ],
+    "248": [
+        " router mikrotik",
+        "MIKROTIK | ROUTER | v2.6"
+    ],
+    "249": [
+        " router mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "250": [
+        " router mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "251": [
+        " router mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "252": [
+        " router mikrotik",
+        "ROUTERBOARD | SWITCHES"
+    ],
+    "253": [
+        " router mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "254": [
+        " valledupar mikrotik",
+        "MIKROTIK | ROUTER | L5"
+    ],
+    "255": [
+        " valledupar mikrotik",
+        "ROUTERBOARD | ROUTER | L5"
+    ],
+    "256": [
+        " router fani mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "257": [
+        " router fani mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "258": [
+        " router fani mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "259": [
+        " router fani mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "260": [
+        " router fani mikrotik",
+        "ROUTERBOARD | ROUTER | L2TP"
+    ],
+    "261": [
+        " router fani mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "262": [
+        " router fani mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "263": [
+        " router fani mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "264": [
+        " axis m3004 camera",
+        "HIKVISION | CAMERA"
+    ],
+    "265": [
+        " jeka mikrotik",
+        "MIKROTIK | ROUTER | RB250GS"
+    ],
+    "266": [
+        " jeka mikrotik",
+        "ROUTERBOARD | ROUTER | RB250GS"
+    ],
+    "267": [
+        " asus rt-n13u",
+        "ASUS | ROUTER | N13U"
+    ],
+    "268": [
+        " asus rt-n13u",
+        "ASUS | PRINTER | RT-N13U"
+    ],
+    "269": [
+        " asus rt-n13u",
+        "ASUS | SWITCH"
+    ],
+    "270": [
+        " sulmin mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "271": [
+        " sulmin mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "272": [
+        " peco145 mikrotik",
+        "MIKROTIK | ROUTER | R1"
+    ],
+    "273": [
+        " karaam mikrotik",
+        "MIKROTIK | ROUTER | RB3011UiAS"
+    ],
+    "274": [
+        " karaam mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "275": [
+        " 4862hluvukuponta mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "276": [
+        " appleton mikrotik",
+        "MIKROTIK | ROUTER | G-2S"
+    ],
+    "277": [
+        " appleton mikrotik",
+        "MIKROTIK | SWITCH | G-2S"
+    ],
+    "278": [
+        " appleton mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "279": [
+        " appleton mikrotik",
+        "ROUTERBOARD | ROUTER"
+    ],
+    "280": [
+        " appleton mikrotik",
+        "ROUTERBOARD | SWITCHES"
+    ],
+    "281": [
+        " appleton mikrotik",
+        "CISCO | ROUTER | G-2S"
+    ],
+    "282": [
+        " appleton mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "283": [
+        " appleton mikrotik",
+        "MICROSOFT | ROUTER"
+    ],
+    "284": [
+        " appleton mikrotik",
+        "MICROSOFT | GATEWAY"
+    ],
+    "285": [
+        " appleton mikrotik",
+        "TEAM | ROUTER"
+    ],
+    "286": [
+        " appleton mikrotik",
+        "HUAWEI | ROUTER | Android100"
+    ],
+    "287": [
+        " appleton mikrotik",
+        "6WIND | ROUTER | G-2S"
+    ],
+    "288": [
+        " appleton mikrotik",
+        "6WIND | GATEWAY"
+    ],
+    "289": [
+        " appleton mikrotik",
+        "QUALCOMM | ROUTER | G-2S"
+    ],
+    "290": [
+        " appleton mikrotik",
+        "VERIZON | ROUTER"
+    ],
+    "291": [
+        " appleton mikrotik",
+        "VERIZON | GATEWAY"
+    ],
+    "292": [
+        " appleton mikrotik",
+        "IDM | ROUTER | G-2S"
+    ],
+    "293": [
+        " appleton mikrotik",
+        "IDM | SWITCH | G-2S"
+    ],
+    "294": [
+        " appleton mikrotik",
+        "NETGEAR | ROUTER | G-2S"
+    ],
+    "295": [
+        " appleton mikrotik",
+        "NETGEAR | GATEWAY"
+    ],
+    "296": [
+        " ap7901 aos",
+        "CONTROL4 | SWITCH | Control4"
+    ],
+    "297": [
+        " asus rt-ac52u",
+        "ASUS | ROUTER | AC52U"
+    ],
+    "298": [
+        " asus rt-ac52u",
+        "ASUS | PRINTER | RT-AC52U"
+    ],
+    "299": [
+        " asus rt-ac52u",
+        "ASUS | MODEM | RT-AC52U"
+    ],
+    "300": [
+        " asus rt-ac52u",
+        "DASHBOARD | PRINTER | RT-AC52U"
+    ],
+    "301": [
+        " asus rt-ac52u",
+        "STAR | ROUTER | RT-AC52U"
+    ],
+    "302": [
+        " asus rt-ax88u",
+        "ASUS | ROUTER | RT-AX88U"
+    ],
+    "303": [
+        " asus rt-ax88u",
+        "ASUS | MODEM"
+    ],
+    "304": [
+        " asus rt-ax88u",
+        "ASUS | PRINTER | RT-AX88U"
+    ],
+    "305": [
+        " asus rt-ax88u",
+        "NETGEAR | ROUTER | AX8"
+    ],
+    "306": [
+        " axis p5512-e ptz camera",
+        "NUUO | NVR"
+    ],
+    "307": [
+        " n0c dinas kehutanan mikrotik",
+        "CISCO | SWITCHES | catalyst-2960-x"
+    ],
+    "308": [
+        " n0c dinas kehutanan mikrotik",
+        "STAR | SWITCH | scontent-arn2-2.cdninstagram"
+    ],
+    "309": [
+        " lojas volpi matriz mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "310": [
+        " lojas volpi matriz mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "311": [
+        " lojas volpi matriz mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "312": [
+        " lojas volpi matriz mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "313": [
+        " cierbikowski rudniczek 13a mikrotik",
+        "MIKROTIK | ROUTER | Router108"
+    ],
+    "314": [
+        " cierbikowski rudniczek 13a mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "315": [
+        " cierbikowski rudniczek 13a mikrotik",
+        "MIKROTIK | SWITCHES | Router108"
+    ],
+    "316": [
+        " cierbikowski rudniczek 13a mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "317": [
+        " fuji xerox docuprint cp405",
+        "MICROSOFT | PRINTER"
+    ],
+    "318": [
+        " axis ptz camera oct",
+        "HIKVISION | CAMERA | Q3518-LVE"
+    ],
+    "319": [
+        " axis ptz camera oct",
+        "HIKVISION | NVR"
+    ],
+    "320": [
+        " axis ptz camera oct",
+        "BOSCH | CAMERA"
+    ],
+    "321": [
+        " betino escobar mikrotik",
+        "VARIABLE | CAM"
+    ],
+    "322": [
+        " enet24 mikrotik",
+        "CISCO | ROUTER | S3"
+    ],
+    "323": [
+        " enet24 mikrotik",
+        "CISCO | SWITCH | WS-C2960"
+    ],
+    "324": [
+        " enet24 mikrotik",
+        "CISCO | SWITCHES | WS-C2960"
+    ],
+    "325": [
+        " enet24 mikrotik",
+        "NETGEAR | ROUTER | M3"
+    ],
+    "326": [
+        " enet24 mikrotik",
+        "NETGEAR | SWITCH | S7"
+    ],
+    "327": [
+        " enet24 mikrotik",
+        "NETGEAR | SWITCHES | X3"
+    ],
+    "328": [
+        " enet24 mikrotik",
+        "DELL | SWITCH | S9"
+    ],
+    "329": [
+        " gulsumdayanis mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "330": [
+        " vivo pira mb mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "331": [
+        " vivo pira mb mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "332": [
+        " axis ptz camera",
+        "ARM | CAMERA"
+    ],
+    "333": [
+        " asus dsl-ac87vg",
+        "ASUS | ROUTER | AC87VG"
+    ],
+    "334": [
+        " asus dsl-ac87vg",
+        "ASUS | MODEM | AC87VG"
+    ],
+    "335": [
+        " asus dsl-ac87vg",
+        "ASUS | GATEWAY | DSL-AC87VG"
+    ],
+    "336": [
+        " asus dsl-ac87vg",
+        "BROADCOM | MODEM | d7000"
+    ],
+    "337": [
+        " asus dsl-ac87vg",
+        "NETGEAR | ROUTER | R6400"
+    ],
+    "338": [
+        " asus dsl-ac87vg",
+        "NETGEAR | MODEM | d7000"
+    ],
+    "339": [
+        " asus dsl-ac87vg",
+        "TELSTRA | MODEM | DSL-AC87VG"
+    ],
+    "340": [
+        " asus dsl-ac87vg",
+        "SIEMENS | PRINTER | spa-112"
+    ],
+    "341": [
+        " et0021b75e4152 lexmark c950",
+        "MICROSOFT | PRINTER"
+    ],
+    "342": [
+        " antara mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "343": [
+        " antara mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "344": [
+        " antara mikrotik",
+        "ROUTERBOARD | ROUTER"
+    ],
+    "345": [
+        " asus rt-ac56u",
+        "ASUS | ROUTER | AC56U"
+    ],
+    "346": [
+        " asus rt-ac56u",
+        "ASUS | MODEM | RT-AC56U"
+    ],
+    "347": [
+        " asus rt-ac56u",
+        "ASUS | PRINTER | RT-AC56U"
+    ],
+    "348": [
+        " asus rt-ac56u",
+        "BROADCOM | ROUTER | AC1200"
+    ],
+    "349": [
+        " asus rt-ac56u",
+        "BROADCOM | PRINTER | AC1200"
+    ],
+    "350": [
+        " asus rt-ac56u",
+        "NETGEAR | ROUTER | RT-AC56U"
+    ],
+    "351": [
+        " asus rt-ac56u",
+        "NETGEAR | MODEM | RT-AC56U"
+    ],
+    "352": [
+        " asus rt-ac56u",
+        "DASHBOARD | ROUTER | RT-AC56U"
+    ],
+    "353": [
+        " asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | SPA122"
+    ],
+    "354": [
+        " ana mercedes ramos mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "355": [
+        " ana mercedes ramos mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "356": [
+        " ana mercedes ramos mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "357": [
+        " ana mercedes ramos mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "358": [
+        " ana mercedes ramos mikrotik",
+        "MIKROTIK | PRINTER"
+    ],
+    "359": [
+        " ana mercedes ramos mikrotik",
+        "MIKROTIK | CAM"
+    ],
+    "360": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | ROUTER"
+    ],
+    "361": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | SWITCH"
+    ],
+    "362": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | SWITCHES"
+    ],
+    "363": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | GATEWAY"
+    ],
+    "364": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | CAMERA"
+    ],
+    "365": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | PRINTER"
+    ],
+    "366": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | CAM"
+    ],
+    "367": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | SCANNER"
+    ],
+    "368": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | DVR"
+    ],
+    "369": [
+        " ana mercedes ramos mikrotik",
+        "MICROSOFT | NVS"
+    ],
+    "370": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | ROUTER"
+    ],
+    "371": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | SWITCH"
+    ],
+    "372": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | SWITCHES"
+    ],
+    "373": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | GATEWAY"
+    ],
+    "374": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | CAMERA"
+    ],
+    "375": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | PRINTER"
+    ],
+    "376": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | CAM"
+    ],
+    "377": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | SCANNER"
+    ],
+    "378": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | DVR"
+    ],
+    "379": [
+        " ana mercedes ramos mikrotik",
+        "TEAM | NVS"
+    ],
+    "380": [
+        " ana mercedes ramos mikrotik",
+        "STAR | ROUTER"
+    ],
+    "381": [
+        " ana mercedes ramos mikrotik",
+        "STAR | SWITCH"
+    ],
+    "382": [
+        " ana mercedes ramos mikrotik",
+        "STAR | SWITCHES"
+    ],
+    "383": [
+        " ana mercedes ramos mikrotik",
+        "STAR | GATEWAY"
+    ],
+    "384": [
+        " ana mercedes ramos mikrotik",
+        "STAR | CAMERA"
+    ],
+    "385": [
+        " ana mercedes ramos mikrotik",
+        "STAR | PRINTER"
+    ],
+    "386": [
+        " ana mercedes ramos mikrotik",
+        "STAR | CAM"
+    ],
+    "387": [
+        " ana mercedes ramos mikrotik",
+        "STAR | SCANNER"
+    ],
+    "388": [
+        " ana mercedes ramos mikrotik",
+        "STAR | DVR"
+    ],
+    "389": [
+        " ana mercedes ramos mikrotik",
+        "STAR | NVS"
+    ],
+    "390": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "391": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "392": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "393": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | GATEWAY"
+    ],
+    "394": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | CAMERA"
+    ],
+    "395": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | PRINTER"
+    ],
+    "396": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | CAM"
+    ],
+    "397": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | SCANNER"
+    ],
+    "398": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | DVR"
+    ],
+    "399": [
+        " ana mercedes ramos mikrotik",
+        "CISCO | NVS"
+    ],
+    "400": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | ROUTER"
+    ],
+    "401": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | SWITCH"
+    ],
+    "402": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | SWITCHES"
+    ],
+    "403": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | GATEWAY"
+    ],
+    "404": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | CAMERA"
+    ],
+    "405": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | PRINTER"
+    ],
+    "406": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | CAM"
+    ],
+    "407": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | SCANNER"
+    ],
+    "408": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | DVR"
+    ],
+    "409": [
+        " ana mercedes ramos mikrotik",
+        "ORACLE | NVS"
+    ],
+    "410": [
+        " ana mercedes ramos mikrotik",
+        "DELL | ROUTER"
+    ],
+    "411": [
+        " ana mercedes ramos mikrotik",
+        "DELL | SWITCH"
+    ],
+    "412": [
+        " ana mercedes ramos mikrotik",
+        "DELL | SWITCHES"
+    ],
+    "413": [
+        " ana mercedes ramos mikrotik",
+        "DELL | GATEWAY"
+    ],
+    "414": [
+        " ana mercedes ramos mikrotik",
+        "DELL | CAMERA"
+    ],
+    "415": [
+        " ana mercedes ramos mikrotik",
+        "DELL | PRINTER"
+    ],
+    "416": [
+        " ana mercedes ramos mikrotik",
+        "DELL | CAM"
+    ],
+    "417": [
+        " ana mercedes ramos mikrotik",
+        "DELL | SCANNER"
+    ],
+    "418": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | ROUTER"
+    ],
+    "419": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | SWITCH"
+    ],
+    "420": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | SWITCHES"
+    ],
+    "421": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | GATEWAY"
+    ],
+    "422": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | CAMERA"
+    ],
+    "423": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | PRINTER"
+    ],
+    "424": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | CAM"
+    ],
+    "425": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | SCANNER"
+    ],
+    "426": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | DVR"
+    ],
+    "427": [
+        " ana mercedes ramos mikrotik",
+        "MATRIX | NVS"
+    ],
+    "428": [
+        " ana mercedes ramos mikrotik",
+        "SAP | ROUTER"
+    ],
+    "429": [
+        " ana mercedes ramos mikrotik",
+        "SAP | SWITCH"
+    ],
+    "430": [
+        " ana mercedes ramos mikrotik",
+        "SAP | SWITCHES"
+    ],
+    "431": [
+        " ana mercedes ramos mikrotik",
+        "SAP | GATEWAY"
+    ],
+    "432": [
+        " ana mercedes ramos mikrotik",
+        "SAP | CAMERA"
+    ],
+    "433": [
+        " ana mercedes ramos mikrotik",
+        "SAP | PRINTER"
+    ],
+    "434": [
+        " ana mercedes ramos mikrotik",
+        "SAP | CAM"
+    ],
+    "435": [
+        " ana mercedes ramos mikrotik",
+        "SAP | SCANNER"
+    ],
+    "436": [
+        " ana mercedes ramos mikrotik",
+        "SAP | DVR"
+    ],
+    "437": [
+        " ana mercedes ramos mikrotik",
+        "SAP | NVS"
+    ],
+    "438": [
+        " ana mercedes ramos mikrotik",
+        "INTEL | SWITCH"
+    ],
+    "439": [
+        " ana mercedes ramos mikrotik",
+        "INTEL | SWITCHES"
+    ],
+    "440": [
+        " ana mercedes ramos mikrotik",
+        "INTEL | GATEWAY"
+    ],
+    "441": [
+        " ana mercedes ramos mikrotik",
+        "INTEL | CAMERA"
+    ],
+    "442": [
+        " ana mercedes ramos mikrotik",
+        "INTEL | PRINTER"
+    ],
+    "443": [
+        " ana mercedes ramos mikrotik",
+        "INTEL | CAM"
+    ],
+    "444": [
+        " ana mercedes ramos mikrotik",
+        "INTEL | SCANNER"
+    ],
+    "445": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | ROUTER"
+    ],
+    "446": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | SWITCH"
+    ],
+    "447": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | SWITCHES"
+    ],
+    "448": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | GATEWAY"
+    ],
+    "449": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | CAMERA"
+    ],
+    "450": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | PRINTER"
+    ],
+    "451": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | CAM"
+    ],
+    "452": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | SCANNER"
+    ],
+    "453": [
+        " ana mercedes ramos mikrotik",
+        "BROTHER | DVR"
+    ],
+    "454": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | ROUTER"
+    ],
+    "455": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | SWITCH"
+    ],
+    "456": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | SWITCHES"
+    ],
+    "457": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | GATEWAY"
+    ],
+    "458": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | CAMERA"
+    ],
+    "459": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | PRINTER"
+    ],
+    "460": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | CAM"
+    ],
+    "461": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | SCANNER"
+    ],
+    "462": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | DVR"
+    ],
+    "463": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | MODEM"
+    ],
+    "464": [
+        " ana mercedes ramos mikrotik",
+        "SAMSUNG | NVS"
+    ],
+    "465": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | ROUTER"
+    ],
+    "466": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | SWITCH"
+    ],
+    "467": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | SWITCHES"
+    ],
+    "468": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | GATEWAY"
+    ],
+    "469": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | CAMERA"
+    ],
+    "470": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | PRINTER"
+    ],
+    "471": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | CAM"
+    ],
+    "472": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | SCANNER"
+    ],
+    "473": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | DVR"
+    ],
+    "474": [
+        " ana mercedes ramos mikrotik",
+        "EPSON | NVS"
+    ],
+    "475": [
+        " ana mercedes ramos mikrotik",
+        "PANASONIC | ROUTER"
+    ],
+    "476": [
+        " ana mercedes ramos mikrotik",
+        "PANASONIC | SWITCH"
+    ],
+    "477": [
+        " ana mercedes ramos mikrotik",
+        "PANASONIC | SWITCHES"
+    ],
+    "478": [
+        " ana mercedes ramos mikrotik",
+        "PANASONIC | CAMERA"
+    ],
+    "479": [
+        " ana mercedes ramos mikrotik",
+        "PANASONIC | PRINTER"
+    ],
+    "480": [
+        " ana mercedes ramos mikrotik",
+        "PANASONIC | CAM"
+    ],
+    "481": [
+        " ana mercedes ramos mikrotik",
+        "ASUS | ROUTER"
+    ],
+    "482": [
+        " ana mercedes ramos mikrotik",
+        "ASUS | SWITCH"
+    ],
+    "483": [
+        " ana mercedes ramos mikrotik",
+        "ASUS | GATEWAY"
+    ],
+    "484": [
+        " ana mercedes ramos mikrotik",
+        "ASUS | PRINTER"
+    ],
+    "485": [
+        " ana mercedes ramos mikrotik",
+        "ASUS | CAM"
+    ],
+    "486": [
+        " ana mercedes ramos mikrotik",
+        "ASUS | NETCAM"
+    ],
+    "487": [
+        " ana mercedes ramos mikrotik",
+        "IBM | SWITCH"
+    ],
+    "488": [
+        " ana mercedes ramos mikrotik",
+        "IBM | SWITCHES"
+    ],
+    "489": [
+        " ana mercedes ramos mikrotik",
+        "IBM | GATEWAY"
+    ],
+    "490": [
+        " ana mercedes ramos mikrotik",
+        "IBM | CAMERA"
+    ],
+    "491": [
+        " ana mercedes ramos mikrotik",
+        "IBM | PRINTER"
+    ],
+    "492": [
+        " ana mercedes ramos mikrotik",
+        "IBM | CAM"
+    ],
+    "493": [
+        " ana mercedes ramos mikrotik",
+        "IBM | SCANNER"
+    ],
+    "494": [
+        " ana mercedes ramos mikrotik",
+        "HUAWEI | ROUTER"
+    ],
+    "495": [
+        " ana mercedes ramos mikrotik",
+        "HUAWEI | SWITCH"
+    ],
+    "496": [
+        " ana mercedes ramos mikrotik",
+        "HUAWEI | SWITCHES"
+    ],
+    "497": [
+        " ana mercedes ramos mikrotik",
+        "HUAWEI | GATEWAY"
+    ],
+    "498": [
+        " ana mercedes ramos mikrotik",
+        "HUAWEI | CAMERA"
+    ],
+    "499": [
+        " ana mercedes ramos mikrotik",
+        "HUAWEI | PRINTER"
+    ],
+    "500": [
+        " ana mercedes ramos mikrotik",
+        "HUAWEI | CAM"
+    ],
+    "501": [
+        " ana mercedes ramos mikrotik",
+        "HUAWEI | SCANNER"
+    ],
+    "502": [
+        " ana mercedes ramos mikrotik",
+        "ARM | ROUTER"
+    ],
+    "503": [
+        " ana mercedes ramos mikrotik",
+        "ARM | SWITCH"
+    ],
+    "504": [
+        " ana mercedes ramos mikrotik",
+        "ARM | SWITCHES"
+    ],
+    "505": [
+        " ana mercedes ramos mikrotik",
+        "ARM | GATEWAY"
+    ],
+    "506": [
+        " ana mercedes ramos mikrotik",
+        "ARM | CAMERA"
+    ],
+    "507": [
+        " ana mercedes ramos mikrotik",
+        "ARM | PRINTER"
+    ],
+    "508": [
+        " ana mercedes ramos mikrotik",
+        "ARM | CAM"
+    ],
+    "509": [
+        " ana mercedes ramos mikrotik",
+        "ARM | SCANNER"
+    ],
+    "510": [
+        " ana mercedes ramos mikrotik",
+        "ARM | DVR"
+    ],
+    "511": [
+        " ana mercedes ramos mikrotik",
+        "ARM | NVS"
+    ],
+    "512": [
+        " ana mercedes ramos mikrotik",
+        "ARM | COPIER"
+    ],
+    "513": [
+        " ana mercedes ramos mikrotik",
+        "DELPHI | SWITCHES"
+    ],
+    "514": [
+        " ana mercedes ramos mikrotik",
+        "DELPHI | PRINTER"
+    ],
+    "515": [
+        " ana mercedes ramos mikrotik",
+        "DELPHI | CAM"
+    ],
+    "516": [
+        " ana mercedes ramos mikrotik",
+        "DELPHI | SCANNER"
+    ],
+    "517": [
+        " ana mercedes ramos mikrotik",
+        "ORANGE | SWITCH"
+    ],
+    "518": [
+        " ana mercedes ramos mikrotik",
+        "ORANGE | SWITCHES"
+    ],
+    "519": [
+        " ana mercedes ramos mikrotik",
+        "ORANGE | GATEWAY"
+    ],
+    "520": [
+        " ana mercedes ramos mikrotik",
+        "ORANGE | CAMERA"
+    ],
+    "521": [
+        " ana mercedes ramos mikrotik",
+        "ORANGE | PRINTER"
+    ],
+    "522": [
+        " ana mercedes ramos mikrotik",
+        "ORANGE | SCANNER"
+    ],
+    "523": [
+        " ana mercedes ramos mikrotik",
+        "ORANGE | DVR"
+    ],
+    "524": [
+        " ana mercedes ramos mikrotik",
+        "PHILIPS | SWITCH"
+    ],
+    "525": [
+        " ana mercedes ramos mikrotik",
+        "PHILIPS | SWITCHES"
+    ],
+    "526": [
+        " ana mercedes ramos mikrotik",
+        "PHILIPS | GATEWAY"
+    ],
+    "527": [
+        " ana mercedes ramos mikrotik",
+        "PHILIPS | CAMERA"
+    ],
+    "528": [
+        " ana mercedes ramos mikrotik",
+        "PHILIPS | PRINTER"
+    ],
+    "529": [
+        " ana mercedes ramos mikrotik",
+        "PHILIPS | CAM"
+    ],
+    "530": [
+        " ana mercedes ramos mikrotik",
+        "PHILIPS | SCANNER"
+    ],
+    "531": [
+        " ana mercedes ramos mikrotik",
+        "PHILIPS | DVR"
+    ],
+    "532": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | ROUTER"
+    ],
+    "533": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | SWITCH"
+    ],
+    "534": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | SWITCHES"
+    ],
+    "535": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | GATEWAY"
+    ],
+    "536": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | CAMERA"
+    ],
+    "537": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | PRINTER"
+    ],
+    "538": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | CAM"
+    ],
+    "539": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | SCANNER"
+    ],
+    "540": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | DVR"
+    ],
+    "541": [
+        " ana mercedes ramos mikrotik",
+        "TOSHIBA | NVS"
+    ],
+    "542": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | ROUTER"
+    ],
+    "543": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | SWITCH"
+    ],
+    "544": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | SWITCHES"
+    ],
+    "545": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | GATEWAY"
+    ],
+    "546": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | CAMERA"
+    ],
+    "547": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | PRINTER"
+    ],
+    "548": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | CAM"
+    ],
+    "549": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | SCANNER"
+    ],
+    "550": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | DVR"
+    ],
+    "551": [
+        " ana mercedes ramos mikrotik",
+        "SHARP | NVS"
+    ],
+    "552": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | ROUTER"
+    ],
+    "553": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | SWITCH"
+    ],
+    "554": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | SWITCHES"
+    ],
+    "555": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | GATEWAY"
+    ],
+    "556": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | CAMERA"
+    ],
+    "557": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | PRINTER"
+    ],
+    "558": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | CAM"
+    ],
+    "559": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | SCANNER"
+    ],
+    "560": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | DVR"
+    ],
+    "561": [
+        " ana mercedes ramos mikrotik",
+        "ARDUINO | NVS"
+    ],
+    "562": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | ROUTER"
+    ],
+    "563": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | SWITCH"
+    ],
+    "564": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | SWITCHES"
+    ],
+    "565": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | GATEWAY"
+    ],
+    "566": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | CAMERA"
+    ],
+    "567": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | PRINTER"
+    ],
+    "568": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | CAM"
+    ],
+    "569": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | SCANNER"
+    ],
+    "570": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | DVR"
+    ],
+    "571": [
+        " ana mercedes ramos mikrotik",
+        "INFORMATICA | NVS"
+    ],
+    "572": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | ROUTER"
+    ],
+    "573": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | SWITCH"
+    ],
+    "574": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | SWITCHES"
+    ],
+    "575": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | GATEWAY"
+    ],
+    "576": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | CAMERA"
+    ],
+    "577": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | PRINTER"
+    ],
+    "578": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | CAM"
+    ],
+    "579": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | SCANNER"
+    ],
+    "580": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | DVR"
+    ],
+    "581": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | NVS"
+    ],
+    "582": [
+        " ana mercedes ramos mikrotik",
+        "GLASS | COPIER"
+    ],
+    "583": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | ROUTER"
+    ],
+    "584": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | SWITCH"
+    ],
+    "585": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | SWITCHES"
+    ],
+    "586": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | GATEWAY"
+    ],
+    "587": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | CAMERA"
+    ],
+    "588": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | PRINTER"
+    ],
+    "589": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | CAM"
+    ],
+    "590": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | SCANNER"
+    ],
+    "591": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | DVR"
+    ],
+    "592": [
+        " ana mercedes ramos mikrotik",
+        "SPRINT | NVS"
+    ],
+    "593": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | ROUTER"
+    ],
+    "594": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | SWITCH"
+    ],
+    "595": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | SWITCHES"
+    ],
+    "596": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | GATEWAY"
+    ],
+    "597": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | CAMERA"
+    ],
+    "598": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | PRINTER"
+    ],
+    "599": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | CAM"
+    ],
+    "600": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | SCANNER"
+    ],
+    "601": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | DVR"
+    ],
+    "602": [
+        " ana mercedes ramos mikrotik",
+        "SYMANTEC | NVS"
+    ],
+    "603": [
+        " ana mercedes ramos mikrotik",
+        "AMD | SWITCH"
+    ],
+    "604": [
+        " ana mercedes ramos mikrotik",
+        "AMD | CAM"
+    ],
+    "605": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | ROUTER"
+    ],
+    "606": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | SWITCH"
+    ],
+    "607": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | SWITCHES"
+    ],
+    "608": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | GATEWAY"
+    ],
+    "609": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | CAMERA"
+    ],
+    "610": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | PRINTER"
+    ],
+    "611": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | CAM"
+    ],
+    "612": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | SCANNER"
+    ],
+    "613": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | DVR"
+    ],
+    "614": [
+        " ana mercedes ramos mikrotik",
+        "AUTODESK | NVS"
+    ],
+    "615": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | ROUTER"
+    ],
+    "616": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | SWITCH"
+    ],
+    "617": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | SWITCHES"
+    ],
+    "618": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | GATEWAY"
+    ],
+    "619": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | CAMERA"
+    ],
+    "620": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | PRINTER"
+    ],
+    "621": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | CAM"
+    ],
+    "622": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | SCANNER"
+    ],
+    "623": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | DVR"
+    ],
+    "624": [
+        " ana mercedes ramos mikrotik",
+        "PARTICLE | NVS"
+    ],
+    "625": [
+        " ana mercedes ramos mikrotik",
+        "VERIZON | CAMERA"
+    ],
+    "626": [
+        " ana mercedes ramos mikrotik",
+        "VERIZON | CAM"
+    ],
+    "627": [
+        " ana mercedes ramos mikrotik",
+        "VERIZON | COPIER"
+    ],
+    "628": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | SWITCH"
+    ],
+    "629": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | SWITCHES"
+    ],
+    "630": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | GATEWAY"
+    ],
+    "631": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | CAMERA"
+    ],
+    "632": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | PRINTER"
+    ],
+    "633": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | CAM"
+    ],
+    "634": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | SCANNER"
+    ],
+    "635": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | DVR"
+    ],
+    "636": [
+        " ana mercedes ramos mikrotik",
+        "VARIABLE | COPIER"
+    ],
+    "637": [
+        " ana mercedes ramos mikrotik",
+        "ROUTERBOARD | SWITCH"
+    ],
+    "638": [
+        " ana mercedes ramos mikrotik",
+        "SIEMENS | ROUTER"
+    ],
+    "639": [
+        " ana mercedes ramos mikrotik",
+        "SIEMENS | SWITCH"
+    ],
+    "640": [
+        " ana mercedes ramos mikrotik",
+        "SIEMENS | SWITCHES"
+    ],
+    "641": [
+        " ana mercedes ramos mikrotik",
+        "SIEMENS | CAMERA"
+    ],
+    "642": [
+        " ana mercedes ramos mikrotik",
+        "SIEMENS | PRINTER"
+    ],
+    "643": [
+        " ana mercedes ramos mikrotik",
+        "SIEMENS | CAM"
+    ],
+    "644": [
+        " ana mercedes ramos mikrotik",
+        "NEC | ROUTER"
+    ],
+    "645": [
+        " ana mercedes ramos mikrotik",
+        "NEC | SWITCH"
+    ],
+    "646": [
+        " ana mercedes ramos mikrotik",
+        "NEC | SWITCHES"
+    ],
+    "647": [
+        " ana mercedes ramos mikrotik",
+        "NEC | GATEWAY"
+    ],
+    "648": [
+        " ana mercedes ramos mikrotik",
+        "NEC | CAMERA"
+    ],
+    "649": [
+        " ana mercedes ramos mikrotik",
+        "NEC | PRINTER"
+    ],
+    "650": [
+        " ana mercedes ramos mikrotik",
+        "NEC | CAM"
+    ],
+    "651": [
+        " ana mercedes ramos mikrotik",
+        "NEC | SCANNER"
+    ],
+    "652": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | ROUTER"
+    ],
+    "653": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | SWITCH"
+    ],
+    "654": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | SWITCHES"
+    ],
+    "655": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | GATEWAY"
+    ],
+    "656": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | CAMERA"
+    ],
+    "657": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | PRINTER"
+    ],
+    "658": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | CAM"
+    ],
+    "659": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | SCANNER"
+    ],
+    "660": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | DVR"
+    ],
+    "661": [
+        " ana mercedes ramos mikrotik",
+        "BLACKBERRY | NVS"
+    ],
+    "662": [
+        " ana mercedes ramos mikrotik",
+        "HITACHI | SWITCH"
+    ],
+    "663": [
+        " ana mercedes ramos mikrotik",
+        "HITACHI | CAM"
+    ],
+    "664": [
+        " ana mercedes ramos mikrotik",
+        "REED | ROUTER"
+    ],
+    "665": [
+        " ana mercedes ramos mikrotik",
+        "REED | SWITCH"
+    ],
+    "666": [
+        " ana mercedes ramos mikrotik",
+        "REED | SWITCHES"
+    ],
+    "667": [
+        " ana mercedes ramos mikrotik",
+        "REED | GATEWAY"
+    ],
+    "668": [
+        " ana mercedes ramos mikrotik",
+        "REED | CAMERA"
+    ],
+    "669": [
+        " ana mercedes ramos mikrotik",
+        "REED | PRINTER"
+    ],
+    "670": [
+        " ana mercedes ramos mikrotik",
+        "REED | CAM"
+    ],
+    "671": [
+        " ana mercedes ramos mikrotik",
+        "REED | SCANNER"
+    ],
+    "672": [
+        " ana mercedes ramos mikrotik",
+        "REED | DVR"
+    ],
+    "673": [
+        " ana mercedes ramos mikrotik",
+        "SICK | ROUTER"
+    ],
+    "674": [
+        " ana mercedes ramos mikrotik",
+        "SICK | SWITCH"
+    ],
+    "675": [
+        " ana mercedes ramos mikrotik",
+        "SICK | SWITCHES"
+    ],
+    "676": [
+        " ana mercedes ramos mikrotik",
+        "SICK | GATEWAY"
+    ],
+    "677": [
+        " ana mercedes ramos mikrotik",
+        "SICK | CAMERA"
+    ],
+    "678": [
+        " ana mercedes ramos mikrotik",
+        "SICK | PRINTER"
+    ],
+    "679": [
+        " ana mercedes ramos mikrotik",
+        "SICK | CAM"
+    ],
+    "680": [
+        " ana mercedes ramos mikrotik",
+        "SICK | SCANNER"
+    ],
+    "681": [
+        " ana mercedes ramos mikrotik",
+        "SICK | DVR"
+    ],
+    "682": [
+        " ana mercedes ramos mikrotik",
+        "SICK | NVS"
+    ],
+    "683": [
+        " ana mercedes ramos mikrotik",
+        "QUALCOMM | SWITCH"
+    ],
+    "684": [
+        " ana mercedes ramos mikrotik",
+        "QUALCOMM | SWITCHES"
+    ],
+    "685": [
+        " ana mercedes ramos mikrotik",
+        "QUALCOMM | GATEWAY"
+    ],
+    "686": [
+        " ana mercedes ramos mikrotik",
+        "QUALCOMM | CAMERA"
+    ],
+    "687": [
+        " ana mercedes ramos mikrotik",
+        "QUALCOMM | PRINTER"
+    ],
+    "688": [
+        " ana mercedes ramos mikrotik",
+        "QUALCOMM | CAM"
+    ],
+    "689": [
+        " ana mercedes ramos mikrotik",
+        "QUALCOMM | SCANNER"
+    ],
+    "690": [
+        " ana mercedes ramos mikrotik",
+        "QUALCOMM | DVR"
+    ],
+    "691": [
+        " ana mercedes ramos mikrotik",
+        "BOSCH | ROUTER"
+    ],
+    "692": [
+        " ana mercedes ramos mikrotik",
+        "BOSCH | CAM"
+    ],
+    "693": [
+        " ana mercedes ramos mikrotik",
+        "DJI | SWITCH"
+    ],
+    "694": [
+        " ana mercedes ramos mikrotik",
+        "DJI | CAM"
+    ],
+    "695": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | ROUTER"
+    ],
+    "696": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | SWITCH"
+    ],
+    "697": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | SWITCHES"
+    ],
+    "698": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | GATEWAY"
+    ],
+    "699": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | CAMERA"
+    ],
+    "700": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | PRINTER"
+    ],
+    "701": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | CAM"
+    ],
+    "702": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | SCANNER"
+    ],
+    "703": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | DVR"
+    ],
+    "704": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | MODEM"
+    ],
+    "705": [
+        " ana mercedes ramos mikrotik",
+        "ERICSSON | NVS"
+    ],
+    "706": [
+        " ana mercedes ramos mikrotik",
+        "ZTE | ROUTER"
+    ],
+    "707": [
+        " ana mercedes ramos mikrotik",
+        "ZTE | SWITCH"
+    ],
+    "708": [
+        " ana mercedes ramos mikrotik",
+        "ZTE | GATEWAY"
+    ],
+    "709": [
+        " ana mercedes ramos mikrotik",
+        "ZTE | PRINTER"
+    ],
+    "710": [
+        " ana mercedes ramos mikrotik",
+        "ZTE | CAM"
+    ],
+    "711": [
+        " ana mercedes ramos mikrotik",
+        "DIGI | ROUTER"
+    ],
+    "712": [
+        " ana mercedes ramos mikrotik",
+        "DIGI | CAM"
+    ],
+    "713": [
+        " ana mercedes ramos mikrotik",
+        "NOKIA | CAM"
+    ],
+    "714": [
+        " ana mercedes ramos mikrotik",
+        "TESLA | SWITCH"
+    ],
+    "715": [
+        " ana mercedes ramos mikrotik",
+        "TESLA | SWITCHES"
+    ],
+    "716": [
+        " ana mercedes ramos mikrotik",
+        "TESLA | GATEWAY"
+    ],
+    "717": [
+        " ana mercedes ramos mikrotik",
+        "TESLA | CAMERA"
+    ],
+    "718": [
+        " ana mercedes ramos mikrotik",
+        "TESLA | PRINTER"
+    ],
+    "719": [
+        " ana mercedes ramos mikrotik",
+        "TESLA | SCANNER"
+    ],
+    "720": [
+        " ana mercedes ramos mikrotik",
+        "TESLA | DVR"
+    ],
+    "721": [
+        " ana mercedes ramos mikrotik",
+        "BERG | SWITCH"
+    ],
+    "722": [
+        " ana mercedes ramos mikrotik",
+        "BERG | SWITCHES"
+    ],
+    "723": [
+        " ana mercedes ramos mikrotik",
+        "BERG | GATEWAY"
+    ],
+    "724": [
+        " ana mercedes ramos mikrotik",
+        "BERG | CAMERA"
+    ],
+    "725": [
+        " ana mercedes ramos mikrotik",
+        "BERG | PRINTER"
+    ],
+    "726": [
+        " ana mercedes ramos mikrotik",
+        "BERG | CAM"
+    ],
+    "727": [
+        " ana mercedes ramos mikrotik",
+        "BERG | SCANNER"
+    ],
+    "728": [
+        " ana mercedes ramos mikrotik",
+        "BERG | DVR"
+    ],
+    "729": [
+        " ana mercedes ramos mikrotik",
+        "ABB | SWITCH"
+    ],
+    "730": [
+        " ana mercedes ramos mikrotik",
+        "ABB | CAM"
+    ],
+    "731": [
+        " ana mercedes ramos mikrotik",
+        "ARENA | CAMERA"
+    ],
+    "732": [
+        " ana mercedes ramos mikrotik",
+        "ARENA | CAM"
+    ],
+    "733": [
+        " ana mercedes ramos mikrotik",
+        "ARENA | COPIER"
+    ],
+    "734": [
+        " ana mercedes ramos mikrotik",
+        "VAI | CAM"
+    ],
+    "735": [
+        " ana mercedes ramos mikrotik",
+        "VAI | NVS"
+    ],
+    "736": [
+        " ana mercedes ramos mikrotik",
+        "ADB | CAMERA"
+    ],
+    "737": [
+        " ana mercedes ramos mikrotik",
+        "ADB | CAM"
+    ],
+    "738": [
+        " ana mercedes ramos mikrotik",
+        "ADB | COPIER"
+    ],
+    "739": [
+        " ana mercedes ramos mikrotik",
+        "CSG | ROUTER"
+    ],
+    "740": [
+        " ana mercedes ramos mikrotik",
+        "CSG | SWITCH"
+    ],
+    "741": [
+        " ana mercedes ramos mikrotik",
+        "CSG | GATEWAY"
+    ],
+    "742": [
+        " ana mercedes ramos mikrotik",
+        "CSG | PRINTER"
+    ],
+    "743": [
+        " ana mercedes ramos mikrotik",
+        "CSG | CAM"
+    ],
+    "744": [
+        " ana mercedes ramos mikrotik",
+        "DASHBOARD | CAM"
+    ],
+    "745": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | ROUTER"
+    ],
+    "746": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | SWITCH"
+    ],
+    "747": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | SWITCHES"
+    ],
+    "748": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | GATEWAY"
+    ],
+    "749": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | CAMERA"
+    ],
+    "750": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | PRINTER"
+    ],
+    "751": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | CAM"
+    ],
+    "752": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | SCANNER"
+    ],
+    "753": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | DVR"
+    ],
+    "754": [
+        " ana mercedes ramos mikrotik",
+        "XILINX | NVS"
+    ],
+    "755": [
+        " ana mercedes ramos mikrotik",
+        "ABAS | CAM"
+    ],
+    "756": [
+        " ana mercedes ramos mikrotik",
+        "ABAS | NVS"
+    ],
+    "757": [
+        " ana mercedes ramos mikrotik",
+        "RIOT | ROUTER"
+    ],
+    "758": [
+        " ana mercedes ramos mikrotik",
+        "RIOT | SWITCH"
+    ],
+    "759": [
+        " ana mercedes ramos mikrotik",
+        "RIOT | PRINTER"
+    ],
+    "760": [
+        " ana mercedes ramos mikrotik",
+        "RIOT | CAM"
+    ],
+    "761": [
+        " ana mercedes ramos mikrotik",
+        "RIOT | DVR"
+    ],
+    "762": [
+        " ana mercedes ramos mikrotik",
+        "ARCHOS | SCANNER"
+    ],
+    "763": [
+        " ana mercedes ramos mikrotik",
+        "ARCHOS | MODEM"
+    ],
+    "764": [
+        " ana mercedes ramos mikrotik",
+        "DITO | ROUTER"
+    ],
+    "765": [
+        " ana mercedes ramos mikrotik",
+        "DITO | SWITCH"
+    ],
+    "766": [
+        " ana mercedes ramos mikrotik",
+        "DITO | SWITCHES"
+    ],
+    "767": [
+        " ana mercedes ramos mikrotik",
+        "DITO | GATEWAY"
+    ],
+    "768": [
+        " ana mercedes ramos mikrotik",
+        "DITO | CAMERA"
+    ],
+    "769": [
+        " ana mercedes ramos mikrotik",
+        "DITO | PRINTER"
+    ],
+    "770": [
+        " ana mercedes ramos mikrotik",
+        "DITO | CAM"
+    ],
+    "771": [
+        " ana mercedes ramos mikrotik",
+        "DITO | SCANNER"
+    ],
+    "772": [
+        " ana mercedes ramos mikrotik",
+        "DITO | DVR"
+    ],
+    "773": [
+        " ana mercedes ramos mikrotik",
+        "DITO | NVS"
+    ],
+    "774": [
+        " ana mercedes ramos mikrotik",
+        "GARO | CAM"
+    ],
+    "775": [
+        " ana mercedes ramos mikrotik",
+        "GARO | DVR"
+    ],
+    "776": [
+        " ana mercedes ramos mikrotik",
+        "IOTA | ROUTER"
+    ],
+    "777": [
+        " ana mercedes ramos mikrotik",
+        "IOTA | SWITCH"
+    ],
+    "778": [
+        " ana mercedes ramos mikrotik",
+        "IOTA | PRINTER"
+    ],
+    "779": [
+        " ana mercedes ramos mikrotik",
+        "IOTA | CAM"
+    ],
+    "780": [
+        " ana mercedes ramos mikrotik",
+        "IOTA | DVR"
+    ],
+    "781": [
+        " ana mercedes ramos mikrotik",
+        "KII | ROUTER"
+    ],
+    "782": [
+        " ana mercedes ramos mikrotik",
+        "KII | SWITCH"
+    ],
+    "783": [
+        " ana mercedes ramos mikrotik",
+        "KII | PRINTER"
+    ],
+    "784": [
+        " ana mercedes ramos mikrotik",
+        "KII | CAM"
+    ],
+    "785": [
+        " ana mercedes ramos mikrotik",
+        "KII | DVR"
+    ],
+    "786": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | ROUTER"
+    ],
+    "787": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | SWITCH"
+    ],
+    "788": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | SWITCHES"
+    ],
+    "789": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | GATEWAY"
+    ],
+    "790": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | CAMERA"
+    ],
+    "791": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | PRINTER"
+    ],
+    "792": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | CAM"
+    ],
+    "793": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | SCANNER"
+    ],
+    "794": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | DVR"
+    ],
+    "795": [
+        " ana mercedes ramos mikrotik",
+        "9SOLUTIONS | NVS"
+    ],
+    "796": [
+        " ljubomir dudic mikrotik",
+        "TEAM | CAMERA | Under-19"
+    ],
+    "797": [
+        " ljubomir dudic mikrotik",
+        "AGOSTO | CAMERA | Under-19"
+    ],
+    "798": [
+        " ljubomir dudic mikrotik",
+        "SPRINT | CAMERA | B92"
+    ],
+    "799": [
+        " ljubomir dudic mikrotik",
+        "NOMI | CAMERA | Under-19"
+    ],
+    "800": [
+        " ljubomir dudic mikrotik",
+        "BROTHER | CAMERA | ak-47"
+    ],
+    "801": [
+        " ljubomir dudic mikrotik",
+        "SAP | CAMERA | Under-19"
+    ],
+    "802": [
+        " asus rt-ac55uhp",
+        "ASUS | ROUTER | ac55"
+    ],
+    "803": [
+        " asus rt-ac55uhp",
+        "ASUS | MODEM | e392"
+    ],
+    "804": [
+        " asus rt-ac55uhp",
+        "ASUS | SWITCH"
+    ],
+    "805": [
+        " asus rt-ac55uhp",
+        "HUAWEI | ROUTER | e392"
+    ],
+    "806": [
+        " asus rt-ac55uhp",
+        "HUAWEI | MODEM | e392"
+    ],
+    "807": [
+        " alcatel sr mon jan pst",
+        "NOKIA | ROUTER | GNS3"
+    ],
+    "808": [
+        " tv1 mikrotik",
+        "MIKROTIK | ROUTER | RB450G"
+    ],
+    "809": [
+        " tv1 mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "810": [
+        " icap mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "811": [
+        " nat-1 mikrotik",
+        "MIKROTIK | ROUTER | RB750G"
+    ],
+    "812": [
+        " asus rt-ac56r",
+        "ASUS | ROUTER | RT-AC56R"
+    ],
+    "813": [
+        " asus rt-ac56r",
+        "ASUS | PRINTER | AC1200"
+    ],
+    "814": [
+        " asus rt-ac56r",
+        "ASUS | SWITCH | RT-AC56R"
+    ],
+    "815": [
+        " asus rt-ac56r",
+        "ASUS | MODEM | AC1200"
+    ],
+    "816": [
+        " asus rt-ac56r",
+        "DASHBOARD | ROUTER | Wireless-AC1200"
+    ],
+    "817": [
+        " asus rt-ac56r",
+        "DASHBOARD | PRINTER | Wireless-AC1200"
+    ],
+    "818": [
+        " asus rt-ac56r",
+        "NETGEAR | ROUTER | AC2300"
+    ],
+    "819": [
+        " asus rt-ac56r",
+        "NETGEAR | PRINTER | AC1200"
+    ],
+    "820": [
+        " asus rt-ac56r",
+        "NETGEAR | MODEM | AC1200"
+    ],
+    "821": [
+        " asus rt-ac56r",
+        "QUALCOMM | ROUTER | A7"
+    ],
+    "822": [
+        " asus rt-ac56r",
+        "SAMSUNG | ROUTER | S8"
+    ],
+    "823": [
+        " asus rt-ac56r",
+        "ARM | ROUTER | A7"
+    ],
+    "824": [
+        " ipcamera ipcam",
+        "HIKVISION | CAMERA | camera-List1-Hikvision"
+    ],
+    "825": [
+        " ipcamera ipcam",
+        "TEAM | CAMERA"
+    ],
+    "826": [
+        " axis camera sep",
+        "TEAM | CAMERA"
+    ],
+    "827": [
+        " axis camera sep",
+        "HIKVISION | CAMERA"
+    ],
+    "828": [
+        " thailand mikrotik",
+        "MIKROTIK | ROUTER | v2.6"
+    ],
+    "829": [
+        " thailand mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "830": [
+        " thailand mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "831": [
+        " saharanpur router mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "832": [
+        " saharanpur router mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "833": [
+        " saharanpur router mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "834": [
+        " saharanpur router mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "835": [
+        " saharanpur router mikrotik",
+        "ROUTERBOARD | ROUTER | ether1"
+    ],
+    "836": [
+        " saharanpur router mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "837": [
+        " axis p5522-e ptz camera",
+        "TEAM | CAMERA"
+    ],
+    "838": [
+        " hlavni router mikrotik",
+        "MIKROTIK | ROUTER | L4"
+    ],
+    "839": [
+        " hlavni router mikrotik",
+        "MIKROTIK | SWITCH | Routers2.4GHz"
+    ],
+    "840": [
+        " hlavni router mikrotik",
+        "MIKROTIK | SWITCHES | Routers2.4GHz"
+    ],
+    "841": [
+        " hlavni router mikrotik",
+        "ROUTERBOARD | ROUTER | L4"
+    ],
+    "842": [
+        " santa juana mikrotik",
+        "MIKROTIK | ROUTER | RB750r2"
+    ],
+    "843": [
+        " santa juana mikrotik",
+        "ROUTERBOARD | ROUTER | RB750r2"
+    ],
+    "844": [
+        " jaime miranda mikrotik",
+        "MIKROTIK | ROUTER | MLV-38869143-cpe"
+    ],
+    "845": [
+        " raeisp mikrotik",
+        "MIKROTIK | ROUTER | P1"
+    ],
+    "846": [
+        " raeisp mikrotik",
+        "MIKROTIK | MODEM"
+    ],
+    "847": [
+        " zubek michal mikrotik",
+        "BROTHER | PRINTER"
+    ],
+    "848": [
+        " mikrotik dmz mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "849": [
+        " mikrotik pm4 mikrotik",
+        "MIKROTIK | ROUTER | mp4"
+    ],
+    "850": [
+        " mikrotik pm4 mikrotik",
+        "MIKROTIK | NVR | NVRMini2"
+    ],
+    "851": [
+        " mikrotik pm4 mikrotik",
+        "MIKROTIK | SWITCH | RB150"
+    ],
+    "852": [
+        " mikrotik pm4 mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "853": [
+        " mikrotik pm4 mikrotik",
+        "ROUTERBOARD | ROUTER | mp4"
+    ],
+    "854": [
+        " mikrotik pm4 mikrotik",
+        "ROUTERBOARD | SWITCH | RB150"
+    ],
+    "855": [
+        " mikrotik pm4 mikrotik",
+        "IDM | ROUTER | L7"
+    ],
+    "856": [
+        " mikrotik pm4 mikrotik",
+        "ZTE | MODEM | F660"
+    ],
+    "857": [
+        " mikrotik pm4 mikrotik",
+        "NUUO | NVR"
+    ],
+    "858": [
+        " hauptovalhg mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "859": [
+        " ana mikrotik",
+        "MIKROTIK | ROUTER | L3"
+    ],
+    "860": [
+        " ana mikrotik",
+        "MIKROTIK | SWITCH | L3"
+    ],
+    "861": [
+        " ana mikrotik",
+        "ROUTERBOARD | ROUTER | CCR1009-8G"
+    ],
+    "862": [
+        " ana mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "863": [
+        " asus rt-ac5300",
+        "ASUS | ROUTER | AC5300"
+    ],
+    "864": [
+        " asus rt-ac5300",
+        "NETGEAR | ROUTER | AX8"
+    ],
+    "865": [
+        " asus rt-ac5300",
+        "CISCO | ROUTER"
+    ],
+    "866": [
+        " asus rt-n14u",
+        "ASUS | ROUTER | N14U"
+    ],
+    "867": [
+        " asus rt-n14u",
+        "ASUS | PRINTER | RT-N14U"
+    ],
+    "868": [
+        " ap7921 aos",
+        "NVIDIA | SWITCH | SFF8088"
+    ],
+    "869": [
+        " axis m3204 camera",
+        "HIKVISION | CAMERA"
+    ],
+    "870": [
+        " cp202 mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "871": [
+        " cyprki skrodzki mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "872": [
+        " axis q3505 camera",
+        "SAMSUNG | DVR | SRD-1653D"
+    ],
+    "873": [
+        " asus dsl-ac52u",
+        "ASUS | ROUTER | DSL-AC52U"
+    ],
+    "874": [
+        " asus dsl-ac52u",
+        "ASUS | MODEM | DSL-AC52U"
+    ],
+    "875": [
+        " asus dsl-ac52u",
+        "NETGEAR | ROUTER | AC1900"
+    ],
+    "876": [
+        " asus dsl-ac52u",
+        "NETGEAR | MODEM | AC1900"
+    ],
+    "877": [
+        " asus dsl-ac52u",
+        "SAMSUNG | PRINTER"
+    ],
+    "878": [
+        " asus dsl-ac52u",
+        "EPSON | PRINTER"
+    ],
+    "879": [
+        " asus dsl-ac52u",
+        "BROTHER | PRINTER"
+    ],
+    "880": [
+        " asus dsl-ac52u",
+        "STAR | ROUTER | ADSL2"
+    ],
+    "881": [
+        " asus rt-n66r",
+        "ASUS | ROUTER | RT-N66R"
+    ],
+    "882": [
+        " asus rt-n66r",
+        "ASUS | MODEM | RT-N66R"
+    ],
+    "883": [
+        " asus rt-n66r",
+        "ASUS | SWITCH | N900"
+    ],
+    "884": [
+        " asus rt-n66r",
+        "DASHBOARD | PRINTER | Weight0.99"
+    ],
+    "885": [
+        " abc mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "886": [
+        " abc mikrotik",
+        "ROUTERBOARD | ROUTER"
+    ],
+    "887": [
+        " abc mikrotik",
+        "SPLUNK | ROUTER"
+    ],
+    "888": [
+        " wifi betplay mikrotik",
+        "MIKROTIK | ROUTER | Router108"
+    ],
+    "889": [
+        " wifi betplay mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "890": [
+        " wifi betplay mikrotik",
+        "MIKROTIK | SWITCHES | Router108"
+    ],
+    "891": [
+        " wifi betplay mikrotik",
+        "CISCO | ROUTER | E1200"
+    ],
+    "892": [
+        " wifi betplay mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "893": [
+        " wifi betplay mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "894": [
+        " wifi betplay mikrotik",
+        "NETGEAR | ROUTER"
+    ],
+    "895": [
+        " wifi betplay mikrotik",
+        "MICROSOFT | ROUTER"
+    ],
+    "896": [
+        " wifi betplay mikrotik",
+        "ASUS | ROUTER"
+    ],
+    "897": [
+        " wifi betplay mikrotik",
+        "BROTHER | ROUTER"
+    ],
+    "898": [
+        " wifi betplay mikrotik",
+        "AMD | ROUTER | X2"
+    ],
+    "899": [
+        " bunge mikrotik",
+        "MIKROTIK | ROUTER | Rb750"
+    ],
+    "900": [
+        " bunge mikrotik",
+        "MIKROTIK | SWITCH | Crs326-24g"
+    ],
+    "901": [
+        " bunge mikrotik",
+        "CISCO | ROUTER | Rv345-k9"
+    ],
+    "902": [
+        " bunge mikrotik",
+        "CISCO | SWITCH | Sg100"
+    ],
+    "903": [
+        " brava mikrotik",
+        "MIKROTIK | ROUTER | L3"
+    ],
+    "904": [
+        " brava mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "905": [
+        " jamie mikrotik",
+        "MIKROTIK | ROUTER | RB4011iGS"
+    ],
+    "906": [
+        " jamie mikrotik",
+        "MIKROTIK | SWITCH | x86"
+    ],
+    "907": [
+        " jamie mikrotik",
+        "MIKROTIK | MODEM"
+    ],
+    "908": [
+        " jamie mikrotik",
+        "CISCO | ROUTER | RB2011LS"
+    ],
+    "909": [
+        " jamie mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "910": [
+        " jamie mikrotik",
+        "ROUTERBOARD | ROUTER | X011"
+    ],
+    "911": [
+        " jamie mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "912": [
+        " pppoe-500-buriticupu mikrotik",
+        "NETGEAR | ROUTER | iQq9b6kXJn"
+    ],
+    "913": [
+        " europa mikrotik",
+        "MIKROTIK | ROUTER | x2"
+    ],
+    "914": [
+        " europa mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "915": [
+        " europa mikrotik",
+        "MIKROTIK | SWITCH | x2"
+    ],
+    "916": [
+        " europa mikrotik",
+        "MIKROTIK | CAMERA | G3"
+    ],
+    "917": [
+        " europa mikrotik",
+        "TELTONIKA | ROUTER | G3"
+    ],
+    "918": [
+        " europa mikrotik",
+        "TELTONIKA | CAMERA | G3"
+    ],
+    "919": [
+        " europa mikrotik",
+        "TELTONIKA | MODEM | G3"
+    ],
+    "920": [
+        " rb750r mikrotik",
+        "MIKROTIK | ROUTER | RB750"
+    ],
+    "921": [
+        " rb750r mikrotik",
+        "MIKROTIK | SWITCH | RB150"
+    ],
+    "922": [
+        " rb750r mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "923": [
+        " rb750r mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "924": [
+        " rb750r mikrotik",
+        "ROUTERBOARD | ROUTER | RB150"
+    ],
+    "925": [
+        " rb750r mikrotik",
+        "ROUTERBOARD | SWITCH | RB150"
+    ],
+    "926": [
+        " rb750r mikrotik",
+        "ROUTERBOARD | SWITCHES"
+    ],
+    "927": [
+        " sibnishoz-4 mikrotik",
+        "MIKROTIK | ROUTER | x86"
+    ],
+    "928": [
+        " sibnishoz-4 mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "929": [
+        " sibnishoz-4 mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "930": [
+        " sibnishoz-4 mikrotik",
+        "ROUTERBOARD | ROUTER | x86"
+    ],
+    "931": [
+        " sibnishoz-4 mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "932": [
+        " pinturas mikrotik",
+        "MIKROTIK | ROUTER | g-2hnd"
+    ],
+    "933": [
+        " pinturas mikrotik",
+        "ROUTERBOARD | ROUTER | g-2hnd"
+    ],
+    "934": [
+        " alcatel sr tue sep pdt lanic router",
+        "CISCO | ROUTER"
+    ],
+    "935": [
+        " alcatel sr tue sep pdt lanic router",
+        "MATRIX | PRINTER"
+    ],
+    "936": [
+        " alcatel sr tue sep pdt lanic router",
+        "ASUS | ROUTER | WL-520gc"
+    ],
+    "937": [
+        " lagar mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "938": [
+        " cabrico mikrotik",
+        "MIKROTIK | ROUTER | RB2011UiAS"
+    ],
+    "939": [
+        " cabrico mikrotik",
+        "MIKROTIK | SWITCH | G-4S"
+    ],
+    "940": [
+        " asus rt-n66w",
+        "ASUS | ROUTER | RT-N66"
+    ],
+    "941": [
+        " asus rt-n66w",
+        "NETGEAR | ROUTER | R7000"
+    ],
+    "942": [
+        " asus rt-n66w",
+        "NETGEAR | MODEM | AC1200"
+    ],
+    "943": [
+        " asus rt-n66w",
+        "BROTHER | ROUTER"
+    ],
+    "944": [
+        " netbyte mikrotik",
+        "MIKROTIK | ROUTER | R2"
+    ],
+    "945": [
+        " netbyte mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "946": [
+        " netbyte mikrotik",
+        "HUAWEI | ROUTER"
+    ],
+    "947": [
+        " xp cpt mikrotik",
+        "MIKROTIK | SWITCH | Networking2"
+    ],
+    "948": [
+        " xp cpt mikrotik",
+        "MIKROTIK | ROUTER | Networking2"
+    ],
+    "949": [
+        " xp cpt mikrotik",
+        "MIKROTIK | SWITCHES | Networking2"
+    ],
+    "950": [
+        " xp cpt mikrotik",
+        "ROUTERBOARD | SWITCHES | Networking2"
+    ],
+    "951": [
+        " xp cpt mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "952": [
+        " xp cpt mikrotik",
+        "CISCO | GATEWAY"
+    ],
+    "953": [
+        " xp cpt mikrotik",
+        "MICROSOFT | ROUTER | R2"
+    ],
+    "954": [
+        " dashefc mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "955": [
+        " tarnogorska80-multinet mikrotik",
+        "MIKROTIK | ROUTER | Router108"
+    ],
+    "956": [
+        " tarnogorska80-multinet mikrotik",
+        "MIKROTIK | SWITCHES | Router108"
+    ],
+    "957": [
+        " tarnogorska80-multinet mikrotik",
+        "ROUTERBOARD | ROUTER | ether1"
+    ],
+    "958": [
+        " tarnogorska80-multinet mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "959": [
+        " servidor geral mikrotik mikrotik",
+        "MIKROTIK | ROUTER | R1"
+    ],
+    "960": [
+        " servidor geral mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | R1"
+    ],
+    "961": [
+        " servidor geral mikrotik mikrotik",
+        "MIKROTIK | SWITCH | R1"
+    ],
+    "962": [
+        " servidor geral mikrotik mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "963": [
+        " servidor geral mikrotik mikrotik",
+        "MIKROTIK | CAM"
+    ],
+    "964": [
+        " servidor geral mikrotik mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "965": [
+        " servidor geral mikrotik mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "966": [
+        " teresina rb uias mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "967": [
+        " teresina rb uias mikrotik",
+        "MIKROTIK | ROUTER | ether1"
+    ],
+    "968": [
+        " teresina rb uias mikrotik",
+        "ARM | ROUTER | A35"
+    ],
+    "969": [
+        " teresina rb uias mikrotik",
+        "SPLUNK | ROUTER"
+    ],
+    "970": [
+        " ghatol vipin munganiya mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "971": [
+        " ghatol vipin munganiya mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "972": [
+        " ghatol vipin munganiya mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "973": [
+        " ghatol vipin munganiya mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "974": [
+        " krzywoustego mikrotik",
+        "HUAWEI | ROUTER | E5573C"
+    ],
+    "975": [
+        " merauke mikrotik",
+        "MIKROTIK | ROUTER | mikrotik-2"
+    ],
+    "976": [
+        " merauke mikrotik",
+        "MIKROTIK | MODEM"
+    ],
+    "977": [
+        " merauke mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "978": [
+        " merauke mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "979": [
+        " lhz mikrotik",
+        "MIKROTIK | CAMERA"
+    ],
+    "980": [
+        " bomberos mikrotik",
+        "MIKROTIK | ROUTER | Ccr10097g1c1s"
+    ],
+    "981": [
+        " axis p1354 camera",
+        "PANASONIC | NVR"
+    ],
+    "982": [
+        " axis 211w camera dec",
+        "CISCO | SWITCHES"
+    ],
+    "983": [
+        " rb koneksi mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "984": [
+        " rb koneksi mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "985": [
+        " rb koneksi mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "986": [
+        " rb koneksi mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "987": [
+        " asus rt-ac1900p",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "988": [
+        " asus rt-ac1900p",
+        "NETGEAR | ROUTER | X1"
+    ],
+    "989": [
+        " asus rt-ac1900p",
+        "NETGEAR | SWITCH | GS105"
+    ],
+    "990": [
+        " asus rt-ac1900p",
+        "CISCO | ROUTER"
+    ],
+    "991": [
+        " axis ptz camera aug",
+        "IBM | PRINTER"
+    ],
+    "992": [
+        " krotka9 mikrotik",
+        "MIKROTIK | ROUTER | RB4011IGS"
+    ],
+    "993": [
+        " santiago de arma mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "994": [
+        " santiago de arma mikrotik",
+        "MIKROTIK | SWITCHES | x86"
+    ],
+    "995": [
+        " santiago de arma mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "996": [
+        " santiago de arma mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "997": [
+        " ricoh c3004ex",
+        "SAP | PRINTER"
+    ],
+    "998": [
+        " jocervice tigo pingui mikrotik",
+        "MIKROTIK | ROUTER | Router108"
+    ],
+    "999": [
+        " jocervice tigo pingui mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "1000": [
+        " jocervice tigo pingui mikrotik",
+        "MIKROTIK | SWITCHES | Router108"
+    ],
+    "1001": [
+        " jocervice tigo pingui mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1002": [
+        " jocervice tigo pingui mikrotik",
+        "ROUTERBOARD | ROUTER | ether1"
+    ],
+    "1003": [
+        " jocervice tigo pingui mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1004": [
+        " site3 mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1005": [
+        " site3 mikrotik",
+        "MIKROTIK | SWITCH | v6"
+    ],
+    "1006": [
+        " pilasz mikrotik",
+        "MIKROTIK | ROUTER | RB951Ui"
+    ],
+    "1007": [
+        " pilasz mikrotik",
+        "HIKVISION | CAMERA | G-3.5GThi"
+    ],
+    "1008": [
+        " keipene vejotnes mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "1009": [
+        " undefmachine ver",
+        "CONST | SWITCHES"
+    ],
+    "1010": [
+        " axis m1031-w camera",
+        "ORANGE | CAMERA"
+    ],
+    "1011": [
+        " multipath switch",
+        "DELL | SWITCH"
+    ],
+    "1012": [
+        " multipath switch",
+        "DELL | SWITCHES"
+    ],
+    "1013": [
+        " axis m1054 camera",
+        "HIKVISION | CAMERA | sold30-day"
+    ],
+    "1014": [
+        " gorond 3em lan-2 mikrotik",
+        "MIKROTIK | ROUTER | N15W1"
+    ],
+    "1015": [
+        " gorond 3em lan-2 mikrotik",
+        "MIKROTIK | SWITCH | N15W1"
+    ],
+    "1016": [
+        " gorond 3em lan-2 mikrotik",
+        "MIKROTIK | MODEM | N15W1"
+    ],
+    "1017": [
+        " gorond 3em lan-2 mikrotik",
+        "MIKROTIK | SWITCHES | x86"
+    ],
+    "1018": [
+        " gorond 3em lan-2 mikrotik",
+        "MIKROTIK | PRINTER | N15W1"
+    ],
+    "1019": [
+        " gorond 3em lan-2 mikrotik",
+        "ROUTERBOARD | ROUTER | R2"
+    ],
+    "1020": [
+        " gorond 3em lan-2 mikrotik",
+        "ROUTERBOARD | SWITCH | R2"
+    ],
+    "1021": [
+        " gorond 3em lan-2 mikrotik",
+        "MICROSOFT | ROUTER | N15W1"
+    ],
+    "1022": [
+        " gorond 3em lan-2 mikrotik",
+        "MICROSOFT | SWITCH | N15W1"
+    ],
+    "1023": [
+        " gorond 3em lan-2 mikrotik",
+        "MICROSOFT | MODEM | N15W1"
+    ],
+    "1024": [
+        " gorond 3em lan-2 mikrotik",
+        "MICROSOFT | PRINTER | N15W1"
+    ],
+    "1025": [
+        " gorond 3em lan-2 mikrotik",
+        "HUAWEI | ROUTER | N15W1"
+    ],
+    "1026": [
+        " gorond 3em lan-2 mikrotik",
+        "HUAWEI | SWITCH | N15W1"
+    ],
+    "1027": [
+        " gorond 3em lan-2 mikrotik",
+        "HUAWEI | MODEM | N15W1"
+    ],
+    "1028": [
+        " gorond 3em lan-2 mikrotik",
+        "HUAWEI | PRINTER | N15W1"
+    ],
+    "1029": [
+        " gorond 3em lan-2 mikrotik",
+        "HIKVISION | CAMERA | RB3011UiAS"
+    ],
+    "1030": [
+        " asus rt-acrh13",
+        "ASUS | ROUTER | ACRH13"
+    ],
+    "1031": [
+        " asus rt-acrh13",
+        "ASUS | CAMERA | AC1900"
+    ],
+    "1032": [
+        " asus rt-acrh13",
+        "ASUS | SWITCH | AC1900"
+    ],
+    "1033": [
+        " asus rt-acrh13",
+        "ASUS | GATEWAY | AC1900"
+    ],
+    "1034": [
+        " asus rt-acrh13",
+        "NETGEAR | ROUTER | R7000"
+    ],
+    "1035": [
+        " asus rt-acrh13",
+        "NETGEAR | MODEM | AC1200"
+    ],
+    "1036": [
+        " asus rt-acrh13",
+        "NETGEAR | CAMERA | AC1900"
+    ],
+    "1037": [
+        " asus rt-acrh13",
+        "NETGEAR | SWITCH | AC1900"
+    ],
+    "1038": [
+        " asus rt-acrh13",
+        "NETGEAR | GATEWAY | AC1900"
+    ],
+    "1039": [
+        " asus rt-acrh13",
+        "ZONES | ROUTER | johwatso68Mar"
+    ],
+    "1040": [
+        " asus rt-acrh13",
+        "BELKIN | ROUTER"
+    ],
+    "1041": [
+        " megas dedicadas mikrotik",
+        "MIKROTIK | ROUTER | RB750"
+    ],
+    "1042": [
+        " megas dedicadas mikrotik",
+        "MIKROTIK | MODEM"
+    ],
+    "1043": [
+        " axis m1031-w camera oct",
+        "PANASONIC | CAMERA | M30"
+    ],
+    "1044": [
+        " axis m1031-w camera oct",
+        "HIKVISION | CAMERA"
+    ],
+    "1045": [
+        " axis m1031-w camera oct",
+        "ARM | CAMERA"
+    ],
+    "1046": [
+        " axis m1031-w camera oct",
+        "BOSCH | CAMERA"
+    ],
+    "1047": [
+        " mcstay mikrotik",
+        "VARIABLE | CAM"
+    ],
+    "1048": [
+        " ssc mikrotik",
+        "MIKROTIK | ROUTER | GS-5HnT"
+    ],
+    "1049": [
+        " ssc mikrotik",
+        "NETGEAR | ROUTER | AC1200"
+    ],
+    "1050": [
+        " ssc mikrotik",
+        "CISCO | ROUTER | RV110W"
+    ],
+    "1051": [
+        " asus rt-ac55u",
+        "ASUS | ROUTER | RT-AC55U"
+    ],
+    "1052": [
+        " asus rt-ac55u",
+        "ASUS | SWITCH | RT-AC68U"
+    ],
+    "1053": [
+        " asus rt-ac55u",
+        "ASUS | CAMERA | RT-AC68U"
+    ],
+    "1054": [
+        " asus rt-ac55u",
+        "ASUS | GATEWAY | RT-AC68U"
+    ],
+    "1055": [
+        " asus rt-ac55u",
+        "QUALCOMM | SWITCH | QCA9557"
+    ],
+    "1056": [
+        " asus rt-ac55u",
+        "DASHBOARD | PRINTER"
+    ],
+    "1057": [
+        " asus rt-ac55u",
+        "STAR | ROUTER | AC1200"
+    ],
+    "1058": [
+        " asus rt-ac55u",
+        "NETGEAR | SWITCH | RT-AC68U"
+    ],
+    "1059": [
+        " asus rt-ac55u",
+        "NETGEAR | CAMERA | RT-AC68U"
+    ],
+    "1060": [
+        " asus rt-ac55u",
+        "NETGEAR | GATEWAY | RT-AC68U"
+    ],
+    "1061": [
+        " br15 mikrotik",
+        "MIKROTIK | ROUTER | v2"
+    ],
+    "1062": [
+        " distrasby mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "1063": [
+        " keeplink mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "1064": [
+        " keeplink mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1065": [
+        " keeplink mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "1066": [
+        " keeplink mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "1067": [
+        " keeplink mikrotik",
+        "CISCO | SWITCH | RB3011UiAS"
+    ],
+    "1068": [
+        " asus dsl-n17u",
+        "ASUS | ROUTER | DSL-N17U"
+    ],
+    "1069": [
+        " asus dsl-n17u",
+        "ASUS | MODEM | DSL-N17U"
+    ],
+    "1070": [
+        " asus dsl-n17u",
+        "MEDIATEK | SWITCH | MT7530"
+    ],
+    "1071": [
+        " asus dsl-n17u",
+        "STAR | ROUTER | ADSL2"
+    ],
+    "1072": [
+        " asus dsl-n17u",
+        "NETGEAR | ROUTER | VDSL2"
+    ],
+    "1073": [
+        " axis ptz camera apr",
+        "HIKVISION | CAMERA | Q61"
+    ],
+    "1074": [
+        " axis ptz camera apr",
+        "NUUO | NVR | cameras8"
+    ],
+    "1075": [
+        " axis ptz camera apr",
+        "NUUO | DVR | cameras8"
+    ],
+    "1076": [
+        " axis ptz camera apr",
+        "FLIR | CAMERA | Q6215-LE"
+    ],
+    "1077": [
+        " axis ptz camera apr",
+        "DJI | CAMERA | Q6215-LE"
+    ],
+    "1078": [
+        " axis ptz camera apr",
+        "LIDAR | CAMERA | Q6215-LE"
+    ],
+    "1079": [
+        " tilapatna wifi mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "1080": [
+        " tilapatna wifi mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "1081": [
+        " tilapatna wifi mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "1082": [
+        " tilapatna wifi mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1083": [
+        " tilapatna wifi mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1084": [
+        " axis 241q dec",
+        "CGI | GATEWAY"
+    ],
+    "1085": [
+        " axis 241q dec",
+        "PANASONIC | CAMERA | WV-NW964"
+    ],
+    "1086": [
+        " axis 241q dec",
+        "SHARP | CAMERA | x480"
+    ],
+    "1087": [
+        " 11vidhyapocketomaxe mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "1088": [
+        " clt pe ramsons alvorada mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1089": [
+        " clt pe ramsons alvorada mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "1090": [
+        " clt pe ramsons alvorada mikrotik",
+        "ROUTERBOARD | ROUTER | ether1"
+    ],
+    "1091": [
+        " axis 241s dec",
+        "CGI | GATEWAY"
+    ],
+    "1092": [
+        " axis 241s dec",
+        "PANASONIC | CAMERA | WV-NW964"
+    ],
+    "1093": [
+        " axis 241s dec",
+        "SHARP | CAMERA | x4"
+    ],
+    "1094": [
+        " lkw mikrotik",
+        "MIKROTIK | ROUTER | Ccr1072-1g"
+    ],
+    "1095": [
+        " asus rt-n10u",
+        "ASUS | ROUTER | RT-N10U"
+    ],
+    "1096": [
+        " ciganjur mikrotik",
+        "MIKROTIK | ROUTER | SwitchUbiquiti11"
+    ],
+    "1097": [
+        " ciganjur mikrotik",
+        "ROUTERBOARD | ROUTER | SwitchUbiquiti11"
+    ],
+    "1098": [
+        " ciganjur mikrotik",
+        "EPSON | PRINTER | L555"
+    ],
+    "1099": [
+        " asus rt-n16",
+        "ASUS | ROUTER | RT-N16"
+    ],
+    "1100": [
+        " asus rt-n16",
+        "ASUS | MODEM | RT-N16"
+    ],
+    "1101": [
+        " asus rt-n16",
+        "NETGEAR | ROUTER | RT-N16"
+    ],
+    "1102": [
+        " asus rt-n16",
+        "NETGEAR | MODEM | RT-N16"
+    ],
+    "1103": [
+        " asus rt-n16",
+        "STAR | ROUTER"
+    ],
+    "1104": [
+        " agro pecuaria hc mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "1105": [
+        " agro pecuaria hc mikrotik",
+        "MIKROTIK | SWITCHES | x86"
+    ],
+    "1106": [
+        " agro pecuaria hc mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1107": [
+        " agro pecuaria hc mikrotik",
+        "ROUTERBOARD | ROUTER | x86"
+    ],
+    "1108": [
+        " agro pecuaria hc mikrotik",
+        "ROUTERBOARD | SWITCH | x86"
+    ],
+    "1109": [
+        " agro pecuaria hc mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1110": [
+        " axis q6042-e ptz camera",
+        "HIKVISION | CAMERA"
+    ],
+    "1111": [
+        " colegio nuestra de merced mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "1112": [
+        " colegio nuestra de merced mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "1113": [
+        " colegio nuestra de merced mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1114": [
+        " colegio nuestra de merced mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1115": [
+        " asus rt-acrh17",
+        "ASUS | ROUTER | ACRH17"
+    ],
+    "1116": [
+        " asus rt-acrh17",
+        "ASUS | SWITCH | RT-ACRH17"
+    ],
+    "1117": [
+        " asus rt-acrh17",
+        "ASUS | CAMERA | AC6"
+    ],
+    "1118": [
+        " asus rt-acrh17",
+        "ASUS | MODEM"
+    ],
+    "1119": [
+        " asus rt-acrh17",
+        "ASUS | GATEWAY | AC6"
+    ],
+    "1120": [
+        " asus rt-acrh17",
+        "QUALCOMM | ROUTER | RT-ACRH17"
+    ],
+    "1121": [
+        " asus rt-acrh17",
+        "QUALCOMM | SWITCH | IPQ4019"
+    ],
+    "1122": [
+        " asus rt-acrh17",
+        "NETGEAR | ROUTER | RT-ACRH17"
+    ],
+    "1123": [
+        " asus rt-acrh17",
+        "NETGEAR | SWITCH | AC6"
+    ],
+    "1124": [
+        " asus rt-acrh17",
+        "NETGEAR | CAMERA | AC6"
+    ],
+    "1125": [
+        " asus rt-acrh17",
+        "NETGEAR | GATEWAY | AC6"
+    ],
+    "1126": [
+        " asus rt-acrh17",
+        "BROADCOM | ROUTER | RT-ACRH17"
+    ],
+    "1127": [
+        " asus rt-acrh17",
+        "ARM | ROUTER | RT-ACRH17"
+    ],
+    "1128": [
+        " asus rt-acrh17",
+        "ARM | SWITCH | RT-ACRH17"
+    ],
+    "1129": [
+        " asus rt-acrh17",
+        "SAMSUNG | ROUTER | S8"
+    ],
+    "1130": [
+        " asus rt-ac66r",
+        "ASUS | ROUTER | RT-AC66R"
+    ],
+    "1131": [
+        " asus rt-ac66r",
+        "NETGEAR | ROUTER | EA8300"
+    ],
+    "1132": [
+        " asus gt-ac5300",
+        "ASUS | ROUTER | AC5300"
+    ],
+    "1133": [
+        " asus gt-ac5300",
+        "NETGEAR | ROUTER | AX8"
+    ],
+    "1134": [
+        " nodo mikrotik",
+        "MIKROTIK | ROUTER | Cap2n"
+    ],
+    "1135": [
+        " nodo mikrotik",
+        "MIKROTIK | SWITCHES | Router108"
+    ],
+    "1136": [
+        " nodo mikrotik",
+        "ROUTERBOARD | ROUTER | Cpu-mips32"
+    ],
+    "1137": [
+        " nodo mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1138": [
+        " acnet mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1139": [
+        " asus gt-ax11000",
+        "ASUS | ROUTER | AX11000"
+    ],
+    "1140": [
+        " asus gt-ax11000",
+        "NETGEAR | ROUTER | x4"
+    ],
+    "1141": [
+        " asus gt-ax11000",
+        "BROADCOM | ROUTER | GT-AX11000"
+    ],
+    "1142": [
+        " asus gt-ax11000",
+        "ARM | ROUTER | GT-AX11000"
+    ],
+    "1143": [
+        " lamirada mikrotik",
+        "MIKROTIK | SWITCH | x1"
+    ],
+    "1144": [
+        " lamirada mikrotik",
+        "MIKROTIK | ROUTER | L4"
+    ],
+    "1145": [
+        " lamirada mikrotik",
+        "ROUTERBOARD | SWITCH | x1"
+    ],
+    "1146": [
+        " lamirada mikrotik",
+        "ROUTERBOARD | ROUTER | L4"
+    ],
+    "1147": [
+        " lamirada mikrotik",
+        "ASUS | SWITCH | BCM4706"
+    ],
+    "1148": [
+        " bazar mikrotik",
+        "MIKROTIK | ROUTER | RB911G"
+    ],
+    "1149": [
+        " bazar mikrotik",
+        "MIKROTIK | SWITCH | RB711-5Hn"
+    ],
+    "1150": [
+        " bazar mikrotik",
+        "ROUTERBOARD | ROUTER | RB911G"
+    ],
+    "1151": [
+        " bazar mikrotik",
+        "ROUTERBOARD | SWITCH | RB711-5Hn"
+    ],
+    "1152": [
+        " axis f44 camera",
+        "HIKVISION | CAMERA | DS-2CD6424FWD"
+    ],
+    "1153": [
+        " axis f44 camera",
+        "SAMSUNG | CAMERA | PNV-9080R"
+    ],
+    "1154": [
+        " axis f44 camera",
+        "SENSR | CAMERA | F44"
+    ],
+    "1155": [
+        " rb1100 centre mikrotik",
+        "MIKROTIK | ROUTER | RB1100"
+    ],
+    "1156": [
+        " rb1100 centre mikrotik",
+        "MIKROTIK | GATEWAY | RB1100"
+    ],
+    "1157": [
+        " rb1100 centre mikrotik",
+        "ROUTERBOARD | ROUTER | RB2011"
+    ],
+    "1158": [
+        " rb1100 centre mikrotik",
+        "ROUTERBOARD | GATEWAY | RB1100"
+    ],
+    "1159": [
+        " rb1100 centre mikrotik",
+        "CISCO | ROUTER | RB2011"
+    ],
+    "1160": [
+        " rb1100 centre mikrotik",
+        "GIGABYTE | CAMERA | CameraDVR4"
+    ],
+    "1161": [
+        " rb1100 centre mikrotik",
+        "MATRIX | ROUTER | R3Alienware"
+    ],
+    "1162": [
+        " semper timur mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1163": [
+        " semper timur mikrotik",
+        "ORANGE | PRINTER"
+    ],
+    "1164": [
+        " semper timur mikrotik",
+        "HUAWEI | MODEM | E5830"
+    ],
+    "1165": [
+        " axis p1427-le camera",
+        "SHARP | CAMERA | Q1647-LE"
+    ],
+    "1166": [
+        " axis p1427-le camera",
+        "CGI | CAMERA"
+    ],
+    "1167": [
+        " moallem mikrotik",
+        "MATRIX | SWITCH | SP4T"
+    ],
+    "1168": [
+        " moallem mikrotik",
+        "MIKROTIK | SWITCH | RB750"
+    ],
+    "1169": [
+        " moallem mikrotik",
+        "VARIABLE | SWITCH"
+    ],
+    "1170": [
+        " moallem mikrotik",
+        "PREDICT | SWITCH"
+    ],
+    "1171": [
+        " moallem mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "1172": [
+        " moallem mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1173": [
+        " asus rt-ac87r",
+        "ASUS | ROUTER | RT-AC87"
+    ],
+    "1174": [
+        " asus rt-ac87r",
+        "ASUS | MODEM | R7000"
+    ],
+    "1175": [
+        " asus rt-ac87r",
+        "NETGEAR | ROUTER | R7000"
+    ],
+    "1176": [
+        " asus rt-ac87r",
+        "NETGEAR | MODEM | R7000"
+    ],
+    "1177": [
+        " asus rt-ac87r",
+        "EPSON | PRINTER"
+    ],
+    "1178": [
+        " cukrownia mikrotik",
+        "SAMSUNG | ROUTER | SM-V101F"
+    ],
+    "1179": [
+        " cukrownia mikrotik",
+        "HUAWEI | ROUTER | E5330"
+    ],
+    "1180": [
+        " cukrownia mikrotik",
+        "ASUS | ROUTER | RT-N16"
+    ],
+    "1181": [
+        " cukrownia mikrotik",
+        "ZTE | ROUTER | MF910V"
+    ],
+    "1182": [
+        " cukrownia mikrotik",
+        "ZTE | MODEM | MF910V"
+    ],
+    "1183": [
+        " cukrownia mikrotik",
+        "ORANGE | ROUTER"
+    ],
+    "1184": [
+        " axis m1125 camera",
+        "HONEYWELL | CAMERA"
+    ],
+    "1185": [
+        " axis m1125 camera",
+        "MICROSOFT | CAMERA | M1125"
+    ],
+    "1186": [
+        " asus rt-ac1300gplus",
+        "ASUS | ROUTER | AC1300"
+    ],
+    "1187": [
+        " asus rt-ac1300gplus",
+        "BELKIN | ROUTER"
+    ],
+    "1188": [
+        " juzni banat rb mikrotik",
+        "MIKROTIK | ROUTER | Router108"
+    ],
+    "1189": [
+        " juzni banat rb mikrotik",
+        "MIKROTIK | SWITCHES | Router108"
+    ],
+    "1190": [
+        " juzni banat rb mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1191": [
+        " juzni banat rb mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1192": [
+        " asus rt-n65u",
+        "ASUS | ROUTER | N65U"
+    ],
+    "1193": [
+        " asus rt-n65u",
+        "NETGEAR | ROUTER | R7800"
+    ],
+    "1194": [
+        " asus rt-n65u",
+        "CISCO | ROUTER | EA-N66"
+    ],
+    "1195": [
+        " asus rt-n65u",
+        "BELKIN | ROUTER"
+    ],
+    "1196": [
+        " grazzia mikrotik",
+        "MIKROTIK | ROUTER | Crs106-1c"
+    ],
+    "1197": [
+        " grazzia mikrotik",
+        "MIKROTIK | SWITCH | Crs106-1c"
+    ],
+    "1198": [
+        " grazzia mikrotik",
+        "ROUTERBOARD | SWITCH | Rb260gs"
+    ],
+    "1199": [
+        " lesnaya7 mikrotik",
+        "INTEL | CAMERA | d435"
+    ],
+    "1200": [
+        " axis p1204 camera",
+        "SAMSUNG | CAMERA | PNV-9080R"
+    ],
+    "1201": [
+        " axis p1204 camera",
+        "TEAM | CAMERA"
+    ],
+    "1202": [
+        " rashidhouse mikrotik",
+        "MICROSOFT | CAMERA | rav4"
+    ],
+    "1203": [
+        " rashidhouse mikrotik",
+        "MICROSOFT | ROUTER | rav4"
+    ],
+    "1204": [
+        " rashidhouse mikrotik",
+        "MIKROTIK | CAMERA"
+    ],
+    "1205": [
+        " rashidhouse mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1206": [
+        " rashidhouse mikrotik",
+        "EPSON | CAMERA | cs3"
+    ],
+    "1207": [
+        " rashidhouse mikrotik",
+        "ERICSSON | CAMERA | rav4"
+    ],
+    "1208": [
+        " rashidhouse mikrotik",
+        "PANASONIC | CAMERA | dmc-fx33"
+    ],
+    "1209": [
+        " rashidhouse mikrotik",
+        "STAR | CAMERA | cs3"
+    ],
+    "1210": [
+        " rashidhouse mikrotik",
+        "TORNADO | CAMERA | cs5"
+    ],
+    "1211": [
+        " rashidhouse mikrotik",
+        "TEAM | MODEM | costume5"
+    ],
+    "1212": [
+        " axis m3045-v camera",
+        "SHARP | CAMERA | M30"
+    ],
+    "1213": [
+        " axis m3045-v camera",
+        "SHARP | CAM | M30"
+    ],
+    "1214": [
+        " axis m3045-v camera",
+        "PANASONIC | CAMERA | WV-S2131L"
+    ],
+    "1215": [
+        " ox253p aug",
+        "ZTE | MODEM | OX253P"
+    ],
+    "1216": [
+        " ox253p aug",
+        "SAMSUNG | MODEM"
+    ],
+    "1217": [
+        " ox253p aug",
+        "ASUS | ROUTER | WL-5XX"
+    ],
+    "1218": [
+        " ox253p aug",
+        "CISCO | ROUTER | v2"
+    ],
+    "1219": [
+        " ox253p aug",
+        "MICROSOFT | GATEWAY | L2"
+    ],
+    "1220": [
+        " ox253p aug",
+        "TECHNICOLOR | GATEWAY | G5"
+    ],
+    "1221": [
+        " jammedia mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1222": [
+        " axis q6034 ptz camera",
+        "NUUO | NVR"
+    ],
+    "1223": [
+        " axis p1355 camera",
+        "SAMSUNG | CAMERA | PNV-9080R"
+    ],
+    "1224": [
+        " axis p1355 camera",
+        "PANASONIC | NVR"
+    ],
+    "1225": [
+        " todor ivanov mejden mikrotik",
+        "VARIABLE | CAM"
+    ],
+    "1226": [
+        " asus rt-n14uhp",
+        "ASUS | ROUTER | N14UHP"
+    ],
+    "1227": [
+        " asus rt-n14uhp",
+        "ASUS | PRINTER | RT-N14UHP"
+    ],
+    "1228": [
+        " asus rt-n14uhp",
+        "ASUS | SWITCH"
+    ],
+    "1229": [
+        " asus rt-n14uhp",
+        "HIKVISION | CAMERA"
+    ],
+    "1230": [
+        " asus rt-n14uhp",
+        "NETGEAR | SWITCH | GS108PE"
+    ],
+    "1231": [
+        " sofia vitoshka mikrotik",
+        "TEAM | CAMERA"
+    ],
+    "1232": [
+        " sofia vitoshka mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1233": [
+        " sofia vitoshka mikrotik",
+        "NOKIA | CAMERA"
+    ],
+    "1234": [
+        " arp3146 mikrotik",
+        "MIKROTIK | ROUTER | Fail2Ban"
+    ],
+    "1235": [
+        " uba mikrotik",
+        "MIKROTIK | ROUTER | G-1S"
+    ],
+    "1236": [
+        " uba mikrotik",
+        "MIKROTIK | SWITCH | G-1S"
+    ],
+    "1237": [
+        " axis p1214-e camera",
+        "SHARP | CAMERA | x720"
+    ],
+    "1238": [
+        " axis camera nov",
+        "HIKVISION | CAMERA | P3367"
+    ],
+    "1239": [
+        " axis camera nov",
+        "HIKVISION | NVR | P3367"
+    ],
+    "1240": [
+        " wodonga mikrotik",
+        "MIKROTIK | ROUTER | G-2S"
+    ],
+    "1241": [
+        " wodonga mikrotik",
+        "MIKROTIK | SWITCH | G-2S"
+    ],
+    "1242": [
+        " wodonga mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1243": [
+        " wodonga mikrotik",
+        "ROUTERBOARD | SWITCHES"
+    ],
+    "1244": [
+        " wodonga mikrotik",
+        "CISCO | ROUTER | G-2S"
+    ],
+    "1245": [
+        " wodonga mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1246": [
+        " wodonga mikrotik",
+        "NETGEAR | ROUTER | G-2S"
+    ],
+    "1247": [
+        " wodonga mikrotik",
+        "NETGEAR | MODEM | page24"
+    ],
+    "1248": [
+        " wodonga mikrotik",
+        "NETGEAR | GATEWAY | CG300"
+    ],
+    "1249": [
+        " wodonga mikrotik",
+        "TEAM | ROUTER | CCR1009"
+    ],
+    "1250": [
+        " wodonga mikrotik",
+        "HUAWEI | ROUTER | Android100"
+    ],
+    "1251": [
+        " wodonga mikrotik",
+        "HUAWEI | MODEM | HG659"
+    ],
+    "1252": [
+        " wodonga mikrotik",
+        "HUAWEI | GATEWAY | HG659"
+    ],
+    "1253": [
+        " wodonga mikrotik",
+        "MICROSOFT | ROUTER"
+    ],
+    "1254": [
+        " wodonga mikrotik",
+        "MICROSOFT | GATEWAY"
+    ],
+    "1255": [
+        " wodonga mikrotik",
+        "6WIND | ROUTER | G-2S"
+    ],
+    "1256": [
+        " wodonga mikrotik",
+        "6WIND | GATEWAY"
+    ],
+    "1257": [
+        " wodonga mikrotik",
+        "ASUS | ROUTER | page24"
+    ],
+    "1258": [
+        " wodonga mikrotik",
+        "QUALCOMM | ROUTER | G-2S"
+    ],
+    "1259": [
+        " wodonga mikrotik",
+        "VERIZON | ROUTER"
+    ],
+    "1260": [
+        " wodonga mikrotik",
+        "VERIZON | GATEWAY"
+    ],
+    "1261": [
+        " wodonga mikrotik",
+        "IDM | ROUTER | G-2S"
+    ],
+    "1262": [
+        " wodonga mikrotik",
+        "IDM | SWITCH | G-2S"
+    ],
+    "1263": [
+        " wodonga mikrotik",
+        "TPLINK | ROUTER | ADSL2"
+    ],
+    "1264": [
+        " wodonga mikrotik",
+        "TPLINK | MODEM | ADSL2"
+    ],
+    "1265": [
+        " kemskaja-rb850gx2 mikrotik",
+        "MIKROTIK | ROUTER | RB850Gx2"
+    ],
+    "1266": [
+        " kemskaja-rb850gx2 mikrotik",
+        "MIKROTIK | SWITCH | RB850Gx2"
+    ],
+    "1267": [
+        " kemskaja-rb850gx2 mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "1268": [
+        " kemskaja-rb850gx2 mikrotik",
+        "ROUTERBOARD | ROUTER | RB850Gx2"
+    ],
+    "1269": [
+        " kemskaja-rb850gx2 mikrotik",
+        "ROUTERBOARD | SWITCH | RB850Gx2"
+    ],
+    "1270": [
+        " mikrotik ksmm mikrotik",
+        "HUAWEI | ROUTER | B525"
+    ],
+    "1271": [
+        " mikrotik ksmm mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1272": [
+        " asus dsl-n66u",
+        "ASUS | ROUTER | N66U"
+    ],
+    "1273": [
+        " asus dsl-n66u",
+        "ASUS | MODEM | N66U"
+    ],
+    "1274": [
+        " asus dsl-n66u",
+        "ASUS | PRINTER | DSL-N66U"
+    ],
+    "1275": [
+        " asus dsl-n66u",
+        "NETGEAR | ROUTER | C1"
+    ],
+    "1276": [
+        " asus dsl-n66u",
+        "NETGEAR | MODEM | C1"
+    ],
+    "1277": [
+        " asus dsl-n66u",
+        "DASHBOARD | ROUTER | DSL-N66U"
+    ],
+    "1278": [
+        " asus dsl-n66u",
+        "DASHBOARD | MODEM | DSL-N66U"
+    ],
+    "1279": [
+        " asus dsl-n66u",
+        "STAR | ROUTER | DSL-N16UP"
+    ],
+    "1280": [
+        " asus dsl-n66u",
+        "VODAFONE | MODEM | DM200-100EUS"
+    ],
+    "1281": [
+        " unifi mikrotik",
+        "MIKROTIK | ROUTER | pppoe-out1"
+    ],
+    "1282": [
+        " unifi mikrotik",
+        "MIKROTIK | GATEWAY | vlan500"
+    ],
+    "1283": [
+        " unifi mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "1284": [
+        " kamieniartstwo mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1285": [
+        " jesus manzano vazquez mikrotik",
+        "VARIABLE | CAM"
+    ],
+    "1286": [
+        " jesus manzano vazquez mikrotik",
+        "LIDAR | CAMERA"
+    ],
+    "1287": [
+        " dc-rt01 mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "1288": [
+        " dc-rt01 mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "1289": [
+        " dc-rt01 mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "1290": [
+        " dc-rt01 mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "1291": [
+        " dc-rt01 mikrotik",
+        "CISCO | SWITCH | D1"
+    ],
+    "1292": [
+        " hester mikrotik",
+        "CISCO | ROUTER | FastEthernet0"
+    ],
+    "1293": [
+        " hester mikrotik",
+        "CISCO | GATEWAY | R1"
+    ],
+    "1294": [
+        " hester mikrotik",
+        "CISCO | SWITCH | R1"
+    ],
+    "1295": [
+        " hester mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1296": [
+        " hester mikrotik",
+        "MIKROTIK | ROUTER | v6"
+    ],
+    "1297": [
+        " hester mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "1298": [
+        " hester mikrotik",
+        "MICROSOFT | ROUTER | FastEthernet0"
+    ],
+    "1299": [
+        " tswelelo fibre mikrotik",
+        "MIKROTIK | ROUTER | Router108"
+    ],
+    "1300": [
+        " tswelelo fibre mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "1301": [
+        " tswelelo fibre mikrotik",
+        "MIKROTIK | SWITCHES | Router108"
+    ],
+    "1302": [
+        " tswelelo fibre mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1303": [
+        " tswelelo fibre mikrotik",
+        "ROUTERBOARD | ROUTER | ether1"
+    ],
+    "1304": [
+        " tswelelo fibre mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1305": [
+        " antonio carlos moraes mikrotik",
+        "MIKROTIK | ROUTER | wpa2"
+    ],
+    "1306": [
+        " antonio carlos moraes mikrotik",
+        "MIKROTIK | SWITCH | x86"
+    ],
+    "1307": [
+        " antonio carlos moraes mikrotik",
+        "MIKROTIK | MODEM"
+    ],
+    "1308": [
+        " antonio carlos moraes mikrotik",
+        "MIKROTIK | GATEWAY | RB750"
+    ],
+    "1309": [
+        " antonio carlos moraes mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "1310": [
+        " syjn mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1311": [
+        " syjn mikrotik",
+        "ROUTERBOARD | ROUTER | U-2HnD"
+    ],
+    "1312": [
+        " mikrohex mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "1313": [
+        " mikrohex mikrotik",
+        "MIKROTIK | ROUTER | R2"
+    ],
+    "1314": [
+        " nilda de oliveira mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "1315": [
+        " nilda de oliveira mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "1316": [
+        " station-11498-thaifae mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "1317": [
+        " station-11498-thaifae mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "1318": [
+        " station-11498-thaifae mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "1319": [
+        " station-11498-thaifae mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1320": [
+        " station-11498-thaifae mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1321": [
+        " axis m1011 camera oct",
+        "HIKVISION | CAMERA | DS-2CD2332"
+    ],
+    "1322": [
+        " axis m1011 camera oct",
+        "STAR | CAMERA | Burke3.0"
+    ],
+    "1323": [
+        " axis m1011 camera oct",
+        "SAMSUNG | CAMERA"
+    ],
+    "1324": [
+        " axis m1011 camera oct",
+        "PANASONIC | CAMERA"
+    ],
+    "1325": [
+        " axis m1011 camera oct",
+        "SMARTTHINGS | CAMERA"
+    ],
+    "1326": [
+        " darren stephens mikrotik",
+        "MICROSOFT | SCANNER"
+    ],
+    "1327": [
+        " darren stephens mikrotik",
+        "MICROSOFT | CAMERA"
+    ],
+    "1328": [
+        " darren stephens mikrotik",
+        "MICROSOFT | ROUTER"
+    ],
+    "1329": [
+        " darren stephens mikrotik",
+        "MICROSOFT | SWITCH"
+    ],
+    "1330": [
+        " darren stephens mikrotik",
+        "MICROSOFT | GATEWAY"
+    ],
+    "1331": [
+        " darren stephens mikrotik",
+        "MICROSOFT | PRINTER"
+    ],
+    "1332": [
+        " darren stephens mikrotik",
+        "MICROSOFT | CAM"
+    ],
+    "1333": [
+        " darren stephens mikrotik",
+        "MICROSOFT | COPIER"
+    ],
+    "1334": [
+        " darren stephens mikrotik",
+        "MICROSOFT | MODEM"
+    ],
+    "1335": [
+        " darren stephens mikrotik",
+        "STAR | SCANNER"
+    ],
+    "1336": [
+        " darren stephens mikrotik",
+        "STAR | CAMERA"
+    ],
+    "1337": [
+        " darren stephens mikrotik",
+        "STAR | ROUTER"
+    ],
+    "1338": [
+        " darren stephens mikrotik",
+        "STAR | SWITCH"
+    ],
+    "1339": [
+        " darren stephens mikrotik",
+        "STAR | GATEWAY"
+    ],
+    "1340": [
+        " darren stephens mikrotik",
+        "STAR | PRINTER"
+    ],
+    "1341": [
+        " darren stephens mikrotik",
+        "STAR | CAM"
+    ],
+    "1342": [
+        " darren stephens mikrotik",
+        "STAR | COPIER"
+    ],
+    "1343": [
+        " darren stephens mikrotik",
+        "STAR | MODEM"
+    ],
+    "1344": [
+        " darren stephens mikrotik",
+        "SAP | SCANNER"
+    ],
+    "1345": [
+        " darren stephens mikrotik",
+        "SAP | CAMERA"
+    ],
+    "1346": [
+        " darren stephens mikrotik",
+        "SAP | ROUTER"
+    ],
+    "1347": [
+        " darren stephens mikrotik",
+        "SAP | SWITCH"
+    ],
+    "1348": [
+        " darren stephens mikrotik",
+        "SAP | PRINTER"
+    ],
+    "1349": [
+        " darren stephens mikrotik",
+        "SAP | CAM"
+    ],
+    "1350": [
+        " darren stephens mikrotik",
+        "SAP | COPIER"
+    ],
+    "1351": [
+        " darren stephens mikrotik",
+        "SAP | MODEM"
+    ],
+    "1352": [
+        " darren stephens mikrotik",
+        "ORACLE | SCANNER"
+    ],
+    "1353": [
+        " darren stephens mikrotik",
+        "ORACLE | CAMERA"
+    ],
+    "1354": [
+        " darren stephens mikrotik",
+        "ORACLE | ROUTER"
+    ],
+    "1355": [
+        " darren stephens mikrotik",
+        "ORACLE | SWITCH"
+    ],
+    "1356": [
+        " darren stephens mikrotik",
+        "ORACLE | PRINTER"
+    ],
+    "1357": [
+        " darren stephens mikrotik",
+        "ORACLE | CAM"
+    ],
+    "1358": [
+        " darren stephens mikrotik",
+        "ORACLE | COPIER"
+    ],
+    "1359": [
+        " darren stephens mikrotik",
+        "MIKROTIK | CAMERA"
+    ],
+    "1360": [
+        " darren stephens mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1361": [
+        " darren stephens mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "1362": [
+        " darren stephens mikrotik",
+        "MIKROTIK | PRINTER"
+    ],
+    "1363": [
+        " darren stephens mikrotik",
+        "MIKROTIK | CAM"
+    ],
+    "1364": [
+        " darren stephens mikrotik",
+        "MIKROTIK | COPIER"
+    ],
+    "1365": [
+        " darren stephens mikrotik",
+        "TEAM | SCANNER"
+    ],
+    "1366": [
+        " darren stephens mikrotik",
+        "TEAM | CAMERA"
+    ],
+    "1367": [
+        " darren stephens mikrotik",
+        "TEAM | ROUTER"
+    ],
+    "1368": [
+        " darren stephens mikrotik",
+        "TEAM | SWITCH"
+    ],
+    "1369": [
+        " darren stephens mikrotik",
+        "TEAM | GATEWAY"
+    ],
+    "1370": [
+        " darren stephens mikrotik",
+        "TEAM | PRINTER"
+    ],
+    "1371": [
+        " darren stephens mikrotik",
+        "TEAM | CAM"
+    ],
+    "1372": [
+        " darren stephens mikrotik",
+        "TEAM | COPIER"
+    ],
+    "1373": [
+        " darren stephens mikrotik",
+        "TEAM | MODEM"
+    ],
+    "1374": [
+        " darren stephens mikrotik",
+        "CISCO | SCANNER"
+    ],
+    "1375": [
+        " darren stephens mikrotik",
+        "CISCO | CAMERA"
+    ],
+    "1376": [
+        " darren stephens mikrotik",
+        "CISCO | ROUTER"
+    ],
+    "1377": [
+        " darren stephens mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "1378": [
+        " darren stephens mikrotik",
+        "CISCO | GATEWAY"
+    ],
+    "1379": [
+        " darren stephens mikrotik",
+        "CISCO | PRINTER"
+    ],
+    "1380": [
+        " darren stephens mikrotik",
+        "CISCO | CAM"
+    ],
+    "1381": [
+        " darren stephens mikrotik",
+        "CISCO | COPIER"
+    ],
+    "1382": [
+        " darren stephens mikrotik",
+        "CISCO | MODEM"
+    ],
+    "1383": [
+        " darren stephens mikrotik",
+        "INTEL | SCANNER"
+    ],
+    "1384": [
+        " darren stephens mikrotik",
+        "INTEL | CAMERA"
+    ],
+    "1385": [
+        " darren stephens mikrotik",
+        "INTEL | SWITCH"
+    ],
+    "1386": [
+        " darren stephens mikrotik",
+        "INTEL | PRINTER"
+    ],
+    "1387": [
+        " darren stephens mikrotik",
+        "INTEL | CAM"
+    ],
+    "1388": [
+        " darren stephens mikrotik",
+        "INTEL | COPIER"
+    ],
+    "1389": [
+        " darren stephens mikrotik",
+        "GLASS | SCANNER"
+    ],
+    "1390": [
+        " darren stephens mikrotik",
+        "GLASS | CAMERA"
+    ],
+    "1391": [
+        " darren stephens mikrotik",
+        "GLASS | ROUTER"
+    ],
+    "1392": [
+        " darren stephens mikrotik",
+        "GLASS | SWITCH"
+    ],
+    "1393": [
+        " darren stephens mikrotik",
+        "GLASS | GATEWAY"
+    ],
+    "1394": [
+        " darren stephens mikrotik",
+        "GLASS | PRINTER"
+    ],
+    "1395": [
+        " darren stephens mikrotik",
+        "GLASS | CAM"
+    ],
+    "1396": [
+        " darren stephens mikrotik",
+        "GLASS | COPIER"
+    ],
+    "1397": [
+        " darren stephens mikrotik",
+        "GLASS | MODEM"
+    ],
+    "1398": [
+        " darren stephens mikrotik",
+        "IBM | SCANNER"
+    ],
+    "1399": [
+        " darren stephens mikrotik",
+        "IBM | CAMERA"
+    ],
+    "1400": [
+        " darren stephens mikrotik",
+        "IBM | ROUTER"
+    ],
+    "1401": [
+        " darren stephens mikrotik",
+        "IBM | SWITCH"
+    ],
+    "1402": [
+        " darren stephens mikrotik",
+        "IBM | GATEWAY"
+    ],
+    "1403": [
+        " darren stephens mikrotik",
+        "IBM | PRINTER"
+    ],
+    "1404": [
+        " darren stephens mikrotik",
+        "IBM | CAM"
+    ],
+    "1405": [
+        " darren stephens mikrotik",
+        "IBM | COPIER"
+    ],
+    "1406": [
+        " darren stephens mikrotik",
+        "IBM | MODEM"
+    ],
+    "1407": [
+        " darren stephens mikrotik",
+        "MATRIX | SCANNER"
+    ],
+    "1408": [
+        " darren stephens mikrotik",
+        "MATRIX | CAMERA"
+    ],
+    "1409": [
+        " darren stephens mikrotik",
+        "MATRIX | ROUTER"
+    ],
+    "1410": [
+        " darren stephens mikrotik",
+        "MATRIX | SWITCH"
+    ],
+    "1411": [
+        " darren stephens mikrotik",
+        "MATRIX | GATEWAY"
+    ],
+    "1412": [
+        " darren stephens mikrotik",
+        "MATRIX | PRINTER"
+    ],
+    "1413": [
+        " darren stephens mikrotik",
+        "MATRIX | CAM"
+    ],
+    "1414": [
+        " darren stephens mikrotik",
+        "MATRIX | COPIER"
+    ],
+    "1415": [
+        " darren stephens mikrotik",
+        "MATRIX | MODEM"
+    ],
+    "1416": [
+        " darren stephens mikrotik",
+        "ELASTIC | SCANNER"
+    ],
+    "1417": [
+        " darren stephens mikrotik",
+        "ELASTIC | CAMERA"
+    ],
+    "1418": [
+        " darren stephens mikrotik",
+        "ELASTIC | ROUTER"
+    ],
+    "1419": [
+        " darren stephens mikrotik",
+        "ELASTIC | SWITCH"
+    ],
+    "1420": [
+        " darren stephens mikrotik",
+        "ELASTIC | PRINTER"
+    ],
+    "1421": [
+        " darren stephens mikrotik",
+        "ELASTIC | CAM"
+    ],
+    "1422": [
+        " darren stephens mikrotik",
+        "ELASTIC | COPIER"
+    ],
+    "1423": [
+        " darren stephens mikrotik",
+        "ELASTIC | MODEM"
+    ],
+    "1424": [
+        " darren stephens mikrotik",
+        "FREEBSD | SCANNER"
+    ],
+    "1425": [
+        " darren stephens mikrotik",
+        "FREEBSD | CAMERA"
+    ],
+    "1426": [
+        " darren stephens mikrotik",
+        "FREEBSD | ROUTER"
+    ],
+    "1427": [
+        " darren stephens mikrotik",
+        "FREEBSD | SWITCH"
+    ],
+    "1428": [
+        " darren stephens mikrotik",
+        "FREEBSD | GATEWAY"
+    ],
+    "1429": [
+        " darren stephens mikrotik",
+        "FREEBSD | PRINTER"
+    ],
+    "1430": [
+        " darren stephens mikrotik",
+        "FREEBSD | CAM"
+    ],
+    "1431": [
+        " darren stephens mikrotik",
+        "FREEBSD | COPIER"
+    ],
+    "1432": [
+        " darren stephens mikrotik",
+        "FREEBSD | MODEM"
+    ],
+    "1433": [
+        " darren stephens mikrotik",
+        "TESLA | SCANNER"
+    ],
+    "1434": [
+        " darren stephens mikrotik",
+        "TESLA | CAMERA"
+    ],
+    "1435": [
+        " darren stephens mikrotik",
+        "TESLA | ROUTER"
+    ],
+    "1436": [
+        " darren stephens mikrotik",
+        "TESLA | SWITCH"
+    ],
+    "1437": [
+        " darren stephens mikrotik",
+        "TESLA | PRINTER"
+    ],
+    "1438": [
+        " darren stephens mikrotik",
+        "TESLA | CAM"
+    ],
+    "1439": [
+        " darren stephens mikrotik",
+        "TESLA | COPIER"
+    ],
+    "1440": [
+        " darren stephens mikrotik",
+        "VARIABLE | SCANNER"
+    ],
+    "1441": [
+        " darren stephens mikrotik",
+        "VARIABLE | CAMERA"
+    ],
+    "1442": [
+        " darren stephens mikrotik",
+        "VARIABLE | ROUTER"
+    ],
+    "1443": [
+        " darren stephens mikrotik",
+        "VARIABLE | SWITCH"
+    ],
+    "1444": [
+        " darren stephens mikrotik",
+        "VARIABLE | GATEWAY"
+    ],
+    "1445": [
+        " darren stephens mikrotik",
+        "VARIABLE | PRINTER"
+    ],
+    "1446": [
+        " darren stephens mikrotik",
+        "VARIABLE | CAM"
+    ],
+    "1447": [
+        " darren stephens mikrotik",
+        "VARIABLE | COPIER"
+    ],
+    "1448": [
+        " darren stephens mikrotik",
+        "VARIABLE | MODEM"
+    ],
+    "1449": [
+        " darren stephens mikrotik",
+        "SAMSUNG | SCANNER"
+    ],
+    "1450": [
+        " darren stephens mikrotik",
+        "SAMSUNG | CAMERA"
+    ],
+    "1451": [
+        " darren stephens mikrotik",
+        "SAMSUNG | ROUTER"
+    ],
+    "1452": [
+        " darren stephens mikrotik",
+        "SAMSUNG | SWITCH"
+    ],
+    "1453": [
+        " darren stephens mikrotik",
+        "SAMSUNG | GATEWAY"
+    ],
+    "1454": [
+        " darren stephens mikrotik",
+        "SAMSUNG | PRINTER"
+    ],
+    "1455": [
+        " darren stephens mikrotik",
+        "SAMSUNG | CAM"
+    ],
+    "1456": [
+        " darren stephens mikrotik",
+        "SAMSUNG | COPIER"
+    ],
+    "1457": [
+        " darren stephens mikrotik",
+        "SAMSUNG | MODEM"
+    ],
+    "1458": [
+        " darren stephens mikrotik",
+        "ZONES | SCANNER"
+    ],
+    "1459": [
+        " darren stephens mikrotik",
+        "ZONES | CAMERA"
+    ],
+    "1460": [
+        " darren stephens mikrotik",
+        "ZONES | ROUTER"
+    ],
+    "1461": [
+        " darren stephens mikrotik",
+        "ZONES | SWITCH"
+    ],
+    "1462": [
+        " darren stephens mikrotik",
+        "ZONES | PRINTER"
+    ],
+    "1463": [
+        " darren stephens mikrotik",
+        "ZONES | CAM"
+    ],
+    "1464": [
+        " darren stephens mikrotik",
+        "ZONES | COPIER"
+    ],
+    "1465": [
+        " darren stephens mikrotik",
+        "ZONES | MODEM"
+    ],
+    "1466": [
+        " darren stephens mikrotik",
+        "WEISS | SCANNER"
+    ],
+    "1467": [
+        " darren stephens mikrotik",
+        "WEISS | CAMERA"
+    ],
+    "1468": [
+        " darren stephens mikrotik",
+        "WEISS | ROUTER"
+    ],
+    "1469": [
+        " darren stephens mikrotik",
+        "WEISS | SWITCH"
+    ],
+    "1470": [
+        " darren stephens mikrotik",
+        "WEISS | PRINTER"
+    ],
+    "1471": [
+        " darren stephens mikrotik",
+        "WEISS | CAM"
+    ],
+    "1472": [
+        " darren stephens mikrotik",
+        "WEISS | COPIER"
+    ],
+    "1473": [
+        " darren stephens mikrotik",
+        "WEISS | MODEM"
+    ],
+    "1474": [
+        " darren stephens mikrotik",
+        "AUTODESK | PRINTER"
+    ],
+    "1475": [
+        " darren stephens mikrotik",
+        "AUTODESK | CAM"
+    ],
+    "1476": [
+        " darren stephens mikrotik",
+        "AUTODESK | COPIER"
+    ],
+    "1477": [
+        " darren stephens mikrotik",
+        "ARENA | CAMERA"
+    ],
+    "1478": [
+        " darren stephens mikrotik",
+        "ARENA | PRINTER"
+    ],
+    "1479": [
+        " darren stephens mikrotik",
+        "ARENA | CAM"
+    ],
+    "1480": [
+        " darren stephens mikrotik",
+        "ARENA | COPIER"
+    ],
+    "1481": [
+        " darren stephens mikrotik",
+        "DELPHI | SCANNER"
+    ],
+    "1482": [
+        " darren stephens mikrotik",
+        "DELPHI | CAMERA"
+    ],
+    "1483": [
+        " darren stephens mikrotik",
+        "DELPHI | ROUTER"
+    ],
+    "1484": [
+        " darren stephens mikrotik",
+        "DELPHI | SWITCH"
+    ],
+    "1485": [
+        " darren stephens mikrotik",
+        "DELPHI | PRINTER"
+    ],
+    "1486": [
+        " darren stephens mikrotik",
+        "DELPHI | CAM"
+    ],
+    "1487": [
+        " darren stephens mikrotik",
+        "DELPHI | COPIER"
+    ],
+    "1488": [
+        " darren stephens mikrotik",
+        "DELPHI | MODEM"
+    ],
+    "1489": [
+        " darren stephens mikrotik",
+        "ORANGE | SCANNER"
+    ],
+    "1490": [
+        " darren stephens mikrotik",
+        "ORANGE | CAMERA"
+    ],
+    "1491": [
+        " darren stephens mikrotik",
+        "ORANGE | ROUTER"
+    ],
+    "1492": [
+        " darren stephens mikrotik",
+        "ORANGE | SWITCH"
+    ],
+    "1493": [
+        " darren stephens mikrotik",
+        "ORANGE | PRINTER"
+    ],
+    "1494": [
+        " darren stephens mikrotik",
+        "ORANGE | CAM"
+    ],
+    "1495": [
+        " darren stephens mikrotik",
+        "ORANGE | COPIER"
+    ],
+    "1496": [
+        " darren stephens mikrotik",
+        "ORANGE | MODEM"
+    ],
+    "1497": [
+        " darren stephens mikrotik",
+        "ABB | SCANNER"
+    ],
+    "1498": [
+        " darren stephens mikrotik",
+        "ABB | CAMERA"
+    ],
+    "1499": [
+        " darren stephens mikrotik",
+        "ABB | ROUTER"
+    ],
+    "1500": [
+        " darren stephens mikrotik",
+        "ABB | SWITCH"
+    ],
+    "1501": [
+        " darren stephens mikrotik",
+        "ABB | PRINTER"
+    ],
+    "1502": [
+        " darren stephens mikrotik",
+        "ABB | CAM"
+    ],
+    "1503": [
+        " darren stephens mikrotik",
+        "ABB | COPIER"
+    ],
+    "1504": [
+        " darren stephens mikrotik",
+        "ABB | MODEM"
+    ],
+    "1505": [
+        " darren stephens mikrotik",
+        "HONEYWELL | SCANNER"
+    ],
+    "1506": [
+        " darren stephens mikrotik",
+        "HONEYWELL | CAMERA"
+    ],
+    "1507": [
+        " darren stephens mikrotik",
+        "HONEYWELL | ROUTER"
+    ],
+    "1508": [
+        " darren stephens mikrotik",
+        "HONEYWELL | SWITCH"
+    ],
+    "1509": [
+        " darren stephens mikrotik",
+        "HONEYWELL | PRINTER"
+    ],
+    "1510": [
+        " darren stephens mikrotik",
+        "HONEYWELL | CAM"
+    ],
+    "1511": [
+        " darren stephens mikrotik",
+        "HONEYWELL | COPIER"
+    ],
+    "1512": [
+        " darren stephens mikrotik",
+        "RTI | CAMERA"
+    ],
+    "1513": [
+        " darren stephens mikrotik",
+        "RTI | PRINTER"
+    ],
+    "1514": [
+        " darren stephens mikrotik",
+        "RTI | CAM"
+    ],
+    "1515": [
+        " darren stephens mikrotik",
+        "RTI | COPIER"
+    ],
+    "1516": [
+        " darren stephens mikrotik",
+        "SHARP | SCANNER"
+    ],
+    "1517": [
+        " darren stephens mikrotik",
+        "SHARP | CAMERA"
+    ],
+    "1518": [
+        " darren stephens mikrotik",
+        "SHARP | ROUTER"
+    ],
+    "1519": [
+        " darren stephens mikrotik",
+        "SHARP | SWITCH"
+    ],
+    "1520": [
+        " darren stephens mikrotik",
+        "SHARP | PRINTER"
+    ],
+    "1521": [
+        " darren stephens mikrotik",
+        "SHARP | CAM"
+    ],
+    "1522": [
+        " darren stephens mikrotik",
+        "SHARP | COPIER"
+    ],
+    "1523": [
+        " darren stephens mikrotik",
+        "SHARP | MODEM"
+    ],
+    "1524": [
+        " darren stephens mikrotik",
+        "SENSUS | SCANNER"
+    ],
+    "1525": [
+        " darren stephens mikrotik",
+        "SENSUS | CAMERA"
+    ],
+    "1526": [
+        " darren stephens mikrotik",
+        "SENSUS | ROUTER"
+    ],
+    "1527": [
+        " darren stephens mikrotik",
+        "SENSUS | SWITCH"
+    ],
+    "1528": [
+        " darren stephens mikrotik",
+        "SENSUS | GATEWAY"
+    ],
+    "1529": [
+        " darren stephens mikrotik",
+        "SENSUS | PRINTER"
+    ],
+    "1530": [
+        " darren stephens mikrotik",
+        "SENSUS | CAM"
+    ],
+    "1531": [
+        " darren stephens mikrotik",
+        "SENSUS | COPIER"
+    ],
+    "1532": [
+        " darren stephens mikrotik",
+        "SENSUS | MODEM"
+    ],
+    "1533": [
+        " darren stephens mikrotik",
+        "EMERSON | CAMERA"
+    ],
+    "1534": [
+        " darren stephens mikrotik",
+        "EMERSON | PRINTER"
+    ],
+    "1535": [
+        " darren stephens mikrotik",
+        "EMERSON | CAM"
+    ],
+    "1536": [
+        " darren stephens mikrotik",
+        "EMERSON | COPIER"
+    ],
+    "1537": [
+        " darren stephens mikrotik",
+        "BOSCH | SCANNER"
+    ],
+    "1538": [
+        " darren stephens mikrotik",
+        "BOSCH | CAMERA"
+    ],
+    "1539": [
+        " darren stephens mikrotik",
+        "BOSCH | ROUTER"
+    ],
+    "1540": [
+        " darren stephens mikrotik",
+        "BOSCH | SWITCH"
+    ],
+    "1541": [
+        " darren stephens mikrotik",
+        "BOSCH | PRINTER"
+    ],
+    "1542": [
+        " darren stephens mikrotik",
+        "BOSCH | CAM"
+    ],
+    "1543": [
+        " darren stephens mikrotik",
+        "BOSCH | COPIER"
+    ],
+    "1544": [
+        " darren stephens mikrotik",
+        "BOSCH | MODEM"
+    ],
+    "1545": [
+        " darren stephens mikrotik",
+        "ARDUINO | CAMERA"
+    ],
+    "1546": [
+        " darren stephens mikrotik",
+        "ARDUINO | PRINTER"
+    ],
+    "1547": [
+        " darren stephens mikrotik",
+        "ARDUINO | CAM"
+    ],
+    "1548": [
+        " darren stephens mikrotik",
+        "ARDUINO | COPIER"
+    ],
+    "1549": [
+        " darren stephens mikrotik",
+        "ERICSSON | SCANNER"
+    ],
+    "1550": [
+        " darren stephens mikrotik",
+        "ERICSSON | CAMERA"
+    ],
+    "1551": [
+        " darren stephens mikrotik",
+        "ERICSSON | ROUTER"
+    ],
+    "1552": [
+        " darren stephens mikrotik",
+        "ERICSSON | SWITCH"
+    ],
+    "1553": [
+        " darren stephens mikrotik",
+        "ERICSSON | PRINTER"
+    ],
+    "1554": [
+        " darren stephens mikrotik",
+        "ERICSSON | CAM"
+    ],
+    "1555": [
+        " darren stephens mikrotik",
+        "ERICSSON | COPIER"
+    ],
+    "1556": [
+        " darren stephens mikrotik",
+        "ERICSSON | MODEM"
+    ],
+    "1557": [
+        " darren stephens mikrotik",
+        "BLACKBERRY | PRINTER"
+    ],
+    "1558": [
+        " darren stephens mikrotik",
+        "BLACKBERRY | CAM"
+    ],
+    "1559": [
+        " darren stephens mikrotik",
+        "BLACKBERRY | COPIER"
+    ],
+    "1560": [
+        " darren stephens mikrotik",
+        "INFORMATICA | PRINTER"
+    ],
+    "1561": [
+        " darren stephens mikrotik",
+        "INFORMATICA | CAM"
+    ],
+    "1562": [
+        " darren stephens mikrotik",
+        "EXACT | SCANNER"
+    ],
+    "1563": [
+        " darren stephens mikrotik",
+        "EXACT | CAMERA"
+    ],
+    "1564": [
+        " darren stephens mikrotik",
+        "EXACT | ROUTER"
+    ],
+    "1565": [
+        " darren stephens mikrotik",
+        "EXACT | SWITCH"
+    ],
+    "1566": [
+        " darren stephens mikrotik",
+        "EXACT | PRINTER"
+    ],
+    "1567": [
+        " darren stephens mikrotik",
+        "EXACT | CAM"
+    ],
+    "1568": [
+        " darren stephens mikrotik",
+        "EXACT | COPIER"
+    ],
+    "1569": [
+        " darren stephens mikrotik",
+        "EXACT | MODEM"
+    ],
+    "1570": [
+        " darren stephens mikrotik",
+        "MENDER | SCANNER"
+    ],
+    "1571": [
+        " darren stephens mikrotik",
+        "MENDER | CAMERA"
+    ],
+    "1572": [
+        " darren stephens mikrotik",
+        "MENDER | ROUTER"
+    ],
+    "1573": [
+        " darren stephens mikrotik",
+        "MENDER | SWITCH"
+    ],
+    "1574": [
+        " darren stephens mikrotik",
+        "MENDER | PRINTER"
+    ],
+    "1575": [
+        " darren stephens mikrotik",
+        "MENDER | CAM"
+    ],
+    "1576": [
+        " darren stephens mikrotik",
+        "MENDER | COPIER"
+    ],
+    "1577": [
+        " darren stephens mikrotik",
+        "MENDER | MODEM"
+    ],
+    "1578": [
+        " darren stephens mikrotik",
+        "PARTICLE | CAMERA"
+    ],
+    "1579": [
+        " darren stephens mikrotik",
+        "PARTICLE | PRINTER"
+    ],
+    "1580": [
+        " darren stephens mikrotik",
+        "PARTICLE | CAM"
+    ],
+    "1581": [
+        " darren stephens mikrotik",
+        "PARTICLE | COPIER"
+    ],
+    "1582": [
+        " darren stephens mikrotik",
+        "AIRTEL | SCANNER"
+    ],
+    "1583": [
+        " darren stephens mikrotik",
+        "AIRTEL | CAMERA"
+    ],
+    "1584": [
+        " darren stephens mikrotik",
+        "AIRTEL | ROUTER"
+    ],
+    "1585": [
+        " darren stephens mikrotik",
+        "AIRTEL | SWITCH"
+    ],
+    "1586": [
+        " darren stephens mikrotik",
+        "AIRTEL | PRINTER"
+    ],
+    "1587": [
+        " darren stephens mikrotik",
+        "AIRTEL | CAM"
+    ],
+    "1588": [
+        " darren stephens mikrotik",
+        "AIRTEL | COPIER"
+    ],
+    "1589": [
+        " darren stephens mikrotik",
+        "AIRTEL | MODEM"
+    ],
+    "1590": [
+        " darren stephens mikrotik",
+        "BROTHER | SCANNER"
+    ],
+    "1591": [
+        " darren stephens mikrotik",
+        "BROTHER | CAMERA"
+    ],
+    "1592": [
+        " darren stephens mikrotik",
+        "BROTHER | ROUTER"
+    ],
+    "1593": [
+        " darren stephens mikrotik",
+        "BROTHER | SWITCH"
+    ],
+    "1594": [
+        " darren stephens mikrotik",
+        "BROTHER | PRINTER"
+    ],
+    "1595": [
+        " darren stephens mikrotik",
+        "BROTHER | CAM"
+    ],
+    "1596": [
+        " darren stephens mikrotik",
+        "BROTHER | COPIER"
+    ],
+    "1597": [
+        " darren stephens mikrotik",
+        "BROTHER | MODEM"
+    ],
+    "1598": [
+        " darren stephens mikrotik",
+        "COGNITION | SCANNER"
+    ],
+    "1599": [
+        " darren stephens mikrotik",
+        "COGNITION | CAMERA"
+    ],
+    "1600": [
+        " darren stephens mikrotik",
+        "COGNITION | ROUTER"
+    ],
+    "1601": [
+        " darren stephens mikrotik",
+        "COGNITION | SWITCH"
+    ],
+    "1602": [
+        " darren stephens mikrotik",
+        "COGNITION | PRINTER"
+    ],
+    "1603": [
+        " darren stephens mikrotik",
+        "COGNITION | CAM"
+    ],
+    "1604": [
+        " darren stephens mikrotik",
+        "COGNITION | COPIER"
+    ],
+    "1605": [
+        " darren stephens mikrotik",
+        "COGNITION | MODEM"
+    ],
+    "1606": [
+        " darren stephens mikrotik",
+        "CONVERGE | CAMERA"
+    ],
+    "1607": [
+        " darren stephens mikrotik",
+        "CONVERGE | PRINTER"
+    ],
+    "1608": [
+        " darren stephens mikrotik",
+        "CONVERGE | CAM"
+    ],
+    "1609": [
+        " darren stephens mikrotik",
+        "CONVERGE | COPIER"
+    ],
+    "1610": [
+        " darren stephens mikrotik",
+        "HELIUM | PRINTER"
+    ],
+    "1611": [
+        " darren stephens mikrotik",
+        "HELIUM | CAM"
+    ],
+    "1612": [
+        " darren stephens mikrotik",
+        "IDM | SCANNER"
+    ],
+    "1613": [
+        " darren stephens mikrotik",
+        "IDM | CAMERA"
+    ],
+    "1614": [
+        " darren stephens mikrotik",
+        "IDM | SWITCH"
+    ],
+    "1615": [
+        " darren stephens mikrotik",
+        "IDM | PRINTER"
+    ],
+    "1616": [
+        " darren stephens mikrotik",
+        "IDM | CAM"
+    ],
+    "1617": [
+        " darren stephens mikrotik",
+        "IDM | COPIER"
+    ],
+    "1618": [
+        " darren stephens mikrotik",
+        "KEB | SCANNER"
+    ],
+    "1619": [
+        " darren stephens mikrotik",
+        "KEB | CAMERA"
+    ],
+    "1620": [
+        " darren stephens mikrotik",
+        "KEB | ROUTER"
+    ],
+    "1621": [
+        " darren stephens mikrotik",
+        "KEB | SWITCH"
+    ],
+    "1622": [
+        " darren stephens mikrotik",
+        "KEB | PRINTER"
+    ],
+    "1623": [
+        " darren stephens mikrotik",
+        "KEB | CAM"
+    ],
+    "1624": [
+        " darren stephens mikrotik",
+        "KEB | COPIER"
+    ],
+    "1625": [
+        " darren stephens mikrotik",
+        "KEB | MODEM"
+    ],
+    "1626": [
+        " darren stephens mikrotik",
+        "LAIRD | SCANNER"
+    ],
+    "1627": [
+        " darren stephens mikrotik",
+        "LAIRD | CAMERA"
+    ],
+    "1628": [
+        " darren stephens mikrotik",
+        "LAIRD | ROUTER"
+    ],
+    "1629": [
+        " darren stephens mikrotik",
+        "LAIRD | SWITCH"
+    ],
+    "1630": [
+        " darren stephens mikrotik",
+        "LAIRD | PRINTER"
+    ],
+    "1631": [
+        " darren stephens mikrotik",
+        "LAIRD | CAM"
+    ],
+    "1632": [
+        " darren stephens mikrotik",
+        "LAIRD | COPIER"
+    ],
+    "1633": [
+        " darren stephens mikrotik",
+        "LAIRD | MODEM"
+    ],
+    "1634": [
+        " darren stephens mikrotik",
+        "LIDAR | PRINTER"
+    ],
+    "1635": [
+        " darren stephens mikrotik",
+        "LIDAR | CAM"
+    ],
+    "1636": [
+        " darren stephens mikrotik",
+        "NOKIA | CAMERA"
+    ],
+    "1637": [
+        " darren stephens mikrotik",
+        "NOKIA | PRINTER"
+    ],
+    "1638": [
+        " darren stephens mikrotik",
+        "NOKIA | CAM"
+    ],
+    "1639": [
+        " darren stephens mikrotik",
+        "NOKIA | COPIER"
+    ],
+    "1640": [
+        " darren stephens mikrotik",
+        "SENECA | SCANNER"
+    ],
+    "1641": [
+        " darren stephens mikrotik",
+        "SENECA | CAMERA"
+    ],
+    "1642": [
+        " darren stephens mikrotik",
+        "SENECA | SWITCH"
+    ],
+    "1643": [
+        " darren stephens mikrotik",
+        "SENECA | PRINTER"
+    ],
+    "1644": [
+        " darren stephens mikrotik",
+        "SENECA | CAM"
+    ],
+    "1645": [
+        " darren stephens mikrotik",
+        "SENECA | COPIER"
+    ],
+    "1646": [
+        " darren stephens mikrotik",
+        "THOUGHTWORKS | SCANNER"
+    ],
+    "1647": [
+        " darren stephens mikrotik",
+        "THOUGHTWORKS | CAMERA"
+    ],
+    "1648": [
+        " darren stephens mikrotik",
+        "THOUGHTWORKS | SWITCH"
+    ],
+    "1649": [
+        " darren stephens mikrotik",
+        "THOUGHTWORKS | PRINTER"
+    ],
+    "1650": [
+        " darren stephens mikrotik",
+        "THOUGHTWORKS | CAM"
+    ],
+    "1651": [
+        " darren stephens mikrotik",
+        "THOUGHTWORKS | COPIER"
+    ],
+    "1652": [
+        " darren stephens mikrotik",
+        "VERNA | CAMERA"
+    ],
+    "1653": [
+        " darren stephens mikrotik",
+        "VERNA | SWITCH"
+    ],
+    "1654": [
+        " darren stephens mikrotik",
+        "VERNA | PRINTER"
+    ],
+    "1655": [
+        " darren stephens mikrotik",
+        "VERNA | CAM"
+    ],
+    "1656": [
+        " darren stephens mikrotik",
+        "VERNA | COPIER"
+    ],
+    "1657": [
+        " darren stephens mikrotik",
+        "BERG | SCANNER"
+    ],
+    "1658": [
+        " darren stephens mikrotik",
+        "BERG | CAMERA"
+    ],
+    "1659": [
+        " darren stephens mikrotik",
+        "BERG | SWITCH"
+    ],
+    "1660": [
+        " darren stephens mikrotik",
+        "BERG | PRINTER"
+    ],
+    "1661": [
+        " darren stephens mikrotik",
+        "BERG | CAM"
+    ],
+    "1662": [
+        " darren stephens mikrotik",
+        "BERG | COPIER"
+    ],
+    "1663": [
+        " dualbandacv8 mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "1664": [
+        " stomonetzi mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "1665": [
+        " asus rt-ac1200hp",
+        "ASUS | ROUTER"
+    ],
+    "1666": [
+        " motsins-rout11 mikrotik",
+        "VARIABLE | CAM"
+    ],
+    "1667": [
+        " motsins-rout11 mikrotik",
+        "NETGEAR | SWITCHES"
+    ],
+    "1668": [
+        " schubert mikrotik",
+        "CISCO | ROUTER | CVR100W"
+    ],
+    "1669": [
+        " schubert mikrotik",
+        "CISCO | SWITCHES"
+    ],
+    "1670": [
+        " schubert mikrotik",
+        "CISCO | SWITCH"
+    ],
+    "1671": [
+        " schubert mikrotik",
+        "NETGEAR | ROUTER | R7000"
+    ],
+    "1672": [
+        " schubert mikrotik",
+        "MIKROTIK | ROUTER | RBwAPR-2nD"
+    ],
+    "1673": [
+        " schubert mikrotik",
+        "HUAWEI | ROUTER | HG532"
+    ],
+    "1674": [
+        " schubert mikrotik",
+        "ASUS | ROUTER | MT7620"
+    ],
+    "1675": [
+        " schubert mikrotik",
+        "VERIZON | ROUTER | G1100"
+    ],
+    "1676": [
+        " schubert mikrotik",
+        "VERIZON | GATEWAY | G1100"
+    ],
+    "1677": [
+        " schubert mikrotik",
+        "ZTE | ROUTER"
+    ],
+    "1678": [
+        " schubert mikrotik",
+        "ADB | MODEM"
+    ],
+    "1679": [
+        " schubert mikrotik",
+        "MEDIATEK | ROUTER | MT7620"
+    ],
+    "1680": [
+        " schubert mikrotik",
+        "TPLINK | ROUTER | WR740N"
+    ],
+    "1681": [
+        " schubert mikrotik",
+        "EXACT | ROUTER | WR740N"
+    ],
+    "1682": [
+        " karine mikrotik",
+        "MIKROTIK | ROUTER | rb1100ahx4"
+    ],
+    "1683": [
+        " cisco cp cisco cp cisco ios cli cisco ios",
+        "CISCO | ROUTER | cpconfig-8xx.cfg"
+    ],
+    "1684": [
+        " cisco cp cisco cp cisco ios cli cisco ios",
+        "CISCO | SWITCH"
+    ],
+    "1685": [
+        " lancom lancom",
+        "NETGEAR | SWITCH | GS308T"
+    ],
+    "1686": [
+        " router sdm sdm ios cisco ios sdm router",
+        "CISCO | ROUTER | WS-C3750X"
+    ],
+    "1687": [
+        " router sdm sdm ios cisco ios sdm router",
+        "CISCO | SWITCH | WS-C3750X"
+    ],
+    "1688": [
+        " router sdm sdm ios cisco ios sdm router",
+        "CISCO | SWITCHES | WS-C3750X"
+    ],
+    "1689": [
+        " backhaulgt01 quanttum ku",
+        "ASUS | ROUTER"
+    ],
+    "1690": [
+        " team",
+        " team"
+    ],
+    "1691": [
+        " dispositivo esta destinado el uso de actividad por tanto si usted tiene autorizacion accesar este dispositivo esta destinado el uso de actividad monit",
+        "CISCO | ROUTER"
+    ],
+    "1692": [
+        " dispositivo esta destinado el uso de actividad por tanto si usted tiene autorizacion accesar este dispositivo esta destinado el uso de actividad monit",
+        "CISCO | SWITCHES | SE02"
+    ],
+    "1693": [
+        " router",
+        " router"
+    ],
+    "1694": [
+        " accedido un sistema propiedad de necesita tener autorizacion de estando usted estrictamente limitado al uso indicado dicha el acceso autorizado este sistema el uso indebido del mismo esta prohibido contrario politica corporativa de seguridad legislacion si usted revela informacion interna de telefonica de sus clientes previa autorizacion podra estar incurriendo una violacion de normativa que podria incluso suponer posible comision de un delito autenticacion mediante laboratorios acce",
+        "CISCO | ROUTER"
+    ],
+    "1695": [
+        " cisco cp cisco cp cisco ios cli cisco ios cisco cp router",
+        "CISCO | ROUTER | Layer-4"
+    ],
+    "1696": [
+        " permitido uso somente pessoas autorizadas utilizacao indevida ou operacao que exceda nivel de autorizacao sujeita",
+        "CISCO | ROUTER"
+    ],
+    "1697": [
+        " router sdm sdm ios cisco ios",
+        "CISCO | ROUTER | ps5318"
+    ],
+    "1698": [
+        " router sdm sdm ios cisco ios",
+        "CISCO | SWITCHES | WS-C3750X"
+    ],
+    "1699": [
+        " consejo de judicatura el acceso este equipo de comunicaciones se encuentra restringido todos los accesos se encuentran registrados monitoreados las cualquier acceso autorizado representa un acto ilicito que repercutira acciones juridicas",
+        "CISCO | ROUTER | ps5318"
+    ],
+    "1700": [
+        " consejo de judicatura el acceso este equipo de comunicaciones se encuentra restringido todos los accesos se encuentran registrados monitoreados las cualquier acceso autorizado representa un acto ilicito que repercutira acciones juridicas",
+        "CISCO | SWITCHES | WS-C3750X"
+    ],
+    "1701": [
+        " ponpes darunnahdlah ap02 mikrotik",
+        "MIKROTIK | ROUTER | lmm59"
+    ],
+    "1702": [
+        " cctv mikrotik",
+        "MIKROTIK | DVR"
+    ],
+    "1703": [
+        " cctv mikrotik",
+        "MIKROTIK | CAMERA | CMS2000"
+    ],
+    "1704": [
+        " cctv mikrotik",
+        "MIKROTIK | ROUTER | P2P"
+    ],
+    "1705": [
+        " cctv mikrotik",
+        "MIKROTIK | CAM | CMS2000"
+    ],
+    "1706": [
+        " cctv mikrotik",
+        "ROUTERBOARD | DVR"
+    ],
+    "1707": [
+        " cctv mikrotik",
+        "HIKVISION | CAMERA | amarxon26"
+    ],
+    "1708": [
+        " yad mikrotik",
+        "MIKROTIK | ROUTER | SRP1Pencarian"
+    ],
+    "1709": [
+        " yad mikrotik",
+        "ASUS | ROUTER | SRP1Pencarian"
+    ],
+    "1710": [
+        " yad mikrotik",
+        "NETGEAR | ROUTER | SRP1Pencarian"
+    ],
+    "1711": [
+        " yad mikrotik",
+        "NVIDIA | MODEM | M2MicroSD"
+    ],
+    "1712": [
+        " yad mikrotik",
+        "NVIDIA | SWITCH | M2MicroSD"
+    ],
+    "1713": [
+        " estefania valderrama garcia mikrotik",
+        "MIKROTIK | ROUTER | RB951"
+    ],
+    "1714": [
+        " estefania valderrama garcia mikrotik",
+        "MIKROTIK | SWITCH | v3"
+    ],
+    "1715": [
+        " estefania valderrama garcia mikrotik",
+        "MIKROTIK | SWITCHES | v3"
+    ],
+    "1716": [
+        " estefania valderrama garcia mikrotik",
+        "MIKROTIK | CAMERA"
+    ],
+    "1717": [
+        " estefania valderrama garcia mikrotik",
+        "DELL | SWITCHES"
+    ],
+    "1718": [
+        " estefania valderrama garcia mikrotik",
+        "NETGEAR | SWITCH | v3"
+    ],
+    "1719": [
+        " lyudovik mikrotik",
+        "MIKROTIK | ROUTER | RB1100"
+    ],
+    "1720": [
+        " lyudovik mikrotik",
+        "MIKROTIK | SWITCH | rb433ah"
+    ],
+    "1721": [
+        " lyudovik mikrotik",
+        "ROUTERBOARD | ROUTER"
+    ],
+    "1722": [
+        " lyudovik mikrotik",
+        "NETGEAR | ROUTER"
+    ],
+    "1723": [
+        " skrzydlice 42a mikrotik",
+        "SAMSUNG | CAMERA | c20"
+    ],
+    "1724": [
+        " jakubec mikrotik",
+        "MICROSOFT | PRINTER | LEW-14979"
+    ],
+    "1725": [
+        " jakubec mikrotik",
+        "MIKROTIK | ROUTER | UiAS-2HnD"
+    ],
+    "1726": [
+        " jakubec mikrotik",
+        "IBM | PRINTER | LEW-14979"
+    ],
+    "1727": [
+        " et0021b76eed6e dell b5460dn printer",
+        "DELL | PRINTER | B5460dn"
+    ],
+    "1728": [
+        " bruce mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "1729": [
+        " bruce mikrotik",
+        "MIKROTIK | SWITCH | x86"
+    ],
+    "1730": [
+        " bruce mikrotik",
+        "CISCO | ROUTER | L2"
+    ],
+    "1731": [
+        " bruce mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "1732": [
+        " bruce mikrotik",
+        "ASUS | ROUTER"
+    ],
+    "1733": [
+        " ibn mikrotik",
+        "MIKROTIK | ROUTER | In103"
+    ],
+    "1734": [
+        " ibn mikrotik",
+        "MIKROTIK | SWITCH | In103"
+    ],
+    "1735": [
+        " ibn mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1736": [
+        " ibn mikrotik",
+        "CISCO | ROUTER | In103"
+    ],
+    "1737": [
+        " ibn mikrotik",
+        "CISCO | SWITCH | In103"
+    ],
+    "1738": [
+        " ibn mikrotik",
+        "CISCO | GATEWAY"
+    ],
+    "1739": [
+        " asus r7000",
+        "NETGEAR | ROUTER | R7000"
+    ],
+    "1740": [
+        " asus r7000",
+        "NETGEAR | MODEM | CM1150V"
+    ],
+    "1741": [
+        " asus r7000",
+        "ASUS | ROUTER | R7000"
+    ],
+    "1742": [
+        " asus r7000",
+        "ASUS | MODEM"
+    ],
+    "1743": [
+        " benoit mikrotik",
+        "MIKROTIK | ROUTER | MVC640How"
+    ],
+    "1744": [
+        " benoit mikrotik",
+        "MIKROTIK | SWITCH | counters-1How"
+    ],
+    "1745": [
+        " benoit mikrotik",
+        "MIKROTIK | GATEWAY | MVC640How"
+    ],
+    "1746": [
+        " calle mikrotik",
+        "MIKROTIK | ROUTER | RB-750"
+    ],
+    "1747": [
+        " solucoes mikrotik",
+        "MIKROTIK | ROUTER | IPv6"
+    ],
+    "1748": [
+        " solucoes mikrotik",
+        "ROUTERBOARD | ROUTER | X86"
+    ],
+    "1749": [
+        " cid-14126 llc mikrotik",
+        "MIKROTIK | ROUTER"
+    ],
+    "1750": [
+        " cid-14126 llc mikrotik",
+        "MIKROTIK | SWITCHES"
+    ],
+    "1751": [
+        " allworx",
+        " allworx"
+    ],
+    "1752": [
+        " asus dsl-ac56u",
+        "ASUS | ROUTER | DSL-AC56U"
+    ],
+    "1753": [
+        " asus dsl-ac56u",
+        "ASUS | MODEM | DSL-AC56U"
+    ],
+    "1754": [
+        " asus dsl-ac56u",
+        "NETGEAR | ROUTER | AC1900"
+    ],
+    "1755": [
+        " asus dsl-ac56u",
+        "NETGEAR | MODEM | AC1900"
+    ],
+    "1756": [
+        " asus dsl-ac56u",
+        "SAMSUNG | PRINTER"
+    ],
+    "1757": [
+        " asus dsl-ac56u",
+        "EPSON | PRINTER"
+    ],
+    "1758": [
+        " asus dsl-ac56u",
+        "BROTHER | PRINTER"
+    ],
+    "1759": [
+        " asus dsl-ac56u",
+        "STAR | ROUTER | ADSL2"
+    ],
+    "1760": [
+        " kzc mikrotik",
+        "MIKROTIK | SWITCH"
+    ],
+    "1761": [
+        " cpe mk pmmrn defesa mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "1762": [
+        " cpe mk pmmrn defesa mikrotik",
+        "MIKROTIK | GATEWAY"
+    ],
+    "1763": [
+        " cpe mk pmmrn defesa mikrotik",
+        "MIKROTIK | SWITCHES"
+    ]
+}

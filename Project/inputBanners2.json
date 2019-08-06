@@ -1,235 +1,235 @@
 {
     "0": {
         "ip": "210.56.10.162",
-        "banner": "220 Chawala-MikroTik Proxy FTP server (MikroTik 5.20) ready\r\n"
+        "banner": "220 Chawala-MikroTik Proxy FTP server (MikroTik 5.20) ready\n"
     },
     "1": {
         "ip": "138.75.134.160",
-        "banner": "220 Welcome to ASUS RT-AC56U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC56U FTP service.\n"
     },
     "2": {
         "ip": "171.244.166.22",
-        "banner": "220 R2_G,H,V,B FTP server (MikroTik 6.42.7) ready\r\n"
+        "banner": "220 R2_G,H,V,B FTP server (MikroTik 6.42.7) ready\n"
     },
     "3": {
         "ip": "36.92.44.227",
-        "banner": "220 PONPES DARUNNAHDLAH AP02 FTP server (MikroTik 6.44.3) ready\r\n"
+        "banner": "220 PONPES DARUNNAHDLAH AP02 FTP server (MikroTik 6.44.3) ready\n"
     },
     "4": {
         "ip": "203.80.235.14",
-        "banner": "220 DiskStation FTP server ready.\r\n"
+        "banner": "220 DiskStation FTP server ready.\n"
     },
     "5": {
         "ip": "36.89.183.61",
-        "banner": "220 SDN_CB_15PAGI FTP server (MikroTik 6.39.3) ready\r\n"
+        "banner": "220 SDN_CB_15PAGI FTP server (MikroTik 6.39.3) ready\n"
     },
     "6": {
         "ip": "58.10.108.61",
-        "banner": "220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)\r\n"
+        "banner": "220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)\n"
     },
     "7": {
         "ip": "113.160.154.52",
-        "banner": "220 FTP version 1.0\r\n"
+        "banner": "220 FTP version 1.0\n"
     },
     "8": {
         "ip": "103.21.77.45",
-        "banner": "220 MikroTik FTP server (MikroTik 6.36.4) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.36.4) ready\n"
     },
     "9": {
         "ip": "58.176.123.59",
-        "banner": "220 Welcome to ASUS RT-AC55UHP FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC55UHP FTP service.\n"
     },
     "10": {
         "ip": "62.146.84.254",
-        "banner": "220 AP7922 Network Management Card AOS v3.7.3 FTP server ready.\r\n"
+        "banner": "220 AP7922 Network Management Card AOS v3.7.3 FTP server ready.\n"
     },
     "11": {
         "ip": "5.51.39.175",
-        "banner": "220 media FTP server ready.\r\n"
+        "banner": "220 media FTP server ready.\n"
     },
     "12": {
         "ip": "202.79.29.148",
-        "banner": "220 MikroTik FTP server (MikroTik 6.39.3) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.39.3) ready\n"
     },
     "13": {
         "ip": "163.21.206.75",
-        "banner": "220 PhotoStation FTP server ready.\r\n"
+        "banner": "220 PhotoStation FTP server ready.\n"
     },
     "14": {
         "ip": "84.8.19.65",
-        "banner": "550 Permission denied ,please check access control list\r\n"
+        "banner": "550 Permission denied ,please check access control list\n"
     },
     "15": {
         "ip": "212.115.199.26",
-        "banner": "220 AXIS P3367 Fixed Dome Network Camera 6.10.1 (2016) ready.\r\n"
+        "banner": "220 AXIS P3367 Fixed Dome Network Camera 6.10.1 (2016) ready.\n"
     },
     "16": {
         "ip": "103.115.164.125",
-        "banner": "220 CCTV Server FTP server (MikroTik 6.44.1) ready\r\n"
+        "banner": "220 CCTV Server FTP server (MikroTik 6.44.1) ready\n"
     },
     "17": {
         "ip": "185.167.210.70",
-        "banner": "220 MikroTik FTP server (MikroTik 6.43.2) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.43.2) ready\n"
     },
     "18": {
         "ip": "93.174.94.54",
-        "banner": "220 MikroTik FTP server (MikroTik 6.43.4) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.43.4) ready\n"
     },
     "19": {
         "ip": "51.7.184.237",
-        "banner": "220 \"Welcome to MyBookLive\"\r\n"
+        "banner": "220 \"Welcome to MyBookLive\"\n"
     },
     "20": {
         "ip": "88.156.242.86",
-        "banner": "220 Welcome to ASUS RT-AC51U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC51U FTP service.\n"
     },
     "21": {
         "ip": "80.14.15.41",
-        "banner": "220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.1.30]\r\n"
+        "banner": "220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.1.30]\n"
     },
     "22": {
         "ip": "62.176.116.60",
-        "banner": "220 MikroTik FTP server (MikroTik 5.26) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 5.26) ready\n"
     },
     "23": {
         "ip": "193.59.72.118",
-        "banner": "220 MikroTik_TB FTP server (MikroTik 6.42.3) ready\r\n"
+        "banner": "220 MikroTik_TB FTP server (MikroTik 6.42.3) ready\n"
     },
     "24": {
         "ip": "85.93.247.25",
-        "banner": "220 FTP Server (ZyWALL 110) [::ffff:85.93.247.25]\r\n"
+        "banner": "220 FTP Server (ZyWALL 110) [::ffff:85.93.247.25]\n"
     },
     "25": {
         "ip": "180.250.188.26",
-        "banner": "220 MikroTik FTP server (MikroTik 5.14) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 5.14) ready\n"
     },
     "26": {
         "ip": "87.79.236.208",
-        "banner": "220 ON_AIR_TV FTP server ready.\r\n"
+        "banner": "220 ON_AIR_TV FTP server ready.\n"
     },
     "27": {
         "ip": "85.228.17.201",
-        "banner": "220 Welcome to ASUS RT-AC66U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC66U FTP service.\n"
     },
     "28": {
         "ip": "95.211.187.251",
-        "banner": "220 AP8959EU3 Network Management Card AOS v5.1.4 FTP server ready.\r\n"
+        "banner": "220 AP8959EU3 Network Management Card AOS v5.1.4 FTP server ready.\n"
     },
     "29": {
         "ip": "188.240.25.81",
-        "banner": "220 FRITZ!BoxFonWLAN7360 FTP server ready.\r\n"
+        "banner": "220 FRITZ!BoxFonWLAN7360 FTP server ready.\n"
     },
     "30": {
         "ip": "178.214.193.66",
-        "banner": "220 MikroGate14 FTP server (MikroTik 6.44) ready\r\n"
+        "banner": "220 MikroGate14 FTP server (MikroTik 6.44) ready\n"
     },
     "31": {
         "ip": "84.56.12.92",
-        "banner": "220 DSL-EasyBox 803 FTP Server v30.05.233 ready\r\n"
+        "banner": "220 DSL-EasyBox 803 FTP Server v30.05.233 ready\n"
     },
     "32": {
         "ip": "59.129.35.249",
-        "banner": "220 morosnas FTP server ready.\r\n"
+        "banner": "220 morosnas FTP server ready.\n"
     },
     "33": {
         "ip": "62.45.240.129",
-        "banner": "220 Welcome to ASUS RT-AC3200 FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC3200 FTP service.\n"
     },
     "34": {
         "ip": "80.76.93.90",
-        "banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [10.10.10.1]\r\n"
+        "banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [10.10.10.1]\n"
     },
     "35": {
         "ip": "62.45.225.196",
-        "banner": "220 FRITZ!BoxFonWLAN7390 FTP server ready.\r\n"
+        "banner": "220 FRITZ!BoxFonWLAN7390 FTP server ready.\n"
     },
     "36": {
         "ip": "188.194.12.220",
-        "banner": "220 FRITZ!Box6490Cable FTP server ready.\r\n"
+        "banner": "220 FRITZ!Box6490Cable FTP server ready.\n"
     },
     "37": {
         "ip": "185.95.228.1",
-        "banner": "220 yad FTP server (MikroTik 6.44.3) ready\r\n"
+        "banner": "220 yad FTP server (MikroTik 6.44.3) ready\n"
     },
     "38": {
         "ip": "178.176.141.179",
-        "banner": "220 AXIS Q6115-E PTZ Dome Network Camera 6.50.3 (2018) ready.\r\n"
+        "banner": "220 AXIS Q6115-E PTZ Dome Network Camera 6.50.3 (2018) ready.\n"
     },
     "39": {
         "ip": "210.240.144.64",
-        "banner": "220 RICOH Aficio MP C3502 FTP server (11.99) ready.\r\n"
+        "banner": "220 RICOH Aficio MP C3502 FTP server (11.99) ready.\n"
     },
     "40": {
         "ip": "176.119.135.32",
-        "banner": "220 Estefania Maria Valderrama Garcia FTP server (MikroTik 6.43.4) ready\r\n"
+        "banner": "220 Estefania Maria Valderrama Garcia FTP server (MikroTik 6.43.4) ready\n"
     },
     "41": {
         "ip": "93.80.239.226",
-        "banner": "220 Welcome to ASUS RT-N66U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-N66U FTP service.\n"
     },
     "42": {
         "ip": "163.53.83.188",
-        "banner": "220 MikroTik FTP server (MikroTik 6.40.8) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.40.8) ready\n"
     },
     "43": {
         "ip": "84.141.92.19",
-        "banner": "220 FRITZ!Box7490 FTP server ready.\r\n"
+        "banner": "220 FRITZ!Box7490 FTP server ready.\n"
     },
     "44": {
         "ip": "124.244.13.95",
-        "banner": "220 Winson_DS FTP server ready.\r\n"
+        "banner": "220 Winson_DS FTP server ready.\n"
     },
     "45": {
         "ip": "109.167.153.105",
-        "banner": "220 Welcome to ASUS RT-AC68U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC68U FTP service.\n"
     },
     "46": {
         "ip": "46.223.252.145",
-        "banner": "220 FRITZ!Box6360Cable(kbw) FTP server ready.\r\n"
+        "banner": "220 FRITZ!Box6360Cable(kbw) FTP server ready.\n"
     },
     "47": {
         "ip": "202.123.181.0",
-        "banner": "220-TiMOS-C-9.0.R6 cpm/hops ALCATEL SR 7750 Copyright (c) 2000-2011 Alcatel-Lucent.\r\n220-All rights reserved. All use subject to applicable license agreements.\r\n220-Built on Tue Sep 27 12:38:04 PDT 2011 by builder in /rel9.0/b1/R6/panos/main\r\n220-\r\n220-WARNING\r\n220 FTP server ready\r\n"
+        "banner": "220-TiMOS-C-9.0.R6 cpm/hops ALCATEL SR 7750 Copyright (c) 2000-2011 Alcatel-Lucent.\n220-All rights reserved. All use subject to applicable license agreements.\n220-Built on Tue Sep 27 12:38:04 PDT 2011 by builder in /rel9.0/b1/R6/panos/main\n220-\n220-WARNING\n220 FTP server ready\n"
     },
     "48": {
         "ip": "178.212.49.170",
-        "banner": "220 Globus_do_Radoszyna FTP server (MikroTik 6.43) ready\r\n"
+        "banner": "220 Globus_do_Radoszyna FTP server (MikroTik 6.43) ready\n"
     },
     "49": {
         "ip": "178.27.219.91",
-        "banner": "220 FRITZ!Box6490Cable(kdg) FTP server ready.\r\n"
+        "banner": "220 FRITZ!Box6490Cable(kdg) FTP server ready.\n"
     },
     "50": {
         "ip": "91.133.3.207",
-        "banner": "220 MikroTik FTP server (MikroTik 6.5) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.5) ready\n"
     },
     "51": {
         "ip": "85.255.79.40",
-        "banner": "220 AP9617 Network Management Card AOS v3.5.5 FTP server ready.\r\n"
+        "banner": "220 AP9617 Network Management Card AOS v3.5.5 FTP server ready.\n"
     },
     "52": {
         "ip": "93.209.183.42",
-        "banner": "220 Speedport W 921V FTP Server v1.45.000 ready\r\n"
+        "banner": "220 Speedport W 921V FTP Server v1.45.000 ready\n"
     },
     "53": {
         "ip": "37.109.50.160",
-        "banner": "220 Welcome to ASUS 4G-AC55U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS 4G-AC55U FTP service.\n"
     },
     "54": {
         "ip": "77.79.132.104",
-        "banner": "220 Lyudovik FTP server (MikroTik 5.24) ready\r\n"
+        "banner": "220 Lyudovik FTP server (MikroTik 5.24) ready\n"
     },
     "55": {
         "ip": "46.209.128.110",
-        "banner": "220 MikroTik FTP server (MikroTik 6.40.6) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.40.6) ready\n"
     },
     "56": {
         "ip": "84.192.42.67",
-        "banner": "220 PollekeNas FTP server ready.\r\n"
+        "banner": "220 PollekeNas FTP server ready.\n"
     },
     "57": {
         "ip": "89.25.63.167",
-        "banner": "220 Welcome to ASUS RT-AC66U_B1 FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC66U_B1 FTP service.\n"
     },
     "58": {
         "ip": "128.143.136.204",
@@ -237,502 +237,502 @@
     },
     "59": {
         "ip": "78.186.16.176",
-        "banner": "220 FTP Server (USG40) [::ffff:78.186.16.176]\r\n"
+        "banner": "220 FTP Server (USG40) [::ffff:78.186.16.176]\n"
     },
     "60": {
         "ip": "46.39.136.47",
-        "banner": "220 Welcome to ASUS RT-AC58U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC58U FTP service.\n"
     },
     "61": {
         "ip": "178.201.205.7",
-        "banner": "220 FRITZ!Box6490Cable(lgi) FTP server ready.\r\n"
+        "banner": "220 FRITZ!Box6490Cable(lgi) FTP server ready.\n"
     },
     "62": {
         "ip": "202.22.154.67",
-        "banner": "220 DrayTek FTP version 1.0\r\n"
+        "banner": "220 DrayTek FTP version 1.0\n"
     },
     "63": {
         "ip": "80.51.171.230",
-        "banner": "220 FTP FTP server ready.\r\n"
+        "banner": "220 FTP FTP server ready.\n"
     },
     "64": {
         "ip": "76.118.158.223",
-        "banner": "220 Axis 2120 Network Camera 2.43 Nov 09 2004 ready.\r\n"
+        "banner": "220 Axis 2120 Network Camera 2.43 Nov 09 2004 ready.\n"
     },
     "65": {
         "ip": "41.204.238.244",
-        "banner": "220 test FTP server (MikroTik 6.42.7) ready\r\n"
+        "banner": "220 test FTP server (MikroTik 6.42.7) ready\n"
     },
     "66": {
         "ip": "195.9.18.78",
-        "banner": "220-Microsoft FTP Service\r\n220 ZOOM FTP Server\r\n"
+        "banner": "220-Microsoft FTP Service\n220 ZOOM FTP Server\n"
     },
     "67": {
         "ip": "103.211.188.145",
-        "banner": "220 MikroTik FTP server (MikroTik 6.44) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.44) ready\n"
     },
     "68": {
         "ip": "178.219.127.123",
-        "banner": "220 Kuprianowicz-Bozena Skrzydlice 42A FTP server (MikroTik 6.39.2) ready\r\n"
+        "banner": "220 Kuprianowicz-Bozena Skrzydlice 42A FTP server (MikroTik 6.39.2) ready\n"
     },
     "69": {
         "ip": "216.210.69.233",
-        "banner": "220 MikroTik FTP server (MikroTik 6.42.3) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.42.3) ready\n"
     },
     "70": {
         "ip": "94.114.94.39",
-        "banner": "220 FRITZ!Box6590Cable FTP server ready.\r\n"
+        "banner": "220 FRITZ!Box6590Cable FTP server ready.\n"
     },
     "71": {
         "ip": "82.127.20.153",
-        "banner": "220 FTP Server (USG110) [::ffff:82.127.20.153]\r\n"
+        "banner": "220 FTP Server (USG110) [::ffff:82.127.20.153]\n"
     },
     "72": {
         "ip": "195.228.80.184",
-        "banner": "220 ENCONS FTP server ready.\r\n"
+        "banner": "220 ENCONS FTP server ready.\n"
     },
     "73": {
         "ip": "72.128.68.80",
-        "banner": "220 Welcome to ASUS RT-AC66R FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC66R FTP service.\n"
     },
     "74": {
         "ip": "31.47.105.160",
-        "banner": "220 CL - Jakubec V\ufffdt FTP server (MikroTik 6.43.7) ready\r\n"
+        "banner": "220 CL - Jakubec V\ufffdt FTP server (MikroTik 6.43.7) ready\n"
     },
     "75": {
         "ip": "124.41.228.59",
-        "banner": "220 MikroTik FTP server (MikroTik 6.44.3) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.44.3) ready\n"
     },
     "76": {
         "ip": "212.224.44.122",
-        "banner": "220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [172.16.101.1]\r\n"
+        "banner": "220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [172.16.101.1]\n"
     },
     "77": {
         "ip": "202.179.7.133",
-        "banner": "220 3-Tes-SUM FTP server (MikroTik 6.43.14) ready\r\n"
+        "banner": "220 3-Tes-SUM FTP server (MikroTik 6.43.14) ready\n"
     },
     "78": {
         "ip": "138.123.134.76",
-        "banner": "220 ET0021B76EED6E Dell B5460dn Laser Printer FTP Server NW2.YS.N231 ready.\r\n"
+        "banner": "220 ET0021B76EED6E Dell B5460dn Laser Printer FTP Server NW2.YS.N231 ready.\n"
     },
     "79": {
         "ip": "176.125.84.61",
-        "banner": "220 Welcome to ASUS RT-N14U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-N14U FTP service.\n"
     },
     "80": {
         "ip": "125.132.90.116",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A89B5) [192.168.0.1] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A89B5) [192.168.0.1] EUC-KR\n"
     },
     "81": {
         "ip": "131.213.148.200",
-        "banner": "220 daigorou FTP server ready.\r\n"
+        "banner": "220 daigorou FTP server ready.\n"
     },
     "82": {
         "ip": "81.182.242.190",
-        "banner": "220 (vsFTPd 3.0.2)\r\n"
+        "banner": "220 (vsFTPd 3.0.2)\n"
     },
     "83": {
         "ip": "176.215.199.63",
-        "banner": "220 MikroTik FTP server (MikroTik 6.44.1) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.44.1) ready\n"
     },
     "84": {
         "ip": "60.251.50.230",
-        "banner": "220-FTP server ready.\r\n220 This is a private system - No anonymous login\r\n"
+        "banner": "220-FTP server ready.\n220 This is a private system - No anonymous login\n"
     },
     "85": {
         "ip": "75.109.190.108",
-        "banner": "220 Welcome to Linksys20828\r\n"
+        "banner": "220 Welcome to Linksys20828\n"
     },
     "86": {
         "ip": "71.93.3.167",
-        "banner": "220 Welcome to Linksys08260\r\n"
+        "banner": "220 Welcome to Linksys08260\n"
     },
     "87": {
         "ip": "12.103.43.160",
-        "banner": "220 FTP Server\r\n"
+        "banner": "220 FTP Server\n"
     },
     "88": {
         "ip": "50.241.222.233",
-        "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:52. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"
+        "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\n220-You are user number 1 of 50 allowed.\n220-Local time is now 14:52. Server port: 21.\n220-This is a private system - No anonymous login\n220-IPv6 connections are also welcome on this server.\n220 You will be disconnected after 15 minutes of inactivity.\n"
     },
     "89": {
         "ip": "175.197.3.144",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B310E) [192.168.0.2] UTF-8\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B310E) [192.168.0.2] UTF-8\n"
     },
     "90": {
         "ip": "172.79.142.248",
-        "banner": "220 Welcome to ASUS RT-ACRH13 FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-ACRH13 FTP service.\n"
     },
     "91": {
         "ip": "114.70.77.20",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C82718) [114.70.77.20] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C82718) [114.70.77.20] EUC-KR\n"
     },
     "92": {
         "ip": "203.205.34.85",
-        "banner": "220 MikroTik FTP server (MikroTik 6.43) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.43) ready\n"
     },
     "93": {
         "ip": "205.210.22.101",
-        "banner": "220 Bruce Tower FTP server (MikroTik 6.45.2) ready\r\n"
+        "banner": "220 Bruce Tower FTP server (MikroTik 6.45.2) ready\n"
     },
     "94": {
         "ip": "218.154.23.68",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (autoenp-AB0AF8) [192.168.0.84] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (autoenp-AB0AF8) [192.168.0.84] EUC-KR\n"
     },
     "95": {
         "ip": "202.52.248.13",
-        "banner": "220 IBN FTP server (MikroTik 6.41.3) ready\r\n"
+        "banner": "220 IBN FTP server (MikroTik 6.41.3) ready\n"
     },
     "96": {
         "ip": "203.216.171.75",
-        "banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [203.216.171.75]\r\n"
+        "banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [203.216.171.75]\n"
     },
     "97": {
         "ip": "153.131.176.244",
-        "banner": "220 FTP ( BlackJumboDog Version 6.2.0 ) ready\r\n"
+        "banner": "220 FTP ( BlackJumboDog Version 6.2.0 ) ready\n"
     },
     "98": {
         "ip": "163.24.14.200",
-        "banner": "220 sanduo FTP server ready.\r\n"
+        "banner": "220 sanduo FTP server ready.\n"
     },
     "99": {
         "ip": "112.184.138.235",
-        "banner": "220-FileZilla Server version 0.9.41 beta\r\n220-written by Tim Kosse (Tim.Kosse@gmx.de)\r\n220 Please visit http://sourceforge.net/projects/filezilla/\r\n"
+        "banner": "220-FileZilla Server version 0.9.41 beta\n220-written by Tim Kosse (Tim.Kosse@gmx.de)\n220 Please visit http://sourceforge.net/projects/filezilla/\n"
     },
     "100": {
         "ip": "121.159.201.234",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B2FB8) [192.168.0.55]\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B2FB8) [192.168.0.55]\n"
     },
     "101": {
         "ip": "118.163.16.8",
-        "banner": "220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [192.168.10.16]\r\n"
+        "banner": "220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [192.168.10.16]\n"
     },
     "102": {
         "ip": "221.162.226.113",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A7781) [192.168.0.1] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A7781) [192.168.0.1] EUC-KR\n"
     },
     "103": {
         "ip": "125.185.242.196",
-        "banner": "220 yjghy FTP server ready.\r\n"
+        "banner": "220 yjghy FTP server ready.\n"
     },
     "104": {
         "ip": "162.253.232.11",
-        "banner": "220 MikroTik FTP server (MikroTik 6.42.6) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.42.6) ready\n"
     },
     "105": {
         "ip": "45.221.72.74",
-        "banner": "220 MikroTik FTP server (MikroTik 6.40.9) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.40.9) ready\n"
     },
     "106": {
         "ip": "219.84.34.232",
-        "banner": "220 et027050 FTP server ready.\r\n"
+        "banner": "220 et027050 FTP server ready.\n"
     },
     "107": {
         "ip": "152.8.247.128",
-        "banner": "220 AXIS M5014-V PTZ Dome Network Camera 5.51.5.1 (2018) ready.\r\n"
+        "banner": "220 AXIS M5014-V PTZ Dome Network Camera 5.51.5.1 (2018) ready.\n"
     },
     "108": {
         "ip": "46.21.80.109",
-        "banner": "220 ucftpd FTP server ready.\r\n"
+        "banner": "220 ucftpd FTP server ready.\n"
     },
     "109": {
         "ip": "59.37.13.106",
-        "banner": "220 FTP service ready.\r\n"
+        "banner": "220 FTP service ready.\n"
     },
     "110": {
         "ip": "49.166.16.171",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (DaeYangNas-5F2A07) [::ffff:192.168.0.8] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (DaeYangNas-5F2A07) [::ffff:192.168.0.8] EUC-KR\n"
     },
     "111": {
         "ip": "86.95.84.24",
-        "banner": "220 sterinterieurs FTP server ready.\r\n"
+        "banner": "220 sterinterieurs FTP server ready.\n"
     },
     "112": {
         "ip": "184.152.231.158",
-        "banner": "220 Welcome to ASUS R7000 FTP service.\r\n"
+        "banner": "220 Welcome to ASUS R7000 FTP service.\n"
     },
     "113": {
         "ip": "92.27.8.109",
-        "banner": "220 Microsoft FTP Service\r\n"
+        "banner": "220 Microsoft FTP Service\n"
     },
     "114": {
         "ip": "205.210.20.33",
-        "banner": "220 Chandler FTP server (MikroTik 6.45.2) ready\r\n"
+        "banner": "220 Chandler FTP server (MikroTik 6.45.2) ready\n"
     },
     "115": {
         "ip": "84.85.60.135",
-        "banner": "220 Homebase FTP server ready.\r\n"
+        "banner": "220 Homebase FTP server ready.\n"
     },
     "116": {
         "ip": "59.9.196.241",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C817E5) [::ffff:172.30.1.54] UTF-8\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C817E5) [::ffff:172.30.1.54] UTF-8\n"
     },
     "117": {
         "ip": "220.70.29.183",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45848D) [::ffff:192.168.0.1] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45848D) [::ffff:192.168.0.1] EUC-KR\n"
     },
     "118": {
         "ip": "42.200.149.213",
-        "banner": "220 SynologyDisk FTP server ready.\r\n"
+        "banner": "220 SynologyDisk FTP server ready.\n"
     },
     "119": {
         "ip": "14.48.151.122",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS1dual-5F026C) [192.168.0.33] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS1dual-5F026C) [192.168.0.33] EUC-KR\n"
     },
     "120": {
         "ip": "68.179.131.66",
-        "banner": "220 Welcome to ASUS RT-AC88U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC88U FTP service.\n"
     },
     "121": {
         "ip": "213.174.101.223",
-        "banner": "Permission denied.(Please check access control list)\r\n"
+        "banner": "Permission denied.(Please check access control list)\n"
     },
     "122": {
         "ip": "12.250.175.170",
-        "banner": "220 Bank of Benoit FTP server (MikroTik 6.43.8) ready\r\n"
+        "banner": "220 Bank of Benoit FTP server (MikroTik 6.43.8) ready\n"
     },
     "123": {
         "ip": "222.16.166.34",
-        "banner": "220 JCZ-NAS FTP server ready.\r\n"
+        "banner": "220 JCZ-NAS FTP server ready.\n"
     },
     "124": {
         "ip": "121.129.128.123",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME N904NS-0E7F11) [192.168.0.1]\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME N904NS-0E7F11) [192.168.0.1]\n"
     },
     "125": {
         "ip": "213.159.240.239",
-        "banner": "220 MikroTik FTP server (MikroTik 6.39.2) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.39.2) ready\n"
     },
     "126": {
         "ip": "2.93.31.68",
-        "banner": "220 MikroTik FTP server (MikroTik 6.42.5) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.42.5) ready\n"
     },
     "127": {
         "ip": "125.185.92.48",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS-C809B8) [192.168.219.150] UTF-8\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS-C809B8) [192.168.219.150] UTF-8\n"
     },
     "128": {
         "ip": "5.19.141.173",
-        "banner": "220 MikroTik FTP server (MikroTik 6.42.7) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.42.7) ready\n"
     },
     "129": {
         "ip": "190.184.203.186",
-        "banner": "220 BLUE CALLE 78 CON 12 FTP server (MikroTik 6.43.4) ready\r\n"
+        "banner": "220 BLUE CALLE 78 CON 12 FTP server (MikroTik 6.43.4) ready\n"
     },
     "130": {
         "ip": "153.129.86.139",
-        "banner": "220 192.168.11.2 FTP server (tnftpd 20080929) ready.\r\n"
+        "banner": "220 192.168.11.2 FTP server (tnftpd 20080929) ready.\n"
     },
     "131": {
         "ip": "89.32.224.200",
-        "banner": "220 MikroTik FTP server (MikroTik 6.45.1) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.45.1) ready\n"
     },
     "132": {
         "ip": "211.194.173.15",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2dual-29510B) [::ffff:192.168.0.135] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2dual-29510B) [::ffff:192.168.0.135] EUC-KR\n"
     },
     "133": {
         "ip": "112.156.227.170",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (j2hhome-C92A7B) [192.168.219.167] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (j2hhome-C92A7B) [192.168.219.167] EUC-KR\n"
     },
     "134": {
         "ip": "67.53.63.53",
-        "banner": "220 AXIS 210 Network Camera 4.40.2 (Nov 04 2008) ready.\r\n"
+        "banner": "220 AXIS 210 Network Camera 4.40.2 (Nov 04 2008) ready.\n"
     },
     "135": {
         "ip": "96.35.45.46",
-        "banner": "220 Welcome to ASUS RT-AC3100 FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC3100 FTP service.\n"
     },
     "136": {
         "ip": "112.156.187.85",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DC515) [192.168.0.1] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DC515) [192.168.0.1] EUC-KR\n"
     },
     "137": {
         "ip": "183.106.239.80",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A847F1) [::ffff:192.168.0.1] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A847F1) [::ffff:192.168.0.1] EUC-KR\n"
     },
     "138": {
         "ip": "177.154.82.180",
-        "banner": "220 Provider Solucoes FTP server (MikroTik 6.35.4) ready\r\n"
+        "banner": "220 Provider Solucoes FTP server (MikroTik 6.35.4) ready\n"
     },
     "139": {
         "ip": "24.217.120.91",
-        "banner": "220 LohmanNAS FTP server ready.\r\n"
+        "banner": "220 LohmanNAS FTP server ready.\n"
     },
     "140": {
         "ip": "76.72.245.6",
-        "banner": "220 CID-14126 Premier Food LLC - Don Taco FTP server (MikroTik 6.43.8) ready\r\n"
+        "banner": "220 CID-14126 Premier Food LLC - Don Taco FTP server (MikroTik 6.43.8) ready\n"
     },
     "141": {
         "ip": "81.150.188.206",
-        "banner": "550 Permission denied ,please check access control list\r\nPermission denied.(Please check access control list)\r\n"
+        "banner": "550 Permission denied ,please check access control list\nPermission denied.(Please check access control list)\n"
     },
     "142": {
         "ip": "181.143.28.180",
-        "banner": "220 Disdroblan FTP server (MikroTik 5.24) ready\r\n"
+        "banner": "220 Disdroblan FTP server (MikroTik 5.24) ready\n"
     },
     "143": {
         "ip": "46.45.103.249",
-        "banner": "220 Synology FTP server ready.\r\n"
+        "banner": "220 Synology FTP server ready.\n"
     },
     "144": {
         "ip": "138.94.84.138",
-        "banner": "220 Z-3G_MATRIZ FTP server (MikroTik 6.44.1) ready\r\n"
+        "banner": "220 Z-3G_MATRIZ FTP server (MikroTik 6.44.1) ready\n"
     },
     "145": {
         "ip": "138.59.95.209",
-        "banner": "220 CGNAT01 FTP server (MikroTik 6.44.3) ready\r\n"
+        "banner": "220 CGNAT01 FTP server (MikroTik 6.44.3) ready\n"
     },
     "146": {
         "ip": "70.181.192.147",
-        "banner": "220 RomeroDoggDS FTP server ready.\r\n"
+        "banner": "220 RomeroDoggDS FTP server ready.\n"
     },
     "147": {
         "ip": "58.120.49.110",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (TVBOX-1B0225) [192.168.1.134] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (TVBOX-1B0225) [192.168.1.134] EUC-KR\n"
     },
     "148": {
         "ip": "208.58.52.122",
-        "banner": "220 Allworx FTP server ready\r\n"
+        "banner": "220 Allworx FTP server ready\n"
     },
     "149": {
         "ip": "92.29.250.26",
-        "banner": "220 Welcome to ASUS DSL-AC56U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS DSL-AC56U FTP service.\n"
     },
     "150": {
         "ip": "218.209.156.237",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (231-C93D8F) [192.168.0.250] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (231-C93D8F) [192.168.0.250] EUC-KR\n"
     },
     "151": {
         "ip": "103.23.236.88",
-        "banner": "220 MikroTik FTP server (MikroTik 6.34.2) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.34.2) ready\n"
     },
     "152": {
         "ip": "14.46.207.115",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (myungjin-AB0EBA) [192.168.0.2] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (myungjin-AB0EBA) [192.168.0.2] EUC-KR\n"
     },
     "153": {
         "ip": "117.29.179.182",
-        "banner": "220 AXIS P5534 PTZ Dome Network Camera 5.40.9.2 (2012) ready.\r\n"
+        "banner": "220 AXIS P5534 PTZ Dome Network Camera 5.40.9.2 (2012) ready.\n"
     },
     "154": {
         "ip": "14.42.183.35",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A85431) [::ffff:192.168.0.1] UTF-8\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A85431) [::ffff:192.168.0.1] UTF-8\n"
     },
     "155": {
         "ip": "59.26.201.134",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-658E59) [::ffff:59.26.123.1] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-658E59) [::ffff:59.26.123.1] EUC-KR\n"
     },
     "156": {
         "ip": "138.117.160.114",
-        "banner": "220 CIBERPROTECCION_DIREICAJ_-_LIMA_-_INTERNET FTP server (MikroTik 6.42.7) ready\r\n"
+        "banner": "220 CIBERPROTECCION_DIREICAJ_-_LIMA_-_INTERNET FTP server (MikroTik 6.42.7) ready\n"
     },
     "157": {
         "ip": "218.55.221.210",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-698DFD) [192.168.0.1] UTF-8\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-698DFD) [192.168.0.1] UTF-8\n"
     },
     "158": {
         "ip": "39.118.162.194",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE1F61) [192.168.0.1] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE1F61) [192.168.0.1] EUC-KR\n"
     },
     "159": {
         "ip": "14.39.163.116",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS3-1B0E96) [192.168.0.17] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS3-1B0E96) [192.168.0.17] EUC-KR\n"
     },
     "160": {
         "ip": "221.138.227.158",
-        "banner": "220 Welcome to ASUS RT-AC87U FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC87U FTP service.\n"
     },
     "161": {
         "ip": "210.90.167.50",
-        "banner": "220 suwonkim FTP server ready.\r\n"
+        "banner": "220 suwonkim FTP server ready.\n"
     },
     "162": {
         "ip": "175.114.193.124",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A072E1) [192.168.0.1] UTF-8\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A072E1) [192.168.0.1] UTF-8\n"
     },
     "163": {
         "ip": "61.105.10.154",
-        "banner": "220 Welcome to ASUS RT-AC68P FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC68P FTP service.\n"
     },
     "164": {
         "ip": "93.171.157.229",
-        "banner": "220 MikroTik FTP server (MikroTik 6.44.2) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.44.2) ready\n"
     },
     "165": {
         "ip": "61.35.195.146",
-        "banner": "220 AEROVER_PAF FTP server ready.\r\n"
+        "banner": "220 AEROVER_PAF FTP server ready.\n"
     },
     "166": {
         "ip": "222.186.32.68",
-        "banner": "220 JSZhongyi FTP server ready.\r\n"
+        "banner": "220 JSZhongyi FTP server ready.\n"
     },
     "167": {
         "ip": "218.236.244.139",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-04E705) [192.168.0.1] UTF-8\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-04E705) [192.168.0.1] UTF-8\n"
     },
     "168": {
         "ip": "45.225.140.190",
-        "banner": "220 KZC FTP server (MikroTik 6.44.1) ready\r\n"
+        "banner": "220 KZC FTP server (MikroTik 6.44.1) ready\n"
     },
     "169": {
         "ip": "106.247.23.126",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (server-294B84) [192.168.0.16] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (server-294B84) [192.168.0.16] EUC-KR\n"
     },
     "170": {
         "ip": "200.5.229.246",
-        "banner": "220 MEDANOS-MASTER FTP server (MikroTik 6.43) ready\r\n"
+        "banner": "220 MEDANOS-MASTER FTP server (MikroTik 6.43) ready\n"
     },
     "171": {
         "ip": "211.211.134.148",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A5975) [192.168.0.1] UTF-8\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A5975) [192.168.0.1] UTF-8\n"
     },
     "172": {
         "ip": "218.233.242.114",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (jjsdisk-943C23) [192.168.0.7] EUC-KR\r\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (jjsdisk-943C23) [192.168.0.7] EUC-KR\n"
     },
     "173": {
         "ip": "68.9.25.48",
-        "banner": "220 Welcome to ASUS RT-AC5300 FTP service.\r\n"
+        "banner": "220 Welcome to ASUS RT-AC5300 FTP service.\n"
     },
     "174": {
         "ip": "60.165.53.45",
-        "banner": "220 Welcome to WD My Cloud\r\n"
+        "banner": "220 Welcome to WD My Cloud\n"
     },
     "175": {
         "ip": "95.47.197.28",
-        "banner": "220 MikroTik FTP server (MikroTik 6.36) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.36) ready\n"
     },
     "176": {
         "ip": "170.247.203.206",
-        "banner": "220 MikroTik FTP server (MikroTik 6.34.4) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.34.4) ready\n"
     },
     "177": {
         "ip": "189.90.248.163",
-        "banner": "220 CPe - MK - PMMRN - DEFESA SOCIAL - 126212 FTP server (MikroTik 6.35.4) ready\r\n"
+        "banner": "220 CPe - MK - PMMRN - DEFESA SOCIAL - 126212 FTP server (MikroTik 6.35.4) ready\n"
     },
     "178": {
         "ip": "46.104.86.136",
-        "banner": "220 MikroTik FTP server (MikroTik 6.42.2) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.42.2) ready\n"
     },
     "179": {
         "ip": "113.161.167.150",
-        "banner": "220 MikroTik FTP server (MikroTik 6.40.3) ready\r\n"
+        "banner": "220 MikroTik FTP server (MikroTik 6.40.3) ready\n"
     },
     "180": {
         "ip": "94.241.143.247",
-        "banner": "220 Shahriar-Router FTP server (MikroTik 6.44.3) ready\r\n"
+        "banner": "220 Shahriar-Router FTP server (MikroTik 6.44.3) ready\n"
     },
     "181": {
         "ip": "185.124.117.230",
-        "banner": "220 Nagiec Pawel FTP server (MikroTik 6.22) ready\r\n"
+        "banner": "220 Nagiec Pawel FTP server (MikroTik 6.22) ready\n"
     },
     "182": {
         "ip": "82.247.167.1",
-        "banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.0.1]\r\n"
+        "banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.0.1]\n"
     },
     "183": {
         "ip": "66.235.225.230",
-        "banner": "220 Gene6 FTP Server v3.10.0 (Build 2) ready...\r\n"
+        "banner": "220 Gene6 FTP Server v3.10.0 (Build 2) ready...\n"
     }
 }
