@@ -49,7 +49,7 @@ def contains_prediction(a):
 --writes the inferred rule in file "RULES"
 '''
 def run_apriori(trans):
-	results = list(apriori(trans, min_support=0.0005, min_confidence=0.01) ) 
+	results = list(apriori(trans, min_support=0.005, min_confidence=0.01) ) 
 
 	print(len(results))
 	df = pd.DataFrame(columns=('Items','Support','Confidence'))
