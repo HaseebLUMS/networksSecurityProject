@@ -1,0 +1,867 @@
+mikrotik mikrotik
+
+
+
+
+
+
+================= https://mikrotik.com/ ==================
+
+
+
+
+
+MikroTik Routers and Wireless
+HomeAboutBuyJobsHardwareSoftwareSupportTrainingAccount
+MikroTik mobile app
+Use the MikroTik smartphone app to configure your router in the field, or to apply the most basic initial settings for your MikroTik home access point. Available for Android and iOS operating systems.
+More details
+RB4011 series
+RB4011 series - amazingly powerful routers with ten Gigabit ports, SFP+ 10Gbps interface and IPsec hardware acceleration for a great price!
+More details
+hEX S
+hEX S is a five port Gigabit Ethernet router for locations where wireless connectivity is not required. Compared to the hEX, the hEX S also features an SFP port and PoE output on the last port.
+More details
+hAP ac²
+The hAP ac² is a Dual-concurrent Access Point, that
+provides Wifi coverage for 2.4 GHz and 5 GHz frequencies at
+the same time. Five 10/100/1000 Ethernet ports provide Gigabit
+connections for your wired devices, and USB can be used for
+external storage or 4G/LTE modem.
+More details
+cAP ac
+The cAP ac is a very capable and powerful wireless
+access point that looks beautiful on both walls and ceilings.
+The concurrent dual band wireless radio supports dual chain 2
+GHz and 5 GHz in 802.11ac and legacy standards, and will
+provide coverage in 360 degrees around it.
+More details
+WHAT'S NEW IN MIKROTIK?
+Newsletter August 2019 (#90)New exciting switches, 5G mobile network, QSFP accessories, LHG XL 52 ac, PWR-LINE PRO, quickMOUNT-X, AI driving supercars and MikroTik lifehacks - check out our newest newsletter!
+Linux kernel vulnerabilityNetflix has identified several TCP networking vulnerabilities in the Linux kernel that is used in RouterOS. The issue has been fixed in RouterOS 6.45.1
+Mikrotik Wireless SolutionsWe offer the complete solution for your wireless connectivity needs - starting with your home network and reaching up to the ISP centre of operations. Watch our new video about the available possibilities.
+Mikrotik AcademyMikroTik is expanding RouterOS learning possibilities by launching the MikroTik Academy program for educational institutions - universities, technical schools, colleges, vocational schools and any others. Learn MikroTik at your University.
+You can also follow us and get the latest updates on Twitter or Facebook!
+You can also follow us and get the latest updates on Twitter or Facebook!
+MIKROTIK USER MEETINGS IN 2019
+Russia
+Moscow, September 6-7
+Moldova
+Chisinau, September 10
+Portugal
+Lisbon, September 20
+Canada
+Markham, Toronto, September 24
+China
+Shenzhen, Oct 19
+Indonesia
+Kuta, Bali, Oct 24-25
+Brazil
+Foz do Iguaçu, Nov 28-29
+Bolivia
+Santa Cruz de la Sierra, Dec 3
++ Show more upcoming events
+China in Shenzhen
+Oct 19
+Indonesia in Kuta, Bali
+Oct 24
+Brazil in Foz do Iguaçu
+Nov 28
+Bolivia in Santa Cruz de la Sierra
+Dec 3
+Registrations for all events are already open - register your attendance for free!
+MIKROTIK TRAINING
+Training
+MikroTik training sessions are organized and provided by MikroTik Training Centers at various locations around the World. They are attended by network engineers, integrators and managers, who would like to learn about routing and managing wired and wireless networks using MikroTik RouterOS.
+Find out more
+Trainers & Academies
+MikroTik Academies are educational institutions such as universities, technical schools, colleges, vocational schools, and other educational institutions offering semester time based Internet networking courses for their academic students using MikroTik RouterOS as a learning tool.
+Open the map
+Graduation
+Every year there are around 2000 - 3000 graduates who have successfully completed a MikroTik courses. Our certificates are recognized world wide and stand for good knowledge about network administration, using RouterBOARD and RouterOS.
+Training history
+UPCOMING TRAINING CLASSES
+North America
+Latin America
+Africa
+Asia
+Oceania
+Europe
+August 15 - 16, Mexico, Hermosillo, Academy Xperts (MTCWE), SpanishAugust 15 - 16, Brazil, Cuiaba, Alive Solutions e Voz e Dados (MTCWE), PortugueseAugust 16 - 18, Bolivia, Santa Cruz de la Sierra, EMPDI (Introduction, MTCNA), SpanishAugust 16 - 18, Brazil, Campina Grande, CONTRACT TI + Redes Brasil (Introduction, MTCNA), PortugueseAugust 16 - 18, Brazil, Sao Paulo, Winex / ENTELCO (MTCNA), PortugueseAugust 19 - 21, Kenya, Nairobi, McCharles Consulting Ltd | +254735088655 (MTCNA), EnglishAugust 22 - 24, Angola, Luanda, Eng. Ali Ezzeddine (Introduction, MTCNA, The Dude), PortugueseAugust 22 - 23, Kenya, Nairobi, McCharles Consulting Ltd | +254735088655 (MTCWE), EnglishAugust 26 - 30, Nigeria, Abuja, Acrux Crucis Limited (MTCNA, MTCRE), EnglishAugust 26 - 28, Tanzania, Dar es Salaam, McCharles Consulting Ltd | +254735088655 (MTCNA), EnglishAugust 15 - 17, Kyrgyzstan, Bishkek, Aleksei Chudin - MikroTik-Courses.ru (MTCTCE), RussianAugust 15 - 16, Indonesia, Bandung, www.netkromsolution.com (MTCRE), Bahasa indonesiaAugust 16 - 17, India, Ahmedabad - અમદાવાદ, Wave Fiber (MTCRE), EnglishAugust 16 - 18, Indonesia, Pekanbaru, Hendevane Training Partner (HTP) (MTCNA), Bahasa indonesiaAugust 17 - 18, Myanmar, Yangon, MikroTik Training Myanmar (MTCSE), MyanmarOctober 07 - 19, Australia, Brisbane, Oky Tria Saputra, www.okytria.com (Introduction, MTCINE, MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE), EnglishDecember 02 - 14, Fiji, Nadi, Oky Tria Saputra, www.okytria.com (Introduction, MTCINE, MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, The Dude), EnglishDecember 02 - 14, New Zealand, Wellington, Oky Tria Saputra, www.okytria.com (Introduction, MTCINE, MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, The Dude), EnglishAugust 19 - 20, France, Nice, Azurtem (MTCRE), FrenchAugust 19 - 21, Turkey, Gebze, Yavuz Selim MALKOÇ - WI.COM.TR (MTCNA), TurkishAugust 19 - 21, Poland, Gliwice, Idea4pro (MTCWE), PolishAugust 19 - 21, Poland, Warsaw, Mikrotik Warsaw Training Center (MTCRE), PolishAugust 20 - 23, Russia, Moscow, Aleksei Chudin - MikroTik-Courses.ru (Introduction, MTCNA), RussianAugust 26 - 30, USA, Dallas, Rick Frey Consulting (MTCINE, MTCRE), EnglishSeptember 09 - 13, Canada, Markham, Hani Rahrouh- wirelessnetware.ca (Introduction, MTCNA, MTCRE, The Dude), EnglishSeptember 16 - 20, Canada, Markham, Hani Rahrouh- wirelessnetware.ca (CAPsMAN, MTCTCE, MTCWE, The Dude), EnglishSeptember 23 - 26, Canada, Toronto, MK Network Solutions (MTCNA), EnglishSeptember 25 - 28, Canada, Markham, Hani Rahrouh- wirelessnetware.ca (CAPsMAN, MTCRE, MTCWE, The Dude), English
+Full training list
+HARDWARE & SOFTWARE
+RouterOS
+RouterOS is the operating system of RouterBOARD hardware. It has all the necessary features for an ISP - routing, firewall, bandwidth management, wireless access point, backhaul link, hotspot gateway, VPN server and more. Quick and simple installation and an easy to use interface!
+Find out more
+Product catalog
+MikroTik manufactures routers, switches and wireless systems for every purpose, from small office or home, to carrier ISP networks, there is a device for every purpose. See our product catalog for a complete list of our products and their features.
+Open catalog
+Distribution
+To purchase our RouterBOARD, CCR, CRS and other products, and also to receive technical support and pre-sales consultation, please contact our wide network of distributors. See the map to find the nearest one.
+Find out more
+MikroTik
+Home
+About
+Customers
+Jobs
+Support
+Get support
+Forum
+Wiki
+Send an E-mail
+Other
+Newsletters
+MUM
+Designs
+Youtube
+Privacy policy
+Click Here
+Sign up for the newsletter
+Please sign up to get notified about new RouterOS version releases and other useful information!
+MikroTik app
+
+
+
+
+
+
+================= https://mikrotik.com/download ==================
+
+
+
+
+
+MikroTik Routers and Wireless - Software
+HomeAboutBuyJobsHardwareSoftwareSupportTrainingAccount
+Software
+DownloadsChangelogsDownload archiveRouterOSThe DudeMobile app
+Software
+DownloadsChangelogsDownload archiveRouterOSThe DudeMobile app
+Upgrading RouterOS
+If you are already running RouterOS, upgrading to the latest version can be done by clicking on "Check For Updates" in QuickSet or System > Packages menu in WebFig or WinBox.
+See the documentation for more information about upgrading and release types.
+To manage your router, use the web interface, or download the maintenance utilities. Winbox to connect to your device, Dude to monitor your network and Netinstall for recovery and re-installation.
+WinBox
+The Dude
+Netinstall
+WinBox 3.19
+6.44.5 (Long-term)6.45.3 (Stable)
+6.44.5 (Long-term)6.45.3 (Stable)6.46beta28 (Testing)
+×
+MD5
+routeros-powerpc-6.44.5.npk: 03c8d18261aebd18eff2b26b09058b31SHA256
+routeros-powerpc-6.44.5.npk: 95267c55c5316773970480979c5542a554379bcfbd8fb65df2914ee7168f43e0MD5
+routeros-smips-6.44.5.npk: b97950b14d997f2b9383896ab9fcdc0fSHA256
+routeros-smips-6.44.5.npk: dd2d9388ce8a8478e754e173668bcffccbd23eacb217e836b5763c9058f1fe7aMD5
+routeros-mmips-6.44.5.npk: 365010016b072e13ecb19d3690699f18SHA256
+routeros-mmips-6.44.5.npk: bed8c62c7bb14069fcf9268e35748dd3586b4bb4fc29679eaa93da5532a622b8MD5
+routeros-arm-6.44.5.npk: 888d981446f8d7486d6e0bc2a7d8e179SHA256
+routeros-arm-6.44.5.npk: 93950182a44e08f4efc43b87003d883dca6967e69179f0499c775a9437713c23MD5
+routeros-mipsbe-6.44.5.npk: 6bbf97019ed9779a389c58047853187bSHA256
+routeros-mipsbe-6.44.5.npk: 417f3693a9b07ed7b5b75db0732b9f18a2241433cdc9b1c1f87c5c6eec476250MD5
+routeros-tile-6.44.5.npk: 8f022531e115d4f2c286eab3c9774148SHA256
+routeros-tile-6.44.5.npk: 9e50fc775bc840c5b075f54288326d65a8b6f310609b913bae1f1a59f19e49d1MD5
+routeros-x86-6.44.5.npk: 537b1a37489b0daef6ad0ce96a75c596SHA256
+routeros-x86-6.44.5.npk: 5a23ecbd7a55d21d16200ee4d38f70aea4fddb3f24816e7575c7af4537fbf0f8MD5
+routeros-tile-6.44.5.npk: 8f022531e115d4f2c286eab3c9774148SHA256
+routeros-tile-6.44.5.npk: 9e50fc775bc840c5b075f54288326d65a8b6f310609b913bae1f1a59f19e49d1MD5
+routeros-smips-6.44.5.npk: b97950b14d997f2b9383896ab9fcdc0fSHA256
+routeros-smips-6.44.5.npk: dd2d9388ce8a8478e754e173668bcffccbd23eacb217e836b5763c9058f1fe7aMD5
+routeros-powerpc-6.44.5.npk: 03c8d18261aebd18eff2b26b09058b31SHA256
+routeros-powerpc-6.44.5.npk: 95267c55c5316773970480979c5542a554379bcfbd8fb65df2914ee7168f43e0MD5
+routeros-arm-6.44.5.npk: 888d981446f8d7486d6e0bc2a7d8e179SHA256
+routeros-arm-6.44.5.npk: 93950182a44e08f4efc43b87003d883dca6967e69179f0499c775a9437713c23MD5
+routeros-x86-6.44.5.npk: 537b1a37489b0daef6ad0ce96a75c596SHA256
+routeros-x86-6.44.5.npk: 5a23ecbd7a55d21d16200ee4d38f70aea4fddb3f24816e7575c7af4537fbf0f8MD5
+routeros-mmips-6.44.5.npk: 365010016b072e13ecb19d3690699f18SHA256
+routeros-mmips-6.44.5.npk: bed8c62c7bb14069fcf9268e35748dd3586b4bb4fc29679eaa93da5532a622b8MD5
+routeros-mipsbe-6.44.5.npk: 6bbf97019ed9779a389c58047853187bSHA256
+routeros-mipsbe-6.44.5.npk: 417f3693a9b07ed7b5b75db0732b9f18a2241433cdc9b1c1f87c5c6eec476250MD5
+routeros-powerpc-6.44.5.npk: 03c8d18261aebd18eff2b26b09058b31SHA256
+routeros-powerpc-6.44.5.npk: 95267c55c5316773970480979c5542a554379bcfbd8fb65df2914ee7168f43e0MD5
+routeros-x86-6.44.5.npk: 537b1a37489b0daef6ad0ce96a75c596SHA256
+routeros-x86-6.44.5.npk: 5a23ecbd7a55d21d16200ee4d38f70aea4fddb3f24816e7575c7af4537fbf0f8MD5
+routeros-tile-6.44.5.npk: 8f022531e115d4f2c286eab3c9774148SHA256
+routeros-tile-6.44.5.npk: 9e50fc775bc840c5b075f54288326d65a8b6f310609b913bae1f1a59f19e49d1MD5
+routeros-mipsbe-6.44.5.npk: 6bbf97019ed9779a389c58047853187bSHA256
+routeros-mipsbe-6.44.5.npk: 417f3693a9b07ed7b5b75db0732b9f18a2241433cdc9b1c1f87c5c6eec476250MD5
+routeros-arm-6.44.5.npk: 888d981446f8d7486d6e0bc2a7d8e179SHA256
+routeros-arm-6.44.5.npk: 93950182a44e08f4efc43b87003d883dca6967e69179f0499c775a9437713c23MD5
+routeros-smips-6.44.5.npk: b97950b14d997f2b9383896ab9fcdc0fSHA256
+routeros-smips-6.44.5.npk: dd2d9388ce8a8478e754e173668bcffccbd23eacb217e836b5763c9058f1fe7aMD5
+routeros-mmips-6.44.5.npk: 365010016b072e13ecb19d3690699f18SHA256
+routeros-mmips-6.44.5.npk: bed8c62c7bb14069fcf9268e35748dd3586b4bb4fc29679eaa93da5532a622b8MD5
+all_packages-ppc-6.44.5.zip: 77bd37318adcb777a2b0fa165c40a741SHA256
+all_packages-ppc-6.44.5.zip: f3a31ceac9a8dea2d172f85f3174fbaf77a21382c4a61445d833b5f1c7f59197MD5
+all_packages-arm-6.44.5.zip: aeae416464ff421b44ce6bacc2597575SHA256
+all_packages-arm-6.44.5.zip: 55a835c4e680b2c5da1213c874575bd7860362d61148cd26edd26f52ef266a13MD5
+all_packages-x86-6.44.5.zip: 4609dd5d9321da35d669c4ea96371e56SHA256
+all_packages-x86-6.44.5.zip: d3ac81c27998460d0a8f1633cce9f32a1a1092e7856dc7598424d18ca44d1a0dMD5
+all_packages-mmips-6.44.5.zip: ffeaff4342b1f05b42f57d9d876f3323SHA256
+all_packages-mmips-6.44.5.zip: f595f910fbdcf6ee3a5798ef0984c0622ed6a1c489241da442b288520546ec78MD5
+all_packages-mipsbe-6.44.5.zip: b5b294535540d83ce5133f60bc754456SHA256
+all_packages-mipsbe-6.44.5.zip: 67da510debd94b486844a2e5f6e21e3eb8da45a85c0ca3e2f3b3152ffce7831cMD5
+all_packages-smips-6.44.5.zip: 2dc70e1d5f0ee09b690a368113567a4aSHA256
+all_packages-smips-6.44.5.zip: fde16b80fc59759a71378ce74258fda16f1bee6d1cf37ae115f56d7f3a991177MD5
+all_packages-tile-6.44.5.zip: df3307484f9463e4f30194ef8fee7ce2SHA256
+all_packages-tile-6.44.5.zip: d57929a5eac8e10d388609dc2fcfe77ca8697472a743913608daf8ffb80baea7MD5
+all_packages-x86-6.44.5.zip: 4609dd5d9321da35d669c4ea96371e56SHA256
+all_packages-x86-6.44.5.zip: d3ac81c27998460d0a8f1633cce9f32a1a1092e7856dc7598424d18ca44d1a0dMD5
+all_packages-mmips-6.44.5.zip: ffeaff4342b1f05b42f57d9d876f3323SHA256
+all_packages-mmips-6.44.5.zip: f595f910fbdcf6ee3a5798ef0984c0622ed6a1c489241da442b288520546ec78MD5
+all_packages-mipsbe-6.44.5.zip: b5b294535540d83ce5133f60bc754456SHA256
+all_packages-mipsbe-6.44.5.zip: 67da510debd94b486844a2e5f6e21e3eb8da45a85c0ca3e2f3b3152ffce7831cMD5
+all_packages-smips-6.44.5.zip: 2dc70e1d5f0ee09b690a368113567a4aSHA256
+all_packages-smips-6.44.5.zip: fde16b80fc59759a71378ce74258fda16f1bee6d1cf37ae115f56d7f3a991177MD5
+all_packages-tile-6.44.5.zip: df3307484f9463e4f30194ef8fee7ce2SHA256
+all_packages-tile-6.44.5.zip: d57929a5eac8e10d388609dc2fcfe77ca8697472a743913608daf8ffb80baea7MD5
+all_packages-ppc-6.44.5.zip: 77bd37318adcb777a2b0fa165c40a741SHA256
+all_packages-ppc-6.44.5.zip: f3a31ceac9a8dea2d172f85f3174fbaf77a21382c4a61445d833b5f1c7f59197MD5
+all_packages-arm-6.44.5.zip: aeae416464ff421b44ce6bacc2597575SHA256
+all_packages-arm-6.44.5.zip: 55a835c4e680b2c5da1213c874575bd7860362d61148cd26edd26f52ef266a13MD5
+all_packages-arm-6.44.5.zip: aeae416464ff421b44ce6bacc2597575SHA256
+all_packages-arm-6.44.5.zip: 55a835c4e680b2c5da1213c874575bd7860362d61148cd26edd26f52ef266a13MD5
+all_packages-ppc-6.44.5.zip: 77bd37318adcb777a2b0fa165c40a741SHA256
+all_packages-ppc-6.44.5.zip: f3a31ceac9a8dea2d172f85f3174fbaf77a21382c4a61445d833b5f1c7f59197MD5
+all_packages-x86-6.44.5.zip: 4609dd5d9321da35d669c4ea96371e56SHA256
+all_packages-x86-6.44.5.zip: d3ac81c27998460d0a8f1633cce9f32a1a1092e7856dc7598424d18ca44d1a0dMD5
+all_packages-mmips-6.44.5.zip: ffeaff4342b1f05b42f57d9d876f3323SHA256
+all_packages-mmips-6.44.5.zip: f595f910fbdcf6ee3a5798ef0984c0622ed6a1c489241da442b288520546ec78MD5
+all_packages-tile-6.44.5.zip: df3307484f9463e4f30194ef8fee7ce2SHA256
+all_packages-tile-6.44.5.zip: d57929a5eac8e10d388609dc2fcfe77ca8697472a743913608daf8ffb80baea7MD5
+all_packages-mipsbe-6.44.5.zip: b5b294535540d83ce5133f60bc754456SHA256
+all_packages-mipsbe-6.44.5.zip: 67da510debd94b486844a2e5f6e21e3eb8da45a85c0ca3e2f3b3152ffce7831cMD5
+all_packages-smips-6.44.5.zip: 2dc70e1d5f0ee09b690a368113567a4aSHA256
+all_packages-smips-6.44.5.zip: fde16b80fc59759a71378ce74258fda16f1bee6d1cf37ae115f56d7f3a991177MD5
+mikrotik-6.44.5.iso: a7aafa0325a385c1a69c9d800481ab61SHA256
+mikrotik-6.44.5.iso: 6a8b1792519ba4015064e8dbc449c6e53d3d4847b6fa33825d03dd4b9ba9c7b5MD5
+mikrotik-6.44.5.iso: a7aafa0325a385c1a69c9d800481ab61SHA256
+mikrotik-6.44.5.iso: 6a8b1792519ba4015064e8dbc449c6e53d3d4847b6fa33825d03dd4b9ba9c7b5MD5
+mikrotik-6.44.5.iso: a7aafa0325a385c1a69c9d800481ab61SHA256
+mikrotik-6.44.5.iso: 6a8b1792519ba4015064e8dbc449c6e53d3d4847b6fa33825d03dd4b9ba9c7b5MD5
+netinstall-6.44.5-arm.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-arm.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-ppc.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-ppc.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-mmips.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-mmips.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-mipsbe.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-mipsbe.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-smips.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-smips.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-tile.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-tile.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-mipsbe.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-mipsbe.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-smips.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-smips.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-tile.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-tile.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-ppc.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-ppc.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-arm.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-arm.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-mmips.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-mmips.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-tile.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-tile.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-smips.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-smips.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-mipsbe.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-mipsbe.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-mmips.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-mmips.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-arm.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-arm.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+netinstall-6.44.5-ppc.zip: cb41fe541859010e2abac1da0815708bSHA256
+netinstall-6.44.5-ppc.zip: 2547085cc5d2b70807dfd3e59640bd6de63dc48c06f4cfe1cf52c1e5db60dee3MD5
+dude-6.44.5.npk: 32c18d60b447616693dda628035a26deSHA256
+dude-6.44.5.npk: 5f67aa962d31b4c989952695eeab57e54914961adee9665a2bc9fd7d87447998MD5
+dude-6.44.5-arm.npk: f8653b1b7fa969ab299f9b957f66a170SHA256
+dude-6.44.5-arm.npk: f6758e863c03a6cc4f98c86a53ad1fdcf346be92a3eb2247b2ed05dec9e51e9eMD5
+dude-6.44.5-tile.npk: 318eaf9cb1e215c37d2ea8c6fd61f0e4SHA256
+dude-6.44.5-tile.npk: ee6297b4e8d5feeb4eb4cc5bbac89c8ae4a4b0224c614b2ae02cc707fb9276d5MD5
+dude-6.44.5-mmips.npk: 62dcdc6514d85b50cc8dc47f5316ede8SHA256
+dude-6.44.5-mmips.npk: 644f4287d36b839263494fe63534114674174d14c8750ec4cd105bb9d97fa2bdMD5
+dude-6.44.5-tile.npk: 318eaf9cb1e215c37d2ea8c6fd61f0e4SHA256
+dude-6.44.5-tile.npk: ee6297b4e8d5feeb4eb4cc5bbac89c8ae4a4b0224c614b2ae02cc707fb9276d5MD5
+dude-6.44.5.npk: 32c18d60b447616693dda628035a26deSHA256
+dude-6.44.5.npk: 5f67aa962d31b4c989952695eeab57e54914961adee9665a2bc9fd7d87447998MD5
+dude-6.44.5-arm.npk: f8653b1b7fa969ab299f9b957f66a170SHA256
+dude-6.44.5-arm.npk: f6758e863c03a6cc4f98c86a53ad1fdcf346be92a3eb2247b2ed05dec9e51e9eMD5
+dude-6.44.5-mmips.npk: 62dcdc6514d85b50cc8dc47f5316ede8SHA256
+dude-6.44.5-mmips.npk: 644f4287d36b839263494fe63534114674174d14c8750ec4cd105bb9d97fa2bdMD5
+dude-6.44.5-mmips.npk: 62dcdc6514d85b50cc8dc47f5316ede8SHA256
+dude-6.44.5-mmips.npk: 644f4287d36b839263494fe63534114674174d14c8750ec4cd105bb9d97fa2bdMD5
+dude-6.44.5.npk: 32c18d60b447616693dda628035a26deSHA256
+dude-6.44.5.npk: 5f67aa962d31b4c989952695eeab57e54914961adee9665a2bc9fd7d87447998MD5
+dude-6.44.5-arm.npk: f8653b1b7fa969ab299f9b957f66a170SHA256
+dude-6.44.5-arm.npk: f6758e863c03a6cc4f98c86a53ad1fdcf346be92a3eb2247b2ed05dec9e51e9eMD5
+dude-6.44.5-tile.npk: 318eaf9cb1e215c37d2ea8c6fd61f0e4SHA256
+dude-6.44.5-tile.npk: ee6297b4e8d5feeb4eb4cc5bbac89c8ae4a4b0224c614b2ae02cc707fb9276d5MD5
+dude-install-6.44.5.exe: 8bc66c3bfe9f4b00f4074d4a98ba6367SHA256
+dude-install-6.44.5.exe: 5f9790d3ea1e7d083e767e7d9d7d1e285da0ac0b2260fe5b8613db3a0656ac0fMD5
+dude-install-6.44.5.exe: 8bc66c3bfe9f4b00f4074d4a98ba6367SHA256
+dude-install-6.44.5.exe: 5f9790d3ea1e7d083e767e7d9d7d1e285da0ac0b2260fe5b8613db3a0656ac0fMD5
+dude-install-6.44.5.exe: 8bc66c3bfe9f4b00f4074d4a98ba6367SHA256
+dude-install-6.44.5.exe: 5f9790d3ea1e7d083e767e7d9d7d1e285da0ac0b2260fe5b8613db3a0656ac0f
+×
+MD5
+routeros-tile-6.45.3.npk: 0f318403a1b923f1f44ecc03b07d5819SHA256
+routeros-tile-6.45.3.npk: 66345e02a998ac601da36979bb3ea253d519b647c02e43d7ccd3973ea038649dMD5
+routeros-smips-6.45.3.npk: 4a08564e74d045194c5fe09ee23e3891SHA256
+routeros-smips-6.45.3.npk: ce935c9d362455c2a468e16d3c3245f48e412aa7207d1697de66245184d77369MD5
+routeros-x86-6.45.3.npk: 4c71cf3098454d460a9065003964bb5eSHA256
+routeros-x86-6.45.3.npk: 859b0690b12ed4e59f40301042a8b55c9c2c26c222a9a06c65c9d54d7a959bb2MD5
+routeros-powerpc-6.45.3.npk: 5f9f9557a1c47ee4aeb043c8dc049f77SHA256
+routeros-powerpc-6.45.3.npk: 59efd2de0185f5d2f31aa26a1751fb4d70fadd72623cc3d6408f1e80d5b1b3d8MD5
+routeros-mipsbe-6.45.3.npk: 14ab42d9c37674f1e63c01b93034a704SHA256
+routeros-mipsbe-6.45.3.npk: bc0bc432c98f321f74719d20d87b8fc608e970b997f21bc0ea2a63a59dbb761aMD5
+routeros-arm-6.45.3.npk: a669a9913b575da0bbe3ebd69b69b892SHA256
+routeros-arm-6.45.3.npk: d77e95ad80e28b4c6fd6e7e2218b36fa6232fd9f37bcdcfc2a339194111975c7MD5
+routeros-mmips-6.45.3.npk: df5b9cb1b04c124ffbb60996f6a67ad2SHA256
+routeros-mmips-6.45.3.npk: e21e0070d0b77a100db74bf7e293c1f9b708ad0c0ee3760dd52f915040253786MD5
+routeros-mipsbe-6.45.3.npk: 14ab42d9c37674f1e63c01b93034a704SHA256
+routeros-mipsbe-6.45.3.npk: bc0bc432c98f321f74719d20d87b8fc608e970b997f21bc0ea2a63a59dbb761aMD5
+routeros-tile-6.45.3.npk: 0f318403a1b923f1f44ecc03b07d5819SHA256
+routeros-tile-6.45.3.npk: 66345e02a998ac601da36979bb3ea253d519b647c02e43d7ccd3973ea038649dMD5
+routeros-arm-6.45.3.npk: a669a9913b575da0bbe3ebd69b69b892SHA256
+routeros-arm-6.45.3.npk: d77e95ad80e28b4c6fd6e7e2218b36fa6232fd9f37bcdcfc2a339194111975c7MD5
+routeros-mmips-6.45.3.npk: df5b9cb1b04c124ffbb60996f6a67ad2SHA256
+routeros-mmips-6.45.3.npk: e21e0070d0b77a100db74bf7e293c1f9b708ad0c0ee3760dd52f915040253786MD5
+routeros-x86-6.45.3.npk: 4c71cf3098454d460a9065003964bb5eSHA256
+routeros-x86-6.45.3.npk: 859b0690b12ed4e59f40301042a8b55c9c2c26c222a9a06c65c9d54d7a959bb2MD5
+routeros-smips-6.45.3.npk: 4a08564e74d045194c5fe09ee23e3891SHA256
+routeros-smips-6.45.3.npk: ce935c9d362455c2a468e16d3c3245f48e412aa7207d1697de66245184d77369MD5
+routeros-powerpc-6.45.3.npk: 5f9f9557a1c47ee4aeb043c8dc049f77SHA256
+routeros-powerpc-6.45.3.npk: 59efd2de0185f5d2f31aa26a1751fb4d70fadd72623cc3d6408f1e80d5b1b3d8MD5
+routeros-tile-6.45.3.npk: 0f318403a1b923f1f44ecc03b07d5819SHA256
+routeros-tile-6.45.3.npk: 66345e02a998ac601da36979bb3ea253d519b647c02e43d7ccd3973ea038649dMD5
+routeros-arm-6.45.3.npk: a669a9913b575da0bbe3ebd69b69b892SHA256
+routeros-arm-6.45.3.npk: d77e95ad80e28b4c6fd6e7e2218b36fa6232fd9f37bcdcfc2a339194111975c7MD5
+routeros-powerpc-6.45.3.npk: 5f9f9557a1c47ee4aeb043c8dc049f77SHA256
+routeros-powerpc-6.45.3.npk: 59efd2de0185f5d2f31aa26a1751fb4d70fadd72623cc3d6408f1e80d5b1b3d8MD5
+routeros-mmips-6.45.3.npk: df5b9cb1b04c124ffbb60996f6a67ad2SHA256
+routeros-mmips-6.45.3.npk: e21e0070d0b77a100db74bf7e293c1f9b708ad0c0ee3760dd52f915040253786MD5
+routeros-mipsbe-6.45.3.npk: 14ab42d9c37674f1e63c01b93034a704SHA256
+routeros-mipsbe-6.45.3.npk: bc0bc432c98f321f74719d20d87b8fc608e970b997f21bc0ea2a63a59dbb761aMD5
+routeros-smips-6.45.3.npk: 4a08564e74d045194c5fe09ee23e3891SHA256
+routeros-smips-6.45.3.npk: ce935c9d362455c2a468e16d3c3245f48e412aa7207d1697de66245184d77369MD5
+routeros-x86-6.45.3.npk: 4c71cf3098454d460a9065003964bb5eSHA256
+routeros-x86-6.45.3.npk: 859b0690b12ed4e59f40301042a8b55c9c2c26c222a9a06c65c9d54d7a959bb2MD5
+all_packages-mmips-6.45.3.zip: cd4f7fb8eb85944ff1ad0c4460d29926SHA256
+all_packages-mmips-6.45.3.zip: 7c9d446c19780e3c4c2772480f11289064b99b62802c156ad3ade92468d4a96bMD5
+all_packages-ppc-6.45.3.zip: 0674e62699ab7b26b1c8d601b70144dbSHA256
+all_packages-ppc-6.45.3.zip: fb0de5094be2520a82fab5df4241c54d0b053a7e0f5a10dcca61fd4630f43616MD5
+all_packages-arm-6.45.3.zip: c8ea97615ab20a695fa0af5bff657ac4SHA256
+all_packages-arm-6.45.3.zip: f506794b6dbf71f27664ade6549c02f6b5be5710935767522b1e0ce26e5c62b0MD5
+all_packages-x86-6.45.3.zip: 964ad558d0a83999c481629e593989d4SHA256
+all_packages-x86-6.45.3.zip: 87fa613b05c52b0cc0778c0834547904681ceb3a3834b10f72c304f07e7e0a39MD5
+all_packages-tile-6.45.3.zip: f10577c52adf9282ee1104cee9dffb2aSHA256
+all_packages-tile-6.45.3.zip: 4c2cdf10db870d018ad0df60085318359adb7e942ece70018986cafdbe218af7MD5
+all_packages-smips-6.45.3.zip: 2ead8df8cfc1dd61d05bcc5489e0481aSHA256
+all_packages-smips-6.45.3.zip: 1c298932795f9b65d8204eed88f4612190fad01fc4ef02290cba57b0f691c835MD5
+all_packages-mipsbe-6.45.3.zip: add760b4d0d242652fb47e2b390a0961SHA256
+all_packages-mipsbe-6.45.3.zip: 383a4f2587c84722c072c318fedb3cc373cc6f640a18b057bef22e7d9c065b5dMD5
+all_packages-ppc-6.45.3.zip: 0674e62699ab7b26b1c8d601b70144dbSHA256
+all_packages-ppc-6.45.3.zip: fb0de5094be2520a82fab5df4241c54d0b053a7e0f5a10dcca61fd4630f43616MD5
+all_packages-mipsbe-6.45.3.zip: add760b4d0d242652fb47e2b390a0961SHA256
+all_packages-mipsbe-6.45.3.zip: 383a4f2587c84722c072c318fedb3cc373cc6f640a18b057bef22e7d9c065b5dMD5
+all_packages-tile-6.45.3.zip: f10577c52adf9282ee1104cee9dffb2aSHA256
+all_packages-tile-6.45.3.zip: 4c2cdf10db870d018ad0df60085318359adb7e942ece70018986cafdbe218af7MD5
+all_packages-mmips-6.45.3.zip: cd4f7fb8eb85944ff1ad0c4460d29926SHA256
+all_packages-mmips-6.45.3.zip: 7c9d446c19780e3c4c2772480f11289064b99b62802c156ad3ade92468d4a96bMD5
+all_packages-smips-6.45.3.zip: 2ead8df8cfc1dd61d05bcc5489e0481aSHA256
+all_packages-smips-6.45.3.zip: 1c298932795f9b65d8204eed88f4612190fad01fc4ef02290cba57b0f691c835MD5
+all_packages-x86-6.45.3.zip: 964ad558d0a83999c481629e593989d4SHA256
+all_packages-x86-6.45.3.zip: 87fa613b05c52b0cc0778c0834547904681ceb3a3834b10f72c304f07e7e0a39MD5
+all_packages-arm-6.45.3.zip: c8ea97615ab20a695fa0af5bff657ac4SHA256
+all_packages-arm-6.45.3.zip: f506794b6dbf71f27664ade6549c02f6b5be5710935767522b1e0ce26e5c62b0MD5
+all_packages-arm-6.45.3.zip: c8ea97615ab20a695fa0af5bff657ac4SHA256
+all_packages-arm-6.45.3.zip: f506794b6dbf71f27664ade6549c02f6b5be5710935767522b1e0ce26e5c62b0MD5
+all_packages-mmips-6.45.3.zip: cd4f7fb8eb85944ff1ad0c4460d29926SHA256
+all_packages-mmips-6.45.3.zip: 7c9d446c19780e3c4c2772480f11289064b99b62802c156ad3ade92468d4a96bMD5
+all_packages-tile-6.45.3.zip: f10577c52adf9282ee1104cee9dffb2aSHA256
+all_packages-tile-6.45.3.zip: 4c2cdf10db870d018ad0df60085318359adb7e942ece70018986cafdbe218af7MD5
+all_packages-mipsbe-6.45.3.zip: add760b4d0d242652fb47e2b390a0961SHA256
+all_packages-mipsbe-6.45.3.zip: 383a4f2587c84722c072c318fedb3cc373cc6f640a18b057bef22e7d9c065b5dMD5
+all_packages-smips-6.45.3.zip: 2ead8df8cfc1dd61d05bcc5489e0481aSHA256
+all_packages-smips-6.45.3.zip: 1c298932795f9b65d8204eed88f4612190fad01fc4ef02290cba57b0f691c835MD5
+all_packages-x86-6.45.3.zip: 964ad558d0a83999c481629e593989d4SHA256
+all_packages-x86-6.45.3.zip: 87fa613b05c52b0cc0778c0834547904681ceb3a3834b10f72c304f07e7e0a39MD5
+all_packages-ppc-6.45.3.zip: 0674e62699ab7b26b1c8d601b70144dbSHA256
+all_packages-ppc-6.45.3.zip: fb0de5094be2520a82fab5df4241c54d0b053a7e0f5a10dcca61fd4630f43616MD5
+mikrotik-6.45.3.iso: ca87cc98d97739661301cc977d42f13fSHA256
+mikrotik-6.45.3.iso: 5bb68dc11d1f1bc08fc1197148a08631ee48647b9aca7889d6370395f4762688MD5
+mikrotik-6.45.3.iso: ca87cc98d97739661301cc977d42f13fSHA256
+mikrotik-6.45.3.iso: 5bb68dc11d1f1bc08fc1197148a08631ee48647b9aca7889d6370395f4762688MD5
+mikrotik-6.45.3.iso: ca87cc98d97739661301cc977d42f13fSHA256
+mikrotik-6.45.3.iso: 5bb68dc11d1f1bc08fc1197148a08631ee48647b9aca7889d6370395f4762688MD5
+netinstall-6.45.3-arm.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-arm.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-ppc.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-ppc.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-mmips.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-mmips.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-mipsbe.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-mipsbe.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-smips.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-smips.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-tile.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-tile.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-tile.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-tile.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-arm.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-arm.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-mipsbe.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-mipsbe.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-mmips.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-mmips.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-ppc.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-ppc.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-smips.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-smips.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-mipsbe.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-mipsbe.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-mmips.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-mmips.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-ppc.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-ppc.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-arm.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-arm.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-tile.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-tile.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+netinstall-6.45.3-smips.zip: 4081b79d648046604177a2bf0c66d8a9SHA256
+netinstall-6.45.3-smips.zip: fc4b98e9a714b1a3d20fe6783ecab76c18efd92ccb2f71787f3aba2dfb5937feMD5
+dude-6.45.3.npk: 7ad35957bad3d2550c8fd6bd90c08e37SHA256
+dude-6.45.3.npk: 0b5f10248c68b2acb6f507a947da4c2a6cab7ca4dad2760d5d2951a499d4d218MD5
+dude-6.45.3-tile.npk: 1b6c56668f864c7f244f2f1d2374df01SHA256
+dude-6.45.3-tile.npk: 9815e7c15b2e79c1902b8e67f70ff7a793ed0dd3532dd157790cb47616d10f38MD5
+dude-6.45.3-arm.npk: 1f015173ce218376ff491f0ad89617a1SHA256
+dude-6.45.3-arm.npk: 41b063a87e2765f0bc6597252b92daad256434783274a62082293a8ed8e344c9MD5
+dude-6.45.3-mmips.npk: 868e528f8dfdbd49234102e032d9f6e8SHA256
+dude-6.45.3-mmips.npk: 576739e8b2c7050279b85ffff48589d26e3bbbe0e1b6cb74a52076c7b4cc4e90MD5
+dude-6.45.3-mmips.npk: 868e528f8dfdbd49234102e032d9f6e8SHA256
+dude-6.45.3-mmips.npk: 576739e8b2c7050279b85ffff48589d26e3bbbe0e1b6cb74a52076c7b4cc4e90MD5
+dude-6.45.3-arm.npk: 1f015173ce218376ff491f0ad89617a1SHA256
+dude-6.45.3-arm.npk: 41b063a87e2765f0bc6597252b92daad256434783274a62082293a8ed8e344c9MD5
+dude-6.45.3.npk: 7ad35957bad3d2550c8fd6bd90c08e37SHA256
+dude-6.45.3.npk: 0b5f10248c68b2acb6f507a947da4c2a6cab7ca4dad2760d5d2951a499d4d218MD5
+dude-6.45.3-tile.npk: 1b6c56668f864c7f244f2f1d2374df01SHA256
+dude-6.45.3-tile.npk: 9815e7c15b2e79c1902b8e67f70ff7a793ed0dd3532dd157790cb47616d10f38MD5
+dude-6.45.3.npk: 7ad35957bad3d2550c8fd6bd90c08e37SHA256
+dude-6.45.3.npk: 0b5f10248c68b2acb6f507a947da4c2a6cab7ca4dad2760d5d2951a499d4d218MD5
+dude-6.45.3-arm.npk: 1f015173ce218376ff491f0ad89617a1SHA256
+dude-6.45.3-arm.npk: 41b063a87e2765f0bc6597252b92daad256434783274a62082293a8ed8e344c9MD5
+dude-6.45.3-mmips.npk: 868e528f8dfdbd49234102e032d9f6e8SHA256
+dude-6.45.3-mmips.npk: 576739e8b2c7050279b85ffff48589d26e3bbbe0e1b6cb74a52076c7b4cc4e90MD5
+dude-6.45.3-tile.npk: 1b6c56668f864c7f244f2f1d2374df01SHA256
+dude-6.45.3-tile.npk: 9815e7c15b2e79c1902b8e67f70ff7a793ed0dd3532dd157790cb47616d10f38MD5
+dude-install-6.45.3.exe: 8f000881eeeb524c2c1e14b04c97a153SHA256
+dude-install-6.45.3.exe: 44788db32d4a0309c66b2e42d484b0d9cd0964b143e1ced11011ce1b3abd0543MD5
+dude-install-6.45.3.exe: 8f000881eeeb524c2c1e14b04c97a153SHA256
+dude-install-6.45.3.exe: 44788db32d4a0309c66b2e42d484b0d9cd0964b143e1ced11011ce1b3abd0543MD5
+dude-install-6.45.3.exe: 8f000881eeeb524c2c1e14b04c97a153SHA256
+dude-install-6.45.3.exe: 44788db32d4a0309c66b2e42d484b0d9cd0964b143e1ced11011ce1b3abd0543
+×
+MD5
+routeros-powerpc-6.46beta28.npk: 09a6f4414fb49f5111ae9877b0a15359SHA256
+routeros-powerpc-6.46beta28.npk: 975389ce8c9f53b30c07300509771bc1589a57e2433302aee7cea162334cb680MD5
+routeros-tile-6.46beta28.npk: 7b721193a26eda21a01ac91fefa6c707SHA256
+routeros-tile-6.46beta28.npk: cb16762b111a603ee329470c23c7e7da5aed752f73283ac131aab102b8cebcb3MD5
+routeros-smips-6.46beta28.npk: 63d7e928835e3d6998b79ef875ddca8dSHA256
+routeros-smips-6.46beta28.npk: 0df9d3afd81a9264278d243c69449a588d2325bd45af1f8efa5b149f7dbee99cMD5
+routeros-x86-6.46beta28.npk: 1c38f05a10cfe4cec43cfd24ca811e28SHA256
+routeros-x86-6.46beta28.npk: 900c48651afc2516c533979a1052924d72f59e9f4a6b8efc843e0dd92a24720fMD5
+routeros-mmips-6.46beta28.npk: df8993682d2fd27dacda8174a065e30aSHA256
+routeros-mmips-6.46beta28.npk: 518b4c6c64b66dab49be9adb756259936e0043cf6b8aea4a1659d1d04ee71c28MD5
+routeros-mipsbe-6.46beta28.npk: 265ba149c0c55dbca02c7584fc8480b5SHA256
+routeros-mipsbe-6.46beta28.npk: 9c0433425422d26d79483fdf13d5507f89e314205e6a9fa9759a8760f47b660dMD5
+routeros-arm-6.46beta28.npk: 121f5ee03d554ed36e1c0fe3e4c76c3eSHA256
+routeros-arm-6.46beta28.npk: 56d4fd7824bf5aa4758de112effec67dc59349b4300cfca9b2bab0172bc5dc3fMD5
+routeros-mipsbe-6.46beta28.npk: 265ba149c0c55dbca02c7584fc8480b5SHA256
+routeros-mipsbe-6.46beta28.npk: 9c0433425422d26d79483fdf13d5507f89e314205e6a9fa9759a8760f47b660dMD5
+routeros-arm-6.46beta28.npk: 121f5ee03d554ed36e1c0fe3e4c76c3eSHA256
+routeros-arm-6.46beta28.npk: 56d4fd7824bf5aa4758de112effec67dc59349b4300cfca9b2bab0172bc5dc3fMD5
+routeros-tile-6.46beta28.npk: 7b721193a26eda21a01ac91fefa6c707SHA256
+routeros-tile-6.46beta28.npk: cb16762b111a603ee329470c23c7e7da5aed752f73283ac131aab102b8cebcb3MD5
+routeros-smips-6.46beta28.npk: 63d7e928835e3d6998b79ef875ddca8dSHA256
+routeros-smips-6.46beta28.npk: 0df9d3afd81a9264278d243c69449a588d2325bd45af1f8efa5b149f7dbee99cMD5
+routeros-powerpc-6.46beta28.npk: 09a6f4414fb49f5111ae9877b0a15359SHA256
+routeros-powerpc-6.46beta28.npk: 975389ce8c9f53b30c07300509771bc1589a57e2433302aee7cea162334cb680MD5
+routeros-mmips-6.46beta28.npk: df8993682d2fd27dacda8174a065e30aSHA256
+routeros-mmips-6.46beta28.npk: 518b4c6c64b66dab49be9adb756259936e0043cf6b8aea4a1659d1d04ee71c28MD5
+routeros-x86-6.46beta28.npk: 1c38f05a10cfe4cec43cfd24ca811e28SHA256
+routeros-x86-6.46beta28.npk: 900c48651afc2516c533979a1052924d72f59e9f4a6b8efc843e0dd92a24720fMD5
+routeros-arm-6.46beta28.npk: 121f5ee03d554ed36e1c0fe3e4c76c3eSHA256
+routeros-arm-6.46beta28.npk: 56d4fd7824bf5aa4758de112effec67dc59349b4300cfca9b2bab0172bc5dc3fMD5
+routeros-powerpc-6.46beta28.npk: 09a6f4414fb49f5111ae9877b0a15359SHA256
+routeros-powerpc-6.46beta28.npk: 975389ce8c9f53b30c07300509771bc1589a57e2433302aee7cea162334cb680MD5
+routeros-x86-6.46beta28.npk: 1c38f05a10cfe4cec43cfd24ca811e28SHA256
+routeros-x86-6.46beta28.npk: 900c48651afc2516c533979a1052924d72f59e9f4a6b8efc843e0dd92a24720fMD5
+routeros-mmips-6.46beta28.npk: df8993682d2fd27dacda8174a065e30aSHA256
+routeros-mmips-6.46beta28.npk: 518b4c6c64b66dab49be9adb756259936e0043cf6b8aea4a1659d1d04ee71c28MD5
+routeros-tile-6.46beta28.npk: 7b721193a26eda21a01ac91fefa6c707SHA256
+routeros-tile-6.46beta28.npk: cb16762b111a603ee329470c23c7e7da5aed752f73283ac131aab102b8cebcb3MD5
+routeros-smips-6.46beta28.npk: 63d7e928835e3d6998b79ef875ddca8dSHA256
+routeros-smips-6.46beta28.npk: 0df9d3afd81a9264278d243c69449a588d2325bd45af1f8efa5b149f7dbee99cMD5
+routeros-mipsbe-6.46beta28.npk: 265ba149c0c55dbca02c7584fc8480b5SHA256
+routeros-mipsbe-6.46beta28.npk: 9c0433425422d26d79483fdf13d5507f89e314205e6a9fa9759a8760f47b660dMD5
+all_packages-mipsbe-6.46beta28.zip: 04d3dc83a8359c7bb2e64b84293529ebSHA256
+all_packages-mipsbe-6.46beta28.zip: 97822c844b8e3be5f3d47c4d24b063f53e6d2899347185b304aeb1bb89b8d907MD5
+all_packages-x86-6.46beta28.zip: 0a105329499cbb5035bb8ba35b1e93f9SHA256
+all_packages-x86-6.46beta28.zip: 7df2095597c67783fd20f95a924288a97f2f7043967b488ea491b42f105732eaMD5
+all_packages-arm-6.46beta28.zip: f4258d33748e7cda1c42c7d1ebf39016SHA256
+all_packages-arm-6.46beta28.zip: af7a14816c03342dd44c6ee21b5b6b080cbfabd4b9ebfcde61e14fe01f023c16MD5
+all_packages-ppc-6.46beta28.zip: 2f31c00ae296df4bab12d1d430a1445eSHA256
+all_packages-ppc-6.46beta28.zip: 17148c7cd55d34561da8c59e893c5b8dff0acd3176f7f8fc8c7e11d59f615cfdMD5
+all_packages-tile-6.46beta28.zip: 4b51b0e3dd67b2c0fe98b2638e239ed8SHA256
+all_packages-tile-6.46beta28.zip: f4cb62939697325e1580a8137da4a4b20f648ded82a88a8fc8f508bfea08d3b9MD5
+all_packages-smips-6.46beta28.zip: abac8baf4ea7a6ec903b544dddc45048SHA256
+all_packages-smips-6.46beta28.zip: 8b9d7bd77029f57fd180875b86b60004c2758e5409286ea07ff6ec1672fe9c3aMD5
+all_packages-mmips-6.46beta28.zip: 2ac7773101227fccdd758ef4d9da6bfdSHA256
+all_packages-mmips-6.46beta28.zip: d616316993c31c9c6c02adb5eb99f102fd0d324163bb3d603b409400f1add304MD5
+all_packages-tile-6.46beta28.zip: 4b51b0e3dd67b2c0fe98b2638e239ed8SHA256
+all_packages-tile-6.46beta28.zip: f4cb62939697325e1580a8137da4a4b20f648ded82a88a8fc8f508bfea08d3b9MD5
+all_packages-ppc-6.46beta28.zip: 2f31c00ae296df4bab12d1d430a1445eSHA256
+all_packages-ppc-6.46beta28.zip: 17148c7cd55d34561da8c59e893c5b8dff0acd3176f7f8fc8c7e11d59f615cfdMD5
+all_packages-arm-6.46beta28.zip: f4258d33748e7cda1c42c7d1ebf39016SHA256
+all_packages-arm-6.46beta28.zip: af7a14816c03342dd44c6ee21b5b6b080cbfabd4b9ebfcde61e14fe01f023c16MD5
+all_packages-x86-6.46beta28.zip: 0a105329499cbb5035bb8ba35b1e93f9SHA256
+all_packages-x86-6.46beta28.zip: 7df2095597c67783fd20f95a924288a97f2f7043967b488ea491b42f105732eaMD5
+all_packages-smips-6.46beta28.zip: abac8baf4ea7a6ec903b544dddc45048SHA256
+all_packages-smips-6.46beta28.zip: 8b9d7bd77029f57fd180875b86b60004c2758e5409286ea07ff6ec1672fe9c3aMD5
+all_packages-mmips-6.46beta28.zip: 2ac7773101227fccdd758ef4d9da6bfdSHA256
+all_packages-mmips-6.46beta28.zip: d616316993c31c9c6c02adb5eb99f102fd0d324163bb3d603b409400f1add304MD5
+all_packages-mipsbe-6.46beta28.zip: 04d3dc83a8359c7bb2e64b84293529ebSHA256
+all_packages-mipsbe-6.46beta28.zip: 97822c844b8e3be5f3d47c4d24b063f53e6d2899347185b304aeb1bb89b8d907MD5
+all_packages-smips-6.46beta28.zip: abac8baf4ea7a6ec903b544dddc45048SHA256
+all_packages-smips-6.46beta28.zip: 8b9d7bd77029f57fd180875b86b60004c2758e5409286ea07ff6ec1672fe9c3aMD5
+all_packages-mipsbe-6.46beta28.zip: 04d3dc83a8359c7bb2e64b84293529ebSHA256
+all_packages-mipsbe-6.46beta28.zip: 97822c844b8e3be5f3d47c4d24b063f53e6d2899347185b304aeb1bb89b8d907MD5
+all_packages-ppc-6.46beta28.zip: 2f31c00ae296df4bab12d1d430a1445eSHA256
+all_packages-ppc-6.46beta28.zip: 17148c7cd55d34561da8c59e893c5b8dff0acd3176f7f8fc8c7e11d59f615cfdMD5
+all_packages-arm-6.46beta28.zip: f4258d33748e7cda1c42c7d1ebf39016SHA256
+all_packages-arm-6.46beta28.zip: af7a14816c03342dd44c6ee21b5b6b080cbfabd4b9ebfcde61e14fe01f023c16MD5
+all_packages-mmips-6.46beta28.zip: 2ac7773101227fccdd758ef4d9da6bfdSHA256
+all_packages-mmips-6.46beta28.zip: d616316993c31c9c6c02adb5eb99f102fd0d324163bb3d603b409400f1add304MD5
+all_packages-tile-6.46beta28.zip: 4b51b0e3dd67b2c0fe98b2638e239ed8SHA256
+all_packages-tile-6.46beta28.zip: f4cb62939697325e1580a8137da4a4b20f648ded82a88a8fc8f508bfea08d3b9MD5
+all_packages-x86-6.46beta28.zip: 0a105329499cbb5035bb8ba35b1e93f9SHA256
+all_packages-x86-6.46beta28.zip: 7df2095597c67783fd20f95a924288a97f2f7043967b488ea491b42f105732eaMD5
+mikrotik-6.46beta28.iso: d32abbe7483ac77e7674af1a1b1cf595SHA256
+mikrotik-6.46beta28.iso: ea31f2bd4c7f3aabd4e6631953c59b5b655c6ae35553a693b7d2def1f79f490aMD5
+mikrotik-6.46beta28.iso: d32abbe7483ac77e7674af1a1b1cf595SHA256
+mikrotik-6.46beta28.iso: ea31f2bd4c7f3aabd4e6631953c59b5b655c6ae35553a693b7d2def1f79f490aMD5
+mikrotik-6.46beta28.iso: d32abbe7483ac77e7674af1a1b1cf595SHA256
+mikrotik-6.46beta28.iso: ea31f2bd4c7f3aabd4e6631953c59b5b655c6ae35553a693b7d2def1f79f490aMD5
+netinstall-6.46beta28-tile.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-tile.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-ppc.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-ppc.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-arm.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-arm.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-mmips.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-mmips.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-mipsbe.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-mipsbe.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-smips.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-smips.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-arm.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-arm.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-tile.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-tile.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-smips.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-smips.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-ppc.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-ppc.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-mipsbe.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-mipsbe.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-mmips.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-mmips.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-tile.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-tile.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-ppc.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-ppc.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-arm.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-arm.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-mmips.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-mmips.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-mipsbe.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-mipsbe.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+netinstall-6.46beta28-smips.zip: 0dbd511f127b78b0b58b56b8fd83eea5SHA256
+netinstall-6.46beta28-smips.zip: a545dafca244ea21357fffd9dbe6901d39b3bbe76ce4e89e63e9d58449a57099MD5
+dude-6.46beta28.npk: ab55ef15dde48b73f69642aa33523eb2SHA256
+dude-6.46beta28.npk: 9ffe9355fc49e8df9bf6eca2e77cafb46b577fe1241f151ed116b307e6c9e77fMD5
+dude-6.46beta28-arm.npk: 1d80cfafd5ea6cc0b5b4ff4785ab2176SHA256
+dude-6.46beta28-arm.npk: e453a78aa970c3e8f0c3dcca6212e06b291b2f386b78d4b6fee1027ad6a81ad8MD5
+dude-6.46beta28-tile.npk: 977e2cbe8875f88c310100e229b22265SHA256
+dude-6.46beta28-tile.npk: f605b383a706bbd5892d63fdd4e775319b801714970d23f61922cf4f0c6f76efMD5
+dude-6.46beta28-mmips.npk: fab1325a7b22d8b7d645838d1435f994SHA256
+dude-6.46beta28-mmips.npk: 95cf196795f5c05e8f3461b9a1dd2b8646d023aeff33111f6dae5aae3a989b74MD5
+dude-6.46beta28.npk: ab55ef15dde48b73f69642aa33523eb2SHA256
+dude-6.46beta28.npk: 9ffe9355fc49e8df9bf6eca2e77cafb46b577fe1241f151ed116b307e6c9e77fMD5
+dude-6.46beta28-tile.npk: 977e2cbe8875f88c310100e229b22265SHA256
+dude-6.46beta28-tile.npk: f605b383a706bbd5892d63fdd4e775319b801714970d23f61922cf4f0c6f76efMD5
+dude-6.46beta28-arm.npk: 1d80cfafd5ea6cc0b5b4ff4785ab2176SHA256
+dude-6.46beta28-arm.npk: e453a78aa970c3e8f0c3dcca6212e06b291b2f386b78d4b6fee1027ad6a81ad8MD5
+dude-6.46beta28-mmips.npk: fab1325a7b22d8b7d645838d1435f994SHA256
+dude-6.46beta28-mmips.npk: 95cf196795f5c05e8f3461b9a1dd2b8646d023aeff33111f6dae5aae3a989b74MD5
+dude-6.46beta28-mmips.npk: fab1325a7b22d8b7d645838d1435f994SHA256
+dude-6.46beta28-mmips.npk: 95cf196795f5c05e8f3461b9a1dd2b8646d023aeff33111f6dae5aae3a989b74MD5
+dude-6.46beta28-tile.npk: 977e2cbe8875f88c310100e229b22265SHA256
+dude-6.46beta28-tile.npk: f605b383a706bbd5892d63fdd4e775319b801714970d23f61922cf4f0c6f76efMD5
+dude-6.46beta28-arm.npk: 1d80cfafd5ea6cc0b5b4ff4785ab2176SHA256
+dude-6.46beta28-arm.npk: e453a78aa970c3e8f0c3dcca6212e06b291b2f386b78d4b6fee1027ad6a81ad8MD5
+dude-6.46beta28.npk: ab55ef15dde48b73f69642aa33523eb2SHA256
+dude-6.46beta28.npk: 9ffe9355fc49e8df9bf6eca2e77cafb46b577fe1241f151ed116b307e6c9e77fMD5
+dude-install-6.46beta28.exe: 0425c9ef8b79a435e50a006723f8381eSHA256
+dude-install-6.46beta28.exe: b8a508f457fd561d49c2b71a4f3d462c0c11a910d50e0f76945ad133ec098994MD5
+dude-install-6.46beta28.exe: 0425c9ef8b79a435e50a006723f8381eSHA256
+dude-install-6.46beta28.exe: b8a508f457fd561d49c2b71a4f3d462c0c11a910d50e0f76945ad133ec098994MD5
+dude-install-6.46beta28.exe: 0425c9ef8b79a435e50a006723f8381eSHA256
+dude-install-6.46beta28.exe: b8a508f457fd561d49c2b71a4f3d462c0c11a910d50e0f76945ad133ec098994
+×
+MD5 all_packages-x86-6.44.5.zip: 4609dd5d9321da35d669c4ea96371e56SHA256 all_packages-x86-6.44.5.zip: d3ac81c27998460d0a8f1633cce9f32a1a1092e7856dc7598424d18ca44d1a0dMD5 all_packages-x86-6.44.5.zip: 4609dd5d9321da35d669c4ea96371e56SHA256 all_packages-x86-6.44.5.zip: d3ac81c27998460d0a8f1633cce9f32a1a1092e7856dc7598424d18ca44d1a0dMD5 all_packages-x86-6.44.5.zip: 4609dd5d9321da35d669c4ea96371e56SHA256 all_packages-x86-6.44.5.zip: d3ac81c27998460d0a8f1633cce9f32a1a1092e7856dc7598424d18ca44d1a0dMD5 chr-6.44.5.img.zip: 50c46a9e26d4e7466449c24570cd42d6SHA256 chr-6.44.5.img.zip: adc743c8e3a4a3a9a1e7fc27ba693c65c3fa7e5469972b2ed12d0b6a88c84186MD5 chr-6.44.5.img.zip: 50c46a9e26d4e7466449c24570cd42d6SHA256 chr-6.44.5.img.zip: adc743c8e3a4a3a9a1e7fc27ba693c65c3fa7e5469972b2ed12d0b6a88c84186MD5 chr-6.44.5.img.zip: 50c46a9e26d4e7466449c24570cd42d6SHA256 chr-6.44.5.img.zip: adc743c8e3a4a3a9a1e7fc27ba693c65c3fa7e5469972b2ed12d0b6a88c84186MD5 chr-6.44.5.vmdk: 48b43e3dc1cda512b36e53d9d184ea47SHA256 chr-6.44.5.vmdk: 4c44b74f437a2b4310c856ccc2ee311649f3af204f7d752b239b5a9890746efcMD5 chr-6.44.5.vmdk: 48b43e3dc1cda512b36e53d9d184ea47SHA256 chr-6.44.5.vmdk: 4c44b74f437a2b4310c856ccc2ee311649f3af204f7d752b239b5a9890746efcMD5 chr-6.44.5.vmdk: 48b43e3dc1cda512b36e53d9d184ea47SHA256 chr-6.44.5.vmdk: 4c44b74f437a2b4310c856ccc2ee311649f3af204f7d752b239b5a9890746efcMD5 chr-6.44.5.vhdx: 4ae51c4cb68d44d6836a08a94e862a58SHA256 chr-6.44.5.vhdx: ce084b65f82203dbc6bea48c0ec79f50665da6a4cd659073709b305facd38363MD5 chr-6.44.5.vhdx: 4ae51c4cb68d44d6836a08a94e862a58SHA256 chr-6.44.5.vhdx: ce084b65f82203dbc6bea48c0ec79f50665da6a4cd659073709b305facd38363MD5 chr-6.44.5.vhdx: 4ae51c4cb68d44d6836a08a94e862a58SHA256 chr-6.44.5.vhdx: ce084b65f82203dbc6bea48c0ec79f50665da6a4cd659073709b305facd38363MD5 chr-6.44.5.vdi: 7c1c3a608316c8aa9a22866f7ca145ebSHA256 chr-6.44.5.vdi: b4fa4cef1e28eecf1d85c45e1942c86c672470ad5783216fe209a26dcef6de98MD5 chr-6.44.5.vdi: 7c1c3a608316c8aa9a22866f7ca145ebSHA256 chr-6.44.5.vdi: b4fa4cef1e28eecf1d85c45e1942c86c672470ad5783216fe209a26dcef6de98MD5 chr-6.44.5.vdi: 7c1c3a608316c8aa9a22866f7ca145ebSHA256 chr-6.44.5.vdi: b4fa4cef1e28eecf1d85c45e1942c86c672470ad5783216fe209a26dcef6de98MD5 dude-6.44.5.npk: 32c18d60b447616693dda628035a26deSHA256 dude-6.44.5.npk: 5f67aa962d31b4c989952695eeab57e54914961adee9665a2bc9fd7d87447998MD5 dude-6.44.5.npk: 32c18d60b447616693dda628035a26deSHA256 dude-6.44.5.npk: 5f67aa962d31b4c989952695eeab57e54914961adee9665a2bc9fd7d87447998MD5 dude-6.44.5.npk: 32c18d60b447616693dda628035a26deSHA256 dude-6.44.5.npk: 5f67aa962d31b4c989952695eeab57e54914961adee9665a2bc9fd7d87447998MD5 dude-install-6.44.5.exe: 8bc66c3bfe9f4b00f4074d4a98ba6367SHA256 dude-install-6.44.5.exe: 5f9790d3ea1e7d083e767e7d9d7d1e285da0ac0b2260fe5b8613db3a0656ac0fMD5 dude-install-6.44.5.exe: 8bc66c3bfe9f4b00f4074d4a98ba6367SHA256 dude-install-6.44.5.exe: 5f9790d3ea1e7d083e767e7d9d7d1e285da0ac0b2260fe5b8613db3a0656ac0fMD5 dude-install-6.44.5.exe: 8bc66c3bfe9f4b00f4074d4a98ba6367SHA256 dude-install-6.44.5.exe: 5f9790d3ea1e7d083e767e7d9d7d1e285da0ac0b2260fe5b8613db3a0656ac0fMD5 chr-6.44.5.ova: 50460c0908c52aff5f3cdaa11c348270SHA256 chr-6.44.5.ova: 203b456465c29dcaa7eecc326e3f16893b12648018ce97d8575d6c0192b06d7dMD5 chr-6.44.5.ova: 50460c0908c52aff5f3cdaa11c348270SHA256 chr-6.44.5.ova: 203b456465c29dcaa7eecc326e3f16893b12648018ce97d8575d6c0192b06d7dMD5 chr-6.44.5.ova: 50460c0908c52aff5f3cdaa11c348270SHA256 chr-6.44.5.ova: 203b456465c29dcaa7eecc326e3f16893b12648018ce97d8575d6c0192b06d7d
+×
+MD5 all_packages-x86-6.46beta28.zip: 0a105329499cbb5035bb8ba35b1e93f9SHA256 all_packages-x86-6.46beta28.zip: 7df2095597c67783fd20f95a924288a97f2f7043967b488ea491b42f105732eaMD5 all_packages-x86-6.46beta28.zip: 0a105329499cbb5035bb8ba35b1e93f9SHA256 all_packages-x86-6.46beta28.zip: 7df2095597c67783fd20f95a924288a97f2f7043967b488ea491b42f105732eaMD5 all_packages-x86-6.46beta28.zip: 0a105329499cbb5035bb8ba35b1e93f9SHA256 all_packages-x86-6.46beta28.zip: 7df2095597c67783fd20f95a924288a97f2f7043967b488ea491b42f105732eaMD5 chr-6.46beta28.img.zip: 33043396879d1230072e359a433a6b9cSHA256 chr-6.46beta28.img.zip: cbf850e096259246973e45781c705991b59db716430d280b883136853bf134c2MD5 chr-6.46beta28.img.zip: 33043396879d1230072e359a433a6b9cSHA256 chr-6.46beta28.img.zip: cbf850e096259246973e45781c705991b59db716430d280b883136853bf134c2MD5 chr-6.46beta28.img.zip: 33043396879d1230072e359a433a6b9cSHA256 chr-6.46beta28.img.zip: cbf850e096259246973e45781c705991b59db716430d280b883136853bf134c2MD5 chr-6.46beta28.vmdk: e8f3e300e5b00f903cc0d015d2ce5875SHA256 chr-6.46beta28.vmdk: 6cca254d7f4c8d160963b719a097c8b7622ff16c9e1b1559d0139fe13711e0ffMD5 chr-6.46beta28.vmdk: e8f3e300e5b00f903cc0d015d2ce5875SHA256 chr-6.46beta28.vmdk: 6cca254d7f4c8d160963b719a097c8b7622ff16c9e1b1559d0139fe13711e0ffMD5 chr-6.46beta28.vmdk: e8f3e300e5b00f903cc0d015d2ce5875SHA256 chr-6.46beta28.vmdk: 6cca254d7f4c8d160963b719a097c8b7622ff16c9e1b1559d0139fe13711e0ffMD5 chr-6.46beta28.vhdx: 251e7c8780fa0422ca8d55b5840137c9SHA256 chr-6.46beta28.vhdx: 76e09964a66556639a68ab23376060c8718a053c20765f8ea1d8fe79460ca1d4MD5 chr-6.46beta28.vhdx: 251e7c8780fa0422ca8d55b5840137c9SHA256 chr-6.46beta28.vhdx: 76e09964a66556639a68ab23376060c8718a053c20765f8ea1d8fe79460ca1d4MD5 chr-6.46beta28.vhdx: 251e7c8780fa0422ca8d55b5840137c9SHA256 chr-6.46beta28.vhdx: 76e09964a66556639a68ab23376060c8718a053c20765f8ea1d8fe79460ca1d4MD5 chr-6.46beta28.vdi: 6dc22f74bdba05d4154e00e0bce3db9aSHA256 chr-6.46beta28.vdi: 6b88d5b24b3124d8b64fb9af4c41bafe058fbef747231520ccac22c0e42b0aa1MD5 chr-6.46beta28.vdi: 6dc22f74bdba05d4154e00e0bce3db9aSHA256 chr-6.46beta28.vdi: 6b88d5b24b3124d8b64fb9af4c41bafe058fbef747231520ccac22c0e42b0aa1MD5 chr-6.46beta28.vdi: 6dc22f74bdba05d4154e00e0bce3db9aSHA256 chr-6.46beta28.vdi: 6b88d5b24b3124d8b64fb9af4c41bafe058fbef747231520ccac22c0e42b0aa1MD5 dude-6.46beta28.npk: ab55ef15dde48b73f69642aa33523eb2SHA256 dude-6.46beta28.npk: 9ffe9355fc49e8df9bf6eca2e77cafb46b577fe1241f151ed116b307e6c9e77fMD5 dude-6.46beta28.npk: ab55ef15dde48b73f69642aa33523eb2SHA256 dude-6.46beta28.npk: 9ffe9355fc49e8df9bf6eca2e77cafb46b577fe1241f151ed116b307e6c9e77fMD5 dude-6.46beta28.npk: ab55ef15dde48b73f69642aa33523eb2SHA256 dude-6.46beta28.npk: 9ffe9355fc49e8df9bf6eca2e77cafb46b577fe1241f151ed116b307e6c9e77fMD5 dude-install-6.46beta28.exe: 0425c9ef8b79a435e50a006723f8381eSHA256 dude-install-6.46beta28.exe: b8a508f457fd561d49c2b71a4f3d462c0c11a910d50e0f76945ad133ec098994MD5 dude-install-6.46beta28.exe: 0425c9ef8b79a435e50a006723f8381eSHA256 dude-install-6.46beta28.exe: b8a508f457fd561d49c2b71a4f3d462c0c11a910d50e0f76945ad133ec098994MD5 dude-install-6.46beta28.exe: 0425c9ef8b79a435e50a006723f8381eSHA256 dude-install-6.46beta28.exe: b8a508f457fd561d49c2b71a4f3d462c0c11a910d50e0f76945ad133ec098994MD5 chr-6.46beta28.ova: bd3bf88ec7139bf1cf32b5dbad347f13SHA256 chr-6.46beta28.ova: 0b0fca3d84642332ef20cf206b6646ee8b6c675d462e93588dc71f9907a17ef0MD5 chr-6.46beta28.ova: bd3bf88ec7139bf1cf32b5dbad347f13SHA256 chr-6.46beta28.ova: 0b0fca3d84642332ef20cf206b6646ee8b6c675d462e93588dc71f9907a17ef0MD5 chr-6.46beta28.ova: bd3bf88ec7139bf1cf32b5dbad347f13SHA256 chr-6.46beta28.ova: 0b0fca3d84642332ef20cf206b6646ee8b6c675d462e93588dc71f9907a17ef0
+×
+MD5 all_packages-x86-6.45.3.zip: 964ad558d0a83999c481629e593989d4SHA256 all_packages-x86-6.45.3.zip: 87fa613b05c52b0cc0778c0834547904681ceb3a3834b10f72c304f07e7e0a39MD5 all_packages-x86-6.45.3.zip: 964ad558d0a83999c481629e593989d4SHA256 all_packages-x86-6.45.3.zip: 87fa613b05c52b0cc0778c0834547904681ceb3a3834b10f72c304f07e7e0a39MD5 all_packages-x86-6.45.3.zip: 964ad558d0a83999c481629e593989d4SHA256 all_packages-x86-6.45.3.zip: 87fa613b05c52b0cc0778c0834547904681ceb3a3834b10f72c304f07e7e0a39MD5 chr-6.45.3.img.zip: 3de4dc527b75c8c5d2eafe903f91d7e0SHA256 chr-6.45.3.img.zip: 1ab3f617deef192bdc0cd3e77df1ed9848f72b9e27382b2c51eb24b9762cffa3MD5 chr-6.45.3.img.zip: 3de4dc527b75c8c5d2eafe903f91d7e0SHA256 chr-6.45.3.img.zip: 1ab3f617deef192bdc0cd3e77df1ed9848f72b9e27382b2c51eb24b9762cffa3MD5 chr-6.45.3.img.zip: 3de4dc527b75c8c5d2eafe903f91d7e0SHA256 chr-6.45.3.img.zip: 1ab3f617deef192bdc0cd3e77df1ed9848f72b9e27382b2c51eb24b9762cffa3MD5 chr-6.45.3.vmdk: ba6f3d09c9466f8630c0ff7bc592708fSHA256 chr-6.45.3.vmdk: b040a5a2dbeaa49f7157c541573b0d4aca7530e6784c5142d5607fda6d9e1788MD5 chr-6.45.3.vmdk: ba6f3d09c9466f8630c0ff7bc592708fSHA256 chr-6.45.3.vmdk: b040a5a2dbeaa49f7157c541573b0d4aca7530e6784c5142d5607fda6d9e1788MD5 chr-6.45.3.vmdk: ba6f3d09c9466f8630c0ff7bc592708fSHA256 chr-6.45.3.vmdk: b040a5a2dbeaa49f7157c541573b0d4aca7530e6784c5142d5607fda6d9e1788MD5 chr-6.45.3.vhdx: 46caf53ca2cd5cd4d52c1da5e09fb730SHA256 chr-6.45.3.vhdx: da45a2aaeaf6e51d2a0e3441f7b5bbe4a679d4617257492521e570f31b821e1aMD5 chr-6.45.3.vhdx: 46caf53ca2cd5cd4d52c1da5e09fb730SHA256 chr-6.45.3.vhdx: da45a2aaeaf6e51d2a0e3441f7b5bbe4a679d4617257492521e570f31b821e1aMD5 chr-6.45.3.vhdx: 46caf53ca2cd5cd4d52c1da5e09fb730SHA256 chr-6.45.3.vhdx: da45a2aaeaf6e51d2a0e3441f7b5bbe4a679d4617257492521e570f31b821e1aMD5 chr-6.45.3.vdi: ba097a953d5b5f37826e76f23de7e20bSHA256 chr-6.45.3.vdi: deba3675cb81dbedd233eeee2651cc0f4d0f50fa89828a902c6bce760af0d476MD5 chr-6.45.3.vdi: ba097a953d5b5f37826e76f23de7e20bSHA256 chr-6.45.3.vdi: deba3675cb81dbedd233eeee2651cc0f4d0f50fa89828a902c6bce760af0d476MD5 chr-6.45.3.vdi: ba097a953d5b5f37826e76f23de7e20bSHA256 chr-6.45.3.vdi: deba3675cb81dbedd233eeee2651cc0f4d0f50fa89828a902c6bce760af0d476MD5 dude-6.45.3.npk: 7ad35957bad3d2550c8fd6bd90c08e37SHA256 dude-6.45.3.npk: 0b5f10248c68b2acb6f507a947da4c2a6cab7ca4dad2760d5d2951a499d4d218MD5 dude-6.45.3.npk: 7ad35957bad3d2550c8fd6bd90c08e37SHA256 dude-6.45.3.npk: 0b5f10248c68b2acb6f507a947da4c2a6cab7ca4dad2760d5d2951a499d4d218MD5 dude-6.45.3.npk: 7ad35957bad3d2550c8fd6bd90c08e37SHA256 dude-6.45.3.npk: 0b5f10248c68b2acb6f507a947da4c2a6cab7ca4dad2760d5d2951a499d4d218MD5 dude-install-6.45.3.exe: 8f000881eeeb524c2c1e14b04c97a153SHA256 dude-install-6.45.3.exe: 44788db32d4a0309c66b2e42d484b0d9cd0964b143e1ced11011ce1b3abd0543MD5 dude-install-6.45.3.exe: 8f000881eeeb524c2c1e14b04c97a153SHA256 dude-install-6.45.3.exe: 44788db32d4a0309c66b2e42d484b0d9cd0964b143e1ced11011ce1b3abd0543MD5 dude-install-6.45.3.exe: 8f000881eeeb524c2c1e14b04c97a153SHA256 dude-install-6.45.3.exe: 44788db32d4a0309c66b2e42d484b0d9cd0964b143e1ced11011ce1b3abd0543MD5 chr-6.45.3.ova: 024d3c64f1b45ada8a49f18a19aa1af3SHA256 chr-6.45.3.ova: e9614a61faea089072b6c6e3baca032912a8ede894d3084b32c62043c07f22e5MD5 chr-6.45.3.ova: 024d3c64f1b45ada8a49f18a19aa1af3SHA256 chr-6.45.3.ova: e9614a61faea089072b6c6e3baca032912a8ede894d3084b32c62043c07f22e5MD5 chr-6.45.3.ova: 024d3c64f1b45ada8a49f18a19aa1af3SHA256 chr-6.45.3.ova: e9614a61faea089072b6c6e3baca032912a8ede894d3084b32c62043c07f22e5
+×
+What's new in 6.44.5 (2019-Jul-04 10:32):
+MAJOR CHANGES IN v6.44.5:
+----------------------
+!) security - fixed vulnerabilities CVE-2019-13954, CVE-2019-13955;
+!) security - fixed vulnerabilities CVE-2019-11477, CVE-2019-11478, CVE-2019-11479;
+!) security - fixed vulnerability CVE-2019-13074;
+----------------------
+Changes in this release:
+*) bridge - correctly handle bridge host table;
+*) capsman - fixed CAP system upgrading process for MMIPS;
+*) capsman - fixed interface-list usage in access list;
+*) certificate - removed "set-ca-passphrase" parameter;
+*) cloud - properly stop "time-zone-autodetect" after disable;
+*) conntrack - fixed GRE protocol packet connection-state matching (CVE-2014-8160);
+*) defconf - automatically set "installation" parameter for outdoor devices;
+*) dhcpv6-client - fixed status update when leaving "bound" state;
+*) dhcpv6-server - fixed dynamic IPv6 binding without proper reference to the server;
+*) dhcpv6-server - override prefix pool and/or DNS server settings by values received from RADIUS;
+*) discovery - fixed CDP packets not including address on slave ports (introduced in v6.44);
+*) e-mail - properly release e-mail sending session if the server's domain name can not be resolved;
+*) firewall - fixed fragmented packet processing when only RAW firewall is configured;
+*) firewall - process packets by firewall when accepted by RAW with disabled connection tracking;
+*) gps - strip unnecessary trailing characters from "longtitude" and "latitude" values;
+*) hotspot - moved "title" HTML tag after "meta" tags;
+*) ipv6 - improved system stability when receiving bogus packets;
+*) ovpn - added "verify-server-certificate" parameter for OVPN client (CVE-2018-10066);
+*) rb3011 - improved system stability when receiving bogus packets;
+*) rb921 - improved system stability ("/system routerboard upgrade" required);
+*) snmp - improved reliability on SNMP service packet validation;
+*) ssh - fixed non-interactive multiple command execution;
+*) supout - added IPv6 ND section to supout file;
+*) supout - added "pwr-line" section to supout file;
+*) supout - changed IPv6 pool section to output detailed print;
+*) winbox - do not allow setting "dns-lookup-interval" to "0";
+*) wireless - improved DFS radar detection when using non-ETSI regulated country;
+*) wireless - improved installation mode selection for wireless outdoor equipment;
+*) wireless - updated "china" regulatory domain information;
+*) www - improved client-initiated renegotiation within the SSL and TLS protocols (CVE-2011-1473);
+Changelog archive
+×
+What's new in 6.45.3 (2019-Jul-29 12:11):
+Important note!!!
+Due to removal of compatibility with old version passwords in this version, downgrading to any version prior to v6.43 (v6.42.12 and older) will clear all user passwords and allow password-less authentication. Please secure your router after downgrading.
+Old API authentication method will also no longer work, see documentation for new login procedure:
+https://wiki.mikrotik.com/wiki/Manual:API#Initial_login
+*) certificate - renew certificates via SCEP when 3/4 of lifetime reached;
+*) crs317 - fixed multicast packet receiving (introduced in v6.45);
+*) hotspot - fixed default profile values not being used (introduced in v6.45);
+*) rb4011 - fixed SFP+ interface linking (introduced in v6.45.2);
+*) smips - reduced RouterOS main package size (disabled LTE modem, dot1x and SwOS support);
+*) supout - fixed SIM slot printing (introduced in v6.45);
+*) wireless - improved U-APSD (WMM Power Save) support for 802.11e;
+Changelog archive
+×
+What's new in 6.46beta28 (2019-Aug-08 07:26):
+Changes in this release:
+*) certificate - improved CRL updating process;
+*) defconf - require "policy" permission to print default configuration;
+*) gps - use "serial1" as default port on RBLtAP-2HnD;
+*) ike1 - fixed minor spelling mistake in logs;
+*) ike2 - don't release policy on rekey when child not found;
+*) ike2 - fixed ID validation with multiple SAN;
+*) ike2 - fixed policy port selection for responder with natted initiator;
+*) ike2 - improved rekeying process with Windows initiators;
+*) ipsec - allow inline "passphrase" parameter when importing keys;
+*) lte - fixed band setting on R11e-4G;
+*) lte - fixed cell information monitoring on R11e-LTE-US (introduced in v6.45.2);
+*) ppp - added 3GPP IoT "access-technology" definitions;
+*) ppp - added support for Sierra WP7601;
+*) routerboard - fixed default CPU frequency on RB750r2 ("/system routerboard upgrade" required);
+*) snmp - fixed "radio-name" (mtxrWlRtabRadioName) OID support;
+*) webfig - fixed link to Winbox download;
+*) winbox - added "auto-erase" parameter to "Tools/SMS" menu;
+*) winbox - added "https-redirect" parameter to "IP/Hotspot/Profiles menu";
+*) winbox - added "ip-address" and stats columns in "IP/Kid-Control/Devices" menu;
+*) winbox - added "public-address-ipv6" parameter to "IP/Cloud" menu;
+*) winbox - added "reset-counters" button to "IP/Kid Control/Devices" menu;
+*) winbox - added "revision" parameter to "System/Routerboard" menu;
+*) winbox - added "tx-info-field" parameter to "Wireless/W60G" menu;
+*) winbox - added "Vendor Classes" tab in "IP/DHCP Server" menu;
+*) winbox - added wireless alignment LED types to "System/LEDs" menu;
+*) winbox - fixed allowed range for bridge filter "new-priority" parameter;
+*) winbox - fixed "cluster-id" parameter setting in "Routing/BGP/Instances" menu;
+*) winbox - fixed file locking when uploading multiple files at once;
+*) winbox - fixed firewall limit parameter support for rates more than 4G;
+*) winbox - fixed invalid flag presence in "IP/SMB/Shares" menu;
+*) winbox - fixed "Routing" menu icon presence when there is no routing package installed;
+*) winbox - improved stability when transfering multiple files between multiple windows;
+*) winbox - removed "max-sms" parameter from "Tools/SMS" menu;
+*) winbox - removed "Set CA Passphrase" button from "Certificate" menu;
+*) winbox - renamed "Queue Limit" to "Queue Size" for "pcq-upload-default" and "pcq-download-default" parameters;
+*) winbox - replaced "kb" with "KiB" in "Tools/Packet Sniffer" menu;
+*) winbox - show "Switch" menu on RBwAPGR-5HacD2HnD;
+*) winbox - show "System/RouterBOARD/Mode Button" on devices that have such feature;
+*) wireless - fixed basic rate reporting in snooper;
+Other changes since v6.45.3:
+*) bonding - correctly remove HW offloaded bonding with ARP monitoring;
+*) bonding - properly handle MAC addresses when bonding WLAN interfaces;
+*) bridge - disable/enable bridge port when setting bpdu-guard;
+*) bridge - do not add bridge as untagged VLAN member when frame-types=admit-only-vlan-tagged;
+*) capsman - improved DFS channel switching when radar detected;
+*) conntrack - properly start manually enabled connection tracking;
+*) crs3xx - correctly handle L2MTU change;
+*) crs3xx - remove previously set mirror-source property before changing it;
+*) dhcpv6-server - include "User-Name" parameter in accounting requests;
+*) dhcpv6-server - made "calling-station-id" contain MAC address if DUID contains it;
+*) ethernet - automatically detect interface when using IP address for power-cycle-ping;
+*) ethernet - send requests only from ethernet interface when using MAC address for power-cycle-ping;
+*) fetch - improved stability when processing large output data;
+*) hotspot - fixed non-local NAT redirection to port TCP/64873;
+*) ipsec - added "error" topic for identity check failure logging messages;
+*) lte - do not allow setting 3G and GSM modes on LTE only modems;
+*) lte - fixed USB network device driver initialization (introduced in v6.46beta9);
+*) lte - show "primary-band" only for LTE modems;
+*) ppp - disable DTR send when using at-chat;
+*) switch - correctly update dynamic switch rule when dhcp-snooping is enabled;
+*) switch - fix port isolation for non-CRS series switch chips;
+*) tr069-client - added multiple LTE monitoring parameters;
+*) tr069-client - reconnect to ACS when "ConnectionRequestURL" is updated;
+*) usb - general USB modem stability improvements;
+*) userman - updated Authorize.Net to use SHA512 hashing;
+*) w60g - added "region" setting to limit allowed frequencies (CLI only);
+*) winbox - properly show timestamp in file "Creation Time" field;
+*) wireless - fixed 802.11n rate selection when managed by CAPsMAN;
+*) wireless - improved 802.11ac stability for all ARM devices with wireless;
+*) wireless - updated "ukraine" regulatory domain information;
+Changelog archive
+×
+NPK file - Default RouterOS version upgrade package, most important features included
+ZIP file - Contains all packages, including additional ones (User manager, etc.)
+ISO file - CD disk image, available only for x86 instruction set
+Netinstall - Utility for Installation from network
+Click on changelog link to view changes in current and previous versions.
+Click on MD5 link to view MD5 hashes of files.
+Export Eligibility Requirements and END USER LICENSE
+×
+RouterOS
+6.44.5 (Long-term)6.45.3 (Stable)6.46beta28 (Testing)
+MIPSBECRS1xx, CRS2xx, DISC, FiberBox, hAP, hAP ac, hAP ac lite, LDF, LHG, ltAP mini, mANTBox, mAP, NetBox, NetMetal, PowerBox, PWR-Line, QRT, RB9xx, SXTsq, cAP, hEX Lite, RB4xx, wAP, BaseBox, DynaDish, RB2011, SXT, OmniTik, Groove, Metal, Sextant, RB7xx, hEX PoEMain packageExtra packagesSMIPShAP mini, hAP liteMain packageExtra packagesTILECCRMain packageExtra packagesThe Dude serverPPCRB3xx, RB600, RB8xx, RB1100AHx2, RB1100AH, RB1100, RB1200Main packageExtra packagesARMcAP ac, DISC AC, hAP ac², LDF ac, LHG ac, RB4011, SXTsq (ac series), Wireless Wire, CRS3xx, RB3011, RB1100AHx4, RB450Gx4Main packageExtra packagesThe Dude serverX86RB230, X86Main packageExtra packagesCD ImageThe Dude serverMMIPShEX (RB750Gr3), hEX S, RBMxxMain packageExtra packagesThe Dude serverGENERALNetinstallThe Dude clientChangelogChecksum
+Cloud Hosted Router
+6.44.5 (Long-term)6.45.3 (Stable)6.46beta28 (Testing)
+Imagesvmdk, vhdx, vdi, ova, imgVHDX imageVMDK imageVDI imageOVA templateRaw disk imageExtra packagesThe Dude serverThe Dude clientChangelogChecksum
+SwitchOS
+SwitchesChangelog 1.17version 1.17 for RB250GSversion 1.17 for RB260GS, RB260GSPversion 2.9 for new RB260GS(CSS106-5G-1S), new RB260GSP(CSS106-1G-4P-1S)version 2.9 for CRS305-1G-4S+version 2.9 for CRS317-1G-16S+version 2.9 for CSS326-24G-2S+, CRS326-24G-2S+version 2.9 for CRS328-4C-20S-4S+version 2.9 for CRS328-24P-4S+Changelog 2.9
+Useful tools and utilities
+Wireless link calculatorWireless link probability calculator
+×
+MikroTik
+Home
+About
+Customers
+Jobs
+Support
+Get support
+Forum
+Wiki
+Send an E-mail
+Other
+Newsletters
+MUM
+Designs
+Youtube
+Privacy policy
+Click Here
+Sign up for the newsletter
+Please sign up to get notified about new RouterOS version releases and other useful information!
+MikroTik app
+
+
+
+
+
+
+================= https://mikrotik.com/client ==================
+
+
+
+
+
+MikroTik Routers and Wireless
+HomeAboutBuyJobsHardwareSoftwareSupportTrainingAccount
+My account
+My account
+LOG IN
+Register
+Username
+Username
+Username
+Username
+Username
+Username
+Password
+Password
+Password
+Password
+Password
+Password
+Log in
+Forgot password?
+MikroTik
+Home
+About
+Customers
+Jobs
+Support
+Get support
+Forum
+Wiki
+Send an E-mail
+Other
+Newsletters
+MUM
+Designs
+Youtube
+Privacy policy
+Click Here
+Sign up for the newsletter
+Please sign up to get notified about new RouterOS version releases and other useful information!
+MikroTik app

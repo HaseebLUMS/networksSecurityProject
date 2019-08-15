@@ -49,8 +49,10 @@ def contains_prediction(a):
 --writes the inferred rule in file "RULES"
 '''
 def run_apriori(trans):
-	results = list(apriori(trans, min_support=0.005, min_confidence=0.01) ) 
-
+	results = list(apriori(trans, min_support=0.0005, min_confidence=1))
+	#0.0001, 0.005
+	#0.005
+	#2721
 	print(len(results))
 	df = pd.DataFrame(columns=('Items','Support','Confidence'))
 	Support = []
@@ -77,6 +79,7 @@ def run_apriori(trans):
 	df['Confidence'] = Confidence
 	df.to_csv('Rules.csv')
 	df.to_pickle('RULES')
+	print(len(df['Items']))
 	print(df)
 
 def main():
@@ -85,7 +88,7 @@ def main():
 	trans = []
 	for key in data:
 		trans.append(data[key])
-	print(len(trans))
+	# print(len(trans))
 	run_apriori(trans)
 
 main()

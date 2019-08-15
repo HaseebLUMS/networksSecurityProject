@@ -30,75 +30,103 @@ def refine_query(q, mode):
 	return data
 
 
+
+def write_query_map(ori, ref):
+	with open("queryMap.json", "r") as f: prevData = f.read()
+	prevData = json.loads(prevData)
+	newKey = len(prevData)
+	prevData[str(newKey)] = {"ori": ori, "ref": ref}
+	prevData = json.dumps(prevData, indent=4)
+	with open("queryMap.json", "w") as f: f.write(prevData)
+
+
 '''
 Runs the ARE files sequenctially
 '''
-def run_files():
+def run_files(ori):
 	print('Prediction Engine Started!')
-
-
-
 	comm = 'touch output.txt && rm output.txt'
 	os.system(comm)
 
 	move = False
 	try:
-		comm = 'python3 mod_1_web_crawler_and_contexter/webcrawler.py input_banner_data.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types'
+		comm = 'python3 mod_1_web_crawler_and_contexter/webcrawler.py input_banner_data.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types make'
 		os.system(comm)
 		move = True
-	except:
-		move = False
-		print("Exception occured in web crawler.")
+	except Exception as exception:
+		print(exception)
 
+	if move == False:
+		return
 
-	comm = 'touch mod_2_corpus_and_rule_based_der/Output/output.txt && rm mod_2_corpus_and_rule_based_der/Output/output.txt'
-	os.system(comm)
+	with open('refined_queries_set.json', 'r') as f: refined_queries = f.read()
+	refined_queries = json.loads(refined_queries)
+	refined_queries = refined_queries['queries']
 
-	if move:
-		comm = 'cp output.txt mod_2_corpus_and_rule_based_der/Output/output.txt'
-		os.system(comm)
-		comm = 'cp raw.txt mod_2_corpus_and_rule_based_der/raw.txt'
-		os.system(comm)
+	for ref_que in refined_queries:
+		write_query_map(ori, ref_que)
+		print('in action: ', ref_que)
+		with open('refinedQuery.txt', 'w') as f: f.write(ref_que)
 
-
-	if move:
 		try:
-			comm = 'python3 mod_2_corpus_and_rule_based_der/NamedEntityRecognition.py mod_2_corpus_and_rule_based_der/Output/output.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types mod_2_corpus_and_rule_based_der/raw.txt'
+			comm = 'python3 mod_1_web_crawler_and_contexter/webcrawler.py refinedQuery.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types run'
 			os.system(comm)
-		except:
+			move = True
+		except Exception as exception:
 			move = False
-			print("Exception occured in DER")
+			print("Exception occured in web crawler.", exception)
 
-	
 
-	
-	comm = 'touch output.txt && rm output.txt'
-	os.system(comm)
+		comm = 'touch mod_2_corpus_and_rule_based_der/Output/output.txt && rm mod_2_corpus_and_rule_based_der/Output/output.txt'
+		os.system(comm)
 
-	with open("raw.txt", 'r') as f:
-		data = f.read()
-		data = data.split(" ")
-		if len(data) < 3:
-			move = False
-
-	comm = 'cp raw.txt mod_3_local_dependency_finder/raw.txt && rm raw.txt'
-	os.system(comm)
-
-	
-	comm = 'cp predictions.json mod_3_local_dependency_finder/predictions.json && rm predictions.json'
-	os.system(comm)
-
-	if move:
-		try:
-			comm = 'python mod_3_local_dependency_finder/local_dependency_finder.py mod_3_local_dependency_finder/predictions.json mod_3_local_dependency_finder/raw.txt'
+		if move:
+			comm = 'cp output.txt mod_2_corpus_and_rule_based_der/Output/output.txt'
 			os.system(comm)
-		except:
-			print("Exception occured in local dependency finder")
+			comm = 'cp raw.txt mod_2_corpus_and_rule_based_der/raw.txt'
+			os.system(comm)
 
-	# if move is False:
-	# 	with open('annotation.txt', 'w') as f:
-	# 		f.write(" | | ")
-	return move
+
+		if move:
+			try:
+				comm = 'python3 mod_2_corpus_and_rule_based_der/NamedEntityRecognition.py mod_2_corpus_and_rule_based_der/Output/output.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types mod_2_corpus_and_rule_based_der/raw.txt'
+				os.system(comm)
+			except:
+				move = False
+				print("Exception occured in DER")
+
+		
+
+		
+		comm = 'touch output.txt && rm output.txt'
+		os.system(comm)
+
+		with open("raw.txt", 'r') as f:
+			data = f.read()
+			data = data.split(" ")
+			if len(data) < 3:
+				move = False
+
+		comm = 'cp raw.txt mod_3_local_dependency_finder/raw.txt && rm raw.txt'
+		os.system(comm)
+
+		
+		comm = 'cp predictions.json mod_3_local_dependency_finder/predictions.json && rm predictions.json'
+		os.system(comm)
+
+		if move:
+			try:
+				comm = 'python mod_3_local_dependency_finder/local_dependency_finder.py mod_3_local_dependency_finder/predictions.json mod_3_local_dependency_finder/raw.txt'
+				os.system(comm)
+			except:
+				print("Exception occured in local dependency finder")
+
+		# if move is False:
+		# 	with open('annotation.txt', 'w') as f:
+		# 		f.write(" | | ")
+		make_transaction()
+	return 1
+
 
 '''
 Makes a json file
@@ -140,16 +168,16 @@ def make_transaction():
 
 
 def main():
-	heavy_servers = ['apache', 'iis', 'ngnix']
 	with open('input_banner_data.txt') as f: data = f.read()
+
+	heavy_servers = ['apache', 'iis', 'ngnix']
 	data = data.lower()
 	for ele in heavy_servers:
 		if ele in data:
 			print('banner belongs to nonIOT device.')
 			return
 	start = time.time()
-	run_files()
-	make_transaction()
+	run_files(data)
 	end = time.time()
 	print('Execution Time: ', end - start)
 main()

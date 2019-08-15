@@ -92,7 +92,6 @@ def find_dependency(text, vendors, device_types):
 			# 	ans_ven = v
 			# 	ans_dev = d
 	
-	print(anns)
 	return anns
 
 
@@ -103,20 +102,15 @@ alongwith a product name where as a and b are
 variables (device annotations, in practice).
 '''
 def find_product(text, a, b, tags):
-	max_lines = 0
-	ans_prod = ''
+	ans_prod = set({})
 
 	for t in tags:
-		count  = 0
 		for line in text:
 			if ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()) in line.lower())):
-				count += 1
+				ans_prod.add(t.upper())
+				break
 
-		if count > max_lines:
-			max_lines = count
-			ans_prod = t
-
-	return ans_prod
+	return list(ans_prod)
 
 
 '''
@@ -141,31 +135,32 @@ def main():
 	for predicted_label in predicted_labels:
 		ans = ""
 		try:
-			print('Brand: ', predicted_label['vendor'].upper())
 			ans = predicted_label['vendor'].upper() + " | "
 		except:
 			pass
 		
 		try:
-			print('Device: ', predicted_label['device_type'].upper())
 			ans = ans + predicted_label['device_type'].upper()
 		except:
 			pass
 
 		text = selected_text #narrows down the text to the lines containing vendor and devices
 		try:
-			predicted_product = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
+			predicted_products = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
 		except:
 			pass
 
-		try:
-			if predicted_product and (predicted_product is not ''):
-				print('Product Number: ', predicted_product)
-				ans =  ans + " | " + predicted_product
-		except:
-			pass	
-		
-		with open('annotation.txt', 'a+') as f:
-			f.write(ans+"\n")
+		prev_ans = ans
+		for predicted_product in predicted_products:
+			ans = prev_ans
+			try:
+				if predicted_product and (predicted_product is not ''):
+					ans =  ans + " | " + predicted_product
+			except:
+				pass	
+			
+			with open('annotation.txt', 'a+') as f:
+				print(ans)
+				f.write(ans+"\n")
 
 main()
