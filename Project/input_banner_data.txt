@@ -1,1 +1,1 @@
-220 FTP Welcome to MikroTik (MikroTik 5.4.3)
+220 FTP Server (ZyWALL USG 100) [::ffff:95.50.116.182]

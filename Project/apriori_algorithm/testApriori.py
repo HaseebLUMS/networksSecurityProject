@@ -49,7 +49,7 @@ def contains_prediction(a):
 --writes the inferred rule in file "RULES"
 '''
 def run_apriori(trans):
-	results = list(apriori(trans, min_support=0.0005, min_confidence=1))
+	results = list(apriori(trans, min_support=0.0001, min_confidence=0.5))
 	#0.0001, 0.005
 	#0.005
 	#2721

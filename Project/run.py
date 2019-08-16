@@ -59,6 +59,7 @@ def run_files(ori):
 	if move == False:
 		return
 
+	
 	with open('refined_queries_set.json', 'r') as f: refined_queries = f.read()
 	refined_queries = json.loads(refined_queries)
 	refined_queries = refined_queries['queries']

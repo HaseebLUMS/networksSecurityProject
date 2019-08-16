@@ -4,12 +4,12 @@ import os
 
 processedTransactions = {}
 
-with open('inputBanners2.json') as b:
+with open('inputBanners.json') as b:
 	data = b.read()
 	data = json.loads(data)
 
 banners = []
-for i in range(0, 200):
+for i in range(500, 700):
 	try:
 		tmp = data[str(i)]['banner']
 		if 'filezilla' in tmp.lower(): continue

@@ -1,6 +1,7 @@
 {
     "queries": [
-        "mikrotik",
-        "mikrotik mikrotik"
+        "usg",
+        "zywall",
+        "zywall usg"
     ]
 }

@@ -20,6 +20,12 @@ def in_database(word):
 	return ((word.lower() in db1.lower().split("\n")) or (word.lower() in db2.lower().split("\n")))
 
 
+def is_date_time(k):
+	db = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
+	if k in db:
+		return True
+	return False
+
 
 '''
 Product Regex is used here
@@ -127,6 +133,7 @@ def refine_query(q, mode):
 			if mode == 1:
 				if (k.isalpha() is False) and (k.isalnum() is False) and (k not in possibleProd): continue
 				if k.isdigit() is True: continue
+				if is_date_time(k) == True: continue
 			res += (" " + k)
 	
 

@@ -1,0 +1,3050 @@
+zywall usg
+
+
+
+
+
+
+================= https://www.zyxel.com/promotions/ZyWALL-Series-or-USG-Series--Which-Is-for-You--20130910-797138.shtml ==================
+
+
+
+
+
+ZyWALL Series or USG Series: Which Is for You? | ZyXEL
+Facebook
+Linkedin
+Twitter
+Solution
+Home
+Business
+Service Provider
+Multy Series Solution
+Personal Cloud Storage
+ONE Connect Solution for Home
+Digital Home Solution
+Nebula Cloud Networking
+NebulaFlex
+Hospitality
+SD-WAN Solution
+More
+WiFi 6
+Multy Pro Managed WiFi
+LTE
+In-Building Coverage
+More
+Build Your Multy Network Now!
+All Solutions
+All Success Stories
+Success Story
+Product
+Home
+Business
+Service Provider
+WiFi System
+Wireless Extenders
+Home Routers
+Cloud Access Cameras
+Switches
+Powerline and Adapters
+Personal Cloud Storage
+Security Firewalls
+Security Services and Licenses
+Security Management and Analytics
+Switches
+WLAN APs and Controllers
+Nebula Cloud Networking
+Network Management
+Hotspot Gateways
+WiFi System
+DSL CPEs
+LTE and 3G CPEs
+MSANs / DSLAMs
+Fiber Access
+Carrier and Access Switches
+Ethernet Gateways
+Network Extenders
+Network Management
+License FinderSearch for product name/service name
+Product Overview
+myZyxel
+OneSecurity
+Nebula Control Center
+Product Selector
+Technology Library
+Support
+Support
+Security Advisories
+Community Forum
+Support Center
+Download Library
+Knowledge Base
+Training
+How to Video
+Warranty Information
+Product Registration
+GPL-OSS Software Notice
+Zyxel security advisory for buffer overflow vulnerabilities of GS1900 switches
+Zyxel security advisory for vulnerabilities related to the Free Time feature
+Zyxel security advisory for reflected cross-site scripting vulnerability of firewalls
+Zyxel security advisory for the new Mirai malware variant targeting P660HN devices
+More
+Where to Buy
+Partner
+Partners
+ZyPartner Login
+ZyPartner Registration
+Zyxel Education Center
+Alliance Partner
+Search
+Facebook
+Linkedin
+Twitter
+Homepage
+Promotion
+ZyWALL Series or USG Series: Which Is for You?
+Promotions
+Related Products
+USG60W/60/40W/40
+Next Generation Unified Security Gateway-Performance Series
+USG310/210/110
+Next Generation Unified Security Gateway-Advanced Series
+USG1900/1100
+Next Generation Unified Security Gateway-Extreme Series
+ZyWALL 1100/310/110
+VPN Firewall
+Previous
+Next
+1
+of
+4
+ZyWALL Series or USG Series: Which Is for You?
+USG Series
+Businesses deploy network security appliances for two main purposes: to protect company resources against a multitude of threats and to enable secured communications between multiple locations via Virtual Private Network (VPN). For many years, ZyXEL’s highly-acclaimed Unified Security Gateway (USG) Series has helped businesses satisfy all these demands. The ZyXEL USG Series is an all-in-one Unified Threat Management (UTM) solution that provides both robust network security and VPN connectivity for businesses of all sizes.
+ZyWALL Series
+Business operations today are more mobile, more global, and more dynamic than ever. This, combined with the use of advanced or bandwidth consuming applications in the workplace, has created great demand for even faster VPN and firewall performance. To satisfy this demand, ZyXEL has introduced the all-new ZyWALL Series VPN Firewalls. ZyXEL’s new ZyWALL VPN Firewalls are business-grade VPN gateways fine-tuned to deliver the fastest VPN and firewall performance for the most performance-demanding VPN deployments.
+Which Is for You?
+The USG Series is for you if you need:
+Next Generation Firewall (NGFW) solution
+VPN connectivity
+Firewall
+Anti-virus (kaspersky)
+Anti-spam
+Content filtering
+Intrusion Detection and Prevention (IDP)
+Application intelligence and control
+Integrated WLAN controller
+The ZyWALL Series is for you if you need:
+A purpose-built VPN gateway solution
+Ultra-fast VPN connectivity
+Ultra-fast firewall performance
+ZyWALL Series VPN Firewalls
+USG Series Unified Security Gateways
+ZyWALL Series or USG Series: Which Is for You? | ZyXEL
+Ultra-fast Performance
+The new ZyWALL Series VPN Firewalls are designed with multi-core CPUs to deliver the fastest VPN and firewall performance on the market. High-speed networking performance is guaranteed with up to 6 Gbps firewall throughput and 800 Mbps VPN throughput. Designed with completely new and advanced hardware platforms, the new ZyWALL Series VPN Firewalls deliver uncompromising performance for high-speed site-to-site and client-to-site VPN applications.
+Enlarge
+Zero-configuration Remote Access
+Virtual Private Networks provide businesses a secure and convenient way of sharing company resources with partners, customers, or employees on business trips. Yet typical VPN solutions are hard for non-technical users to configure, which greatly reduces their usability and convenience. The ZyWALL Series VPN Firewalls feature Easy VPN to provide auto-provisioned client-to-site IPsec VPN setup. A wizard is available with the ZyXEL IPsec VPN client software that automatically retrieves the VPN configuration file from the remote ZyWALL VPN Firewall and completes the IPsec VPN setup in 3 simple steps.
+Enlarge
+Solution
+Home
+Business
+Service Provider
+All Success Stories
+Product
+Home
+Business
+Service Provider
+Product Overview
+myZyxel
+OneSecurity
+Nebula Control Center
+Product Selector
+Technology Library
+Support
+Support Center
+Download Library
+Knowledge Base
+Training
+How to Video
+Warranty Information
+Product Registration
+GPL-OSS Software Notice
+Security Advisories
+News
+Press Room
+Awards & Reviews
+Newsletters
+Events
+Blog
+About Zyxel
+Company Overview
+Careers
+Green & Social Responsibility
+CSR Commitment
+Zyxel's Green Networks
+Contact Us
+Where to Buy
+Partner
+Subscribe
+Community
+Global / EN
+Follow Us
+Copyright ©
+Zyxel Communications Corp. All Rights Reserved.
+Legal NoticeTerms of UsePrivacy PolicyCookie Settings
+
+
+
+
+
+
+================= https://www.zyxel.com/us/en/promotions/ZyWALL-Series-or-USG-Series--Which-Is-for-You--20130910-797138.shtml ==================
+
+
+
+
+
+ZyWALL Series or USG Series: Which Is for You? | ZyXEL
+Facebook
+Linkedin
+Twitter
+Solutions
+Service Provider
+Business
+Home
+LTE Solutions (For Service Provider)
+Multy Pro Solution
+MoCA 2.0 Bonding Solution
+CAF II
+NebulaFlex
+Nebula Cloud Networking
+Hospitality
+SD-WAN Solution
+More
+Personal Cloud Storage
+Digital Home Solution
+ONE Connect Solution for Home
+Norwegian Manufacturer Connects Vietnam Facility with ZyWALL USG Solution
+All Solutions
+All Success Stories
+Products & Services
+Service Provider
+Business
+Home
+WiFi System
+DSL CPE
+Ethernet Gateway
+Desktop Switches
+Carrier and Access Switches
+LTE Outdoor Router (For Service Provider)
+MSANs / DSLAMs
+Network Extenders
+Network Management
+Hotspot Gateways
+Network Management
+PoE Products
+Security Firewalls
+Security Services and Licenses
+Security Management and Analytics
+Switches
+WLAN APs and Controllers
+Nebula Cloud Networking
+WiFi System
+Wireless Extenders
+Home Routers
+Cloud Access Cameras
+Switches
+Powerline and Adapters
+Personal Cloud Storage
+Security Licenses
+Product Overview
+myZyxel
+Technology Library
+Product Selector
+Support & Training
+Support
+Training/Resources
+Security Advisories
+Product Evaluation Order (SP Only)
+Zyxel Help Center
+Zyxel Support Center
+Download Library
+Product Registration
+Support Policy
+Knowledge Base
+Warranty Information
+How to Video
+EOL List
+OneSecurity(learn more about network security/FAQ/Tutorials)
+Free e-Learning Hub
+Webinar Schedule
+Webinar Schedule (for SP only)
+Multy Pro FAQ (for SP only)
+Security Forum
+Home Forum
+Multimedia
+Blog
+Zyxel security advisory for buffer overflow vulnerabilities of GS1900 switches
+Zyxel security advisory for vulnerabilities related to the Free Time feature
+Zyxel security advisory for the new Mirai malware variant targeting P660HN devices
+Reinforcing router security: German BSI’s Secure Broadband Router guideline
+More
+Where to Buy
+Where to Buy
+Buy Nebula License
+Buy Security License Services
+Channels
+eCommerce Partners
+eCommerce US
+eCommerce Canada
+Authorized Resellers
+Distributors
+Channel Distributors
+Telco Distributors
+Retail Stores
+Latin America Partners
+Partners
+Partners
+Channel Partner Program
+Channel Trade-In Program
+Search
+Facebook
+Linkedin
+Twitter
+Homepage
+Promotion
+ZyWALL Series or USG Series: Which Is for You?
+Promotions
+Related Products
+Next Generation Unified Security Gateway-Performance Series
+USG40/40W/60/60W
+Next Generation Unified Security Gateway-Advanced Series
+USG110/210/310
+Next Generation Unified Security Gateway-Extreme Series
+USG1100/1900
+Unified Security Gateway
+USG 20W/20
+Unified Security Gateway
+USG 2000/1000/300
+Previous
+Next
+1
+of
+5
+ZyWALL Series or USG Series: Which Is for You?
+USG Series
+Businesses deploy network security appliances for two main purposes: to protect company resources against a multitude of threats and to enable secured communications between multiple locations via Virtual Private Network (VPN). For many years, ZyXEL’s highly-acclaimed Unified Security Gateway (USG) Series has helped businesses satisfy all these demands. The ZyXEL USG Series is an all-in-one Unified Threat Management (UTM) solution that provides both robust network security and VPN connectivity for businesses of all sizes.
+ZyWALL Series
+Business operations today are more mobile, more global, and more dynamic than ever. This, combined with the use of advanced or bandwidth consuming applications in the workplace, has created great demand for even faster VPN and firewall performance. To satisfy this demand, ZyXEL has introduced the all-new ZyWALL Series VPN Firewalls. ZyXEL’s new ZyWALL VPN Firewalls are business-grade VPN gateways fine-tuned to deliver the fastest VPN and firewall performance for the most performance-demanding VPN deployments.
+Which Is for You?
+The USG Series is for you if you need:
+Next Generation Firewall (NGFW) solution
+VPN connectivity
+Firewall
+Anti-virus (kaspersky)
+Anti-spam
+Content filtering
+Intrusion Detection and Prevention (IDP)
+Application intelligence and control
+Integrated WLAN controller
+The ZyWALL Series is for you if you need:
+A purpose-built VPN gateway solution
+Ultra-fast VPN connectivity
+Ultra-fast firewall performance
+ZyWALL Series VPN Firewalls
+USG Series Unified Security Gateways
+ZyWALL Series or USG Series: Which Is for You? | ZyXEL
+Ultra-fast Performance
+The new ZyWALL Series VPN Firewalls are designed with multi-core CPUs to deliver the fastest VPN and firewall performance on the market. High-speed networking performance is guaranteed with up to 6 Gbps firewall throughput and 800 Mbps VPN throughput. Designed with completely new and advanced hardware platforms, the new ZyWALL Series VPN Firewalls deliver uncompromising performance for high-speed site-to-site and client-to-site VPN applications.
+Enlarge
+Zero-configuration Remote Access
+Virtual Private Networks provide businesses a secure and convenient way of sharing company resources with partners, customers, or employees on business trips. Yet typical VPN solutions are hard for non-technical users to configure, which greatly reduces their usability and convenience. The ZyWALL Series VPN Firewalls feature Easy VPN to provide auto-provisioned client-to-site IPsec VPN setup. A wizard is available with the ZyXEL IPsec VPN client software that automatically retrieves the VPN configuration file from the remote ZyWALL VPN Firewall and completes the IPsec VPN setup in 3 simple steps.
+Enlarge
+Solutions
+Service Provider
+Business
+Home
+All Solutions
+All Success Stories
+Products & Services
+Service Provider
+Business
+Home
+myZyxel
+Technology Library
+Support & Training
+Support
+Product Evaluation Order (SP Only)
+Zyxel Help Center
+Zyxel Support Center
+Download Library
+Product Registration
+Support Policy
+Knowledge Base
+Training/Resources
+Webinar Schedule
+Webinar Schedule (for SP only)
+Multy Pro FAQ (for SP only)
+Security Forum
+Home Forum
+Multimedia
+Blog
+Security Advisories
+Where to Buy
+Buy Nebula License
+Buy Security License Services
+Channels
+eCommerce Partners
+eCommerce US
+eCommerce Canada
+Authorized Resellers
+Distributors
+Channel Distributors
+Telco Distributors
+Retail Stores
+Latin America Partners
+News
+In the News
+Press Room
+Awards
+Resource for Media
+Download Hi-res Product Image
+About Zyxel
+Company Overview
+Green & Social Responsibility
+Day of Giving
+CSR Commitment
+Zyxel's Green Networks
+Jobs at Zyxel
+Partners
+Channel Partner Program
+Channel Trade-In Program
+Contact Us
+Sales Inquiry
+Support Request Form
+Contact Info
+US / EN
+Follow Us
+Copyright ©
+Zyxel Communications Corp. All Rights Reserved.
+Legal NoticeTerms of UsePrivacy Policy
+
+
+
+
+
+
+================= https://www.zyxel.com/me/en/promotions/ZyWALL-Series-or-USG-Series--Which-Is-for-You--20130910-797138.shtml ==================
+
+
+
+
+
+ZyWALL Series or USG Series: Which Is for You? | ZyXEL
+Facebook
+Linkedin
+Twitter
+Solutions
+Home
+Business
+Service Provider
+Multy Series Solution
+Personal Cloud Storage
+Digital Home Solution
+ONE Connect Solution for Home
+NebulaFlex
+Nebula Cloud Networking
+Hospitality
+SD-WAN Solution
+More
+WiFi 6
+Multy Pro Managed WiFi
+LTE
+3G/4G Dongle Access
+SD-WAN, Stay ahead of your WAN solutions
+All Solutions
+All Success Stories
+Products & Services
+Home
+Business
+Service Provider
+WiFi System
+Wireless Extenders
+Home Routers
+Cloud Access Cameras
+Switches
+Powerline and Adapters
+Personal Cloud Storage
+Security Firewalls
+Security Services and Licenses
+Security Management and Analytics
+Switches
+WLAN APs and Controllers
+Nebula Cloud Networking
+Network Management
+Hotspot Gateways
+WiFi System
+DSL CPEs
+MSANs / DSLAMs
+Fiber Access
+Carrier and Access Switches
+LTE and 3G CPEs
+Ethernet Gateway
+Network Extenders
+Network Management
+NBG6617
+Product Overview
+myZyxel
+Technology Library
+Support Campus
+Support Campus
+Zyxel Support Center
+RMA Form
+Download Library
+Security Advisories
+Training
+Training
+Zyxel Webinars
+Where to Buy
+Where to Buy
+Where to Buy
+Become Zyxel Partner
+Approved Distributors
+Partners
+Partners
+ZyPartner
+Become Zyxel Partner
+Zyxel Education Center
+Search
+Facebook
+Linkedin
+Twitter
+Home
+Promotion
+ZyWALL Series or USG Series: Which Is for You?
+Promotions
+Related Products
+USG60W/60/40W/40
+Next Generation Unified Security Gateway-Performance Series
+USG310/210/110
+Next Generation Unified Security Gateway-Advanced Series
+USG1900/1100
+Next Generation Unified Security Gateway-Extreme Series
+USG 200/100-PLUS/100/50/20W/20
+Unified Security Gateway
+USG 2000/1000/300
+Unified Security Gateway
+Previous
+Next
+1
+of
+5
+ZyWALL Series or USG Series: Which Is for You?
+USG Series
+Businesses deploy network security appliances for two main purposes: to protect company resources against a multitude of threats and to enable secured communications between multiple locations via Virtual Private Network (VPN). For many years, ZyXEL’s highly-acclaimed Unified Security Gateway (USG) Series has helped businesses satisfy all these demands. The ZyXEL USG Series is an all-in-one Unified Threat Management (UTM) solution that provides both robust network security and VPN connectivity for businesses of all sizes.
+ZyWALL Series
+Business operations today are more mobile, more global, and more dynamic than ever. This, combined with the use of advanced or bandwidth consuming applications in the workplace, has created great demand for even faster VPN and firewall performance. To satisfy this demand, ZyXEL has introduced the all-new ZyWALL Series VPN Firewalls. ZyXEL’s new ZyWALL VPN Firewalls are business-grade VPN gateways fine-tuned to deliver the fastest VPN and firewall performance for the most performance-demanding VPN deployments.
+Which Is for You?
+The USG Series is for you if you need:
+Next Generation Firewall (NGFW) solution
+VPN connectivity
+Firewall
+Anti-virus (kaspersky)
+Anti-spam
+Content filtering
+Intrusion Detection and Prevention (IDP)
+Application intelligence and control
+Integrated WLAN controller
+The ZyWALL Series is for you if you need:
+A purpose-built VPN gateway solution
+Ultra-fast VPN connectivity
+Ultra-fast firewall performance
+ZyWALL Series VPN Firewalls
+USG Series Unified Security Gateways
+ZyWALL Series or USG Series: Which Is for You? | ZyXEL
+Ultra-fast Performance
+The new ZyWALL Series VPN Firewalls are designed with multi-core CPUs to deliver the fastest VPN and firewall performance on the market. High-speed networking performance is guaranteed with up to 6 Gbps firewall throughput and 800 Mbps VPN throughput. Designed with completely new and advanced hardware platforms, the new ZyWALL Series VPN Firewalls deliver uncompromising performance for high-speed site-to-site and client-to-site VPN applications.
+Enlarge
+Zero-configuration Remote Access
+Virtual Private Networks provide businesses a secure and convenient way of sharing company resources with partners, customers, or employees on business trips. Yet typical VPN solutions are hard for non-technical users to configure, which greatly reduces their usability and convenience. The ZyWALL Series VPN Firewalls feature Easy VPN to provide auto-provisioned client-to-site IPsec VPN setup. A wizard is available with the ZyXEL IPsec VPN client software that automatically retrieves the VPN configuration file from the remote ZyWALL VPN Firewall and completes the IPsec VPN setup in 3 simple steps.
+Enlarge
+Solutions
+Home
+Business
+Service Provider
+All Success Stories
+Products & Services
+Home
+Business
+Service Provider
+myZyxel
+Technology Library
+Support Campus
+Zyxel Support Center
+RMA Form
+Download Library
+Security Advisories
+News
+Press Room
+Awards & Reviews
+Newsletters
+Events and Promotions
+About Zyxel
+Company Overview
+Green & Social Responsibility
+CSR Commitment
+Zyxel's Green Networks
+Training
+Contact
+Where to Buy
+Partners
+Community
+ME / EN
+Follow Us
+Copyright ©
+Zyxel Communications Corp. All Rights Reserved.
+Legal NoticeTerms of UsePrivacy Policy
+
+
+
+
+
+
+================= https://www.zyxel.com/products_services/smb-security_firewalls.shtml?t=c ==================
+
+
+
+
+
+zywall usg
+
+
+
+
+
+
+================= https://www.zyxel.com/products_services/Unified-Security-Gateway-USG40-40W-60-60W/ ==================
+
+
+
+
+
+zywall usg
+
+
+
+
+
+
+================= https://www.zyxel.com/products_services/Unified-Security-Gateway-USG1100-1900/ ==================
+
+
+
+
+
+zywall usg
+
+
+
+
+
+
+================= https://www.amazon.com/Internet-Security-Firewall-Dual-WAN-Gigabit/dp/B0042WCFI2 ==================
+
+
+
+
+
+Amazon.com: Zyxel ZyWALL USG50 Internet Security Firewall with Dual-WAN, 4 Gigabit LAN/DMZ Ports, 5 IPSec VPN, SSL VPN, and 3G WAN Support: Electronics
+Skip to main content
+All
+Select the department you want to search in
+All Departments
+Arts & Crafts
+Automotive
+Baby
+Beauty & Personal Care
+Books
+Computers
+Digital Music
+Electronics
+Kindle Store
+Prime Video
+Women's Fashion
+Men's Fashion
+Girls' Fashion
+Boys' Fashion
+Deals
+Health & Household
+Home & Kitchen
+Industrial & Scientific
+Luggage
+Movies & TV
+Music, CDs & Vinyl
+Pet Supplies
+Software
+Sports & Outdoors
+Tools & Home Improvement
+Toys & Games
+Video Games
+Go
+Search
+Deliver toPakistan
+EN
+Hello, Sign in
+Account & Lists
+Sign in
+Account & Lists
+Orders
+Cart
+0
+Departments
+Today's Deals
+Your Amazon.com
+Gift Cards
+Help
+Registry
+Sell
+Disability Customer Support
+Electronics
+›
+Security & Surveillance
+›
+Surveillance Video Equipment
+›
+Security Monitors & Displays
+Loading recommendations for this item...
+Added to Cart
+Not Added
+Item is in your Cart
+View Cart
+Proceed to checkout
+Not Added
+There was a problem adding this item to Cart. Please try again later.
+Sorry, we're having trouble showing recommendations right now. Please try again later.
+Continue shopping
+Deliver to Pakistan
+See All Buying Options
+Add to List
+Added to
+Unable to add item to List. Please try again.
+Sorry, there was a problem.
+There was an error retrieving your Wish Lists. Please try again.
+Sorry, there was a problem.
+List unavailable.
+Share
+Have one to sell?
+Sell on Amazon
+Image Unavailable
+Image not available forColor:
+RELATED VIDEOS
+360° VIEW
+IMAGES
+Zyxel ZyWALL USG50 Internet Security Firewall with Dual-WAN, 4 Gigabit LAN/DMZ Ports, 5 IPSec VPN, SSL VPN, and 3G WAN Support
+by
+ZyXEL
+3.5 out of 5 stars
+318 customer reviews
+|
+95 answered questions
+Available from these sellers.
+Style:
+ZWUSG50
+ZWUSG100
+used from $199.00
+ZWUSG100PLUS
+from 1 seller
+ZWUSG20
+used from $139.99
+ZWUSG200
+- -
+ZWUSG20W
+from 1 seller
+ZWUSG300
+- -
+ZWUSG50
+used from $149.00
+This fits your .
+Make sure this fits
+by entering your model number.
+Hybrid VPN, both SSL and IPSec VPNs supported for flexible deployment.
+Comprehensive threat protection with firewall,VPN,anti-virus,content filtering,anti-spam,Intrusion detection & prevention to secure front line threats
+IM/P2P management can prevent P2P or Instant Messaging applications to increase productivity.
+User-aware policy engine can set bandwith or network access based on user login
+Network resilience with multiple WANs, 3G cellular support, and device high availability
+Used (2) from $149.00
+There is a newer model of this item:
+Zyxel ZyWALL (USG) UTM Firewall, Gigabit Ports, for Small Offices, 20 IPSec VPN, 5 SSL VPN, Limited, Hardware Only [USG40-NB]
+$190.56
+(51)
+In stock.
+Have a question?
+Find answers in product info, Q&As, reviews
+Please make sure that you are posting in the form of a question.
+Don't see what you're looking for?
+Ask the Community
+There was a problem completing your request. Please try your search again later.
+All
+Product Information
+Customer Q&A's
+Customer Reviews
+Product description
+Style:ZWUSG50
+Product Description
+The ZyWALL USG 50 is a Unified Security Gateway, integrated with complete, enterprise-level and advanced security solutions designed for Small/Medium Business (SMB) recommended for up to 10 PC users. Its flexible configuration helps network administrators set up the network and enforce security policies more efficiently. With certified by ICSA SPI Firewall and IPSec VPN, the ZyWALL USG 50’s security features also include IPSec VPN, SSL VPN, Firewall, Content Filter, Anti-Virus and IDP (Intrusion Detection and Prevention) for maximum network security protection. It also provides bandwidth management, for QoS of VoIP or mission critical applications, Multiple-WAN Failover and Load Balancing. Moreover, IPSec VPN and SSL VPN design for telecommuters and home workers can access data more easily and safely at home. Remote access with SSL VPN requires only a standard web browser. ZyWALL USG 50’s excellent throughput is the key to implement features of an enterprise level to provide a full-time, non-stop and secure service.
+From the Manufacturer
+Big Security for Small Businesses -Unified Security Gateway ZyWALL USG20W The ZyWALL USG50 is a Unified Security Gateway designed to provide complete, enterprise-level advanced security solutions to Small and Home Office networks, recommended for up to 10 PC users. Its flexible configuration is designed to help network administrators efficiently set up, manage, and enforce network security policies. The USG50 features a 180Mbps throughput ICSA certified SPI Firewall, and is designed with state of the art security features including a granular, easily manageable Content Filter; choice of ZyXEL or Kaspersky Anti-Virus; Anti-Spam; and IDP (Intrusion Detection and Prevention) for maximum network security. It also provides bandwidth management for QoS of VoIP, videoconferencing, and other important applications, as well as multiple-WAN Failover and Load Balancing. IPSec, SSL, and L2TP* VPN functionality allows telecommuters and home workers quick and easy access to corporate resources with most any device or network setup. Built with powerful Integrated High Performance Security architecture designed for Gigabit connections, a VPN throughput of 90Mbps, a UTM throughput of 24Mbps, up to 10,000 max sessions and 10 concurrent IPSec VPN tunnels, the USG50 has the power to monitor and protect even high-throughput networks without sacrificing performance. With 4x Gigabit LAN/DMZ and 2x Gigabit WAN interfaces you can load balance and failover multiple ISP links, allowing you to safeguard even the largest high-bandwidth environments.
+Comprehensive threat protection with firewall, VPN, anti-virus** content filtering** anti-spam, and intrusion detection and prevention**to secure networks against front line threats.
+Robust hybrid VPN (IPSec, SSL, and L2TP*)
+Easily connect with mobile devices
+IPv6 Support
+QoS options for latency-sensitive applications
+Compatible with Vantage Reporting and Management software 30day trial of the antivirus software
+* Enabled by ZLD3.0 firmware upgrade** Yearly subscription required
+Flexible, secure VPN options The USG50 is designed to allow secure VPN connections no matter what device or network settings are being used. IPSec VPN support allows secure connections to branch offices, partners, and headquarters; road warriors and telecommuters can use SSL to securely access the company network without having to install VPN software.
+Easy Mobile Access The new ZLD3.0 firmware upgrade enables L2TP support on all USG devices, making it easy for Android, iOS, and other mobile devices to establish VPN tunnels to remote networks directly from their native settings. Comprehensive frontline threat protection The USG50 employs a comprehensive suite of security systems to proactively protect networks from threats before they ever reach networked devices.
+ZyXEL’s anti-spam service eliminates spam, phishing, virus, and malware e-mail threats before they ever reach company inboxes while ensuring legitimate messages don’t get lost in the deluge.
+Administrators can choose between BlueCoat and Commtouch web filtering services to allow administrators to quickly and easily block websites both by category and by specific URL in order to protect networks from inappropriate web traffic, as well as to prevent viruses and spyware from forcing computers on a protected network to ‘phone home,’ saving bandwidth and preventing security breaches.
+ZyXEL’s signature-based Intrusion Detection and Prevention service allows network administrators granular control over the network functionality of specific applications while providing an added layer of defense from the most dangerous Trojans and backdoor applications on the internet today. With support for up to 2,500 signatures for the most common threats, IDP provides a powerful defense against threats to your network – both from the outside and from within.
+Gateway virus protection acts as a first line of defense from the worst viruses and malware on the internet. A 24/7 service with constant updates, administrators can choose between ZyXEL’s ICSA-Certified anti-virus or Kaspersky’s award winning virus protection system to keep the most dangerous viruses and malware from ever reaching a protected network.
+The USG50’s Content Filtering service is an integrated security system powered by an administrator’s choice of BlueCoat or Commtouch filtering services. The service is designed to allow administrators to quickly and easily block websites both by category and by specific URL in order to protect networks from inappropriate web traffic, as well as to prevent viruses and spyware from forcing computers on a protected network to ‘phone home,’ saving bandwidth and preventing security breaches.
+IPv6 Ready With the advent of the new ZLD3.0 firmware, the USG50 is fully compatible with both IPv4 and IPv6 networks. Full backward compatibility allows VPN tunnels to be created between networks newly upgraded to IPv6 and older IPv4 networks, ensuring a seamless transition and painless network upgrades. Network Optimization The USG50’s network optimization functionality makes it far more than a network security device. Support for multiple WANs allows the USG to load-balance and fail-over, protecting networks from congestion and downtime. Bandwidth management options let administrators prioritize latency-sensitive applications like VoIP and videoconferencing, ensuring high-quality connections without lag or performance issues. Vantage Management and Reporting The USG50 supports the use of ZyXEL’s Vantage CNM and Vantage Reporting software, allowing centralized management and monitoring of multiple ZyWALL devices on a single network. Vantage Reporting offers a comprehensive set of real-time and historical reports including firewall attacks, bandwidth usage, website usage, and more - all organized into an automated, easy-to-read format that can be viewed from anywhere. Administrators can use this data to easily identify security problems and their causes and take prompt action. Vantage CNM provides a suite of diagnostic and management tools that allows management of multiple ZyWALL devices from a centralized interface, reducing the time, cost, and complexity involved in VPN and security management. VPN monitoring allows network administrators to actively troubleshoot VPN problems as they occur, while centralized configuration of UTM functionality allows network administrators to manage license subscriptions, update devices, and isolate and repair security problems across all ZyWALL devices on a network. ZyWALL USG Series Firewall Comparison
+Model USG20W
+USG20
+USG50
+USG100
+USG200
+USG300
+USG1000
+USG2000
+Recommended number of PC Users 1-5 1-5 1-10 10-25 25-50 50-75 75-200 200-500
+Unlimited User (No Per Node Limitation)
+High Performance multi-layer threat Protection
+Wireless
+Hardware Specifications
+10/100/1000 Interfaces (ALL GbE Copper) 4x LAN/DMZ, 1x WAN 4x LAN/DMZ, 1x WAN 4x LAN/DMZ, 2x WAN 5x LAN/DMZ, 2x WAN 5x LAN/DMZ, 2x WAN1xOPTIONAL WAN/LAN 7x Configurable 5x Configurable 6x Configurable
+System Capacity and Performance
+SPI Firewall Throughput (Mbps) (Largest Packet Size) 150 150 180 180 250 300 400 2000
+VPN Throughput (AES)(Mbps)(Largest Packet Size) 75 75 90 90 90 130 180 600
+UTM Throughput (AV+IDP) (Mbps)(Largest Packet Size)
+24 30 40 80 100 400
+Max Sessions 6000 6000 10000 20000 40000 60000 500000 1000000
+Max Concurrent IPSec VPN Tunnels 5 5 5 50 100 200 1000 2000
+Max Concurrent SSL VPN Tunnels 1 1 5 5 10 25 250 750
+Included SSL VPN Users 1 1 2 2 2 2 5 5
+VPN Support IPSec / SSL IPSec / SSL IPSec / SSL IPSec / SSL/L2TP IPSec / SSL/L2TP IPSec / SSL/L2TP IPSec / SSL/L2TP IPSec / SSL/L2TP
+Multiple WAN Load Balance / Fail Over
+Security Licenses
+iCard Antispam (Commtouch) 1 Year ICAS1YUSG20WC ICAS1YUSG20C ICAS1YUSG50C ICAS1YUSG100C ICAS1YUSG200C ICAS1YUSG300C ICAS1YUSG1000C ICAS1YUSG2000C
+Anti-Virus (ZyXEL or Kaspersky) 1 Year
+ICAV1YUSG50 ICAV1YUSG50K
+ICAV1YUSG100 ICAV1YUSG100K
+ICAV1YUSG200 ICAV1YUSG200K
+ICAV1YUSG300 ICAV1YUSG300K
+ICAV1YUSG1000 ICAV1YUSG1000K
+ICAV1YUSG2000 ICAV1YUSG2000K
+IDP (ZyXEL) 1 Year
+ICID1YUSG50 ICID1YUSG100 ICID1YUSG200 ICID1YUSG300 ICID1YUSG1000 ICID1YUSG2000
+iCard Content Filtering (BlueCoat or Commtouch) 1 Year
+ICCF1YUSG20W ICCF1YUSG20WC
+ICCF1YUSG20 ICCF1YUSG20C
+ICCF1YUSG50 ICCF1YUSG50C
+ICCF1YUSG100 ICCF1YUSG100C
+ICCF1YUSG200 ICCF1YUSG200C
+ICCF1YUSG300 ICCF1YUSG300C
+ICCF1YUSG1000 ICCF1YUSG1000C
+ICCF1YUSG2000 ICCF1YUSG2000C
+Total Security Service Kit(1 Year Kaspersky AV, 1 Year ZyXEL IDP, 1 Year BlueCoat CF bundle)
+ICTS1YUSG50 ICTS1YUSG100 ICTS1YUSG200 ICTS1YUSG300 ICTS1YUSG1000 ICTS1YUSG2000
+iCard SSL Upgrade Licenses(One Time)
+2-5 Users SSL2TO5USG50 2-5 Users SSL2TO5USG100 2-10 UsersSSL2TO10USG200
+2-10 Users SSL2TO10USG300 2-25 UsersSSL2TO25USG300 10-25 UsersSSL10TO25USG300
+5-25 UsersSSL5TO25USG1000 25-50 Users SSL25TO50USG1000 5-50 UsersSSL5TO50USG1000 5-250 UsersSSL5TO250USG1000 25-250 UsersSL25TO250USG1000 50-250 UsersSSL50TO250USG1000
+5-50 UsersSSL5TO50USG2000 5-250 Users SSL5TO250USG2000 5-750 UsersSSL5TO750USG2000 50-250 UsersSSL50TO250USG2000 50-750 UsersSSL50TO750USG2000 750-2000 UsersSSL250TO750USG2000
+Product information
+Style:ZWUSG50
+Technical Details
+Collapse all
+Summary
+: Screen Size, Screen Resolution, Graphics Coprocessor, Graphics Card RAM
+Wireless Type
+802.11n
+Number of USB 2.0 Ports
+2
+Other Technical Details
+Brand Name
+ZyXEL
+Item model number
+ZWUSG50
+Item Weight
+2.6 pounds
+Product Dimensions
+6.9 x 1.4 x 9.5 inches
+Item Dimensions
+L x W x H
+6.9 x 1.4 x 9.5 inches
+Color
+Silver
+Additional Information
+ASIN
+B0042WCFI2
+Customer Reviews
+3.5 out of 5 stars
+318 customer reviews
+3.5 out of 5 stars
+Best Sellers Rank
+#106 in Security Monitors & Displays
+Shipping Weight
+4.9 pounds
+Date First Available
+October 22, 2009
+Warranty & Support
+Amazon.com Return Policy:
+You may return any new computer purchased from Amazon.com that is "dead on arrival," arrives in damaged condition, or is still in unopened boxes, for a full refund within 30 days of purchase. Amazon.com reserves the right to test "dead on arrival" returns and impose a customer fee equal to 15 percent of the product sales price if the customer misrepresents the condition of the product. Any returned computer that is damaged through customer misuse, is missing parts, or is in unsellable condition due to customer tampering will result in the customer being charged a higher restocking fee based on the condition of the product. Amazon.com will not accept returns of any desktop or notebook computer more than 30 days after you receive the shipment. New, used, and refurbished products purchased from Marketplace vendors are subject to the returns policy of the individual vendor.
+Product Warranty: For warranty information about this product, please click here
+Feedback
+If you are a seller for this product, would you like to suggest updates through seller support?
+Would you like to tell us about a lower price?
+Related video shorts (0)Upload your videoBe the first videoYour name here
+Important information
+Legal DisclaimerThis product is sold as is and does not come in original packaging. No warranty is sold with this product. It was in production in a climate controlled server room.
+Customer Questions & Answers
+See questions and answers
+318 customer reviews3.5 out of 5 stars3.5 out of 5 stars
+5 star46%4 star22%3 star12%2 star8%1 star12%
+Review this productShare your thoughts with other customersWrite a customer review
+Read reviews that mention
+tech support
+ssl vpn
+content filter
+learning curve
+port forwarding
+small office
+object oriented
+web interface
+easy to setup
+rock solid
+home office
+home network
+plug and play
+bandwidth management
+zywall usg
+ipsec vpn
+firewall rules
+cable modem
+dual wan
+highly recommend
+Showing 1-8 of 318 reviewsTop ReviewsMost recentTop Reviews
+There was a problem filtering reviews right now. Please try again later.Some Guy1.0 out of 5 starsThis product is no longer fully supported by ZyXEL
+December 18, 2015Style: ZWUSG20Verified PurchaseI have used it for years and they are very reliable but it hasn't received any recent updates from ZyXEL. With the latest PCI compliance rules, I can't get these devices to maintain compliance with the management interface enabled so I had to disable external management. As you can imagine, that makes life very difficult. Also, the web filtering is very easy to bypass by using HTTPS which is not filtered. For example, if I block *.facebook.com all a user needs to do is type https://facebook.com and completely bypass filtering. Not great.When I contact ZyXEL support, they say that this device is fully supported and not end of life however they recommend that I purchase a next gen device if I want the above fixed.
+Read more
+17 people found this helpful
+Helpful
+Comment
+Report abuse
+ST2.0 out of 5 starsAWESOME Features, But REALLY SLOW
+November 22, 2015Style: ZWUSG20Verified PurchaseOk had it for a while now... WOW is this thing slow.
+I have non stop issues with latency on this firewall. CPU and Mem never gets over 50% but it still hangs.
+After a reboot can't take10-20 minutesto get back up.Plus dude:
+features are fantastic.
+UI is pretty good.
+CLI is nice if you want it.
+You REALLY need to spend some time going through all the menu's and getting a feel for all the groups, and categories and all that.
+Dont change stuff until you go through it all.
+Like all firewalls, take your time and configure it.
+All the features I ever needed are there, just took me a bit to go through all of them.
+I only have one problem and it's minimal, but needs to be noted.The enclosure/case is REALLY REALLY cheap.
+The plastic feels like styrofoam or super brittle plastic.
+I personally don't care because I sit it on a shelf and I will never touch it but they could invest a LITTLE BIT in the case.
+I would pay an extra $20 to get aluminum or metal or some sort so it's stackable or atleast doesnt feel like it would shatter if it got bumped!
+I would NOT stack anything near this guy and if you think it might move or be moved often... this thing is NOT rugged!
+Read more
+3 people found this helpful
+Helpful
+Comment
+Report abuse
+Amazon Customer3.0 out of 5 starsProduct good but BEWARE of gimmicky registration and non-responsive customer service.
+October 7, 2016Style: ZWUSG50Verified PurchaseI'd give five stars for the product itself. Having set up several routers, I was able to set this up the way I wanted, even though the terminology was different. And, so far, it seems to do exactly what I want it to.On the other hand, trying to register it through ZyXEL's procedure doesn't work at all. The process requires visiting portal.myzyxel.com and setting up an account. I did that and received a popup stating, "You will receive an email with instructions on how to confirm your email address in a few minutes." That was yesterday morning.After waiting about six hours and having clicked on the "Resend Confirmation" link several times, I submitted a request to ZyXEL customer service. Several hours later I received an email response from Miguel, saying, "We check on our system the e-mail address that you provided and still shows unconfirmed. Please check your spam, junk or any other firewall folder on your e-mail that may be preventing you from receiving the confirmation e-mail."Well, yes, it is unconfirmed because I never received the instructions telling me how to confirm it. And I don't have a spam folder or a junk folder or any other firewall folder that would prevent me from receiving the confirmation email.Interestingly, I registered two switches with ZyXEL at the same time yesterday. These do not "qualify" for the special myzyxel registration , so I registered them over the web. I immediately received confirmation emails for both of them. I also received Miguel's email. So I wonder why my system would be suspected of trapping the confirmation email for the USG 50.I did reply to Miguel last night and, not surprisingly, have heard nothing back. In the meantime I have waited over 28 hours for their gimmicky registration process to process my registration.
+Read more
+2 people found this helpful
+Helpful
+Comment
+Report abuse
+Frederick Schulz1.0 out of 5 starsBought this product April of 2015, just received an ...
+August 14, 2016Style: ZWUSG20WVerified PurchaseBought this product April of 2015,
+just received an email that support is ending and product is being phased out.
+Read more
+9 people found this helpful
+Helpful
+Comment
+Report abuse
+Ted5.0 out of 5 starsNice step up from the typical home/office router
+January 17, 2014Style: ZWUSG50Verified PurchaseThe USG 50 is a nice step up from the typical home/office routers I've owned in the past. I purchased this device because the D-Link
+wireless router I had installed in my restaurant appeared overwhelmed with the traffic created by my guests and the 12 IP cams on my network. I needed to reboot the D-Link unit each morning. I've yet to reboot the USG 50 in over a month.The big difference between this device and the typical router is the incredible flexibility, multiple wired networks, multiple WANS
+and much improved security it offers. The down side to all this a much more difficult setup. I was very well versed in setting up Netgear, D-Link and Linksys routers, but this device is much more complicated and confusing to setup compared to the others. If like me, you're
+comfortable with these other small office/home routers, be prepared for a bit of a learning curve.Once you begin to understand the different configuration routine, the device becomes much easier to use and configure.PROS:Reasonable price for features/build quality.Good built-in security features.Offers incredible flexibility for multiple LANS/WANS and VPN settings.Very strong tech support from ZyXEL.Handles much more data, users and different networks compared to other, less capable devices.CONS:Difficult to configure for the average person.Some features work only for 30 days (Trial versions of ADP, content filter, anti-spam, anti-virus and IDP signature)After a month of problem free usage, I decided to purchase another sample for my second location.The few calls I placed to ZyXEL were answered fairly quickly with competent staff on the other end.Overall, I'm very pleased with this purchase and would recommend this unit to others.
+Read more
+3 people found this helpful
+Helpful
+Comment
+Report abuse
+See all 318 reviewsWrite a customer review
+There's a problem loading this menu right now.
+Learn more about Amazon Prime.
+Get fast, free delivery with Amazon Prime
+Prime members enjoy FREE Two-Day Delivery and exclusive access to music, movies, TV shows, original audio series, and Kindle books.
+>
+Get started
+Your recently viewed items and featured recommendations
+›
+View or edit your browsing history
+After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.
+Your recently viewed items and featured recommendations
+›
+View or edit your browsing history
+After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.
+Pages with related products.
+See and discover other items: load balancing router, vpn routers, vpn wireless router, cisco firewall, pfsense firewall, small business router
+Back to top
+Get to Know UsCareersBlogAbout AmazonInvestor RelationsAmazon DevicesMake Money with UsSell on AmazonSell Your Services on AmazonSell on Amazon BusinessSell Your Apps on AmazonBecome an AffiliateAdvertise Your ProductsSelf-Publish with Us›See MoreAmazon Payment ProductsAmazon Business CardShop with PointsReload Your BalanceAmazon Currency ConverterLet Us Help YouYour AccountYour OrdersShipping Rates & PoliciesReturns & ReplacementsManage Your Content and DevicesAmazon AssistantHelp
+​EnglishChoose a language for shopping.
+$USD - U.S. Dollar
+​United StatesChoose a country/region for shopping.
+Amazon Music Stream millions of songs
+Amazon Advertising Find, attract, and engage customers
+Amazon Drive Cloud storage from Amazon
+6pm Score deals on fashion brands
+AbeBooks Books, art & collectibles
+ACX
+Audiobook Publishing Made Easy
+Alexa Actionable Analytics for the Web
+Amazon Business Everything For Your Business
+AmazonGlobal Ship Orders Internationally
+Home Services Handpicked Pros Happiness Guarantee
+Amazon Inspire Digital Educational
+Resources
+Amazon Rapids Fun stories for
+kids on the go
+Amazon Web Services Scalable Cloud Computing Services
+Audible Listen to Books & Original Audio Performances
+Book Depository Books With Free Delivery Worldwide
+Box Office Mojo Find Movie Box Office Data
+ComiXology Thousands of Digital Comics
+CreateSpace Indie Print Publishing Made Easy
+DPReview Digital Photography
+East Dane Designer Men's Fashion
+Fabric Sewing, Quilting & Knitting
+Goodreads Book reviews & recommendations
+IMDb Movies, TV & Celebrities
+IMDbPro Get Info Entertainment Professionals Need
+Kindle Direct Publishing Indie Digital Publishing Made Easy
+Prime Video Direct Video Distribution Made Easy
+Shopbop Designer Fashion Brands
+Woot! Deals and
+Shenanigans
+Zappos Shoes & Clothing
+Ring Smart Home Security Systems
+eero WiFi Stream 4K Video in Every Room
+Neighbors App
+Real-Time Crime & Safety Alerts
+Subscribe with Amazon Discover & try subscription services
+PillPack Pharmacy Simplified
+Amazon Second Chance Pass it on, trade it in, give it a second life
+Conditions of UsePrivacy NoticeInterest-Based Ads© 1996-2019, Amazon.com, Inc. or its affiliates
+v
+
+
+
+
+
+
+================= http://www.zyxelguard.com/ZyWALL-USG20.asp ==================
+
+
+
+
+
+Zyxel ZyWALL USG 20 Unified Security Gateway | ZyxelGuard.com
+Call a Specialist Today! 888-785-4412
+Call a Specialist Today! 888-785-4412
+Toggle navigation
+Products
+Featured Products
+ZyWALL IPSec VPN Client
+ZyWALL SSL VPN Client
+iCard Services
+Zyxel Security
+Next-Gen USG Appliances
+Performance Series
+USG 40
+USG 40 Wireless
+USG 60
+USG 60 Wireless
+Advanced Series
+USG 110
+USG 210
+USG 310
+Extreme Series
+USG 1100
+USG 1900
+USG Appliances
+Legacy Models
+ZyWall USG 20
+ZyWall USG 20W
+ZyWall USG 50
+ZyWall USG 100
+ZyWall USG 200
+ZyWall USG 300
+ZyWall USG 1000
+ZyWall USG 2000
+VPN Firewall
+USG20-VPN
+USG20W-VPN
+USG2200-VPN
+VPN Firewall Gateway
+ZyWall VPN50
+ZyWall VPN100
+ZyWall VPN300
+ZyWall VPN2S
+ATP Firewalls
+ZyWALL ATP200
+ZyWALL ATP500
+ZyWALL ATP800
+Security Services
+Zyxel ZyWALL SSL VPN Client
+ZyWall IPSec VPN Client
+Cloud CNM Security Services
+Zyxel Cloud CNM SecuManager
+Zyxel Cloud CNM SecuReporter
+Network Management
+Vantage CNM
+Cloud Network Center
+Bonded Gateway
+VSG1432
+VSG1435
+VMG3925
+VMG4325-B10A
+VMG4380-B10A
+VMG4825
+VMG9823
+Ethernet Gateway
+EMG2926
+EMG2306-R10A
+EMG3425
+P-660HNU-F1
+Nebula Cloud Networking
+Nebula Switches
+Nebula Switch:
+NSW100-10
+NSW100-10P
+NSW100-28
+NSW100-28P
+NSW200-28P
+Switch with NebulaFlex:
+GS1920-8HP
+GS1920-24
+GS1920-24HP
+GS1920-48HP
+Nebula Access Points
+Nebula AP:
+NAP102
+NAP203
+NAP303
+NAP353
+AP with NebulaFlex:
+NWA1123-ACV2
+NWA1123-ACPro
+NWA1123-ACHD
+NWA1302-AC
+AP with NebulaFlex Pro:
+NWA5123-ACHD
+WAC6303D-S
+Nebula Gateways
+Nebula Gateways:
+Zyxel NSG 50
+Zyxel NSG 100
+Zyxel NSG 200
+Zyxel NSG 300
+Zyxel Wireless
+Unified Access Points
+WAC6103D-I
+WAC5302D-S
+NWA5301-NJ
+NWA5121-NI
+NWA5123-AC
+NWA5123-NI
+WAC6500-PS 12v DC Power Supply
+Unified Pro Access Points
+WAC6103D-I
+WAC6502D-E
+WAC6502D-S
+WAC6503D-S
+WAC6552D-S
+WAC6553D-E
+PoE Access Points
+NWA1100-NH
+NWA1121-NI
+NWA1123-NI
+NWA1123-AC
+Hotspot Gateways
+UAG2100
+UAG4100
+UAG5100
+UAG50
+SBG3300-N
+WLAN Controller Solution
+NXC2500
+NXC5500
+Multy Plus WiFi System
+Antennas & Cables
+Zyxel Home Products
+WiFi System
+Multy X (Model WSQ50)
+Wireless N Routers
+NBG4615
+NBG4615-v2
+NBG-418N-v2
+Wireless AC Routers
+NBG6515
+NBG6616
+NBG6815
+NBG6816
+NBG6817
+Wireless AC Access Points
+ARMOR X1 (WAP6806)
+Wireless AC Extenders
+WRE6606
+Powerline & Adapters
+PLA5256
+PLA5405
+PLA5456
+HLA3105
+MoCA Extenders
+WAP7205
+HLA4205
+Ethernet Routers
+P6660HN-51
+P660R-F1
+Storage
+NAS326
+NAS520
+NAS540
+Cloud Access Cameras
+Zyxel CAM3115
+Zyxel Switches
+Unmanaged Switches
+10/100 Fast Ethernet
+ES1100-8P
+ES1100-16
+ES1100-16P
+ES1100-24
+ES1100-24E
+Smart PoE+
+GS1005HP
+GS1008HP
+10/100/1000 Gigabit
+GS-105 S
+GS1100-8HP-240W
+GS1100-10HP
+GS1100-16
+GS1100-24
+GS1100-24E
+L2/L2+ Managed Switches
+1200 Series
+GS1200-5
+GS1200-8
+GS1200-5HP
+GS1200-8HP
+2200 Series
+GS2200-24P
+2210 Series
+GS2210-8
+GS2210-8HP
+GS2210-24
+GS2210-24HP
+GS2210-24LP
+GS2210-48
+GS2210-48HP
+3500 Series
+ES3500-8PD
+ES3500-24
+ES3500-24HP
+3700 Series
+GS3700-24
+GS3700-24HP
+GS3700-48
+GS3700-48HP
+XGS3700-24
+XGS3700-24HP
+XGS3700-48
+XGS3700-48HP
+3800 Series
+XS3800-28
+3900 Series
+XS3900-48F
+XGS2210 Series
+XGS2210-28
+XGS2210-28HP
+XGS2210-52
+XGS2210-52HP
+L3 Managed Switches
+XGS-4528F
+XGS-4600-32
+XGS-4600-32F
+XGS-4600-52F
+Smart Managed Switches
+1900 Series
+GS1900-8
+GS1900-8HP
+GS1900-10HP
+GS1900-16
+GS1900-24E
+GS1900-24
+GS1900-24HP
+GS1900-48
+GS1900-48HP
+1910 Series
+XGS1910-24
+XGS1910-48
+1920 Series
+GS1920-48
+10GbE Switches
+XS1920-12
+XS3700-24
+Carrier & Access Switches
+Access Switches
+MES3500-24
+MES3500-24F
+MGS3520-28
+MGS3520-28F
+Aggregation Switches
+XGS3600-28
+XGS3600-28F
+MGS3700-12C
+Media Converters
+MC1000-SFP-FP
+PoE Injectors
+POE-12-HP
+RPS600-HP
+Fiber Transceivers
+Transceiver Modules
+Zyxel MSANs / DSLAMs
+Remote MSAN
+IES-1000 Series
+Central MSAN
+IES-5000 Series
+IES-5106 Series
+IES-5112 Series
+IES-6000 Series
+Remote DSLAM
+IES-1248-5x Series
+VES-1616FE-55A
+VES1724-56
+VES1724-55C
+Accessories
+View All Products
+Security Licenses
+Total Security Bundle
+Content Filtering Service
+Managed AP Service
+Anti-Virus Service
+Anti-Virus 2.0 Service
+Anti-Spam Service
+IDP Service
+SSL VPN Client Service & IPSec VPN Client Service
+Application Intelligence
+Resources
+End of Life Products
+Leasing
+Consulting
+Zyxel Solutions
+NebulaFlex
+Promotions
+Trade In, Trade Up Promotion
+3rd Party Solutions
+VPN Tracker 7
+Promotions
+Trade In, Trade Up Promotion
+Quote Request
+News
+Contact Us
+Account
+Shopping Cart
+Your Account
+Order History
+Help with checkout
+Home
+Resources
+Zyxel End of Life Products
+USG 20
+Zyxel ZyWALL USG 20 Unified Security Gateway
+Unified Security Gateway for Small Businesses
+Sorry, this product is no longer available, replaced by the Zyxel USG20-VPN.
+Overview
+Benefits
+Features
+Application Diagram
+Specifications
+Model Comparison
+Documentation
+Overview:
+Security on a New Level - The Future Is Ahead. Stay Ahead with Zyxel USGs.
+As broadband quickly becomes a necessity in the business world facing network security threats, the breaches evolve into highly sophisticated attacks to paralyze networks and to steal sensitive information. In response to such attacks, small businesses have to meet the great challenge protecting their networks.
+The Zyxel USG Series is designed for small business to provide real-time inspection and multi-layer network protection to prevent the network from threats. The USG Series embodies Stateful Packet Inspection (SPI) Firewall, Anti-Virus (AV), Intrusion Detection and Prevention (IDP), Content Filtering, Anti-Spam and VPN (IPSec/SSL/L2TP) features in one box. In addition, the USG Series not only offers complete security license to fulfill your demand but also guarantees the continuous firmware upgrades to save your cost. Incorporating comprehensive security features in the connected devices, the USG Series safeguards your organization’s customer and company records, intellectual properties as well as critical resources from both external and internal threats.
+Robust security without sacrificing performance
+Comprehensive support to IPv6
+Robust hybrid VPN (IPSec/SSL/2TP)
+Zero-configuration remote access with easy VPN
+Support L2TP VPN on mobile device (iPhone and Android phone)
+ICSA Firewall, IPSec certification
+Content filter stops malware and Web threats
+Powerful Email security
+Non-stop Internet access with multiple WAN and 3G backups
+Benefits:
+Robust security without sacrificing performance
+The Zyxel USG 20/20W/50/100/100-PLUS/200 Series is built with a powerful Integrated High-Performance Security architecture that provides real-time inspection to prevent networks from threats without sacrificing performance. Corporate networks are not only flawlessly secured but also get significant performance enhancements on productivity and efficiency since file loading, emailing and information searching applications are processed at higher speeds.
+Comprehensive IPv6 support smoothly connects future-ready networks
+The Zyxel USG Series is IPv6-ready today and is certified with “IPv6 Ready” gold logo. With IPv6 feature enabled, the USG Series ensures businesses with a smooth migration path from the IPv4-based networks to the full IPv6 infrastructure. It assigns IPv6 addresses to clients and passes the IPv6 traffics through the IPv4 environment. The USG Series supports dual-stack and IPv4 tunneling (6rd and 6to4 transition tunnel) implementations for Internet connectivity to access IPv6 applications.
+EASY VPN reduces operation cost and time
+Establishing a VPN tunnel is a good way to build secure connections among remote offices, branch offices and partners; however it is difficult for non-technical employees, such as sales people, to use because of complicated configuration. The Zyxel USG Series is equipped with the “EASY VPN” solution to push configuration files to the VPN clients automatically; this eliminates the configuration efforts while securing the access at the same time. In addition, the USG Series supports L2TP VPN technology on iPhones, Android phones and many other mobile devices as L2TP VPN enables employees in remote places to connect to the headquarters with easy and free access.
+Content filter for safer Web surfing
+The World Wide Web has become the main target for network threats, since the Internet itself is a very effective malware delivery mechanism. With threats hidden directly in contents such as cookies, add-ons and rootkits, it makes malware exceptionally difficult to detect.
+The Zyxel USG Series content filter solution provided by Blue Coat and Commtouch, the leading providers, reduces costs and extends protection by combining a comprehensive, integrated database featuring millions of URLs, IP addresses and domains. With the solution, the USG Series not only enables real-time protection that deters emerging Web threats including malware and phishing, but also blocks or monitors certain sites to maintain employee productivity.
+Powerful Email security
+The Zyxel USG Series delivers industry-leading protection, powered by Commtouch, against spam, phishing and virus-laden emails. The extremely high performance of Commtouch technology comes from the unique recurrent pattern detection (RPD) mechanism that possesses its superior capability through analyzing millions of new patterns each day (24x7x365) to block all the associated messages real-time. In addition, the Zyxel USG applies sender-based IP reputation to remove over 80% of unwanted mails and to take advantage of the zero-hour virus outbreak protection feature, which is capable of blocking or delaying suspicious messages hours before commercial anti-virus signatures are available.
+More 3G card support
+The Zyxel USG Series not only supports multiple WAN ports but also 3G networks through USB or PC cards. With 3G connections, the USG Series enables load sharing or failover to deliver highly reliable network connectivity; it also supports more 3G cards with generic driver to ensure excellent interoperability. Since the customers don’t have to purchase specific 3G cards to save cost.
+Features:
+Firewall
+ICSA-certified firewall
+Routing	and	transparent	(bridge) mode
+Zone-based access	control list
+Stateful packet	inspection
+User-aware policy	enforcement
+SIP/H.323	NAT	traversal
+ALG	supports custom	ports
+IPv6 Support
+IPv6 Ready gold logo certified
+Dual stack
+IPv4 tunneling (6rd and 6to4 transition tunnel)
+Host/Router/Firewall
+Virtual Private Network (VPN)
+ICSA-certified IPSec VPN
+Algorithm: AES/3DES/DES
+Authentication: SHA-1, SHA-2/MD5
+Key management: Manual key/IKE
+Perfect forward secrecy (DH	groups) support	1, 2,	5
+IPSec NAT traversal
+Dead peer detection/relay detection
+PKI (X.509) certificate support
+Centralize VPN support
+Simple wizard support
+Auto reconnect VPN
+VPN HA (redundant remote VPN gateways)
+SSL VPN
+Clientless secure remote access
+Support reverse proxy mode and full tunnel mode
+Unified policy enforcement
+Supports two-factor authentication
+Customizable user portal
+Intrusion Detection and Prevention (IDP)*1 (USG 50/100/100-PLUS/200)
+Routing and transparent (bridge) mode
+Zone-based IDP inspection
+Customizable protection profile
+Protect over 2000 attack
+Automatic signature updates
+Custom signatures
+Protocol anomaly detection and protection
+Traffic anomaly detection and protection
+Flooding detection and protection
+DoS/DDoS protection
+Application Intelligence*1 (Application Patrol)
+Identify more than 600 applications, including IM, P2P, social netowrk, stream media, VoIP, and others
+Support application granularity control
+Manage use of Skype/MSN, GoogleTalk, Facebook at business hours, or never
+Block all use of P2P and Games applications all the time (or during business hours)
+Bandwidth management for P2P, Stream Media, File Transfer, or particular applications
+Daily check and auto update application signatures
+Real-Time statistical reports
+Anti-Virus*2 (USG 50/100/100-PLUS/200)
+Support Kaspersky and Zyxel Anti-Virus
+Stream-based Anti-Virus engine
+Zone base AV protection
+HTTP/FTP/SMTP/POP3/IMAP4 protocol support
+Automatic signature updates
+No file size limitation
+Blacklist/whitelist support
+Anti-Spam
+Zone to zone protection
+Transparently intercept mail via SMTP/POP3 protocols
+POP3/SMTP port configurable
+Sender-based IP reputation filter
+Commtouch RPD query
+Zero-hour virus outbreak protection
+X-Header support
+Blacklist/whitelist support
+Support DNSBL checking
+Spam tag support
+Statistics report
+High Availability (USG 100/200)
+Active-Passive mode
+Device failure detection and notification
+Support ICMP and TCP ping check
+Link monitoring
+Auto-Sync configurations
+Content Filtering (BlueCoat and Commtouch)*3
+Social networking control
+Web security—Security threat category (powered by BlueCoat)
+URL blocking, keyword blocking
+Profile base setting
+Exempt list (blacklist and whitelist)
+Blocks java applet, cookies and active X
+Dynamic URL filtering database (powered by BlueCoat and Commtouch)
+Unlimited user licenses support
+Customize warning messages and redirect URL
+Networking
+Routing mode/bridge mode/mixed mode
+Layer 2 port grouping
+Ethernet/PPPoE
+NAT/PAT
+Tagged VLAN (802.1Q)
+Virtual interface (alias interface)
+Policy-based routing (user-aware)
+Policy-based NAT (SNAT)
+Dynamic routing (RIP v1/v2, OSPF)
+DHCP client/server/relay
+Dynamic DNS support
+WAN Trunk more than 2 port(USG 50/100/100-PLUS/200)
+Per host session limit
+Guaranteed bandwidth
+Maximum bandwidth
+Priority-bandwidth utilization
+Authentication
+Local user database
+Microsoft Windows active directory integrate
+External LDAP/RADIUS user database
+Xauth over RADIUS for IPSec VPN
+Forced user authentication (transparent authentication)
+IP/MAC address binding
+System Management
+Role-Based administration
+Multiple administrator login
+Multi-Lingual web GUI (HTTPS/HTTP)
+Object-based configuration
+Command line interface (console/web console/SSH/TELNET)
+SNMP v2c (MIB-II)
+System configuration rollback
+Firmware upgrade via FTP/FTP-TLS/web GUI
+Logging/Monitoring
+Comprehensive local logging
+Syslog (send to up to 4 servers)
+E-mail alert (send to up to 2 servers)
+Real-Time traffic monitoring
+Built-in daily report
+Advanced reporting (Vantage Report)
+Centralized Network Management (Vantage CNM) manageable
+Certification
+Emission (EMC)
+FCC Part15 (Class B)
+CE EMC (Class B)
+Application Diagram:
+High performance
+The Zyxel USG Series is built with a powerful Integrated High Performance Security architecture. It provides real-time inspection to prevent networks from threats without sacrificing performance. Take the USG 50 as an example: its excellent performance delivers sufficient speed boost to meet all small business needs.
+EASY VPN — zero configuration remote access
+When establishing VPN tunnels, it could be quite difficult for non-technical employees to use due to the complicated configuration.
+The Zyxel USG Series is equipped with the “EASY VPN” solution to push configuration files to the VPN clients automatically; this eliminates the configuration efforts while securing the access at the same time.
+Content Filter stops malware and Web threats
+The Zyxel USG Content Filter enables businesses to protect their users and networks from malware and abuse such as spyware, phishing attacks and inappropriate P2P or IM usage. It keeps office computers from getting infected by dangerous malware and comprehensively protects business network environments.
+Non-stop Internet access with multiple WAN and 3G backups
+The Zyxel USG supports not only WAN traffic load balancing to increase the overall network throughput but also flexible 3G backup as a WAN alternative to enhance network reliability.
+Specifications:
+Model USG20
+Hardware Specifications
+10/100/1000 interfaces (Copper)
+4 x LAN/DMZ, 1 x WAN
+USB ports
+1
+Card slot
+-
+System Capacity & Performance*1
+SPI firewall throughput*2 (Mbps)
+175
+VPN throughput (AES)*3 (Mbps)
+75
+UTM throughput (AV+IDP)*4 (Mbps)
+-
+Unlimited user licenses
+Yes
+Max. sessions*5
+10,000
+New session rate
+1,000
+Max. concurrent IPSec VPN tunnels
+5
+Max. concurrent SSL VPN users
+1
+Included SSL VPN users
+1
+Customizable zone
+Yes
+IPv6 support
+Yes
+Built-in Wireless LAN
+Standards
+-
+Antennas
+-
+Wi-Fi throughput*6 (Mbps)
+-
+Maximum output power
+-
+Radio sensitivity
+-
+Power Requirement
+Input voltage
+100 - 240 V AC, 50/60 Hz, 1.5 A
+Power rating
+15 W Max.
+Power consumption (watt)
+15
+Physical Specifications
+Item
+Dimensions (WxDxH)(mm/in.)
+216 x 140 x 33/8.50 x 5.51 x 1.30
+Weight (kg/lb.)
+0.38/0.84
+Packing
+Dimensions (WxDxH)(mm/in.)
+305 x 205 x 106/12.01 x 8.07 x 4.17
+Weight (kg/lb.)
+1/2.20
+Environmental Specifications
+Operating temperature
+0°C to 40°C/32°F to 104°F
+Storage temperature
+-30°C to 60°C/-22°F to 140°F
+Operating humidity
+5% to 90% (non-condensing)
+MTBF (hr)
+323,269
+Note:
+*1: Actual performance may vary depending on network conditions and activated applications.
+*2: Maximum throughput based on RFC 2544 (1,518-byte UDP packets).
+*3: VPN throughput measured based on RFC 2544 (1,424-byte UDP packets).
+*4: UTM (AV and IDP) throughput measured using the industry standard IXIA IxLoad testing tool (1,460-byte HTTP packets).
+*5: Maximum sessions measured using the industry standard IXIA IxLoad testing tool.
+*6: Wireless throughput measured using the industry standard IXIA IxLoad testing tool (802.11n, 20 MHz, WPA2-PSK).
+Model Comparison:
+Model Name
+USG 20
+USG 20W
+USG 50
+USG 100
+USG 100 PLUS
+USG 200
+Product Images
+Hardware Specifications
+10/100/1000 Interfaces (Copper)
+4 x LAN/DMZ, 1 x WAN
+4 x LAN/DMZ, 1 x WAN
+4 x LAN/DMZ, 2 x WAN
+5 x LAN/DMZ, 2 x WAN
+4 x LAN/DMZ, 2 x WAN
+5 x LAN/DMZ, 2 x WAN
+USB ports
+1
+1
+2
+2
+2
+2
+Card slot
+-
+-
+-
+1
+-
+1
+System Capacity & Performance*1
+SPI firewall throughput*2 (Mbps)
+175
+175
+225
+225
+600
+250
+VPN throughput (AES)*3 (Mbps)
+75
+75
+90
+90
+150
+90
+UTM throughput (AV+IDP)*4 (Mbps)
+-
+-
+30
+30
+30
+40
+Unlimited user licenses
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Max. sessions*5
+10,000
+10,000
+10,000
+20,000
+40,000
+40,000
+New session rate
+1,000
+1,000
+1,200
+1,200
+1,200
+1,200
+Max. concurrent IPSec VPN tunnels
+5
+5
+10
+50
+50
+100
+Max. concurrent SSL VPN users
+1
+1
+5
+25
+25
+25
+Included SSL VPN users
+1
+1
+2
+2
+2
+2
+Customizable zone
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+IPv6 support
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Built-in Wireless LAN
+Standards
+-
+802.11 b/g/n
+-
+-
+-
+-
+Antennas
+-
+2 detachable
+-
+-
+-
+-
+Wi-Fi throughput*6 (Mbps)
+-
+80
+-
+-
+-
+-
+Maximum output power
+-
+802.11b: 18.5 dBm @ 11 Mbps
+802.11g: 15.5 dBm @ 54 Mbps
+802.11n: 15.5 dBm @ 20 Mbps
+-
+-
+-
+-
+Radio sensitivity
+-
+802.11b:
+≤ -83 dBm @ 11 Mbps
+802.11g: ≤ -70 dBm @ 54 Mbps
+802.11n: ≤ -64 dBm @ 20 Mbps
+-
+-
+-
+-
+Power Requirement
+Input voltage
+100 - 240 V AC, 50/60 Hz, 1.5 A
+100 - 240 V AC, 50/60 Hz, 1.5 A
+100 - 240 V AC, 50/60 Hz, 1.5 A
+100 - 240 V AC, 50/60 Hz, 2 A
+100 - 240 V AC, 50/60 Hz, 1.5 A
+100 - 240 V AC, 50/60 Hz, 2 A
+Power rating
+15 W Max.
+16 W Max.
+17 W Max.
+20 W Max.
+17 W Max.
+20 W Max.
+Power consumption (watt)
+15
+16
+17
+20
+17
+20
+Physical Specifications
+Item
+Dimensions
+(WxDxH)(mm/in.)
+216 x 140 x 33/8.50 x 5.51 x 1.30
+216 x 140 x 33/8.50 x 5.51 x 1.30
+242 x 167 x 35.5/9.53 x 6.57 x 1.40
+242 x 175 x 35.5/9.53 x 6.89 x 1.40
+242 x 167 x 35.5/9.53 x 6.57 x 1.40
+242 x 175 x 35.5/9.53 x 6.89 x 1.40
+Weight (kg/lb.)
+0.38/0.84
+0.42/0.93
+1.2/2.65
+1.2/2.65
+1.2/2.65
+1.2/2.65
+Packing
+Dimensions
+(WxDxH)(mm/in.)
+305 x 205 x 106/12.01 x 8.07 x 4.17
+305 x 205 x 106/12.01 x 8.07 x 4.17
+375 x 238 x 108/14.76 x 9.37 x 4.25
+296 x 158 x 241/11.65 x 6.22 x 9.49
+375 x 238 x 108/14.76 x 9.37 x 4.25
+296 x 158 x 241/11.65 x 6.22 x 9.49
+Weight (kg/lb.)
+1/2.20
+1.1/2.43
+2.4/5.29
+2.7/5.95
+2.4/5.29
+3/6.61
+Environmental Specifications
+Operating temperature
+0°C to 40°C/32°F to 104°F
+Storage temperature
+-30°C to 60°C/-22°F to 140°F
+Operating humidity
+5% to 90% (non-condensing)
+MTBF (hr)
+323,269
+301,502
+871,265
+323,823
+871,265
+323,823
+Note:
+*1: Actual performance may vary depending on network conditions and activated applications.
+*2: Maximum throughput based on RFC 2544 (1,518-byte UDP packets).
+*3: VPN throughput measured based on RFC 2544 (1,424-byte UDP packets).
+*4: UTM (AV and IDP) throughput measured using the industry standard IXIA IxLoad testing tool (1,460-byte HTTP packets).
+*5: Maximum sessions measured using the industry standard IXIA IxLoad testing tool.
+*6: Wireless throughput measured using the industry standard IXIA IxLoad testing tool (802.11n, 20 MHz, WPA2-PSK).
+Documentation:
+Download the
+Zyxel ZyWALL USG 20 Datasheet(PDF).
+Site Map:
+Home
+Shopping Cart
+Contact Us
+Products:
+Unified Security Gateway
+Wireless LAN APs
+Home Products
+Switches
+View all Products
+Resources:
+Shipping
+Returns
+Consulting
+Call a Specialist Today!
+888-785-4412
+Contact:
+9979 Muirlands Blvd.
+Irvine, CA 92618
+888-785-4412
+Sales@ZyxelGuard.com
+Get a Quote!
+ZyxelGuard.com is a division of Virtual Graffiti Inc, an authorized Zyxel reseller.
+Copyright © 2000. All Rights Reserved. Site Terms and Privacy Policy
+
+
+
+
+
+
+================= http://www.zyxelguard.com/ZyWALL-USG300.asp ==================
+
+
+
+
+
+Zyxel USG 300 Unified Security Gateway | ZyxelGuard.com
+Call a Specialist Today! 888-785-4412
+Call a Specialist Today! 888-785-4412
+Toggle navigation
+Products
+Featured Products
+ZyWALL IPSec VPN Client
+ZyWALL SSL VPN Client
+iCard Services
+Zyxel Security
+Next-Gen USG Appliances
+Performance Series
+USG 40
+USG 40 Wireless
+USG 60
+USG 60 Wireless
+Advanced Series
+USG 110
+USG 210
+USG 310
+Extreme Series
+USG 1100
+USG 1900
+USG Appliances
+Legacy Models
+ZyWall USG 20
+ZyWall USG 20W
+ZyWall USG 50
+ZyWall USG 100
+ZyWall USG 200
+ZyWall USG 300
+ZyWall USG 1000
+ZyWall USG 2000
+VPN Firewall
+USG20-VPN
+USG20W-VPN
+USG2200-VPN
+VPN Firewall Gateway
+ZyWall VPN50
+ZyWall VPN100
+ZyWall VPN300
+ZyWall VPN2S
+ATP Firewalls
+ZyWALL ATP200
+ZyWALL ATP500
+ZyWALL ATP800
+Security Services
+Zyxel ZyWALL SSL VPN Client
+ZyWall IPSec VPN Client
+Cloud CNM Security Services
+Zyxel Cloud CNM SecuManager
+Zyxel Cloud CNM SecuReporter
+Network Management
+Vantage CNM
+Cloud Network Center
+Bonded Gateway
+VSG1432
+VSG1435
+VMG3925
+VMG4325-B10A
+VMG4380-B10A
+VMG4825
+VMG9823
+Ethernet Gateway
+EMG2926
+EMG2306-R10A
+EMG3425
+P-660HNU-F1
+Nebula Cloud Networking
+Nebula Switches
+Nebula Switch:
+NSW100-10
+NSW100-10P
+NSW100-28
+NSW100-28P
+NSW200-28P
+Switch with NebulaFlex:
+GS1920-8HP
+GS1920-24
+GS1920-24HP
+GS1920-48HP
+Nebula Access Points
+Nebula AP:
+NAP102
+NAP203
+NAP303
+NAP353
+AP with NebulaFlex:
+NWA1123-ACV2
+NWA1123-ACPro
+NWA1123-ACHD
+NWA1302-AC
+AP with NebulaFlex Pro:
+NWA5123-ACHD
+WAC6303D-S
+Nebula Gateways
+Nebula Gateways:
+Zyxel NSG 50
+Zyxel NSG 100
+Zyxel NSG 200
+Zyxel NSG 300
+Zyxel Wireless
+Unified Access Points
+WAC6103D-I
+WAC5302D-S
+NWA5301-NJ
+NWA5121-NI
+NWA5123-AC
+NWA5123-NI
+WAC6500-PS 12v DC Power Supply
+Unified Pro Access Points
+WAC6103D-I
+WAC6502D-E
+WAC6502D-S
+WAC6503D-S
+WAC6552D-S
+WAC6553D-E
+PoE Access Points
+NWA1100-NH
+NWA1121-NI
+NWA1123-NI
+NWA1123-AC
+Hotspot Gateways
+UAG2100
+UAG4100
+UAG5100
+UAG50
+SBG3300-N
+WLAN Controller Solution
+NXC2500
+NXC5500
+Multy Plus WiFi System
+Antennas & Cables
+Zyxel Home Products
+WiFi System
+Multy X (Model WSQ50)
+Wireless N Routers
+NBG4615
+NBG4615-v2
+NBG-418N-v2
+Wireless AC Routers
+NBG6515
+NBG6616
+NBG6815
+NBG6816
+NBG6817
+Wireless AC Access Points
+ARMOR X1 (WAP6806)
+Wireless AC Extenders
+WRE6606
+Powerline & Adapters
+PLA5256
+PLA5405
+PLA5456
+HLA3105
+MoCA Extenders
+WAP7205
+HLA4205
+Ethernet Routers
+P6660HN-51
+P660R-F1
+Storage
+NAS326
+NAS520
+NAS540
+Cloud Access Cameras
+Zyxel CAM3115
+Zyxel Switches
+Unmanaged Switches
+10/100 Fast Ethernet
+ES1100-8P
+ES1100-16
+ES1100-16P
+ES1100-24
+ES1100-24E
+Smart PoE+
+GS1005HP
+GS1008HP
+10/100/1000 Gigabit
+GS-105 S
+GS1100-8HP-240W
+GS1100-10HP
+GS1100-16
+GS1100-24
+GS1100-24E
+L2/L2+ Managed Switches
+1200 Series
+GS1200-5
+GS1200-8
+GS1200-5HP
+GS1200-8HP
+2200 Series
+GS2200-24P
+2210 Series
+GS2210-8
+GS2210-8HP
+GS2210-24
+GS2210-24HP
+GS2210-24LP
+GS2210-48
+GS2210-48HP
+3500 Series
+ES3500-8PD
+ES3500-24
+ES3500-24HP
+3700 Series
+GS3700-24
+GS3700-24HP
+GS3700-48
+GS3700-48HP
+XGS3700-24
+XGS3700-24HP
+XGS3700-48
+XGS3700-48HP
+3800 Series
+XS3800-28
+3900 Series
+XS3900-48F
+XGS2210 Series
+XGS2210-28
+XGS2210-28HP
+XGS2210-52
+XGS2210-52HP
+L3 Managed Switches
+XGS-4528F
+XGS-4600-32
+XGS-4600-32F
+XGS-4600-52F
+Smart Managed Switches
+1900 Series
+GS1900-8
+GS1900-8HP
+GS1900-10HP
+GS1900-16
+GS1900-24E
+GS1900-24
+GS1900-24HP
+GS1900-48
+GS1900-48HP
+1910 Series
+XGS1910-24
+XGS1910-48
+1920 Series
+GS1920-48
+10GbE Switches
+XS1920-12
+XS3700-24
+Carrier & Access Switches
+Access Switches
+MES3500-24
+MES3500-24F
+MGS3520-28
+MGS3520-28F
+Aggregation Switches
+XGS3600-28
+XGS3600-28F
+MGS3700-12C
+Media Converters
+MC1000-SFP-FP
+PoE Injectors
+POE-12-HP
+RPS600-HP
+Fiber Transceivers
+Transceiver Modules
+Zyxel MSANs / DSLAMs
+Remote MSAN
+IES-1000 Series
+Central MSAN
+IES-5000 Series
+IES-5106 Series
+IES-5112 Series
+IES-6000 Series
+Remote DSLAM
+IES-1248-5x Series
+VES-1616FE-55A
+VES1724-56
+VES1724-55C
+Accessories
+View All Products
+Security Licenses
+Total Security Bundle
+Content Filtering Service
+Managed AP Service
+Anti-Virus Service
+Anti-Virus 2.0 Service
+Anti-Spam Service
+IDP Service
+SSL VPN Client Service & IPSec VPN Client Service
+Application Intelligence
+Resources
+End of Life Products
+Leasing
+Consulting
+Zyxel Solutions
+NebulaFlex
+Promotions
+Trade In, Trade Up Promotion
+3rd Party Solutions
+VPN Tracker 7
+Promotions
+Trade In, Trade Up Promotion
+Quote Request
+News
+Contact Us
+Account
+Shopping Cart
+Your Account
+Order History
+Help with checkout
+Home
+Resources
+Zyxel End of Life Products
+USG 300
+Zyxel USG 300 Unified Security Gateway
+Unified Security Gateway for Small and Medium-Sized Businesses
+Sorry, this product is no longer available, replaced by the USG310.
+Overview
+Benefits
+Features
+Application Diagram
+Specifications
+Model Comparison
+Documentation
+Overview:
+Unified Security Gateway
+The Zyxel USG 300 is a fully-fledged security gateway which encompasses a complete range of progressive security solutions. It is ideal for SMB customers with up to 75 PC users and - thanks to its highly flexible configuration - it gives administrators the power to set up networks efficiently including the implementation of extensive security policies.
+Security on a New Level - The Future Is Ahead. Stay Ahead with Zyxel USGs.
+Utilizing networks to access internal and external mission-critical applications are common, and important as well, for small and medium-sized businesses. As faster networks bring more convenience and efficiency, businesses are facing challenges from sophisticated attacks and even cybercrime that would cause interrupted communications, degraded performance and loss of valuable information; however traditional firewalls are not capable of protecting business from such network attacks.
+The Zyxel USG 300/1000/2000 Series are security platforms that offers ultra-high performance, deep packet inspection and all-in-one multi-threat protection not only to block the latest attack combinations including intrusion attempts, viruses, worms, phishing, spyware, spam and many other malware types effectively, but also to secure remote access among branch offices, partners and customers. The USG’s real-time threat detection and continuous update services provide the fastest response speed in the networking industry to deter the evolving security threats before the business is affected. The Zyxel USG 300/1000/2000 Series is ideal for small- and medium-size businesses to safeguard their network environments.
+Ultra-high performance and protection
+Comprehensive support to IPv6
+Supported various VPN solutions (IPSec/SSL/2TP)
+Zero-configuration remote access with EASY VPN
+Support L2TP VPN on mobile device (iPhone and Android phone)
+ICSA Firewall, IPSec certification
+Real-time, dynamic malware protection
+High Availability (HA)
+Benefits:
+Ultra-high performance and protection to secure business networks
+The Zyxel USG 300/1000/2000 Series delivers wire-speed performance and integrated threat management for wired networks. The USG Series provides firewall throughputs of from 350 Mbps to 2 Gbps that enables businesses to protect critical applications and networks without affecting availability or performance. In addition, the USG’s unique built-in clean-traffic architecture can prevent risks such as viruses, worms, Trojan Horses, spyware, phishing attacks and other emerging Internet threats. In short, the architecture can assure clean and secure network environments for business users.
+Comprehensive IPv6 support to ensure investment protection
+The Zyxel USG Series is IPv6-ready today and is certified with “IPv6 Ready” gold logo. With IPv6 feature enabled, the USG Series ensures businesses with a smooth migration path from the IPv4-based networks to the full IPv6 infrastructure. It assigns IPv6 addresses to clients and passes the IPv6 traffics through the IPv4 environment. The USG Series supports dual-stack and IPv4 tunneling (6rd and 6to4 transition tunnel) implementations for Internet connectivity to access IPv6 applications. The comprehensive IPv6 features built into the USG Series ensure not only future-ready connectivity but also investment protection for businesses.IPv6 applications.
+Various VPN solutions to simplify secure access
+Establishing VPN tunnels is a good solution to provide a safe way to access necessary network resources remotely with any device anytime, anywhere. However due to the complicated configuration, it could be quite difficult for non-technical employees such as sales people to use. The Zyxel USG Series is equipped with the “EASY VPN” solution to push configuration files to the VPN clients automatically; this eliminates the configuration efforts while securing the access at the same time. In addition, the USG Series supports L2TP VPN technology on iPhones, Android phones and many other mobile devices as L2TP VPN enables employees in remote places to connect to the headquarters with easy and free access.
+Real-time, dynamic malware protection to safeguard business networks
+Web security powered by BlueCoat and Commtouch
+With more valuable information being placed on the data cloud, impacts from the ever-growing cybercrime should be treated seriously. As modern malware become very sophisticated and difficult to repel, the USG’s content filter from Blue Coat and Commtouch, the leading solution provider, reduces costs and extends protection by integrating a comprehensive, continuously updated database featuring millions of URLs, IP addresses and domains. With the content filter, the USG Series not only enables real-time protection to deter emerging Web threats including malware, phishing and Zombies/bots, but also monitors or blocks certain sites to maintain employee productivity.
+Email security powered by Commtouch
+The Zyxel USG Series delivers industry-leading protection, powered by Commtouch, against spam, phishing and virus-laden emails. The extremely high performance of Commtouch technology comes from the unique recurrent pattern detection (RPD) mechanism that possesses its superior capability through analyzing millions of new patterns each day (24x7x365) to block all the associated messages real-time. In addition, the USG applies sender-based IP reputation to remove over 80% of unwanted mails and to take advantage of the zero-hour virus outbreak protection feature, which is capable of blocking or delaying suspicious messages hours before commercial anti-virus signatures are available.
+High Availability (HA) ensures non-stop business operations
+Loss of mission-critical connection can cause serious, and sometimes disastrous, consequences to businesses. The Zyxel USG 300/1000/2000 Series provides HA features to guarantee a secure, reliable connection between the protected network and the Internet.
+Multiple WAN ports and configurable load balancing between ports.
+An auxiliary (backup) Internet connection known as out-of-band management.
+A backup USG in case the master USG fails (Device HA).
+Features:
+Firewall
+ICSA-certified firewall
+Routing and transparent (bridge) mode
+Zone-based access control list
+Stateful packet inspection
+User-aware policy enforcement
+SIP/H.323 NAT traversal
+ALG supports custom ports
+IPv6 Support
+IPv6 Ready gold logo certified
+Dual stack
+IPv4 tunneling (6rd and 6to4 transition tunnel)
+Host/Router/Firewall
+Virtual Private Network (VPN)
+ICSA-certified IPSec VPN
+Algorithm: AES/3DES/DES
+Authentication: SHA-1, SHA-2/MD5
+Key management: Manual key/IKE
+Perfect forward secrecy (DH groups) support 1, 2, 5
+IPSec NAT traversal
+Dead peer detection/relay detection
+Virtual Private Network (VPN)
+PKI (X.509) certificate support
+Centralize VPN support
+Simple wizard support
+Auto reconnect VPN
+VPN HA (redundant remote VPN gateways)
+SSL VPN
+Clientless secure remote access
+Support reverse proxy mode and full tunnel mode
+Unified policy enforcement
+Supports two-factor authentication
+Customizable user portal
+Intrusion Detection and Prevention (IDP)*1
+Routing and transparent (bridge) mode
+Zone-based IDP inspection
+Customizable protection profile
+Protect over 2000 attack
+Automatic signature updates
+Custom signatures
+Protocol anomaly detection and protection
+Traffic anomaly detection and protection
+Flooding detection and protection
+DoS/DDoS protection
+Application Intelligence*1
+(Application Patrol)
+Identify more than 600 applications, including IM, P2P, social netowrk, stream media, VoIP, and others
+Support application granularity control
+Manage use of Skype/MSN, GoogleTalk, Facebook at business hours, or never
+Block all use of P2P and Games applications all the time (or during business hours)
+Bandwidth management for P2P, Stream Media, File Transfer, or particular applications
+Daily check and auto update application signatures
+Real-Time statistical reports
+Anti-Virus*2
+Support Kaspersky and Zyxel Anti-Virus
+Stream-based Anti-Virus engine
+Zone base AV protection
+HTTP/FTP/SMTP/POP3/IMAP4 protocol support
+Automatic signature updates
+No file size limitation
+Blacklist/whitelist support
+Anti-Spam
+Zone to zone protection
+Transparently intercept mail via SMTP/POP3 protocols
+POP3/SMTP port configurable
+Sender-based IP Reputation Filter
+Commtouch RPD Query
+Zero-hour Virus Outbreak Protection
+X-Header Support
+Blacklist/whitelist support
+Support DNSBL checking
+Spam tag support
+Statistics report
+High Availability
+Active-Passive mode
+Device failure detection and notification
+Support ICMP and TCP ping check
+Link monitoring
+Auto-Sync configurations
+Content Filtering
+(BlueCoat and Commtouch)*3
+Social networking control
+Web security—Security threat category (powered by BlueCoat)
+URL blocking, keyword blocking
+Profile base setting
+Exempt list (blacklist and whitelist)
+Blocks java applet, cookies and active X
+Dynamic URL filtering database (powered by BlueCoat and Commtouch)
+Unlimited user licenses support
+Customize warning messages and redirect URL
+Networking
+Routing mode/bridge mode/mixed mode
+Layer 2 port grouping
+Ethernet/PPPoE
+NAT/PAT
+Tagged VLAN (802.1Q)
+Virtual interface (alias interface)
+Policy-based routing (user-aware)
+Policy-based NAT (SNAT)
+Dynamic routing (RIP v1/v2, OSPF)
+DHCP client/server/relay
+Dynamic DNS support
+WAN Trunk more than 2 port
+Per host session limit
+Guaranteed bandwidth
+Maximum bandwidth
+Priority-bandwidth utilization
+Authentication
+Local user database
+Microsoft Windows active directory integrate
+External LDAP/RADIUS user database
+Xauth over RADIUS for IPSec VPN
+Forced user authentication (transparent authentication)
+IP/MAC address binding
+System Management
+Role-Based administration
+Multiple administrator login
+Multi-Lingual web GUI (HTTPS/HTTP)
+Object-based configuration
+Command line interface (console/web console/SSH/TELNET)
+SNMP v2c (MIB-II)
+System configuration rollback
+Firmware upgrade via FTP/FTP-TLS/web GUI
+Logging/Monitoring
+Comprehensive local logging
+Syslog (send to up to 4 servers)
+E-mail alert (send to up to 2 servers)
+Real-Time traffic monitoring
+Built-in daily report
+Advanced reporting (Vantage Report)
+Centralized Network Management (Vantage CNM) manageable
+Certification
+Safety
+CSA International
+Emission (EMC)
+FCC Part15 (Class A)
+CE EMC (Class A)
+Note:
+*1: Available for USG 300/1000/2000 models with Intrusion Detection/Prevention(IDP) subscription.
+*2: Available for USG 300/1000/2000 models with Anti-Virus subscription.
+*3: Available for all USG models with Content Filtering subscription.
+Application Diagram:
+USG clean-traffic architecture
+The USG’s clean-traffic architecture protects against network risks such as viruses, worms, Trojan Horses, spyware, phishing attacks and other emerging Internet threats. With the clean-traffic architecture, enterprises users are assured to have clean and secure network environments.
+EASY VPN — zero configuration remote access
+When establishing VPN tunnels, it could be quite difficult for non-technical employees to use due to the complicated configuration.
+The Zyxel USG Series is equipped with the “EASY VPN” solution to push configuration files to the VPN clients automatically; this eliminates the configuration efforts while securing the access at the same time.
+Content Filter stops malware and Web threats
+The Zyxel USG Content Filter enables businesses to protect their users and networks from malware and abuse such as spyware, phishing attacks and inappropriate P2P or IM usage. It keeps office computers from getting infected by dangerous malware and comprehensively protects business network environments.
+Granular control over social networking applications
+Social networking applications such as Facebook, Twitter and YouTube have become an Internet phenomenon allowing people to quickly connect and share information with each other. However, social networking applications could eclipse business productivity considerably without flexible management. The Zyxel USG Series prevents the Internet connection from being abused to minimize bandwidth waste or human resource policy violations. The USG Series provides granular control over the usage of social networking applications.
+Specifications:
+USG 300 Specifications
+Hardware Specifications
+10/100/1000 interfaces (Copper)
+7
+Dual personality GbE (SFP/RJ45)
+-
+USB ports
+2
+System Capacity & Performance*1
+SPI firewall throughput*2 (Mbps)
+350
+VPN throughput (AES)*3 (Mbps)
+130
+UTM throughput (AV+IDP)*4 (Mbps)
+80
+Unlimited user licenses
+Yes
+Max. sessions*5
+60,000
+New session rate
+1,500
+Max. concurrent IPSec VPN tunnels
+200
+Max. concurrent SSL VPN users
+25
+Included SSL VPN users
+2
+Customizable zone
+Yes
+IPv6 support
+Yes
+Power Requirement
+Input voltage
+100 - 240 V AC, 50/60 Hz, 0.55 - 0.3 A
+Power rating
+35 W Max.
+Power consumption (watt)
+35
+Physical Specifications
+Item
+Dimensions
+(WxDxH)(mm/in.)
+430 x 201 x 42/16.93 x 7.91 x 1.65
+Weight (kg/lb.)
+2.8/6.17
+Packing
+Dimensions
+(WxDxH)(mm/in.)
+539 x 184 x 321/21.22 x 7.24 x 12.64
+Weight (kg/lb.)
+6/13.22
+Environmental Specifications
+Operating temperature
+0°C to 40°C/32°F to 104°F
+Storage temperature
+-30°C to 60°C/-22°F to 140°F
+Operating humidity
+5% to 90% (non-condensing)
+MTBF (hr)
+180,382
+Note:
+*1: Actual performance may vary depending on network conditions and activated applications.
+*2: Maximum throughput based on RFC 2544 (1,518-byte UDP packets).
+*3: VPN throughput measured based on RFC 2544 (1,424-byte UDP packets).
+*4: UTM (AV and IDP) throughput measured using the industry standard IXIA IxLoad testing tool (1,460-byte HTTP packets).
+*5: Maximum sessions measured using the industry standard IXIA IxLoad testing tool.
+*6: With SEM-DUAL or SEM-VPN module
+*7: With SEM-DUAL module
+Transceivers
+Model Name
+Connector
+Wavelength
+Max Transmission Distance (km/yd)
+Optical Budget
+Laser Transmitter Characteristics
+Receiver Characteristics
+Maximum Launch Power
+Minimum Launch Power
+Optical Receiver Sensibility
+Maximum Input Power
+SFP-SX-D
+LC
+850 nm
+0.55/601
+7.5 dB
+-4 dBm
+-9.5 dBm
+-17 dBm
+-3 dBm
+SFP-LX-10-D
+LC
+1310 nm
+10/10936
+10.5 dB
+-3 dBm
+-9.5 dBm
+-20 dBm
+-3 dBm
+SFP-LHX1310-40-D
+LC
+1310 nm
+40/43744
+21 dB
++3 dBm
+-2 dBm
+-23 dBm
+-3 dBm
+SFP-ZX-80-D
+LC
+1310 nm
+80/87488
+24 dB
++5 dBm
+0 dBm
+-24 dBm
+-3 dBm
+Model Comparison:
+Model Name
+USG 300
+USG 1000
+USG 2000
+Product Images
+Hardware Specifications
+10/100/1000 interfaces (Copper)
+7
+5
+6
+Dual personality GbE (SFP/RJ45)
+-
+-
+2
+USB ports
+2
+2
+2
+System Capacity & Performance*1
+SPI firewall throughput*2 (Mbps)
+350
+400
+2,000
+VPN throughput (AES)*3 (Mbps)
+130
+180
+600*6
+UTM throughput (AV+IDP)*4 (Mbps)
+80
+100
+400*7
+Unlimited user licenses
+Yes
+Yes
+Yes
+Max. sessions*5
+60,000
+500,000
+1,000,000
+New session rate
+1,500
+12,000
+20,000
+Max. concurrent IPSec VPN tunnels
+200
+1,000
+2,000
+Max. concurrent SSL VPN users
+25
+250
+750*7
+Included SSL VPN users
+2
+5
+5
+Customizable zone
+Yes
+Yes
+Yes
+IPv6 support
+Yes
+Yes
+Yes
+Power Requirement
+Input voltage
+100 - 240 V AC, 50/60 Hz, 0.55 - 0.3 A
+100 - 240 V AC, 50/60 Hz, 1 A Max.
+100 - 240 V AC, 50/60 Hz, 3 - 6 A
+Power rating
+35 W Max.
+80 W Max.
+200 W Max.
+Power consumption (watt)
+35
+80
+200
+Physical Specifications
+Item
+Dimensions
+(WxDxH)(mm/in.)
+430 x 201 x 42/16.93 x 7.91 x 1.65
+431 x 292 x 43.5/16.97 x 11.50 x 1.71
+430 x 487 x 89/16.93 x 19.17 x 3.50
+Weight (kg/lb.)
+2.8/6.17
+4.7/10.36
+10.5/23.15
+Packing
+Dimensions
+(WxDxH)(mm/in.)
+539 x 184 x 321/21.22 x 7.24 x 12.64
+529 x 411 x 194/20.83 x 16.18 x 7.64
+607 x 551 x 295/23.90 x 21.70 x 11.6
+Weight (kg/lb.)
+6/13.22
+6.5/14.33
+14.2/31.31
+Environmental Specifications
+Operating temperature
+0°C to 40°C/32°F to 104°F
+Storage temperature
+-30°C to 60°C/-22°F to 140°F
+Operating humidity
+5% to 90% (non-condensing)
+MTBF (hr)
+180,382
+51,611
+99,141
+Note:
+*1: Actual performance may vary depending on network conditions and activated applications.
+*2: Maximum throughput based on RFC 2544 (1,518-byte UDP packets).
+*3: VPN throughput measured based on RFC 2544 (1,424-byte UDP packets).
+*4: UTM (AV and IDP) throughput measured using the industry standard IXIA IxLoad testing tool (1,460-byte HTTP packets).
+*5: Maximum sessions measured using the industry standard IXIA IxLoad testing tool.
+*6: With SEM-DUAL or SEM-VPN module
+*7: With SEM-DUAL module
+Documentation:
+Download the
+Zyxel USG 300 Datasheet (PDF).
+Site Map:
+Home
+Shopping Cart
+Contact Us
+Products:
+Unified Security Gateway
+Wireless LAN APs
+Home Products
+Switches
+View all Products
+Resources:
+Shipping
+Returns
+Consulting
+Call a Specialist Today!
+888-785-4412
+Contact:
+9979 Muirlands Blvd.
+Irvine, CA 92618
+888-785-4412
+Sales@ZyxelGuard.com
+Get a Quote!
+ZyxelGuard.com is a division of Virtual Graffiti Inc, an authorized Zyxel reseller.
+Copyright © 2000. All Rights Reserved. Site Terms and Privacy Policy
+
+
+
+
+
+
+================= https://www.cnet.com/products/zyxel-zywall-usg-100-security-appliance-series/specs/ ==================
+
+
+
+
+
+ZyXEL ZyWALL USG-100 - security appliance Series Specs & Prices - CNET
+Best Products
+All the best products
+Editors' Choice
+Versus
+Best Headphones
+Best Laptops
+Best Phones
+Best TVs
+Best Speakers
+Best Routers
+Best Smart Home
+Best Tablets
+Best Refrigerators
+Best Washing Machines
+Best Digital Cameras
+Best Hard Drives
+Best Printers
+Best Wearable Tech
+Best AV Receivers
+Best iPhone Apps
+Best Media Streamers
+Best Dishwashers
+Best Coffee Machines
+Reviews
+All reviews
+Appliances
+Audio
+Cameras
+Cars
+Desktops
+Drones
+Headphones
+Laptops
+Media Streamers
+Monitors
+Networking
+Phones
+Printers
+Smart Home
+Speakers
+Tablets
+TVs
+VPNs
+Wearables & VR
+Web Hosting
+News
+All news
+5G
+Apple
+Computers
+Culture
+Google
+Health & Wellness
+Internet
+Microsoft
+Mobile
+Newsletters
+Sci-Tech
+Security
+Tech Industry
+Special Features
+Photo Galleries
+Video
+All video
+Most Popular
+News
+How To
+Special Features
+Appliances
+Audio
+Cameras
+Gaming
+Home Entertainment
+Laptops
+Smart Home
+Tablets
+TVs
+Wearable Tech
+CNET Top 5
+Tech Today
+The Apple Core
+What the Future
+Alphabet City
+3:59
+CNET Podcasts
+How To
+All how to
+Appliances
+Computers
+Gaming
+Home Entertainment
+Internet
+Mobile Apps
+Phones
+Photography
+Security
+Smart Home
+Streaming TV
+Tablets
+Wearable Tech
+Forums
+Smart Home
+All smart home
+Best smart home devices
+Guide to smart living
+News
+Tour our smart apartment
+Tour our smart house
+Product compatibility
+Amazon Alexa
+Apple HomeKit
+Belkin WeMo
+Google Assistant
+Lutron
+Nest
+Philips Hue
+Samsung SmartThings
+Wink
+Cars
+Roadshow
+Reviews
+Video
+News
+Pictures
+Recalls
+AutoComplete
+Carfection
+Cooley On Cars
+Car Audio
+Electric Cars
+Best cars
+Best Affordable Cars
+Best Crossovers
+Best Electric Cars
+Best Family Cars
+Best Fuel-Efficient Cars
+Best Hybrids
+Best Sedans
+Best SUVs
+Best Trucks
+Deals
+All deals
+The Cheapskate
+Best VPN Services
+Best Web Hosting
+Best Password Managers
+Audio Deals
+Camera Deals
+Desktop Deals
+Hard Drive Deals
+Laptop Deals
+Monitor Deals
+Phone Deals
+Printer Deals
+Software Deals
+Tablet Deals
+TV Deals
+Download
+Editions
+Editions
+English
+Español
+China
+France
+Germany
+Japan
+Korea
+Search
+Go
+Hi,
+Settings
+My Profile
+Forums
+Sign Out
+Join / Sign In
+ZyXEL ZyWALL USG-100 - security appliance Series Specs & Prices
+Model
+Zyxel ZyWALL USG-100 - security appliance
+Zyxel ZyWALL USG-100 - security appliance
+ZWUSG100
+$300.00
+Zyxel ZyWALL USG-100 - security appliance - with 1 year AV+IDP, CF
+zwusg100ts
+Zyxel ZyWALL USG-100 - security appliance | ZWUSG100
+Post a comment
+Prices
+Total
+Price
+Tax
+Shipping
+Store
+In Stock
+$300.00
+$300.00
+$0.00
+$0.00
+Amazon
+See Site
+See it
+CNET may get a commission from these offers.
+* Product and pricing data are sourced from third parties for informational purposes only. We strive to provide correct information, but are not responsible for inaccuracies. Should you find any errors, please help us by reporting it here.
+specs
+General
+Form Factor
+external
+Authentication Method
+Active Directory,
+LDAP,
+RADIUS,
+Secure Shell (SSH),
+X.509 certificates
+Manufacturer
+ZyXEL Communications Corp.
+Camera
+Installed Size
+256 MB
+Power Device
+Nominal Voltage
+AC 120/230 V
+Frequency Required
+50/60 Hz
+Networking
+Remote Management Protocol
+HTTP,
+HTTPS,
+SNMP 2c,
+SSH,
+Telnet
+Status Indicators
+port status,
+power,
+system
+Network / Transport Protocol
+IPSec,
+L2TP,
+PPPoE,
+PPTP
+Features
+ALG support,
+Access Control List (ACL) support,
+DDos attack prevention,
+DHCP support,
+DMZ port,
+DoS attack prevention,
+E-mail alert,
+High Availability,
+IPSec passthrough,
+Intrusion Detection System (IDS),
+Intrusion Prevention System (IPS),
+LDAP support,
+NAT support,
+SSH support,
+Stateful Packet Inspection (SPI),
+Syslog support,
+URL filtering,
+VLAN support,
+VPN support,
+anti-spam protection,
+antivirus analysis,
+auto-negotiation,
+auto-uplink (auto MDI/MDI-X),
+content filtering,
+dynamic DNS server,
+firewall protection,
+firmware upgradable,
+load balancing,
+manageable,
+packet filtering,
+routing,
+traffic shaping
+Routing Protocol
+IGMP,
+IGMPv2,
+OSPF,
+RIP-1,
+RIP-2
+Data Link Protocol
+Ethernet,
+Fast Ethernet,
+Gigabit Ethernet
+Compliant Standards
+IEEE 802.1Q,
+X.509
+Connectivity Technology
+wired
+Processor / Memory / Storage
+Type
+none
+Interface Provided
+Qty
+1,
+2,
+5
+Miscellaneous
+Rack Mounting Kit
+included
+Encryption Algorithm
+AES,
+DES,
+DH,
+IKE,
+MD5,
+PKI,
+SHA-1,
+SSL,
+Triple DES,
+WPA,
+WPA2
+Environmental Parameters
+Min Operating Temperature
+32 °F
+Max Operating Temperature
+122 °F
+Header
+Brand
+ZyXEL
+Product Line
+Zyxel ZyWALL
+Model
+USG-100
+Packaged Quantity
+1
+Compatibility
+PC
+Dimensions & Weight
+Width
+9.5 in
+Depth
+6.9 in
+Height
+1.4 in
+Weight
+2.65 lbs
+Expansion Slots
+Total Qty
+1
+Free Qty
+1
+Service & Support
+Type
+5 years warranty
+Service & Support Details
+Type
+limited warranty
+Full Contract Period
+5 years
+General
+Manufacturer
+ZyXEL Communications Corp.
+Close
+Discuss: ZyXEL ZyWALL USG-100 - security appliance Series
+Sign in to comment
+Be respectful, keep it civil and stay on topic. We delete comments that violate our policy, which we encourage you to read. Discussion threads can be closed at any time at our discretion.
+Download the CNET app
+About CNET
+Sitemap
+Privacy Policy
+Ad Choice
+Terms of Use
+Mobile User Agreement
+Help Center
+Licensing
+© CBS Interactive Inc.
+All Rights Reserved.
+Affiliate Disclosure
+CNET may get a commission from retail offers.
+Top Brands
