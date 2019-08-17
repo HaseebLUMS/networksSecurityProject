@@ -22727,3 +22727,11 @@ JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.uTd2H1rVYD8.O/ck
 1565950494737	Marionette	INFO	Listening on port 35709
 1565950494790	Marionette	WARN	TLS certificate errors will be ignored for this session
 1565950504307	Marionette	INFO	Stopped listening on port 35709
+1566037448431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hg24r3QXYwu9"
+*** You are running in headless mode.
+1566037456527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566037456527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566037456527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566037456527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566037586794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JyxTnvU6Cf1x"
+*** You are running in headless mode.

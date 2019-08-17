@@ -9046,5 +9046,69 @@
     "2261": {
         "ori": "220 ftp server (zywall usg 100) [::ffff:95.50.116.182]\n",
         "ref": "zywall usg"
+    },
+    "2262": {
+        "ori": "220 welcome on aug http/1.1 404 not found mikrotik\n",
+        "ref": "usg"
+    },
+    "2263": {
+        "ori": "220 welcome on aug http/1.1 404 not found mikrotik\n",
+        "ref": "usg"
+    },
+    "2264": {
+        "ori": "220 welcome on aug http/1.1 404 not found mikrotik\n",
+        "ref": "zywall"
+    },
+    "2265": {
+        "ori": "220 welcome on aug http/1.1 404 not found mikrotik\n",
+        "ref": "zywall usg"
+    },
+    "2266": {
+        "ori": "mikrotik",
+        "ref": "mikrotik"
+    },
+    "2267": {
+        "ori": "welcome to mikrotik",
+        "ref": "mikrotik"
+    },
+    "2268": {
+        "ori": "welcome to aug mikrotik",
+        "ref": "mikrotik"
+    },
+    "2269": {
+        "ori": "welcome to http/1.1 mikrotik",
+        "ref": "mikrotik"
+    },
+    "2270": {
+        "ori": "welcome to http1.1 mikrotik",
+        "ref": "http1.1"
+    },
+    "2271": {
+        "ori": "welcome to http1.1 mikrotik",
+        "ref": "mikrotik"
+    },
+    "2272": {
+        "ori": "welcome to http1.1 mikrotik",
+        "ref": "http1.1 mikrotik"
+    },
+    "2273": {
+        "ori": "welcome to http/1.1 mikrotik",
+        "ref": "mikrotik"
+    },
+    "2274": {
+        "ori": "welcome to http/1.1 mikrotik 400 not found",
+        "ref": "mikrotik"
+    },
+    "2275": {
+        "ori": "welcome to http/1.1 400 not found mikrotik ",
+        "ref": "mikrotik"
+    },
+    "2276": {
+        "ori": "welcome to http/1.1 400 not found mikrotik",
+        "ref": "mikrotik"
+    },
+    "2277": {
+        "ori": "220 welcome on aug http/1.1 404 not found mikrotik",
+        "ref": "mikrotik"
     }
 }

@@ -1,1 +1,1 @@
-220 FTP Server (ZyWALL USG 100) [::ffff:95.50.116.182]
+220 Welcome on aug HTTP/1.1 404 NOT FOUND Mikrotik

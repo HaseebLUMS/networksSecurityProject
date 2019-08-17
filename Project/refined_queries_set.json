@@ -1,7 +1,5 @@
 {
     "queries": [
-        "usg",
-        "zywall",
-        "zywall usg"
+        "mikrotik"
     ]
 }

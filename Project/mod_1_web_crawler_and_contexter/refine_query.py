@@ -20,13 +20,18 @@ def in_database(word):
 	return ((word.lower() in db1.lower().split("\n")) or (word.lower() in db2.lower().split("\n")))
 
 
-def is_date_time(k):
+# def is_date_time(k):
+# 	db = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
+# 	if k in db:
+# 		return True
+# 	return False
+
+
+def remove_dates(data):
 	db = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
-	if k in db:
-		return True
-	return False
-
-
+	for ele in db:
+		data = data.replace(ele, "")
+	return data
 '''
 Product Regex is used here
 because sometimes the product number
@@ -56,6 +61,55 @@ def trim(k):
 	return k
 
 
+http_codes = ["100 Continue"
+,"101 Switching Protocols"
+,"200 OK"
+,"201 Created"
+,"202 Accepted"
+,"203 Non-authoritative information"
+,"204 no content"
+,"205 reset content"
+,"206 partial content"
+,"300 multiple choices"
+,"301 moved permanently"
+,"302 found"
+,"303 see other"
+,"304 not modified"
+,"305 use proxy"
+,"306 (unused)"
+,"307 temporary redirect"
+,"400 bad request"
+,"401 unauthorized"
+,"402 payment required"
+,"403 forbidden"
+,"404 not found"
+,"405 method not allowed"
+,"406 not acceptable"
+,"407 proxy authentication required"
+,"408 request timeout"
+,"409 conflict"
+,"410 gone"
+,"411 length required"
+,"412 precondition failed"
+,"413 request entity too large"
+,"414 request-uri too long"
+,"415 unsupported media type"
+,"416 request range not satisfiable"
+,"417 expectation failed"
+,"500 internet server error"
+,"501 not implemented"
+,"502 bad gateway"
+,"503 service unavailable"
+,"504 gateway timeout"
+,"505 http version not supported"]
+
+def remove_http_codes(data, codes):
+	data = data.lower()
+	for code in codes:
+		data = data.replace(code.lower(), "")
+	data = data.replace("http/", "")
+	return data
+
 '''
 Uses Enchant library for removing dictionary words from 
 input banner and extracting keywords. 
@@ -75,6 +129,9 @@ the html tags from the banner data
 
 def refine_query(q, mode):
 	d = enchant.Dict('en_US')
+
+	q = remove_http_codes(q, http_codes)
+	q = remove_dates(q)
 	
 	if mode == 1: #Section 4.2, sub sec: Web Crawler, first para
 		pat_script = r"(?is)<script[^>]*>(.*?)</script>"
@@ -111,12 +168,12 @@ def refine_query(q, mode):
 
 	keywords = q.split(" ")
 
-	if mode == 2:
-		r = Rake()
-		r.extract_keywords_from_text(q)
-		keywords = r.get_ranked_phrases()
-	else:
-		keywords = q.split(" ")
+	# if mode == 2:
+	# 	r = Rake()
+	# 	r.extract_keywords_from_text(q)
+	# 	keywords = r.get_ranked_phrases()
+	# else:
+	# 	keywords = q.split(" ")
 
 
 	res = ""
@@ -133,7 +190,6 @@ def refine_query(q, mode):
 			if mode == 1:
 				if (k.isalpha() is False) and (k.isalnum() is False) and (k not in possibleProd): continue
 				if k.isdigit() is True: continue
-				if is_date_time(k) == True: continue
 			res += (" " + k)
 	
 
