@@ -4,7 +4,7 @@ Output: Device Annotation
 What does it do:
 	From a set of possible annotations, finds actual 
 	device annotation by finding local dependencies 
-	(defind in ARE paper) from web page test
+	(defind in ARE paper) from web page text
 '''
 
 
@@ -21,12 +21,16 @@ vendors = predictions['vendors']
 device_types = predictions['device_types']
 products = predictions['products']
 
+selected_text = []
 
 ''' Separate the lines of 
 the text and makes a list
 '''
-def linefyText(text): return re.split('[.]', text)
-
+def linefy_text(text): 
+	text = text.replace(".\n", ". ")
+	text = text.replace("\n", ". ")
+	# print(text.split(". "))
+	return text.split(". ")
 
 '''
 Counts the lines in text
@@ -37,10 +41,19 @@ or term "b" where as "a" and
 def count_related_lines(a, b, text):
 
 	count = 0
+	tmp = ""
 	for t in text:
 		if (a in t.lower()) and (b in t.lower()):
 			# print(t)
-			count += 1
+			for word in t.lower().split(" "):
+				if word == a:
+					tmp += 'v'
+				if word == b:
+					tmp += 'd'
+			
+			if('vd' in tmp):
+				count += 1
+				selected_text.append(t)
 	# if a is 'mikrotik':
 	# 	print(count)
 	return count
@@ -67,6 +80,7 @@ def find_dependency(text, vendors, device_types):
 		if len(v) < 3: continue
 		for d in device_types:
 			count = count_related_lines(v, d, text)
+			# print("=> ", count)
 			if count: #v and d are already sorted so the first one with a depen
 						#dency is answer
 				ans_ven = v
@@ -78,7 +92,6 @@ def find_dependency(text, vendors, device_types):
 			# 	ans_ven = v
 			# 	ans_dev = d
 	
-	print(anns)
 	return anns
 
 
@@ -89,76 +102,65 @@ alongwith a product name where as a and b are
 variables (device annotations, in practice).
 '''
 def find_product(text, a, b, tags):
-	max_lines = 0
-	ans_prod = ''
+	ans_prod = set({})
 
 	for t in tags:
-		count  = 0
 		for line in text:
-			if ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()+' ') in line.lower())):
-				count += 1
-			elif ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()+'. ') in line.lower())):
-				count += 1
-		if count > max_lines:
-			max_lines = count
-			ans_prod = t
+			if ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()) in line.lower())):
+				ans_prod.add(t.upper())
+				break
 
-	return ans_prod
+	return list(ans_prod)
 
-
-
-
-def find_product(file):
-	import re
-	p = re.compile("[A-Za-z]+[-]?[A-Za-z]*[0-9]+[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
-	return p.findall(file)
 
 '''
 Finds Local Dependecies between possible
 annotations and prints results
 '''
 def main():
-	# print('Finding Local Dependecies.')
+	print('Finding Local Dependecies.')
 	global file
 	global vendors
 	global device_types
+	global products
 
-	products = find_product(file)
-	
-	text = linefyText(file)
-	predicted_label = {}
-	try: predicted_label = find_dependency(text, vendors, device_types)
+	text = linefy_text(file)
+	predicted_labels = []
+	try: predicted_labels = find_dependency(text, vendors, device_types)
 	except: pass
 	
-	ans = json.dumps(predicted_label)
-	
-	# ans = ""
-	# try:
-	# 	# print('Brand: ', predicted_label['vendor'].upper())
-	# 	ans = predicted_label['vendor'].upper() + " | "
-	# except:
-	# 	pass
+	with open("annotation.txt", "w") as f: f.write("") #clearing the file
 
-	
-	# try:
-	# 	# print('Device: ', predicted_label['device_type'].upper())
-	# 	ans = ans + predicted_label['device_type'].upper()
-	# except:
-	# 	pass
 
-	# try:
-	# 	predicted_product = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
-	# except:
-	# 	pass
+	for predicted_label in predicted_labels:
+		ans = ""
+		try:
+			ans = predicted_label['vendor'].upper() + " | "
+		except:
+			pass
+		
+		try:
+			ans = ans + predicted_label['device_type'].upper()
+		except:
+			pass
 
-	# try:
-	# 	if predicted_product and (predicted_product is not ''):
-	# 		# print('Product Number: ', predicted_product)
-	# 		ans =  ans + " | " + predicted_product
-	# except:
-	# 	pass	
-	
-	with open('annotation.txt', 'w') as f:
-		f.write(ans)
+		text = selected_text #narrows down the text to the lines containing vendor and devices
+		try:
+			predicted_products = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
+		except:
+			pass
+
+		prev_ans = ans
+		for predicted_product in predicted_products:
+			ans = prev_ans
+			try:
+				if predicted_product and (predicted_product is not ''):
+					ans =  ans + " | " + predicted_product
+			except:
+				pass	
+			
+			with open('annotation.txt', 'a+') as f:
+				print(ans)
+				f.write(ans+"\n")
 
 main()

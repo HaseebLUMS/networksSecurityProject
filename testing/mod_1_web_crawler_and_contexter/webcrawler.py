@@ -18,20 +18,23 @@ Dependecy: Requires Rake Library
 
 
 from bs4 import BeautifulSoup
-from googlesearch import search 
 import time
 from urllib.request import Request
 from urllib.request import urlopen
 import sys
+import enchant
 from rake_nltk import Rake
 if not sys.warnoptions:
-    import warnings
-    warnings.simplefilter("ignore")
+	import warnings
+	warnings.simplefilter("ignore")
 # sys.path.append('./../')
 from config import page_limit
-from headlessUser import performSearch
+from headlessUser import perform_search
+from refine_query import refine_query
 import re
-
+import json
+import multiprocessing
+import time
 
 
 query = ""
@@ -48,12 +51,13 @@ Ignores URLs of popular sites (like social platforms)
 as they appear in search results on top but they are 
 not useful.
 '''
-
-def findURLs(words):
+def find_urls(words):
 	i = 10
 	tmp_urls = []
-	tmp_urls = performSearch(words)
+	tmp_urls = perform_search(words)
+	# print(tmp_urls)
 
+	
 	trash = ['youtube.com', 'facebook.com', 'linkedin.com', 'twitter.com', 'quora.com', 'glassdoor.com', 'reddit.com', '.pdf', '.doc', '.docx']
 	for url in tmp_urls:
 		trashyURL = False
@@ -63,13 +67,26 @@ def findURLs(words):
 			URLs.append(url)
 
 
+'''
+While removing dictionary words,
+it is checked that whether the target word
+can be a vendor name or device name or not.
+If yes, then it is not removed.
+This functions just tells that the 
+word can be a vendor or device name or not
+'''
+def in_database(word):
+	with open(sys.argv[2]) as file: db1 = file.read()
+	with open(sys.argv[3]) as file: db2 = file.read()
+
+	return ((word.lower() in db1.lower().split("\n")) or (word.lower() in db2.lower().split("\n")))
 
 
 
 '''
 Returns plain cleaned (by NLP texhniques) text data 
 
-Goes to URLs found by function findURLs and extract text only
+Goes to URLs found by function find_urls and extract text only
 Then eliminates scripts or styles components from web text
 Then does the necessary cleaning like back-slach n or back-slash r
 And stores the output in file 'output.txt'
@@ -83,18 +100,18 @@ Steps:
 	--Extracts keywords
 	--returns text (combination of keywords)
 '''
-def getText(url):
-	time.sleep(0.5)
-	req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}) #spoofed agent for avoiding scraping ban
+def get_text(url, return_dict):
+	time.sleep(1)
+	req = Request(url, headers={'User-Agent': 'Mozilla/4.0'}) #spoofed agent for avoiding scraping ban
 	html = urlopen(req).read()
 	soup = BeautifulSoup(html)
 	for script in soup(["script", "style"]):
-	    script.extract()
+		script.extract()
 	text = soup.get_text()
 	lines = (line.strip() for line in text.splitlines())
 	chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
 	text = '\n'.join(chunk for chunk in chunks if chunk)
-
+	return_dict['text'] = text
 	return text
 
 
@@ -103,81 +120,70 @@ def getText(url):
 '''
 Makes a output.txt
 For every URL in URLs list, 
-calls getText() and stores in output.txt
+calls get_text() and stores in output.txt
 '''
-def create_output(rfQ):
+def create_output():
 	global page_limit
 
-	queue = []
-	i = 1
+
+	with open('raw.txt', 'w') as f:
+		f.write(query)
+	with open('output.txt', 'w') as f:
+		f.write(query)
+
+
 	for url in URLs:
 		try:
 			if page_limit > 0:
-				text = getText(url)
-				with open(str(i) + '.txt', 'w') as f:
-					f.write(query + '\nRefined: '+ rfQ + '\n\n============================' + url + '===============================\n\n')
+
+				#get_text often stucks due to library Request so I have timed it.
+				manager = multiprocessing.Manager()
+				return_dict = manager.dict()
+				return_dict['text'] = query
+				text = ''
+				p = multiprocessing.Process(target=get_text, args=(url, return_dict, ))
+				p.start()
+				ans = p.join(1)
+				turns = 1
+				while p.is_alive():
+					if turns >= 10:
+						print ("killing a web search")
+						p.terminate()
+						p.join()
+						text = query
+						break
+					time.sleep(1)
+					turns += 1
+					text = return_dict['text']
+
+
+				with open('raw.txt', 'a+') as f:
+					f.write("\n\n\n\n\n\n\n================= "+url + " ==================\n\n\n\n\n\n")
 					f.write(text)
 
-				with open(str(i) + 'm.txt', 'w') as f:
+				with open('output.txt', 'a+') as f:
 					text = refine_query(text, 2) #using the refining funtion
-					f.write(query + '\nRefined: '+ rfQ + '\n\n============================' + url + '===============================\n\n')
+					f.write("\n\n\n\n\n\n\n================= "+url + " ==================\n\n\n\n\n\n")
 					f.write(text)
 					print(url, " : success")
 
-				i += 1
-				page_limit -= 1
+					
+			page_limit -= 1
 
 		except:
-			queue.append(url)
-			print('In queue for retry => ', url)
+			page_limit += 1
+			if 'www.' not in url:
+				URLs.append('www.' + url)
+				print(url, " : queued for retry")
+			else:
+				print(url, " : url failed")
 
-
-	for url in queue:
-		try:
-			if page_limit > 0:
-				text = getText(url)
-				with open(str(i) + '.txt', 'a+') as f:
-					f.write(query + '\nRefined: '+ rfQ + '\n\n============================' + url + '===============================\n\n')
-					f.write(text)
-
-				with open(str(i) + 'm.txt', 'a+') as f:
-					text = refine_query(text, 2) #using the refining funtion
-					f.write(query + '\nRefined: '+ rfQ + '\n\n============================' + url + '===============================\n\n')
-					f.write(text)
-					print(url, " : success")
-				i += 1
-				page_limit -= 1
-
-		except:
-			print('failed =>', url)
-			pass
-
-			
 	return 1
 
 
-'''
-Uses Rake library for removing dictionary words from 
-input banner and extracting keywords. 
-mode 1 for refining query
-mode 2 for refining any other data
-'''
-def refine_query(q, mode):
-	reg = re.compile('<.*?>')
-	q = re.sub(reg, '', q)
-	r = Rake()
-	r.extract_keywords_from_text(q)
-	keywords = r.get_ranked_phrases()
-	res = ""
-	for k in keywords:
-		if mode == 1:
-			if k.isdigit():
-				continue
-		res += (" " + k)
-	return res
 
 
-def countWords(l):
+def count_words(l):
 	count = 0
 	for e in l:
 		if len(e) > 2:
@@ -187,20 +193,57 @@ def countWords(l):
 
 '''
 Main function:
-	--Finds all respective URLs (by findURLs())
+	--Finds all respective URLs (by find_urls())
 	--shows the fetched URLs
 	--Fetches the Text from URL sites and creates
 	output.txt (by create_output())
 '''
 def main():
 	global query
-	res = refine_query(query, 1)
-	res2= res.split(" ")
-	res2 = countWords(res2)
-	print('Query: ', res)
 
-	findURLs(res)
-	for url in URLs: print(url)
-	is_written = create_output(res)
+	if sys.argv[4] == 'make':
+		queries = refine_query(query, 1)
+		queries = {'queries': queries}
+		queries = json.dumps(queries, indent=4)
+		with open('refined_queries_set.json', 'w') as f: f.write(queries)
+		print('written')
+
+	elif sys.argv[4] == 'run':
+		# qCopy = query
+		# res = refine_query(query, 1)
+		res = query
+		res2= res.split(" ")
+		res2 = count_words(res2)
+		print('Query: ', res)
+
+
+		# with open("queryMap.json", "r") as f: prevData = f.read()
+		# newKey = len(prevData)
+		# prevData[str(newKey)] = {"ori": qCopy, "ref:": res}
+		# prevData = json.dumps(prevData, indent=4)
+		# with open("queryMap.json", "w") as f: f.write(prevData)
+
+
+		if res2 > 1:
+			find_urls(res)
+			# for url in URLs: print(url)
+			is_written = create_output()
+		else:
+			with open('raw.txt', 'w') as f:
+				f.write("")
+			
+			with open('output.txt', 'w') as f:
+				f.write(res)
+			ans = ""
+			for ele in res.split(" "):
+				if ele is "": continue
+				if in_database(ele) == True: ans += (" " + ele)
+			try:
+				if ans[0] == " ":
+					ans = ans[1:]
+			except:
+				pass
+			with open('annotation.txt', 'w') as f: f.write(ans)
+
 
 main()

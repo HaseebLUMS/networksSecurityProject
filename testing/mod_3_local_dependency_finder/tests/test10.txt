@@ -1,0 +1,5 @@
+Class Four
+Vendor Product ... Device Type
+
+Sony RT-AC58U is actually an AIR-CONDITIONER.  
+Class Five is actually same.

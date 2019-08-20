@@ -1,7 +1,0 @@
-There are two unique types of SSH headers in all of Ferret Data
-
-1)
-SSH-2.0-dropbear_xxxx
-
-2)
-SSH-2.0-OpenSSH_7 xxxx

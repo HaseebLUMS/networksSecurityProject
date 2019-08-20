@@ -1,0 +1,16 @@
+{
+    "router": 291,
+    "broadband router": 17,
+    "webcam": 32,
+    "printer": 4,
+    "power-device": 12,
+    "storage-misc": 7,
+    "VoIP phone": 2,
+    "media device": 4,
+    "security-misc": 14,
+    "bridge": 1,
+    "firewall": 2,
+    "switch": 6,
+    "WAP": 4,
+    "VoIP adapter": 1
+}

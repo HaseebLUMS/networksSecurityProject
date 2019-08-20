@@ -6,6 +6,11 @@ What does it do:
 	-- Takes web pages data and cleans it
 	-- Finds important keywords by NLP techniques
 	-- Matches keywords with a corpus (device names and vendors)
+		--Corpus:
+			--scraped the vendors data from site https://www.iotone.com/suppliers.
+			There are approximately 2400 vendors.
+			--collected the device types data from from different websites like wikipedia,
+			amazon etc. There approximately 40 device types.
 	-- Finds product by matching regex
 	-- Outputs a json file containing possible device annotations
 '''
@@ -17,10 +22,11 @@ import os
 import sys
 
 file = sys.argv[1]
+rawData = sys.argv[4] #rawdata for finding intact product numbers
 
 with open(file, 'r') as f: sample = f.read()
+with open(rawData, 'r') as f: rawData = f.read()
 
-tag = sys.argv[4]
 
 
 '''
@@ -62,7 +68,6 @@ def find_important_word(words, corpus):
 		candidates[w] = corpus[w]
 	candidates = sorted(candidates.items(), key=lambda x: x[1], reverse=True)
 	ans = []
-	i = 5
 	for c in candidates:
 		ans.append(c[0])
 	return ans
@@ -86,13 +91,10 @@ Finds product names by
 matching possible candidates with
 a regular expression
 '''
-def find_pattern(words):
-
-	inp = ''
-	for w in words: inp += (w + ' ')
+def find_pattern(rawData):
 	import re
 	p = re.compile("[A-Za-z]+[-]?[A-Za-z]*[0-9]+[-]?[-]?[A-Za-z0-9]*\.?[0-9a-zA-Z]*")
-	return p.findall(inp)
+	return p.findall(rawData)
 
 
 '''
@@ -118,11 +120,11 @@ def main():
 	#print('Vendor: ', vendors[0])
 	#print('Device: ', device_types[0])
 	# print('may be ', vendors[0], device_types[0])
-	products = find_pattern(frequency_table.keys())
+	products = find_pattern(rawData)
 	prediction = {'vendors': vendors, 'device_types' : device_types, 'products': products}
 
 	import json
-	with open(tag + ' predictions.json', 'w') as outfile: json.dump(prediction, outfile, indent=2)
+	with open('predictions.json', 'w') as outfile: json.dump(prediction, outfile, indent=2)
 
 
 main()

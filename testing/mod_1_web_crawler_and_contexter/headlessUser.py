@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
-
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 ''' checks for url
     #The only problem here can be that 
@@ -14,7 +14,7 @@ from selenium.webdriver.firefox.options import Options
     #Also some url are not complete
     they end at ...
 '''
-def isURL(url):
+def is_url(url):
     if " " in url: return False
     if "..." in url: return False
     return True
@@ -27,8 +27,10 @@ headless selenium so that there is
 no limit on searches
 '''
 
-def performSearch(words):
+def perform_search(words):
     print('Headless browser active.')
+    # cap = DesiredCapabilities().FIREFOX
+    # cap["marionette"] = False
     options = Options()
     options.headless = True
     browser = webdriver.Firefox(options=options, executable_path='./mod_1_web_crawler_and_contexter/geckodriver')
@@ -38,45 +40,38 @@ def performSearch(words):
     search.send_keys(words)
     search.send_keys(Keys.RETURN)
 
-
-    path1 = '/html/body/div[6]/div[3]/div[10]/div[1]/div[2]/div/div[2]/div[2]/div/div/div/div[3]/div/div['
-    path2 = ']/div/div/div[1]/a/div/cite'
-
-
-    path11= '/html/body/div[6]/div[3]/div[10]/div[1]/div[2]/div/div[2]/div[2]/div/div/div/div/div/div['
-    path22= ']/div/div/div[1]/a/div/cite'
-    
     urls = []
 
-    for p in range(1, 10):
+    for p in range(1, 5):
+        print(".")
         try:
             time.sleep(1)
             if(len(urls) > 20):
                 break
-            for i in range(1, 12):
-                try:
-                    path = path1+str(i)+path2
-                    url = browser.find_element_by_xpath(path)
-                    if isURL(url.text):
-                        urls.append(url.text)
-                except:
-                    try:
-                        path = path11+str(i)+path22
-                        url = browser.find_element_by_xpath(path)
-                        if isURL(url.text):
-                            urls.append(url.text)
-                    except:
-                        pass
-            try: #if no next then return
-                browser.find_element_by_xpath("//*[contains(local-name(), 'span') and contains(text(), 'Next')]").click()
-            except:
-                return urls
+            res = browser.find_elements_by_xpath("//*[@href]")
+            for r in res:
+                # print(".")
+                link = r.get_attribute('href')
+                if 'https://www.google.com/search?' in link:
+                    continue
+                if 'google.com' in link:
+                    continue
+                if 'webcache.googleusercontent' in link:
+                    continue
+                if not is_url(link):
+                    continue
+                urls.append(link)
+        except info:
+            print('ERROR: ', info)
+
+        try: #if no next then return
+            browser.find_element_by_xpath("//*[contains(local-name(), 'span') and contains(text(), 'Next')]").click()
         except:
-            pass
+            browser.quit()
+            # print('=>', urls)
+            return urls
     browser.quit()
-    if len(urls):
-        print('urls fetched')
+    # print('=>', urls)
     return urls
 
 
-# performSearch('python')

@@ -1,0 +1,54 @@
+cable modem
+DSL modem
+wireless modem
+DSL/cable modem
+alarm system
+camera
+cinema
+DVR
+environment monitor
+printer
+printer
+industrial control system
+infrastructure router
+inkjet printer
+IPMI
+IPMI
+laser printer
+light controller
+multifunction printer
+nas
+network
+switch
+firewall
+fire alarm
+network analyzer
+power distribution unit
+phaser printer
+programmable logic controller
+power controller
+power monitor
+print server
+scada controller
+scada gateway
+scada processor
+scada router
+scada frontend
+scada server
+soho router
+solar panel
+storage
+temperature monitor
+thermostat
+set-top box
+TV tuner
+UPS
+usb
+VoIP phone
+water flow controller
+wifi
+hvac
+access control
+power monitor
+sign
+kvm

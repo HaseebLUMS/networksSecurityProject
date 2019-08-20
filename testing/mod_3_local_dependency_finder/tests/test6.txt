@@ -1,0 +1,6 @@
+This file will have a correct ordering of vendor and device type but there won't be any product number.
+I am a mikrotik manufactured hardworking router
+This will be a correct dependency . 
+This file will have a correct ordering of vendor and device type but there won't be any product number.
+I am a asus manufactured hardworking router
+This will be a correct dependency . 
