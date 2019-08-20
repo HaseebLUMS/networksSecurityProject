@@ -21,6 +21,15 @@ import enchant
 # from "./mod_1_web_crawler_and_contexter/webcrawler" import main as crawler
 
 
+''' writes state of execution in testing doc '''
+def test_write(field, value):
+	with open('1-testing.json') as f: data = json.loads(f.read())
+	new_key = str(len(data)-1)
+	data[new_key][field] = value
+	data = json.dumps(data, indent=4)
+	with open('1-testing.json', 'w') as f: f.write(data)
+
+
 '''
 Reads refined query written
 by web crawler and return a list
@@ -40,10 +49,15 @@ def write_query_map(ori, ref):
 	with open("queryMap.json", "w") as f: f.write(prevData)
 
 
+anns = []
 '''
 Runs the ARE files sequenctially
 '''
 def run_files(ori):
+	lps = {'pages':[]}
+	lps = json.dumps(lps)
+	with open('latest_pages.json', 'w') as f: f.write(lps)
+
 	print('Prediction Engine Started!')
 	comm = 'touch output.txt && rm output.txt'
 	os.system(comm)
@@ -64,6 +78,13 @@ def run_files(ori):
 	refined_queries = json.loads(refined_queries)
 	refined_queries = refined_queries['queries']
 
+
+	with open('intact_refined_query.txt') as f: intact_refined_query = f.read()
+	test_write('refined banner', intact_refined_query)
+	test_write('queries', refined_queries)
+
+
+	pages = []
 	for ref_que in refined_queries:
 		write_query_map(ori, ref_que)
 		print('in action: ', ref_que)
@@ -76,6 +97,17 @@ def run_files(ori):
 		except Exception as exception:
 			move = False
 			print("Exception occured in web crawler.", exception)
+
+
+		with open('pages.json') as f: s_pages = json.loads(f.read())['pages']
+		for ele in s_pages: pages.append(ele)
+
+		with open('latest_pages.json') as f: latest_pages = json.loads(f.read())['pages']
+		for ele in s_pages: latest_pages.append(ele)
+		lps = {'pages': latest_pages}
+		lps = json.dumps(lps, indent=4)
+		with open('latest_pages.json', 'w') as f: f.write(lps)
+
 
 
 		comm = 'touch mod_2_corpus_and_rule_based_der/Output/output.txt && rm mod_2_corpus_and_rule_based_der/Output/output.txt'
@@ -126,6 +158,8 @@ def run_files(ori):
 		# 	with open('annotation.txt', 'w') as f:
 		# 		f.write(" | | ")
 		make_transaction()
+	test_write('pages', pages)
+	test_write('annotations', anns)
 	return 1
 
 
@@ -136,8 +170,9 @@ for eventually being used for
 generating rules by Apriori Algorithm
 json format=> {1: [], 2:[], ..., n:[]}
 '''
+
 def make_transaction():
-	
+	global anns
 	trans = ""
 	with open('transactions.json', 'r') as fr: trans = fr.read()
 
@@ -155,6 +190,7 @@ def make_transaction():
 	with open('annotation.txt', 'r') as a: annotations = a.read()
 	for annotation in annotations.split("\n"):
 		if annotation is "": continue
+		anns.append(annotation)
 
 		transaction2 = []
 		for ele in transaction: transaction2.append(ele)

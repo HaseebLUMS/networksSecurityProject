@@ -26,6 +26,9 @@ tuples  = {}
 
 total = 0
 
+
+mapp = {}
+
 for ip in ips:
 	d = ""
 	v = ""
@@ -58,6 +61,16 @@ for ip in ips:
 			products[product] = 1
 		p = product
 
+	tmp = {"ip": ip, "device": d, "vendor": v, "product": p}
+	try:
+		with open('mappZTAG.json') as f: mapp = json.loads(f.read())
+	except:
+		mapp = {}
+	newKey = len(mapp)
+	mapp[newKey] = tmp
+	mapp = json.dumps(mapp, indent=4)
+	with open('mappZTAG.json', 'w') as f: f.write(mapp)
+
 	tup = (d, v, p)
 
 	if tup in tuples:
@@ -69,5 +82,7 @@ for ip in ips:
 
 # print(vendors)
 
-for ele in products:
-	print(products[ele])
+# for ele in products:
+# 	print(products[ele])
+# 	
+print('Done')

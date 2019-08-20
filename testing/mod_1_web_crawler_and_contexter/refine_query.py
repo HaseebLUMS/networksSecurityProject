@@ -159,8 +159,8 @@ def refine_query(q, mode):
 		
 		
 	if mode == 1:
-		q = q.replace('\\r', " ")
-		q = q.replace('\\n', " ")
+		q = q.replace('\r', " ")
+		q = q.replace('\n', " ")
 		q = q.replace("  ", " ")
 	
 
@@ -188,7 +188,7 @@ def refine_query(q, mode):
 				print(exception)
 				pass
 			if mode == 1:
-				if (k.isalpha() is False) and (k.isalnum() is False) and (k not in possibleProd): continue
+				# if (k.isalpha() is False) and (k.isalnum() is False) and (k not in possibleProd): continue
 				if k.isdigit() is True: continue
 			res += (" " + k)
 	
@@ -203,5 +203,6 @@ def refine_query(q, mode):
 		return res.lower()
 	if mode == 1:
 		result = res.lower()
+		with open('intact_refined_query.txt', 'w') as f: f.write(result)
 		result = generate_queries(result)
 		return result

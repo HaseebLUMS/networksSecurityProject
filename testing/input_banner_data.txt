@@ -1,1 +1,1 @@
-220 Welcome on aug HTTP/1.1 404 NOT FOUND Mikrotik
+220 Estefania Maria Valderrama Garcia FTP server (MikroTik 6.43.4) ready

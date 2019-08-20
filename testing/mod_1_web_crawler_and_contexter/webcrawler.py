@@ -132,7 +132,16 @@ def create_output():
 		f.write(query)
 
 
+	s_pages = []
+	lps = []
+	with open('latest_pages.json') as f: lps = json.loads(f.read())['pages']
+	
 	for url in URLs:
+		if url in lps:
+			s_pages.append(url)
+			print(url, '..|')
+			page_limit -= 1
+			continue
 		try:
 			if page_limit > 0:
 
@@ -166,8 +175,8 @@ def create_output():
 					f.write("\n\n\n\n\n\n\n================= "+url + " ==================\n\n\n\n\n\n")
 					f.write(text)
 					print(url, " : success")
+					s_pages.append(url)
 
-					
 			page_limit -= 1
 
 		except:
@@ -178,6 +187,9 @@ def create_output():
 			else:
 				print(url, " : url failed")
 
+	s_pages = {'pages': s_pages}
+	s_pages = json.dumps(s_pages, indent=4)
+	with open('pages.json', 'w') as f: f.write(s_pages)
 	return 1
 
 
@@ -244,6 +256,10 @@ def main():
 			except:
 				pass
 			with open('annotation.txt', 'w') as f: f.write(ans)
+			s_pages = {'pages': ['one word query yields no web searches']}
+			s_pages = json.dumps(s_pages, indent=4)
+			with open('pages.json', 'w') as f: f.write(s_pages)
+
 
 
 main()
