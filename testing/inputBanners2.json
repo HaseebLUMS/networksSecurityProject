@@ -321,7 +321,7 @@
     },
     "80": {
         "ip": "125.132.90.116",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A89B5) [192.168.0.1] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A89B5)\n"
     },
     "81": {
         "ip": "131.213.148.200",
@@ -357,7 +357,7 @@
     },
     "89": {
         "ip": "175.197.3.144",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B310E) [192.168.0.2] UTF-8\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B310E) [192.168.0.2]  \n"
     },
     "90": {
         "ip": "172.79.142.248",
@@ -365,7 +365,7 @@
     },
     "91": {
         "ip": "114.70.77.20",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C82718) [114.70.77.20] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD Server (NAS4dual-C82718)\n"
     },
     "92": {
         "ip": "203.205.34.85",
@@ -373,11 +373,11 @@
     },
     "93": {
         "ip": "205.210.22.101",
-        "banner": "220 Bruce Tower FTP server (MikroTik 6.45.2) ready\n"
+        "banner": "220 Bruce FTP server (MikroTik 6.45.2) ready\n"
     },
     "94": {
         "ip": "218.154.23.68",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (autoenp-AB0AF8) [192.168.0.84] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD Server (autoenp-AB0AF8)\n"
     },
     "95": {
         "ip": "202.52.248.13",
@@ -385,7 +385,7 @@
     },
     "96": {
         "ip": "203.216.171.75",
-        "banner": "220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [203.216.171.75]\n"
+        "banner": "220 NASFTPD Turbo station Server (ProFTPD)\n"
     },
     "97": {
         "ip": "153.131.176.244",
@@ -401,7 +401,7 @@
     },
     "100": {
         "ip": "121.159.201.234",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B2FB8) [192.168.0.55]\n"
+        "banner": "220 ipTIME_FTPD (NAS2e-1B2FB8) [192.168.0.55]\n"
     },
     "101": {
         "ip": "118.163.16.8",
@@ -409,7 +409,7 @@
     },
     "102": {
         "ip": "221.162.226.113",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A7781) [192.168.0.1] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD (ipTIME A3004NS-M-1A7781) [192.168.0.1]  \n"
     },
     "103": {
         "ip": "125.185.242.196",
@@ -441,7 +441,7 @@
     },
     "110": {
         "ip": "49.166.16.171",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (DaeYangNas-5F2A07) [::ffff:192.168.0.8] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD  (DaeYangNas-5F2A07) \n"
     },
     "111": {
         "ip": "86.95.84.24",
@@ -465,11 +465,11 @@
     },
     "116": {
         "ip": "59.9.196.241",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C817E5) [::ffff:172.30.1.54] UTF-8\n"
+        "banner": "220 ipTIME_FTPD (NAS4dual-C817E5) \n"
     },
     "117": {
         "ip": "220.70.29.183",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45848D) [::ffff:192.168.0.1] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD (ipTIME A8004NS-M-45848D) \n"
     },
     "118": {
         "ip": "42.200.149.213",
@@ -477,7 +477,7 @@
     },
     "119": {
         "ip": "14.48.151.122",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS1dual-5F026C) [192.168.0.33] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS1dual-5F026C) [192.168.0.33]  \n"
     },
     "120": {
         "ip": "68.179.131.66",
@@ -509,7 +509,7 @@
     },
     "127": {
         "ip": "125.185.92.48",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS-C809B8) [192.168.219.150] UTF-8\n"
+        "banner": "220 ipTIME_FTPD (NAS-C809B8) [192.168.219.150]  \n"
     },
     "128": {
         "ip": "5.19.141.173",
@@ -517,7 +517,7 @@
     },
     "129": {
         "ip": "190.184.203.186",
-        "banner": "220 BLUE CALLE 78 CON 12 FTP server (MikroTik 6.43.4) ready\n"
+        "banner": ""
     },
     "130": {
         "ip": "153.129.86.139",
@@ -529,15 +529,15 @@
     },
     "132": {
         "ip": "211.194.173.15",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS2dual-29510B) [::ffff:192.168.0.135] EUC-KR\n"
+        "banner": "\n"
     },
     "133": {
         "ip": "112.156.227.170",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (j2hhome-C92A7B) [192.168.219.167] EUC-KR\n"
+        "banner": "\n"
     },
     "134": {
         "ip": "67.53.63.53",
-        "banner": "220 AXIS 210 Network Camera 4.40.2 (Nov 04 2008) ready.\n"
+        "banner": "220 AXIS 210 Network Camera 4.40.2 ready.\n"
     },
     "135": {
         "ip": "96.35.45.46",
@@ -545,11 +545,11 @@
     },
     "136": {
         "ip": "112.156.187.85",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DC515) [192.168.0.1] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DC515) [192.168.0.1]  \n"
     },
     "137": {
         "ip": "183.106.239.80",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A847F1) [::ffff:192.168.0.1] EUC-KR\n"
+        "banner": "\n"
     },
     "138": {
         "ip": "177.154.82.180",
@@ -561,7 +561,7 @@
     },
     "140": {
         "ip": "76.72.245.6",
-        "banner": "220 CID-14126 Premier Food LLC - Don Taco FTP server (MikroTik 6.43.8) ready\n"
+        "banner": "220 CID-14126 FTP server (MikroTik 6.43.8) ready\n"
     },
     "141": {
         "ip": "81.150.188.206",
@@ -589,7 +589,7 @@
     },
     "147": {
         "ip": "58.120.49.110",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (TVBOX-1B0225) [192.168.1.134] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD (TVBOX-1B0225) [192.168.1.134]  \n"
     },
     "148": {
         "ip": "208.58.52.122",
@@ -601,7 +601,7 @@
     },
     "150": {
         "ip": "218.209.156.237",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (231-C93D8F) [192.168.0.250] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD (231-C93D8F) [192.168.0.250]  \n"
     },
     "151": {
         "ip": "103.23.236.88",
@@ -609,7 +609,7 @@
     },
     "152": {
         "ip": "14.46.207.115",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (myungjin-AB0EBA) [192.168.0.2] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD (myungjin-AB0EBA) [192.168.0.2]  \n"
     },
     "153": {
         "ip": "117.29.179.182",
@@ -617,11 +617,11 @@
     },
     "154": {
         "ip": "14.42.183.35",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A85431) [::ffff:192.168.0.1] UTF-8\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A85431) \n"
     },
     "155": {
         "ip": "59.26.201.134",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-658E59) [::ffff:59.26.123.1] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-658E59) \n"
     },
     "156": {
         "ip": "138.117.160.114",
@@ -629,15 +629,15 @@
     },
     "157": {
         "ip": "218.55.221.210",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-698DFD) [192.168.0.1] UTF-8\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-698DFD) [192.168.0.1]  \n"
     },
     "158": {
         "ip": "39.118.162.194",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE1F61) [192.168.0.1] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE1F61) [192.168.0.1]  \n"
     },
     "159": {
         "ip": "14.39.163.116",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS3-1B0E96) [192.168.0.17] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (NAS3-1B0E96) [192.168.0.17]  \n"
     },
     "160": {
         "ip": "221.138.227.158",
@@ -649,7 +649,7 @@
     },
     "162": {
         "ip": "175.114.193.124",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A072E1) [192.168.0.1] UTF-8\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A072E1) [192.168.0.1]  \n"
     },
     "163": {
         "ip": "61.105.10.154",
@@ -669,7 +669,7 @@
     },
     "167": {
         "ip": "218.236.244.139",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-04E705) [192.168.0.1] UTF-8\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-04E705) [192.168.0.1]  \n"
     },
     "168": {
         "ip": "45.225.140.190",
@@ -677,7 +677,7 @@
     },
     "169": {
         "ip": "106.247.23.126",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (server-294B84) [192.168.0.16] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD (server-294B84) [192.168.0.16]  \n"
     },
     "170": {
         "ip": "200.5.229.246",
@@ -685,11 +685,11 @@
     },
     "171": {
         "ip": "211.211.134.148",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A5975) [192.168.0.1] UTF-8\n"
+        "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A5975) [192.168.0.1]  \n"
     },
     "172": {
         "ip": "218.233.242.114",
-        "banner": "220 ipTIME_FTPD 1.3.4d Server (jjsdisk-943C23) [192.168.0.7] EUC-KR\n"
+        "banner": "220 ipTIME_FTPD (jjsdisk-943C23) [192.168.0.7]  \n"
     },
     "173": {
         "ip": "68.9.25.48",
@@ -709,7 +709,7 @@
     },
     "177": {
         "ip": "189.90.248.163",
-        "banner": "220 CPe - MK - PMMRN - DEFESA SOCIAL - 126212 FTP server (MikroTik 6.35.4) ready\n"
+        "banner": "220 FTP server (MikroTik 6.35.4) ready\n"
     },
     "178": {
         "ip": "46.104.86.136",
@@ -725,7 +725,7 @@
     },
     "181": {
         "ip": "185.124.117.230",
-        "banner": "220 Nagiec Pawel FTP server (MikroTik 6.22) ready\n"
+        "banner": "220 Nagiec FTP server (MikroTik 6.22) ready\n"
     },
     "182": {
         "ip": "82.247.167.1",

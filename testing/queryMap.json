@@ -682,5 +682,4241 @@
     "170": {
         "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
         "ref": "estefania garcia"
+    },
+    "171": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "valderrama garcia"
+    },
+    "172": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania mikrotik"
+    },
+    "173": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "ia garcia mikrotik"
+    },
+    "174": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "valderrama mikrotik"
+    },
+    "175": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania ia garcia"
+    },
+    "176": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania valderrama"
+    },
+    "177": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "ia valderrama garcia"
+    },
+    "178": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania ia mikrotik"
+    },
+    "179": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "ia valderrama mikrotik"
+    },
+    "180": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania ia valderrama"
+    },
+    "181": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania garcia mikrotik"
+    },
+    "182": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "valderrama garcia mikrotik"
+    },
+    "183": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania valderrama garcia"
+    },
+    "184": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania ia garcia mikrotik"
+    },
+    "185": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "ia valderrama garcia mikrotik"
+    },
+    "186": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania valderrama mikrotik"
+    },
+    "187": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania ia valderrama garcia"
+    },
+    "188": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania ia valderrama mikrotik"
+    },
+    "189": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania valderrama garcia mikrotik"
+    },
+    "190": {
+        "ori": "220 estefania maria valderrama garcia ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "estefania ia valderrama garcia mikrotik"
+    },
+    "191": {
+        "ori": "220 welcome to asus rt-n66u ftp service.\n",
+        "ref": "asus"
+    },
+    "192": {
+        "ori": "220 welcome to asus rt-n66u ftp service.\n",
+        "ref": "rt-n66u"
+    },
+    "193": {
+        "ori": "220 welcome to asus rt-n66u ftp service.\n",
+        "ref": "asus rt-n66u"
+    },
+    "194": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "mikrotik"
+    },
+    "195": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "196": {
+        "ori": "220 fritz!box7490 ftp server ready.\n",
+        "ref": "fritz!box7490"
+    },
+    "197": {
+        "ori": "220 winson_ds ftp server ready.\n",
+        "ref": "winson_ds"
+    },
+    "198": {
+        "ori": "220 welcome to asus rt-ac68u ftp service.\n",
+        "ref": "asus"
+    },
+    "199": {
+        "ori": "220 welcome to asus rt-ac68u ftp service.\n",
+        "ref": "rt-ac68u"
+    },
+    "200": {
+        "ori": "220 welcome to asus rt-ac68u ftp service.\n",
+        "ref": "asus rt-ac68u"
+    },
+    "201": {
+        "ori": "220 fritz!box6360cable(kbw) ftp server ready.\n",
+        "ref": "fritz!box6360cable(kbw"
+    },
+    "202": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "sr"
+    },
+    "203": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "tue"
+    },
+    "204": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "pdt"
+    },
+    "205": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "sr pdt"
+    },
+    "206": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "sr tue"
+    },
+    "207": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "alcatel"
+    },
+    "208": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "tue pdt"
+    },
+    "209": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "cpm/hops"
+    },
+    "210": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "sr tue pdt"
+    },
+    "211": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "alcatel sr"
+    },
+    "212": {
+        "ori": "220 fritz!box6490cable(kdg) ftp server ready.\n",
+        "ref": "fritz!box6490cable(kdg"
+    },
+    "213": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.5) ready\n",
+        "ref": "mikrotik"
+    },
+    "214": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.5) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "215": {
+        "ori": "220 ap9617 network management card aos v3.5.5 ftp server ready.\n",
+        "ref": "aos"
+    },
+    "216": {
+        "ori": "220 ap9617 network management card aos v3.5.5 ftp server ready.\n",
+        "ref": "v3.5.5"
+    },
+    "217": {
+        "ori": "220 ap9617 network management card aos v3.5.5 ftp server ready.\n",
+        "ref": "ap9617"
+    },
+    "218": {
+        "ori": "220 ap9617 network management card aos v3.5.5 ftp server ready.\n",
+        "ref": "aos v3.5.5"
+    },
+    "219": {
+        "ori": "220 ap9617 network management card aos v3.5.5 ftp server ready.\n",
+        "ref": "ap9617 aos"
+    },
+    "220": {
+        "ori": "220 ap9617 network management card aos v3.5.5 ftp server ready.\n",
+        "ref": "ap9617 v3.5.5"
+    },
+    "221": {
+        "ori": "220 ap9617 network management card aos v3.5.5 ftp server ready.\n",
+        "ref": "ap9617 aos v3.5.5"
+    },
+    "222": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "921v"
+    },
+    "223": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "speedport"
+    },
+    "224": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "v1.45.000"
+    },
+    "225": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "speedport 921v"
+    },
+    "226": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "921v v1.45.000"
+    },
+    "227": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "speedport v1.45.000"
+    },
+    "228": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "speedport 921v v1.45.000"
+    },
+    "229": {
+        "ori": "220 welcome to asus 4g-ac55u ftp service.\n",
+        "ref": "asus"
+    },
+    "230": {
+        "ori": "220 welcome to asus 4g-ac55u ftp service.\n",
+        "ref": "4g-ac55u"
+    },
+    "231": {
+        "ori": "220 welcome to asus 4g-ac55u ftp service.\n",
+        "ref": "asus 4g-ac55u"
+    },
+    "232": {
+        "ori": "220 lyudovik ftp server (mikrotik 5.24) ready\n",
+        "ref": "mikrotik"
+    },
+    "233": {
+        "ori": "220 lyudovik ftp server (mikrotik 5.24) ready\n",
+        "ref": "lyudovik"
+    },
+    "234": {
+        "ori": "220 lyudovik ftp server (mikrotik 5.24) ready\n",
+        "ref": "lyudovik mikrotik"
+    },
+    "235": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.6) ready\n",
+        "ref": "mikrotik"
+    },
+    "236": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.6) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "237": {
+        "ori": "220 pollekenas ftp server ready.\n",
+        "ref": "pollekenas"
+    },
+    "238": {
+        "ori": "220 welcome to asus rt-ac66u_b1 ftp service.\n",
+        "ref": "asus"
+    },
+    "239": {
+        "ori": "220 welcome to asus rt-ac66u_b1 ftp service.\n",
+        "ref": "rt-ac66u_b1"
+    },
+    "240": {
+        "ori": "220 welcome to asus rt-ac66u_b1 ftp service.\n",
+        "ref": "asus rt-ac66u_b1"
+    },
+    "241": {
+        "ori": "220 ftp server (usg40) [::ffff:78.186.16.176]\n",
+        "ref": "usg40"
+    },
+    "242": {
+        "ori": "220 ftp server (usg40) [::ffff:78.186.16.176]\n",
+        "ref": "::ffff:78.186.16.176"
+    },
+    "243": {
+        "ori": "220 ftp server (usg40) [::ffff:78.186.16.176]\n",
+        "ref": "usg40 ::ffff:78.186.16.176"
+    },
+    "244": {
+        "ori": "220 welcome to asus rt-ac58u ftp service.\n",
+        "ref": "asus"
+    },
+    "245": {
+        "ori": "220 welcome to asus rt-ac58u ftp service.\n",
+        "ref": "rt-ac58u"
+    },
+    "246": {
+        "ori": "220 welcome to asus rt-ac58u ftp service.\n",
+        "ref": "asus rt-ac58u"
+    },
+    "247": {
+        "ori": "220 fritz!box6490cable(lgi) ftp server ready.\n",
+        "ref": "fritz!box6490cable(lgi"
+    },
+    "248": {
+        "ori": "220 draytek ftp version 1.0\n",
+        "ref": "draytek"
+    },
+    "249": {
+        "ori": "220 axis 2120 network camera 2.43 nov 09 2004 ready.\n",
+        "ref": "axis"
+    },
+    "250": {
+        "ori": "220 axis 2120 network camera 2.43 nov 09 2004 ready.\n",
+        "ref": "camera"
+    },
+    "251": {
+        "ori": "220 axis 2120 network camera 2.43 nov 09 2004 ready.\n",
+        "ref": "axis camera"
+    },
+    "252": {
+        "ori": "220 test ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "mikrotik"
+    },
+    "253": {
+        "ori": "220-microsoft ftp service\n220 zoom ftp server\n",
+        "ref": "220-microsoft"
+    },
+    "254": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44) ready\n",
+        "ref": "mikrotik"
+    },
+    "255": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "256": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "42a"
+    },
+    "257": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "mikrotik"
+    },
+    "258": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "skrzydlice"
+    },
+    "259": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "42a mikrotik"
+    },
+    "260": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "skrzydlice 42a"
+    },
+    "261": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "kuprianowicz-bozena"
+    },
+    "262": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "skrzydlice mikrotik"
+    },
+    "263": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "kuprianowicz-bozena 42a"
+    },
+    "264": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "skrzydlice 42a mikrotik"
+    },
+    "265": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "kuprianowicz-bozena mikrotik"
+    },
+    "266": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "kuprianowicz-bozena skrzydlice"
+    },
+    "267": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "kuprianowicz-bozena 42a mikrotik"
+    },
+    "268": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "kuprianowicz-bozena skrzydlice 42a"
+    },
+    "269": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "kuprianowicz-bozena skrzydlice mikrotik"
+    },
+    "270": {
+        "ori": "220 kuprianowicz-bozena skrzydlice 42a ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "kuprianowicz-bozena skrzydlice 42a mikrotik"
+    },
+    "271": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.3) ready\n",
+        "ref": "mikrotik"
+    },
+    "272": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.3) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "273": {
+        "ori": "220 fritz!box6590cable ftp server ready.\n",
+        "ref": "fritz!box6590cable"
+    },
+    "274": {
+        "ori": "220 ftp server (usg110) [::ffff:82.127.20.153]\n",
+        "ref": "usg110"
+    },
+    "275": {
+        "ori": "220 ftp server (usg110) [::ffff:82.127.20.153]\n",
+        "ref": "::ffff:82.127.20.153"
+    },
+    "276": {
+        "ori": "220 ftp server (usg110) [::ffff:82.127.20.153]\n",
+        "ref": "usg110 ::ffff:82.127.20.153"
+    },
+    "277": {
+        "ori": "220 encons ftp server ready.\n",
+        "ref": "encons"
+    },
+    "278": {
+        "ori": "220 welcome to asus rt-ac66r ftp service.\n",
+        "ref": "asus"
+    },
+    "279": {
+        "ori": "220 welcome to asus rt-ac66r ftp service.\n",
+        "ref": "rt-ac66r"
+    },
+    "280": {
+        "ori": "220 welcome to asus rt-ac66r ftp service.\n",
+        "ref": "asus rt-ac66r"
+    },
+    "281": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "-"
+    },
+    "282": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "v\ufffdt"
+    },
+    "283": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "- v\ufffdt"
+    },
+    "284": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "jakubec"
+    },
+    "285": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "mikrotik"
+    },
+    "286": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "- jakubec"
+    },
+    "287": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "- mikrotik"
+    },
+    "288": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "jakubec v\ufffdt"
+    },
+    "289": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "v\ufffdt mikrotik"
+    },
+    "290": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "- jakubec v\ufffdt"
+    },
+    "291": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "- v\ufffdt mikrotik"
+    },
+    "292": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "jakubec mikrotik"
+    },
+    "293": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "- jakubec mikrotik"
+    },
+    "294": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "jakubec v\ufffdt mikrotik"
+    },
+    "295": {
+        "ori": "220 cl - jakubec v\ufffdt ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "- jakubec v\ufffdt mikrotik"
+    },
+    "296": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "mikrotik"
+    },
+    "297": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "298": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [172.16.101.1]\n",
+        "ref": "1.3.2e"
+    },
+    "299": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [172.16.101.1]\n",
+        "ref": "nasftpd"
+    },
+    "300": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [172.16.101.1]\n",
+        "ref": "proftpd"
+    },
+    "301": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [172.16.101.1]\n",
+        "ref": "1.3.2e proftpd"
+    },
+    "302": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [172.16.101.1]\n",
+        "ref": "nasftpd 1.3.2e"
+    },
+    "303": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [172.16.101.1]\n",
+        "ref": "nasftpd proftpd"
+    },
+    "304": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [172.16.101.1]\n",
+        "ref": "nasftpd 1.3.2e proftpd"
+    },
+    "305": {
+        "ori": "220 3-tes-sum ftp server (mikrotik 6.43.14) ready\n",
+        "ref": "mikrotik"
+    },
+    "306": {
+        "ori": "220 3-tes-sum ftp server (mikrotik 6.43.14) ready\n",
+        "ref": "3-tes-sum"
+    },
+    "307": {
+        "ori": "220 3-tes-sum ftp server (mikrotik 6.43.14) ready\n",
+        "ref": "3-tes-sum mikrotik"
+    },
+    "308": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "dell"
+    },
+    "309": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "printer"
+    },
+    "310": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "b5460dn"
+    },
+    "311": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "nw2.ys.n231"
+    },
+    "312": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "dell b5460dn"
+    },
+    "313": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "dell printer"
+    },
+    "314": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e"
+    },
+    "315": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "b5460dn printer"
+    },
+    "316": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "dell nw2.ys.n231"
+    },
+    "317": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e dell"
+    },
+    "318": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "b5460dn nw2.ys.n231"
+    },
+    "319": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "printer nw2.ys.n231"
+    },
+    "320": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "dell b5460dn printer"
+    },
+    "321": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e b5460dn"
+    },
+    "322": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e printer"
+    },
+    "323": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "dell printer nw2.ys.n231"
+    },
+    "324": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "dell b5460dn nw2.ys.n231"
+    },
+    "325": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e nw2.ys.n231"
+    },
+    "326": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e dell b5460dn"
+    },
+    "327": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e dell printer"
+    },
+    "328": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "b5460dn printer nw2.ys.n231"
+    },
+    "329": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e b5460dn printer"
+    },
+    "330": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e dell nw2.ys.n231"
+    },
+    "331": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "dell b5460dn printer nw2.ys.n231"
+    },
+    "332": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e printer nw2.ys.n231"
+    },
+    "333": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e b5460dn nw2.ys.n231"
+    },
+    "334": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e dell b5460dn printer"
+    },
+    "335": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e dell b5460dn nw2.ys.n231"
+    },
+    "336": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e dell printer nw2.ys.n231"
+    },
+    "337": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e b5460dn printer nw2.ys.n231"
+    },
+    "338": {
+        "ori": "220 et0021b76eed6e dell b5460dn laser printer ftp server nw2.ys.n231 ready.\n",
+        "ref": "et0021b76eed6e dell b5460dn printer nw2.ys.n231"
+    },
+    "339": {
+        "ori": "220 welcome to asus rt-n14u ftp service.\n",
+        "ref": "asus"
+    },
+    "340": {
+        "ori": "220 welcome to asus rt-n14u ftp service.\n",
+        "ref": "rt-n14u"
+    },
+    "341": {
+        "ori": "220 welcome to asus rt-n14u ftp service.\n",
+        "ref": "asus rt-n14u"
+    },
+    "342": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "1.3.4d"
+    },
+    "343": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "euc-kr"
+    },
+    "344": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime"
+    },
+    "345": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd"
+    },
+    "346": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "1.3.4d euc-kr"
+    },
+    "347": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime euc-kr"
+    },
+    "348": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "1.3.4d iptime"
+    },
+    "349": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "a3004ns-m-1a89b5"
+    },
+    "350": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "351": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd euc-kr"
+    },
+    "352": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "353": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "1.3.4d iptime euc-kr"
+    },
+    "354": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime a3004ns-m-1a89b5"
+    },
+    "355": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "a3004ns-m-1a89b5 euc-kr"
+    },
+    "356": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "1.3.4d a3004ns-m-1a89b5"
+    },
+    "357": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd iptime euc-kr"
+    },
+    "358": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd 1.3.4d euc-kr"
+    },
+    "359": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "360": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd a3004ns-m-1a89b5"
+    },
+    "361": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "1.3.4d a3004ns-m-1a89b5 euc-kr"
+    },
+    "362": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime a3004ns-m-1a89b5 euc-kr"
+    },
+    "363": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "1.3.4d iptime a3004ns-m-1a89b5"
+    },
+    "364": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd 1.3.4d iptime euc-kr"
+    },
+    "365": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd iptime a3004ns-m-1a89b5"
+    },
+    "366": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd 1.3.4d a3004ns-m-1a89b5"
+    },
+    "367": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd a3004ns-m-1a89b5 euc-kr"
+    },
+    "368": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "1.3.4d iptime a3004ns-m-1a89b5 euc-kr"
+    },
+    "369": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd 1.3.4d iptime a3004ns-m-1a89b5"
+    },
+    "370": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd iptime a3004ns-m-1a89b5 euc-kr"
+    },
+    "371": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd 1.3.4d a3004ns-m-1a89b5 euc-kr"
+    },
+    "372": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a89b5) [192.168.0.1] euc-kr\n",
+        "ref": "iptime_ftpd 1.3.4d iptime a3004ns-m-1a89b5 euc-kr"
+    },
+    "373": {
+        "ori": "220 daigorou ftp server ready.\n",
+        "ref": "daigorou"
+    },
+    "374": {
+        "ori": "220 (vsftpd 3.0.2)\n",
+        "ref": "vsftpd"
+    },
+    "375": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "mikrotik"
+    },
+    "376": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "377": {
+        "ori": "220-ftp server ready.\n220 this is a private system - no anonymous login\n",
+        "ref": "-"
+    },
+    "378": {
+        "ori": "220 welcome to linksys20828\n",
+        "ref": "linksys20828"
+    },
+    "379": {
+        "ori": "220 welcome to linksys08260\n",
+        "ref": "linksys08260"
+    },
+    "380": {
+        "ori": "220---------- welcome to pure-ftpd [privsep] [tls] ----------\n220-you are user number 1 of 50 allowed.\n220-local time is now 14:52. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 15 minutes of inactivity.\n",
+        "ref": "-"
+    },
+    "381": {
+        "ori": "220---------- welcome to pure-ftpd [privsep] [tls] ----------\n220-you are user number 1 of 50 allowed.\n220-local time is now 14:52. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 15 minutes of inactivity.\n",
+        "ref": "tls"
+    },
+    "382": {
+        "ori": "220---------- welcome to pure-ftpd [privsep] [tls] ----------\n220-you are user number 1 of 50 allowed.\n220-local time is now 14:52. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 15 minutes of inactivity.\n",
+        "ref": "priv"
+    },
+    "383": {
+        "ori": "220---------- welcome to pure-ftpd [privsep] [tls] ----------\n220-you are user number 1 of 50 allowed.\n220-local time is now 14:52. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 15 minutes of inactivity.\n",
+        "ref": "port:"
+    },
+    "384": {
+        "ori": "220---------- welcome to pure-ftpd [privsep] [tls] ----------\n220-you are user number 1 of 50 allowed.\n220-local time is now 14:52. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 15 minutes of inactivity.\n",
+        "ref": "tls -"
+    },
+    "385": {
+        "ori": "220---------- welcome to pure-ftpd [privsep] [tls] ----------\n220-you are user number 1 of 50 allowed.\n220-local time is now 14:52. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 15 minutes of inactivity.\n",
+        "ref": "priv -"
+    },
+    "386": {
+        "ori": "220---------- welcome to pure-ftpd [privsep] [tls] ----------\n220-you are user number 1 of 50 allowed.\n220-local time is now 14:52. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 15 minutes of inactivity.\n",
+        "ref": "port: -"
+    },
+    "387": {
+        "ori": "220---------- welcome to pure-ftpd [privsep] [tls] ----------\n220-you are user number 1 of 50 allowed.\n220-local time is now 14:52. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 15 minutes of inactivity.\n",
+        "ref": "priv tls"
+    },
+    "388": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "utf-8"
+    },
+    "389": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "1.3.4d"
+    },
+    "390": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "iptime_ftpd"
+    },
+    "391": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "1.3.4d utf-8"
+    },
+    "392": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "nas2e-1b310e"
+    },
+    "393": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "iptime_ftpd utf-8"
+    },
+    "394": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "nas2e-1b310e utf-8"
+    },
+    "395": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "396": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "1.3.4d nas2e-1b310e"
+    },
+    "397": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "iptime_ftpd 1.3.4d utf-8"
+    },
+    "398": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "iptime_ftpd nas2e-1b310e"
+    },
+    "399": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "1.3.4d nas2e-1b310e utf-8"
+    },
+    "400": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "iptime_ftpd nas2e-1b310e utf-8"
+    },
+    "401": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "iptime_ftpd 1.3.4d nas2e-1b310e"
+    },
+    "402": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas2e-1b310e) [192.168.0.2] utf-8\n",
+        "ref": "iptime_ftpd 1.3.4d nas2e-1b310e utf-8"
+    },
+    "403": {
+        "ori": "220 welcome to asus rt-acrh13 ftp service.\n",
+        "ref": "asus"
+    },
+    "404": {
+        "ori": "220 iptime_ftpd server (nas4dual-c82718)\n",
+        "ref": "iptime_ftpd"
+    },
+    "405": {
+        "ori": "220 iptime_ftpd server (nas4dual-c82718)\n",
+        "ref": "nas4dual-c82718"
+    },
+    "406": {
+        "ori": "220 iptime_ftpd server (nas4dual-c82718)\n",
+        "ref": "iptime_ftpd nas4dual-c82718"
+    },
+    "407": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.43) ready\n",
+        "ref": "mikrotik"
+    },
+    "408": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.43) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "409": {
+        "ori": "220 bruce ftp server (mikrotik 6.45.2) ready\n",
+        "ref": "bruce"
+    },
+    "410": {
+        "ori": "220 bruce ftp server (mikrotik 6.45.2) ready\n",
+        "ref": "mikrotik"
+    },
+    "411": {
+        "ori": "220 bruce ftp server (mikrotik 6.45.2) ready\n",
+        "ref": "bruce mikrotik"
+    },
+    "412": {
+        "ori": "220 iptime_ftpd server (autoenp-ab0af8)\n",
+        "ref": "iptime_ftpd"
+    },
+    "413": {
+        "ori": "220 iptime_ftpd server (autoenp-ab0af8)\n",
+        "ref": "autoenp-ab0af8"
+    },
+    "414": {
+        "ori": "220 iptime_ftpd server (autoenp-ab0af8)\n",
+        "ref": "iptime_ftpd autoenp-ab0af8"
+    },
+    "415": {
+        "ori": "220 ibn ftp server (mikrotik 6.41.3) ready\n",
+        "ref": "ibn"
+    },
+    "416": {
+        "ori": "220 ibn ftp server (mikrotik 6.41.3) ready\n",
+        "ref": "mikrotik"
+    },
+    "417": {
+        "ori": "220 ibn ftp server (mikrotik 6.41.3) ready\n",
+        "ref": "ibn mikrotik"
+    },
+    "418": {
+        "ori": "220 nasftpd turbo station server (proftpd)\n",
+        "ref": "proftpd"
+    },
+    "419": {
+        "ori": "220 nasftpd turbo station server (proftpd)\n",
+        "ref": "nasftpd"
+    },
+    "420": {
+        "ori": "220 nasftpd turbo station server (proftpd)\n",
+        "ref": "nasftpd proftpd"
+    },
+    "421": {
+        "ori": "220 ftp ( blackjumbodog version 6.2.0 ) ready\n",
+        "ref": "blackjumbodog"
+    },
+    "422": {
+        "ori": "220 sanduo ftp server ready.\n",
+        "ref": "sanduo"
+    },
+    "423": {
+        "ori": "220 iptime_ftpd (nas2e-1b2fb8) [192.168.0.55]\n",
+        "ref": "iptime_ftpd"
+    },
+    "424": {
+        "ori": "220 iptime_ftpd (nas2e-1b2fb8) [192.168.0.55]\n",
+        "ref": "nas2e-1b2fb8"
+    },
+    "425": {
+        "ori": "220 iptime_ftpd (nas2e-1b2fb8) [192.168.0.55]\n",
+        "ref": "iptime_ftpd nas2e-1b2fb8"
+    },
+    "426": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [192.168.10.16]\n",
+        "ref": "1.3.2e"
+    },
+    "427": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [192.168.10.16]\n",
+        "ref": "proftpd"
+    },
+    "428": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [192.168.10.16]\n",
+        "ref": "nasftpd"
+    },
+    "429": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [192.168.10.16]\n",
+        "ref": "nasftpd 1.3.2e"
+    },
+    "430": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [192.168.10.16]\n",
+        "ref": "1.3.2e proftpd"
+    },
+    "431": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [192.168.10.16]\n",
+        "ref": "nasftpd proftpd"
+    },
+    "432": {
+        "ori": "220 nasftpd turbo station 1.3.2e server (proftpd) [192.168.10.16]\n",
+        "ref": "nasftpd 1.3.2e proftpd"
+    },
+    "433": {
+        "ori": "220 iptime_ftpd (iptime a3004ns-m-1a7781) [192.168.0.1]  \n",
+        "ref": "iptime"
+    },
+    "434": {
+        "ori": "220 iptime_ftpd (iptime a3004ns-m-1a7781) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "435": {
+        "ori": "220 iptime_ftpd (iptime a3004ns-m-1a7781) [192.168.0.1]  \n",
+        "ref": "a3004ns-m-1a7781"
+    },
+    "436": {
+        "ori": "220 iptime_ftpd (iptime a3004ns-m-1a7781) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "437": {
+        "ori": "220 iptime_ftpd (iptime a3004ns-m-1a7781) [192.168.0.1]  \n",
+        "ref": "iptime a3004ns-m-1a7781"
+    },
+    "438": {
+        "ori": "220 iptime_ftpd (iptime a3004ns-m-1a7781) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd a3004ns-m-1a7781"
+    },
+    "439": {
+        "ori": "220 iptime_ftpd (iptime a3004ns-m-1a7781) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime a3004ns-m-1a7781"
+    },
+    "440": {
+        "ori": "220 yjghy ftp server ready.\n",
+        "ref": "yjghy"
+    },
+    "441": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.6) ready\n",
+        "ref": "mikrotik"
+    },
+    "442": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.6) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "443": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.9) ready\n",
+        "ref": "mikrotik"
+    },
+    "444": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.9) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "445": {
+        "ori": "220 et027050 ftp server ready.\n",
+        "ref": "et027050"
+    },
+    "446": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "ptz"
+    },
+    "447": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis"
+    },
+    "448": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "camera"
+    },
+    "449": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "m5014-v"
+    },
+    "450": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis ptz"
+    },
+    "451": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "ptz camera"
+    },
+    "452": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis camera"
+    },
+    "453": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "m5014-v ptz"
+    },
+    "454": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis m5014-v"
+    },
+    "455": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "m5014-v camera"
+    },
+    "456": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis ptz camera"
+    },
+    "457": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis m5014-v ptz"
+    },
+    "458": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "m5014-v ptz camera"
+    },
+    "459": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis m5014-v camera"
+    },
+    "460": {
+        "ori": "220 axis m5014-v ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis m5014-v ptz camera"
+    },
+    "461": {
+        "ori": "220 ucftpd ftp server ready.\n",
+        "ref": "ucftpd"
+    },
+    "462": {
+        "ori": "220 iptime_ftpd  (daeyangnas-5f2a07) \n",
+        "ref": "iptime_ftpd"
+    },
+    "463": {
+        "ori": "220 iptime_ftpd  (daeyangnas-5f2a07) \n",
+        "ref": "daeyangnas-5f2a07"
+    },
+    "464": {
+        "ori": "220 iptime_ftpd  (daeyangnas-5f2a07) \n",
+        "ref": "iptime_ftpd daeyangnas-5f2a07"
+    },
+    "465": {
+        "ori": "220 sterinterieurs ftp server ready.\n",
+        "ref": "sterinterieurs"
+    },
+    "466": {
+        "ori": "220 welcome to asus r7000 ftp service.\n",
+        "ref": "asus"
+    },
+    "467": {
+        "ori": "220 welcome to asus r7000 ftp service.\n",
+        "ref": "r7000"
+    },
+    "468": {
+        "ori": "220 welcome to asus r7000 ftp service.\n",
+        "ref": "asus r7000"
+    },
+    "469": {
+        "ori": "220 microsoft ftp service\n",
+        "ref": "microsoft"
+    },
+    "470": {
+        "ori": "220 chandler ftp server (mikrotik 6.45.2) ready\n",
+        "ref": "mikrotik"
+    },
+    "471": {
+        "ori": "220 homebase ftp server ready.\n",
+        "ref": "homebase"
+    },
+    "472": {
+        "ori": "220 iptime_ftpd (nas4dual-c817e5) \n",
+        "ref": "iptime_ftpd"
+    },
+    "473": {
+        "ori": "220 iptime_ftpd (nas4dual-c817e5) \n",
+        "ref": "nas4dual-c817e5"
+    },
+    "474": {
+        "ori": "220 iptime_ftpd (nas4dual-c817e5) \n",
+        "ref": "iptime_ftpd nas4dual-c817e5"
+    },
+    "475": {
+        "ori": "220 iptime_ftpd (iptime a8004ns-m-45848d) \n",
+        "ref": "iptime"
+    },
+    "476": {
+        "ori": "220 iptime_ftpd (iptime a8004ns-m-45848d) \n",
+        "ref": "iptime_ftpd"
+    },
+    "477": {
+        "ori": "220 iptime_ftpd (iptime a8004ns-m-45848d) \n",
+        "ref": "a8004ns-m-45848d"
+    },
+    "478": {
+        "ori": "220 iptime_ftpd (iptime a8004ns-m-45848d) \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "479": {
+        "ori": "220 iptime_ftpd (iptime a8004ns-m-45848d) \n",
+        "ref": "iptime a8004ns-m-45848d"
+    },
+    "480": {
+        "ori": "220 iptime_ftpd (iptime a8004ns-m-45848d) \n",
+        "ref": "iptime_ftpd a8004ns-m-45848d"
+    },
+    "481": {
+        "ori": "220 iptime_ftpd (iptime a8004ns-m-45848d) \n",
+        "ref": "iptime_ftpd iptime a8004ns-m-45848d"
+    },
+    "482": {
+        "ori": "220 synologydisk ftp server ready.\n",
+        "ref": "synologydisk"
+    },
+    "483": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas1dual-5f026c) [192.168.0.33]  \n",
+        "ref": "1.3.4d"
+    },
+    "484": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas1dual-5f026c) [192.168.0.33]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "485": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas1dual-5f026c) [192.168.0.33]  \n",
+        "ref": "nas1dual-5f026c"
+    },
+    "486": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas1dual-5f026c) [192.168.0.33]  \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "487": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas1dual-5f026c) [192.168.0.33]  \n",
+        "ref": "1.3.4d nas1dual-5f026c"
+    },
+    "488": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas1dual-5f026c) [192.168.0.33]  \n",
+        "ref": "iptime_ftpd nas1dual-5f026c"
+    },
+    "489": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas1dual-5f026c) [192.168.0.33]  \n",
+        "ref": "iptime_ftpd 1.3.4d nas1dual-5f026c"
+    },
+    "490": {
+        "ori": "220 welcome to asus rt-ac88u ftp service.\n",
+        "ref": "asus"
+    },
+    "491": {
+        "ori": "220 welcome to asus rt-ac88u ftp service.\n",
+        "ref": "rt-ac88u"
+    },
+    "492": {
+        "ori": "220 welcome to asus rt-ac88u ftp service.\n",
+        "ref": "asus rt-ac88u"
+    },
+    "493": {
+        "ori": "permission denied.(please check access control list)\n",
+        "ref": "denied.(please"
+    },
+    "494": {
+        "ori": "220 bank of benoit ftp server (mikrotik 6.43.8) ready\n",
+        "ref": "benoit"
+    },
+    "495": {
+        "ori": "220 bank of benoit ftp server (mikrotik 6.43.8) ready\n",
+        "ref": "mikrotik"
+    },
+    "496": {
+        "ori": "220 bank of benoit ftp server (mikrotik 6.43.8) ready\n",
+        "ref": "benoit mikrotik"
+    },
+    "497": {
+        "ori": "220 jcz-nas ftp server ready.\n",
+        "ref": "jcz-nas"
+    },
+    "498": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime"
+    },
+    "499": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "1.3.4d"
+    },
+    "500": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime_ftpd"
+    },
+    "501": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "n904ns-0e7f11"
+    },
+    "502": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "1.3.4d iptime"
+    },
+    "503": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "504": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "505": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime n904ns-0e7f11"
+    },
+    "506": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "1.3.4d n904ns-0e7f11"
+    },
+    "507": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime_ftpd n904ns-0e7f11"
+    },
+    "508": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "509": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "1.3.4d iptime n904ns-0e7f11"
+    },
+    "510": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime_ftpd 1.3.4d n904ns-0e7f11"
+    },
+    "511": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime_ftpd iptime n904ns-0e7f11"
+    },
+    "512": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime n904ns-0e7f11) [192.168.0.1]\n",
+        "ref": "iptime_ftpd 1.3.4d iptime n904ns-0e7f11"
+    },
+    "513": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "mikrotik"
+    },
+    "514": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.39.2) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "515": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.5) ready\n",
+        "ref": "mikrotik"
+    },
+    "516": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.5) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "517": {
+        "ori": "220 iptime_ftpd (nas-c809b8) [192.168.219.150]  \n",
+        "ref": "nas-c809b8"
+    },
+    "518": {
+        "ori": "220 iptime_ftpd (nas-c809b8) [192.168.219.150]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "519": {
+        "ori": "220 iptime_ftpd (nas-c809b8) [192.168.219.150]  \n",
+        "ref": "iptime_ftpd nas-c809b8"
+    },
+    "520": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "mikrotik"
+    },
+    "521": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "522": {
+        "ori": "220 192.168.11.2 ftp server (tnftpd 20080929) ready.\n",
+        "ref": "tnftpd"
+    },
+    "523": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.45.1) ready\n",
+        "ref": "mikrotik"
+    },
+    "524": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.45.1) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "525": {
+        "ori": "220 axis 210 network camera 4.40.2 ready.\n",
+        "ref": "axis"
+    },
+    "526": {
+        "ori": "220 axis 210 network camera 4.40.2 ready.\n",
+        "ref": "camera"
+    },
+    "527": {
+        "ori": "220 axis 210 network camera 4.40.2 ready.\n",
+        "ref": "axis camera"
+    },
+    "528": {
+        "ori": "220 welcome to asus rt-ac3100 ftp service.\n",
+        "ref": "asus"
+    },
+    "529": {
+        "ori": "220 welcome to asus rt-ac3100 ftp service.\n",
+        "ref": "rt-ac3100"
+    },
+    "530": {
+        "ori": "220 welcome to asus rt-ac3100 ftp service.\n",
+        "ref": "asus rt-ac3100"
+    },
+    "531": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime"
+    },
+    "532": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "1.3.4d"
+    },
+    "533": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "534": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime"
+    },
+    "535": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "a1004ns-9dc515"
+    },
+    "536": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "537": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "538": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "1.3.4d a1004ns-9dc515"
+    },
+    "539": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime a1004ns-9dc515"
+    },
+    "540": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "541": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd a1004ns-9dc515"
+    },
+    "542": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime a1004ns-9dc515"
+    },
+    "543": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime a1004ns-9dc515"
+    },
+    "544": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d a1004ns-9dc515"
+    },
+    "545": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-9dc515) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime a1004ns-9dc515"
+    },
+    "546": {
+        "ori": "220 provider solucoes ftp server (mikrotik 6.35.4) ready\n",
+        "ref": "solucoes"
+    },
+    "547": {
+        "ori": "220 provider solucoes ftp server (mikrotik 6.35.4) ready\n",
+        "ref": "mikrotik"
+    },
+    "548": {
+        "ori": "220 provider solucoes ftp server (mikrotik 6.35.4) ready\n",
+        "ref": "solucoes mikrotik"
+    },
+    "549": {
+        "ori": "220 lohmannas ftp server ready.\n",
+        "ref": "lohmannas"
+    },
+    "550": {
+        "ori": "220 cid-14126 ftp server (mikrotik 6.43.8) ready\n",
+        "ref": "mikrotik"
+    },
+    "551": {
+        "ori": "220 cid-14126 ftp server (mikrotik 6.43.8) ready\n",
+        "ref": "cid-14126"
+    },
+    "552": {
+        "ori": "220 cid-14126 ftp server (mikrotik 6.43.8) ready\n",
+        "ref": "cid-14126 mikrotik"
+    },
+    "553": {
+        "ori": "550 permission denied ,please check access control list\npermission denied.(please check access control list)\n",
+        "ref": ",please"
+    },
+    "554": {
+        "ori": "550 permission denied ,please check access control list\npermission denied.(please check access control list)\n",
+        "ref": "denied.(please"
+    },
+    "555": {
+        "ori": "550 permission denied ,please check access control list\npermission denied.(please check access control list)\n",
+        "ref": ",please denied.(please"
+    },
+    "556": {
+        "ori": "220 disdroblan ftp server (mikrotik 5.24) ready\n",
+        "ref": "mikrotik"
+    },
+    "557": {
+        "ori": "220 disdroblan ftp server (mikrotik 5.24) ready\n",
+        "ref": "disdroblan"
+    },
+    "558": {
+        "ori": "220 disdroblan ftp server (mikrotik 5.24) ready\n",
+        "ref": "disdroblan mikrotik"
+    },
+    "559": {
+        "ori": "220 synology ftp server ready.\n",
+        "ref": "synology"
+    },
+    "560": {
+        "ori": "220 z-3g_matriz ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "mikrotik"
+    },
+    "561": {
+        "ori": "220 z-3g_matriz ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "z-3g_matriz"
+    },
+    "562": {
+        "ori": "220 z-3g_matriz ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "z-3g_matriz mikrotik"
+    },
+    "563": {
+        "ori": "220 cgnat01 ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "cgnat01"
+    },
+    "564": {
+        "ori": "220 cgnat01 ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "mikrotik"
+    },
+    "565": {
+        "ori": "220 cgnat01 ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "cgnat01 mikrotik"
+    },
+    "566": {
+        "ori": "220 romerodoggds ftp server ready.\n",
+        "ref": "romerodoggds"
+    },
+    "567": {
+        "ori": "220 iptime_ftpd (tvbox-1b0225) [192.168.1.134]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "568": {
+        "ori": "220 iptime_ftpd (tvbox-1b0225) [192.168.1.134]  \n",
+        "ref": "tvbox-1b0225"
+    },
+    "569": {
+        "ori": "220 iptime_ftpd (tvbox-1b0225) [192.168.1.134]  \n",
+        "ref": "iptime_ftpd tvbox-1b0225"
+    },
+    "570": {
+        "ori": "220 allworx ftp server ready\n",
+        "ref": "allworx"
+    },
+    "571": {
+        "ori": "220 welcome to asus dsl-ac56u ftp service.\n",
+        "ref": "asus"
+    },
+    "572": {
+        "ori": "220 welcome to asus dsl-ac56u ftp service.\n",
+        "ref": "dsl-ac56u"
+    },
+    "573": {
+        "ori": "220 welcome to asus dsl-ac56u ftp service.\n",
+        "ref": "asus dsl-ac56u"
+    },
+    "574": {
+        "ori": "220 iptime_ftpd (231-c93d8f) [192.168.0.250]  \n",
+        "ref": "231-c93d8f"
+    },
+    "575": {
+        "ori": "220 iptime_ftpd (231-c93d8f) [192.168.0.250]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "576": {
+        "ori": "220 iptime_ftpd (231-c93d8f) [192.168.0.250]  \n",
+        "ref": "iptime_ftpd 231-c93d8f"
+    },
+    "577": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.34.2) ready\n",
+        "ref": "mikrotik"
+    },
+    "578": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.34.2) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "579": {
+        "ori": "220 iptime_ftpd (myungjin-ab0eba) [192.168.0.2]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "580": {
+        "ori": "220 iptime_ftpd (myungjin-ab0eba) [192.168.0.2]  \n",
+        "ref": "myungjin-ab0eba"
+    },
+    "581": {
+        "ori": "220 iptime_ftpd (myungjin-ab0eba) [192.168.0.2]  \n",
+        "ref": "iptime_ftpd myungjin-ab0eba"
+    },
+    "582": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "ptz"
+    },
+    "583": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis"
+    },
+    "584": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "p5534"
+    },
+    "585": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "camera"
+    },
+    "586": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis ptz"
+    },
+    "587": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "p5534 ptz"
+    },
+    "588": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis p5534"
+    },
+    "589": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "ptz camera"
+    },
+    "590": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis camera"
+    },
+    "591": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "p5534 camera"
+    },
+    "592": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis p5534 ptz"
+    },
+    "593": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis ptz camera"
+    },
+    "594": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "p5534 ptz camera"
+    },
+    "595": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis p5534 camera"
+    },
+    "596": {
+        "ori": "220 axis p5534 ptz dome network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis p5534 ptz camera"
+    },
+    "597": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime"
+    },
+    "598": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "1.3.4d"
+    },
+    "599": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime_ftpd"
+    },
+    "600": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "1.3.4d iptime"
+    },
+    "601": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "a6004ns-a85431"
+    },
+    "602": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "603": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "604": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime a6004ns-a85431"
+    },
+    "605": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "1.3.4d a6004ns-a85431"
+    },
+    "606": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "607": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime_ftpd a6004ns-a85431"
+    },
+    "608": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "1.3.4d iptime a6004ns-a85431"
+    },
+    "609": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime_ftpd iptime a6004ns-a85431"
+    },
+    "610": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime_ftpd 1.3.4d a6004ns-a85431"
+    },
+    "611": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-a85431) \n",
+        "ref": "iptime_ftpd 1.3.4d iptime a6004ns-a85431"
+    },
+    "612": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "1.3.4d"
+    },
+    "613": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime"
+    },
+    "614": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime_ftpd"
+    },
+    "615": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "1.3.4d iptime"
+    },
+    "616": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "a5004ns-658e59"
+    },
+    "617": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "618": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "619": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "1.3.4d a5004ns-658e59"
+    },
+    "620": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime a5004ns-658e59"
+    },
+    "621": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "622": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime_ftpd a5004ns-658e59"
+    },
+    "623": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "1.3.4d iptime a5004ns-658e59"
+    },
+    "624": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime_ftpd 1.3.4d a5004ns-658e59"
+    },
+    "625": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime_ftpd iptime a5004ns-658e59"
+    },
+    "626": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a5004ns-658e59) \n",
+        "ref": "iptime_ftpd 1.3.4d iptime a5004ns-658e59"
+    },
+    "627": {
+        "ori": "220 ciberproteccion_direicaj_-_lima_-_internet ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "mikrotik"
+    },
+    "628": {
+        "ori": "220 ciberproteccion_direicaj_-_lima_-_internet ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "ciberproteccion_direicaj_-_lima_-_internet"
+    },
+    "629": {
+        "ori": "220 ciberproteccion_direicaj_-_lima_-_internet ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "ciberproteccion_direicaj_-_lima_-_internet mikrotik"
+    },
+    "630": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-m-698dfd) [192.168.0.1]  \n",
+        "ref": "iptime"
+    },
+    "631": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-m-698dfd) [192.168.0.1]  \n",
+        "ref": "1.3.4d"
+    },
+    "632": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-m-698dfd) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "633": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a6004ns-m-698dfd) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime"
+    },
+    "634": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime"
+    },
+    "635": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "1.3.4d"
+    },
+    "636": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "637": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime"
+    },
+    "638": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "a3004ns-m-ae1f61"
+    },
+    "639": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "640": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "641": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime a3004ns-m-ae1f61"
+    },
+    "642": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "1.3.4d a3004ns-m-ae1f61"
+    },
+    "643": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "644": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd a3004ns-m-ae1f61"
+    },
+    "645": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime a3004ns-m-ae1f61"
+    },
+    "646": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime a3004ns-m-ae1f61"
+    },
+    "647": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d a3004ns-m-ae1f61"
+    },
+    "648": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-ae1f61) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime a3004ns-m-ae1f61"
+    },
+    "649": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas3-1b0e96) [192.168.0.17]  \n",
+        "ref": "1.3.4d"
+    },
+    "650": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas3-1b0e96) [192.168.0.17]  \n",
+        "ref": "nasb0e96"
+    },
+    "651": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas3-1b0e96) [192.168.0.17]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "652": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas3-1b0e96) [192.168.0.17]  \n",
+        "ref": "1.3.4d nasb0e96"
+    },
+    "653": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas3-1b0e96) [192.168.0.17]  \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "654": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas3-1b0e96) [192.168.0.17]  \n",
+        "ref": "iptime_ftpd nasb0e96"
+    },
+    "655": {
+        "ori": "220 iptime_ftpd 1.3.4d server (nas3-1b0e96) [192.168.0.17]  \n",
+        "ref": "iptime_ftpd 1.3.4d nasb0e96"
+    },
+    "656": {
+        "ori": "220 welcome to asus rt-ac87u ftp service.\n",
+        "ref": "asus"
+    },
+    "657": {
+        "ori": "220 welcome to asus rt-ac87u ftp service.\n",
+        "ref": "rt-ac87u"
+    },
+    "658": {
+        "ori": "220 welcome to asus rt-ac87u ftp service.\n",
+        "ref": "asus rt-ac87u"
+    },
+    "659": {
+        "ori": "220 suwonkim ftp server ready.\n",
+        "ref": "suwonkim"
+    },
+    "660": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "1.3.4d"
+    },
+    "661": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime"
+    },
+    "662": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "663": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime"
+    },
+    "664": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "a1004ns-a072e1"
+    },
+    "665": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "666": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "667": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "1.3.4d a1004ns-a072e1"
+    },
+    "668": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime a1004ns-a072e1"
+    },
+    "669": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "670": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd a1004ns-a072e1"
+    },
+    "671": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime a1004ns-a072e1"
+    },
+    "672": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d a1004ns-a072e1"
+    },
+    "673": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime a1004ns-a072e1"
+    },
+    "674": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a1004ns-a072e1) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime a1004ns-a072e1"
+    },
+    "675": {
+        "ori": "220 welcome to asus rt-ac68p ftp service.\n",
+        "ref": "asus"
+    },
+    "676": {
+        "ori": "220 welcome to asus rt-ac68p ftp service.\n",
+        "ref": "rt-ac68p"
+    },
+    "677": {
+        "ori": "220 welcome to asus rt-ac68p ftp service.\n",
+        "ref": "asus rt-ac68p"
+    },
+    "678": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44.2) ready\n",
+        "ref": "mikrotik"
+    },
+    "679": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44.2) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "680": {
+        "ori": "220 aerover_paf ftp server ready.\n",
+        "ref": "aerover_paf"
+    },
+    "681": {
+        "ori": "220 jszhongyi ftp server ready.\n",
+        "ref": "jszhongyi"
+    },
+    "682": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime"
+    },
+    "683": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "1.3.4d"
+    },
+    "684": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "685": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime"
+    },
+    "686": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "a2004ns-mu-04e705"
+    },
+    "687": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "688": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "689": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "1.3.4d a2004ns-mu-04e705"
+    },
+    "690": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime a2004ns-mu-04e705"
+    },
+    "691": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "692": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd a2004ns-mu-04e705"
+    },
+    "693": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime a2004ns-mu-04e705"
+    },
+    "694": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d a2004ns-mu-04e705"
+    },
+    "695": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime a2004ns-mu-04e705"
+    },
+    "696": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a2004ns-mu-04e705) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime a2004ns-mu-04e705"
+    },
+    "697": {
+        "ori": "220 kzc ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "kzc"
+    },
+    "698": {
+        "ori": "220 kzc ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "mikrotik"
+    },
+    "699": {
+        "ori": "220 kzc ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "kzc mikrotik"
+    },
+    "700": {
+        "ori": "220 iptime_ftpd (server-294b84) [192.168.0.16]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "701": {
+        "ori": "220 iptime_ftpd (server-294b84) [192.168.0.16]  \n",
+        "ref": "server-294b84"
+    },
+    "702": {
+        "ori": "220 iptime_ftpd (server-294b84) [192.168.0.16]  \n",
+        "ref": "iptime_ftpd server-294b84"
+    },
+    "703": {
+        "ori": "220 medanos-master ftp server (mikrotik 6.43) ready\n",
+        "ref": "mikrotik"
+    },
+    "704": {
+        "ori": "220 medanos-master ftp server (mikrotik 6.43) ready\n",
+        "ref": "medanos-master"
+    },
+    "705": {
+        "ori": "220 medanos-master ftp server (mikrotik 6.43) ready\n",
+        "ref": "medanos-master mikrotik"
+    },
+    "706": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime"
+    },
+    "707": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "1.3.4d"
+    },
+    "708": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "709": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime"
+    },
+    "710": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "a3004ns-m-1a5975"
+    },
+    "711": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d"
+    },
+    "712": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime"
+    },
+    "713": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "1.3.4d a3004ns-m-1a5975"
+    },
+    "714": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime a3004ns-m-1a5975"
+    },
+    "715": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime"
+    },
+    "716": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd a3004ns-m-1a5975"
+    },
+    "717": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "1.3.4d iptime a3004ns-m-1a5975"
+    },
+    "718": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd iptime a3004ns-m-1a5975"
+    },
+    "719": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d a3004ns-m-1a5975"
+    },
+    "720": {
+        "ori": "220 iptime_ftpd 1.3.4d server (iptime a3004ns-m-1a5975) [192.168.0.1]  \n",
+        "ref": "iptime_ftpd 1.3.4d iptime a3004ns-m-1a5975"
+    },
+    "721": {
+        "ori": "220 iptime_ftpd (jjsdisk-943c23) [192.168.0.7]  \n",
+        "ref": "iptime_ftpd"
+    },
+    "722": {
+        "ori": "220 iptime_ftpd (jjsdisk-943c23) [192.168.0.7]  \n",
+        "ref": "jjsdisk-943c23"
+    },
+    "723": {
+        "ori": "220 iptime_ftpd (jjsdisk-943c23) [192.168.0.7]  \n",
+        "ref": "iptime_ftpd jjsdisk-943c23"
+    },
+    "724": {
+        "ori": "220 welcome to asus rt-ac5300 ftp service.\n",
+        "ref": "asus"
+    },
+    "725": {
+        "ori": "220 welcome to asus rt-ac5300 ftp service.\n",
+        "ref": "rt-ac5300"
+    },
+    "726": {
+        "ori": "220 welcome to asus rt-ac5300 ftp service.\n",
+        "ref": "asus rt-ac5300"
+    },
+    "727": {
+        "ori": "220 welcome to wd my cloud\n",
+        "ref": "wd"
+    },
+    "728": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.36) ready\n",
+        "ref": "mikrotik"
+    },
+    "729": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.36) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "730": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.34.4) ready\n",
+        "ref": "mikrotik"
+    },
+    "731": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.34.4) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "732": {
+        "ori": "220 ftp server (mikrotik 6.35.4) ready\n",
+        "ref": "mikrotik"
+    },
+    "733": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.2) ready\n",
+        "ref": "mikrotik"
+    },
+    "734": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.2) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "735": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.3) ready\n",
+        "ref": "mikrotik"
+    },
+    "736": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.3) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "737": {
+        "ori": "220 shahriar-router ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "mikrotik"
+    },
+    "738": {
+        "ori": "220 shahriar-router ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "shahriar-router"
+    },
+    "739": {
+        "ori": "220 shahriar-router ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "shahriar-router mikrotik"
+    },
+    "740": {
+        "ori": "220 nagiec ftp server (mikrotik 6.22) ready\n",
+        "ref": "nagiec"
+    },
+    "741": {
+        "ori": "220 nagiec ftp server (mikrotik 6.22) ready\n",
+        "ref": "mikrotik"
+    },
+    "742": {
+        "ori": "220 nagiec ftp server (mikrotik 6.22) ready\n",
+        "ref": "nagiec mikrotik"
+    },
+    "743": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "2.x"
+    },
+    "744": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "nasftpd"
+    },
+    "745": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "proftpd"
+    },
+    "746": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "1.3.1rc2"
+    },
+    "747": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "nasftpd 2.x"
+    },
+    "748": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "2.x proftpd"
+    },
+    "749": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "2.x 1.3.1rc2"
+    },
+    "750": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "nasftpd proftpd"
+    },
+    "751": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "1.3.1rc2 proftpd"
+    },
+    "752": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "nasftpd 1.3.1rc2"
+    },
+    "753": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "nasftpd 2.x proftpd"
+    },
+    "754": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "2.x 1.3.1rc2 proftpd"
+    },
+    "755": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "nasftpd 2.x 1.3.1rc2"
+    },
+    "756": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "nasftpd 1.3.1rc2 proftpd"
+    },
+    "757": {
+        "ori": "220 nasftpd turbo station 2.x 1.3.1rc2 server (proftpd) [192.168.0.1]\n",
+        "ref": "nasftpd 2.x 1.3.1rc2 proftpd"
+    },
+    "758": {
+        "ori": "220 gene6 ftp server v3.10.0 (build 2) ready...\n",
+        "ref": "gene6"
+    },
+    "759": {
+        "ori": "220 gene6 ftp server v3.10.0 (build 2) ready...\n",
+        "ref": "v3.10.0"
+    },
+    "760": {
+        "ori": "220 gene6 ftp server v3.10.0 (build 2) ready...\n",
+        "ref": "gene6 v3.10.0"
+    },
+    "761": {
+        "ori": "220 mikrotik ftp server (mikrotik 5.18) ready\n",
+        "ref": "mikrotik"
+    },
+    "762": {
+        "ori": "220 mikrotik ftp server (mikrotik 5.18) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "763": {
+        "ori": "220 storage_celebes ftp server ready.\n",
+        "ref": "storage_celebes"
+    },
+    "764": {
+        "ori": "220 jacxdiskstation ftp server ready.\n",
+        "ref": "jacxdiskstation"
+    },
+    "765": {
+        "ori": "220 ftp server (usg110) [::ffff:80.19.179.54]\n",
+        "ref": "usg110"
+    },
+    "766": {
+        "ori": "220 ftp server (usg110) [::ffff:80.19.179.54]\n",
+        "ref": "::ffff:80.19.179.54"
+    },
+    "767": {
+        "ori": "220 ftp server (usg110) [::ffff:80.19.179.54]\n",
+        "ref": "usg110 ::ffff:80.19.179.54"
+    },
+    "768": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "1.3.5b"
+    },
+    "769": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "netgear"
+    },
+    "770": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd"
+    },
+    "771": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "readynas"
+    },
+    "772": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd 1.3.5b"
+    },
+    "773": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "1.3.5b netgear"
+    },
+    "774": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd netgear"
+    },
+    "775": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "1.3.5b readynas"
+    },
+    "776": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd readynas"
+    },
+    "777": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "netgear readynas"
+    },
+    "778": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "::ffff:192.168.50.2"
+    },
+    "779": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd 1.3.5b netgear"
+    },
+    "780": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd 1.3.5b readynas"
+    },
+    "781": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "1.3.5b netgear readynas"
+    },
+    "782": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd netgear readynas"
+    },
+    "783": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "1.3.5b ::ffff:192.168.50.2"
+    },
+    "784": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd ::ffff:192.168.50.2"
+    },
+    "785": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "netgear ::ffff:192.168.50.2"
+    },
+    "786": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "readynas ::ffff:192.168.50.2"
+    },
+    "787": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd 1.3.5b netgear readynas"
+    },
+    "788": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "1.3.5b netgear ::ffff:192.168.50.2"
+    },
+    "789": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd 1.3.5b ::ffff:192.168.50.2"
+    },
+    "790": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd netgear ::ffff:192.168.50.2"
+    },
+    "791": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "1.3.5b readynas ::ffff:192.168.50.2"
+    },
+    "792": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "netgear readynas ::ffff:192.168.50.2"
+    },
+    "793": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd readynas ::ffff:192.168.50.2"
+    },
+    "794": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd 1.3.5b netgear ::ffff:192.168.50.2"
+    },
+    "795": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd 1.3.5b readynas ::ffff:192.168.50.2"
+    },
+    "796": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "1.3.5b netgear readynas ::ffff:192.168.50.2"
+    },
+    "797": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd netgear readynas ::ffff:192.168.50.2"
+    },
+    "798": {
+        "ori": "220 proftpd 1.3.5b server (netgear readynas) [::ffff:192.168.50.2]\n",
+        "ref": "proftpd 1.3.5b netgear readynas ::ffff:192.168.50.2"
+    },
+    "799": {
+        "ori": "220 mikrotik ftp server (mikrotik 5.25) ready\n",
+        "ref": "mikrotik"
+    },
+    "800": {
+        "ori": "220 mikrotik ftp server (mikrotik 5.25) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "801": {
+        "ori": "220 dreamland_dst ftp server ready.\n",
+        "ref": "dreamland_dst"
+    },
+    "802": {
+        "ori": "220 acis-freebits ftp server (mikrotik 6.43.16) ready\n",
+        "ref": "mikrotik"
+    },
+    "803": {
+        "ori": "220 acis-freebits ftp server (mikrotik 6.43.16) ready\n",
+        "ref": "acis-freebits"
+    },
+    "804": {
+        "ori": "220 acis-freebits ftp server (mikrotik 6.43.16) ready\n",
+        "ref": "acis-freebits mikrotik"
+    },
+    "805": {
+        "ori": "220 draytek ftp version 1.0\n",
+        "ref": "draytek"
+    },
+    "806": {
+        "ori": "220 mediastation ftp server ready.\n",
+        "ref": "mediastation"
+    },
+    "807": {
+        "ori": "220 (vsftpd 3.0.3)\n",
+        "ref": "vsftpd"
+    },
+    "808": {
+        "ori": "220 welcome to asus rt-ac66u ftp service.\n",
+        "ref": "asus"
+    },
+    "809": {
+        "ori": "220 welcome to asus rt-ac66u ftp service.\n",
+        "ref": "rt-ac66u"
+    },
+    "810": {
+        "ori": "220 welcome to asus rt-ac66u ftp service.\n",
+        "ref": "asus rt-ac66u"
+    },
+    "811": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "ptz"
+    },
+    "812": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis"
+    },
+    "813": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "m5013"
+    },
+    "814": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "camera"
+    },
+    "815": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis ptz"
+    },
+    "816": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "m5013 ptz"
+    },
+    "817": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "ptz camera"
+    },
+    "818": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis m5013"
+    },
+    "819": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis camera"
+    },
+    "820": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "m5013 camera"
+    },
+    "821": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis m5013 ptz"
+    },
+    "822": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis ptz camera"
+    },
+    "823": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "m5013 ptz camera"
+    },
+    "824": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis m5013 camera"
+    },
+    "825": {
+        "ori": "220 axis m5013 ptz dome network camera 5.51.5.1 (2018) ready.\n",
+        "ref": "axis m5013 ptz camera"
+    },
+    "826": {
+        "ori": "220 indah desi p ftp server (mikrotik 6.44) ready\n",
+        "ref": "desi"
+    },
+    "827": {
+        "ori": "220 indah desi p ftp server (mikrotik 6.44) ready\n",
+        "ref": "indah"
+    },
+    "828": {
+        "ori": "220 indah desi p ftp server (mikrotik 6.44) ready\n",
+        "ref": "mikrotik"
+    },
+    "829": {
+        "ori": "220 indah desi p ftp server (mikrotik 6.44) ready\n",
+        "ref": "indah desi"
+    },
+    "830": {
+        "ori": "220 indah desi p ftp server (mikrotik 6.44) ready\n",
+        "ref": "desi mikrotik"
+    },
+    "831": {
+        "ori": "220 indah desi p ftp server (mikrotik 6.44) ready\n",
+        "ref": "indah mikrotik"
+    },
+    "832": {
+        "ori": "220 indah desi p ftp server (mikrotik 6.44) ready\n",
+        "ref": "indah desi mikrotik"
+    },
+    "833": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "mikrotik"
+    },
+    "834": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "835": {
+        "ori": "220 mojszogun ftp server ready.\n",
+        "ref": "mojszogun"
+    },
+    "836": {
+        "ori": "220 welcome to asus rt-ac1200g+ ftp service.\n",
+        "ref": "asus"
+    },
+    "837": {
+        "ori": "220 welcome to asus rt-ac1200g+ ftp service.\n",
+        "ref": "rt-ac1200g+"
+    },
+    "838": {
+        "ori": "220 welcome to asus rt-ac1200g+ ftp service.\n",
+        "ref": "asus rt-ac1200g+"
+    },
+    "839": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "1.3.3g"
+    },
+    "840": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "proftpd"
+    },
+    "841": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "netgear"
+    },
+    "842": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "readynas"
+    },
+    "843": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "1.3.3g netgear"
+    },
+    "844": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "proftpd 1.3.3g"
+    },
+    "845": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "proftpd netgear"
+    },
+    "846": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "1.3.3g readynas"
+    },
+    "847": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "netgear readynas"
+    },
+    "848": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "proftpd readynas"
+    },
+    "849": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "proftpd 1.3.3g netgear"
+    },
+    "850": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "proftpd 1.3.3g readynas"
+    },
+    "851": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "1.3.3g netgear readynas"
+    },
+    "852": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "proftpd netgear readynas"
+    },
+    "853": {
+        "ori": "220 proftpd 1.3.3g server (netgear readynas) [192.168.0.13]\n",
+        "ref": "proftpd 1.3.3g netgear readynas"
+    },
+    "854": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd)\n",
+        "ref": "1.3.5a"
+    },
+    "855": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd)\n",
+        "ref": "proftpd"
+    },
+    "856": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd)\n",
+        "ref": "nasftpd"
+    },
+    "857": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd)\n",
+        "ref": "nasftpd 1.3.5a"
+    },
+    "858": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd)\n",
+        "ref": "1.3.5a proftpd"
+    },
+    "859": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd)\n",
+        "ref": "nasftpd proftpd"
+    },
+    "860": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd)\n",
+        "ref": "nasftpd 1.3.5a proftpd"
+    },
+    "861": {
+        "ori": "220 stinology ftp server ready.\n",
+        "ref": "stinology"
+    },
+    "862": {
+        "ori": "220 chris-ds ftp server ready.\n",
+        "ref": "chris-ds"
+    },
+    "863": {
+        "ori": "220 hrdlovicova_sara ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "mikrotik"
+    },
+    "864": {
+        "ori": "220 hrdlovicova_sara ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "hrdlovicova_sara"
+    },
+    "865": {
+        "ori": "220 hrdlovicova_sara ftp server (mikrotik 6.42.7) ready\n",
+        "ref": "hrdlovicova_sara mikrotik"
+    },
+    "866": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.30.4) ready\n",
+        "ref": "mikrotik"
+    },
+    "867": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.30.4) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "868": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "921v"
+    },
+    "869": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "v1.45.000"
+    },
+    "870": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "speedport"
+    },
+    "871": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "921v v1.45.000"
+    },
+    "872": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "speedport 921v"
+    },
+    "873": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "speedport v1.45.000"
+    },
+    "874": {
+        "ori": "220 speedport w 921v ftp server v1.45.000 ready\n",
+        "ref": "speedport 921v v1.45.000"
+    },
+    "875": {
+        "ori": "220 fritz!box7581 ftp server ready.\n",
+        "ref": "fritz!box7581"
+    },
+    "876": {
+        "ori": "220 axis p1343 network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis"
+    },
+    "877": {
+        "ori": "220 axis p1343 network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "p1343"
+    },
+    "878": {
+        "ori": "220 axis p1343 network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "camera"
+    },
+    "879": {
+        "ori": "220 axis p1343 network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis p1343"
+    },
+    "880": {
+        "ori": "220 axis p1343 network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis camera"
+    },
+    "881": {
+        "ori": "220 axis p1343 network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "p1343 camera"
+    },
+    "882": {
+        "ori": "220 axis p1343 network camera 5.40.9.2 (2012) ready.\n",
+        "ref": "axis p1343 camera"
+    },
+    "883": {
+        "ori": "220 rb4000-nemecek ftp server (mikrotik 6.43.13) ready\n",
+        "ref": "mikrotik"
+    },
+    "884": {
+        "ori": "220 rb4000-nemecek ftp server (mikrotik 6.43.13) ready\n",
+        "ref": "rb4000-nemecek"
+    },
+    "885": {
+        "ori": "220 rb4000-nemecek ftp server (mikrotik 6.43.13) ready\n",
+        "ref": "rb4000-nemecek mikrotik"
+    },
+    "886": {
+        "ori": "220 axis m3006 network camera 6.50.3.1 (2019) ready.\n",
+        "ref": "axis"
+    },
+    "887": {
+        "ori": "220 axis m3006 network camera 6.50.3.1 (2019) ready.\n",
+        "ref": "m3006"
+    },
+    "888": {
+        "ori": "220 axis m3006 network camera 6.50.3.1 (2019) ready.\n",
+        "ref": "camera"
+    },
+    "889": {
+        "ori": "220 axis m3006 network camera 6.50.3.1 (2019) ready.\n",
+        "ref": "axis m3006"
+    },
+    "890": {
+        "ori": "220 axis m3006 network camera 6.50.3.1 (2019) ready.\n",
+        "ref": "axis camera"
+    },
+    "891": {
+        "ori": "220 axis m3006 network camera 6.50.3.1 (2019) ready.\n",
+        "ref": "m3006 camera"
+    },
+    "892": {
+        "ori": "220 axis m3006 network camera 6.50.3.1 (2019) ready.\n",
+        "ref": "axis m3006 camera"
+    },
+    "893": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd) [192.168.1.234]\n",
+        "ref": "1.3.5a"
+    },
+    "894": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd) [192.168.1.234]\n",
+        "ref": "proftpd"
+    },
+    "895": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd) [192.168.1.234]\n",
+        "ref": "nasftpd"
+    },
+    "896": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd) [192.168.1.234]\n",
+        "ref": "1.3.5a proftpd"
+    },
+    "897": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd) [192.168.1.234]\n",
+        "ref": "nasftpd 1.3.5a"
+    },
+    "898": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd) [192.168.1.234]\n",
+        "ref": "nasftpd proftpd"
+    },
+    "899": {
+        "ori": "220 nasftpd turbo station 1.3.5a server (proftpd) [192.168.1.234]\n",
+        "ref": "nasftpd 1.3.5a proftpd"
+    },
+    "900": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": ";"
+    },
+    "901": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1!"
+    },
+    "902": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "est\u00e1"
+    },
+    "903": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "tudo"
+    },
+    "904": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! ;"
+    },
+    "905": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "tudo ;"
+    },
+    "906": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "est\u00e1 ;"
+    },
+    "907": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "navegares"
+    },
+    "908": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "est\u00e1 tudo"
+    },
+    "909": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! tudo"
+    },
+    "910": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! est\u00e1"
+    },
+    "911": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "navegares ;"
+    },
+    "912": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "est\u00e1 tudo ;"
+    },
+    "913": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! tudo ;"
+    },
+    "914": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! est\u00e1 ;"
+    },
+    "915": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "est\u00e1 navegares"
+    },
+    "916": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "tudo navegares"
+    },
+    "917": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! navegares"
+    },
+    "918": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! est\u00e1 tudo"
+    },
+    "919": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "tudo navegares ;"
+    },
+    "920": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "est\u00e1 navegares ;"
+    },
+    "921": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! est\u00e1 tudo ;"
+    },
+    "922": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! navegares ;"
+    },
+    "923": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! tudo navegares"
+    },
+    "924": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "est\u00e1 tudo navegares"
+    },
+    "925": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! est\u00e1 navegares"
+    },
+    "926": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "est\u00e1 tudo navegares ;"
+    },
+    "927": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! est\u00e1 navegares ;"
+    },
+    "928": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! tudo navegares ;"
+    },
+    "929": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! est\u00e1 tudo navegares"
+    },
+    "930": {
+        "ori": "220 ol\u00e1! est\u00e1 tudo pronto para navegares ;)\n",
+        "ref": "ol\u00e1! est\u00e1 tudo navegares ;"
+    },
+    "931": {
+        "ori": "220 ap8953 network management card aos v5.1.4 ftp server ready.\n",
+        "ref": "aos"
+    },
+    "932": {
+        "ori": "220 ap8953 network management card aos v5.1.4 ftp server ready.\n",
+        "ref": "ap8953"
+    },
+    "933": {
+        "ori": "220 ap8953 network management card aos v5.1.4 ftp server ready.\n",
+        "ref": "v5.1.4"
+    },
+    "934": {
+        "ori": "220 ap8953 network management card aos v5.1.4 ftp server ready.\n",
+        "ref": "ap8953 aos"
+    },
+    "935": {
+        "ori": "220 ap8953 network management card aos v5.1.4 ftp server ready.\n",
+        "ref": "aos v5.1.4"
+    },
+    "936": {
+        "ori": "220 ap8953 network management card aos v5.1.4 ftp server ready.\n",
+        "ref": "ap8953 v5.1.4"
+    },
+    "937": {
+        "ori": "220 ap8953 network management card aos v5.1.4 ftp server ready.\n",
+        "ref": "ap8953 aos v5.1.4"
+    },
+    "938": {
+        "ori": "220 kpsysnas ftp server ready.\n",
+        "ref": "kpsysnas"
+    },
+    "939": {
+        "ori": "220 nasftpd turbo station 1.3.4e server (proftpd) [192.101.0.100]\n",
+        "ref": "1.3.4e"
+    },
+    "940": {
+        "ori": "220 nasftpd turbo station 1.3.4e server (proftpd) [192.101.0.100]\n",
+        "ref": "nasftpd"
+    },
+    "941": {
+        "ori": "220 nasftpd turbo station 1.3.4e server (proftpd) [192.101.0.100]\n",
+        "ref": "proftpd"
+    },
+    "942": {
+        "ori": "220 nasftpd turbo station 1.3.4e server (proftpd) [192.101.0.100]\n",
+        "ref": "nasftpd 1.3.4e"
+    },
+    "943": {
+        "ori": "220 nasftpd turbo station 1.3.4e server (proftpd) [192.101.0.100]\n",
+        "ref": "1.3.4e proftpd"
+    },
+    "944": {
+        "ori": "220 nasftpd turbo station 1.3.4e server (proftpd) [192.101.0.100]\n",
+        "ref": "nasftpd proftpd"
+    },
+    "945": {
+        "ori": "220 nasftpd turbo station 1.3.4e server (proftpd) [192.101.0.100]\n",
+        "ref": "nasftpd 1.3.4e proftpd"
+    },
+    "946": {
+        "ori": "220 obertorstrasse.main ftp server (mikrotik 6.44) ready\n",
+        "ref": "mikrotik"
+    },
+    "947": {
+        "ori": "220 obertorstrasse.main ftp server (mikrotik 6.44) ready\n",
+        "ref": "obertorstrasse.main"
+    },
+    "948": {
+        "ori": "220 obertorstrasse.main ftp server (mikrotik 6.44) ready\n",
+        "ref": "obertorstrasse.main mikrotik"
+    },
+    "949": {
+        "ori": "220 rackstation ftp server ready.\n",
+        "ref": "rackstation"
+    },
+    "950": {
+        "ori": "220 diskstation ftp server ready.\n",
+        "ref": "diskstation"
+    },
+    "951": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.1) ready\n",
+        "ref": "mikrotik"
+    },
+    "952": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.1) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "953": {
+        "ori": "220 fritz!box6490cable(kdg) ftp server ready.\n",
+        "ref": "fritz!box6490cable(kdg"
+    },
+    "954": {
+        "ori": "220 diskstation01 ftp server ready.\n",
+        "ref": "diskstation01"
+    },
+    "955": {
+        "ori": "220 william_nas ftp server ready.\n",
+        "ref": "william_nas"
+    },
+    "956": {
+        "ori": "220 ftp server (usg40) [::ffff:83.173.237.102]\n",
+        "ref": "usg40"
+    },
+    "957": {
+        "ori": "220 ftp server (usg40) [::ffff:83.173.237.102]\n",
+        "ref": "::ffff:83.173.237.102"
+    },
+    "958": {
+        "ori": "220 ftp server (usg40) [::ffff:83.173.237.102]\n",
+        "ref": "usg40 ::ffff:83.173.237.102"
+    },
+    "959": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "-"
+    },
+    "960": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "schott"
+    },
+    "961": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "arbelon"
+    },
+    "962": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "mikrotik"
+    },
+    "963": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "- schott"
+    },
+    "964": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "- arbelon"
+    },
+    "965": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "- mikrotik"
+    },
+    "966": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "hotspotrouter"
+    },
+    "967": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "arbelon schott"
+    },
+    "968": {
+        "ori": "220 hotspotrouter - arbelon schott ftp server (mikrotik 5.24) ready\n",
+        "ref": "schott mikrotik"
+    },
+    "969": {
+        "ori": "220 0765cwiertniak ftp server (mikrotik 5.20) ready\n",
+        "ref": "mikrotik"
+    },
+    "970": {
+        "ori": "220 0765cwiertniak ftp server (mikrotik 5.20) ready\n",
+        "ref": "0765cwiertniak"
+    },
+    "971": {
+        "ori": "220 0765cwiertniak ftp server (mikrotik 5.20) ready\n",
+        "ref": "0765cwiertniak mikrotik"
+    },
+    "972": {
+        "ori": "220 fullrate ftp version 1.0 ready at sun aug 04 20:10:19 2019\n",
+        "ref": "fullrate"
+    },
+    "973": {
+        "ori": "220 fritz!box7490 ftp server ready.\n",
+        "ref": "fritz!box7490"
+    },
+    "974": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "sr"
+    },
+    "975": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "tue"
+    },
+    "976": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "pdt"
+    },
+    "977": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "sr tue"
+    },
+    "978": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "sr pdt"
+    },
+    "979": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "alcatel"
+    },
+    "980": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "tue pdt"
+    },
+    "981": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "cpm/hops"
+    },
+    "982": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "alcatel sr"
+    },
+    "983": {
+        "ori": "220-timos-c-9.0.r6 cpm/hops alcatel sr 7750 copyright (c) 2000-2011 alcatel-lucent.\n220-all rights reserved. all use subject to applicable license agreements.\n220-built on tue sep 27 12:38:04 pdt 2011 by builder in /rel9.0/b1/r6/panos/main\n220-\n220-warning\n220 ftp server ready\n",
+        "ref": "sr tue pdt"
+    },
+    "984": {
+        "ori": "220 opatowicka11 ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "mikrotik"
+    },
+    "985": {
+        "ori": "220 opatowicka11 ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "opatowicka11"
+    },
+    "986": {
+        "ori": "220 opatowicka11 ftp server (mikrotik 6.43.4) ready\n",
+        "ref": "opatowicka11 mikrotik"
+    },
+    "987": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.6) ready\n",
+        "ref": "mikrotik"
+    },
+    "988": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.6) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "989": {
+        "ori": "220 10.0.10.29 ftp server (tnftpd 20100324+gssapi) ready.\n",
+        "ref": "tnftpd"
+    },
+    "990": {
+        "ori": "220 10.0.10.29 ftp server (tnftpd 20100324+gssapi) ready.\n",
+        "ref": "20100324+gssapi"
+    },
+    "991": {
+        "ori": "220 10.0.10.29 ftp server (tnftpd 20100324+gssapi) ready.\n",
+        "ref": "tnftpd 20100324+gssapi"
+    },
+    "992": {
+        "ori": "220 nas ftp server ready.\n",
+        "ref": "nas"
+    },
+    "993": {
+        "ori": "220 ds212 ftp server ready.\n",
+        "ref": "ds212"
+    },
+    "994": {
+        "ori": "220 promobigdata ftp server ready.\n",
+        "ref": "promobigdata"
+    },
+    "995": {
+        "ori": "220 serveurvitc ftp server ready.\n",
+        "ref": "serveurvitc"
+    },
+    "996": {
+        "ori": "220 mikrotik ftp server (mikrotik 5.21) ready\n",
+        "ref": "mikrotik"
+    },
+    "997": {
+        "ori": "220 mikrotik ftp server (mikrotik 5.21) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "998": {
+        "ori": "220 tiffany-router ftp server (mikrotik 3.10) ready\n",
+        "ref": "mikrotik"
+    },
+    "999": {
+        "ori": "220 tiffany-router ftp server (mikrotik 3.10) ready\n",
+        "ref": "tiffany-router"
+    },
+    "1000": {
+        "ori": "220 tiffany-router ftp server (mikrotik 3.10) ready\n",
+        "ref": "tiffany-router mikrotik"
+    },
+    "1001": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44) ready\n",
+        "ref": "mikrotik"
+    },
+    "1002": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "1003": {
+        "ori": "220 mikrotiksalon ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "mikrotik"
+    },
+    "1004": {
+        "ori": "220 mikrotiksalon ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "mikrotiksalon"
+    },
+    "1005": {
+        "ori": "220 mikrotiksalon ftp server (mikrotik 6.43.7) ready\n",
+        "ref": "mikrotiksalon mikrotik"
+    },
+    "1006": {
+        "ori": "220 pc_pppoe ftp server (mikrotik 5.6) ready\n",
+        "ref": "pc_pppoe"
+    },
+    "1007": {
+        "ori": "220 pc_pppoe ftp server (mikrotik 5.6) ready\n",
+        "ref": "mikrotik"
+    },
+    "1008": {
+        "ori": "220 pc_pppoe ftp server (mikrotik 5.6) ready\n",
+        "ref": "pc_pppoe mikrotik"
+    },
+    "1009": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.45.3) ready\n",
+        "ref": "mikrotik"
+    },
+    "1010": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.45.3) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "1011": {
+        "ori": "220 fritz!box7490(ui) ftp server ready.\n",
+        "ref": "fritz!box7490(ui"
+    },
+    "1012": {
+        "ori": "220 fritz!boxfonwlan7390(ui) ftp server ready.\n",
+        "ref": "fritz!boxfonwlan7390(ui"
+    },
+    "1013": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "1.3.4a"
+    },
+    "1014": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "debian"
+    },
+    "1015": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "proftpd"
+    },
+    "1016": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "1.3.4a debian"
+    },
+    "1017": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "proftpd debian"
+    },
+    "1018": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "proftpd 1.3.4a"
+    },
+    "1019": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "::ffff:192.168.21.213"
+    },
+    "1020": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "proftpd 1.3.4a debian"
+    },
+    "1021": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "debian ::ffff:192.168.21.213"
+    },
+    "1022": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "1.3.4a ::ffff:192.168.21.213"
+    },
+    "1023": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "proftpd ::ffff:192.168.21.213"
+    },
+    "1024": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "1.3.4a debian ::ffff:192.168.21.213"
+    },
+    "1025": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "proftpd debian ::ffff:192.168.21.213"
+    },
+    "1026": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "proftpd 1.3.4a ::ffff:192.168.21.213"
+    },
+    "1027": {
+        "ori": "220 proftpd 1.3.4a server (debian) [::ffff:192.168.21.213]\n",
+        "ref": "proftpd 1.3.4a debian ::ffff:192.168.21.213"
+    },
+    "1028": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "-"
+    },
+    "1029": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "priv"
+    },
+    "1030": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "port:"
+    },
+    "1031": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "priv -"
+    },
+    "1032": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "port: -"
+    },
+    "1033": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "220-ipv6"
+    },
+    "1034": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "---------"
+    },
+    "1035": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "softathome"
+    },
+    "1036": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "- 220-ipv6"
+    },
+    "1037": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "priv port:"
+    },
+    "1038": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "--------- -"
+    },
+    "1039": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "priv port: -"
+    },
+    "1040": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "softathome -"
+    },
+    "1041": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "priv 220-ipv6"
+    },
+    "1042": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "220----------"
+    },
+    "1043": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "priv ---------"
+    },
+    "1044": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "port: 220-ipv6"
+    },
+    "1045": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "softathome priv"
+    },
+    "1046": {
+        "ori": "220---------- welcome to softathome ftp server  [privsep]  ---------\n220-you are user number 1 of 32 allowed.\n220-local time is now 19:17. server port: 21.\n220-this is a private system - no anonymous login\n220-ipv6 connections are also welcome on this server.\n220 you will be disconnected after 10 minutes of inactivity.\n",
+        "ref": "--------- port:"
+    },
+    "1047": {
+        "ori": "220 rms.gsb.turm.router1 ftp server (mikrotik 6.44.5) ready\n",
+        "ref": "mikrotik"
+    },
+    "1048": {
+        "ori": "220 rms.gsb.turm.router1 ftp server (mikrotik 6.44.5) ready\n",
+        "ref": "rms.gsb.turm.router1"
+    },
+    "1049": {
+        "ori": "220 rms.gsb.turm.router1 ftp server (mikrotik 6.44.5) ready\n",
+        "ref": "rms.gsb.turm.router1 mikrotik"
+    },
+    "1050": {
+        "ori": "220 welcome to asus rt-ac87u ftp service.\n",
+        "ref": "asus"
+    },
+    "1051": {
+        "ori": "220 welcome to asus rt-ac87u ftp service.\n",
+        "ref": "rt-ac87u"
+    },
+    "1052": {
+        "ori": "220 welcome to asus rt-ac87u ftp service.\n",
+        "ref": "asus rt-ac87u"
+    },
+    "1053": {
+        "ori": "220 welcome to asus rt-ac51u ftp service.\n",
+        "ref": "asus"
+    },
+    "1054": {
+        "ori": "220 welcome to asus rt-ac51u ftp service.\n",
+        "ref": "rt-ac51u"
+    },
+    "1055": {
+        "ori": "220 welcome to asus rt-ac51u ftp service.\n",
+        "ref": "asus rt-ac51u"
+    },
+    "1056": {
+        "ori": "220 mikrotik ftp server (mikrotik 5.15) ready\n",
+        "ref": "mikrotik"
+    },
+    "1057": {
+        "ori": "220 mikrotik ftp server (mikrotik 5.15) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "1058": {
+        "ori": "220 garaccionigraziano ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "mikrotik"
+    },
+    "1059": {
+        "ori": "220 garaccionigraziano ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "garaccionigraziano"
+    },
+    "1060": {
+        "ori": "220 garaccionigraziano ftp server (mikrotik 6.44.3) ready\n",
+        "ref": "garaccionigraziano mikrotik"
+    },
+    "1061": {
+        "ori": "220 welcome to ivigilant.cloudapp.net ftp service.\n",
+        "ref": "ivigilant.cloudapp.net"
+    },
+    "1062": {
+        "ori": "220 rackstationth ftp server ready.\n",
+        "ref": "rackstationth"
+    },
+    "1063": {
+        "ori": "220 welcome to linksys24996\n",
+        "ref": "linksys24996"
+    },
+    "1064": {
+        "ori": "220 aravista-clubhouse ftp server (mikrotik 6.44.5) ready\n",
+        "ref": "mikrotik"
+    },
+    "1065": {
+        "ori": "220 aravista-clubhouse ftp server (mikrotik 6.44.5) ready\n",
+        "ref": "aravista-clubhouse"
+    },
+    "1066": {
+        "ori": "220 aravista-clubhouse ftp server (mikrotik 6.44.5) ready\n",
+        "ref": "aravista-clubhouse mikrotik"
+    },
+    "1067": {
+        "ori": "220 diskstation ftp server ready.\n",
+        "ref": "diskstation"
+    },
+    "1068": {
+        "ori": "220 ates_kill ftp server (mikrotik 3.2) ready\n",
+        "ref": "mikrotik"
+    },
+    "1069": {
+        "ori": "220 ates_kill ftp server (mikrotik 3.2) ready\n",
+        "ref": "ates_kill"
+    },
+    "1070": {
+        "ori": "220 ates_kill ftp server (mikrotik 3.2) ready\n",
+        "ref": "ates_kill mikrotik"
+    },
+    "1071": {
+        "ori": "220 fritz!boxfonwlan7390 ftp server ready.\n",
+        "ref": "fritz!boxfonwlan7390"
+    },
+    "1072": {
+        "ori": "220 domov_rychmburk ftp server (mikrotik 6.42.6) ready\n",
+        "ref": "mikrotik"
+    },
+    "1073": {
+        "ori": "220 domov_rychmburk ftp server (mikrotik 6.42.6) ready\n",
+        "ref": "domov_rychmburk"
+    },
+    "1074": {
+        "ori": "220 domov_rychmburk ftp server (mikrotik 6.42.6) ready\n",
+        "ref": "domov_rychmburk mikrotik"
+    },
+    "1075": {
+        "ori": "220 welcome to asus rt-ac68u ftp service.\n",
+        "ref": "asus"
+    },
+    "1076": {
+        "ori": "220 welcome to asus rt-ac68u ftp service.\n",
+        "ref": "rt-ac68u"
+    },
+    "1077": {
+        "ori": "220 welcome to asus rt-ac68u ftp service.\n",
+        "ref": "asus rt-ac68u"
+    },
+    "1078": {
+        "ori": "220----------------------------------------------------------------\n220-welcome to the avon-group ftp server\n220 ---------------------------------------------------------------\n",
+        "ref": "avon-group"
+    },
+    "1079": {
+        "ori": "220----------------------------------------------------------------\n220-welcome to the avon-group ftp server\n220 ---------------------------------------------------------------\n",
+        "ref": "---------------------------------------------------------------"
+    },
+    "1080": {
+        "ori": "220----------------------------------------------------------------\n220-welcome to the avon-group ftp server\n220 ---------------------------------------------------------------\n",
+        "ref": "220----------------------------------------------------------------"
+    },
+    "1081": {
+        "ori": "220----------------------------------------------------------------\n220-welcome to the avon-group ftp server\n220 ---------------------------------------------------------------\n",
+        "ref": "avon-group ---------------------------------------------------------------"
+    },
+    "1082": {
+        "ori": "220----------------------------------------------------------------\n220-welcome to the avon-group ftp server\n220 ---------------------------------------------------------------\n",
+        "ref": "220---------------------------------------------------------------- avon-group"
+    },
+    "1083": {
+        "ori": "220----------------------------------------------------------------\n220-welcome to the avon-group ftp server\n220 ---------------------------------------------------------------\n",
+        "ref": "220---------------------------------------------------------------- ---------------------------------------------------------------"
+    },
+    "1084": {
+        "ori": "220----------------------------------------------------------------\n220-welcome to the avon-group ftp server\n220 ---------------------------------------------------------------\n",
+        "ref": "220---------------------------------------------------------------- avon-group ---------------------------------------------------------------"
+    },
+    "1085": {
+        "ori": "220 fritz!box6490cable ftp server ready.\n",
+        "ref": "fritz!box6490cable"
+    },
+    "1086": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "intan"
+    },
+    "1087": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "teluk"
+    },
+    "1088": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "router"
+    },
+    "1089": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "mikrotik"
+    },
+    "1090": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "dst&pppoe"
+    },
+    "1091": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "teluk intan"
+    },
+    "1092": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "router teluk"
+    },
+    "1093": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "router intan"
+    },
+    "1094": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "teluk mikrotik"
+    },
+    "1095": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "intan mikrotik"
+    },
+    "1096": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "dst&pppoe intan"
+    },
+    "1097": {
+        "ori": "220 router dst&pppoe teluk intan ftp server (mikrotik 6.40.8) ready\n",
+        "ref": "router mikrotik"
+    },
+    "1098": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "mikrotik"
+    },
+    "1099": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.44.1) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "1100": {
+        "ori": "220 fritz!box7590 ftp server ready.\n",
+        "ref": "fritz!box7590"
+    },
+    "1101": {
+        "ori": "220 test ftp server (mikrotik 6.38.7) ready\n",
+        "ref": "mikrotik"
+    },
+    "1102": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.9) ready\n",
+        "ref": "mikrotik"
+    },
+    "1103": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.9) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "1104": {
+        "ori": "220 welcome to asus dsl-ac68u ftp service.\n",
+        "ref": "asus"
+    },
+    "1105": {
+        "ori": "220 welcome to asus dsl-ac68u ftp service.\n",
+        "ref": "dsl-ac68u"
+    },
+    "1106": {
+        "ori": "220 welcome to asus dsl-ac68u ftp service.\n",
+        "ref": "asus dsl-ac68u"
+    },
+    "1107": {
+        "ori": "220 fritz!box7590 ftp server ready.\n",
+        "ref": "fritz!box7590"
+    },
+    "1108": {
+        "ori": "220 test ftp server (mikrotik 6.38.7) ready\n",
+        "ref": "mikrotik"
+    },
+    "1109": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.9) ready\n",
+        "ref": "mikrotik"
+    },
+    "1110": {
+        "ori": "220 mikrotik ftp server (mikrotik 6.42.9) ready\n",
+        "ref": "mikrotik mikrotik"
+    },
+    "1111": {
+        "ori": "220 welcome to asus dsl-ac68u ftp service.\n",
+        "ref": "asus"
+    },
+    "1112": {
+        "ori": "220 welcome to asus dsl-ac68u ftp service.\n",
+        "ref": "dsl-ac68u"
+    },
+    "1113": {
+        "ori": "220 welcome to asus dsl-ac68u ftp service.\n",
+        "ref": "asus dsl-ac68u"
+    },
+    "1114": {
+        "ori": "220 axis m1124 network camera 6.50.1.2 (2017) ready.\n",
+        "ref": "axis"
+    },
+    "1115": {
+        "ori": "220 axis m1124 network camera 6.50.1.2 (2017) ready.\n",
+        "ref": "m1124"
+    },
+    "1116": {
+        "ori": "220 axis m1124 network camera 6.50.1.2 (2017) ready.\n",
+        "ref": "camera"
+    },
+    "1117": {
+        "ori": "220 axis m1124 network camera 6.50.1.2 (2017) ready.\n",
+        "ref": "axis m1124"
+    },
+    "1118": {
+        "ori": "220 axis m1124 network camera 6.50.1.2 (2017) ready.\n",
+        "ref": "axis camera"
+    },
+    "1119": {
+        "ori": "220 axis m1124 network camera 6.50.1.2 (2017) ready.\n",
+        "ref": "m1124 camera"
+    },
+    "1120": {
+        "ori": "220 axis m1124 network camera 6.50.1.2 (2017) ready.\n",
+        "ref": "axis m1124 camera"
+    },
+    "1121": {
+        "ori": "220 \"welcome to mybooklive\"\n",
+        "ref": "\"welcome"
+    },
+    "1122": {
+        "ori": "220 \"welcome to mybooklive\"\n",
+        "ref": "mybooklive\""
+    },
+    "1123": {
+        "ori": "220 \"welcome to mybooklive\"\n",
+        "ref": "\"welcome mybooklive\""
+    },
+    "1124": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "ptz"
+    },
+    "1125": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "axis"
+    },
+    "1126": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "camera"
+    },
+    "1127": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "q6115-e"
+    },
+    "1128": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "axis ptz"
+    },
+    "1129": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "ptz camera"
+    },
+    "1130": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "q6115-e ptz"
+    },
+    "1131": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "axis camera"
+    },
+    "1132": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "axis q6115-e"
+    },
+    "1133": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "q6115-e camera"
+    },
+    "1134": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "axis ptz camera"
+    },
+    "1135": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "axis q6115-e ptz"
+    },
+    "1136": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "q6115-e ptz camera"
+    },
+    "1137": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "axis q6115-e camera"
+    },
+    "1138": {
+        "ori": "220 axis q6115-e ptz dome network camera 5.65.2.1 (2015) ready.\n",
+        "ref": "axis q6115-e ptz camera"
+    },
+    "1139": {
+        "ori": "220 welcome to wd my cloud\n",
+        "ref": "wd"
+    },
+    "1140": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "mk"
+    },
+    "1141": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "ptz"
+    },
+    "1142": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis"
+    },
+    "1143": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "camera"
+    },
+    "1144": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "mk ptz"
+    },
+    "1145": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "q6045-e"
+    },
+    "1146": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis mk"
+    },
+    "1147": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis ptz"
+    },
+    "1148": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "mk camera"
+    },
+    "1149": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "ptz camera"
+    },
+    "1150": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "q6045-e mk"
+    },
+    "1151": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis camera"
+    },
+    "1152": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "q6045-e ptz"
+    },
+    "1153": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis mk ptz"
+    },
+    "1154": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis q6045-e"
+    },
+    "1155": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "mk ptz camera"
+    },
+    "1156": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "q6045-e mk ptz"
+    },
+    "1157": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis mk camera"
+    },
+    "1158": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "q6045-e camera"
+    },
+    "1159": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis ptz camera"
+    },
+    "1160": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis q6045-e mk"
+    },
+    "1161": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "axis q6045-e ptz"
+    },
+    "1162": {
+        "ori": "220 axis q6045-e mk ii ptz dome network camera 5.70.1 (2015) ready.\n",
+        "ref": "q6045-e mk camera"
+    },
+    "1163": {
+        "ori": "220 axis m1145-l network camera 6.50.3 (2018) ready.\n",
+        "ref": "axis"
+    },
+    "1164": {
+        "ori": "220 axis m1145-l network camera 6.50.3 (2018) ready.\n",
+        "ref": "camera"
+    },
+    "1165": {
+        "ori": "220 axis m1145-l network camera 6.50.3 (2018) ready.\n",
+        "ref": "m1145-l"
+    },
+    "1166": {
+        "ori": "220 axis m1145-l network camera 6.50.3 (2018) ready.\n",
+        "ref": "axis camera"
+    },
+    "1167": {
+        "ori": "220 axis m1145-l network camera 6.50.3 (2018) ready.\n",
+        "ref": "axis m1145-l"
+    },
+    "1168": {
+        "ori": "220 axis m1145-l network camera 6.50.3 (2018) ready.\n",
+        "ref": "m1145-l camera"
+    },
+    "1169": {
+        "ori": "220 axis m1145-l network camera 6.50.3 (2018) ready.\n",
+        "ref": "axis m1145-l camera"
+    },
+    "1170": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "ptz"
+    },
+    "1171": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "axis"
+    },
+    "1172": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "q6044"
+    },
+    "1173": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "camera"
+    },
+    "1174": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "axis ptz"
+    },
+    "1175": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "q6044 ptz"
+    },
+    "1176": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "ptz camera"
+    },
+    "1177": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "axis q6044"
+    },
+    "1178": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "axis camera"
+    },
+    "1179": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "q6044 camera"
+    },
+    "1180": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "axis q6044 ptz"
+    },
+    "1181": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "axis ptz camera"
+    },
+    "1182": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "q6044 ptz camera"
+    },
+    "1183": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "axis q6044 camera"
+    },
+    "1184": {
+        "ori": "220 axis q6044 ptz dome network camera 6.50.2.2 (2018) ready.\n",
+        "ref": "axis q6044 ptz camera"
+    },
+    "1185": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "auf"
+    },
+    "1186": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "ihrer"
+    },
+    "1187": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "willkomen"
+    },
+    "1188": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "dreambox."
+    },
+    "1189": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "auf ihrer"
+    },
+    "1190": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "willkomen auf"
+    },
+    "1191": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "auf dreambox."
+    },
+    "1192": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "willkomen ihrer"
+    },
+    "1193": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "ihrer dreambox."
+    },
+    "1194": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "willkomen auf ihrer"
+    },
+    "1195": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "willkomen dreambox."
+    },
+    "1196": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "auf ihrer dreambox."
+    },
+    "1197": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "willkomen auf dreambox."
+    },
+    "1198": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "willkomen ihrer dreambox."
+    },
+    "1199": {
+        "ori": "220 willkomen auf ihrer dreambox.\n",
+        "ref": "willkomen auf ihrer dreambox."
+    },
+    "1200": {
+        "ori": "220 welcome to linksys15456\n",
+        "ref": "linksys15456"
+    },
+    "1201": {
+        "ori": "550 permission denied ,please check access control list\n",
+        "ref": ",please"
+    },
+    "1202": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "ptz"
+    },
+    "1203": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "axis"
+    },
+    "1204": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "camera"
+    },
+    "1205": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "q6044-e"
+    },
+    "1206": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "axis ptz"
+    },
+    "1207": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "ptz camera"
+    },
+    "1208": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "axis camera"
+    },
+    "1209": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "q6044-e ptz"
+    },
+    "1210": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "axis q6044-e"
+    },
+    "1211": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "q6044-e camera"
+    },
+    "1212": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "axis ptz camera"
+    },
+    "1213": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "axis q6044-e ptz"
+    },
+    "1214": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "q6044-e ptz camera"
+    },
+    "1215": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "axis q6044-e camera"
+    },
+    "1216": {
+        "ori": "220 axis q6044-e ptz dome network camera 5.70.1.3 (2016) ready.\n",
+        "ref": "axis q6044-e ptz camera"
+    },
+    "1217": {
+        "ori": "220 axis m3004 network camera 5.40.5.4 (2013) ready.\n",
+        "ref": "axis"
+    },
+    "1218": {
+        "ori": "220 axis m3004 network camera 5.40.5.4 (2013) ready.\n",
+        "ref": "m3004"
+    },
+    "1219": {
+        "ori": "220 axis m3004 network camera 5.40.5.4 (2013) ready.\n",
+        "ref": "camera"
+    },
+    "1220": {
+        "ori": "220 axis m3004 network camera 5.40.5.4 (2013) ready.\n",
+        "ref": "axis m3004"
+    },
+    "1221": {
+        "ori": "220 axis m3004 network camera 5.40.5.4 (2013) ready.\n",
+        "ref": "axis camera"
+    },
+    "1222": {
+        "ori": "220 axis m3004 network camera 5.40.5.4 (2013) ready.\n",
+        "ref": "m3004 camera"
+    },
+    "1223": {
+        "ori": "220 axis m3004 network camera 5.40.5.4 (2013) ready.\n",
+        "ref": "axis m3004 camera"
+    },
+    "1224": {
+        "ori": "220 axis p5512-e ptz dome network camera 5.50.4.4 (2016) ready.\n",
+        "ref": "ptz"
+    },
+    "1225": {
+        "ori": "220 axis p5512-e ptz dome network camera 5.50.4.4 (2016) ready.\n",
+        "ref": "axis"
+    },
+    "1226": {
+        "ori": "220 axis p5512-e ptz dome network camera 5.50.4.4 (2016) ready.\n",
+        "ref": "camera"
+    },
+    "1227": {
+        "ori": "220 axis p5512-e ptz dome network camera 5.50.4.4 (2016) ready.\n",
+        "ref": "p5512-e"
+    },
+    "1228": {
+        "ori": "220 axis p5512-e ptz dome network camera 5.50.4.4 (2016) ready.\n",
+        "ref": "axis ptz"
+    },
+    "1229": {
+        "ori": "220 axis p5512-e ptz dome network camera 5.50.4.4 (2016) ready.\n",
+        "ref": "ptz camera"
     }
 }

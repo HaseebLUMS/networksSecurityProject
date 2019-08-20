@@ -1,10 +1,24 @@
 import json
 
+
+bannersMap = {}
+with open('inputBanners2.json') as f: b = f.read()
+with open('inputBanners.json') as f: b0 = f.read()
+b = json.loads(b)
+b0 = json.loads(b0)
+for ele in b:
+	bannersMap[b[ele]['ip']] = b[ele]['banner']
+for ele in b0:
+	bannersMap[b0[ele]['ip']] = b0[ele]['banner']
+
+def check(data):
+	return data.replace("\n", "n")
+
 with open('mappZTAG.json') as f: data = f.read()
 data = json.loads(data)
 
 
-ff = "IP,ZTAG DEVICE,ZTAG VENDOR,ZTAG PRODUCT,NMAP DEVICE,NMAP VENDOR\n"
+ff = "IP,BANNER,ZTAG DEVICE,ZTAG VENDOR,ZTAG PRODUCT,NMAP DEVICE,NMAP VENDOR\n"
 
 
 for ele in data:
@@ -16,6 +30,7 @@ for ele in data:
 	ztag_product= " "
 	nmap_device = " "
 	nmap_vendor = " "
+	banner      = " "
 
 	try: ztag_device = data[ele]['device_ztag']
 	except: pass
@@ -27,8 +42,11 @@ for ele in data:
 	except: pass
 	try: nmap_vendor = data[ele]['vendor_nmap'] 
 	except: pass
+	try: banner = bannersMap[ip]
+	except: pass
 
-	tmp += (ip+','+ztag_device+','+ztag_vendor+','+ztag_product+','+nmap_device+','+nmap_vendor + '\n')
+	banner = "\""+check(banner)+"\""
+	tmp += (ip+','+banner+','+ztag_device+','+ztag_vendor+','+ztag_product+','+nmap_device+','+nmap_vendor + '\n')
 	ff += tmp
 
 print(ff)

@@ -4,17 +4,20 @@ import os
 
 processedTransactions = {}
 
-with open('inputBanners2.json') as b:
+with open('inputBanners.json') as b:
 	data = b.read()
 	data = json.loads(data)
 
 banners = []
 ips = []
-for i in range(0, 200):
+for i in range(300, 800):
 	try:
 		tmp = data[str(i)]['banner']
-		if 'filezilla' in tmp.lower(): continue
+		if 'filezilla' in tmp.lower(): 
+			continue
 		if 'serve-u' in tmp.lower(): 
+			continue
+		if 'ftp' in tmp.lower(): 
 			continue
 		banners.append(data[str(i)]['banner'])
 		ips.append(data[str(i)]['ip'])
