@@ -10,7 +10,7 @@ with open('httpBanners.json') as b:
 
 banners = []
 ips = []
-for i in range(9, 100):
+for i in range(20, 100):
 	try:
 		tmp = data[str(i)]['banner']
 		if 'filezilla' in tmp.lower(): 
