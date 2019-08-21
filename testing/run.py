@@ -77,7 +77,8 @@ def run_files(ori):
 	with open('refined_queries_set.json', 'r') as f: refined_queries = f.read()
 	refined_queries = json.loads(refined_queries)
 	refined_queries = refined_queries['queries']
-	if len(refined_queries) > 6:
+	if len(refined_queries) > 10:
+		'returning'
 		return
 
 
@@ -88,81 +89,78 @@ def run_files(ori):
 
 	pages = []
 	for ref_que in refined_queries:
+		write_query_map(ori, ref_que)
+		print('in action: ', ref_que)
+		with open('refinedQuery.txt', 'w') as f: f.write(ref_que)
+
 		try:
-			write_query_map(ori, ref_que)
-			print('in action: ', ref_que)
-			with open('refinedQuery.txt', 'w') as f: f.write(ref_que)
+			comm = 'python3 mod_1_web_crawler_and_contexter/webcrawler.py refinedQuery.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types run'
+			os.system(comm)
+			move = True
+		except Exception as exception:
+			move = False
+			print("Exception occured in web crawler.", exception)
 
+
+		with open('pages.json') as f: s_pages = json.loads(f.read())['pages']
+		for ele in s_pages: pages.append(ele)
+
+		with open('latest_pages.json') as f: latest_pages = json.loads(f.read())['pages']
+		for ele in s_pages: latest_pages.append(ele)
+		lps = {'pages': latest_pages}
+		lps = json.dumps(lps, indent=4)
+		with open('latest_pages.json', 'w') as f: f.write(lps)
+
+
+
+		comm = 'touch mod_2_corpus_and_rule_based_der/Output/output.txt && rm mod_2_corpus_and_rule_based_der/Output/output.txt'
+		os.system(comm)
+
+		if move:
+			comm = 'cp output.txt mod_2_corpus_and_rule_based_der/Output/output.txt'
+			os.system(comm)
+			comm = 'cp raw.txt mod_2_corpus_and_rule_based_der/raw.txt'
+			os.system(comm)
+
+
+		if move:
 			try:
-				comm = 'python3 mod_1_web_crawler_and_contexter/webcrawler.py refinedQuery.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types run'
+				comm = 'python3 mod_2_corpus_and_rule_based_der/NamedEntityRecognition.py mod_2_corpus_and_rule_based_der/Output/output.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types mod_2_corpus_and_rule_based_der/raw.txt'
 				os.system(comm)
-				move = True
-			except Exception as exception:
+			except:
 				move = False
-				print("Exception occured in web crawler.", exception)
+				print("Exception occured in DER")
 
+		
 
-			with open('pages.json') as f: s_pages = json.loads(f.read())['pages']
-			for ele in s_pages: pages.append(ele)
+		
+		comm = 'touch output.txt && rm output.txt'
+		os.system(comm)
 
-			with open('latest_pages.json') as f: latest_pages = json.loads(f.read())['pages']
-			for ele in s_pages: latest_pages.append(ele)
-			lps = {'pages': latest_pages}
-			lps = json.dumps(lps, indent=4)
-			with open('latest_pages.json', 'w') as f: f.write(lps)
+		with open("raw.txt", 'r') as f:
+			data = f.read()
+			data = data.split(" ")
+			if len(data) < 3:
+				move = False
 
+		comm = 'cp raw.txt mod_3_local_dependency_finder/raw.txt && rm raw.txt'
+		os.system(comm)
 
+		
+		comm = 'cp predictions.json mod_3_local_dependency_finder/predictions.json && rm predictions.json'
+		os.system(comm)
 
-			comm = 'touch mod_2_corpus_and_rule_based_der/Output/output.txt && rm mod_2_corpus_and_rule_based_der/Output/output.txt'
-			os.system(comm)
-
-			if move:
-				comm = 'cp output.txt mod_2_corpus_and_rule_based_der/Output/output.txt'
+		if move:
+			try:
+				comm = 'python mod_3_local_dependency_finder/local_dependency_finder.py mod_3_local_dependency_finder/predictions.json mod_3_local_dependency_finder/raw.txt'
 				os.system(comm)
-				comm = 'cp raw.txt mod_2_corpus_and_rule_based_der/raw.txt'
-				os.system(comm)
+			except:
+				print("Exception occured in local dependency finder")
 
-
-			if move:
-				try:
-					comm = 'python3 mod_2_corpus_and_rule_based_der/NamedEntityRecognition.py mod_2_corpus_and_rule_based_der/Output/output.txt mod_2_corpus_and_rule_based_der/Database/vendors mod_2_corpus_and_rule_based_der/Database/device_types mod_2_corpus_and_rule_based_der/raw.txt'
-					os.system(comm)
-				except:
-					move = False
-					print("Exception occured in DER")
-
-			
-
-			
-			comm = 'touch output.txt && rm output.txt'
-			os.system(comm)
-
-			with open("raw.txt", 'r') as f:
-				data = f.read()
-				data = data.split(" ")
-				if len(data) < 3:
-					move = False
-
-			comm = 'cp raw.txt mod_3_local_dependency_finder/raw.txt && rm raw.txt'
-			os.system(comm)
-
-			
-			comm = 'cp predictions.json mod_3_local_dependency_finder/predictions.json && rm predictions.json'
-			os.system(comm)
-
-			if move:
-				try:
-					comm = 'python mod_3_local_dependency_finder/local_dependency_finder.py mod_3_local_dependency_finder/predictions.json mod_3_local_dependency_finder/raw.txt'
-					os.system(comm)
-				except:
-					print("Exception occured in local dependency finder")
-
-			# if move is False:
-			# 	with open('annotation.txt', 'w') as f:
-			# 		f.write(" | | ")
-			make_transaction()
-		except:
-			pass
+		# if move is False:
+		# 	with open('annotation.txt', 'w') as f:
+		# 		f.write(" | | ")
+		make_transaction()
 	test_write('pages', pages)
 	test_write('annotations', anns)
 	return 1

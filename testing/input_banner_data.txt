@@ -1,7 +1,1 @@
-<html>
-<head><title>302 Found</title></head>
-<body>
-<center><h1>302 Found</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+220 LHG-Kleiton-221 FTP server (MikroTik 6.43.2) ready

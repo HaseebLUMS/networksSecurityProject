@@ -1,5 +1,7 @@
 {
     "queries": [
-        "nginx"
+        "mikrotik",
+        "lhg-kleiton-221",
+        "lhg-kleiton-221 mikrotik"
     ]
 }
