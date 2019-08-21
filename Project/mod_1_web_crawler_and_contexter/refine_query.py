@@ -48,7 +48,7 @@ def find_pattern(rawData):
 def trim(k):
 	f = False
 	l = False
-	extra = ["(", ")", "{", "}", "[", "]"]
+	extra = ["(", ")", "{", "}", "[", "]", "!", "\"", "'", ","]
 	for ele in extra:
 		if k[0] is ele:
 			f = True

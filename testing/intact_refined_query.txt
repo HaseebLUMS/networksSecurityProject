@@ -1,1 +1,1 @@
- hello! synology station! website, "web service" dsm
+ drogi użytkowniku witamy aplikacji synology nie włączona. aby zakończyć konfigurowanie strony internetowej zapoznaj się sekcją &bdquo;usługi www&rdquo; pomocy dsm.

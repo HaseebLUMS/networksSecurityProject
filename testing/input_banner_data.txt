@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html class="img-no-display"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Hello! Welcome to Synology Web Station!</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Drogi Użytkowniku! Witamy w aplikacji Synology Web Station!</title>
 <style>
 html {
     height: 100%;
@@ -46,7 +46,7 @@ div#container {
 <div id="outer">
 <div id="container">
 <img src="web_images/icon.png" />
-<p id="paragraph">Web Station has been enabled. To finish setting up your website, please see the "Web Service" section of DSM Help.</p>
+<p id="paragraph">Web Station nie jest włączona. Aby zakończyć konfigurowanie strony internetowej, zapoznaj się z sekcją &bdquo;Usługi www&rdquo; Pomocy DSM.</p>
 </div>
 </div>
 
