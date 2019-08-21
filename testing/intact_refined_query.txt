@@ -1,1 +1,1 @@
- axis p5512-e ptz camera
+ hello! synology station! website, "web service" dsm

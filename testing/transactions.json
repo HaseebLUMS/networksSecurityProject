@@ -140422,5 +140422,8049 @@
     "35106": [
         "camera",
         "camera"
+    ],
+    "35107": [
+        "ptz camera",
+        "HIKVISION | CAMERA | IP66"
+    ],
+    "35108": [
+        "ptz camera",
+        "HIKVISION | CAMERA | ONVIF2.4"
+    ],
+    "35109": [
+        "ptz camera",
+        "HIKVISION | CAMERA | P2P"
+    ],
+    "35110": [
+        "ptz camera",
+        "HIKVISION | NVR | IP66"
+    ],
+    "35111": [
+        "ptz camera",
+        "HIKVISION | NVR | ONVIF2.4"
+    ],
+    "35112": [
+        "ptz camera",
+        "HIKVISION | NVR | P2P"
+    ],
+    "35113": [
+        "p5512-e ptz",
+        "HIKVISION | NVR | NK441H"
+    ],
+    "35114": [
+        "axis ptz camera",
+        "SAMSUNG | CAMERA | P2P"
+    ],
+    "35115": [
+        "axis ptz camera",
+        "HIKVISION | CAMERA | P2P"
+    ],
+    "35116": [
+        "xerox",
+        "xerox"
+    ],
+    "35117": [
+        "axis",
+        "axis"
+    ],
+    "35118": [
+        "camera",
+        "camera"
+    ],
+    "35119": [
+        "axis",
+        "axis"
+    ],
+    "35120": [
+        "camera",
+        "camera"
+    ],
+    "35121": [
+        "axis",
+        "axis"
+    ],
+    "35122": [
+        "camera",
+        "camera"
+    ],
+    "35123": [
+        "axis",
+        "axis"
+    ],
+    "35124": [
+        "camera",
+        "camera"
+    ],
+    "35125": [
+        "axis camera",
+        "camera"
+    ],
+    "35126": [
+        "axis",
+        "axis"
+    ],
+    "35127": [
+        "camera",
+        "camera"
+    ],
+    "35128": [
+        "p5522-e camera",
+        "HIKVISION | CAMERA | DS-2DF6236"
+    ],
+    "35129": [
+        "p5522-e camera",
+        "HIKVISION | CAMERA | DS-2DF8236I"
+    ],
+    "35130": [
+        "axis",
+        "axis"
+    ],
+    "35131": [
+        "camera",
+        "camera"
+    ],
+    "35132": [
+        "axis mk",
+        "axis"
+    ],
+    "35133": [
+        "mk camera",
+        "camera"
+    ],
+    "35134": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERAS4"
+    ],
+    "35135": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DVR8"
+    ],
+    "35136": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DF8236I"
+    ],
+    "35137": [
+        "ptz camera",
+        "HIKVISION | CAMERA | IDS-7716NXI"
+    ],
+    "35138": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2AE7230TI"
+    ],
+    "35139": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE7232IW"
+    ],
+    "35140": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2CE16D5T"
+    ],
+    "35141": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2CE56D5T"
+    ],
+    "35142": [
+        "ptz camera",
+        "HIKVISION | CAMERA | I4"
+    ],
+    "35143": [
+        "ptz camera",
+        "HIKVISION | CAMERA | ANTENNAL3-L2"
+    ],
+    "35144": [
+        "ptz camera",
+        "HIKVISION | CAMERA | WV-NS202A"
+    ],
+    "35145": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERAG-6"
+    ],
+    "35146": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CABLES3"
+    ],
+    "35147": [
+        "ptz camera",
+        "HIKVISION | CAMERA | S8"
+    ],
+    "35148": [
+        "ptz camera",
+        "HIKVISION | CAMERA | ISLAMABAD5"
+    ],
+    "35149": [
+        "ptz camera",
+        "HIKVISION | CAMERA | ADSL2"
+    ],
+    "35150": [
+        "ptz camera",
+        "HIKVISION | CAMERA | T830HP"
+    ],
+    "35151": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2AE4225TI"
+    ],
+    "35152": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE7120IW"
+    ],
+    "35153": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE7220IW"
+    ],
+    "35154": [
+        "ptz camera",
+        "HIKVISION | CAMERA | ROUTER3G"
+    ],
+    "35155": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE2204IW"
+    ],
+    "35156": [
+        "ptz camera",
+        "HIKVISION | CAMERA | IP66"
+    ],
+    "35157": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2CE56D1T"
+    ],
+    "35158": [
+        "ptz camera",
+        "HIKVISION | CAMERA | ONVIF2.4"
+    ],
+    "35159": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERAS3"
+    ],
+    "35160": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERAS8"
+    ],
+    "35161": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE4225IW"
+    ],
+    "35162": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERAS6"
+    ],
+    "35163": [
+        "ptz camera",
+        "HIKVISION | CAMERA | NVR8"
+    ],
+    "35164": [
+        "ptz camera",
+        "HIKVISION | CAMERA | NVR16"
+    ],
+    "35165": [
+        "ptz camera",
+        "HIKVISION | CAMERA | T795"
+    ],
+    "35166": [
+        "ptz camera",
+        "HIKVISION | CAMERA | P2P"
+    ],
+    "35167": [
+        "ptz camera",
+        "HIKVISION | CAMERA | R3DELL"
+    ],
+    "35168": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERADVR4"
+    ],
+    "35169": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DVR16-24"
+    ],
+    "35170": [
+        "ptz camera",
+        "HIKVISION | CAMERA | NVR64"
+    ],
+    "35171": [
+        "ptz camera",
+        "HIKVISION | CAMERA | IDS-2CD8426G0"
+    ],
+    "35172": [
+        "ptz camera",
+        "HIKVISION | CAMERA | IDS-2CD6810F"
+    ],
+    "35173": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE4425IW"
+    ],
+    "35174": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE3204W"
+    ],
+    "35175": [
+        "ptz camera",
+        "HIKVISION | CAMERA | T520"
+    ],
+    "35176": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERAS1"
+    ],
+    "35177": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERASNVRS4"
+    ],
+    "35178": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERAS5"
+    ],
+    "35179": [
+        "ptz camera",
+        "HIKVISION | CAMERA | R3ALIENWARE"
+    ],
+    "35180": [
+        "ptz camera",
+        "HIKVISION | CAMERA | T3500COMPUTERSFLASH"
+    ],
+    "35181": [
+        "ptz camera",
+        "HIKVISION | CAMERA | IT3"
+    ],
+    "35182": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE7130IW"
+    ],
+    "35183": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DDR4OPTICAL"
+    ],
+    "35184": [
+        "ptz camera",
+        "HIKVISION | CAMERA | ISLAMABAD3"
+    ],
+    "35185": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE7230IW"
+    ],
+    "35186": [
+        "ptz camera",
+        "HIKVISION | CAMERA | E2"
+    ],
+    "35187": [
+        "ptz camera",
+        "HIKVISION | CAMERA | S6"
+    ],
+    "35188": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DE3"
+    ],
+    "35189": [
+        "ptz camera",
+        "HIKVISION | CAMERA | ROUTERLTE-3G"
+    ],
+    "35190": [
+        "ptz camera",
+        "HIKVISION | CAMERA | CAMERAS2"
+    ],
+    "35191": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DDR4"
+    ],
+    "35192": [
+        "ptz camera",
+        "HIKVISION | CAMERA | NVR32"
+    ],
+    "35193": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2AE5123TI"
+    ],
+    "35194": [
+        "ptz camera",
+        "HIKVISION | CAMERA | IT1"
+    ],
+    "35195": [
+        "ptz camera",
+        "HIKVISION | CAMERA | LAHORE3"
+    ],
+    "35196": [
+        "ptz camera",
+        "HIKVISION | CAMERA | DS-2DE4220IW"
+    ],
+    "35197": [
+        "ptz camera",
+        "HIKVISION | CAMERA | HIKVISION-720P"
+    ],
+    "35198": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERAS4"
+    ],
+    "35199": [
+        "ptz camera",
+        "HIKVISION | NVR | DVR8"
+    ],
+    "35200": [
+        "ptz camera",
+        "HIKVISION | NVR | ANTENNAL3-L2"
+    ],
+    "35201": [
+        "ptz camera",
+        "HIKVISION | NVR | CABLES3"
+    ],
+    "35202": [
+        "ptz camera",
+        "HIKVISION | NVR | ADSL2"
+    ],
+    "35203": [
+        "ptz camera",
+        "HIKVISION | NVR | T830HP"
+    ],
+    "35204": [
+        "ptz camera",
+        "HIKVISION | NVR | ROUTER3G"
+    ],
+    "35205": [
+        "ptz camera",
+        "HIKVISION | NVR | IP66"
+    ],
+    "35206": [
+        "ptz camera",
+        "HIKVISION | NVR | ONVIF2.4"
+    ],
+    "35207": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERAS3"
+    ],
+    "35208": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERAS8"
+    ],
+    "35209": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERAS6"
+    ],
+    "35210": [
+        "ptz camera",
+        "HIKVISION | NVR | NVR8"
+    ],
+    "35211": [
+        "ptz camera",
+        "HIKVISION | NVR | NVR16"
+    ],
+    "35212": [
+        "ptz camera",
+        "HIKVISION | NVR | T795"
+    ],
+    "35213": [
+        "ptz camera",
+        "HIKVISION | NVR | P2P"
+    ],
+    "35214": [
+        "ptz camera",
+        "HIKVISION | NVR | R3DELL"
+    ],
+    "35215": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERADVR4"
+    ],
+    "35216": [
+        "ptz camera",
+        "HIKVISION | NVR | DVR16-24"
+    ],
+    "35217": [
+        "ptz camera",
+        "HIKVISION | NVR | NVR64"
+    ],
+    "35218": [
+        "ptz camera",
+        "HIKVISION | NVR | T520"
+    ],
+    "35219": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERAS1"
+    ],
+    "35220": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERASNVRS4"
+    ],
+    "35221": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERAS5"
+    ],
+    "35222": [
+        "ptz camera",
+        "HIKVISION | NVR | R3ALIENWARE"
+    ],
+    "35223": [
+        "ptz camera",
+        "HIKVISION | NVR | T3500COMPUTERSFLASH"
+    ],
+    "35224": [
+        "ptz camera",
+        "HIKVISION | NVR | DDR4OPTICAL"
+    ],
+    "35225": [
+        "ptz camera",
+        "HIKVISION | NVR | S6"
+    ],
+    "35226": [
+        "ptz camera",
+        "HIKVISION | NVR | ROUTERLTE-3G"
+    ],
+    "35227": [
+        "ptz camera",
+        "HIKVISION | NVR | CAMERAS2"
+    ],
+    "35228": [
+        "ptz camera",
+        "HIKVISION | NVR | DDR4"
+    ],
+    "35229": [
+        "ptz camera",
+        "HIKVISION | NVR | NVR32"
+    ],
+    "35230": [
+        "ptz camera",
+        "HIKVISION | NVR | S8"
+    ],
+    "35231": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERAS4"
+    ],
+    "35232": [
+        "ptz camera",
+        "CISCO | SWITCHES | DVR8"
+    ],
+    "35233": [
+        "ptz camera",
+        "CISCO | SWITCHES | ANTENNAL3-L2"
+    ],
+    "35234": [
+        "ptz camera",
+        "CISCO | SWITCHES | CABLES3"
+    ],
+    "35235": [
+        "ptz camera",
+        "CISCO | SWITCHES | ADSL2"
+    ],
+    "35236": [
+        "ptz camera",
+        "CISCO | SWITCHES | T830HP"
+    ],
+    "35237": [
+        "ptz camera",
+        "CISCO | SWITCHES | ROUTER3G"
+    ],
+    "35238": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERAS3"
+    ],
+    "35239": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERAS8"
+    ],
+    "35240": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERAS6"
+    ],
+    "35241": [
+        "ptz camera",
+        "CISCO | SWITCHES | NVR8"
+    ],
+    "35242": [
+        "ptz camera",
+        "CISCO | SWITCHES | NVR16"
+    ],
+    "35243": [
+        "ptz camera",
+        "CISCO | SWITCHES | T795"
+    ],
+    "35244": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERADVR4"
+    ],
+    "35245": [
+        "ptz camera",
+        "CISCO | SWITCHES | R3DELL"
+    ],
+    "35246": [
+        "ptz camera",
+        "CISCO | SWITCHES | DVR16-24"
+    ],
+    "35247": [
+        "ptz camera",
+        "CISCO | SWITCHES | NVR64"
+    ],
+    "35248": [
+        "ptz camera",
+        "CISCO | SWITCHES | T520"
+    ],
+    "35249": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERAS1"
+    ],
+    "35250": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERASNVRS4"
+    ],
+    "35251": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERAS5"
+    ],
+    "35252": [
+        "ptz camera",
+        "CISCO | SWITCHES | R3ALIENWARE"
+    ],
+    "35253": [
+        "ptz camera",
+        "CISCO | SWITCHES | T3500COMPUTERSFLASH"
+    ],
+    "35254": [
+        "ptz camera",
+        "CISCO | SWITCHES | DDR4OPTICAL"
+    ],
+    "35255": [
+        "ptz camera",
+        "CISCO | SWITCHES | S6"
+    ],
+    "35256": [
+        "ptz camera",
+        "CISCO | SWITCHES | ROUTERLTE-3G"
+    ],
+    "35257": [
+        "ptz camera",
+        "CISCO | SWITCHES | CAMERAS2"
+    ],
+    "35258": [
+        "ptz camera",
+        "CISCO | SWITCHES | DDR4"
+    ],
+    "35259": [
+        "ptz camera",
+        "CISCO | SWITCHES | NVR32"
+    ],
+    "35260": [
+        "ptz camera",
+        "CISCO | SWITCHES | S8"
+    ],
+    "35261": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERAS4"
+    ],
+    "35262": [
+        "ptz camera",
+        "TP-LINK | ROUTER | DVR8"
+    ],
+    "35263": [
+        "ptz camera",
+        "TP-LINK | ROUTER | ANTENNAL3-L2"
+    ],
+    "35264": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CABLES3"
+    ],
+    "35265": [
+        "ptz camera",
+        "TP-LINK | ROUTER | ADSL2"
+    ],
+    "35266": [
+        "ptz camera",
+        "TP-LINK | ROUTER | T830HP"
+    ],
+    "35267": [
+        "ptz camera",
+        "TP-LINK | ROUTER | ROUTER3G"
+    ],
+    "35268": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERAS3"
+    ],
+    "35269": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERAS8"
+    ],
+    "35270": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERAS6"
+    ],
+    "35271": [
+        "ptz camera",
+        "TP-LINK | ROUTER | NVR8"
+    ],
+    "35272": [
+        "ptz camera",
+        "TP-LINK | ROUTER | NVR16"
+    ],
+    "35273": [
+        "ptz camera",
+        "TP-LINK | ROUTER | T795"
+    ],
+    "35274": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERADVR4"
+    ],
+    "35275": [
+        "ptz camera",
+        "TP-LINK | ROUTER | R3DELL"
+    ],
+    "35276": [
+        "ptz camera",
+        "TP-LINK | ROUTER | DVR16-24"
+    ],
+    "35277": [
+        "ptz camera",
+        "TP-LINK | ROUTER | NVR64"
+    ],
+    "35278": [
+        "ptz camera",
+        "TP-LINK | ROUTER | T520"
+    ],
+    "35279": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERAS1"
+    ],
+    "35280": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERASNVRS4"
+    ],
+    "35281": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERAS5"
+    ],
+    "35282": [
+        "ptz camera",
+        "TP-LINK | ROUTER | R3ALIENWARE"
+    ],
+    "35283": [
+        "ptz camera",
+        "TP-LINK | ROUTER | T3500COMPUTERSFLASH"
+    ],
+    "35284": [
+        "ptz camera",
+        "TP-LINK | ROUTER | DDR4OPTICAL"
+    ],
+    "35285": [
+        "ptz camera",
+        "TP-LINK | ROUTER | S6"
+    ],
+    "35286": [
+        "ptz camera",
+        "TP-LINK | ROUTER | ROUTERLTE-3G"
+    ],
+    "35287": [
+        "ptz camera",
+        "TP-LINK | ROUTER | CAMERAS2"
+    ],
+    "35288": [
+        "ptz camera",
+        "TP-LINK | ROUTER | DDR4"
+    ],
+    "35289": [
+        "ptz camera",
+        "TP-LINK | ROUTER | NVR32"
+    ],
+    "35290": [
+        "ptz camera",
+        "TP-LINK | ROUTER | S8"
+    ],
+    "35291": [
+        "ptz camera",
+        "ARM | CAMERA | V380"
+    ],
+    "35292": [
+        "ptz camera",
+        "ARM | CAMERA | ISLAMABAD2"
+    ],
+    "35293": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERAS4"
+    ],
+    "35294": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | DVR8"
+    ],
+    "35295": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | ANTENNAL3-L2"
+    ],
+    "35296": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CABLES3"
+    ],
+    "35297": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | ADSL2"
+    ],
+    "35298": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | T830HP"
+    ],
+    "35299": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | ROUTER3G"
+    ],
+    "35300": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERAS3"
+    ],
+    "35301": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERAS8"
+    ],
+    "35302": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERAS6"
+    ],
+    "35303": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | NVR8"
+    ],
+    "35304": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | NVR16"
+    ],
+    "35305": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | T795"
+    ],
+    "35306": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERADVR4"
+    ],
+    "35307": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | R3DELL"
+    ],
+    "35308": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | DVR16-24"
+    ],
+    "35309": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | NVR64"
+    ],
+    "35310": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | T520"
+    ],
+    "35311": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERAS1"
+    ],
+    "35312": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERASNVRS4"
+    ],
+    "35313": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERAS5"
+    ],
+    "35314": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | R3ALIENWARE"
+    ],
+    "35315": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | T3500COMPUTERSFLASH"
+    ],
+    "35316": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | DDR4OPTICAL"
+    ],
+    "35317": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | S6"
+    ],
+    "35318": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | ROUTERLTE-3G"
+    ],
+    "35319": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | CAMERAS2"
+    ],
+    "35320": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | DDR4"
+    ],
+    "35321": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | NVR32"
+    ],
+    "35322": [
+        "ptz camera",
+        "GIGABYTE | CAMERA | S8"
+    ],
+    "35323": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERAS4"
+    ],
+    "35324": [
+        "ptz camera",
+        "MATRIX | CAMERA | DVR8"
+    ],
+    "35325": [
+        "ptz camera",
+        "MATRIX | CAMERA | ANTENNAL3-L2"
+    ],
+    "35326": [
+        "ptz camera",
+        "MATRIX | CAMERA | CABLES3"
+    ],
+    "35327": [
+        "ptz camera",
+        "MATRIX | CAMERA | ADSL2"
+    ],
+    "35328": [
+        "ptz camera",
+        "MATRIX | CAMERA | T830HP"
+    ],
+    "35329": [
+        "ptz camera",
+        "MATRIX | CAMERA | ROUTER3G"
+    ],
+    "35330": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERAS3"
+    ],
+    "35331": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERAS8"
+    ],
+    "35332": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERAS6"
+    ],
+    "35333": [
+        "ptz camera",
+        "MATRIX | CAMERA | NVR8"
+    ],
+    "35334": [
+        "ptz camera",
+        "MATRIX | CAMERA | NVR16"
+    ],
+    "35335": [
+        "ptz camera",
+        "MATRIX | CAMERA | T795"
+    ],
+    "35336": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERADVR4"
+    ],
+    "35337": [
+        "ptz camera",
+        "MATRIX | CAMERA | R3DELL"
+    ],
+    "35338": [
+        "ptz camera",
+        "MATRIX | CAMERA | DVR16-24"
+    ],
+    "35339": [
+        "ptz camera",
+        "MATRIX | CAMERA | NVR64"
+    ],
+    "35340": [
+        "ptz camera",
+        "MATRIX | CAMERA | T520"
+    ],
+    "35341": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERAS1"
+    ],
+    "35342": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERASNVRS4"
+    ],
+    "35343": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERAS5"
+    ],
+    "35344": [
+        "ptz camera",
+        "MATRIX | CAMERA | R3ALIENWARE"
+    ],
+    "35345": [
+        "ptz camera",
+        "MATRIX | CAMERA | T3500COMPUTERSFLASH"
+    ],
+    "35346": [
+        "ptz camera",
+        "MATRIX | CAMERA | DDR4OPTICAL"
+    ],
+    "35347": [
+        "ptz camera",
+        "MATRIX | CAMERA | S6"
+    ],
+    "35348": [
+        "ptz camera",
+        "MATRIX | CAMERA | ROUTERLTE-3G"
+    ],
+    "35349": [
+        "ptz camera",
+        "MATRIX | CAMERA | CAMERAS2"
+    ],
+    "35350": [
+        "ptz camera",
+        "MATRIX | CAMERA | DDR4"
+    ],
+    "35351": [
+        "ptz camera",
+        "MATRIX | CAMERA | NVR32"
+    ],
+    "35352": [
+        "ptz camera",
+        "MATRIX | CAMERA | S8"
+    ],
+    "35353": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERAS4"
+    ],
+    "35354": [
+        "ptz camera",
+        "MATRIX | SWITCH | DVR8"
+    ],
+    "35355": [
+        "ptz camera",
+        "MATRIX | SWITCH | ANTENNAL3-L2"
+    ],
+    "35356": [
+        "ptz camera",
+        "MATRIX | SWITCH | CABLES3"
+    ],
+    "35357": [
+        "ptz camera",
+        "MATRIX | SWITCH | ADSL2"
+    ],
+    "35358": [
+        "ptz camera",
+        "MATRIX | SWITCH | T830HP"
+    ],
+    "35359": [
+        "ptz camera",
+        "MATRIX | SWITCH | ROUTER3G"
+    ],
+    "35360": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERAS3"
+    ],
+    "35361": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERAS8"
+    ],
+    "35362": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERAS6"
+    ],
+    "35363": [
+        "ptz camera",
+        "MATRIX | SWITCH | NVR8"
+    ],
+    "35364": [
+        "ptz camera",
+        "MATRIX | SWITCH | NVR16"
+    ],
+    "35365": [
+        "ptz camera",
+        "MATRIX | SWITCH | T795"
+    ],
+    "35366": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERADVR4"
+    ],
+    "35367": [
+        "ptz camera",
+        "MATRIX | SWITCH | R3DELL"
+    ],
+    "35368": [
+        "ptz camera",
+        "MATRIX | SWITCH | DVR16-24"
+    ],
+    "35369": [
+        "ptz camera",
+        "MATRIX | SWITCH | NVR64"
+    ],
+    "35370": [
+        "ptz camera",
+        "MATRIX | SWITCH | T520"
+    ],
+    "35371": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERAS1"
+    ],
+    "35372": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERASNVRS4"
+    ],
+    "35373": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERAS5"
+    ],
+    "35374": [
+        "ptz camera",
+        "MATRIX | SWITCH | R3ALIENWARE"
+    ],
+    "35375": [
+        "ptz camera",
+        "MATRIX | SWITCH | T3500COMPUTERSFLASH"
+    ],
+    "35376": [
+        "ptz camera",
+        "MATRIX | SWITCH | DDR4OPTICAL"
+    ],
+    "35377": [
+        "ptz camera",
+        "MATRIX | SWITCH | S6"
+    ],
+    "35378": [
+        "ptz camera",
+        "MATRIX | SWITCH | ROUTERLTE-3G"
+    ],
+    "35379": [
+        "ptz camera",
+        "MATRIX | SWITCH | CAMERAS2"
+    ],
+    "35380": [
+        "ptz camera",
+        "MATRIX | SWITCH | DDR4"
+    ],
+    "35381": [
+        "ptz camera",
+        "MATRIX | SWITCH | NVR32"
+    ],
+    "35382": [
+        "ptz camera",
+        "MATRIX | SWITCH | S8"
+    ],
+    "35383": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERAS4"
+    ],
+    "35384": [
+        "ptz camera",
+        "MATRIX | SWITCHES | DVR8"
+    ],
+    "35385": [
+        "ptz camera",
+        "MATRIX | SWITCHES | ANTENNAL3-L2"
+    ],
+    "35386": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CABLES3"
+    ],
+    "35387": [
+        "ptz camera",
+        "MATRIX | SWITCHES | ADSL2"
+    ],
+    "35388": [
+        "ptz camera",
+        "MATRIX | SWITCHES | T830HP"
+    ],
+    "35389": [
+        "ptz camera",
+        "MATRIX | SWITCHES | ROUTER3G"
+    ],
+    "35390": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERAS3"
+    ],
+    "35391": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERAS8"
+    ],
+    "35392": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERAS6"
+    ],
+    "35393": [
+        "ptz camera",
+        "MATRIX | SWITCHES | NVR8"
+    ],
+    "35394": [
+        "ptz camera",
+        "MATRIX | SWITCHES | NVR16"
+    ],
+    "35395": [
+        "ptz camera",
+        "MATRIX | SWITCHES | T795"
+    ],
+    "35396": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERADVR4"
+    ],
+    "35397": [
+        "ptz camera",
+        "MATRIX | SWITCHES | R3DELL"
+    ],
+    "35398": [
+        "ptz camera",
+        "MATRIX | SWITCHES | DVR16-24"
+    ],
+    "35399": [
+        "ptz camera",
+        "MATRIX | SWITCHES | NVR64"
+    ],
+    "35400": [
+        "ptz camera",
+        "MATRIX | SWITCHES | T520"
+    ],
+    "35401": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERAS1"
+    ],
+    "35402": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERASNVRS4"
+    ],
+    "35403": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERAS5"
+    ],
+    "35404": [
+        "ptz camera",
+        "MATRIX | SWITCHES | R3ALIENWARE"
+    ],
+    "35405": [
+        "ptz camera",
+        "MATRIX | SWITCHES | T3500COMPUTERSFLASH"
+    ],
+    "35406": [
+        "ptz camera",
+        "MATRIX | SWITCHES | DDR4OPTICAL"
+    ],
+    "35407": [
+        "ptz camera",
+        "MATRIX | SWITCHES | S6"
+    ],
+    "35408": [
+        "ptz camera",
+        "MATRIX | SWITCHES | ROUTERLTE-3G"
+    ],
+    "35409": [
+        "ptz camera",
+        "MATRIX | SWITCHES | CAMERAS2"
+    ],
+    "35410": [
+        "ptz camera",
+        "MATRIX | SWITCHES | DDR4"
+    ],
+    "35411": [
+        "ptz camera",
+        "MATRIX | SWITCHES | NVR32"
+    ],
+    "35412": [
+        "ptz camera",
+        "MATRIX | SWITCHES | S8"
+    ],
+    "35413": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERAS4"
+    ],
+    "35414": [
+        "ptz camera",
+        "MATRIX | ROUTER | DVR8"
+    ],
+    "35415": [
+        "ptz camera",
+        "MATRIX | ROUTER | ANTENNAL3-L2"
+    ],
+    "35416": [
+        "ptz camera",
+        "MATRIX | ROUTER | CABLES3"
+    ],
+    "35417": [
+        "ptz camera",
+        "MATRIX | ROUTER | ADSL2"
+    ],
+    "35418": [
+        "ptz camera",
+        "MATRIX | ROUTER | T830HP"
+    ],
+    "35419": [
+        "ptz camera",
+        "MATRIX | ROUTER | ROUTER3G"
+    ],
+    "35420": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERAS3"
+    ],
+    "35421": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERAS8"
+    ],
+    "35422": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERAS6"
+    ],
+    "35423": [
+        "ptz camera",
+        "MATRIX | ROUTER | NVR8"
+    ],
+    "35424": [
+        "ptz camera",
+        "MATRIX | ROUTER | NVR16"
+    ],
+    "35425": [
+        "ptz camera",
+        "MATRIX | ROUTER | T795"
+    ],
+    "35426": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERADVR4"
+    ],
+    "35427": [
+        "ptz camera",
+        "MATRIX | ROUTER | R3DELL"
+    ],
+    "35428": [
+        "ptz camera",
+        "MATRIX | ROUTER | DVR16-24"
+    ],
+    "35429": [
+        "ptz camera",
+        "MATRIX | ROUTER | NVR64"
+    ],
+    "35430": [
+        "ptz camera",
+        "MATRIX | ROUTER | T520"
+    ],
+    "35431": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERAS1"
+    ],
+    "35432": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERASNVRS4"
+    ],
+    "35433": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERAS5"
+    ],
+    "35434": [
+        "ptz camera",
+        "MATRIX | ROUTER | R3ALIENWARE"
+    ],
+    "35435": [
+        "ptz camera",
+        "MATRIX | ROUTER | T3500COMPUTERSFLASH"
+    ],
+    "35436": [
+        "ptz camera",
+        "MATRIX | ROUTER | DDR4OPTICAL"
+    ],
+    "35437": [
+        "ptz camera",
+        "MATRIX | ROUTER | S6"
+    ],
+    "35438": [
+        "ptz camera",
+        "MATRIX | ROUTER | ROUTERLTE-3G"
+    ],
+    "35439": [
+        "ptz camera",
+        "MATRIX | ROUTER | CAMERAS2"
+    ],
+    "35440": [
+        "ptz camera",
+        "MATRIX | ROUTER | DDR4"
+    ],
+    "35441": [
+        "ptz camera",
+        "MATRIX | ROUTER | NVR32"
+    ],
+    "35442": [
+        "ptz camera",
+        "MATRIX | ROUTER | S8"
+    ],
+    "35443": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERAS4"
+    ],
+    "35444": [
+        "ptz camera",
+        "MATRIX | MODEM | DVR8"
+    ],
+    "35445": [
+        "ptz camera",
+        "MATRIX | MODEM | ANTENNAL3-L2"
+    ],
+    "35446": [
+        "ptz camera",
+        "MATRIX | MODEM | CABLES3"
+    ],
+    "35447": [
+        "ptz camera",
+        "MATRIX | MODEM | ADSL2"
+    ],
+    "35448": [
+        "ptz camera",
+        "MATRIX | MODEM | T830HP"
+    ],
+    "35449": [
+        "ptz camera",
+        "MATRIX | MODEM | ROUTER3G"
+    ],
+    "35450": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERAS3"
+    ],
+    "35451": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERAS8"
+    ],
+    "35452": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERAS6"
+    ],
+    "35453": [
+        "ptz camera",
+        "MATRIX | MODEM | NVR8"
+    ],
+    "35454": [
+        "ptz camera",
+        "MATRIX | MODEM | NVR16"
+    ],
+    "35455": [
+        "ptz camera",
+        "MATRIX | MODEM | T795"
+    ],
+    "35456": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERADVR4"
+    ],
+    "35457": [
+        "ptz camera",
+        "MATRIX | MODEM | R3DELL"
+    ],
+    "35458": [
+        "ptz camera",
+        "MATRIX | MODEM | DVR16-24"
+    ],
+    "35459": [
+        "ptz camera",
+        "MATRIX | MODEM | NVR64"
+    ],
+    "35460": [
+        "ptz camera",
+        "MATRIX | MODEM | T520"
+    ],
+    "35461": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERAS1"
+    ],
+    "35462": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERASNVRS4"
+    ],
+    "35463": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERAS5"
+    ],
+    "35464": [
+        "ptz camera",
+        "MATRIX | MODEM | R3ALIENWARE"
+    ],
+    "35465": [
+        "ptz camera",
+        "MATRIX | MODEM | T3500COMPUTERSFLASH"
+    ],
+    "35466": [
+        "ptz camera",
+        "MATRIX | MODEM | DDR4OPTICAL"
+    ],
+    "35467": [
+        "ptz camera",
+        "MATRIX | MODEM | S6"
+    ],
+    "35468": [
+        "ptz camera",
+        "MATRIX | MODEM | ROUTERLTE-3G"
+    ],
+    "35469": [
+        "ptz camera",
+        "MATRIX | MODEM | CAMERAS2"
+    ],
+    "35470": [
+        "ptz camera",
+        "MATRIX | MODEM | DDR4"
+    ],
+    "35471": [
+        "ptz camera",
+        "MATRIX | MODEM | NVR32"
+    ],
+    "35472": [
+        "ptz camera",
+        "MATRIX | MODEM | S8"
+    ],
+    "35473": [
+        "axis",
+        "axis"
+    ],
+    "35474": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35475": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V3"
+    ],
+    "35476": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "35477": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V3.3"
+    ],
+    "35478": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "35479": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "35480": [
+        "mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "35481": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35482": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "35483": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "35484": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "35485": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "35486": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V3"
+    ],
+    "35487": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "35488": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "35489": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "35490": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "35491": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V3.3"
+    ],
+    "35492": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "35493": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "35494": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "35495": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "35496": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "35497": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "35498": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "35499": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35500": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | E0"
+    ],
+    "35501": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | B1"
+    ],
+    "35502": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB954430"
+    ],
+    "35503": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | F01B2F70B"
+    ],
+    "35504": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | UPDATERP156"
+    ],
+    "35505": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2687267"
+    ],
+    "35506": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2473228"
+    ],
+    "35507": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | V1"
+    ],
+    "35508": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | C9"
+    ],
+    "35509": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | ECC055D"
+    ],
+    "35510": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | SP3"
+    ],
+    "35511": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | C00000004MANUFACTURER"
+    ],
+    "35512": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | V3GOOGLE"
+    ],
+    "35513": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | V2"
+    ],
+    "35514": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | FC-0698-45FF"
+    ],
+    "35515": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2478663"
+    ],
+    "35516": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2656368V2"
+    ],
+    "35517": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | UPDATERP157"
+    ],
+    "35518": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | X86"
+    ],
+    "35519": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB973688"
+    ],
+    "35520": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596880"
+    ],
+    "35521": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KLIM6"
+    ],
+    "35522": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | SP1"
+    ],
+    "35523": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596912"
+    ],
+    "35524": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2656405"
+    ],
+    "35525": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596705"
+    ],
+    "35526": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2656351"
+    ],
+    "35527": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | F-11D1"
+    ],
+    "35528": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596871"
+    ],
+    "35529": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | D793958"
+    ],
+    "35530": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | A6"
+    ],
+    "35531": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | V3"
+    ],
+    "35532": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | B9"
+    ],
+    "35533": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2539636"
+    ],
+    "35534": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596764"
+    ],
+    "35535": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2416472"
+    ],
+    "35536": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2572078"
+    ],
+    "35537": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | C0"
+    ],
+    "35538": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2686827"
+    ],
+    "35539": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2508958"
+    ],
+    "35540": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB967642"
+    ],
+    "35541": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2604121"
+    ],
+    "35542": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596672"
+    ],
+    "35543": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2597969"
+    ],
+    "35544": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | R2"
+    ],
+    "35545": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | R2011BMICROSOFT"
+    ],
+    "35546": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | UPDATERP154"
+    ],
+    "35547": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB973923"
+    ],
+    "35548": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | SASKUTIL6"
+    ],
+    "35549": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2518870"
+    ],
+    "35550": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | SP1MICROSOFT"
+    ],
+    "35551": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | F0"
+    ],
+    "35552": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | RP155"
+    ],
+    "35553": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | A217-F68D7A67B14D"
+    ],
+    "35554": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | A537-0000F8753ED1"
+    ],
+    "35555": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2656368"
+    ],
+    "35556": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | V9.36UNINSTALL"
+    ],
+    "35557": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | RP153"
+    ],
+    "35558": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2633870"
+    ],
+    "35559": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | A5"
+    ],
+    "35560": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | D7"
+    ],
+    "35561": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | V1.1QUICKSET32REALTEK"
+    ],
+    "35562": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596792"
+    ],
+    "35563": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2598041"
+    ],
+    "35564": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2597161"
+    ],
+    "35565": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | I5"
+    ],
+    "35566": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | EE000001"
+    ],
+    "35567": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | C00000004SERVICE"
+    ],
+    "35568": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | VC9"
+    ],
+    "35569": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | SP2"
+    ],
+    "35570": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB968369"
+    ],
+    "35571": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596785"
+    ],
+    "35572": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2596917"
+    ],
+    "35573": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | V1.0"
+    ],
+    "35574": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | A2"
+    ],
+    "35575": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2487367"
+    ],
+    "35576": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "MICROSOFT | SCANNER | KB2597162"
+    ],
+    "35577": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "NETGEAR | ROUTER | WNDR3700"
+    ],
+    "35578": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "NETGEAR | ROUTER | R3"
+    ],
+    "35579": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "BELKIN | ROUTER | N150"
+    ],
+    "35580": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "BELKIN | ROUTER | F6D4230"
+    ],
+    "35581": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "BELKIN | ROUTER | D8"
+    ],
+    "35582": [
+        "1.3.4d ::ffff:192.168.0.9",
+        "BELKIN | ROUTER | F5D8236"
+    ],
+    "35583": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | E0"
+    ],
+    "35584": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | B1"
+    ],
+    "35585": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB954430"
+    ],
+    "35586": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | F01B2F70B"
+    ],
+    "35587": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | UPDATERP156"
+    ],
+    "35588": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2687267"
+    ],
+    "35589": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2473228"
+    ],
+    "35590": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | V1"
+    ],
+    "35591": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | C9"
+    ],
+    "35592": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | ECC055D"
+    ],
+    "35593": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | SP3"
+    ],
+    "35594": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | C00000004MANUFACTURER"
+    ],
+    "35595": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | V3GOOGLE"
+    ],
+    "35596": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | V2"
+    ],
+    "35597": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | FC-0698-45FF"
+    ],
+    "35598": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2478663"
+    ],
+    "35599": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2656368V2"
+    ],
+    "35600": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | UPDATERP157"
+    ],
+    "35601": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | X86"
+    ],
+    "35602": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB973688"
+    ],
+    "35603": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596880"
+    ],
+    "35604": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KLIM6"
+    ],
+    "35605": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | SP1"
+    ],
+    "35606": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596912"
+    ],
+    "35607": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2656405"
+    ],
+    "35608": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596705"
+    ],
+    "35609": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2656351"
+    ],
+    "35610": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | F-11D1"
+    ],
+    "35611": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596871"
+    ],
+    "35612": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | D793958"
+    ],
+    "35613": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | A6"
+    ],
+    "35614": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | V3"
+    ],
+    "35615": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | B9"
+    ],
+    "35616": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2539636"
+    ],
+    "35617": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596764"
+    ],
+    "35618": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2416472"
+    ],
+    "35619": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2572078"
+    ],
+    "35620": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | C0"
+    ],
+    "35621": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2686827"
+    ],
+    "35622": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2508958"
+    ],
+    "35623": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB967642"
+    ],
+    "35624": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2604121"
+    ],
+    "35625": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596672"
+    ],
+    "35626": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2597969"
+    ],
+    "35627": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | R2"
+    ],
+    "35628": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | R2011BMICROSOFT"
+    ],
+    "35629": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | UPDATERP154"
+    ],
+    "35630": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB973923"
+    ],
+    "35631": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | SASKUTIL6"
+    ],
+    "35632": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2518870"
+    ],
+    "35633": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | SP1MICROSOFT"
+    ],
+    "35634": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | F0"
+    ],
+    "35635": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | RP155"
+    ],
+    "35636": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | A217-F68D7A67B14D"
+    ],
+    "35637": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | A537-0000F8753ED1"
+    ],
+    "35638": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2656368"
+    ],
+    "35639": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | V9.36UNINSTALL"
+    ],
+    "35640": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | RP153"
+    ],
+    "35641": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2633870"
+    ],
+    "35642": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | A5"
+    ],
+    "35643": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | D7"
+    ],
+    "35644": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | V1.1QUICKSET32REALTEK"
+    ],
+    "35645": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596792"
+    ],
+    "35646": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2598041"
+    ],
+    "35647": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2597161"
+    ],
+    "35648": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | I5"
+    ],
+    "35649": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | EE000001"
+    ],
+    "35650": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | C00000004SERVICE"
+    ],
+    "35651": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | VC9"
+    ],
+    "35652": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | SP2"
+    ],
+    "35653": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB968369"
+    ],
+    "35654": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596785"
+    ],
+    "35655": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2596917"
+    ],
+    "35656": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | V1.0"
+    ],
+    "35657": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | A2"
+    ],
+    "35658": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2487367"
+    ],
+    "35659": [
+        "iptime_ftpd nas4dual-c82a95",
+        "MICROSOFT | SCANNER | KB2597162"
+    ],
+    "35660": [
+        "iptime_ftpd nas4dual-c82a95",
+        "NETGEAR | ROUTER | WNDR3700"
+    ],
+    "35661": [
+        "iptime_ftpd nas4dual-c82a95",
+        "NETGEAR | ROUTER | R3"
+    ],
+    "35662": [
+        "iptime_ftpd nas4dual-c82a95",
+        "BELKIN | ROUTER | N150"
+    ],
+    "35663": [
+        "iptime_ftpd nas4dual-c82a95",
+        "BELKIN | ROUTER | F6D4230"
+    ],
+    "35664": [
+        "iptime_ftpd nas4dual-c82a95",
+        "BELKIN | ROUTER | D8"
+    ],
+    "35665": [
+        "iptime_ftpd nas4dual-c82a95",
+        "BELKIN | ROUTER | F5D8236"
+    ],
+    "35666": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35667": [
+        "mikrotik 6.43rc51",
+        "MIKROTIK | ROUTER | ROUTEROS-643RC51"
+    ],
+    "35668": [
+        "mikrotik 6.43rc51",
+        "MIKROTIK | ROUTER | DM9X0X"
+    ],
+    "35669": [
+        "mikrotik 6.43rc51",
+        "MIKROTIK | ROUTER | RC51"
+    ],
+    "35670": [
+        "mikrotik 6.43rc51",
+        "MIKROTIK | ROUTER | X86"
+    ],
+    "35671": [
+        "mikrotik 6.43rc51",
+        "MIKROTIK | ROUTER | RC5"
+    ],
+    "35672": [
+        "mikrotik 6.43rc51",
+        "TP-LINK | SWITCH | CRS328"
+    ],
+    "35673": [
+        "mikrotik 6.43rc51",
+        "TP-LINK | SWITCH | CRS317"
+    ],
+    "35674": [
+        "mikrotik 6.43rc51",
+        "TP-LINK | SWITCH | CRS326"
+    ],
+    "35675": [
+        "mikrotik 6.43rc51",
+        "MEDIATEK | SWITCH | ATHEROS8327"
+    ],
+    "35676": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "35677": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V3.3"
+    ],
+    "35678": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V3"
+    ],
+    "35679": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "35680": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "35681": [
+        "mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "35682": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35683": [
+        "jodlowski mikrotik",
+        "MICROSOFT | ROUTER | WRT54G"
+    ],
+    "35684": [
+        "jodlowski mikrotik",
+        "MICROSOFT | ROUTER | WIN32-UPX"
+    ],
+    "35685": [
+        "jodlowski mikrotik",
+        "MICROSOFT | ROUTER | IMAP4D"
+    ],
+    "35686": [
+        "jodlowski mikrotik",
+        "MICROSOFT | ROUTER | WIN32-FSG"
+    ],
+    "35687": [
+        "jodlowski mikrotik",
+        "SYMANTEC | ROUTER | WRT54G"
+    ],
+    "35688": [
+        "jodlowski mikrotik",
+        "SYMANTEC | ROUTER | WIN32-UPX"
+    ],
+    "35689": [
+        "jodlowski mikrotik",
+        "SYMANTEC | ROUTER | IMAP4D"
+    ],
+    "35690": [
+        "jodlowski mikrotik",
+        "SYMANTEC | ROUTER | WIN32-FSG"
+    ],
+    "35691": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35692": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "35693": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "35694": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "35695": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35696": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "35697": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "35698": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "35699": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "35700": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "35701": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "35702": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "35703": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "35704": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "35705": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "35706": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "35707": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "35708": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "35709": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "35710": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "35711": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35712": [
+        "router",
+        "router"
+    ],
+    "35713": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35714": [
+        "router mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "35715": [
+        "router mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "35716": [
+        "router mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "35717": [
+        "router mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "35718": [
+        "router mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "35719": [
+        "router mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "35720": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35721": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35722": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35723": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "35724": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "35725": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "35726": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "35727": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "35728": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "35729": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "35730": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "35731": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "35732": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "35733": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "35734": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "35735": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "35736": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "35737": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "35738": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35739": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35740": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35741": [
+        "kl.babice_solar.el. mikrotik",
+        "MIKROTIK | ROUTER | RB450"
+    ],
+    "35742": [
+        "kl.babice_solar.el. mikrotik",
+        "MIKROTIK | ROUTER | RB1100AHX4"
+    ],
+    "35743": [
+        "kl.babice_solar.el. mikrotik",
+        "MIKROTIK | ROUTER | RB450GX4"
+    ],
+    "35744": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35745": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35746": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | CRS109-8G"
+    ],
+    "35747": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | X10"
+    ],
+    "35748": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB2011UIAS"
+    ],
+    "35749": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB951UI"
+    ],
+    "35750": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB760IGS"
+    ],
+    "35751": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB2011"
+    ],
+    "35752": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | CCR1036-12G"
+    ],
+    "35753": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB750GR2"
+    ],
+    "35754": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RBM33G"
+    ],
+    "35755": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB3011"
+    ],
+    "35756": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB750R2"
+    ],
+    "35757": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "35758": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB3011UIAS"
+    ],
+    "35759": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | CRS112-8G"
+    ],
+    "35760": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-CCR1036-12G"
+    ],
+    "35761": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | CRS125-24G"
+    ],
+    "35762": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB2011ILS"
+    ],
+    "35763": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | L3"
+    ],
+    "35764": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | AHX2"
+    ],
+    "35765": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | G-4S"
+    ],
+    "35766": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | B00B1ZJ2VG"
+    ],
+    "35767": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | TWELVE-10"
+    ],
+    "35768": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | L2TP"
+    ],
+    "35769": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | UI-2HND"
+    ],
+    "35770": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | OSL4"
+    ],
+    "35771": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | R2"
+    ],
+    "35772": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | V6"
+    ],
+    "35773": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | IPV6"
+    ],
+    "35774": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | X86"
+    ],
+    "35775": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | WFKXGR3BBP533H"
+    ],
+    "35776": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | CCR1016-12G"
+    ],
+    "35777": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | CCR1009-7G"
+    ],
+    "35778": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | LAYER3"
+    ],
+    "35779": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | S-2HND"
+    ],
+    "35780": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | RB960PGS"
+    ],
+    "35781": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | C-1S"
+    ],
+    "35782": [
+        "otny_router mikrotik",
+        "MIKROTIK | ROUTER | LEVEL6"
+    ],
+    "35783": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | V6"
+    ],
+    "35784": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | CRS112-8G"
+    ],
+    "35785": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | CRS125-24G"
+    ],
+    "35786": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | CRS109-8G"
+    ],
+    "35787": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | X86"
+    ],
+    "35788": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | CSS106-5G"
+    ],
+    "35789": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | RB260GS"
+    ],
+    "35790": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | LAYER3"
+    ],
+    "35791": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | S-2HND"
+    ],
+    "35792": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCH | G-4S"
+    ],
+    "35793": [
+        "otny_router mikrotik",
+        "MIKROTIK | SWITCHES | X86"
+    ],
+    "35794": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | X10"
+    ],
+    "35795": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB2011UIAS"
+    ],
+    "35796": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB2011"
+    ],
+    "35797": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | CCR1036-12G"
+    ],
+    "35798": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB750GR2"
+    ],
+    "35799": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB3011"
+    ],
+    "35800": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB750R2"
+    ],
+    "35801": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | L2"
+    ],
+    "35802": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB3011UIAS"
+    ],
+    "35803": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-CCR1036-12G"
+    ],
+    "35804": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB2011ILS"
+    ],
+    "35805": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | AHX2"
+    ],
+    "35806": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | G-4S"
+    ],
+    "35807": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | B00B1ZJ2VG"
+    ],
+    "35808": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | TWELVE-10"
+    ],
+    "35809": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | L2TP"
+    ],
+    "35810": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | UI-2HND"
+    ],
+    "35811": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | OSL4"
+    ],
+    "35812": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | R2"
+    ],
+    "35813": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | X86"
+    ],
+    "35814": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | WFKXGR3BBP533H"
+    ],
+    "35815": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | CCR1016-12G"
+    ],
+    "35816": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | S-2HND"
+    ],
+    "35817": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB960PGS"
+    ],
+    "35818": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | ROUTER | RB951UI"
+    ],
+    "35819": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | SWITCH | L2"
+    ],
+    "35820": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | SWITCH | X86"
+    ],
+    "35821": [
+        "otny_router mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "35822": [
+        "otny_router mikrotik",
+        "CISCO | ROUTER | RV042"
+    ],
+    "35823": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | TL-MR3420"
+    ],
+    "35824": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | AC5400"
+    ],
+    "35825": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | TL-WR845N"
+    ],
+    "35826": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | TL-WR941HP"
+    ],
+    "35827": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | C5400"
+    ],
+    "35828": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | C5400X"
+    ],
+    "35829": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | ADSL2"
+    ],
+    "35830": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | AC1200"
+    ],
+    "35831": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | TL-MR3620"
+    ],
+    "35832": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | AC750"
+    ],
+    "35833": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | C20"
+    ],
+    "35834": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | C5"
+    ],
+    "35835": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | AC1350"
+    ],
+    "35836": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | C6"
+    ],
+    "35837": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | TD-W8961N"
+    ],
+    "35838": [
+        "otny_router mikrotik",
+        "TP-LINK | ROUTER | L2"
+    ],
+    "35839": [
+        "otny_router mikrotik",
+        "TP-LINK | MODEM | TL-MR3420"
+    ],
+    "35840": [
+        "otny_router mikrotik",
+        "TP-LINK | MODEM | TL-WR941HP"
+    ],
+    "35841": [
+        "otny_router mikrotik",
+        "TP-LINK | MODEM | ADSL2"
+    ],
+    "35842": [
+        "otny_router mikrotik",
+        "TP-LINK | MODEM | AC750"
+    ],
+    "35843": [
+        "otny_router mikrotik",
+        "TP-LINK | MODEM | C20"
+    ],
+    "35844": [
+        "otny_router mikrotik",
+        "TP-LINK | MODEM | TD-W8961N"
+    ],
+    "35845": [
+        "otny_router mikrotik",
+        "TP-LINK | MODEM | L2"
+    ],
+    "35846": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35847": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "35848": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "35849": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "35850": [
+        "mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "35851": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35852": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | UBIQUITI-BULLET2"
+    ],
+    "35853": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | NANOSTATION-M2"
+    ],
+    "35854": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-711-5HN"
+    ],
+    "35855": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | V6.45"
+    ],
+    "35856": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | G-2HND"
+    ],
+    "35857": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-1100"
+    ],
+    "35858": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | RB433AH"
+    ],
+    "35859": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | RB250GS"
+    ],
+    "35860": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | P158171"
+    ],
+    "35861": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | V6.44"
+    ],
+    "35862": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-433AH"
+    ],
+    "35863": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-RB450G"
+    ],
+    "35864": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | UBIQUITI-NANOSTATION5"
+    ],
+    "35865": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-750G"
+    ],
+    "35866": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | RB493AH"
+    ],
+    "35867": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTEBOARD-RB250GS"
+    ],
+    "35868": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-750"
+    ],
+    "35869": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | RB711-5HN"
+    ],
+    "35870": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | HND-5-LAN"
+    ],
+    "35871": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTEBOARD-RB493AH"
+    ],
+    "35872": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-RB435G"
+    ],
+    "35873": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | RB951G"
+    ],
+    "35874": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-1000U"
+    ],
+    "35875": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ROUTERBOARD-RB951G"
+    ],
+    "35876": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | MIKROTIK-RB951-2N"
+    ],
+    "35877": [
+        "jeka mikrotik",
+        "MIKROTIK | ROUTER | ASP24"
+    ],
+    "35878": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | UBIQUITI-BULLET2"
+    ],
+    "35879": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | NANOSTATION-M2"
+    ],
+    "35880": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | G-2HND"
+    ],
+    "35881": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-711-5HN"
+    ],
+    "35882": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-1100"
+    ],
+    "35883": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | RB433AH"
+    ],
+    "35884": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | RB250GS"
+    ],
+    "35885": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | P158171"
+    ],
+    "35886": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-433AH"
+    ],
+    "35887": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-RB450G"
+    ],
+    "35888": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | UBIQUITI-NANOSTATION5"
+    ],
+    "35889": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-750G"
+    ],
+    "35890": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | RB493AH"
+    ],
+    "35891": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTEBOARD-RB250GS"
+    ],
+    "35892": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-750"
+    ],
+    "35893": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | RB711-5HN"
+    ],
+    "35894": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | HND-5-LAN"
+    ],
+    "35895": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTEBOARD-RB493AH"
+    ],
+    "35896": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-RB435G"
+    ],
+    "35897": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | RB951G"
+    ],
+    "35898": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-1000U"
+    ],
+    "35899": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ROUTERBOARD-RB951G"
+    ],
+    "35900": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | MIKROTIK-RB951-2N"
+    ],
+    "35901": [
+        "jeka mikrotik",
+        "ROUTERBOARD | ROUTER | ASP24"
+    ],
+    "35902": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35903": [
+        "_dabrowkakotlownia mikrotik",
+        "HUAWEI | ROUTER | E5573C"
+    ],
+    "35904": [
+        "_dabrowkakotlownia mikrotik",
+        "HUAWEI | ROUTER | B525S"
+    ],
+    "35905": [
+        "_dabrowkakotlownia mikrotik",
+        "HUAWEI | MODEM | E5573C"
+    ],
+    "35906": [
+        "_dabrowkakotlownia mikrotik",
+        "TP-LINK | ROUTER | R1"
+    ],
+    "35907": [
+        "_dabrowkakotlownia mikrotik",
+        "TP-LINK | ROUTER | TL-WR1043ND"
+    ],
+    "35908": [
+        "_dabrowkakotlownia mikrotik",
+        "CISCO | SWITCH | WS-C2950SX"
+    ],
+    "35909": [
+        "_dabrowkakotlownia mikrotik",
+        "ASUS | ROUTER | RT-AC750"
+    ],
+    "35910": [
+        "asus",
+        "asus"
+    ],
+    "35911": [
+        "asus rt-n13u",
+        "ASUS | ROUTER | N13U"
+    ],
+    "35912": [
+        "asus rt-n13u",
+        "ASUS | ROUTER | RT-N13U"
+    ],
+    "35913": [
+        "asus rt-n13u",
+        "ASUS | ROUTER | USB-N13"
+    ],
+    "35914": [
+        "asus rt-n13u",
+        "ASUS | PRINTER | N13U"
+    ],
+    "35915": [
+        "asus rt-n13u",
+        "ASUS | PRINTER | RT-N13U"
+    ],
+    "35916": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35917": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | RB3011UIAS"
+    ],
+    "35918": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | TCE032"
+    ],
+    "35919": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | IPV6"
+    ],
+    "35920": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | CERTIFICATESEARCHTR0486AUG"
+    ],
+    "35921": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | IPV6E9623"
+    ],
+    "35922": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | INE0092AUG"
+    ],
+    "35923": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | UME018"
+    ],
+    "35924": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | RB760IGS"
+    ],
+    "35925": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | CRS326-24G"
+    ],
+    "35926": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | L2-L3"
+    ],
+    "35927": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | RB1"
+    ],
+    "35928": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | RB951UI"
+    ],
+    "35929": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | NA197WORK"
+    ],
+    "35930": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | RB2011UIAS"
+    ],
+    "35931": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | RE013"
+    ],
+    "35932": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | WE024"
+    ],
+    "35933": [
+        "mikrotik-kpi mikrotik",
+        "MIKROTIK | ROUTER | MTCIPV6E"
+    ],
+    "35934": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35935": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35936": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | NDR2"
+    ],
+    "35937": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | LITE5"
+    ],
+    "35938": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB2011UIAS"
+    ],
+    "35939": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | SA15R"
+    ],
+    "35940": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | R6"
+    ],
+    "35941": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | X40X20"
+    ],
+    "35942": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB3011"
+    ],
+    "35943": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB941-2ND"
+    ],
+    "35944": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | X10"
+    ],
+    "35945": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | ECI-2550H"
+    ],
+    "35946": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | X92"
+    ],
+    "35947": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | L4"
+    ],
+    "35948": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB3011UIAS"
+    ],
+    "35949": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB951UI"
+    ],
+    "35950": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | I5"
+    ],
+    "35951": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | F4"
+    ],
+    "35952": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | X2"
+    ],
+    "35953": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB750GR3"
+    ],
+    "35954": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RBMETALG-52SHPACN"
+    ],
+    "35955": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB2011"
+    ],
+    "35956": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | J1900"
+    ],
+    "35957": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB750"
+    ],
+    "35958": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB750R2"
+    ],
+    "35959": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | D4020V12HB"
+    ],
+    "35960": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | D525"
+    ],
+    "35961": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | DC12V"
+    ],
+    "35962": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | AHX2"
+    ],
+    "35963": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | I3"
+    ],
+    "35964": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | OSL4"
+    ],
+    "35965": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | I7"
+    ],
+    "35966": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB931-2ND"
+    ],
+    "35967": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | RB760IGS"
+    ],
+    "35968": [
+        "red_6 mikrotik",
+        "MIKROTIK | ROUTER | R2"
+    ],
+    "35969": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | RB750R2"
+    ],
+    "35970": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | L4"
+    ],
+    "35971": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | RB3011"
+    ],
+    "35972": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | RB3011UIAS"
+    ],
+    "35973": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | X10"
+    ],
+    "35974": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | RB2011UIAS"
+    ],
+    "35975": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | RB2011"
+    ],
+    "35976": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | R2"
+    ],
+    "35977": [
+        "red_6 mikrotik",
+        "ROUTERBOARD | ROUTER | RB750"
+    ],
+    "35978": [
+        "red_6 mikrotik",
+        "INTEL | ROUTER | SA15R"
+    ],
+    "35979": [
+        "red_6 mikrotik",
+        "INTEL | ROUTER | D525"
+    ],
+    "35980": [
+        "red_6 mikrotik",
+        "INTEL | ROUTER | I5"
+    ],
+    "35981": [
+        "red_6 mikrotik",
+        "INTEL | ROUTER | I7"
+    ],
+    "35982": [
+        "red_6 mikrotik",
+        "INTEL | ROUTER | R2"
+    ],
+    "35983": [
+        "red_6 mikrotik",
+        "INTEL | ROUTER | I3"
+    ],
+    "35984": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35985": [
+        "sulmin mikrotik",
+        "ASUS | ROUTER | B1"
+    ],
+    "35986": [
+        "sulmin mikrotik",
+        "ASUS | ROUTER | RT-AC66U"
+    ],
+    "35987": [
+        "sulmin mikrotik",
+        "ASUS | ROUTER | AC2600"
+    ],
+    "35988": [
+        "sulmin mikrotik",
+        "NETGEAR | ROUTER | X4S"
+    ],
+    "35989": [
+        "sulmin mikrotik",
+        "NETGEAR | ROUTER | R7800"
+    ],
+    "35990": [
+        "sulmin mikrotik",
+        "TP-LINK | SWITCHES | TL-SG108E"
+    ],
+    "35991": [
+        "sulmin mikrotik",
+        "TP-LINK | SWITCHES | TL-SG2008"
+    ],
+    "35992": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "35993": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | C14"
+    ],
+    "35994": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | IMSM147"
+    ],
+    "35995": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "35996": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | B-8"
+    ],
+    "35997": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | IMSM145"
+    ],
+    "35998": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | LEVEL6"
+    ],
+    "35999": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | L6"
+    ],
+    "36000": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | TILE-GX36"
+    ],
+    "36001": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | ROUTER-CCR1036-12G"
+    ],
+    "36002": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | CCR1036"
+    ],
+    "36003": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | RS232C"
+    ],
+    "36004": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | DDR3"
+    ],
+    "36005": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | X145MM55MMTEMPERATURE"
+    ],
+    "36006": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | RM1U"
+    ],
+    "36007": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | DB9"
+    ],
+    "36008": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | V6"
+    ],
+    "36009": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | MEMORIACCR1036INDUSTRIAL"
+    ],
+    "36010": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | CCR1036-12G"
+    ],
+    "36011": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | RS232"
+    ],
+    "36012": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | IMSM146"
+    ],
+    "36013": [
+        "peco145 mikrotik",
+        "MIKROTIK | ROUTER | MLB-896607938-MIKROTIK"
+    ],
+    "36014": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36015": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | D5"
+    ],
+    "36016": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | E3"
+    ],
+    "36017": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RB921GS"
+    ],
+    "36018": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | R1"
+    ],
+    "36019": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RB760IGS"
+    ],
+    "36020": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | TILE-GX9"
+    ],
+    "36021": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | HACD2HND"
+    ],
+    "36022": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RB951UI"
+    ],
+    "36023": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | B4"
+    ],
+    "36024": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RB941-2ND"
+    ],
+    "36025": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | L4"
+    ],
+    "36026": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | G-1C"
+    ],
+    "36027": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | B9"
+    ],
+    "36028": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | S-1S"
+    ],
+    "36029": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RBD52G"
+    ],
+    "36030": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RB4011IGS"
+    ],
+    "36031": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RB931-2ND"
+    ],
+    "36032": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | CRS112-8G"
+    ],
+    "36033": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RBSXTLTE3-7"
+    ],
+    "36034": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | L5"
+    ],
+    "36035": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | E5"
+    ],
+    "36036": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | C1"
+    ],
+    "36037": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | A1"
+    ],
+    "36038": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | AC2"
+    ],
+    "36039": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | S1"
+    ],
+    "36040": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | L3"
+    ],
+    "36041": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | MIK-CCR10097G1C1S"
+    ],
+    "36042": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RB952UI"
+    ],
+    "36043": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | CRS109-8G"
+    ],
+    "36044": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | C2"
+    ],
+    "36045": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | MIK-CCR1009-7G"
+    ],
+    "36046": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RB951G"
+    ],
+    "36047": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | MIK-CRS1098G1S2HNDIN"
+    ],
+    "36048": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RBLHG-2ND"
+    ],
+    "36049": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | S-2HND"
+    ],
+    "36050": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | D2"
+    ],
+    "36051": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | G-1"
+    ],
+    "36052": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | PXA1802"
+    ],
+    "36053": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | R11E"
+    ],
+    "36054": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | CRS212-1G"
+    ],
+    "36055": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | LITE5"
+    ],
+    "36056": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RBWAPR-2NDR11E"
+    ],
+    "36057": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | RBWAPR-2ND"
+    ],
+    "36058": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | ROUTER | G-10S"
+    ],
+    "36059": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | CSS326-24G"
+    ],
+    "36060": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | MIK-CRS1098G1S2HNDIN"
+    ],
+    "36061": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | S1"
+    ],
+    "36062": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | S-2HND"
+    ],
+    "36063": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | S-1S"
+    ],
+    "36064": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | CRS112-8G"
+    ],
+    "36065": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | G-1"
+    ],
+    "36066": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | CRS109-8G"
+    ],
+    "36067": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | CRS212-1G"
+    ],
+    "36068": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | L5"
+    ],
+    "36069": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | SWITCH | G-10S"
+    ],
+    "36070": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | MODEM | R1"
+    ],
+    "36071": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | MODEM | PXA1802"
+    ],
+    "36072": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | MODEM | R11E"
+    ],
+    "36073": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | MODEM | RBWAPR-2NDR11E"
+    ],
+    "36074": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | MODEM | RBWAPR-2ND"
+    ],
+    "36075": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | MODEM | L4"
+    ],
+    "36076": [
+        "mik-minerva mikrotik",
+        "MIKROTIK | MODEM | A1"
+    ],
+    "36077": [
+        "mik-minerva mikrotik",
+        "TELE2 | MODEM | TELE2"
+    ],
+    "36078": [
+        "mik-minerva mikrotik",
+        "TELE2 | MODEM | E2"
+    ],
+    "36079": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36080": [
+        "karaam mikrotik",
+        "MIKROTIK | ROUTER | MIKROTIK-1-PORTS"
+    ],
+    "36081": [
+        "karaam mikrotik",
+        "MIKROTIK | ROUTER | ITE-2000.HTML"
+    ],
+    "36082": [
+        "karaam mikrotik",
+        "MIKROTIK | ROUTER | SXT-HG5-AC"
+    ],
+    "36083": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36084": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36085": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "36086": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "36087": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "36088": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "36089": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "36090": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "36091": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "36092": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "36093": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "36094": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "36095": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36096": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "36097": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "36098": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "36099": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "36100": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36101": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36102": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36103": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "36104": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "36105": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "36106": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "36107": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "36108": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "36109": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "36110": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "36111": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "36112": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36113": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "36114": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "36115": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "36116": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "36117": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "36118": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36119": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "36120": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "36121": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36122": [
+        "mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "36123": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36124": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | MD5"
+    ],
+    "36125": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | RJ45"
+    ],
+    "36126": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | IPQ4019"
+    ],
+    "36127": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | IPV6"
+    ],
+    "36128": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "36129": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | H1"
+    ],
+    "36130": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "36131": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | G-2S"
+    ],
+    "36132": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | UK16"
+    ],
+    "36133": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | H2S"
+    ],
+    "36134": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | V6"
+    ],
+    "36135": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | M3P"
+    ],
+    "36136": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "36137": [
+        "appleton mikrotik",
+        "MIKROTIK | ROUTER | GNS3"
+    ],
+    "36138": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCHES | H1"
+    ],
+    "36139": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | MD5"
+    ],
+    "36140": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36141": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | IPQ4019"
+    ],
+    "36142": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | IPV6"
+    ],
+    "36143": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | H1"
+    ],
+    "36144": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | V2.6"
+    ],
+    "36145": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | G-2S"
+    ],
+    "36146": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | UK16"
+    ],
+    "36147": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | H2S"
+    ],
+    "36148": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | V6"
+    ],
+    "36149": [
+        "appleton mikrotik",
+        "MIKROTIK | SWITCH | GNS3"
+    ],
+    "36150": [
+        "appleton mikrotik",
+        "MIKROTIK | GATEWAY | H1"
+    ],
+    "36151": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | MD5"
+    ],
+    "36152": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | RJ45"
+    ],
+    "36153": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | IPQ4019"
+    ],
+    "36154": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | IPV6"
+    ],
+    "36155": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | H1"
+    ],
+    "36156": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | G-2S"
+    ],
+    "36157": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | UK16"
+    ],
+    "36158": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | H2S"
+    ],
+    "36159": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | V6"
+    ],
+    "36160": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | GNS3"
+    ],
+    "36161": [
+        "appleton mikrotik",
+        "CISCO | ROUTER | E900"
+    ],
+    "36162": [
+        "appleton mikrotik",
+        "CISCO | SWITCHES | H1"
+    ],
+    "36163": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | MD5"
+    ],
+    "36164": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | RJ45"
+    ],
+    "36165": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | IPQ4019"
+    ],
+    "36166": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | IPV6"
+    ],
+    "36167": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | H1"
+    ],
+    "36168": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | G-2S"
+    ],
+    "36169": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | UK16"
+    ],
+    "36170": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | H2S"
+    ],
+    "36171": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | V6"
+    ],
+    "36172": [
+        "appleton mikrotik",
+        "CISCO | SWITCH | GNS3"
+    ],
+    "36173": [
+        "appleton mikrotik",
+        "CISCO | GATEWAY | H1"
+    ],
+    "36174": [
+        "appleton mikrotik",
+        "MICROSOFT | ROUTER | H1"
+    ],
+    "36175": [
+        "appleton mikrotik",
+        "MICROSOFT | SWITCHES | H1"
+    ],
+    "36176": [
+        "appleton mikrotik",
+        "MICROSOFT | GATEWAY | H1"
+    ],
+    "36177": [
+        "appleton mikrotik",
+        "DELPHI | ROUTER | H1"
+    ],
+    "36178": [
+        "appleton mikrotik",
+        "DELPHI | SWITCHES | H1"
+    ],
+    "36179": [
+        "appleton mikrotik",
+        "NETGEAR | ROUTER | RJ45"
+    ],
+    "36180": [
+        "appleton mikrotik",
+        "NETGEAR | ROUTER | IPQ4019"
+    ],
+    "36181": [
+        "appleton mikrotik",
+        "NETGEAR | ROUTER | H1"
+    ],
+    "36182": [
+        "appleton mikrotik",
+        "NETGEAR | ROUTER | G-2S"
+    ],
+    "36183": [
+        "appleton mikrotik",
+        "NETGEAR | ROUTER | H2S"
+    ],
+    "36184": [
+        "appleton mikrotik",
+        "NETGEAR | SWITCHES | H1"
+    ],
+    "36185": [
+        "appleton mikrotik",
+        "NETGEAR | GATEWAY | H1"
+    ],
+    "36186": [
+        "appleton mikrotik",
+        "6WIND | ROUTER | RJ45"
+    ],
+    "36187": [
+        "appleton mikrotik",
+        "6WIND | ROUTER | IPQ4019"
+    ],
+    "36188": [
+        "appleton mikrotik",
+        "6WIND | ROUTER | H1"
+    ],
+    "36189": [
+        "appleton mikrotik",
+        "6WIND | ROUTER | G-2S"
+    ],
+    "36190": [
+        "appleton mikrotik",
+        "6WIND | ROUTER | H2S"
+    ],
+    "36191": [
+        "appleton mikrotik",
+        "6WIND | SWITCHES | H1"
+    ],
+    "36192": [
+        "appleton mikrotik",
+        "6WIND | GATEWAY | H1"
+    ],
+    "36193": [
+        "appleton mikrotik",
+        "TP-LINK | ROUTER | H1"
+    ],
+    "36194": [
+        "appleton mikrotik",
+        "TP-LINK | SWITCHES | H1"
+    ],
+    "36195": [
+        "appleton mikrotik",
+        "TP-LINK | GATEWAY | H1"
+    ],
+    "36196": [
+        "appleton mikrotik",
+        "QUALCOMM | ROUTER | H2S"
+    ],
+    "36197": [
+        "appleton mikrotik",
+        "QUALCOMM | ROUTER | RJ45"
+    ],
+    "36198": [
+        "appleton mikrotik",
+        "QUALCOMM | ROUTER | G-2S"
+    ],
+    "36199": [
+        "appleton mikrotik",
+        "QUALCOMM | ROUTER | IPQ4019"
+    ],
+    "36200": [
+        "appleton mikrotik",
+        "QUALCOMM | SWITCH | H2S"
+    ],
+    "36201": [
+        "appleton mikrotik",
+        "QUALCOMM | SWITCH | RJ45"
+    ],
+    "36202": [
+        "appleton mikrotik",
+        "QUALCOMM | SWITCH | G-2S"
+    ],
+    "36203": [
+        "appleton mikrotik",
+        "QUALCOMM | SWITCH | IPQ4019"
+    ],
+    "36204": [
+        "appleton mikrotik",
+        "VERIZON | ROUTER | H1"
+    ],
+    "36205": [
+        "appleton mikrotik",
+        "VERIZON | SWITCHES | H1"
+    ],
+    "36206": [
+        "appleton mikrotik",
+        "VERIZON | GATEWAY | H1"
+    ],
+    "36207": [
+        "appleton mikrotik",
+        "IDM | ROUTER | H1"
+    ],
+    "36208": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36209": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "36210": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "36211": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "36212": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | GNS3"
+    ],
+    "36213": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | WG-500P"
+    ],
+    "36214": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | RB433"
+    ],
+    "36215": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "36216": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | RB411"
+    ],
+    "36217": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | X4"
+    ],
+    "36218": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "36219": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | RB1100AHX4"
+    ],
+    "36220": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | CLOUD4WI"
+    ],
+    "36221": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | X86"
+    ],
+    "36222": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | RB260GS"
+    ],
+    "36223": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "36224": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | RB711"
+    ],
+    "36225": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | ROUTER | IP67"
+    ],
+    "36226": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "36227": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "36228": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "36229": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36230": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "36231": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "36232": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "36233": [
+        "mkt-autoservporvenir[main mikrotik",
+        "MIKROTIK | PRINTER | WG-500P"
+    ],
+    "36234": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | V1A"
+    ],
+    "36235": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | R2"
+    ],
+    "36236": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | AES128"
+    ],
+    "36237": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | RB433"
+    ],
+    "36238": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | RB435"
+    ],
+    "36239": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | RB411"
+    ],
+    "36240": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | ETHER2"
+    ],
+    "36241": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | X86"
+    ],
+    "36242": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | V1"
+    ],
+    "36243": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | RB493"
+    ],
+    "36244": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | RB493AH"
+    ],
+    "36245": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | ETHER1"
+    ],
+    "36246": [
+        "mkt-autoservporvenir[main mikrotik",
+        "ROUTERBOARD | ROUTER | RB711"
+    ],
+    "36247": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36248": [
+        "asus",
+        "asus"
+    ],
+    "36249": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RT-AC52U"
+    ],
+    "36250": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | B1"
+    ],
+    "36251": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RT-AC1200"
+    ],
+    "36252": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WPA2WPA2WAN"
+    ],
+    "36253": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | LINUXANDROIDDIMENSIONS0.98"
+    ],
+    "36254": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WI-FI400GOOGLE"
+    ],
+    "36255": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RT-N12"
+    ],
+    "36256": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | DSL-AC68U"
+    ],
+    "36257": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AX4"
+    ],
+    "36258": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | IG00D0"
+    ],
+    "36259": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | L2TP"
+    ],
+    "36260": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | IPV4"
+    ],
+    "36261": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RJ-45"
+    ],
+    "36262": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | NETWORKS6MEDIA"
+    ],
+    "36263": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | INCREDIBLE261TRENDINGBEST"
+    ],
+    "36264": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WPA2-PSK"
+    ],
+    "36265": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | PORTS4"
+    ],
+    "36266": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | PORTS1X"
+    ],
+    "36267": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | N300"
+    ],
+    "36268": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WPA2-ENTERPRISE"
+    ],
+    "36269": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AX8"
+    ],
+    "36270": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | G-AC55U"
+    ],
+    "36271": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WIRELESS-AC1700"
+    ],
+    "36272": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AC1750"
+    ],
+    "36273": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | ROUTER284NETGEAR"
+    ],
+    "36274": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | BR-6208AC"
+    ],
+    "36275": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AC52U"
+    ],
+    "36276": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AC1200"
+    ],
+    "36277": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | BRANDASUSMODELRT-AC52UDETAILS"
+    ],
+    "36278": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RP-AC56"
+    ],
+    "36279": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WPA2-AES"
+    ],
+    "36280": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | ADSL2"
+    ],
+    "36281": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | PASS-THROUTHL2TP"
+    ],
+    "36282": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RBK50"
+    ],
+    "36283": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | CROWN230LATEST"
+    ],
+    "36284": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | INTERFACE1"
+    ],
+    "36285": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | ROUTERRJ-45"
+    ],
+    "36286": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | M5"
+    ],
+    "36287": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | PORTS1LAN"
+    ],
+    "36288": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | SERVICES3G"
+    ],
+    "36289": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | IPV6"
+    ],
+    "36290": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WIRELESS-AC750"
+    ],
+    "36291": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | FEATURES802.11AC"
+    ],
+    "36292": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | VDSL2"
+    ],
+    "36293": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | T2R"
+    ],
+    "36294": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | PORTS4X"
+    ],
+    "36295": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | CONTENTSRT-AC52U"
+    ],
+    "36296": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RT-AX88U"
+    ],
+    "36297": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WEIGHT0.60"
+    ],
+    "36298": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | BAND2.4"
+    ],
+    "36299": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | X1"
+    ],
+    "36300": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WPA2"
+    ],
+    "36301": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RT-ACRH17"
+    ],
+    "36302": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | BM3N00"
+    ],
+    "36303": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | IPV6SECURITY64"
+    ],
+    "36304": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | SPEED433MBIT"
+    ],
+    "36305": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AC750"
+    ],
+    "36306": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | CODERT-AC52UREAD"
+    ],
+    "36307": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AC-1900"
+    ],
+    "36308": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | INCREDIBLE261NETGEAR"
+    ],
+    "36309": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | ROUTER-802-11A"
+    ],
+    "36310": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | PORTS1"
+    ],
+    "36311": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | G-N12"
+    ],
+    "36312": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | MOUNTABLEYESSIZE187X145X77MMSOFTWAREGUEST"
+    ],
+    "36313": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | DESKTOP-90IG00D0BM3N00"
+    ],
+    "36314": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | WIRELESS-AC1900"
+    ],
+    "36315": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | RT-AC66W"
+    ],
+    "36316": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AC1750COLOR"
+    ],
+    "36317": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "36318": [
+        "asus rt-ac52u",
+        "ASUS | ROUTER | STANDARD802.11ACBANDS2"
+    ],
+    "36319": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | RT-AC52U"
+    ],
+    "36320": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | WPA2WPA2WAN"
+    ],
+    "36321": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | LINUXANDROIDDIMENSIONS0.98"
+    ],
+    "36322": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | L2TP"
+    ],
+    "36323": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | IPV4"
+    ],
+    "36324": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | RJ-45"
+    ],
+    "36325": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | WPA2-PSK"
+    ],
+    "36326": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | PORTS4"
+    ],
+    "36327": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | WPA2-ENTERPRISE"
+    ],
+    "36328": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | AC52U"
+    ],
+    "36329": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | BRANDASUSMODELRT-AC52UDETAILS"
+    ],
+    "36330": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | PASS-THROUTHL2TP"
+    ],
+    "36331": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | INTERFACE1"
+    ],
+    "36332": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | ROUTERRJ-45"
+    ],
+    "36333": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | AC450"
+    ],
+    "36334": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | IPV6"
+    ],
+    "36335": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | WIRELESS-AC750"
+    ],
+    "36336": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | FEATURES802.11AC"
+    ],
+    "36337": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | CONTENTSRT-AC52U"
+    ],
+    "36338": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | BAND2.4"
+    ],
+    "36339": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | WPA2"
+    ],
+    "36340": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | AC750"
+    ],
+    "36341": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | PORTS1"
+    ],
+    "36342": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | WEIGHT0.60"
+    ],
+    "36343": [
+        "asus rt-ac52u",
+        "ASUS | PRINTER | IPV6SECURITY64"
+    ],
+    "36344": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | RT-AC52U"
+    ],
+    "36345": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | DSL-AC68U"
+    ],
+    "36346": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | NETWORKS6MEDIA"
+    ],
+    "36347": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | PORTS4"
+    ],
+    "36348": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | PORTS1X"
+    ],
+    "36349": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | WPA2-ENTERPRISE"
+    ],
+    "36350": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | BR-6208AC"
+    ],
+    "36351": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | AC52U"
+    ],
+    "36352": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | WPA2-AES"
+    ],
+    "36353": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | ADSL2"
+    ],
+    "36354": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | PORTS1LAN"
+    ],
+    "36355": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | SERVICES3G"
+    ],
+    "36356": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | VDSL2"
+    ],
+    "36357": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | PORTS4X"
+    ],
+    "36358": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | X1"
+    ],
+    "36359": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | WPA2"
+    ],
+    "36360": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | SPEED433MBIT"
+    ],
+    "36361": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | CODERT-AC52UREAD"
+    ],
+    "36362": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | PORTS1"
+    ],
+    "36363": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | MOUNTABLEYESSIZE187X145X77MMSOFTWAREGUEST"
+    ],
+    "36364": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | AC1900"
+    ],
+    "36365": [
+        "asus rt-ac52u",
+        "ASUS | MODEM | STANDARD802.11ACBANDS2"
+    ],
+    "36366": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | RT-AC52U"
+    ],
+    "36367": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | WPA2WPA2WAN"
+    ],
+    "36368": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | LINUXANDROIDDIMENSIONS0.98"
+    ],
+    "36369": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | L2TP"
+    ],
+    "36370": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | IPV4"
+    ],
+    "36371": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | RJ-45"
+    ],
+    "36372": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | WPA2-PSK"
+    ],
+    "36373": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | PORTS4"
+    ],
+    "36374": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | WPA2-ENTERPRISE"
+    ],
+    "36375": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | AC52U"
+    ],
+    "36376": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | BRANDASUSMODELRT-AC52UDETAILS"
+    ],
+    "36377": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | PASS-THROUTHL2TP"
+    ],
+    "36378": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | INTERFACE1"
+    ],
+    "36379": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | ROUTERRJ-45"
+    ],
+    "36380": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | AC450"
+    ],
+    "36381": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | IPV6"
+    ],
+    "36382": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | WIRELESS-AC750"
+    ],
+    "36383": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | FEATURES802.11AC"
+    ],
+    "36384": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | CONTENTSRT-AC52U"
+    ],
+    "36385": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | BAND2.4"
+    ],
+    "36386": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | WPA2"
+    ],
+    "36387": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | AC750"
+    ],
+    "36388": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | PORTS1"
+    ],
+    "36389": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | WEIGHT0.60"
+    ],
+    "36390": [
+        "asus rt-ac52u",
+        "DASHBOARD | PRINTER | IPV6SECURITY64"
+    ],
+    "36391": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | RT-AC52U"
+    ],
+    "36392": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | WPA2WPA2WAN"
+    ],
+    "36393": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | LINUXANDROIDDIMENSIONS0.98"
+    ],
+    "36394": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | L2TP"
+    ],
+    "36395": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | IPV4"
+    ],
+    "36396": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | RJ-45"
+    ],
+    "36397": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | WPA2-PSK"
+    ],
+    "36398": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | PORTS4"
+    ],
+    "36399": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | WPA2-ENTERPRISE"
+    ],
+    "36400": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | AC52U"
+    ],
+    "36401": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | BRANDASUSMODELRT-AC52UDETAILS"
+    ],
+    "36402": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | PASS-THROUTHL2TP"
+    ],
+    "36403": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | INTERFACE1"
+    ],
+    "36404": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | ROUTERRJ-45"
+    ],
+    "36405": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | IPV6"
+    ],
+    "36406": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | WIRELESS-AC750"
+    ],
+    "36407": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | FEATURES802.11AC"
+    ],
+    "36408": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | CONTENTSRT-AC52U"
+    ],
+    "36409": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | BAND2.4"
+    ],
+    "36410": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | WPA2"
+    ],
+    "36411": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | AC750"
+    ],
+    "36412": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | PORTS1"
+    ],
+    "36413": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | WEIGHT0.60"
+    ],
+    "36414": [
+        "asus rt-ac52u",
+        "STAR | ROUTER | IPV6SECURITY64"
+    ],
+    "36415": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36416": [
+        "asus",
+        "asus"
+    ],
+    "36417": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AX11000"
+    ],
+    "36418": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | RT-AC5300"
+    ],
+    "36419": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | D2C"
+    ],
+    "36420": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | FM1SOCKET"
+    ],
+    "36421": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | FM2SOCKET"
+    ],
+    "36422": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | GURU3D"
+    ],
+    "36423": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AC5300"
+    ],
+    "36424": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AW3420DW"
+    ],
+    "36425": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | GURU3D.COM"
+    ],
+    "36426": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AX8"
+    ],
+    "36427": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | FI-6"
+    ],
+    "36428": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | B3"
+    ],
+    "36429": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | PSUS80"
+    ],
+    "36430": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AX88UASUS"
+    ],
+    "36431": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AX88U"
+    ],
+    "36432": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AM3"
+    ],
+    "36433": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | X1440"
+    ],
+    "36434": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | BAND-AX6000-ROUTER"
+    ],
+    "36435": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | B1"
+    ],
+    "36436": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | RT-AC66U"
+    ],
+    "36437": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AM4SOCKET"
+    ],
+    "36438": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | UD3H"
+    ],
+    "36439": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | K60"
+    ],
+    "36440": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | MEMORYDDR-2"
+    ],
+    "36441": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | MEMORYDDR-3"
+    ],
+    "36442": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AC88U"
+    ],
+    "36443": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | GT-AC5300-"
+    ],
+    "36444": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | RT-AX88U.189419"
+    ],
+    "36445": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | GT-AC5300"
+    ],
+    "36446": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | M1"
+    ],
+    "36447": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | BCM49408"
+    ],
+    "36448": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AX6000"
+    ],
+    "36449": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | RT-AX88U."
+    ],
+    "36450": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | TAGSNETWORKASUS802.11AXWI"
+    ],
+    "36451": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | TR4"
+    ],
+    "36452": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | RAX80"
+    ],
+    "36453": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | MEMORYDDR-4"
+    ],
+    "36454": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | FI-6-ROUTER"
+    ],
+    "36455": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AC2600"
+    ],
+    "36456": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | C5400X"
+    ],
+    "36457": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | RT-AX88U"
+    ],
+    "36458": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AM2"
+    ],
+    "36459": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | PSU80"
+    ],
+    "36460": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | RT-AC88U"
+    ],
+    "36461": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | REVIEWZ68X"
+    ],
+    "36462": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | RT-AC86U"
+    ],
+    "36463": [
+        "asus rt-ax88u",
+        "ASUS | ROUTER | AC2900"
+    ],
+    "36464": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | AX11000"
+    ],
+    "36465": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | RAX200"
+    ],
+    "36466": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | X4S"
+    ],
+    "36467": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | RAX80"
+    ],
+    "36468": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | AX88U"
+    ],
+    "36469": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | AD7200"
+    ],
+    "36470": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | AX200"
+    ],
+    "36471": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | AX12"
+    ],
+    "36472": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | R9000"
+    ],
+    "36473": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | X4"
+    ],
+    "36474": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | RT-AX88U"
+    ],
+    "36475": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | X10"
+    ],
+    "36476": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | R7800"
+    ],
+    "36477": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | X2"
+    ],
+    "36478": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | AX8"
+    ],
+    "36479": [
+        "asus rt-ax88u",
+        "NETGEAR | ROUTER | AX6000"
+    ],
+    "36480": [
+        "asus rt-ax88u",
+        "TP-LINK | ROUTER | RAX80"
+    ],
+    "36481": [
+        "asus rt-ax88u",
+        "TP-LINK | ROUTER | AX88U"
+    ],
+    "36482": [
+        "asus rt-ax88u",
+        "TP-LINK | ROUTER | C5400X"
+    ],
+    "36483": [
+        "asus rt-ax88u",
+        "TP-LINK | ROUTER | RT-AX88U"
+    ],
+    "36484": [
+        "asus rt-ax88u",
+        "TP-LINK | ROUTER | AX8"
+    ],
+    "36485": [
+        "asus rt-ax88u",
+        "TP-LINK | ROUTER | AC5400"
+    ],
+    "36486": [
+        "asus rt-ax88u",
+        "TP-LINK | SWITCHES | TL-SG108E"
+    ],
+    "36487": [
+        "asus rt-ax88u",
+        "TP-LINK | SWITCHES | TL-SG2008"
+    ],
+    "36488": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36489": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36490": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "36491": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "36492": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "36493": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "36494": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "36495": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "36496": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "36497": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "36498": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36499": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "36500": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "36501": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "36502": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "36503": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "36504": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "36505": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36506": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "36507": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "36508": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "36509": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "36510": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "36511": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "36512": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "36513": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "36514": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "36515": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "36516": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "36517": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36518": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "36519": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "36520": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "36521": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36522": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "36523": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "36524": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36525": [
+        "mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "36526": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36527": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "36528": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "36529": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "36530": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "36531": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "36532": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "36533": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "36534": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "36535": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36536": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "36537": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "36538": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "36539": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "36540": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "36541": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "36542": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36543": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36544": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "36545": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "36546": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36547": [
+        "mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "36548": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36549": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA"
+    ],
+    "36550": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | EMPLOYEES280"
+    ],
+    "36551": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36552": [
+        "mikrotik mikrotik",
+        "CISCO | ROUTER | CRS-1"
+    ],
+    "36553": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36554": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "36555": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "36556": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "36557": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2"
+    ],
+    "36558": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "36559": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | V2.6"
+    ],
+    "36560": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "36561": [
+        "mikrotik mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "36562": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | US-8"
+    ],
+    "36563": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | ROUTER108"
+    ],
+    "36564": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | CCR12G"
+    ],
+    "36565": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCH | RJ45"
+    ],
+    "36566": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "36567": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "36568": [
+        "mikrotik mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "36569": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36570": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36571": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36572": [
+        "ppoe_ont_integrada_cortijo mikrotik",
+        "MIKROTIK | ROUTER | B9"
+    ],
+    "36573": [
+        "ppoe_ont_integrada_cortijo mikrotik",
+        "MIKROTIK | ROUTER | PE8ZAZPZR"
+    ],
+    "36574": [
+        "ppoe_ont_integrada_cortijo mikrotik",
+        "MIKROTIK | ROUTER | ROUTEROS-520526-67"
+    ],
+    "36575": [
+        "ppoe_ont_integrada_cortijo mikrotik",
+        "MIKROTIK | ROUTER | LMM59"
+    ],
+    "36576": [
+        "ppoe_ont_integrada_cortijo mikrotik",
+        "MIKROTIK | ROUTER | E8"
+    ],
+    "36577": [
+        "ppoe_ont_integrada_cortijo mikrotik",
+        "MIKROTIK | ROUTER | RB951G"
+    ],
+    "36578": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36579": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36580": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "36581": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | ROUTER | RB450"
+    ],
+    "36582": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "36583": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | ROUTER | CVE-2018-14847"
+    ],
+    "36584": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "36585": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "36586": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | ROUTER | SOCKS4"
+    ],
+    "36587": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | ROUTER | RB450GX4"
+    ],
+    "36588": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "36589": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "36590": [
+        "mikrotik-conexion-total-barro-blanco mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "36591": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36592": [
+        "isi-lumirova mikrotik",
+        "MIKROTIK | ROUTER | X86"
+    ],
+    "36593": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36594": [
+        "asus",
+        "asus"
+    ],
+    "36595": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | RJ11"
+    ],
+    "36596": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | RT-AC68U"
+    ],
+    "36597": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC2400"
+    ],
+    "36598": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | RT-AC87R"
+    ],
+    "36599": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | DSL-AC3100"
+    ],
+    "36600": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | HW4ALL"
+    ],
+    "36601": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AX6000"
+    ],
+    "36602": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC68U"
+    ],
+    "36603": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC12"
+    ],
+    "36604": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC87VG"
+    ],
+    "36605": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | RJ45"
+    ],
+    "36606": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC2400-DUAL"
+    ],
+    "36607": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "36608": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | VDSLADSL-3842"
+    ],
+    "36609": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC1600"
+    ],
+    "36610": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | HW4ALL.COM"
+    ],
+    "36611": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | ROUTER-HW4ALL.COM"
+    ],
+    "36612": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | DSL-AC68U"
+    ],
+    "36613": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | WIRELESS-AC1900"
+    ],
+    "36614": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC1200"
+    ],
+    "36615": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | C1200"
+    ],
+    "36616": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | C7"
+    ],
+    "36617": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | DSL-AC87VG"
+    ],
+    "36618": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | X6200"
+    ],
+    "36619": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | RT-AX88U"
+    ],
+    "36620": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | RT-AC87U"
+    ],
+    "36621": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | AC750"
+    ],
+    "36622": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | DSL-AC52U"
+    ],
+    "36623": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | DSL-AC56U"
+    ],
+    "36624": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | D7000"
+    ],
+    "36625": [
+        "asus dsl-ac87vg",
+        "ASUS | ROUTER | D7"
+    ],
+    "36626": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | DSL-AC87U"
+    ],
+    "36627": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | RJ11"
+    ],
+    "36628": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | AC2400"
+    ],
+    "36629": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | RT-AC87R"
+    ],
+    "36630": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | DSL-AC3100"
+    ],
+    "36631": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | AC68U"
+    ],
+    "36632": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | AC12"
+    ],
+    "36633": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | AC87VG"
+    ],
+    "36634": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | RJ45"
+    ],
+    "36635": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | AC1900"
+    ],
+    "36636": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | AC1600"
+    ],
+    "36637": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | DSL-AC68U"
+    ],
+    "36638": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | WIRELESS-AC1900"
+    ],
+    "36639": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | AC1200"
+    ],
+    "36640": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | C1200"
+    ],
+    "36641": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | C7"
+    ],
+    "36642": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | VDSL2"
+    ],
+    "36643": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | DSL-AC87VG"
+    ],
+    "36644": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | X6200"
+    ],
+    "36645": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | RT-AC87U"
+    ],
+    "36646": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | AC750"
+    ],
+    "36647": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | DSL-AC52U"
+    ],
+    "36648": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | DSL-AC56U"
+    ],
+    "36649": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | D7000"
+    ],
+    "36650": [
+        "asus dsl-ac87vg",
+        "ASUS | MODEM | D7"
+    ],
+    "36651": [
+        "asus dsl-ac87vg",
+        "ASUS | GATEWAY | AC68U"
+    ],
+    "36652": [
+        "asus dsl-ac87vg",
+        "ASUS | GATEWAY | DSL-AC87VG"
+    ],
+    "36653": [
+        "asus dsl-ac87vg",
+        "ASUS | GATEWAY | AC87VG"
+    ],
+    "36654": [
+        "asus dsl-ac87vg",
+        "BROADCOM | MODEM | D7"
+    ],
+    "36655": [
+        "asus dsl-ac87vg",
+        "BROADCOM | MODEM | DSL-AC87U"
+    ],
+    "36656": [
+        "asus dsl-ac87vg",
+        "BROADCOM | MODEM | D7000"
+    ],
+    "36657": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC2400"
+    ],
+    "36658": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | RT-AC87R"
+    ],
+    "36659": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC2800"
+    ],
+    "36660": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | DSL-AC3100"
+    ],
+    "36661": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | N300"
+    ],
+    "36662": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC68U"
+    ],
+    "36663": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC12"
+    ],
+    "36664": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC87VG"
+    ],
+    "36665": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | V2"
+    ],
+    "36666": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC1900"
+    ],
+    "36667": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AV1200"
+    ],
+    "36668": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | VR2800"
+    ],
+    "36669": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | ADSL2"
+    ],
+    "36670": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC1600"
+    ],
+    "36671": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | D2"
+    ],
+    "36672": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | DSL-AC68U"
+    ],
+    "36673": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | WIRELESS-AC1900"
+    ],
+    "36674": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC1200"
+    ],
+    "36675": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | C1200"
+    ],
+    "36676": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | C7"
+    ],
+    "36677": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | DSL-AC87VG"
+    ],
+    "36678": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | X6200"
+    ],
+    "36679": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | VR600"
+    ],
+    "36680": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | VR400"
+    ],
+    "36681": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC750"
+    ],
+    "36682": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | AC1750"
+    ],
+    "36683": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | DSL-AC52U"
+    ],
+    "36684": [
+        "asus dsl-ac87vg",
+        "TP-LINK | ROUTER | D7"
+    ],
+    "36685": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC2400"
+    ],
+    "36686": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | RT-AC87R"
+    ],
+    "36687": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC2800"
+    ],
+    "36688": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | DSL-AC3100"
+    ],
+    "36689": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC68U"
+    ],
+    "36690": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC12"
+    ],
+    "36691": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC87VG"
+    ],
+    "36692": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | V2"
+    ],
+    "36693": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC1900"
+    ],
+    "36694": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | VR2800"
+    ],
+    "36695": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | ADSL2"
+    ],
+    "36696": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC1600"
+    ],
+    "36697": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | D2"
+    ],
+    "36698": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | DSL-AC68U"
+    ],
+    "36699": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | WIRELESS-AC1900"
+    ],
+    "36700": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC1200"
+    ],
+    "36701": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | C1200"
+    ],
+    "36702": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | C7"
+    ],
+    "36703": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | DSL-AC87VG"
+    ],
+    "36704": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | X6200"
+    ],
+    "36705": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | VR600"
+    ],
+    "36706": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | VR400"
+    ],
+    "36707": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC750"
+    ],
+    "36708": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | AC1750"
+    ],
+    "36709": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | DSL-AC52U"
+    ],
+    "36710": [
+        "asus dsl-ac87vg",
+        "TP-LINK | MODEM | D7"
+    ],
+    "36711": [
+        "asus dsl-ac87vg",
+        "NETGEAR | MODEM | VDSL2"
+    ],
+    "36712": [
+        "asus dsl-ac87vg",
+        "NETGEAR | MODEM | D7"
+    ],
+    "36713": [
+        "asus dsl-ac87vg",
+        "NETGEAR | MODEM | D7000"
+    ],
+    "36714": [
+        "asus dsl-ac87vg",
+        "TELSTRA | MODEM | DSL-AC87VG"
+    ],
+    "36715": [
+        "asus dsl-ac87vg",
+        "TELSTRA | MODEM | AC87VG"
+    ],
+    "36716": [
+        "asus dsl-ac87vg",
+        "SIEMENS | PRINTER | C470IP"
+    ],
+    "36717": [
+        "asus dsl-ac87vg",
+        "SIEMENS | PRINTER | SPA-112"
+    ],
+    "36718": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36719": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36720": [
+        "synology",
+        "synology"
+    ],
+    "36721": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36722": [
+        "mikrotik-praszka mikrotik",
+        "TP-LINK | ROUTER | C4000"
+    ],
+    "36723": [
+        "mikrotik-praszka mikrotik",
+        "HUAWEI | ROUTER | X15DBI"
+    ],
+    "36724": [
+        "mikrotik-praszka mikrotik",
+        "HUAWEI | ROUTER | E5186"
+    ],
+    "36725": [
+        "mikrotik-praszka mikrotik",
+        "HUAWEI | ROUTER | B315"
+    ],
+    "36726": [
+        "mikrotik-praszka mikrotik",
+        "HUAWEI | ROUTER | B525"
+    ],
+    "36727": [
+        "mikrotik-praszka mikrotik",
+        "HUAWEI | ROUTER | B593"
+    ],
+    "36728": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "36729": [
+        "antara mikrotik",
+        "MIKROTIK | ROUTER | LAYER-3"
+    ],
+    "36730": [
+        "antara mikrotik",
+        "MIKROTIK | ROUTER | V6"
+    ],
+    "36731": [
+        "antara mikrotik",
+        "MIKROTIK | ROUTER | LINK0MIKROTIK"
+    ],
+    "36732": [
+        "antara mikrotik",
+        "MIKROTIK | ROUTER | WATHGUARD1CONNECT"
+    ],
+    "36733": [
+        "antara mikrotik",
+        "MIKROTIK | ROUTER | ROUTING1CLIENTS"
+    ],
+    "36734": [
+        "antara mikrotik",
+        "MIKROTIK | ROUTER | SERVER0WHY"
+    ],
+    "36735": [
+        "antara mikrotik",
+        "MIKROTIK | ROUTER | R750"
+    ],
+    "36736": [
+        "asus",
+        "asus"
+    ],
+    "36737": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC1900"
+    ],
+    "36738": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | N66U"
+    ],
+    "36739": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | C7"
+    ],
+    "36740": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | ADAPTER1"
+    ],
+    "36741": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RTAC66U"
+    ],
+    "36742": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RV320"
+    ],
+    "36743": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | USEDBRANDASUSMODELRT-AC56UCURRENT"
+    ],
+    "36744": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC56U"
+    ],
+    "36745": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RV345"
+    ],
+    "36746": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RV325-K9"
+    ],
+    "36747": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-AC51U"
+    ],
+    "36748": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | DSR-250"
+    ],
+    "36749": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | X64"
+    ],
+    "36750": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | IPV6"
+    ],
+    "36751": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | C9"
+    ],
+    "36752": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | KERR5136MAR"
+    ],
+    "36753": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-AC68U"
+    ],
+    "36754": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-AC88U"
+    ],
+    "36755": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC3100"
+    ],
+    "36756": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | FEATURES5TH"
+    ],
+    "36757": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-AC56U"
+    ],
+    "36758": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | REVIEWS4.615"
+    ],
+    "36759": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RJ-45"
+    ],
+    "36760": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC750"
+    ],
+    "36761": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | LINUXDIMENSIONS8.07"
+    ],
+    "36762": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RTAC68R"
+    ],
+    "36763": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC66U"
+    ],
+    "36764": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-AC56R"
+    ],
+    "36765": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | GURU3D"
+    ],
+    "36766": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | X64WINDOWS"
+    ],
+    "36767": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | WIRELESS-AC1200-GIGABIT"
+    ],
+    "36768": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | ERLITE-3"
+    ],
+    "36769": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | CONTENTS1"
+    ],
+    "36770": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-N66U"
+    ],
+    "36771": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | CM600-100NAS"
+    ],
+    "36772": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | SPA122"
+    ],
+    "36773": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | WIRELESS-AC1200"
+    ],
+    "36774": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | USEDNETGEARCM600ASUS"
+    ],
+    "36775": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | V3"
+    ],
+    "36776": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | ROUTER15"
+    ],
+    "36777": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | C6250"
+    ],
+    "36778": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC1900TP"
+    ],
+    "36779": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RV325"
+    ],
+    "36780": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RATE887.81MBPSFORM"
+    ],
+    "36781": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC1600ASUS"
+    ],
+    "36782": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | WIRELESS-N900"
+    ],
+    "36783": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RATINGS4.6AVERAGE"
+    ],
+    "36784": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RATE887.81MBPSSHOW"
+    ],
+    "36785": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | ARCHER-C7"
+    ],
+    "36786": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | CM600"
+    ],
+    "36787": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | NSM5"
+    ],
+    "36788": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | ROUTERSRV345"
+    ],
+    "36789": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC3100TP"
+    ],
+    "36790": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-AC1200"
+    ],
+    "36791": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | ROUTER-802-11A"
+    ],
+    "36792": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RB750GR3"
+    ],
+    "36793": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | QSG1"
+    ],
+    "36794": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RV345-K9"
+    ],
+    "36795": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RATINGS51242302011WOULD"
+    ],
+    "36796": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC1750"
+    ],
+    "36797": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | TL-R600VPN"
+    ],
+    "36798": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC1200"
+    ],
+    "36799": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-AC87U"
+    ],
+    "36800": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | R7000"
+    ],
+    "36801": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC1600"
+    ],
+    "36802": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-N66UNETGEAR"
+    ],
+    "36803": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RB760IGS"
+    ],
+    "36804": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RTAC56U"
+    ],
+    "36805": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | CABLE1"
+    ],
+    "36806": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | DIR-868L"
+    ],
+    "36807": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | AC68U"
+    ],
+    "36808": [
+        "asus rt-ac56u",
+        "ASUS | ROUTER | RT-AC66U"
+    ],
+    "36809": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC1900"
+    ],
+    "36810": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | N66U"
+    ],
+    "36811": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | C7"
+    ],
+    "36812": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RV320"
+    ],
+    "36813": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | USEDBRANDASUSMODELRT-AC56UCURRENT"
+    ],
+    "36814": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC56U"
+    ],
+    "36815": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RV345"
+    ],
+    "36816": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RV325-K9"
+    ],
+    "36817": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | DSR-250"
+    ],
+    "36818": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | C9"
+    ],
+    "36819": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RT-AC68U"
+    ],
+    "36820": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RT-AC88U"
+    ],
+    "36821": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC3100"
+    ],
+    "36822": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | REVIEWS4.615"
+    ],
+    "36823": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RT-AC56U"
+    ],
+    "36824": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RTAC68R"
+    ],
+    "36825": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC66U"
+    ],
+    "36826": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RT-AC56R"
+    ],
+    "36827": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | ERLITE-3"
+    ],
+    "36828": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RT-N66U"
+    ],
+    "36829": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | CM600-100NAS"
+    ],
+    "36830": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | SPA122"
+    ],
+    "36831": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | USEDNETGEARCM600ASUS"
+    ],
+    "36832": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | V3"
+    ],
+    "36833": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | C6250"
+    ],
+    "36834": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC1900TP"
+    ],
+    "36835": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RV325"
+    ],
+    "36836": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RATE887.81MBPSFORM"
+    ],
+    "36837": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC1600ASUS"
+    ],
+    "36838": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RATE887.81MBPSSHOW"
+    ],
+    "36839": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | ARCHER-C7"
+    ],
+    "36840": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | NSM5"
+    ],
+    "36841": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | ROUTERSRV345"
+    ],
+    "36842": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | CM600"
+    ],
+    "36843": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RB750GR3"
+    ],
+    "36844": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC3100TP"
+    ],
+    "36845": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RV345-K9"
+    ],
+    "36846": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RATINGS51242302011WOULD"
+    ],
+    "36847": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC1750"
+    ],
+    "36848": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | TL-R600VPN"
+    ],
+    "36849": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC1200"
+    ],
+    "36850": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC1600"
+    ],
+    "36851": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RT-N66UNETGEAR"
+    ],
+    "36852": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RB760IGS"
+    ],
+    "36853": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RTAC56U"
+    ],
+    "36854": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | AC68U"
+    ],
+    "36855": [
+        "asus rt-ac56u",
+        "ASUS | MODEM | RT-AC66U"
+    ],
+    "36856": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | QSG1"
+    ],
+    "36857": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | ADAPTER1"
+    ],
+    "36858": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | FEATURES5TH"
+    ],
+    "36859": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | RT-AC56U"
+    ],
+    "36860": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | AC1200"
+    ],
+    "36861": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | WIRELESS-AC1200"
+    ],
+    "36862": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | CONTENTS1"
+    ],
+    "36863": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | RJ-45"
+    ],
+    "36864": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | LINUXDIMENSIONS8.07"
+    ],
+    "36865": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | AC56U"
+    ],
+    "36866": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | CABLE1"
+    ],
+    "36867": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | X64WINDOWS"
+    ],
+    "36868": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | X64"
+    ],
+    "36869": [
+        "asus rt-ac56u",
+        "ASUS | PRINTER | IPV6"
+    ],
+    "36870": [
+        "asus rt-ac56u",
+        "BROADCOM | ROUTER | AC1200"
+    ],
+    "36871": [
+        "asus rt-ac56u",
+        "BROADCOM | PRINTER | AC1200"
+    ],
+    "36872": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | QSG1"
+    ],
+    "36873": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | ADAPTER1"
+    ],
+    "36874": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | FEATURES5TH"
+    ],
+    "36875": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | RT-AC56U"
+    ],
+    "36876": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | AC1200"
+    ],
+    "36877": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | WIRELESS-AC1200"
+    ],
+    "36878": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | CONTENTS1"
+    ],
+    "36879": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | RJ-45"
+    ],
+    "36880": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | LINUXDIMENSIONS8.07"
+    ],
+    "36881": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | AC56U"
+    ],
+    "36882": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | CABLE1"
+    ],
+    "36883": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | X64WINDOWS"
+    ],
+    "36884": [
+        "asus rt-ac56u",
+        "DASHBOARD | ROUTER | X64"
+    ],
+    "36885": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC1900"
+    ],
+    "36886": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | N66U"
+    ],
+    "36887": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | C7"
+    ],
+    "36888": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RV320"
+    ],
+    "36889": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | USEDBRANDASUSMODELRT-AC56UCURRENT"
+    ],
+    "36890": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC56U"
+    ],
+    "36891": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RV345"
+    ],
+    "36892": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RV325-K9"
+    ],
+    "36893": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | DSR-250"
+    ],
+    "36894": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | C9"
+    ],
+    "36895": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RT-AC68U"
+    ],
+    "36896": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RT-AC88U"
+    ],
+    "36897": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC3100"
+    ],
+    "36898": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | REVIEWS4.615"
+    ],
+    "36899": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RT-AC56U"
+    ],
+    "36900": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RTAC68R"
+    ],
+    "36901": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC66U"
+    ],
+    "36902": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RT-AC56R"
+    ],
+    "36903": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | ERLITE-3"
+    ],
+    "36904": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RT-N66U"
+    ],
+    "36905": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | CM600-100NAS"
+    ],
+    "36906": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | SPA122"
+    ],
+    "36907": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | USEDNETGEARCM600ASUS"
+    ],
+    "36908": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | V3"
+    ],
+    "36909": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | C6250"
+    ],
+    "36910": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC1900TP"
+    ],
+    "36911": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RV325"
+    ],
+    "36912": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RATE887.81MBPSFORM"
+    ],
+    "36913": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC1600ASUS"
+    ],
+    "36914": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RATE887.81MBPSSHOW"
+    ],
+    "36915": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | ARCHER-C7"
+    ],
+    "36916": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | NSM5"
+    ],
+    "36917": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | ROUTERSRV345"
+    ],
+    "36918": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | CM600"
+    ],
+    "36919": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RB750GR3"
+    ],
+    "36920": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC3100TP"
+    ],
+    "36921": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RV345-K9"
+    ],
+    "36922": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RATINGS51242302011WOULD"
+    ],
+    "36923": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC1750"
+    ],
+    "36924": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | TL-R600VPN"
+    ],
+    "36925": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC1200"
+    ],
+    "36926": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | R7000"
+    ],
+    "36927": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC1600"
+    ],
+    "36928": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RT-N66UNETGEAR"
+    ],
+    "36929": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RB760IGS"
+    ],
+    "36930": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RTAC56U"
+    ],
+    "36931": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | DIR-868L"
+    ],
+    "36932": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | AC68U"
+    ],
+    "36933": [
+        "asus rt-ac56u",
+        "NETGEAR | ROUTER | RT-AC66U"
+    ],
+    "36934": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC1900"
+    ],
+    "36935": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | N66U"
+    ],
+    "36936": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | C7"
+    ],
+    "36937": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RV320"
+    ],
+    "36938": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | USEDBRANDASUSMODELRT-AC56UCURRENT"
+    ],
+    "36939": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC56U"
+    ],
+    "36940": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RV345"
+    ],
+    "36941": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RV325-K9"
+    ],
+    "36942": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | DSR-250"
+    ],
+    "36943": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | C9"
+    ],
+    "36944": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RT-AC68U"
+    ],
+    "36945": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RT-AC88U"
+    ],
+    "36946": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC3100"
+    ],
+    "36947": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | REVIEWS4.615"
+    ],
+    "36948": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RT-AC56U"
+    ],
+    "36949": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RTAC68R"
+    ],
+    "36950": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC66U"
+    ],
+    "36951": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RT-AC56R"
+    ],
+    "36952": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | ERLITE-3"
+    ],
+    "36953": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RT-N66U"
+    ],
+    "36954": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | CM600-100NAS"
+    ],
+    "36955": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | SPA122"
+    ],
+    "36956": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | USEDNETGEARCM600ASUS"
+    ],
+    "36957": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | V3"
+    ],
+    "36958": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | C6250"
+    ],
+    "36959": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC1900TP"
+    ],
+    "36960": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RV325"
+    ],
+    "36961": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RATE887.81MBPSFORM"
+    ],
+    "36962": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC1600ASUS"
+    ],
+    "36963": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RATE887.81MBPSSHOW"
+    ],
+    "36964": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | ARCHER-C7"
+    ],
+    "36965": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | NSM5"
+    ],
+    "36966": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | ROUTERSRV345"
+    ],
+    "36967": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | CM600"
+    ],
+    "36968": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RB750GR3"
+    ],
+    "36969": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC3100TP"
+    ],
+    "36970": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RV345-K9"
+    ],
+    "36971": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RATINGS51242302011WOULD"
+    ],
+    "36972": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC1750"
+    ],
+    "36973": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | TL-R600VPN"
+    ],
+    "36974": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC1200"
+    ],
+    "36975": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC1600"
+    ],
+    "36976": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RT-N66UNETGEAR"
+    ],
+    "36977": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RB760IGS"
+    ],
+    "36978": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RTAC56U"
+    ],
+    "36979": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | AC68U"
+    ],
+    "36980": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | ROUTER | RT-AC66U"
+    ],
+    "36981": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC1900"
+    ],
+    "36982": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | N66U"
+    ],
+    "36983": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | C7"
+    ],
+    "36984": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RV320"
+    ],
+    "36985": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | USEDBRANDASUSMODELRT-AC56UCURRENT"
+    ],
+    "36986": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC56U"
+    ],
+    "36987": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RV345"
+    ],
+    "36988": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RV325-K9"
+    ],
+    "36989": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | DSR-250"
+    ],
+    "36990": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | C9"
+    ],
+    "36991": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RT-AC68U"
+    ],
+    "36992": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RT-AC88U"
+    ],
+    "36993": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC3100"
+    ],
+    "36994": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | REVIEWS4.615"
+    ],
+    "36995": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RT-AC56U"
+    ],
+    "36996": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RTAC68R"
+    ],
+    "36997": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC66U"
+    ],
+    "36998": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RT-AC56R"
+    ],
+    "36999": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | ERLITE-3"
+    ],
+    "37000": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RT-N66U"
+    ],
+    "37001": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | CM600-100NAS"
+    ],
+    "37002": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | SPA122"
+    ],
+    "37003": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | USEDNETGEARCM600ASUS"
+    ],
+    "37004": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | V3"
+    ],
+    "37005": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | C6250"
+    ],
+    "37006": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC1900TP"
+    ],
+    "37007": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RV325"
+    ],
+    "37008": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RATE887.81MBPSFORM"
+    ],
+    "37009": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC1600ASUS"
+    ],
+    "37010": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RATE887.81MBPSSHOW"
+    ],
+    "37011": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | ARCHER-C7"
+    ],
+    "37012": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | NSM5"
+    ],
+    "37013": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | ROUTERSRV345"
+    ],
+    "37014": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | CM600"
+    ],
+    "37015": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RB750GR3"
+    ],
+    "37016": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC3100TP"
+    ],
+    "37017": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RV345-K9"
+    ],
+    "37018": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RATINGS51242302011WOULD"
+    ],
+    "37019": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC1750"
+    ],
+    "37020": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | TL-R600VPN"
+    ],
+    "37021": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC1200"
+    ],
+    "37022": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC1600"
+    ],
+    "37023": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RT-N66UNETGEAR"
+    ],
+    "37024": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RB760IGS"
+    ],
+    "37025": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RTAC56U"
+    ],
+    "37026": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | AC68U"
+    ],
+    "37027": [
+        "asus rt-ac56u",
+        "ROUTERBOARD | MODEM | RT-AC66U"
+    ],
+    "37028": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "37029": [
+        "rb_test mikrotik",
+        "MIKROTIK | ROUTER | RBD52G"
+    ],
+    "37030": [
+        "rb_test mikrotik",
+        "MIKROTIK | ROUTER | HACD2HND"
+    ],
+    "37031": [
+        "rb_test mikrotik",
+        "MIKROTIK | ROUTER | AC2"
+    ],
+    "37032": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "37033": [
+        "asus",
+        "asus"
+    ],
+    "37034": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | RT-AC1200G"
+    ],
+    "37035": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | WITH-4-ANTENNAS"
+    ],
+    "37036": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | RT-N12"
+    ],
+    "37037": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | RT-AC1300UHP"
+    ],
+    "37038": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | WIRELESS-AC1700"
+    ],
+    "37039": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | AC1300UHP"
+    ],
+    "37040": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | AC1300"
+    ],
+    "37041": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | REPLY8"
+    ],
+    "37042": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | UP-2VOTE"
+    ],
+    "37043": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | N300"
+    ],
+    "37044": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | RT-AC1200"
+    ],
+    "37045": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | RT-ACRH17"
+    ],
+    "37046": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | RT-ACRH13"
+    ],
+    "37047": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | X2"
+    ],
+    "37048": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | ACRH13"
+    ],
+    "37049": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | CLEAN-I1450023-S1642472.HTML"
+    ],
+    "37050": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | IPQ4018"
+    ],
+    "37051": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | BAND-24GHZ"
+    ],
+    "37052": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | GHZ-1267MBPS"
+    ],
+    "37053": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | RT-AC55UHP"
+    ],
+    "37054": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | AC1200"
+    ],
+    "37055": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | T2R"
+    ],
+    "37056": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | ROUTER-I141710940-S163288739.HTML"
+    ],
+    "37057": [
+        "asus rt-ac1300uhp",
+        "ASUS | ROUTER | WIRELESS-AC1300-DUAL"
+    ],
+    "37058": [
+        "asus rt-ac1300uhp",
+        "INTEL | ROUTER | T440"
+    ],
+    "37059": [
+        "asus rt-ac1300uhp",
+        "INTEL | ROUTER | AC7260"
+    ],
+    "37060": [
+        "asus rt-ac1300uhp",
+        "INTEL | ROUTER | IPERF3"
+    ],
+    "37061": [
+        "asus rt-ac1300uhp",
+        "TP-LINK | ROUTER | ACRH13"
+    ],
+    "37062": [
+        "asus rt-ac1300uhp",
+        "TP-LINK | ROUTER | AC1900"
+    ],
+    "37063": [
+        "asus rt-ac1300uhp",
+        "TP-LINK | ROUTER | P5"
+    ],
+    "37064": [
+        "asus rt-ac1300uhp",
+        "TP-LINK | ROUTER | RT-ACRH13"
+    ],
+    "37065": [
+        "asus rt-ac1300uhp",
+        "MIKROTIK | ROUTER | RB2011UIAS"
+    ],
+    "37066": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "37067": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "37068": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "37069": [
+        "haik106452 mikrotik",
+        "MIKROTIK | ROUTER | RB951G"
+    ],
+    "37070": [
+        "haik106452 mikrotik",
+        "MIKROTIK | ROUTER | LMM59"
+    ],
+    "37071": [
+        "haik106452 mikrotik",
+        "MIKROTIK | ROUTER | ROUTEROS-520526-67"
+    ],
+    "37072": [
+        "haik106452 mikrotik",
+        "MIKROTIK | ROUTER | PE8ZAZPZR"
+    ],
+    "37073": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "37074": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "37075": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | L2TP"
+    ],
+    "37076": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | IPV6"
+    ],
+    "37077": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | CCR12G"
+    ],
+    "37078": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | US-8"
+    ],
+    "37079": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | CCR1016"
+    ],
+    "37080": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | L2"
+    ],
+    "37081": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | L3"
+    ],
+    "37082": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | X86"
+    ],
+    "37083": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | V6"
+    ],
+    "37084": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | RB1100AHX4"
+    ],
+    "37085": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | ROUTER | ROUTER108"
+    ],
+    "37086": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | SWITCHES | CCR12G"
+    ],
+    "37087": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | SWITCHES | US-8"
+    ],
+    "37088": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | SWITCHES | ROUTER108"
+    ],
+    "37089": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "MIKROTIK | SWITCHES | X86"
+    ],
+    "37090": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | DB9"
+    ],
+    "37091": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | RS232"
+    ],
+    "37092": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | L2TP"
+    ],
+    "37093": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | L2"
+    ],
+    "37094": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | X86"
+    ],
+    "37095": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | ETHER1"
+    ],
+    "37096": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | R2"
+    ],
+    "37097": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | ETHER2"
+    ],
+    "37098": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | RS232C"
+    ],
+    "37099": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | ROUTER | AES128"
+    ],
+    "37100": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | SWITCH | L2"
+    ],
+    "37101": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | SWITCH | L2TP"
+    ],
+    "37102": [
+        "ihor-shirokov-mkr-spoke01 mikrotik",
+        "ROUTERBOARD | SWITCH | X86"
+    ],
+    "37103": [
+        "mikrotik",
+        "mikrotik"
+    ],
+    "37104": [
+        "nginx",
+        "nginx"
+    ],
+    "37105": [
+        "synology",
+        "synology"
+    ],
+    "37106": [
+        "station! dsm",
+        "NETGEAR | SWITCH | GS116E"
+    ],
+    "37107": [
+        "hello! synology",
+        "HIKVISION | NVR | NR32P4"
+    ],
+    "37108": [
+        "hello! service\" dsm",
+        "INTEL | DISKSTATION | DS1511"
+    ],
+    "37109": [
+        "synology",
+        "synology"
+    ],
+    "37110": [
+        "hello! dsm",
+        "synology"
+    ],
+    "37111": [
+        "hello! \"web",
+        "synology"
+    ],
+    "37112": [
+        "nginx",
+        "nginx"
+    ],
+    "37113": [
+        "synology",
+        "synology"
+    ],
+    "37114": [
+        "nginx",
+        "nginx"
+    ],
+    "37115": [
+        "synology",
+        "synology"
+    ],
+    "37116": [
+        "\"web dsm",
+        "synology"
+    ],
+    "37117": [
+        "station! service\" dsm",
+        "NETGEAR | SWITCH | GS116E"
     ]
 }
