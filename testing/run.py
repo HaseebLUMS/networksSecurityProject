@@ -77,9 +77,7 @@ def run_files(ori):
 	with open('refined_queries_set.json', 'r') as f: refined_queries = f.read()
 	refined_queries = json.loads(refined_queries)
 	refined_queries = refined_queries['queries']
-	if len(refined_queries) > 10:
-		'returning'
-		return
+
 
 
 	with open('intact_refined_query.txt') as f: intact_refined_query = f.read()

@@ -19,7 +19,7 @@ def powerset(iterable):
     s = list(iterable)
     limit = len(s)
     if len(s) > 10:
-    	limit = 10
+    	return {}
     return chain.from_iterable(combinations(s, r) for r in range(limit+1))
 
 
@@ -51,7 +51,7 @@ def generate_queries(refined_query):
 
 
 # def main():
-# 	refined_query = "A B C D E F"
+# 	refined_query = "A B C D E F G H I J K L M "
 # 	queries = generate_queries(refined_query)
 # 	print('Total: ', len(queries))
 # 	for ele in queries:

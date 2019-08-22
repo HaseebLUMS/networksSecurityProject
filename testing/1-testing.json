@@ -56235,7 +56235,7 @@
         ]
     },
     "723": {
-        "ip": "170.238.112.97"
+        "ip": 0
     },
     "724": {
         "ip": "125.135.148.135",
@@ -56253,7 +56253,7 @@
     },
     "722": {
         "ip": "180.229.0.32",
-        "banner": "220 LHG-Kleiton-221 FTP server (MikroTik 6.43.2) ready\n",
+        "banner": "HTTP/1.1 200 OK\r\nCache-Control: max-age=600\r\nDate: Fri, 30 Jan 1970 09:53:23 GMT\r\nExt: \r\nLocation: http://192.168.10.1:1990/WFADevice.xml\r\nServer: POSIX UPnP/1.0 UPnP Stack/6.30.102.7\r\nST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1\r\nUSN: uuid:a569f7fa-e0b2-69f1-1492-66d53d3e0344::urn:schemas-wifialliance-org:service:WFAWLANConfig:1\r\n\r\n",
         "refined banner": " lhg-kleiton-221 mikrotik",
         "queries": [
             "mikrotik",

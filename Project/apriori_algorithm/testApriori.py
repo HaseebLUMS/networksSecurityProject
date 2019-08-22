@@ -49,7 +49,7 @@ def contains_prediction(a):
 --writes the inferred rule in file "RULES"
 '''
 def run_apriori(trans):
-	results = list(apriori(trans, min_support=0.0001, min_confidence=0.5))
+	results = list(apriori(trans, min_support=0.001, min_confidence=0.5))
 	#0.0001, 0.005
 	#0.005
 	#2721
@@ -62,10 +62,10 @@ def run_apriori(trans):
 		for ordered_stat in RelationRecord.ordered_statistics:
 			
 			# if((len(Items) and are_diff(Items[len(Items)-1], RelationRecord.items)) or len(Items) is 0):
-			if contains_prediction(RelationRecord.items):	
-				Support.append(RelationRecord.support)
-				Items.append(RelationRecord.items)
-				Confidence.append(ordered_stat.confidence)
+			# if contains_prediction(RelationRecord.items):	
+			Support.append(RelationRecord.support)
+			Items.append(RelationRecord.items)
+			Confidence.append(ordered_stat.confidence)
 
 			# elif(not are_diff(Items[len(Items)-1], RelationRecord.items)):
 			# 	if contains_prediction(RelationRecord.items):
@@ -77,17 +77,21 @@ def run_apriori(trans):
 	df['Items'] = list(map(set, Items))                                   
 	df['Support'] = Support
 	df['Confidence'] = Confidence
-	df.to_csv('Rules.csv')
+	df.to_csv('File_B1.csv')
 	df.to_pickle('RULES')
 	print(len(df['Items']))
 	print(df)
 
 def main():
-	with open('transactions.json') as f: data = f.read()
+	with open('type_2.json') as f: data = f.read()
 	data = json.loads(data)
 	trans = []
-	for key in data:
-		trans.append(data[key])
+
+	for ele in data:
+		try:
+			trans += data[ele]['transactions']
+		except:
+			pass
 	# print(len(trans))
 	run_apriori(trans)
 
