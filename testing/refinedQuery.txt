@@ -1,1 +1,1 @@
-lhg-kleiton-221 mikrotik
+upnp/1.0 proc/ver

@@ -28,7 +28,7 @@ def in_database(word):
 
 
 def remove_dates(data):
-	db = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
+	db = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec', 'sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat']
 	for ele in db:
 		data = data.replace(ele, "")
 	return data
@@ -48,7 +48,7 @@ def find_pattern(rawData):
 def trim(k):
 	f = False
 	l = False
-	extra = ["(", ")", "{", "}", "[", "]", "!", "\"", "'", ","]
+	extra = ["(", ")", "{", "}", "[", "]", "!", "\"", "'", ",", ":"]
 	for ele in extra:
 		if k[0] is ele:
 			f = True

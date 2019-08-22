@@ -1,9 +1,8 @@
 HTTP/1.1 200 OK
-Cache-Control: max-age=600
-Date: Fri, 30 Jan 1970 09:53:23 GMT
-Ext: 
-Location: http://192.168.10.1:1990/WFADevice.xml
-Server: POSIX UPnP/1.0 UPnP Stack/6.30.102.7
-ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
-USN: uuid:a569f7fa-e0b2-69f1-1492-66d53d3e0344::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+Server: Custom/1.0 UPnP/1.0 Proc/Ver
+EXT:
+Location: http://192.168.1.1:5431/dyndev/uuid:681590ca-139d-9d13-ca90-156815ca9d0000
+Cache-Control:max-age=1800
+ST:urn:schemas-upnp-org:service:WANPPPConnection:1
+USN:uuid:681590ca-139d-9d13-ca90-156815ca9d0002::urn:schemas-upnp-org:service:WANPPPConnection:1
 

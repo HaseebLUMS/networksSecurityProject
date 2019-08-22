@@ -94,6 +94,15 @@ def find_dependency(text, vendors, device_types):
 	
 	return anns
 
+def all_indices(token, text):
+	ans = [-1]
+	index = 0
+	for ind, ele in enumerate(text.split(" ")):
+		index += len(ele)
+		if token.lower() == ele.lower():
+			ans.append(index)
+		index += 1
+	return ans
 
 '''
 from a given list of possible product names,
@@ -106,9 +115,21 @@ def find_product(text, a, b, tags):
 
 	for t in tags:
 		for line in text:
-			if ((a.lower() in line.lower()) and (b.lower() in line.lower()) and ((t.lower()) in line.lower())):
-				ans_prod.add(t.upper())
-				break
+			if t.lower() in line.lower():
+				ind_a = line.lower().find(a.lower())
+				ind_b = line.lower().find(b.lower())
+				if ind_a is -1: ind_a = len(line)
+				if ind_b is -1: ind_b = len(line)
+				ind_t = all_indices(t, line)[-1] #largest product index
+				any_lower_ab = False
+				tt = ind_t
+				if ind_a < tt or ind_b < tt:
+					any_lower_ab = True
+				# print(tt, a, b, ind_a, ind_b)
+				if any_lower_ab == True:
+					ans_prod.add(t.upper())
+					print(ans_prod)
+					break
 
 	return list(ans_prod)
 
@@ -145,10 +166,11 @@ def main():
 			pass
 
 		text = selected_text #narrows down the text to the lines containing vendor and devices
-		try:
-			predicted_products = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
-		except:
-			pass
+		# try:
+		predicted_products = find_product(text, predicted_label['vendor'], predicted_label['device_type'], products)
+		# except Exception as e:
+			# print(e)
+			# pass
 
 		prev_ans = ans
 		for predicted_product in predicted_products:

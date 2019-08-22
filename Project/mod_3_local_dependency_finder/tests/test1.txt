@@ -1,6 +1,1 @@
-
-BCM96328 Broadband Router X_BROADCOM_COM_3G_MODEM Routers Listed Here
-RouterIPAddress.com Find Your Config!
-Index
-By Brand
-By Model
+BCM96328 Broadband BCM96328 Router
