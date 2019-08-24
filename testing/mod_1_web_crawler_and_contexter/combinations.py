@@ -18,8 +18,8 @@ from itertools import chain, combinations
 def powerset(iterable):
     s = list(iterable)
     limit = len(s)
-    if len(s) > 10:
-    	return {}
+    if len(s) > 7:
+    	limit = 7
     return chain.from_iterable(combinations(s, r) for r in range(limit+1))
 
 
@@ -46,7 +46,6 @@ def generate_queries(refined_query):
 		result.add(ele)
 
 	ans = sorted(result, key=len)
-	print(ans)
 	return ans
 
 

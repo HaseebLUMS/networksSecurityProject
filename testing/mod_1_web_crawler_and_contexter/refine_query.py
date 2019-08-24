@@ -50,14 +50,23 @@ def trim(k):
 	l = False
 	extra = ["(", ")", "{", "}", "[", "]", "!", "\"", "'", ",", ":"]
 	for ele in extra:
-		if k[0] is ele:
-			f = True
-		if k[len(k)-1] is ele:
-			l = True
-	if f:
-		k = k[1:]
-	if l:
-		k = k[:-1]
+		try:
+			if k[0] is ele:
+				f = True
+			if k[len(k)-1] is ele:
+				l = True
+		except:
+			pass
+	try:
+		if f:
+			k = k[1:]
+	except:
+		pass
+	try:
+		if l:
+			k = k[:-1]
+	except:
+		pass
 	return k
 
 
@@ -110,6 +119,39 @@ def remove_http_codes(data, codes):
 	data = data.replace("http/", "")
 	return data
 
+def cut(upnp, token):
+	ind_1 = upnp.find(token)
+	if ind_1 == -1: return ""
+	text = " "
+	text = upnp[ind_1+len(token):]
+	ind_1 = text.find('\r\n')
+	if ind_1 == -1: ind_1 = len(text)-1
+	text = text[0:ind_1]
+	return text
+
+
+def upnpRefine(upnp):
+	server_part = ""
+	server_token = "server: "
+	st_part = ""
+	st_token = "st: "
+	usn_part = ""
+	usn_token = "usn: "
+
+	server_part = cut(upnp, server_token)
+	st_part = cut(upnp, st_token)
+	usn_part = cut(upnp, usn_token)
+
+	server_part = server_part.replace(st_part, "")
+	server_part = server_part.replace(usn_part, "")
+	st_part = st_part.replace(usn_part, "")
+
+	ans = server_part + " " + st_part + " " + usn_part
+	ans = ans.replace('usn', '')
+	return ans
+
+
+
 '''
 Uses Enchant library for removing dictionary words from 
 input banner and extracting keywords. 
@@ -128,6 +170,13 @@ the html tags from the banner data
 '''
 
 def refine_query(q, mode):
+
+	ssh = False
+	if 'ssh' in q.lower():
+		ssh = True
+	if 'upnp' in q.lower():
+		q = upnpRefine(q.lower())
+
 	d = enchant.Dict('en_US')
 
 	q = remove_http_codes(q, http_codes)
@@ -185,7 +234,7 @@ def refine_query(q, mode):
 			try:
 				if (d.check(k.lower()) == True) and (in_database(k.lower()) == False): continue
 			except Exception as exception:
-				print(exception)
+				# print(exception)
 				pass
 			if mode == 1:
 				# if (k.isalpha() is False) and (k.isalnum() is False) and (k not in possibleProd): continue
@@ -203,6 +252,16 @@ def refine_query(q, mode):
 		return res.lower()
 	if mode == 1:
 		result = res.lower()
+		if ssh:
+			result = ('ssh '+result)
 		with open('intact_refined_query.txt', 'w') as f: f.write(result)
-		result = generate_queries(result)
-		return result
+		# if 'ssh' in result:
+		# 	result = result.replace("-", " ")
+		# result = generate_queries(result)
+		return [result]
+
+
+
+# banner = "HTTP/1.1 200 OK\r\nCache-Control: max-age=600\r\nDate: Thu, 14 Feb 2019 19:51:11 GMT\r\nExt: \r\nLocation: http://192.168.0.1:1980/InternetGatewayDevice.xml\r\nServer: POSIX UPnP/1.0 UPnP Stack/1.11.0.0\r\nST: urn:schemas-upnp-org:service:WANIPConnection:1\r\nUSN: uuid:cf6a40ad-721d-ce05-f12e-2c7ba88f722f::urn:schemas-upnp-org:service:WANIPConnection:1\r\n\r\n"
+# print(refine_query(banner, 1))
+# # print(refine_query(banner, 1))

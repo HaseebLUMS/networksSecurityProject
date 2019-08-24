@@ -236,7 +236,7 @@ def main():
 		# with open("queryMap.json", "w") as f: f.write(prevData)
 
 
-		if res2 > 1:
+		if res2 > 0:
 			find_urls(res)
 			# for url in URLs: print(url)
 			is_written = create_output()

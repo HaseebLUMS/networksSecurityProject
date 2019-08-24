@@ -1,1 +1,1305 @@
-custom/1.0
+ samg-linux/4.1 upnp/1.0 samg_upnp_sdk/1.0 urn:samg.com:service:multiscreenservice:1 uuid:50a944c-4dfe9c4b1cfff74::urn:samg.com:service:multiscreenservice:1 bootid.upnp.org
+
+
+
+
+
+
+================= https://www.uuidgenerator.net/ ==================
+
+
+
+
+
+ uuid tool
+uuid generator
+version uuid
+version uuid
+nil/empty uuid
+guid generator
+online uuid generator
+your uuid:
+9639c287-9e24-4fe6-83b1-a14d82cae47f
+copy
+refresh another.
+version uuid generator
+generate uuid.
+bulk uuid generation
+how many?
+download file
+what uuid?
+a uuid mac
+address generated.
+version uuid generator
+generate uuid.
+bulk uuid generation
+how many?
+download file
+what uuid?
+a uuid the
+version uuids generator.
+the uuids kind,
+not uuids the
+uuids uuids by
+this uuids this
+page.
+the uuids rfc possible.
+read uuids wikipedia.
+check api.
+copyright © transparentech llc.
+
+
+
+
+
+
+================= https://github.com/ConnectSDK/Connect-SDK-Android/issues/133 ==================
+
+
+
+
+
+ shp upnp/1.0 samg upnp sdk/1.0
+<?xml version="1.0"?>
+<root xmlns='urn:schemas-upnp-org:device-1-0 xmlns:sec='http://www.sec.co.kr/dlna xmlns:dlna='urn:schemas-dlna-org:device-1-0'>
+<specversion>
+<major>1</major>
+<minor>0</minor>
+</specversion>
+<device>
+<devicetype>urn:dial-multiscreen-org:device:dialreceiver:1</devicetype>
+<endlyname>[tv]samg led46</endlyname>
+<manufacturer>samg electronics</manufacturer>
+<manufacturerurl>http://www.samg.com/sec</manufacturerurl>
+<modeldescription>samg tv ns</modeldescription>
+<modelname>un46h7100</modelname>
+<modelnumber>1.0</modelnumber>
+<modelurl>http://www.samg.com/sec</modelurl>
+<serialnumber>20090804rcr</serialnumber>
+<udn>uuid:05f5e101-0064-1000-bc6f-5056bfc1c4e3</udn>
+<sec:deviceid>p7cpgogj7jie4</sec:deviceid>
+<sec:productcap>resolution:1280x720,y2014</sec:productcap>
+<servicelist>
+<service>
+<servicetype>urn:dial-multiscreen-org:service:dial:1</servicetype>
+<serviceid>urn:dial-multiscreen-org:serviceid:dial</serviceid>
+<controlurl>/smp_30_</controlurl>
+<eventsuburl>/smp_31_</eventsuburl>
+<scpdurl>/smp_29_</scpdurl>
+</service>
+</servicelist>
+<sec:capabilities>
+<sec:capability name='samg:multiscreen:1 port='8001 location='/ms/1.0/'></sec:capability>
+</sec:capabilities>
+</device>
+</root>
+this minimized.
+sign view
+copy link
+quote reply
+contributor
+iheart2code
+commented
+ 2014
+as emulator.
+1.1 
+x-powered-by express
+access-control-allow-origin *
+access-control-allow-credentials true
+access-control-allow-methods get,put,post,delete
+access-control-allow-headers access-control-allow-headers" accept
+content-type text/xml
+application-url http://192.168.1.126:8080/ws/apps/
+date 22:55:06 gmt
+connection keep-alive
+transfer-encoding chunked
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0 xmlns:sec="http://www.sec.co.kr/dlna">
+<specversion>
+<major>1</major>
+<minor>0</minor>
+</specversion>
+<device>
+<devicetype>urn:dial-multiscreen-org:device:dialreceiver:1</devicetype>
+<endlyname>samg emulator</endlyname>
+<manufacturer>samg electronics</manufacturer>
+<manufacturerurl>http://www.samg.com</manufacturerurl>
+<modeldescription>samg sttv emulator</modeldescription>
+<modelname>samg emulator</modelname>
+<udn>uuid:34c6f530-111f-11e4-9562-739d1820beea</udn>
+<sec:capabilities>
+<sec:capability name="samg:multiscreen:1 port="8001 location="/ms/1.0/"/>
+</sec:capabilities>
+<servicelist>
+<service>
+<servicetype>urn:dial-multiscreen-org:service:dial:1</servicetype>
+<serviceid>urn:dial-multiscreen-org:serviceid:dial</serviceid>
+<controlurl>/control.xml</controlurl>
+<eventsuburl>/events.xml</eventsuburl>
+<scpdurl>/scpd.xml</scpdurl>
+</service>
+</servicelist>
+<presentationurl>/</presentationurl>
+</device>
+</root>
+this minimized.
+sign view
+copy link
+quote reply
+contributor
+iheart2code
+commented
+ 2014
+looks xml samg:multiscreen:1. @khk624 devicefactory. xml keys.
+khk624
+pushed commit
+that referenced
+this issue
+ 2014
+fixed samg multiscreen #133
+fbbab07
+this minimized.
+sign view
+copy link
+quote reply
+contributor
+author
+khk624
+commented
+ 2014
+this fbbab07
+khk624
+closed this
+ 2014
+this minimized.
+sign view
+copy link
+quote reply
+contributor
+iheart2code
+commented
+ 2014
+awesome i'm @henrylevak escalated?
+this minimized.
+sign view
+copy link
+quote reply
+contributor
+iheart2code
+commented
+ 2014
+reopening fbbab07#commitcomment-7099463 addressed.
+iheart2code
+reopened this
+ 2014
+khk624
+pushed commit
+that referenced
+this issue
+ 2014
+fixed multiscreen #133
+17611b8
+this minimized.
+sign view
+copy link
+quote reply
+contributor
+iheart2code
+commented
+ 2014
+newest thanks!
+iheart2code
+closed this
+ 2014
+sign free
+to converion gib.
+already account?
+sign comment
+assignees
+khk624
+labels
+bug
+projects
+none yet
+milestone
+v1.4.0
+2 participants
+© gib inc.
+terms
+privacy
+security
+status
+help
+contact gib
+pricing
+api
+training
+blog
+about
+you time.
+you session.
+you
+
+
+
+
+
+
+================= http://upnp.org/resources/draft-leach-uuids-guids-00.txt ==================
+
+
+
+
+
+ group
+paul microsoft
+internet-draft
+rich salz group
+category informational
+expires ust 1997
+ruary 1997
+uuids guids
+status memo
+this working
+documents ietf) areas,
+and distribute
+working internet-drafts.
+internet-drafts ths
+and any
+time. reference
+material progress".
+to the
+"1id-abstracts.txt shadow
+directories ftp.is.co.za aca) nic.nordu.net europe),
+munnari.oz.au rim) ds.internic.net coast) or
+ftp.isi.edu coast).
+distribution unlimited.
+please to
+the cifs .
+discussions at
+.
+abstract
+this uuids unique
+identifier) guids identifier). uuid
+is the
+mechanisms different
+from uuids/guids a.d. extremely
+likely chosen). uuids
+were ncs and
+later osf computing
+environment 2].
+this the
+kind osf.
+table contents
+1.
+introduction......................................................2
+[page 1]
+internet-draft
+uuids guids draft)
+02/24/97
+2.
+motivation........................................................2
+3.
+specification.....................................................3
+3.1
+format ..........................................................3
+3.2
+algorithms uuid ..................................5
+3.2.1
+clock sequence...............................................5
+3.2.2
+system reboot................................................6
+3.2.3
+clock adjustment.............................................7
+3.2.4
+clock overrun................................................7
+3.2.5
+uuid generation..............................................7
+3.3
+string uuids ..................................8
+3.4
+comparing uuids .................................................9
+3.5
+byte uuids .............................................9
+4.
+node ieee available...............9
+5.
+obtaining ieee addresses.....................................11
+6.
+security considerations..........................................12
+7.
+acknowledgements.................................................12
+8.
+references.......................................................12
+9.
+authors addresses...............................................12
+1. introduction
+this uuids unique
+identifiers) guids identifiers). a
+uuid the
+mechanisms different
+from uuids/guids a.d. extremely
+likely chosen).
+2. motivation
+one uuids centralized
+authority that
+allocates ieee identifiers). on
+leach salz
+expires 1997
+[page 2]
+internet-draft
+uuids guids draft)
+02/24/97
+demand wide
+variety uuid here
+supports per
+machine as
+transaction ids.
+uuids to
+other itself
+well in
+databases general.
+3. specification
+a uuid time,
+with uuids. uuid
+consists for
+constructing uuid future
+(approximately a.d. algorithm). a
+uuid an
+extremely persistent
+objects network.
+the uuids registration
+authority a
+unique uuid spatially
+unique ieee usually
+already address
+can ieee
+registration uuid specification
+assumes ieee desiring
+to uuid a
+way probabilistically conflict
+with ieee address.
+3.1 format
+the uuid. uuid of
+a ets. for
+comparison time_low node"
+the significant.
+field
+data
+et
+note
+type
+#
+time_low
+unsigned
+0-3
+the the
+32 bit
+timestamp.
+integer
+time_mid
+unsigned
+4-5
+the the
+16 bit
+timestamp.
+integer
+leach salz
+expires 1997
+[page 3]
+internet-draft
+uuids guids draft)
+02/24/97
+time_hi_and_version
+unsigned
+6-7
+the the
+16 bit
+timestamp multiplexed
+integer
+with number.
+clock_seq_hi_and_reserved
+unsigned
+the the
+8 bit
+clock sequence
+8
+integer
+multiplexed the
+variant.
+clock_seq_low
+unsigned
+9
+the the
+8 bit
+clock sequence.
+integer
+node
+unsigned
+the unique
+48 bit
+node identifier.
+10-15
+integer
+to ets uuid
+record are
+integral ets. most
+significant time_hi) field
+is sequence
+(clock_seq_high).
+the uuid is
+represented utc 100-
+nanosecond 00:00:00.00 ober of
+gregorian calendar).
+the uuid.
+msb0
+msb1
+msb2
+msb3
+version
+description
+0
+0
+0
+1
+1
+the specified
+in document.
+0
+0
+1
+0
+2
+reserved dce
+security with
+embedded posix uids.
+the uuid. of
+uuids not
+across variants; uuid interoperate with
+the uuid interoperability of
+uuids string
+conversion different
+systems. variable msbs
+of clock_seq_hi_and_reserved field.
+the field.
+leach salz
+expires 1997
+[page 4]
+internet-draft
+uuids guids draft)
+02/24/97
+msb0
+msb1
+msb2
+description
+0
+-
+-
+reserved ncs compatibility.
+1
+0
+-
+the document.
+1
+1
+0
+reserved microsoft guid.
+1
+1
+1
+reserved definition.
+the of
+otonicity and
+prevents is
+outlined _clock sequence_ below.
+the the
+clock_seq_hi_and_reserved clock_seq_low field.
+the ieee host
+address. ieee node
+address et et 10)
+contains global/local unicast/multicast is
+the et lan.
+depending multi-et
+unsigned when
+communicated endian machines.
+the uuid uuid all
+128 zero).
+3.2 uuid
+various uuid in
+the uuid of
+uniqueness version.
+interoperability data
+structure. uuid caused
+by the
+algorithm required.
+3.2.1 sequence
+the whenever:
+- uuid utc gone
+backward.
+- uuid utc
+used backward; typically
+the reboot.
+leach salz
+expires 1997
+[page 5]
+internet-draft
+uuids guids draft)
+02/24/97
+while uuid last
+utc uuid. uuid the
+current utc current
+value non-otonic was
+lost is
+incremented s
+avoiding uuids.
+the minimize
+the protection
+against switch to
+system node
+identifier.
+the is
+waived true:
+- storage.
+- ieee rom is
+designed inarable or
+field system.
+- ieee address
+roms used.
+- remanufacturing could
+change reinitialise a
+random value.
+in by
+possible ieee system
+itself non-otonic case
+of system
+ initialise value.
+3.2.2 reboot
+there system:
+- uuid - utc clock
+sequence - uuid non-volatile
+store
+- utc lost.
+if uuid just
+continues be
+restored reinitialised changed.
+if is
+incremented; reinitialised value.
+leach salz
+expires 1997
+[page 6]
+internet-draft
+uuids guids draft)
+02/24/97
+3.2.3 adjustment
+uuids clock
+resolution. adjustment
+value logically,
+each cleared.
+every uuid read
+and utc the
+uuid.
+3.2.4 overrun
+the even
+for uuid a
+system uuids
+within uuid an
+exception by:
+- requester
+- succeeds
+- uuid up.
+if uuid additional
+node added.
+3.2.5 uuid generation
+uuids algorithm:
+- utc-based sequence
+to uuid above.
+- a
+60-bit 14-bit
+unsigned starting
+from bit.
+- time_low bits
+numbered of
+significance.
+- time_mid 47
+inclusive significance.
+- inclusive)
+of time_hi_and_version 59
+inclusive significance.
+- inclusive)
+of time_hi_and_version number
+corresponding uuid the
+table above.
+leach salz
+expires 1997
+[page 7]
+internet-draft
+uuids guids draft)
+02/24/97
+- clock_seq_low bits
+numbered of
+significance.
+- inclusive)
+of clock_seq_hi_and_reserved bits
+(bits same
+order significance.
+- the
+clock_seq_hi_and_reserved respectively.
+- ieee of
+significance address.
+3.3 uuids
+for uuid is
+specified arated by
+single dashes.
+each a
+zero-filled hexaimal digit
+first. hexaimal lower
+case is
+the uuid type.
+the uuid provided
+by bnf:
+uuid
+=
+"-"
+"-"
+"-"
+"-"
+time_low
+= 4*
+time_mid
+= 2*
+time_high_and_version
+= 2*
+clock_seq_and_reserved =
+clock_seq_low
+=
+node
+= 6*
+hexdigit =
+"0 | | | | | | | | | 9"
+| | | | | | f"
+| | | | | | f"
+the uuid:
+f81d4fae-7-11d0-a765-00a0c91e6bf6
+leach salz
+expires 1997
+[page 8]
+internet-draft
+uuids guids draft)
+02/24/97
+3.4 uuids
+consider uuid in
+the uuids,
+arithmetically uuid in
+order uuids are
+equal the
+first uuids field
+in uuids uuid. of
+a uuids in
+which uuids uuid.
+3.5 uuids
+uuids 
+be the
+uuid used.
+in of
+the uuids presentation
+or protocol.
+however that
+the 3.1
+above. application
+or information
+lost transmission.
+in protocol
+specification uuid object,
+as ets and
+order field
+encoded network
+byte order).
+0
+1
+2
+3
+0 1
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|
+time_high
+|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|
+time_mid
+|
+time_hi_and_version
+|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|clk_seq_hi_res |
+clk_seq_low
+|
+node 0-1)
+|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|
+node 2-5)
+|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+4. ieee available
+if uuids iee compliant
+network ieee section
+describes one.
+the cryptographic random
+number most
+leach salz
+expires 1997
+[page 9]
+internet-draft
+uuids guids draft)
+02/24/97
+significant et bit
+is unicast/multicast ieee 802
+addresses cards; a
+conflict uuids network
+cards.
+if cryptographic
+quality a
+fairly one
+can often
+include:
+- use
+- bytes
+- bytes
+- bytes
+- file
+- of
+user bytes
+- bytes
+- bytes
+- bytes
+- time
+- booted
+- directories
+- various
+system directories
+- etc.)
+- position
+- position
+- threads
+- window
+- caller
+- caller
+leach salz
+expires 1997
+[page 10]
+internet-draft
+uuids guids draft)
+02/24/97
+-
+various counters
+(instructions tlb misses)
+(note that
+are cryptographic on
+systems construction.)
+in the
+operating help
+differentiate systems.
+the exact system
+specific obtain
+them can
+concatenate buffer,
+and cryptographic md5 available,
+the id:
+#include
+#define hashlen 16
+void gennodeid(
+unsigned * pdatabuf,
+// values"
+long cdata,
+// values
+unsigned nodeid[6]
+// id
+)
+{
+int k;
+unsigned hash[hashlen];
+md_ctx context;
+mdinit &context);
+mdupdate &context pdatabuf cdata);
+mdfinal &context);
+for = 0; j<6; j++ nodeid[j]=0;
+for = 0,j = 0; < hashlen; i++ 
+nodeid[j++ ^= hash[i];
+if == = 0;
+};
+nodeid[0 |= 0x80;
+// multicast bit
+};
+other sha-1 4] which
+case hashlen 20). be
+suitably _ uniformly
+distributed a
+single the
+output change.
+5. ieee addresses
+the url
+leach salz
+expires 1997
+[page 11]
+internet-draft
+uuids guids draft)
+02/24/97
+http://stdsbbs.ieee.org/products/oui/forms/index.html
+contains ieee cost
+is $1000 us.
+6. considerations
+it uuids guess; should
+not capabilities.
+7. acknowledgements
+this osf dce uuids.
+ted ts'o ordering
+section he
+supplied responsibility,
+however).
+8. references
+[1]
+lisa zahn et. al. prentice
+hall englewood nj 1990
+[2 dce cae c309
+isbn 28cm. 674p. pbk. 1,655g. 8/94
+[3 rivest rfc md5 algorithm",
+04/16/1992.
+[4]
+sha - tbd
+9. addresses
+paul leach
+microsoft
+1 microsoft way
+redd wa u.s.a.
+email:
+paulle@microsoft.com
+rich salz
+the group
+11 cambridge center
+cambridge u.s.a.
+email r.salz@opengroup.org
+appendix _ uuid implementation
+/*
+** inc.
+leach salz
+expires 1997
+[page 12]
+internet-draft
+uuids guids draft)
+02/24/97
+** hewlett-packard palo &
+** nard mass.
+** is"
+** copy,
+** hereby
+** and
+** of
+** hewlett-packard
+** advertising
+** without
+** permission.
+neither software
+** hewlett-packard equipment
+** of
+** purpose.
+*/
+#include
+#include
+typedef long
+unsigned32;
+typedef short
+unsigned16;
+typedef char
+unsigned8;
+typedef char
+byte;
+#define clock_seq_last
+0x3fff
+#define rand_mask
+clock_seq_last
+typedef struct _uuid_t 
+unsigned32
+time_low;
+unsigned16
+time_mid;
+unsigned16
+time_hi_and_version;
+unsigned8
+clock_seq_hi_and_reserved;
+unsigned8
+clock_seq_low;
+byte
+node[6];
+ uuid_t;
+typedef struct _unsigned64_t 
+unsigned32
+lo;
+unsigned32
+hi;
+ unsigned64_t;
+/*
+**
+add integers.
+*/
+#define add_64b_2_64b(a \
+ \
+if !(((a)->lo & 0x80000000ul ^ (b)->lo & 0x80000000ul)) 
+\
+if ((a)->lo&0x80000000ul) \
+(sum)->lo = a)->lo + b)->lo; \
+(sum)->hi = a)->hi + b)->hi + 1; \
+ \
+else \
+(sum)->lo
+= a)->lo + b)->lo; \
+(sum)->hi = a)->hi + b)->hi; \
+leach salz
+expires 1997
+[page 13]
+internet-draft
+uuids guids draft)
+02/24/97
+ \
+ \
+else \
+(sum)->lo = a)->lo + b)->lo; \
+(sum)->hi = a)->hi + b)->hi; \
+if !((sum)->lo&0x80000000ul) sum)->hi++; \
+ \
+}
+/*
+**
+add integer.
+*/
+#define add_16b_2_64b(a \
+ \
+(sum)->hi = b)->hi; \
+if (b)->lo & 0x80000000ul \
+(sum)->lo = *a + b)->lo; \
+if !((sum)->lo & 0x80000000ul) sum)->hi++; \
+ \
+else \
+(sum)->lo = *a + b)->lo; \
+}
+/*
+**
+global variables.
+*/
+static unsigned64_t
+time_last;
+static unsigned16
+clock_seq;
+static void
+mult32(unsigned32 unsigned32 unsigned64_t *result)
+{
+/* knuth */
+unsigned32 uuid1 uuid2 v1 v2 temp;
+uuid1 = >> 16;
+uuid2 = & 0xffff;
+v1 = >> 16;
+v2 = & 0xffff;
+temp = uuid2 * v2;
+result->lo = & 0xffff;
+temp = uuid1 * v2 + >> 16);
+result->hi = >> 16;
+temp = uuid2 * v1 + & 0xffff);
+result->lo += & 0xffff << 16;
+result->hi += uuid1 * v1 + >> 16);
+}
+static void
+get_system_time(unsigned64_t *uuid_time)
+{
+struct timeval tp;
+unsigned64_t utc usecs os_basetime_diff;
+leach salz
+expires 1997
+[page 14]
+internet-draft
+uuids guids draft)
+02/24/97
+gettimeofday(&tp struct *)0);
+mult32((long)tp.tv_sec &utc);
+mult32((long)tp.tv_usec &usecs);
+add_64b_2_64b(&usecs &utc &utc);
+/* uuid unix times.
+* uuid utc ober 1582.
+* unix uary */
+os_basetime_diff.lo = 0x13814000;
+os_basetime_diff.hi = 0x01b21dd2;
+add_64b_2_64b(&utc &os_basetime_diff uuid_time);
+}
+/*
+** alexander
+** hass acm software,
+** 12/87.
+*/
+static unsigned32 rand_m;
+static unsigned32 rand_ia;
+static unsigned32 rand_ib;
+static unsigned32 rand_irand;
+static void
+true_random_init(void)
+{
+unsigned64_t t;
+unsigned16 seed;
+/* but,
+* and
+* usec mixup the
+* xor'ing together.
+this effect
+* seed
+* independent.
+then measure
+* processes
+* uuids pid.
+*/
+rand_m = 971;
+rand_ia = 11113;
+rand_ib = 104322;
+rand_irand = 4181;
+get_system_time(&t);
+seed
+=
+t.lo
+& 0xffff;
+seed ^= t.lo >> & 0xffff;
+seed ^=
+t.hi
+& 0xffff;
+seed ^= t.hi >> & 0xffff;
+rand_irand += + getpid();
+}
+static unsigned16
+true_random(void)
+{
+if (rand_m += >= 9973)
+leach salz
+expires 1997
+[page 15]
+internet-draft
+uuids guids draft)
+02/24/97
+rand_m -= 9871;
+if (rand_ia += >= 99991)
+rand_ia -= 89989;
+if (rand_ib += >= 224729)
+rand_ib -= 96233;
+rand_irand = rand_irand * rand_m + rand_ia + rand_ib;
+return rand_irand >> ^ rand_irand & rand_mask);
+}
+/*
+**
+startup uuid module.
+*/
+void
+uuid_init(void)
+{
+true_random_init();
+get_system_time(&time_last);
+#ifdef nonvolatile_clock
+clock_seq = read_clock();
+#else
+clock_seq = true_random();
+#endif
+}
+static int
+time_cmp(unsigned64_t *time1 unsigned64_t *time2)
+{
+if time1->hi < time2->hi -1;
+if time1->hi > time2->hi 1;
+if time1->lo < time2->lo -1;
+if time1->lo > time2->lo 1;
+return 0;
+}
+static new_clock_seq(void)
+{
+clock_seq = clock_seq + % clock_seq_last + 1);
+if clock_seq == clock_seq = 1;
+#ifdef nonvolatile_clock
+write_clock(clock_seq);
+#endif
+}
+void uuid_create(uuid_t *uuid)
+{
+static unsigned64_t
+time_now;
+static unsigned16
+time_adjust;
+byte
+eaddr[6];
+int
+got_no_time = 0;
+get_ieee_node_identifier(&eaddr);
+/* */
+do 
+get_system_time(&time_now);
+leach salz
+expires 1997
+[page 16]
+internet-draft
+uuids guids draft)
+02/24/97
+switch time_cmp(&time_now &time_last) 
+case -1:
+/* */
+new_clock_seq();
+time_adjust = 0;
+break;
+case 1:
+time_adjust = 0;
+break;
+default:
+if time_adjust == 0x7fff)
+/* clock; */
+got_no_time = 1;
+else
+time_adjust++;
+break;
+}
+ got_no_time);
+time_last.lo = time_now.lo;
+time_last.hi = time_now.hi;
+if time_adjust = 
+add_16b_2_64b(&time_adjust &time_now &time_now);
+}
+/* uuid gathered
+* */
+uuid->time_low = time_now.lo;
+uuid->time_mid = time_now.hi & 0x0000ffff;
+uuid->time_hi_and_version = time_now.hi & 0x0fff0000 >> 16;
+uuid->time_hi_and_version |= << 12);
+uuid->clock_seq_low = clock_seq & 0xff;
+uuid->clock_seq_hi_and_reserved = clock_seq & 0x3f00 >> 8;
+uuid->clock_seq_hi_and_reserved |= 0x80;
+memcpy(uuid->node &eaddr sizeof uuid->node);
+}
+leach salz
+expires 1997
+[page
+
+
+
+
+
+
+================= https://www.itu.int/en/ITU-T/asn1/Pages/UUID/uuids.aspx ==================
+
+
+
+
+
+ uuids)
+committed world
+search for:
+itu
+general secretariat
+radiocommunication
+standardization
+about itu-t
+study groups
+events
+all groups
+join itu-t
+standards
+resources
+regional presence
+bsg
+development
+itu telecom
+members zone
+join itu
+universally uuids)
+rollup image
+you here
+home > itu-t > asn.1 project
+share
+projectintroduction asn.1short introductionmyths asn.1application asn.1defects corrigenda asn.1 editiontoolsthe notationtutorialecn bluetooth sdpecn umts rrc protocolxml rulesxml xer asn.1mapping xml schemas asn.1 moduleswhy asn.1 xmlfast servicesadvantages servicesfast infosetoid projectuuidsmore asn.1 xml
+page 20this rec.
+itu-t x.667 | iso/iec 9834-8"information - - osi uuids asn.1 components".​uuid generationget uuidthis uuid use.
+page 9
+page 10
+what uuid?
+page 18​a uuid from
+tagging very
+persistent part
+of asn.1 oid urn). uuids
+are et ets bits). ets as
+an a
+subsequent joint-iso-itu-t uuid(25) or
+2.25 oid users
+to oids procedure.uuids a
+component oid asn.1 imal
+representation is
+more hexaimal arating
+the 16-et uuid. in
+rec. itu-t x.667 | iso/iec
+9834-8.example f81d4fae-7-11d0-a765-00a0c91e6bf6 the
+hexaimal uuid as
+329800735698586629295641978511506172918 imal
+notation.uuids guids),
+but itu-t x.667 | iso/iec uuids
+were nca the
+open dce). iso/iec
+11578 rpc) of
+some uuid itu-t x.667 | iso/iec which
+is specifications.if generated
+according itu-t x.667 | iso/iec a
+uuid uuids before
+3603 a.d. mechanism
+chosen). uuid very
+high uuids
+can ids.no required
+to uuids uuids algorithm
+defined itu-t x.667 |
+iso/iec web
+page.government identical
+values uuid is
+very uuids md5 or
+pseudo-random sha-1
+hash cryptographic-quality confusion
+for oid as
+spoofing.
+use uuid urn
+page 19​​a ietf rfc
+2141 uuid urn:uuid: follo by
+the hexaimal uuid.example an
+example uuid a
+urn:urn:uuid:f81d4fae-7-11d0-a765-00a0c91e6bf6
+page 6
+page 7
+page 11
+page 12
+page 2
+page 3
+page 4
+page 5
+page 13
+page 14
+page 15
+page 16
+follow us
+twitter
+facebook
+youtube
+flickr
+linkedin
+instagram
+© itu
+all reserved
+contact us
+privacy notice
+accessibility
+report misconduct
+back
+
+
+
+
+
+
+================= https://tools.ietf.org/html/rfc4122 ==================
+
+
+
+
+

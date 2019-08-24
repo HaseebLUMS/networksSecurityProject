@@ -1,0 +1,1 @@
+ posix upnp/1.0 upnp stack/1.11.0.0 urn:schemas-upnp-org:service:wanipconnection:1 uuid:cf6a40ad-721d-ce05-f12e-2c7ba88f722f::urn:schemas-upnp-org:service:wanipconnection:1

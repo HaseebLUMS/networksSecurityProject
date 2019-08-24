@@ -1,1 +1,1 @@
- custom/1.0 upnp/1.0 proc/ver http://192.168.1.dyndev/uuid:681590ca-139d-9d13-caca9d0000 cache-control:max-age=1800 st:urn:schemas-upnp-org:service:wanpppconnection:1 usn:uuid:681590ca-139d-9d13-caca9d0002::urn:schemas-upnp-org:service:wanpppconnection:1
+ samg-linux/4.1 upnp/1.0 samg_upnp_sdk/1.0 urn:samg.com:service:multiscreenservice:1 uuid:50a944c-4dfe9c4b1cfff74::urn:samg.com:service:multiscreenservice:1 bootid.upnp.org

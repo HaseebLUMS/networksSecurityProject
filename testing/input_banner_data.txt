@@ -1,8 +1,11 @@
 HTTP/1.1 200 OK
-Server: Custom/1.0 UPnP/1.0 Proc/Ver
-EXT:
-Location: http://192.168.1.1:5431/dyndev/uuid:681590ca-139d-9d13-ca90-156815ca9d0000
-Cache-Control:max-age=1800
-ST:urn:schemas-upnp-org:service:WANPPPConnection:1
-USN:uuid:681590ca-139d-9d13-ca90-156815ca9d0002::urn:schemas-upnp-org:service:WANPPPConnection:1
+CACHE-CONTROL: max-age=1800
+DATE: Tue, 05 Feb 2019 11:50:18 GMT
+EXT: 
+LOCATION: http://192.168.10.11:7676/rcr/
+SERVER: Samsung-Linux/4.1, UPnP/1.0, Samsung_UPnP_SDK/1.0
+ST: urn:samsung.com:service:MultiScreenService:1
+USN: uuid:50a944c1-176a-4df1-8652-e9c4b1cfff74::urn:samsung.com:service:MultiScreenService:1
+Content-Length: 0
+BOOTID.UPNP.ORG: 3
 

@@ -77,13 +77,13 @@ def run_apriori(trans):
 	df['Items'] = list(map(set, Items))                                   
 	df['Support'] = Support
 	df['Confidence'] = Confidence
-	df.to_csv('File_B1.csv')
+	df.to_csv('Rules_2.csv')
 	df.to_pickle('RULES')
 	print(len(df['Items']))
 	print(df)
 
 def main():
-	with open('type_2.json') as f: data = f.read()
+	with open('type_1.json') as f: data = f.read()
 	data = json.loads(data)
 	trans = []
 
@@ -92,7 +92,7 @@ def main():
 			trans += data[ele]['transactions']
 		except:
 			pass
-	# print(len(trans))
+	print(len(trans))
 	run_apriori(trans)
 
 main()

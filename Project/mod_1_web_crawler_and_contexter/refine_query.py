@@ -110,6 +110,38 @@ def remove_http_codes(data, codes):
 	data = data.replace("http/", "")
 	return data
 
+def cut(upnp, token):
+	ind_1 = upnp.find(token)
+	if ind_1 == -1: return ""
+	text = " "
+	text = upnp[ind_1+len(token):]
+	ind_1 = text.find('\r\n')
+	if ind_1 == -1: ind_1 = len(text)-1
+	text = text[0:ind_1]
+	return text
+
+
+def upnpRefine(upnp):
+	server_part = ""
+	server_token = "server: "
+	st_part = ""
+	st_token = "st: "
+	usn_part = ""
+	usn_token = "usn: "
+
+	server_part = cut(upnp, server_token)
+	st_part = cut(upnp, st_token)
+	usn_part = cut(upnp, usn_token)
+
+	server_part = server_part.replace(st_part, "")
+	server_part = server_part.replace(usn_part, "")
+	st_part = st_part.replace(usn_part, "")
+
+	ans = server_part + " " + st_part + " " + usn_part
+	ans = ans.replace('usn', '')
+	return ans
+
+
 '''
 Uses Enchant library for removing dictionary words from 
 input banner and extracting keywords. 
@@ -129,6 +161,9 @@ the html tags from the banner data
 
 def refine_query(q, mode):
 	d = enchant.Dict('en_US')
+
+	if 'upnp' in q.lower():
+		q = upnpRefine(q.lower())
 
 	q = remove_http_codes(q, http_codes)
 	q = remove_dates(q)

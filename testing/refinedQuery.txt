@@ -1,1 +1,1 @@
-upnp/1.0 proc/ver
+ samg-linux/4.1 upnp/1.0 samg_upnp_sdk/1.0 urn:samg.com:service:multiscreenservice:1 uuid:50a944c-4dfe9c4b1cfff74::urn:samg.com:service:multiscreenservice:1 bootid.upnp.org

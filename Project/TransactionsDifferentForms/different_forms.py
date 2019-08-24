@@ -9,23 +9,25 @@ data_2 = {}
 
 
 for ele in data:
-	if ele is "0": continue
-	tmp = data[ele]
-	try: banner = tmp['refined banner']
-	except: banner = ""
-	try: annotations = tmp['annotations']
-	except: annotations = []
+	try:
+		if ele is "0": continue
+		tmp = data[ele]
+		try: banner = tmp['refined banner']
+		except: banner = ""
+		try: annotations = tmp['annotations']
+		except: annotations = []
 
-	#banner = "a b c d e f"
-	#annotations = ["x | y | z", "xs", "1 | 2"]
-	transactions2 = make_transactions_type_2(banner, annotations)
-	data_2[ele] = data[ele].copy()
-	data_2[ele]['transactions'] = transactions2
-	
-	transactions = make_transactions_type_1(banner, annotations)
-	data_1[ele] = data[ele].copy()
-	data_1[ele]['transactions'] = transactions
-
+		#banner = "a b c d e f"
+		#annotations = ["x | y | z", "xs", "1 | 2"]
+		transactions2 = make_transactions_type_2(banner, annotations)
+		data_2[ele] = data[ele].copy()
+		data_2[ele]['transactions'] = transactions2
+		
+		transactions = make_transactions_type_1(banner, annotations)
+		data_1[ele] = data[ele].copy()
+		data_1[ele]['transactions'] = transactions
+	except:
+		pass
 
 data_1 = json.dumps(data_1, indent=4)
 data_2 = json.dumps(data_2, indent=4)

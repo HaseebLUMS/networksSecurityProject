@@ -1,7 +1,9 @@
 {
     "pages": [
-        "one word query yields no web searches",
-        "one word query yields no web searches",
-        "one word query yields no web searches"
+        "https://www.uuidgenerator.net/",
+        "https://github.com/ConnectSDK/Connect-SDK-Android/issues/133",
+        "http://upnp.org/resources/draft-leach-uuids-guids-00.txt",
+        "https://www.itu.int/en/ITU-T/asn1/Pages/UUID/uuids.aspx",
+        "https://tools.ietf.org/html/rfc4122"
     ]
 }

@@ -33,7 +33,7 @@
     },
     "4": {
         "ip": 4,
-        "banner": "SSH-2.0-dropbear_2014.63\r\n",
+        "banner": "SSH 2.0 dropbear_2014.63\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -41,7 +41,7 @@
     },
     "5": {
         "ip": 5,
-        "banner": "SSH-2.0-dropbear_0.46\r\n",
+        "banner": "SSH 2.0 dropbear_0.46\r\n",
         "deviceInfo": {
             "model": "KW5815U",
             "type": "Router/Gateway"
@@ -49,7 +49,7 @@
     },
     "6": {
         "ip": 6,
-        "banner": "SSH-2.0-dropbear_2012.55\r\n",
+        "banner": "SSH 2.0 dropbear_2012.55\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -81,7 +81,7 @@
     },
     "10": {
         "ip": 10,
-        "banner": "SSH-2.0-dropbear_2014.63\r\n",
+        "banner": "SSH 2.0 dropbear_2014.63\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -145,7 +145,7 @@
     },
     "18": {
         "ip": 18,
-        "banner": "SSH-2.0-dropbear_0.46\r\n",
+        "banner": "SSH 2.0-dropbear_0.46\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -193,7 +193,7 @@
     },
     "24": {
         "ip": 24,
-        "banner": "SSH-2.0-dropbear_2012.55\r\n",
+        "banner": "SSH 2.0 dropbear_2012.55\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -201,7 +201,7 @@
     },
     "25": {
         "ip": 25,
-        "banner": "SSH-2.0-dropbear_2012.55\r\n",
+        "banner": "SSH 2.0 dropbear_2012.55\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -233,7 +233,7 @@
     },
     "29": {
         "ip": 29,
-        "banner": "SSH-2.0-dropbear_0.46\r\n",
+        "banner": "SSH 2.0 dropbear_0.46\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -265,7 +265,7 @@
     },
     "33": {
         "ip": 33,
-        "banner": "SSH-2.0-dropbear_2012.55\r\n",
+        "banner": "SSH 2.0 dropbear_2012.55\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -297,7 +297,7 @@
     },
     "37": {
         "ip": 37,
-        "banner": "SSH-2.0-dropbear_0.46\r\n",
+        "banner": "SSH 2.0 dropbear_0.46\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -337,7 +337,7 @@
     },
     "42": {
         "ip": 42,
-        "banner": "SSH-2.0-dropbear_2012.55\r\n",
+        "banner": "SSH 2.0 dropbear_2012.55\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -377,7 +377,7 @@
     },
     "47": {
         "ip": 47,
-        "banner": "SSH-2.0-dropbear_0.46\r\n",
+        "banner": "SSH 2.0 dropbear_0.46\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -457,7 +457,7 @@
     },
     "57": {
         "ip": 57,
-        "banner": "SSH-2.0-dropbear_2014.63\r\n",
+        "banner": "SSH 2.0 dropbear_2014.63\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -473,7 +473,7 @@
     },
     "59": {
         "ip": 59,
-        "banner": "SSH-2.0-dropbear_2012.55\r\n",
+        "banner": "SSH 2.0 dropbear_2012.55\r\n",
         "deviceInfo": {
             "model": "",
             "type": "Router/Gateway"
@@ -497,7 +497,7 @@
     },
     "62": {
         "ip": 62,
-        "banner": "SSH-2.0-dropbear_2014.63\r\n",
+        "banner": "SSH 2.0 dropbear_2014.63\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -505,7 +505,7 @@
     },
     "63": {
         "ip": 63,
-        "banner": "SSH-2.0-ROSSSH\r\n",
+        "banner": "SSH 2.0 ROSSSH\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -513,7 +513,7 @@
     },
     "64": {
         "ip": 64,
-        "banner": "SSH-2.0-dropbear_2011.54\r\n",
+        "banner": "SSH 2.0 dropbear_2011.54\r\n",
         "deviceInfo": {
             "model": "AC1350",
             "type": "Router/Gateway"
@@ -561,7 +561,7 @@
     },
     "70": {
         "ip": 70,
-        "banner": "SSH-2.0-3n_7uCgHZ3J\r\n",
+        "banner": "SSH 2.0 3n_7uCgHZ3J\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -569,7 +569,7 @@
     },
     "71": {
         "ip": 71,
-        "banner": "SSH-2.0-OpenSSH_4.3\n",
+        "banner": "SSH 2.0 OpenSSH_4.3\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -585,7 +585,7 @@
     },
     "73": {
         "ip": 73,
-        "banner": "SSH-2.0-OpenSSH_7.9\r\n",
+        "banner": "SSH 2.0 OpenSSH_7.9\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -617,7 +617,7 @@
     },
     "77": {
         "ip": 77,
-        "banner": "SSH-2.0-dropbear_2011.54\r\n",
+        "banner": "SSH 2.0 dropbear_2011.54\r\n",
         "deviceInfo": {
             "model": "",
             "type": "Router/Gateway"
@@ -665,7 +665,7 @@
     },
     "83": {
         "ip": 83,
-        "banner": "SSH-2.0-dropbear_0.46\r\n",
+        "banner": "SSH 2.0 dropbear_0.46\r\n",
         "deviceInfo": {
             "model": "Sagemcom FAST1704n",
             "type": "Router/Gateway"
@@ -697,7 +697,7 @@
     },
     "87": {
         "ip": 87,
-        "banner": "SSH-2.0-dropbear_2012.55\r\n",
+        "banner": "SSH 2.0 dropbear_2012.55\r\n",
         "deviceInfo": {
             "model": "TL-WR840N",
             "type": "Router/Gateway"
@@ -737,7 +737,7 @@
     },
     "92": {
         "ip": 92,
-        "banner": "SSH-2.0-dropbear_2012.55\r\n",
+        "banner": "SSH 2.0 dropbear_2012.55\r\n",
         "deviceInfo": {
             "model": "TL-WR845N",
             "type": "Router/Gateway"
@@ -801,7 +801,7 @@
     },
     "100": {
         "ip": 100,
-        "banner": "SSH-2.0-dropbear_2011.54\r\n",
+        "banner": "SSH 2.0 dropbear_2011.54\r\n",
         "deviceInfo": {
             "model": "",
             "type": ""
@@ -817,7 +817,7 @@
     },
     "102": {
         "ip": 102,
-        "banner": "SSH-2.0-dropbear_2014.63\r\n",
+        "banner": "SSH 2.0 dropbear_2014.63\r\n",
         "deviceInfo": {
             "model": "qmobile",
             "type": "CellPhone"

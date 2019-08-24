@@ -128,7 +128,7 @@ def find_product(text, a, b, tags):
 				# print(tt, a, b, ind_a, ind_b)
 				if any_lower_ab == True:
 					ans_prod.add(t.upper())
-					print(ans_prod)
+					# print(ans_prod)
 					break
 
 	return list(ans_prod)

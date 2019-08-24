@@ -10,12 +10,14 @@ with open('ferretBanners.json') as b:
 
 banners = []
 ips = []
-for i in range(0, 107):
+for i in range(90, 107):
 	try:
 		tmp = data[str(i)]['banner']
 		if 'filezilla' in tmp.lower(): 
 			continue
 		if 'serve-u' in tmp.lower(): 
+			continue
+		if 'ssh' in tmp.lower():
 			continue
 		banners.append(data[str(i)]['banner'])
 		ips.append(data[str(i)]['ip'])

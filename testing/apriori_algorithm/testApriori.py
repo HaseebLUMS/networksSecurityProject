@@ -62,10 +62,10 @@ def run_apriori(trans):
 		for ordered_stat in RelationRecord.ordered_statistics:
 			
 			# if((len(Items) and are_diff(Items[len(Items)-1], RelationRecord.items)) or len(Items) is 0):
-			# if contains_prediction(RelationRecord.items):	
-			Support.append(RelationRecord.support)
-			Items.append(RelationRecord.items)
-			Confidence.append(ordered_stat.confidence)
+			if contains_prediction(RelationRecord.items):	
+				Support.append(RelationRecord.support)
+				Items.append(RelationRecord.items)
+				Confidence.append(ordered_stat.confidence)
 
 			# elif(not are_diff(Items[len(Items)-1], RelationRecord.items)):
 			# 	if contains_prediction(RelationRecord.items):
@@ -77,13 +77,13 @@ def run_apriori(trans):
 	df['Items'] = list(map(set, Items))                                   
 	df['Support'] = Support
 	df['Confidence'] = Confidence
-	df.to_csv('Rules.csv')
+	df.to_csv('Rules_1.csv')
 	df.to_pickle('RULES')
 	print(len(df['Items']))
 	print(df)
 
 def main():
-	with open('transactions2.json') as f: data = f.read()
+	with open('transactions.json') as f: data = f.read()
 	data = json.loads(data)
 	trans = []
 	for key in data:
