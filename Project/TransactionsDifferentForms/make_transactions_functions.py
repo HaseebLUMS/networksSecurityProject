@@ -29,6 +29,8 @@ def make_transactions_type_1(banner, annotations):
 def make_transactions_type_2(banner, annotations):
 	transactions = make_transactions(banner, annotations, split_banner)
 	return transactions
-
+def make_simple_transactions(banner, annotations):
+	transactions = list(map(lambda x: [banner, x] , annotations))
+	return transactions
 # print(make_transactions_type_1("it is a banner", ["A | B | C", "X | Y", "1 | 2 | 3"]))
-# print(make_transactions_type_2("it is a banner", ["A | B | C", "X | Y", "1 | 2 | 3"]))
+# print(make_simple_transactions("it is a banner", ["A | B | C", "X | Y", "1 | 2 | 3"]))

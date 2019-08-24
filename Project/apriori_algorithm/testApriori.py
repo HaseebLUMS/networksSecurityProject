@@ -49,7 +49,7 @@ def contains_prediction(a):
 --writes the inferred rule in file "RULES"
 '''
 def run_apriori(trans):
-	results = list(apriori(trans, min_support=0.001, min_confidence=0.5))
+	results = list(apriori(trans, min_support=0.05, min_confidence=0.5))
 	#0.0001, 0.005
 	#0.005
 	#2721
@@ -93,6 +93,8 @@ def main():
 		except:
 			pass
 	print(len(trans))
+	t = json.dumps({"transactions":trans}, indent=4)
+	with open("trans_rule_2.json", 'w') as f: f.write(t)
 	run_apriori(trans)
 
 main()

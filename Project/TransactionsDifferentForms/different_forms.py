@@ -1,10 +1,12 @@
 import json
 from make_transactions_functions import make_transactions_type_1
 from make_transactions_functions import make_transactions_type_2
+from make_transactions_functions import make_simple_transactions
 with open("1-testing.json") as f: data = json.loads(f.read())
 
 data_1 = {}
 data_2 = {}
+data_0 = {}
 
 
 
@@ -19,6 +21,10 @@ for ele in data:
 
 		#banner = "a b c d e f"
 		#annotations = ["x | y | z", "xs", "1 | 2"]
+		simple_trans = make_simple_transactions(banner, annotations)
+		data_0[ele] = data[ele].copy()
+		data_0['transactions'] = simple_trans
+
 		transactions2 = make_transactions_type_2(banner, annotations)
 		data_2[ele] = data[ele].copy()
 		data_2[ele]['transactions'] = transactions2
@@ -31,6 +37,8 @@ for ele in data:
 
 data_1 = json.dumps(data_1, indent=4)
 data_2 = json.dumps(data_2, indent=4)
+data_0 = json.dumps(data_0, indent=4)
 
 with open('type_1.json', 'w') as f: f.write(data_1)
 with open('type_2.json', 'w') as f: f.write(data_2)
+with open('type_0.json', 'w') as f: f.write(data_0)
