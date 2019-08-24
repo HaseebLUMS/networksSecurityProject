@@ -73,7 +73,7 @@ def perform_search(words):
                         isTrash = True
                 if isTrash is True: continue
                 urls.append(link)
-        except info:
+        except Exception as info:
             print('ERROR: ', info)
 
         try: #if no next then return
