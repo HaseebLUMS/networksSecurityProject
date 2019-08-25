@@ -588,3 +588,12 @@ console.error: BroadcastService:
 1566662189958	Marionette	INFO	Listening on port 38585
 1566662190065	Marionette	WARN	TLS certificate errors will be ignored for this session
 1566662199676	Marionette	INFO	Stopped listening on port 38585
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22701, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 22655, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22632, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
