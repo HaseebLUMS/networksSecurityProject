@@ -48,7 +48,7 @@ def perform_search(words):
     urls = []
 
     for p in range(1, lim_page):
-        print(".")
+        # print(".")
         try:
             time.sleep(1)
             if(len(urls) > lim):

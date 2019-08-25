@@ -1,9 +1,9 @@
 import re
 import enchant
-from rake_nltk import Rake
 import sys
 from combinations import generate_queries
-
+from spellchecker import SpellChecker
+spell = SpellChecker
 
 '''
 While removing dictionary words,
@@ -150,7 +150,7 @@ the html tags from the banner data
 '''
 
 def refine_query(q, mode, devices, vendors):
-	d = enchant.Dict('en_US')
+	# d = enchant.Dict('en_US')
 
 	if 'upnp' in q.lower():
 		q = upnpRefine(q.lower())
@@ -197,9 +197,10 @@ def refine_query(q, mode, devices, vendors):
 			if k is "": continue
 			k = trim(k)
 			try:
-				if (d.check(k.lower()) == True) and (in_database(k.lower(), devices, vendors) == False): continue
+				# if (d.check(k.lower()) == True) and (in_database(k.lower(), devices, vendors) == False): continue
+				if len(spell.unknown([k.lower()])) == 0 and (in_database(k.lower(), devices, vendors) == False): continue
 			except Exception as exception:
-				print("Exception: ", exception)
+				# print("Exception: ", exception)
 				pass
 			if mode == 1:
 				if k.isdigit() is True: continue

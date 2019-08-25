@@ -42,7 +42,6 @@ def page_search(url):
 				print ("killing a web search")
 				p.terminate()
 				p.join()
-				text = query
 				break
 			time.sleep(1)
 			turns += 1

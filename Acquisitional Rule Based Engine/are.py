@@ -11,12 +11,11 @@ from fetch_urls import perform_search as fetch_urls
 from fetch_webpages import pages_search as fetch_webpages
 from NER_with_local_dependencies import find_annotations
 web_pages_limit = 10
-single_worded_banners = []
 ''' 
 Provided value is a single word or not.
 If single, also appends it to single_worded_banners list
 '''
-def is_not_single_worded(banner):
+def is_not_single_worded(banner, single_worded_banners):
 	if banner.find(" ") == -1:
 		single_worded_banners.append(banner)
 		return False
@@ -26,11 +25,9 @@ Given devices and vendors, returns a
 list of annotations
 '''
 def make_annotations(devices, vendors):
-	one_worded_annotations = []
+	one_worded_annotations = [] + list(map(lambda x: x.upper(), devices)) + list(map(lambda x: x.upper(), vendors))
 	for d in devices:
-		one_worded_annotations.append(d.upper())
 		for v in vendors:
-			one_worded_annotations.append(v.upper())
 			tmp = v + " | " + d
 			one_worded_annotations.append(tmp.upper())
 	return one_worded_annotations
@@ -45,12 +42,12 @@ Main function for Acquisitional Rule-based Engine
 def ARE(banner):
 	annotations = []
 	refined_banners = refine(banner, 1, devices, vendors)
-	refined_banners = list(filter(is_not_single_worded, refined_banners))
+	single_worded_banners = []
+	refined_banners = list(filter(lambda x: is_not_single_worded(x, single_worded_banners), refined_banners))
 	single_worded_banners_vendors = list(filter(lambda x: x in vendors, single_worded_banners))
 	single_worded_banners_devices = list(filter(lambda x: x in devices, single_worded_banners))
 	one_worded_annotations = make_annotations(single_worded_banners_devices, single_worded_banners_vendors)
-	print(one_worded_annotations)
-	print('refined_banners', refined_banners)
+	annotations += one_worded_annotations
 	urls = []
 	for _bnr in refined_banners:
 		_urls = fetch_urls(_bnr)
