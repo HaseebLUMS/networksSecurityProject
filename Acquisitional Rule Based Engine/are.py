@@ -1,8 +1,9 @@
 '''
 Main File for Acquisitional Rule-based Engine
-Given a banner, returna a list of annotations
+Given a banner, returns a list of annotations
 '''
 import time
+import json
 from devices import devices
 from vendors import vendors
 from refine  import refine_query as refine
@@ -11,9 +12,12 @@ from fetch_urls import perform_search as fetch_urls
 from fetch_webpages import pages_search as fetch_webpages
 from NER_with_local_dependencies import find_annotations
 web_pages_limit = 10
+unique_refined_banners = set({})
+banner_to_number = {}
 ''' 
 Provided value is a single word or not.
 If single, also appends it to single_worded_banners list
+which is passed as an argument (passed by reference)
 '''
 def is_not_single_worded(banner, single_worded_banners):
 	if banner.find(" ") == -1:
@@ -37,11 +41,28 @@ Main function for Acquisitional Rule-based Engine
 -- Fetches URLs
 -- Fetches Web Pages
 -- Runs NER and finds local dependencies
--- return annotations 
+-- returns annotations 
 '''
-def ARE(banner):
+def ARE(ARGS):
+	banner = ARGS[0]
+	file_number = ARGS[1]
+	log = {'banner': banner}
 	annotations = []
+	refined_banner = refine(banner, 2, devices, vendors)
+	print('Started ', file_number, ' ', refined_banner)
 	refined_banners = refine(banner, 1, devices, vendors)
+	log['queries'] = refined_banners
+	log['refined banner'] = refined_banner
+	print(refined_banners)
+	if refined_banner in unique_refined_banners:
+		num = banner_to_number[refined_banner]
+		log['num'] = num
+		log = json.dumps(log, indent=4)
+		with open('./Log_Files/'+str(file_number)+'.json', 'w') as f: f.write(log)
+		return
+	else:
+		unique_refined_banners.add(refined_banner)
+		banner_to_number[refined_banner] = file_number
 	single_worded_banners = []
 	refined_banners = list(filter(lambda x: is_not_single_worded(x, single_worded_banners), refined_banners))
 	single_worded_banners_vendors = list(filter(lambda x: x in vendors, single_worded_banners))
@@ -49,11 +70,23 @@ def ARE(banner):
 	one_worded_annotations = make_annotations(single_worded_banners_devices, single_worded_banners_vendors)
 	annotations += one_worded_annotations
 	urls = []
-	for _bnr in refined_banners:
-		_urls = fetch_urls(_bnr)
-		if len(_urls) > web_pages_limit: _urls = _urls[0:web_pages_limit]
-		urls += _urls
-	url_to_page_dictionary = fetch_webpages(urls)
+	url_to_page_dictionary = {}
+	try: 
+		for _bnr in refined_banners:
+			_urls = fetch_urls(_bnr)
+			if len(_urls) > web_pages_limit: _urls = _urls[0:web_pages_limit]
+			urls += _urls
+		log['pages'] = urls
+		url_to_page_dictionary = fetch_webpages(urls)
+	except Exception as e: 
+		print('Exception: ', e)
 	annotations += find_annotations(banner, url_to_page_dictionary, devices, vendors)
-	
+	log['annotations'] = annotations
+	log = json.dumps(log, indent=4)
+	with open('./Log_Files/'+str(file_number)+'.json', 'w') as f: f.write(log)
+	print(file_number, ' completed.')
 	return annotations
+
+
+# b = "HTTP/1.1 400 Bad Request\r\nServer: micro_httpd\r\nCache-Control: no-cache\r\nDate: Wed, 13 Feb 2019 17:55:20 GMT\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<HTML><HEAD><TITLE>400 Bad Request</TITLE></HEAD>\n<BODY BGCOLOR= #cc9999 ><H4>400 Bad Request</H4>\nNo request found.\n<HR>\n<ADDRESS><A HREF= http://www.acme.com/software/micro_httpd/ >micro_httpd</A></ADDRESS>\n</BODY></HTML>\n"
+# ARE([b, 0])

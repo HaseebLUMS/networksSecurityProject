@@ -4,7 +4,7 @@ import json
 with open('type_2.json') as f: data = json.loads(f.read())
 
 
-text = "IP,REFINED BANNER,ANNOTATIONS,TRANSACTIONS\n"
+text = "IP,REFINED BANNER,QUERIES,PAGES,ANNOTATIONS\n"
 
 def check(data):
 
@@ -38,27 +38,27 @@ for ele in data:
 	transactions = " "
 
 	try: ip = tmp['ip']
-	except: pass
+	except: ip = "127.0.0.1"
 
 
 	try: banner = tmp['banner']
-	except: pass
+	except: banner = "empty"
 
 
 	try: refined = tmp['refined banner']
-	except: pass
+	except: refined = "empty"
 
 
 	try: queries = flat_list(tmp['queries'])
-	except: pass
+	except: queries = "[]"
 
 
 	try: pages = flat_list(tmp['pages'])
-	except: pass
+	except: pages = "[]"
 
 
 	try: annotations = flat_list(tmp['annotations'])
-	except: pass
+	except: annotations = "[]"
 
 
 	try: transactions = flat_list_double(tmp['transactions'])
@@ -66,8 +66,8 @@ for ele in data:
 	banner = "'"+check(banner)+"'"
 
 
-	t1 = ip + "," + refined + "," + annotations + "," + transactions + "\n"
+	t1 = ip + "," + refined + "," + queries + "," + pages + "," + annotations + "\n"
 	text += (t1)
 
 
-with open('File_B2.csv', 'w') as f: f.write(text)
+with open('File_2.csv', 'w') as f: f.write(text)

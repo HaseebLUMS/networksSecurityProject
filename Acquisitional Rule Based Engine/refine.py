@@ -113,11 +113,11 @@ def cut(upnp, token):
 
 def upnpRefine(upnp):
 	server_part = ""
-	server_token = "server: "
+	server_token = "server:"
 	st_part = ""
-	st_token = "st: "
+	st_token = "st:"
 	usn_part = ""
-	usn_token = "usn: "
+	usn_token = "usn:"
 
 	server_part = cut(upnp, server_token)
 	st_part = cut(upnp, st_token)
@@ -129,6 +129,8 @@ def upnpRefine(upnp):
 
 	ans = server_part + " " + st_part + " " + usn_part
 	ans = ans.replace('usn', '')
+	ans = ans.replace('st', '')
+	ans = ans.replace('  ', ' ')
 	return ans
 
 
@@ -152,40 +154,43 @@ the html tags from the banner data
 def refine_query(q, mode, devices, vendors):
 	# d = enchant.Dict('en_US')
 
-	if 'upnp' in q.lower():
-		q = upnpRefine(q.lower())
+	# if 'upnp' in q.lower():
+	q = upnpRefine(q.lower())
 
 	q = remove_http_codes(q, http_codes)
 	q = remove_dates(q)
 	
-	if mode == 1: #Section 4.2, sub sec: Web Crawler, first para
-		pat_script = r"(?is)<script[^>]*>(.*?)</script>"
-		q = re.sub(pat_script, "", q)
+	if mode == 1 or mode == 2: #Section 4.2, sub sec: Web Crawler, first para
+	# 	pat_script = r"(?is)<script[^>]*>(.*?)</script>"
+	# 	q = re.sub(pat_script, "", q)
 
 
-		pat_style = r"(?is)<style[^>]*>(.*?)</style>"
-		q = re.sub(pat_style, "", q)
+	# 	pat_style = r"(?is)<style[^>]*>(.*?)</style>"
+	# 	q = re.sub(pat_style, "", q)
 
 
-		pat_links = r'^https?:\/\/.*[\r\n]*'
-		q = re.sub(pat_links, "", q)
+	# 	pat_links = r'^https?:\/\/.*[\r\n]*'
+	# 	q = re.sub(pat_links, "", q)
 
 
-		pat_links = r'^http?:\/\/.*[\r\n]*'
-		q = re.sub(pat_links, "", q)
+	# 	pat_links = r'^http?:\/\/.*[\r\n]*'
+	# 	q = re.sub(pat_links, "", q)
 
 
-		reg = re.compile('<[^<]+?>')
-		q = re.sub(reg, '', q)
+	# 	reg = re.compile('<[^<]+?>')
+	# 	q = re.sub(reg, '', q)
 
 		date_time = r'\d+[\/:\-]\d+[\/:\-\s]*[\dAaPpMn]*'
 		q = re.sub(date_time, '', q)
 
 		
 		
-	if mode == 1:
+	if mode == 1 or mode == 2:
 		q = q.replace('\\r', " ")
 		q = q.replace('\\n', " ")
+		q = q.replace("  ", " ")
+		q = q.replace('\r', " ")
+		q = q.replace('\n', " ")
 		q = q.replace("  ", " ")
 	
 
@@ -202,7 +207,7 @@ def refine_query(q, mode, devices, vendors):
 			except Exception as exception:
 				# print("Exception: ", exception)
 				pass
-			if mode == 1:
+			if mode == 1 or mode == 2:
 				if k.isdigit() is True: continue
 			res += (" " + k)
 
@@ -223,3 +228,4 @@ def refine_webpages_dictionary(url_to_page_dictionary):
 		refined_text = refine_query(text, 2, [], [])
 		url_to_refined_page_dictionary[url] = refined_text
 	return url_to_refined_page_dictionary
+

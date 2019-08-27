@@ -7,12 +7,13 @@ if not sys.warnoptions: warnings.simplefilter("ignore")
 import multiprocessing
 import time
 
+url_to_page = {}
 def get_text(url, return_dict):
 	try:
 		time.sleep(1)
 		req = Request(url, headers={'User-Agent': 'Mozilla/4.0'})
 		html = urlopen(req).read()
-		soup = BeautifulSoup(html)
+		soup = BeautifulSoup(html, 'lxml')
 		for script in soup(["script", "style"]):
 			script.extract()
 		text = soup.get_text()
@@ -57,6 +58,13 @@ def pages_search(urls):
 	url_to_page_dictionary = {}
 	for _url in urls:
 		if _url not in url_to_page_dictionary:
-			text = page_search(_url)
-			url_to_page_dictionary[_url] = text
+			try:
+				if _url not in url_to_page:
+					text = page_search(_url)
+					url_to_page_dictionary[_url] = text
+					url_to_page[_url] = text
+				else:
+					url_to_page_dictionary[_url] = url_to_page[_url]
+			except Exception as e:
+				print('Exception: ', e)
 	return url_to_page_dictionary

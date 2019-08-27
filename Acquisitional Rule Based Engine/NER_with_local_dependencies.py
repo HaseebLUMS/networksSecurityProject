@@ -127,6 +127,7 @@ def find_annotations(banner, url_to_page_dictionary, devices, vendors):
 	for ann in partial_annotations:
 		v = ann['vendor']
 		d = ann['device_type']
+		print(ann)
 		products = find_product(selected_text, v, d, tags)
 
 		annotation_temp = v + " | " + d
