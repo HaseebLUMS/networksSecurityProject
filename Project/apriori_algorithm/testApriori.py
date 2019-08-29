@@ -32,13 +32,18 @@ Note: Prediction element is like "x | y" or "x | y | z"
 	z = product number
 '''
 def contains_prediction(a):
-	if len(a) < 2:
-		return False
 	pred = False
 	for e in a:
 		if " | " in e:
 			pred  = True
-	return pred
+		if e.isupper():
+			pred = True
+	other = False
+	for e in a:
+		if e.islower():
+			other = True
+
+	return pred and other
 
 
 '''
@@ -62,10 +67,10 @@ def run_apriori(trans):
 		for ordered_stat in RelationRecord.ordered_statistics:
 			
 			# if((len(Items) and are_diff(Items[len(Items)-1], RelationRecord.items)) or len(Items) is 0):
-			# if contains_prediction(RelationRecord.items):	
-			Support.append(RelationRecord.support)
-			Items.append(RelationRecord.items)
-			Confidence.append(ordered_stat.confidence)
+			if contains_prediction(RelationRecord.items):	
+				Support.append(RelationRecord.support)
+				Items.append(RelationRecord.items)
+				Confidence.append(ordered_stat.confidence)
 
 			# elif(not are_diff(Items[len(Items)-1], RelationRecord.items)):
 			# 	if contains_prediction(RelationRecord.items):

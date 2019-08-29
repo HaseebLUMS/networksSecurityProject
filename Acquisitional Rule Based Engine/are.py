@@ -49,6 +49,7 @@ def ARE(ARGS):
 	log = {'banner': banner}
 	annotations = []
 	refined_banner = refine(banner, 2, devices, vendors)
+	return refined_banner
 	print('Started ', file_number, ' ', refined_banner)
 	refined_banners = refine(banner, 1, devices, vendors)
 	log['queries'] = refined_banners
@@ -58,7 +59,7 @@ def ARE(ARGS):
 		num = banner_to_number[refined_banner]
 		log['num'] = num
 		log = json.dumps(log, indent=4)
-		with open('./Log_Files/'+str(file_number)+'.json', 'w') as f: f.write(log)
+		# with open('./Log_Files/'+str(file_number)+'.json', 'w') as f: f.write(log)
 		return
 	else:
 		unique_refined_banners.add(refined_banner)
@@ -83,7 +84,7 @@ def ARE(ARGS):
 	annotations += find_annotations(banner, url_to_page_dictionary, devices, vendors)
 	log['annotations'] = annotations
 	log = json.dumps(log, indent=4)
-	with open('./Log_Files/'+str(file_number)+'.json', 'w') as f: f.write(log)
+	# with open('./Log_Files/'+str(file_number)+'.json', 'w') as f: f.write(log)
 	print(file_number, ' completed.')
 	return annotations
 

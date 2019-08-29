@@ -1,8 +1,0 @@
-{
-    "banner": "HTTP/1.1 400 Bad Request\r\nServer: micro_httpd\r\nCache-Control: no-cache\r\nDate: Sun, 03 Feb 2019 20:02:23 GMT\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<HTML><HEAD><TITLE>400 Bad Request</TITLE></HEAD>\n<BODY BGCOLOR= #cc9999 ><H4>400 Bad Request</H4>\nNo request found.\n<HR>\n<ADDRESS><A HREF= http://www.acme.com/software/micro_httpd/ >micro_httpd</A></ADDRESS>\n</BODY></HTML>\n",
-    "queries": [
-        "micro_httpd"
-    ],
-    "refined banner": " micro_httpd",
-    "num": 59
-}

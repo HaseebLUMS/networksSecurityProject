@@ -1,9 +1,0 @@
-{
-    "banner": "HTTP/1.1 408 Request timeout\r\nServer: micro_httpd\r\nDate: Thu, 01 Jan 1970 03:13:09 GMT\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<HTML><HEAD><TITLE>408 Request timeout</TITLE></HEAD>\n<BODY BGCOLOR= #cc9999 ><H4>408 Request timeout</H4>\nConnection is closed!\n<HR>\n<ADDRESS><A HREF= http://www.acme.com/software/micro_httpd/ >micro_httpd</A></ADDRESS>\n</BODY></HTML>\n",
-    "queries": [
-        "micro_httpd"
-    ],
-    "refined banner": " micro_httpd",
-    "pages": [],
-    "annotations": []
-}

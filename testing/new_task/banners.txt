@@ -1,0 +1,867 @@
+220 MikroTik Chawala-MikroTik Proxy FTP server (MikroTik 5.20) readyn
+220 Welcome to ASUS RT-AC56U FTP service.n
+"220 R2_G,H,V,B FTP server (MikroTik 6.42.7) readyn"
+220 PONPES DARUNNAHDLAH AP02 FTP server (MikroTik 6.44.3) readyn
+220 DiskStation FTP server ready.n
+220 SDN_CB_15PAGI FTP server (MikroTik 6.39.3) readyn
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)n
+220 FTP version 1.0n
+220 MikroTik FTP server (MikroTik 6.36.4) readyn
+220 Welcome to ASUS RT-AC55UHP FTP service.n
+220 AP7922 Network Management Card AOS v3.7.3 FTP server ready.n
+220 media FTP server ready.n
+220 MikroTik FTP server (MikroTik 6.39.3) readyn
+220 PhotoStation FTP server ready.n
+"550 Permission denied ,please check access control listn"
+220 AXIS P3367 Fixed Dome Network Camera 6.10.1 (2016) ready.n
+220 CCTV Server FTP server (MikroTik 6.44.1) readyn
+220 MikroTik FTP server (MikroTik 6.43.2) readyn
+220 MikroTik FTP server (MikroTik 6.43.4) readyn
+"220 ""Welcome to MyBookLive""n"
+220 Welcome to ASUS RT-AC51U FTP service.n
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.1.30]n
+220 MikroTik FTP server (MikroTik 5.26) readyn
+220 MikroTik_TB FTP server (MikroTik 6.42.3) readyn
+220 FTP Server (ZyWALL 110) [::ffff:85.93.247.25]n
+220 MikroTik FTP server (MikroTik 5.14) readyn
+220 ON_AIR_TV FTP server ready.n
+220 Welcome to ASUS RT-AC66U FTP service.n
+220 AP8959EU3 Network Management Card AOS v5.1.4 FTP server ready.n
+220 FRITZ!BoxFonWLAN7360 FTP server ready.n
+220 MikroGate14 FTP server (MikroTik 6.44) readyn
+220 DSL-EasyBox 803 FTP Server v30.05.233 readyn
+220 morosnas FTP server ready.n
+220 Welcome to ASUS RT-AC3200 FTP service.n
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [10.10.10.1]n
+220 FRITZ!BoxFonWLAN7390 FTP server ready.n
+220 FRITZ!Box6490Cable FTP server ready.n
+220 yad FTP server (MikroTik 6.44.3) readyn
+220 AXIS Q6115-E PTZ Dome Network Camera 6.50.3 (2018) ready.n
+220 RICOH Aficio MP C3502 FTP server (11.99) ready.n
+220 Estefania Maria Valderrama Garcia FTP server (MikroTik 6.43.4) readyn
+220 Welcome to ASUS RT-N66U FTP service.n
+220 MikroTik FTP server (MikroTik 6.40.8) readyn
+220 Winson_DS FTP server ready.n
+220 Welcome to ASUS RT-AC68U FTP service.n
+220 FRITZ!Box6360Cable(kbw) FTP server ready.n
+220-TiMOS-C-9.0.R6 cpm/hops ALCATEL SR 7750 Copyright (c) 2000-2011 Alcatel-Lucent.n220-All rights reserved. All use subject to applicable license agreements.n220-Built on Tue Sep 27 12:38:04 PDT 2011 by builder in /rel9.0/b1/R6/panos/mainn220-n220-WARNINGn220 FTP server readyn
+220 Globus_do_Radoszyna FTP server (MikroTik 6.43) readyn
+220 FRITZ!Box6490Cable(kdg) FTP server ready.n
+220 MikroTik FTP server (MikroTik 6.5) readyn
+220 AP9617 Network Management Card AOS v3.5.5 FTP server ready.n
+220 Speedport W 921V FTP Server v1.45.000 readyn
+220 Welcome to ASUS 4G-AC55U FTP service.n
+220 Lyudovik FTP server (MikroTik 5.24) readyn
+220 MikroTik FTP server (MikroTik 6.40.6) readyn
+220 PollekeNas FTP server ready.n
+220 Welcome to ASUS RT-AC66U_B1 FTP service.n
+421 Session
+220 FTP Server (USG40) [::ffff:78.186.16.176]n
+220 Welcome to ASUS RT-AC58U FTP service.n
+220 FRITZ!Box6490Cable(lgi) FTP server ready.n
+220 DrayTek FTP version 1.0n
+220 Axis 2120 Network Camera 2.43 Nov 09 2004 ready.n
+220 test FTP server (MikroTik 6.42.7) readyn
+220-Microsoft FTP Servicen220 ZOOM FTP Servern
+220 MikroTik FTP server (MikroTik 6.44) readyn
+220 Kuprianowicz-Bozena Skrzydlice 42A FTP server (MikroTik 6.39.2) readyn
+220 MikroTik FTP server (MikroTik 6.42.3) readyn
+220 FRITZ!Box6590Cable FTP server ready.n
+220 FTP Server (USG110) [::ffff:82.127.20.153]n
+220 ENCONS FTP server ready.n
+220 Welcome to ASUS RT-AC66R FTP service.n
+220 CL - Jakubec V�t FTP server (MikroTik 6.43.7) readyn
+220 MikroTik FTP server (MikroTik 6.44.3) readyn
+220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [172.16.101.1]n
+220 3-Tes-SUM FTP server (MikroTik 6.43.14) readyn
+220 ET0021B76EED6E Dell B5460dn Laser Printer FTP Server NW2.YS.N231 ready.n
+220 Welcome to ASUS RT-N14U FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A89B5)n
+220 daigorou FTP server ready.n
+220 (vsFTPd 3.0.2)n
+220 MikroTik FTP server (MikroTik 6.44.1) readyn
+220-FTP server ready.n220 This is a private system - No anonymous loginn
+220 Welcome to Linksys20828n
+220 Welcome to Linksys08260n
+220 FTP Servern
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------n220-You are user number 1 of 50 allowed.n220-Local time is now 14:52. Server port: 21.n220-This is a private system - No anonymous loginn220-IPv6 connections are also welcome on this server.n220 You will be disconnected after 15 minutes of inactivity.n
+220 ipTIME_FTPD 1.3.4d Server (NAS2e-1B310E) [192.168.0.2]  n
+220 Welcome to ASUS RT-ACRH13 FTP service.n
+220 ipTIME_FTPD Server (NAS4dual-C82718)n
+220 MikroTik FTP server (MikroTik 6.43) readyn
+220 Bruce FTP server (MikroTik 6.45.2) readyn
+220 ipTIME_FTPD Server (autoenp-AB0AF8)n
+220 IBN FTP server (MikroTik 6.41.3) readyn
+220 NASFTPD Turbo station Server (ProFTPD)n
+220 FTP ( BlackJumboDog Version 6.2.0 ) readyn
+220 sanduo FTP server ready.n
+220-FileZilla Server version 0.9.41 betan220-written by Tim Kosse (Tim.Kosse@gmx.de)n220 Please visit http://sourceforge.net/projects/filezilla/n
+220 ipTIME_FTPD (NAS2e-1B2FB8) [192.168.0.55]n
+220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [192.168.10.16]n
+220 ipTIME_FTPD (ipTIME A3004NS-M-1A7781) [192.168.0.1]  n
+220 yjghy FTP server ready.n
+220 MikroTik FTP server (MikroTik 6.42.6) readyn
+220 MikroTik FTP server (MikroTik 6.40.9) readyn
+220 et027050 FTP server ready.n
+220 AXIS M5014-V PTZ Dome Network Camera 5.51.5.1 (2018) ready.n
+220 ucftpd FTP server ready.n
+220 FTP service ready.n
+220 ipTIME_FTPD  (DaeYangNas-5F2A07) n
+220 sterinterieurs FTP server ready.n
+220 Welcome to ASUS R7000 FTP service.n
+220 Microsoft FTP Servicen
+220 Chandler FTP server (MikroTik 6.45.2) readyn
+220 Homebase FTP server ready.n
+220 ipTIME_FTPD (NAS4dual-C817E5) n
+220 ipTIME_FTPD (ipTIME A8004NS-M-45848D) n
+220 SynologyDisk FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS1dual-5F026C) [192.168.0.33]  n
+220 Welcome to ASUS RT-AC88U FTP service.n
+Permission denied.(Please check access control list)n
+220 Bank of Benoit FTP server (MikroTik 6.43.8) readyn
+220 JCZ-NAS FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME N904NS-0E7F11) [192.168.0.1]n
+220 MikroTik FTP server (MikroTik 6.39.2) readyn
+220 MikroTik FTP server (MikroTik 6.42.5) readyn
+220 ipTIME_FTPD (NAS-C809B8) [192.168.219.150]  n
+220 MikroTik FTP server (MikroTik 6.42.7) readyn
+
+220 192.168.11.2 FTP server (tnftpd 20080929) ready.n
+220 MikroTik FTP server (MikroTik 6.45.1) readyn
+n
+n
+220 AXIS 210 Network Camera 4.40.2 ready.n
+220 Welcome to ASUS RT-AC3100 FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DC515) [192.168.0.1]  n
+n
+220 Provider Solucoes FTP server (MikroTik 6.35.4) readyn
+220 LohmanNAS FTP server ready.n
+220 CID-14126 FTP server (MikroTik 6.43.8) readyn
+"550 Permission denied ,please check access control listnPermission denied.(Please check access control list)n"
+220 Disdroblan FTP server (MikroTik 5.24) readyn
+220 Synology FTP server ready.n
+220 Z-3G_MATRIZ FTP server (MikroTik 6.44.1) readyn
+220 CGNAT01 FTP server (MikroTik 6.44.3) readyn
+220 RomeroDoggDS FTP server ready.n
+220 ipTIME_FTPD (TVBOX-1B0225) [192.168.1.134]  n
+220 Welcome to ASUS DSL-AC56U FTP service.n
+220 ipTIME_FTPD (231-C93D8F) [192.168.0.250]  n
+220 MikroTik FTP server (MikroTik 6.34.2) readyn
+220 ipTIME_FTPD (myungjin-AB0EBA) [192.168.0.2]  n
+220 AXIS P5534 PTZ Dome Network Camera 5.40.9.2 (2012) ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A85431) n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-658E59) n
+220 CIBERPROTECCION_DIREICAJ_-_LIMA_-_INTERNET FTP server (MikroTik 6.42.7) readyn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-698DFD) [192.168.0.1]  n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE1F61) [192.168.0.1]  n
+220 ipTIME_FTPD 1.3.4d Server (NAS3-1B0E96) [192.168.0.17]  n
+220 Welcome to ASUS RT-AC87U FTP service.n
+220 suwonkim FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A072E1) [192.168.0.1]  n
+220 Welcome to ASUS RT-AC68P FTP service.n
+220 MikroTik FTP server (MikroTik 6.44.2) readyn
+220 AEROVER_PAF FTP server ready.n
+220 JSZhongyi FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-04E705) [192.168.0.1]  n
+220 KZC FTP server (MikroTik 6.44.1) readyn
+220 ipTIME_FTPD (server-294B84) [192.168.0.16]  n
+220 MEDANOS-MASTER FTP server (MikroTik 6.43) readyn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A5975) [192.168.0.1]  n
+220 ipTIME_FTPD (jjsdisk-943C23) [192.168.0.7]  n
+220 Welcome to ASUS RT-AC5300 FTP service.n
+220 Welcome to WD My Cloudn
+220 MikroTik FTP server (MikroTik 6.36) readyn
+220 MikroTik FTP server (MikroTik 6.34.4) readyn
+220 FTP server (MikroTik 6.35.4) readyn
+220 MikroTik FTP server (MikroTik 6.42.2) readyn
+220 MikroTik FTP server (MikroTik 6.40.3) readyn
+220 Shahriar-Router FTP server (MikroTik 6.44.3) readyn
+220 Nagiec FTP server (MikroTik 6.22) readyn
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.0.1]n
+220 Gene6 FTP Server v3.10.0 (Build 2) ready...n
+220 MikroTik FTP server (MikroTik 5.18) readyn
+220 storage_Celebes FTP server ready.n
+220 JACXDISKSTATION FTP server ready.n
+220 FTP Server (USG110) [::ffff:80.19.179.54]n
+220 ProFTPD 1.3.5b Server (NETGEAR ReadyNAS) [::ffff:192.168.50.2]n
+220 MikroTik FTP server (MikroTik 5.25) readyn
+220-FileZilla Server version 0.9.39 betan220-written by Tim Kosse (Tim.Kosse@gmx.de)n220 Please visit http://sourceforge.net/projects/filezilla/n
+220 Dreamland_DST FTP server ready.n
+220 ACIS-FREEBITS FTP server (MikroTik 6.43.16) readyn
+nnPassword: 
+220 MediaStation FTP server ready.n
+220 (vsFTPd 3.0.3)n
+220 Welcome to ASUS RT-AC66U FTP service.n
+220 AXIS M5013 PTZ Dome Network Camera 5.51.5.1 (2018) ready.n
+220 INDAH DESI P FTP server (MikroTik 6.44) readyn
+220 MikroTik FTP server (MikroTik 6.40.8) readyn
+220 MojSzogun FTP server ready.n
+220 Welcome to ASUS RT-AC1200G+ FTP service.n
+220 ProFTPD 1.3.3g Server (NETGEAR ReadyNAS) [192.168.0.13]n
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)n
+220 Stinology FTP server ready.n
+220 Chris-DS FTP server ready.n
+220 hrdlovicova_sara FTP server (MikroTik 6.42.7) readyn
+220 MikroTik FTP server (MikroTik 6.30.4) readyn
+"nn#n| LANCOM 1781EF+n| Ver. 8.82.0100RU1 / 28.08.2013n| SN.  4002945818100736n| Copyright (c) LANCOM SystemsnnLeitst.-Foehren, Connection No.: 002 (WAN)nnnLogin lockednnGoodbyenn"
+220 Speedport W 921V FTP Server v1.45.000 readyn
+220 AXIS P1343 Network Camera 5.40.9.2 (2012) ready.n
+nMikroTik v6.43.13 (long-term)nLogin: 
+220 AXIS M3006 Network Camera 6.50.3.1 (2019) ready.n
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.1.234]n
+220 Olá! Está tudo pronto para navegares ;)n
+220 AP8953 Network Management Card AOS v5.1.4 FTP server ready.n
+220 KPSYSNAS FTP server ready.n
+220 NASFTPD Turbo station 1.3.4e Server (ProFTPD) [192.101.0.100]n
+220 Obertorstrasse.Main FTP server (MikroTik 6.44) readyn
+220 DiskStation FTP server ready.n
+nMikroTik v6.1nLogin: 
+220 DISKSTATION01 FTP server ready.n
+220 William_NAS FTP server ready.n
+220 FTP Server (USG40) [::ffff:83.173.237.102]n
+220 HotSpotRouter - Arbelon SCHOTT FTP server (MikroTik 5.24) readyn
+220 0765CWIERTNIAK FTP server (MikroTik 5.20) readyn
+220 Fullrate FTP version 1.0 ready at Sun Aug 04 20:10:19 2019n
+220-TiMOS-C-9.0.R6 cpm/hops ALCATEL SR 7750 Copyright (c) 2000-2011 Alcatel-Lucent.n220-All rights reserved. All use subject to applicable license agreements.n220-Built on Tue Sep 27 12:38:04 PDT 2011 by builder in /rel9.0/b1/R6/panos/mainn220-n220-WARNINGn220 FTP server readyn
+220 MikroTik FTP server (MikroTik 6.44.3) readyn
+nMikroTik v6.43.4 (stable)nLogin: 
+220 MikroTik FTP server (MikroTik 6.42.6) readyn
+220 10.0.10.29 FTP server (tnftpd 20100324+GSSAPI) ready.n
+220 NAS FTP server ready.n
+220 DS212 FTP server ready.n
+220 PromoBigData FTP server ready.n
+220 serveurvitc FTP server ready.n
+220 FTP version 1.0n
+nMikroTik v5.21nLogin: 
+nMikroTik v3.10nLogin: 
+nMikroTik v6.44 (stable)nLogin: 
+nMikroTik v6.43.7 (stable)nLogin: 
+nMikroTik v5.6nLogin: 
+nMikroTik v6.45.3 (stable)nLogin: 
+220 FRITZ!BoxFonWLAN7390(UI) FTP server ready.n
+220 ProFTPD 1.3.4a Server (Debian) [::ffff:192.168.21.213]n
+220---------- Welcome to SoftAtHome FTP Server  [privsep]  ---------n220-You are user number 1 of 32 allowed.n220-Local time is now 19:17. Server port: 21.n220-This is a private system - No anonymous loginn220-IPv6 connections are also welcome on this server.n220 You will be disconnected after 10 minutes of inactivity.n
+220 RMS.GSB.Turm.Router1 FTP server (MikroTik 6.44.5) readyn
+220 Welcome to ASUS RT-AC87U FTP service.n
+220 Welcome to ASUS RT-AC51U FTP service.n
+220 MikroTik FTP server (MikroTik 5.15) readyn
+220 GaraccioniGraziano FTP server (MikroTik 6.44.3) readyn
+220 Welcome to ivigilant.cloudapp.net FTP service.n
+220 RackStationTH FTP server ready.n
+220 Welcome to Linksys24996n
+220 aravista-clubhouse FTP server (MikroTik 6.44.5) readyn
+220 Diskstation FTP server ready.n
+220 ATES_KILL FTP server (MikroTik 3.2) readyn
+220 Domov_rychmburk FTP server (MikroTik 6.42.6) readyn
+220 Welcome to ASUS RT-AC68U FTP service.n
+220----------------------------------------------------------------n220-Welcome to the Avon-Group FTP servern220 ---------------------------------------------------------------n
+220 FRITZ!Box6490Cable FTP server ready.n
+220 ROUTER DST&PPPOE TELUK INTAN FTP server (MikroTik 6.40.8) readyn
+220 MikroTik FTP server (MikroTik 6.44.1) readyn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004T-41C869) [192.168.0.1] UTF-8n
+220 ProFTPD 1.3.3g Server (NETGEAR ReadyNAS) [192.168.1.91]n
+220 Welcome to ASUS RT-AC86U FTP service.n
+nMikroTik v6.44.1 (stable)nLogin: 
+220 Welcome to ASUS RT-N18U FTP service.n
+220 MikroTik FTP server (MikroTik 6.34.2) readyn
+220 Welcome to ASUS RT-N56U FTP service.n
+nMikroTik v6.43.12 (stable)nLogin: 
+220-FileZilla Server 0.9.60 betan220-written by Tim Kosse (tim.kosse@filezilla-project.org)n220 Please visit https://filezilla-project.org/n
+220-FileZilla Server version 0.9.41 betan220-written by Tim Kosse (Tim.Kosse@gmx.de)n220 Please visit http://sourceforge.net/projects/filezilla/n
+220 Cloud-2TB FTP Server [192.168.100.13]n
+nMikroTik v5.20nLogin: 
+220 MikroTik FTP server (MikroTik 6.40.6) readyn
+220 TDI Kraljevica FTP server (MikroTik 6.45.3) readyn
+220 MikroTik FTP server (MikroTik 6.38.5) readyn
+220 FRITZ!Box7590 FTP server ready.n
+220 test FTP server (MikroTik 6.38.7) readyn
+220-FileZilla Server 0.9.57 betan220-written by Tim Kosse (tim.kosse@filezilla-project.org)n220 Please visit https://filezilla-project.org/n
+nMikroTik v6.42.9 (long-term)nLogin: 
+220 Wind River FTP server 6.5 ready.n
+220 Welcome to ASUS DSL-AC68U FTP service.n
+nnLogin authenticationnnnUsername:
+220 ipTIME_FTPD 1.3.4d Server (A2004NS-6D8A91) [192.168.1.1]n
+220 Speedport W 723V Typ B FTP Server v1.46.000 readyn
+220 AXIS M1124 Network Camera 6.50.1.2 (2017) ready.n
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.1.199]n
+220 HLDisk FTP server ready.n
+220 fred FTP server ready.n
+220 Router-Ariano FTP server (MikroTik 6.45.1) readyn
+nPassword: 
+nMikroTik v6.12nLogin: 
+220 Finanse FTP server ready.n
+220 JCESATEB.edu Cisco FTP server (V12.1.0) readyn
+220 MikroTik FTP server (MikroTik 6.43.7) readyn
+220 P2V FTP server (MikroTik 6.42.1) readyn
+220 MikroTik_Office FTP server (MikroTik 6.43.4) readyn
+220 MikroTik FTP server (MikroTik 6.42.3) readyn
+nMikroTik v6.2nLogin: 
+220 Welcome to ASUS WS880 FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (pctown-7E2150) [10.0.0.137] EUC-KRn
+nMikroTik v5.25nLogin: 
+220 MikroTik FTP server (MikroTik 6.43.4) readyn
+220 FRITZ!BoxFonWLAN7270v2 FTP server ready.n
+220 FTP Server (ZyWALL USG 20) [::ffff:217.79.206.92]n
+nMikroTik v6.43.8 (stable)nLogin: 
+220 ������� ������� FTP server (MikroTik 6.45.3) readyn
+"220 IPCamera FtpServer(www.maygion.com),do NOT change firmware unless you know what you are doing!n"
+220 GerryKennedyStables FTP server (MikroTik 6.44.3) readyn
+220 FRITZ!Box6490Cable(lgi) FTP server ready.n
+220 Synology_NAS FTP server ready.n
+220 SRVSYNOLOGY01 FTP server ready.n
+nAccount:nAccount:
+220 BULANACAK-OGR EVB FTP server (MikroTik 6.44.3) readyn
+220 mera FTP server ready.n
+220 ESC-MUY FTP server (MikroTik 6.40.6) readyn
+220 malina FTP server ready.n
+220 333_805 FTP server (MikroTik 6.44.3) readyn
+***************** Warning **********************n*                                              *n* Telnet service is not a secure service!!     *n* Please use SSH service for remote management *n*                                              *n************************************************nnWelcome to ZyWALL USG 20nnUsername: 
+220 MikroTik FTP server (MikroTik 6.42.1) readyn
+220 Medinova FTP server (MikroTik 6.39.2) readyn
+220 matusu_petr FTP server (MikroTik 6.42.7) readyn
+nMikroTik v6.42.4 (stable)nLogin: 
+220 DS716 FTP server ready.n
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------n220-You are user number 1 of 10 allowed.n220-Local time is now 19:17. Server port: 21.n220-This is a private system - No anonymous loginn220-IPv6 connections are also welcome on this server.n220 You will be disconnected after 15 minutes of inactivity.n
+"220 ""Welcome to MyBookLive""n"
+nMikroTik v6.45.2 (stable)nLogin: 
+220 AXIS Q6115-E PTZ Dome Network Camera 5.65.2.1 (2015) ready.n
+220 Master_Route FTP server (MikroTik 6.34.3) readyn
+nMikroTik v6.43 (stable)nLogin: 
+220 FTP Server (USG40) [::ffff:198.0.72.229]n
+220 AP7922 Network Management Card AOS v3.7.3 FTP server ready.n
+220 missionary FTP server (MikroTik 6.42.9) readyn
+220 P-660H-T1 FTP version 1.0 ready at Sun Jun 25 11:48:56 2000n
+220 cichova_eva FTP server (MikroTik 6.42.6) readyn
+220 PRAX FTP server (MikroTik 6.44.3) readyn
+220 ProFTPD 1.3.3 Server (NETGEAR ReadyNAS) [10.6.0.20]n
+220 FRITZ!Box6590Cable FTP server ready.n
+220 totoro FTP server ready.n
+220 Microsoft FTP Servicen
+220 Welcome to WD My Cloudn
+220 DiskStationDAV FTP server ready.n
+220 DS-FFH FTP server ready.n
+220 sojak_martin FTP server (MikroTik 6.44) readyn
+220 Welcome to ASUS RT-N66U FTP service.n
+220 GuaymasRB FTP server (MikroTik 6.43.8) readyn
+220 Welcome to ASUS RT-AC68W FTP service.n
+220 ucftpd FTP server ready.n
+220 FTP Server (USG60) [::ffff:85.14.154.181]n
+220 AXIS Q6045-E Mk II PTZ Dome Network Camera 5.70.1 (2015) ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-328C41) [192.168.0.1] UTF-8n
+220 smelter FTP server (MikroTik 6.42.9) readyn
+220 MikroTik FTP server (MikroTik 6.38.7) readyn
+220 FTP Server (ZyWALL USG 20) [::ffff:95.86.209.72]n
+220 DS713 FTP server ready.n
+220 Bora-web-server FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (NEXTSCIENCE-293CE6) [192.168.0.51] EUC-KRn
+220 DiskStationDNS FTP server ready.n
+nMikroTik v6.23nLogin: 
+220 T-SYS FTP server ready.n
+SYNOLOGY login: 
+220 BALANCEADOR FTP server (MikroTik 6.44.1) readyn
+220 Ez-DiskStation FTP server ready.n
+nMikroTik v6.30.4nLogin: 
+220 FileZilla Server version 0.9.41 beta written by Tim Kosse (Tim.Kosse@gmx.de) Please visit http://sourceforge.n
+nMikroTik v6.37.5 (bugfix)nLogin: 
+220 Capitan Navarro FTP server (MikroTik 6.29.1) readyn
+220 ipTIME_FTPD 1.3.4d Server (spacelab-292F63) [::ffff:172.30.1.1] EUC-KRn
+220 Welcome to ASUS TM-AC1900 FTP service.n
+220 FileZilla Server version 0.9.41 betan
+220 JOSE_GARRIDO_SANLORENZO-71 FTP server (MikroTik 6.43.8) readyn
+220 RTCS FTP Server Readyn
+220 Paula Harman FTP server (MikroTik 6.44.5) readyn
+220 Khalife FTP server (MikroTik 5.26) readyn
+220 MikroTik FTP server (MikroTik 6.36.1) readyn
+220 Welcome to ASUS RT-AC58U FTP service.n
+220 AP7932 Network Management Card AOS v3.9.2 FTP server ready.n
+220 AXK-CHAIRMAN FTP server (MikroTik 6.42.12) readyn
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.2.162]n
+220 MikroTik FTP server (MikroTik 2.9.6) readyn
+220 ipTIME_FTPD 1.3.4d Server (wdcom-292460) [192.168.0.4] EUC-KRn
+220 Welcome to ASUS RT-AC3200 FTP service.n
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------n220-You are user number 1 of 10 allowed.n220-Local time is now 19:17. Server port: 21.n220-IPv6 connections are also welcome on this server.n220 You will be disconnected after 10 minutes of inactivity.n
+220 dewey6970 FTP server ready.n
+220 Welcome to ASUS RT-AC68P FTP service.n
+220 AXIS M1145-L Network Camera 6.50.3 (2018) ready.n
+220 ipTIME_FTPD 1.3.4d Server (yhkimNAS-290C04) [::ffff:192.168.0.250] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-655BFF) [::ffff:192.168.0.1] EUC-KRn
+220 MikroTik>>> FTP server (MikroTik 6.40.8) readyn
+nUser Name : 
+220 test FTP server (MikroTik 6.43.8) readyn
+220 Mikrotik AMS-PesatNET FTP server (MikroTik 6.43.12) readyn
+220 DEDICADO LEVEL 3 FTP server (MikroTik 6.44.3) readyn
+nUser Name : 
+220 AP-1006 FTP server (MikroTik 6.34.2) readyn
+220 AXIS Q6044 PTZ Dome Network Camera 6.50.2.2 (2018) ready.n
+nMikroTik v6.39.3 (bugfix)nLogin: 
+220 Master Aage - Tenden FTP server (MikroTik 6.23) readyn
+220 P660HW-T3 FTP version 1.0 ready at Wed Nov 22 08:34:35 2000n
+220 IRC-SAS1-RTR-C FTP server (MikroTik 6.43.7) readyn
+220 Willkomen auf Ihrer Dreambox.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C79E2D) [192.168.0.1] EUC-KRn
+220 P-660HW-T FTP version 1.0 ready at Sun Aug 04 19:17:28 2019n
+nMikroTik v6.40.9 (bugfix)nLogin: 
+nMikroTik v6.42.6 (stable)nLogin: 
+220 MikroTik FTP server (MikroTik 6.44.2) readyn
+220 FRITZ!BoxWLAN3270v3 FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS-7E0DB0) [192.168.0.73] EUC-KRn
+220 Synol1513 FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (EmarineNAS-AB4B5E) [192.168.0.200] UTF-8n
+220 Welcome to Linksys15456n
+220 MikroTik-korolev3 FTP server (MikroTik 6.42.10) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS2dual-29126E) [192.168.0.118] EUC-KRn
+nMikroTik v6.18nLogin: 
+nMikroTik v6.40.4 (stable)nLogin: 
+220 Net One 02 FTP server (MikroTik 6.43.4) readyn
+220 Welcome to ASUS RT-AC88U FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C73771) [192.168.0.1] UTF-8n
+220 adslf306 FTP server (MikroTik 6.43.2) readyn
+220 Home-BRZ-NAS FTP server ready.n
+421 Session
+220 Zolkiewskiego 3 FTP server (MikroTik 6.44.1) readyn
+220 PR.NorthSix FTP server (MikroTik 6.44.3) readyn
+220 oxford pharma FTP server (MikroTik 6.30.4) readyn
+220 ipTIME_FTPD 1.3.4d Server (mslabNAS-291900) [::ffff:203.252.176.27] UTF-8n
+220 FabricServer FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (COMTECHNAS-C81E92) [::ffff:192.168.0.10] UTF-8n
+220 NasDS16J FTP server ready.n
+220 DISKSTATION FTP server ready.n
+220 International Energy Technics FTP server (MikroTik 6.45.1) readyn
+220 Program_media FTP server ready.n
+220 DS_NAS FTP server ready.n
+220 MikroTik FTP server (MikroTik 5.26) readyn
+220 Client FTP server (MikroTik 6.40.4) readyn
+nMikroTik v6.25nLogin: 
+220 HTGH FTP server (MikroTik 6.44.1) readyn
+nMikroTik v6.42.3 (stable)nLogin: 
+220 Tosil FTP server ready.n
+nMikroTik v6.42.1 (stable)nLogin: 
+220 shlee_nas FTP server ready.n
+220 MikroTik FTP server (MikroTik 5.6) readyn
+220 Ceun FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (eumserver-7E199C) [192.168.0.194] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (woochil2-2904D0) [192.168.0.5] EUC-KRn
+220 HTSNAS00 FTP server ready.n
+220 Giro_Urbano FTP server (MikroTik 6.44.3) readyn
+220 Grottgera - Przychodnia FTP server (MikroTik 6.45.3) readyn
+220 DSL-EasyBox 803 FTP Server v30.05.225 readyn
+220 ESCS0217-HOTCAB001:AptosSanAntoni FTP server (MikroTik 6.44.3) readyn
+"550 Permission denied ,please check access control listn"
+220 Nucleus FTP Server (Version 1.5) ready.n
+220 AP7920 Network Management Card AOS v2.6.4 FTP server ready.n
+220 Collective-B FTP server ready.n
+220 statice0109 FTP server ready.n
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [10.36.0.74]n
+220 Welcome to ASUS RT-AC68R FTP service.n
+220 spetsynology FTP server ready.n
+220 Controle SJC FTP server (MikroTik 6.40.8) readyn
+220 FTP Server (USG60) [::ffff:185.216.80.10]n
+220 juneandgua FTP server ready.n
+nMikroTik v3.30nLogin: 
+220 MikroTik FTP server (MikroTik 4.14) readyn
+nMikroTik v6.43.5 (stable)nLogin: 
+220 (vsFTPd 3.0.2)n
+220 AXIS Q6044-E PTZ Dome Network Camera 5.70.1.3 (2016) ready.n
+220 MikroTik FTP server (MikroTik 6.23) readyn
+220 MikroTik FTP server (MikroTik 6.39.2) readyn
+220 n
+220 ipTIME_FTPD 1.3.4d Server (getinall-1B07E7) [192.168.0.15] EUC-KRn
+220 helge.rasmussen2 FTP server (MikroTik 6.43.4) readyn
+220 IT@Work Fibre FW FTP server (MikroTik 6.45.2) readyn
+nMikroTik v6.37 (stable)nLogin: 
+220 MikroTik FTP server (MikroTik 6.40.5) readyn
+nMikroTik v6.42.10 (long-term)nLogin: 
+220 Synology1515 FTP server ready.n
+220 MikroTik FTP server (MikroTik 6.37.1) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C82A95) [::ffff:192.168.0.9] EUC-KRn
+nMikroTik v6.43rc51 (testing)nLogin: 
+192.0.0.64 login: 
+220 FRITZ!BoxFonWLAN7360SL(UI) FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS2-293A88) [::ffff:192.168.0.112] EUC-KRn
+220 jodlowski FTP server (MikroTik 5.25) readyn
+220 MikroTik FTP server (MikroTik 6.43.2) readyn
+nMikroTik v6.15nLogin: 
+220 Josima FTP server ready.n
+220 FTP Server (ZyWALL USG 20) [90.152.186.82]n
+220 192.168.0.250 FTP server (tnftpd 20100324+GSSAPI) ready.n
+220 NAOMANIETDC03 FTP server (MikroTik 6.44.1) readyn
+220 NASFTPD Turbo station 2.x 1.3.2e Server (ProFTPD) [192.168.100.89]n
+220 Router FTP server (MikroTik 6.43.7) readyn
+220 Valledupar FTP server (MikroTik 6.39.2) readyn
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------n220-You are user number 1 of 50 allowed.n220-Local time is now 19:13. Server port: 21.n220 You will be disconnected after 15 minutes of inactivity.n
+220 006151167 FTP server (MikroTik 5.6) readyn
+220 Router Fani FTP server (MikroTik 6.44.2) readyn
+220 MikroTik FTP server (MikroTik 6.42.11) readyn
+220 AXIS M3004 Network Camera 5.40.5.4 (2013) ready.n
+220 FTP hýsing hjá skolahysing.comn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-DA95E1) [::ffff:192.168.0.1] EUC-KRn
+220 SU_JacoDeBeer FTP server (MikroTik 6.43.4) readyn
+220 SERVER_CASTRO FTP server (MikroTik 6.42.5) readyn
+220 kl.Babice_Solar.el. FTP server (MikroTik 6.43.2) readyn
+220 ProFTPD 1.3.5 Server (RB-Seagate) [::ffff:192.168.1.104]n
+220 FTP Server (ZyWALL USG 20) [::ffff:166.142.176.145]n
+220 Sitio-toca-dos-coelhos FTP server (MikroTik 6.41.3) readyn
+220 Novotny_ROUTER FTP server (MikroTik 6.42.6) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS2dual-292B6E) [::ffff:192.168.0.42] EUC-KRn
+220 NAS1 FTP server ready.n
+220 MikroTik FTP server (MikroTik 6.28) readyn
+"220-Cerberus FTP Server - Personal Editionn220-This is the UNLICENSED personal edition and may be used for home, personal use onlyn220-Welcome to Cerberus FTP Servern220 Created by Cerberus, LLCn"
+220 KONICA MINOLTA FTP server ready.n
+nMikroTik v3.20nLogin: 
+220 ipTIME_FTPD 1.3.4d Server (NAS2dual-2932E0) [::ffff:192.168.0.97] EUC-KRn
+220 _DABROWKAKOTLOWNIA FTP server (MikroTik 6.45.2) readyn
+220 Welcome to ASUS RT-N13U FTP service.n
+220 DiskStat FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (JYNAS-1B34D4) [172.30.1.25] UTF-8n
+220 designstar FTP server ready.n
+220 MikroTik-KPI FTP server (MikroTik 6.45.2) readyn
+220 FAP_MEDYANKA FTP server (MikroTik 6.43.7) readyn
+220 RED_6 FTP server (MikroTik 6.40.8) readyn
+220 trinfo-nas2 FTP server ready.n
+220 SULMIN FTP server (MikroTik 6.45.3) readyn
+220 Peco145 FTP server (MikroTik 6.44.2) readyn
+220 FRITZ!BoxFonWLAN7360 FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS2dual-291418) [192.168.0.98] UTF-8n
+220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [192.168.2.30]n
+220 MIK-MINERVA FTP server (MikroTik 6.43.8) readyn
+220 karaam FTP server (MikroTik 6.45.2) readyn
+220 Unimed_C173_Dr_Pedro_Sergio_Sandoval FTP server (MikroTik 6.43.14) readyn
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.2.169]n
+220 ELKO_PRILEPY FTP server (MikroTik 6.43rc12) readyn
+nMikroTik v2.9.27nLogin: 
+220 ipTIME_FTPD 1.3.4d Server (LinuNAS-290157) [192.168.0.14] UTF-8n
+220-Microsoft FTP Servicen220 Clausberg AGn
+nMikroTik v6.42.7 (stable)nLogin: 
+220 caladan FTP server ready.n
+220 A10/6 FTP server (MikroTik 6.45.1) readyn
+nMikroTik v5.16nLogin: 
+220 MikroTik FTP server (MikroTik 5.24) readyn
+220 seojin_home FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-E881B5) [192.168.0.1]n
+220 Appleton College FTP server (MikroTik 6.44.2) readyn
+220 ipTIME_FTPD 1.3.4d Server (Kdenplan-294332) [::ffff:192.168.0.250] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45115D) [::ffff:192.168.0.1] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D68379) [192.168.0.1]n
+"[2J[Hn***************************************************************************n*      L E G A L   N O T I C E  --  Y O U    M U S T    R E A D           *n***************************************************************************n*     You must have explicit permission to access or configure this       *n*      device.  All activities performed on this device are logged and    *n*     violations of this policy may result in criminal prosecution.       *n***************************************************************************n* This system is for the use of authorized users only. Individuals using  *n*this computer system without authority, or in excess of their authority, *n* are subject to having all of their activities on this system monitored  *n* and recorded by system personnel.                                       *n*                                                                         *n*  Anyone using this system expressly consents to such monitoring and is  *n* advised that if such monitoring reveals possible evidence of criminal   *n* activity, system personnel may provide the evidence of such monitoring  *n* to law enforcement officials.                                           *n***************************************************************************n*         UNAUTHORIZED ACCESS TO THIS NETWORK DEVICE IS PROHIBITED        *n***************************************************************************nnUser Access LoginnnUsername:"
+220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [192.168.10.253]n
+220 ipTIME_FTPD 1.3.4d Server (NAS1-C80BE2) [192.168.219.149] EUC-KRn
+220 SIMACC FTP server ready.n
+nMikroTik v6.42.5 (stable)nLogin: 
+220 LHG-Kleiton-221 FTP server (MikroTik 6.43.2) readyn
+220 Seattle-BioIT FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (DESIGN-C810DA) [::ffff:192.168.0.16] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A83085) [::ffff:192.168.0.1] UTF-8n
+220 AP7901 Network Management Card AOS v2.7.0 FTP server ready.n
+220 Welcome to ASUS RT-AC52U FTP service.n
+220 Ultrarap_Diveo_Main_Gateway_Router FTP server (MikroTik 2.9.49) readyn
+220 Welcome to ASUS RT-AX88U FTP service.n
+220 FTP Server (USG40) [::ffff:163.17.195.102]n
+220 Sliva-SCloud FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (misung1-5F162F) [::ffff:192.168.0.100] EUC-KRn
+220 AXIS P5512-E PTZ Dome Network Camera 5.50.4.4 (2016) ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS4dual-C8195F) [::ffff:192.168.0.3] EUC-KRn
+220 N0C DINAS KEHUTANAN FTP server (MikroTik 6.42.6) readyn
+220 1886 FTP server (MikroTik 6.45.1) readyn
+220 Lojas Volpi - Matriz FTP server (MikroTik 6.42.1) readyn
+220 MikroTik FTP server (MikroTik 6.34.6) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS2dual-2903BB) [::ffff:192.168.0.101] UTF-8n
+220 ipTIME_FTPD 1.3.4d Server (ROAH-NAS-7E245B) [192.168.1.4] UTF-8n
+220 FRITZ!BoxWLAN3370 FTP server ready.n
+220 unionup FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS1-C80577) [192.168.0.3] UTF-8n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE60DD) [192.168.0.1] EUC-KRn
+nMikroTik v6.45.1 (stable)nLogin: 
+220 Cierbikowski Rudniczek 13a FTP server (MikroTik 6.42.1) readyn
+220 ipTIME_FTPD 1.3.4d Server (dawool-294101) [192.168.0.219] EUC-KRn
+nMikroTik v6.35.4 (stable)nLogin: 
+220 MikroTik FTP server (MikroTik 6.41.3) readyn
+220 FRITZ!Box6360Cable FTP server ready.n
+220 FUJI XEROX DocuPrint CP405 dn
+220 LaCie-CloudBox FTP Server [192.168.1.10]n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A835A5) [::ffff:192.168.0.1] UTF-8n
+220 AXIS 214 PTZ Network Camera 4.49 (Oct 05 2009) ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD6B01) [192.168.0.1] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (THNas1dual-5F06D5) [192.168.35.34] EUC-KRn
+220 Speedport W 504V Typ A FTP Server v1.23.000 readyn
+220 inzgeo2016 FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (seoulsci-5F225D) [192.168.0.86] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (NAS2dual-292F02) [::ffff:192.168.0.111] EUC-KRn
+220 CGNAT01 FTP server (MikroTik 6.44.3) readyn
+220 NEAT_NAS FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (csnas2e-1B3A1A) [192.168.0.12] EUC-KRn
+220-FileZilla Server 0.9.60 betan220-Clever Soft S.A.n220 SCA - Sistema de Control de Acceson
+220 ipTIME_FTPD 1.3.4d Server (MyNAS-1B3A89) [192.168.0.250] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-65356F) [::ffff:192.168.0.1] EUC-KRn
+220 MikroTik FTP server (MikroTik 6.39.3) readyn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A9004M-D653DD) [::ffff:192.168.0.1] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (swbaeNAS-1B36A2) [192.168.0.32] EUC-KRn
+220 ARIQUEMES - PVH FTP server (MikroTik 6.30.4) readyn
+nMikroTik v2.9.50nLogin: 
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [10.10.3.67]n
+220 host FTP server (VxWorks 6.4) ready.n
+220 ipTIME_FTPD 1.3.4d Server (baegascloud-1B34CE) [172.30.1.4] EUC-KRn
+220 FTP Server (USG40) [::ffff:163.17.210.240]n
+220 ipTIME_FTPD 1.3.4d Server (jsfaserver-29227B) [::ffff:192.168.0.246] EUC-KRn
+nDengStation_01 login: 
+220 ipTIME_FTPD 1.3.4d Server (NAS2dual-293BD6) [192.168.35.200] UTF-8n
+220 MikroTik FTP server (MikroTik 6.36.3) readyn
+220 1503 FTP server (MikroTik 6.45.1) readyn
+220 P660RU-T1 FTP version 1.0 ready at Tue Dec 17 05:37:25 2002n
+220 PUENTE-RAQUEL BETINO ESCOBAR FTP server (MikroTik 6.44.3) readyn
+nMikroTik v3.25nLogin: 
+220 PPOE_ONT_INTEGRADA_CORTIJO FTP server (MikroTik 6.42.3) readyn
+220 Ro-GBJ FTP server (MikroTik 6.45.2) readyn
+220 MikroTik-CONEXION-TOTAL-BARRO-BLANCO FTP server (MikroTik 6.43) readyn
+220 FTP Server (ZyWALL USG 20W) [::ffff:146.247.93.106]n
+Permission deniedn
+220 FTP Server (ZyWALL USG 50) [::ffff:217.86.135.199]n
+220 ISI-Lumirova FTP server (MikroTik 6.44.5) readyn
+220 Enet24 - Core FTP server (MikroTik 6.42.1) readyn
+220 gulsumdayanis FTP server (MikroTik 6.44.1) readyn
+220 ipTIME_FTPD 1.3.4d Server (A2004NS-EA6E51) [192.168.1.1]n
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------n220-You are user number 1 of 1000 allowed.n220-Local time is now 11:17. Server port: 21.n220-This is a private system - No anonymous loginn220-IPv6 connections are also welcome on this server.n220 You will be disconnected after 15 minutes of inactivity.n
+220 VIVO - TI PIRA 700 MB FTP server (MikroTik 6.42.11) readyn
+220 AXIS 212 PTZ Network Camera 4.40 (May 04 2007) ready.n
+220 Rajal-NAS FTP server ready.n
+220 Welcome to ASUS DSL-AC87VG FTP service.n
+220 RB_DEME_PROVINCIA FTP server (MikroTik 6.45.3) readyn
+220 bftpd 2.2 at 181.211.59.110 ready.n
+220 ET0021B75E4152 Lexmark C950 FTP Server NH.HS30.N304 ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS2e-7E041A) [192.168.0.24] EUC-KRn
+220 DH-SOLUTION FTP server ready.n
+220 DHCP_Server_LC FTP server (MikroTik 6.44.1) readyn
+220 Synology FTP server ready.n
+220 NAS_Tavernelli FTP server ready.n
+Welcome to the Eco4 command line processornUsername: 
+220 MikroTik-Praszka FTP server (MikroTik 6.40.5) readyn
+220 Antara FTP server (MikroTik 6.42.5) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS2-C93436) [192.168.0.101] EUC-KRn
+220 JHB5359 - Have You Heard Marketing-Internet  FTP server (MikroTik 6.44) readyn
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [10.10.10.1]n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA8929) [192.168.0.1] UTF-8n
+220 ipTIME_FTPD 1.3.4d Server (powersNAS-5F1D0A) [::ffff:112.144.130.184] EUC-KRn
+"220 FTP Server, type 'quote help' for helpn"
+220 isolar-server FTP server ready.n
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [172.23.130.14]n
+220 Welcome to ASUS RT-AC56U FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (uberjoy-C80B7A) [192.168.0.30] EUC-KRn
+220 rb_test FTP server (MikroTik 6.43.4) readyn
+220 FTP Server (ZyWALL USG 20) [::ffff:101.86.229.66]n
+220 ipTIME_FTPD 1.3.4d Server (Lee-29404D) [192.168.1.241] UTF-8n
+System is currently engaged. Connection closing ...n
+220 ana mercedes ramos FTP server (MikroTik 6.44.2) readyn
+220 Ukwakhile FTP server (MikroTik 6.40.4) readyn
+SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13n
+220 Welcome to ASUS RT-AC1300UHP FTP service.n
+220 BITS_NAS FTP server ready.n
+220 NRAS-Mokhaberat FTP server (MikroTik 6.44.3) readyn
+220 Ver-Imagem FTP server (MikroTik 6.39.1) readyn
+220 haik106452 FTP server (MikroTik 6.44.1) readyn
+220 AXIS M1125 Network Camera 8.40.1.2 (2019) ready.n
+220 zelia FTP server (MikroTik 6.44.3) readyn
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------n220-You are user number 3 of 1000 allowed.n220-Local time is now 11:17. Server port: 21.n220-This is a private system - No anonymous loginn220-IPv6 connections are also welcome on this server.n220 You will be disconnected after 15 minutes of inactivity.n
+220 DiskStation_01 FTP server ready.n
+nInova v6.44.3 (stable)nLogin: 
+220 FTP Server (ZyWALL USG 20) [::ffff:62.167.233.42]n
+220 ihor-shirokov-mkr-spoke01 FTP server (MikroTik 6.45.1) readyn
+220 Welcome to Linksys02287n
+220 NAS-CNN FTP server ready.n
+220 DataCentre FTP server ready.n
+220 Ljubomir Dudic FTP server (MikroTik 6.40.8) readyn
+220 ParsaRasaneh-Davoodi FTP server (MikroTik 6.34.4) readyn
+220-FileZilla Server 0.9.60 betan220-written by Tim Kosse (tim.kosse@filezilla-project.org)n220-Please visit https://filezilla-project.org/n220-n220 Anderson Global FTP siten
+220 Welcome to ASUS RT-AC55UHP FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (CNPNAS2-C90EB4) [192.168.1.19] EUC-KRn
+220 NASFTPD Turbo station 1.3.4e Server (ProFTPD) [192.168.0.254]n
+220 INTERNET FTP server (MikroTik 6.43.8) readyn
+TiMOS-C-7.0.R21 cpm/hops ALCATEL SR 7750 Copyright (c) 2000-2012 Alcatel-Lucent.nAll rights reserved. All use subject to applicable license agreements.nBuilt on Mon Jan 9 09:18:29 PST 2012 by builder in /rel7.0/b1/R21/panos/mainnnnLogin: 
+220 GIZ MIERA FTP server (MikroTik 6.39.3) readyn
+220 TV1 FTP server (MikroTik 6.44.3) readyn
+Mist login: 
+220 SG_Server FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS1-943FFF) [192.168.0.22] EUC-KRn
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [81.19.247.145]n
+220 MikroTik FTP server (MikroTik 6.42.5) readyn
+220 test FTP server (MikroTik 6.39.2) readyn
+220 MikroTik FTP server (MikroTik 6.42.7) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS1dualck-5F17C1) [::ffff:192.168.0.3] UTF-8n
+220 ICAP FTP server (MikroTik 6.39.2) readyn
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-0B58D5) [192.168.0.1] UTF-8n
+220 Synology_DS116 FTP server ready.n
+220 001 NAT-1 FTP server (MikroTik 6.43.1) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS4-AB49B5) [192.168.0.16] EUC-KRn
+220-FileZilla Server version 0.9.41 betan220-Please visit http://sourceforge.net/projects/filezilla/n220 server_proviters_reteinternetn
+220 office FTP server (MikroTik 6.39.2) readyn
+220 DISKLKF FTP server ready.n
+220 GKSoft FTP server ready.n
+220 Welcome to ASUS RT-AC56R FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-27C1CD) [192.168.0.1] EUC-KRn
+220 cirica FTP server (MikroTik 6.44.5) readyn
+220 DS_MAC_STEF FTP server ready.n
+"220 IPCamera FtpServer(www.maygion.com),used for IPCam Repair and upgrade,do NOT change firmware unless you know what you are doing!n"
+220 Ellis FTP server ready.n
+220 KL_ARKADIUSZ_KUPIEC FTP server (MikroTik 6.40.5) readyn
+220 Kagalnik-RB450G-RTK FTP server (MikroTik 6.42.6) readyn
+nMikroTik v6.42.12 (long-term)nLogin: 
+220 PKO_LOMIANKI_WARSZAWSKA_148_CLIENT FTP server (MikroTik 5.26) readyn
+nMikroTik v5.22nLogin: 
+220 yang0z_nas FTP server ready.n
+220 TabStation FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6F0835) [192.168.0.1]n
+220 Welcome to Linksys24668n
+220 ipTIME_FTPD 1.3.4d Server (NAS2e-7E0DB5) [192.168.123.104] EUC-KRn
+220 ipTIME_FTPD 1.3.4d Server (JWOVERSEA-5F227F) [192.168.0.201] EUC-KRn
+220 AXIS 211 Network Camera 4.30 (Sep 30 2005) ready.n
+nMikroTik v5.24nLogin: 
+220 SAHARANPUR MAIN ROUTER FTP server (MikroTik 6.42.1) readyn
+220 Tanke-Server FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (hycnas-5F280C) [192.168.0.100] EUC-KRn
+220 AXIS P5522-E PTZ Dome Network Camera 5.51.5.1 (2018) ready.n
+220 ipTIME_FTPD 1.3.4d Server (NAS1dual-5F2096) [::ffff:125.191.215.8] EUC-KRn
+nMikroTik v6.42.2 (stable)nLogin: 
+220 Frantisek_Lebeda FTP server (MikroTik 6.44.3) readyn
+220 VS30_NAS FTP server ready.n
+220 SynologyNAS FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (DaumDevelop-291963) [172.30.1.4] EUC-KRn
+220 NAS-DONI FTP server ready.n
+220 Santa Juana FTP server (MikroTik 6.35.4) readyn
+220 AXIS P5635-E Mk II PTZ Dome Network Camera 8.40.1 (2018) ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-325825) [::ffff:192.168.0.1] UTF-8n
+220 P-660R-T1v2 FTP version 1.0 ready at Sun Jan 16 04:21:03 2000n
+220 ProFTPD 1.3.5b Server (NETGEAR ReadyNAS) [::ffff:192.168.0.67]n
+nMikroTik v6.4nLogin: 
+220 Danino_Station FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A2003NS-MU-7C294D) [192.168.0.1] UTF-8n
+220 nas-smash FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F656D5) [192.168.0.1] EUC-KRn
+220 MikroTik-EQ FTP server (MikroTik 5.19) readyn
+220 FTP Server (USG60) [::ffff:163.24.48.243]n
+nSystem administrator is connecting from 77.42.72.200nReject the connection request !!!n
+220 MikroTik FTP server (MikroTik 6.12) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS3-1B0EEF) [192.168.1.79] UTF-8n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-65B9F5) [::ffff:192.168.0.1] EUC-KRn
+220 RAEISP FTP server (MikroTik 6.43.4) readyn
+220 8021 FTP server (MikroTik 6.43) readyn
+220 Zubek Michal FTP server (MikroTik 6.42.7) readyn
+220 DA FTP Siten
+220 Welcome to TBS FTP Server.n
+220 192.168.1.5 FTP server (tnftpd 20100324+GSSAPI) ready.n
+220 MikroTik - DMZ FTP server (MikroTik 6.42.3) readyn
+[2J[1;1f
+220-Welcome To Rumpus!n220 Service ready for new usern
+220 MikroTik PM4 FTP server (MikroTik 6.45.2) readyn
+***************** Warning **********************n*                                              *n* Telnet service is not a secure service!!     *n* Please use SSH service for remote management *n*                                              *n************************************************nnWelcome to USG210nnUsername: 
+220 HauptovaLHG FTP server (MikroTik 6.44.1) readyn
+220 ipTIME_FTPD 1.3.4d Server (www-C80001) [192.168.44.5] EUC-KRn
+220 ana villa FTP server (MikroTik 6.45.1) readyn
+220 Welcome to Linksys07295n
+220 ipTIME_FTPD 1.3.4d Server (NAS-7E1B4A) [192.168.0.104] EUC-KRn
+220 Welcome to ASUS RT-AC5300 FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (Tiger-7E12E0) [192.168.0.74] EUC-KRn
+nMikroTik v6.27nLogin: 
+220 Welcome to ASUS RT-N14U FTP service.n
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------n220-You are user number 1 of 50 allowed.n220-Local time is now 21:17. Server port: 21.n220-This is a private system - No anonymous loginn220-IPv6 connections are also welcome on this server.n220 You will be disconnected after 15 minutes of inactivity.n
+220 ProFTPD 1.3.3g Server (NETGEAR ReadyNAS) [::ffff:192.168.0.2]n
+220 ipTIME_FTPD 1.3.4d Server (DYsystem-1B26D3) [192.168.0.23] EUC-KRn
+220 AP7921 Network Management Card AOS v2.7.1 FTP server ready.n
+220 HQ_LSerena FTP server (MikroTik 6.37.5) readyn
+220 Infantilandia RB2011 FTP server (MikroTik 6.42.6) readyn
+220 AXIS M3204 Fixed Dome Network Camera 5.50.3.1 (2015) ready.n
+220 CP202 FTP server (MikroTik 6.40.8) readyn
+nMikroTik v6.31nLogin: 
+220 bftpd 2.2 at ::ffff:88.23.143.222 ready.n
+220 MyDiskStation FTP server ready.n
+220 Cyprki Skrodzki FTP server (MikroTik 2.9.50) readyn
+220 ipTIME_FTPD 1.3.4d Server (hyangto-2943E5) [192.168.0.200] EUC-KRn
+220 AXIS Q3505 Fixed Dome Network Camera 6.50.1.2 (2017) ready.n
+nMikroTik v5.11nLogin: 
+220 FTP Server (USG60W) [::ffff:178.248.35.17]n
+220 (vsFTPd 2.0.7)n
+220 Transporte Mirna - MikroTik FTP server (MikroTik 6.42.7) readyn
+220 ipTIME_FTPD 1.3.4d Server (HomeNAS1dual-5F1DCE) [::ffff:192.168.0.9] EUC-KRn
+PMG2005-T20B login: 
+220 AXIS P7224 Video Encoder Blade 5.51.2.9 (2017) ready.n
+nMikroTik v6.0rc14nLogin: 
+220 AP9631 Network Management Card AOS v6.2.1 FTP server ready.n
+220 Welcome to ASUS DSL-AC52U FTP service.n
+220 ipTIME_FTPD 1.3.4d Server (sindo-7E1A8B) [192.168.0.200] UTF-8n
+220 AP9630 Network Management Card AOS v6.2.0 FTP server ready.n
+220 Welcome to ASUS RT-N66R FTP service.n
+220 CE-Eldorado Robson-net FTP server (MikroTik 6.44.3) readyn
+220 JJ_DS1813 FTP server ready.n
+nLinux 2.4.21-rmk1 (pCOWeb11275E) (ttya4)nnnpCOWeb11275E login: 
+220 HPCTW FTP server ready.n
+220 ABC FTP server (MikroTik 5.26) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS-5F16DB) [192.168.219.119] UTF-8n
+220 PREDisk FTP server ready.n
+220 WIFI BETPLAY FTP server (MikroTik 6.39.2) readyn
+220 ProFTPD 1.3.3a Server (Debian) [::ffff:192.168.0.40]n
+220 bunge FTP server (MikroTik 6.45.1) readyn
+nMikroTik v6.7nLogin: 
+220 FTP Server (USG20-VPN) [::ffff:217.124.116.61]n
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.1.100]n
+220 Brava FTP server (MikroTik 6.44) readyn
+220 Jamie Hickey FTP server (MikroTik 6.42.5) readyn
+220 ipTIME_FTPD 1.3.4d Server (Nas-2903D0) [192.168.0.150] UTF-8n
+220 Areasonica FTP server ready.n
+220 Welcome to Linksys15555n
+nMikroTik v6.43.1 (stable)nLogin: 
+220 PPPOE-500-BURITICUPU FTP server (MikroTik 6.45.1) readyn
+220 Bankai FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-ADFDFD) [192.168.0.1] EUC-KRn
+nMikroTik v6.34.3 (stable)nLogin: 
+220 MikroTik FTP server (MikroTik 6.43.11) readyn
+220 ipTIME_FTPD 1.3.4d Server (MnD-2957DE) [::ffff:172.30.1.56] EUC-KRn
+220 baleno FTP server ready.n
+220 Yan-DiskStation FTP server ready.n
+220 GreenpointFS FTP server ready.n
+220 ralla FTP server ready.n
+220 NassLaufwerk FTP server ready.n
+220 FTP Server (ZyWALL USG 20) [::ffff:223.166.84.3]n
+220 Europa FTP server (MikroTik 6.42.5) readyn
+220 SN 19-497-52028  ready. Time is 19:29:47 04/08/19.n
+220 rb750r2-481-1 FTP server (MikroTik 6.44) readyn
+220 RBSXT Habitar - Multi Bqueras FTP server (MikroTik 6.42.9) readyn
+220 LL PRIME Router FTP server (MikroTik 6.42.3) readyn
+220 Sibnishoz-4 FTP server (MikroTik 6.45.1) readyn
+220 NASFTPD Turbo station 1.3.2e Server (ProFTPD) [192.168.2.14]n
+220 cglee079 FTP server ready.n
+220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-27A831) [192.168.0.1] EUC-KRn
+220 PINTURAS FTP server (MikroTik 6.34.2) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS2dual-2945E8) [192.168.0.47] EUC-KRn
+220 Dijamant_N.T.P FTP server (MikroTik 5.21) readyn
+220-TiMOS-B-9.0.R16 both/hops ALCATEL SR 7750 Copyright (c) 2000-2012 Alcatel-Lucent.n220-All rights reserved. All use subject to applicable license agreements.n220-Built on Tue Sep 4 14:40:31 PDT 2012 by builder in /rel9.0/b1/R16/panos/mainn220-n220-********************* Welcome to LANIC office Router ***************************n220 FTP server readyn
+220 brmaero_sro2 FTP server (MikroTik 6.42.7) readyn
+220 batnetworkdrive FTP Server [192.168.7.35]n
+220 RICOH MP C3004 FTP server (15.72) ready.n
+220 Welcome to Linksys00076n
+220 6307 FTP server (MikroTik 6.7) readyn
+220 ProFTPD Server (NETGEAR ReadyNAS) [CLS-AMC-NAS]n
+220 RMS.NBG.NWW.Router1 FTP server (MikroTik 6.43.4) readyn
+220 ipTIME_FTPD 1.3.4d Server (NAS1109KE-29275B) [220.71.72.205] EUC-KRn
+220 LAGAR FTP server (MikroTik 6.42.3) readyn
+220 Ice-DiskStation FTP server ready.n
+220 AP9630 Network Management Card AOS v6.4.6 FTP server ready.n
+220 Welcome to ASUS 4G-AC55U FTP service.n
+220 dam_tin FTP server (MikroTik 6.42.7) readyn
+220 Cabrico FTP server (MikroTik 6.43.4) readyn
+220 DiskStation212P FTP server ready.n
+220 ProFTPD 1.3.3g Server (NETGEAR ReadyNAS) [192.168.0.87]n
+220 P660R-T1 FTP version 1.0 ready at Fri Feb 11 05:05:16 2000n
+220 Tower Services Inc FTP server (MikroTik 6.44.3) readyn
+220 JWNAS FTP server ready.n
+220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.0.37]n
+220 FTP Server (USG20W-VPN) [::ffff:84.47.144.246]n
+220 eghlid-uni-local2 FTP server (MikroTik 6.43.4) readyn
+220 Welcome to ASUS RT-N66W FTP service.n
+220 RB532-Omni-Panell FTP server (MikroTik 5.26) readyn
+220 NASFTPD Turbo station 2.x 1.3.1rc2 Server (ProFTPD) [192.168.100.14]n
+220 Netbyte Broadband Service Provider FTP server (MikroTik 5.20) readyn
+220 MikroTik FTP server (MikroTik 6.4) readyn
+220 5/25 MK FTP server (MikroTik 5.25) readyn
+220 Firma2 FTP server ready.n
+220 DSRemy FTP server ready.n
+220 FTP Server (USG310) [::ffff:90.182.220.150]n
+220 R/SW1 FTP server (MikroTik 6.42.1) readyn
+220 sxt-spylinger FTP server (MikroTik 6.42.3) readyn
+220 FTP Server (ZyWALL USG 100) [::ffff:95.50.116.182]n

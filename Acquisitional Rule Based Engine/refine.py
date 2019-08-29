@@ -152,33 +152,33 @@ the html tags from the banner data
 '''
 
 def refine_query(q, mode, devices, vendors):
-	# d = enchant.Dict('en_US')
+	d = enchant.Dict('en_US')
 
 	# if 'upnp' in q.lower():
-	q = upnpRefine(q.lower())
+	# q = upnpRefine(q.lower())
 
 	q = remove_http_codes(q, http_codes)
 	q = remove_dates(q)
 	
 	if mode == 1 or mode == 2: #Section 4.2, sub sec: Web Crawler, first para
-	# 	pat_script = r"(?is)<script[^>]*>(.*?)</script>"
-	# 	q = re.sub(pat_script, "", q)
+		pat_script = r"(?is)<script[^>]*>(.*?)</script>"
+		q = re.sub(pat_script, "", q)
 
 
-	# 	pat_style = r"(?is)<style[^>]*>(.*?)</style>"
-	# 	q = re.sub(pat_style, "", q)
+		pat_style = r"(?is)<style[^>]*>(.*?)</style>"
+		q = re.sub(pat_style, "", q)
 
 
-	# 	pat_links = r'^https?:\/\/.*[\r\n]*'
-	# 	q = re.sub(pat_links, "", q)
+		pat_links = r'^https?:\/\/.*[\r\n]*'
+		q = re.sub(pat_links, "", q)
 
 
-	# 	pat_links = r'^http?:\/\/.*[\r\n]*'
-	# 	q = re.sub(pat_links, "", q)
+		pat_links = r'^http?:\/\/.*[\r\n]*'
+		q = re.sub(pat_links, "", q)
 
 
-	# 	reg = re.compile('<[^<]+?>')
-	# 	q = re.sub(reg, '', q)
+		reg = re.compile('<[^<]+?>')
+		q = re.sub(reg, '', q)
 
 		date_time = r'\d+[\/:\-]\d+[\/:\-\s]*[\dAaPpMn]*'
 		q = re.sub(date_time, '', q)
@@ -202,8 +202,8 @@ def refine_query(q, mode, devices, vendors):
 			if k is "": continue
 			k = trim(k)
 			try:
-				# if (d.check(k.lower()) == True) and (in_database(k.lower(), devices, vendors) == False): continue
-				if len(spell.unknown([k.lower()])) == 0 and (in_database(k.lower(), devices, vendors) == False): continue
+				if (d.check(k.lower()) == True) and (in_database(k.lower(), devices, vendors) == False): continue
+				# if len(spell.unknown([k.lower()])) == 0 and (in_database(k.lower(), devices, vendors) == False): continue
 			except Exception as exception:
 				# print("Exception: ", exception)
 				pass

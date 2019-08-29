@@ -1,0 +1,1456 @@
+,Items,Support,Confidence,Ground Truth
+0,"{'wifi betplay mikrotik', 'ABB'}",0.0040424891411860835,1.0,MikroTik | router | 
+1,"{'AGOSTO', 'ljubomir dudic mikrotik'}",0.0010321248871113405,1.0,MikroTik | router | 
+2,"{'ASUS', 'asus dsl-ac52u'}",0.0064937857480755175,0.616326530612245,DSL-AC52U | soho router | 
+3,"{'asus dsl-ac56u', 'ASUS'}",0.0017632133488152066,0.6949152542372881,DSL-AC56U | soho router | 
+4,"{'asus dsl-ac68u', 'ASUS'}",0.005418655657334537,0.5316455696202531,DSL-AC68U | soho router | 
+5,"{'asus rt-ac3100', 'ASUS'}",0.0015481873306670106,0.9473684210526315,RT-AC3100 | soho router | 
+6,"{'asus rt-ac3200', 'ASUS'}",0.008945082354964952,0.7027027027027027,RT-AC3200 | soho router | 
+7,"{'asus rt-ac51u', 'ASUS'}",0.0021502601814819594,0.8333333333333334,RT-AC51U | soho router | 
+8,"{'asus rt-ac52u', 'ASUS'}",0.00421450995570464,0.6666666666666666,RT-AC52U | soho router | 
+9,"{'asus rt-ac5300', 'ASUS'}",0.0036124371048896916,0.7924528301886793,RT-AC5300 | soho router | 
+10,"{'asus rt-ac55uhp', 'ASUS'}",0.004816582806519589,0.8484848484848485,RT-AC55UHP | soho router | 
+11,"{'asus rt-ac56r', 'ASUS'}",0.007095858598890466,0.5830388692579506,RT-AC56R | soho router | 
+12,"{'asus rt-ac56u', 'ASUS'}",0.012815550681632478,0.5265017667844523,RT-AC56U | soho router | 
+13,"{'asus rt-ac58u', 'ASUS'}",0.004128499548445362,0.9411764705882353,RT-AC58U | soho router | 
+14,"{'asus rt-ac66u', 'ASUS'}",0.005762697286371651,0.5,RT-AC66U | soho router | 
+15,"{'ASUS', 'asus rt-ac66u_b1'}",0.0028813486431858255,0.5,RT-AC66U_B1 | soho router | 
+16,"{'asus rt-ac68u', 'ASUS'}",0.013073581903410313,1.0,RT-AC68U | soho router | 
+17,"{'ASUS', 'asus rt-ac68w'}",0.002752333032296908,1.0,RT-AC68W | soho router | 
+18,"{'ASUS', 'asus rt-ac87u'}",0.004300520362963919,0.625,RT-AC87U | soho router | 
+19,"{'ASUS', 'asus rt-ac88u'}",0.0017202081451855675,0.6060606060606061,RT-AC88U | soho router | 
+20,"{'asus rt-acrh13', 'ASUS'}",0.007568915838816497,0.5222551928783383,RT-ACRH13 | soho router | 
+21,"{'asus rt-ax88u', 'ASUS'}",0.0012901561088891757,0.6976744186046512,RT-AX88U | soho router | 
+22,"{'ASUS', 'asus rt-n66r'}",0.0015911925342966498,0.74,RT-N66R | soho router | 
+23,"{'asus rt-n66u', 'ASUS'}",0.0031823850685932997,1.0,RT-N66U | soho router | 
+24,"{'asus rt-n66w', 'ASUS'}",0.0016772029415559283,1.0,RT-N66W | soho router | 
+25,"{'asus tm-ac1900', 'ASUS'}",0.006063733711779125,0.8980891719745223,TM-AC1900 | soho router | 
+26,"{'C-5S', 'mikrotik mikrotik'}",0.005590676471853094,0.962962962962963,"MikroTik,MikroTik | router,router | "
+27,"{'axis camera', 'CAMERA'}",0.008687051133187115,0.7163120567375887,210 Network Camera | camera | 
+28,"{'axis camera sep', 'CAMERA'}",0.004343525566593558,0.7163120567375887,211 Network Camera | camera | 
+29,"{'axis m5013 ptz camera', 'CAMERA'}",0.005074614028297424,0.5042735042735044,M5013 PTZ Dome Network Camera | camera | 
+30,"{'axis m5014-v ptz camera', 'CAMERA'}",0.005461660860964177,0.522633744855967,M5014-V PTZ Dome Network Camera | camera | 
+31,"{'axis p5512-e ptz camera', 'CAMERA'}",0.005074614028297424,0.5042735042735044,"P5512-E PTZ Dome Network Camera,TM221CE40T | camera,programmable logic controller | "
+32,"{'axis p5522-e ptz camera', 'CAMERA'}",0.005074614028297424,0.5042735042735044,P5522-E PTZ Dome Network Camera | camera | 
+33,"{'axis p5534 ptz camera', 'CAMERA'}",0.005074614028297424,0.5042735042735044,P5534 PTZ Dome Network Camera | camera | 
+34,"{'CAMERA', 'axis p5635-e mk ptz camera'}",0.005074614028297424,0.5042735042735044,P5635-E Mk II PTZ Dome Network Camera | camera | 
+35,"{'axis ptz camera', 'CAMERA'}",0.005117619231927063,0.5063829787234042,212 PTZ Network Camera | camera | 
+36,"{'axis ptz camera oct', 'CAMERA'}",0.005117619231927063,0.5063829787234042,214 PTZ Network Camera | camera | 
+37,"{'CAMERA', 'axis q6044 ptz camera'}",0.005074614028297424,0.5042735042735044,Q6044 PTZ Dome Network Camera | camera | 
+38,"{'CAMERA', 'axis q6044-e ptz camera'}",0.005074614028297424,0.5042735042735044,Q6044-E PTZ Dome Network Camera | camera | 
+39,"{'axis q6045-e mk ptz camera', 'CAMERA'}",0.005074614028297424,0.5042735042735044,Q6045-E Mk II PTZ Dome Network Camera | camera | 
+40,"{'axis q6115-e ptz camera', 'CAMERA'}",0.01057928009289124,0.5146443514644351,Q6115-E PTZ Dome Network Camera | camera | 
+41,"{'CAMERA', 'ljubomir dudic mikrotik'}",0.006106738915408765,0.993006993006993,MikroTik | router | 
+42,"{'CCR1016', 'mikrotik mikrotik'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+43,"{'mikrotik mikrotik', 'CCR1016-12G'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+44,"{'CCR1016-12S', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+45,"{'CCR1036', 'mikrotik mikrotik'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+46,"{'CCR1036-12G', 'mikrotik mikrotik'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+47,"{'CCR1036-8G', 'mikrotik mikrotik'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+48,"{'mikrotik mikrotik', 'CCR1072-1G'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+49,"{'CCR12G', 'mikrotik mikrotik'}",0.008386014707779641,0.8590308370044053,"MikroTik,MikroTik | router,router | "
+50,"{'ap7901 aos v2.7.0', 'CISCO'}",0.0024082914032597944,0.6363636363636364,AP7901 | power distribution unit | 
+51,"{'CRS-1', 'mikrotik mikrotik'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+52,"{'CRS109-8G', 'mikrotik mikrotik'}",0.005590676471853094,0.87248322147651,"MikroTik,MikroTik | router,router | "
+53,"{'CRS125-24G', 'mikrotik mikrotik'}",0.005590676471853094,0.9090909090909091,"MikroTik,MikroTik | router,router | "
+54,"{'mikrotik mikrotik', 'CRS212-1G'}",0.005590676471853094,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+55,"{'mikrotik mikrotik', 'CVE-2018-14847'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+56,"{'mikrotik mikrotik', 'DSTNAT7'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+57,"{'axis camera', 'DVR'}",0.002752333032296908,0.6399999999999999,210 Network Camera | camera | 
+58,"{'EMPLOYEES280', 'mikrotik mikrotik'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+59,"{'mikrotik mikrotik', 'EXPLOITATIONVULNERABILITYHACKINGINFOSEC386'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+60,"{'G-16S', 'mikrotik mikrotik'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+61,"{'G-2HND', 'mikrotik mikrotik'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+62,"{'G-2S', 'mikrotik mikrotik'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+63,"{'G-5HPACD', 'mikrotik mikrotik'}",0.005590676471853094,0.962962962962963,"MikroTik,MikroTik | router,router | "
+64,"{'mikrotik mikrotik', 'G-60AD'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+65,"{'G-8S', 'mikrotik mikrotik'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+66,"{'mikrotik mikrotik', 'GATEWAY'}",0.005590676471853094,0.5306122448979592,"MikroTik,MikroTik | router,router | "
+67,"{'europa mikrotik', 'GLASS'}",0.004128499548445362,1.0,MikroTik | router | 
+68,"{'mikrotik mikrotik', 'GROOVE-52HPN'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+69,"{'GROOVEA-52HPN', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+70,"{'mikrotik mikrotik', 'GS-5HNT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+71,"{'mikrotik mikrotik', 'GX4'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+72,"{'mikrotik mikrotik', 'HACQ2HND'}",0.005590676471853094,0.9489051094890512,"MikroTik,MikroTik | router,router | "
+73,"{'HIKVISION', 'axis m3004 camera'}",0.0017202081451855675,0.9523809523809524,M3004 Network Camera | camera | 
+74,"{'HND1', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+75,"{'mikrotik mikrotik', 'INIT7'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+76,"{'mikrotik mikrotik', 'INIT7.NET'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+77,"{'mikrotik mikrotik', 'INTEL'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+78,"{'IPV6', 'mikrotik mikrotik'}",0.002795338235926547,0.5652173913043479,"MikroTik,MikroTik | router,router | "
+79,"{'L3', 'mikrotik mikrotik'}",0.002795338235926547,0.7065217391304348,"MikroTik,MikroTik | router,router | "
+80,"{'mikrotik mikrotik', 'L4'}",0.005590676471853094,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+81,"{'mikrotik mikrotik', 'L5'}",0.005590676471853094,0.8176100628930818,"MikroTik,MikroTik | router,router | "
+82,"{'mikrotik mikrotik', 'L6'}",0.005590676471853094,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+83,"{'LITE5', 'mikrotik mikrotik'}",0.005590676471853094,0.9219858156028369,"MikroTik,MikroTik | router,router | "
+84,"{'MATRIX', 'axis m5013 ptz camera'}",0.006020728508149486,0.5982905982905984,M5013 PTZ Dome Network Camera | camera | 
+85,"{'MATRIX', 'axis m5014-v ptz camera'}",0.006020728508149486,0.5761316872427984,M5014-V PTZ Dome Network Camera | camera | 
+86,"{'MATRIX', 'axis p5512-e ptz camera'}",0.006020728508149486,0.5982905982905984,"P5512-E PTZ Dome Network Camera,TM221CE40T | camera,programmable logic controller | "
+87,"{'axis p5522-e ptz camera', 'MATRIX'}",0.006020728508149486,0.5982905982905984,P5522-E PTZ Dome Network Camera | camera | 
+88,"{'MATRIX', 'axis p5534 ptz camera'}",0.006020728508149486,0.5982905982905984,P5534 PTZ Dome Network Camera | camera | 
+89,"{'MATRIX', 'axis p5635-e mk ptz camera'}",0.006020728508149486,0.5982905982905984,P5635-E Mk II PTZ Dome Network Camera | camera | 
+90,"{'MATRIX', 'axis ptz camera'}",0.006020728508149486,0.5957446808510639,212 PTZ Network Camera | camera | 
+91,"{'MATRIX', 'axis ptz camera oct'}",0.006020728508149486,0.5957446808510639,214 PTZ Network Camera | camera | 
+92,"{'MATRIX', 'axis q6044 ptz camera'}",0.006020728508149486,0.5982905982905984,Q6044 PTZ Dome Network Camera | camera | 
+93,"{'MATRIX', 'axis q6044-e ptz camera'}",0.006020728508149486,0.5982905982905984,Q6044-E PTZ Dome Network Camera | camera | 
+94,"{'MATRIX', 'axis q6045-e mk ptz camera'}",0.006020728508149486,0.5982905982905984,Q6045-E Mk II PTZ Dome Network Camera | camera | 
+95,"{'MATRIX', 'axis q6115-e ptz camera'}",0.012041457016298973,0.5857740585774058,Q6115-E PTZ Dome Network Camera | camera | 
+96,"{'wifi betplay mikrotik', 'MICROSOFT'}",0.0020212445705930417,0.8545454545454546,MikroTik | router | 
+97,"{'MIKROTIK', 'balanceador mikrotik'}",0.0012471509052595364,0.6304347826086957,"MikroTik,MikroTik,MikroTik | router | "
+98,"{'benoit mikrotik', 'MIKROTIK'}",0.001161140498000258,1.0,MikroTik | router | 
+99,"{'bunge mikrotik', 'MIKROTIK'}",0.001161140498000258,0.6428571428571428,"MikroTik,MikroTik | router,router | "
+100,"{'capitan navarro mikrotik', 'MIKROTIK'}",0.001161140498000258,0.8709677419354839,"MikroTik,MikroTik | router,router | "
+101,"{'infantilandia rb2011 mikrotik', 'MIKROTIK'}",0.0018062185524448458,1.0,MikroTik | router | 
+102,"{'kuprianowicz-bozena skrzydlice 42a mikrotik', 'MIKROTIK'}",0.001376166516148454,0.6037735849056604,MikroTik | router | 
+103,"{'mikrotik chawala-mikrotik mikrotik', 'MIKROTIK'}",0.00473057239926031,0.6832298136645962,"MikroTik,MikroTik | router,router | "
+104,"{'mikrotik mikrotik', 'MIKROTIK'}",0.3074872059519202,0.7656065959952886,"MikroTik,MikroTik | router,router | "
+105,"{'mikrotik mikrotik', 'MIKROTIK'}",0.3074872059519202,0.6832298136645963,"MikroTik,MikroTik | router,router | "
+106,"{'mikrotik pm4 mikrotik', 'MIKROTIK'}",0.0012471509052595364,0.5178571428571429,MikroTik | router | 
+107,"{'novotny_router mikrotik', 'MIKROTIK'}",0.002064249774222681,0.5,"MikroTik,MikroTik | router,router | "
+108,"{'paula harman mikrotik', 'MIKROTIK'}",0.006106738915408765,0.5941422594142259,"MikroTik,MikroTik | router,router | "
+109,"{'peco145 mikrotik', 'MIKROTIK'}",0.0012471509052595364,1.0,"MikroTik,MikroTik | router,router | "
+110,"{'pharma mikrotik', 'MIKROTIK'}",0.0017202081451855675,0.5263157894736843,MikroTik | router | 
+111,"{'ponpes darunnahdlah ap02 mikrotik', 'MIKROTIK'}",0.002365286199630155,0.8870967741935484,"MikroTik,MikroTik | router,router | "
+112,"{'rb750r mikrotik', 'MIKROTIK'}",0.002322280996000516,0.5346534653465347,MikroTik | router | 
+113,"{'router fani mikrotik', 'MIKROTIK'}",0.0021502601814819594,0.819672131147541,MikroTik | router | 
+114,"{'router mikrotik', 'MIKROTIK'}",0.004128499548445362,0.5,MikroTik | router | 
+115,"{'saharanpur router mikrotik', 'MIKROTIK'}",0.002064249774222681,0.5,MikroTik | router | 
+116,"{'shahriar-router mikrotik', 'MIKROTIK'}",0.002064249774222681,0.5,"MikroTik,MikroTik | router,router | "
+117,"{'MIKROTIK', 'technics mikrotik'}",0.005160624435556703,0.6666666666666666,"MikroTik,MikroTik | router,router | "
+118,"{'transporte mirna - mikrotik mikrotik', 'MIKROTIK'}",0.00473057239926031,0.6832298136645962,MikroTik | router | 
+119,"{'ultrarap_diveo_main_gateway_router mikrotik', 'MIKROTIK'}",0.002064249774222681,0.5,MikroTik | router | 
+120,"{'vivo - pira mb mikrotik', 'MIKROTIK'}",0.0014191717197780931,1.0,MikroTik | router | 
+121,"{'mikrotik mikrotik', 'MIKROTIKCRS328-4C'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+122,"{'mikrotik mikrotik', 'MIKROTIKRB2011IL'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+123,"{'MIKROTIKRB2011UIAS', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+124,"{'MIKROTIKRB260GS', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+125,"{'mikrotik mikrotik', 'MIKROTIKRB260GSP'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+126,"{'MIKROTIKRB750UPR2', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+127,"{'MIKROTIKRB951G', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+128,"{'MIKROTIKRB951UI', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+129,"{'mikrotik mikrotik', 'MIKROTIKRBOMNITIKU-5HND'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+130,"{'NETGEAR', 'asus r7000'}",0.0015051821270373716,0.875,R7000 | soho router | 
+131,"{'NOMI', 'ljubomir dudic mikrotik'}",0.0010321248871113405,1.0,MikroTik | router | 
+132,"{'mikrotik mikrotik', 'OMNITIKU-5HND'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+133,"{'ORANGE', 'tdi kraljevica mikrotik'}",0.0018922289597041243,1.0,"MikroTik,MikroTik | router,router | "
+134,"{'ORANGE', 'tdi kraljevica mikrotik'}",0.0018922289597041243,0.8,"MikroTik,MikroTik | router,router | "
+135,"{'OSL4', 'mikrotik mikrotik'}",0.005590676471853094,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+136,"{'P-4S', 'mikrotik mikrotik'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+137,"{'axis camera', 'PANASONIC'}",0.0015481873306670106,0.6428571428571428,210 Network Camera | camera | 
+138,"{'QRT5', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+139,"{'mikrotik mikrotik', 'QRT5AC'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+140,"{'R5', 'mikrotik mikrotik'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+141,"{'mikrotik mikrotik', 'RB2011IL'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+142,"{'RB260GSP', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+143,"{'RB3011', 'mikrotik mikrotik'}",0.005590676471853094,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+144,"{'RB3011UIAS', 'mikrotik mikrotik'}",0.005590676471853094,0.8280254777070064,"MikroTik,MikroTik | router,router | "
+145,"{'mikrotik mikrotik', 'RB450'}",0.005590676471853094,0.9090909090909091,"MikroTik,MikroTik | router,router | "
+146,"{'RB450GX4', 'mikrotik mikrotik'}",0.005590676471853094,0.962962962962963,"MikroTik,MikroTik | router,router | "
+147,"{'mikrotik mikrotik', 'RB750GR3'}",0.005590676471853094,0.8074534161490683,"MikroTik,MikroTik | router,router | "
+148,"{'RB750R2', 'mikrotik mikrotik'}",0.005590676471853094,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+149,"{'RB911-5HN', 'mikrotik mikrotik'}",0.005590676471853094,0.962962962962963,"MikroTik,MikroTik | router,router | "
+150,"{'RB911G', 'mikrotik mikrotik'}",0.005590676471853094,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+151,"{'mikrotik mikrotik', 'RB911G5HPACD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+152,"{'mikrotik mikrotik', 'RB922UAGS'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+153,"{'RB922UAGS5HPA', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+154,"{'RB951G', 'mikrotik mikrotik'}",0.002795338235926547,0.7471264367816092,"MikroTik,MikroTik | router,router | "
+155,"{'RB951UI', 'mikrotik mikrotik'}",0.002795338235926547,0.7303370786516853,"MikroTik,MikroTik | router,router | "
+156,"{'RB953GS', 'mikrotik mikrotik'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+157,"{'mikrotik mikrotik', 'RB953GS5HNTRP'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+158,"{'RBGR52HPN', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+159,"{'RBGRA52HPN', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+160,"{'mikrotik mikrotik', 'RBM11G'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+161,"{'RBM33G', 'mikrotik mikrotik'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+162,"{'RBMETAL5SHPN', 'mikrotik mikrotik'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+163,"{'mikrotik mikrotik', 'RJ45'}",0.002795338235926547,0.5855855855855855,"MikroTik,MikroTik | router,router | "
+164,"{'ap-1006 mikrotik', 'ROUTER'}",0.01324560271792887,0.9777777777777777,MikroTik | router | 
+165,"{'ap7901 aos v2.7.0', 'ROUTER'}",0.0021502601814819594,0.5681818181818182,AP7901 | power distribution unit | 
+166,"{'ROUTER', 'asus dsl-ac52u'}",0.00580570249000129,0.5510204081632653,DSL-AC52U | soho router | 
+167,"{'asus dsl-ac56u', 'ROUTER'}",0.001634197737926289,0.6440677966101694,DSL-AC56U | soho router | 
+168,"{'ROUTER', 'asus dsl-ac68u'}",0.00580570249000129,0.5696202531645569,DSL-AC68U | soho router | 
+169,"{'ROUTER', 'asus r7000'}",0.0016772029415559283,0.975,R7000 | soho router | 
+170,"{'asus rt-ac3100', 'ROUTER'}",0.0015911925342966498,0.9736842105263157,RT-AC3100 | soho router | 
+171,"{'asus rt-ac3200', 'ROUTER'}",0.012643529867113921,0.9932432432432433,RT-AC3200 | soho router | 
+172,"{'ROUTER', 'asus rt-ac51u'}",0.002322280996000516,0.8999999999999999,RT-AC51U | soho router | 
+173,"{'ROUTER', 'asus rt-ac52u'}",0.004128499548445362,0.6530612244897959,RT-AC52U | soho router | 
+174,"{'ROUTER', 'asus rt-ac5300'}",0.004472541177482476,0.9811320754716982,RT-AC5300 | soho router | 
+175,"{'ROUTER', 'asus rt-ac55uhp'}",0.004558551584741753,0.803030303030303,RT-AC55UHP | soho router | 
+176,"{'asus rt-ac56r', 'ROUTER'}",0.00795596267148325,0.6537102473498233,RT-AC56R | soho router | 
+177,"{'ROUTER', 'asus rt-ac56u'}",0.012299488238076807,0.5053003533568905,RT-AC56U | soho router | 
+178,"{'asus rt-ac58u', 'ROUTER'}",0.003870468326667527,0.8823529411764706,RT-AC58U | soho router | 
+179,"{'asus rt-ac66u', 'ROUTER'}",0.00842901991140928,0.7313432835820896,RT-AC66U | soho router | 
+180,"{'ROUTER', 'asus rt-ac66u_b1'}",0.00421450995570464,0.7313432835820896,RT-AC66U_B1 | soho router | 
+181,"{'ROUTER', 'asus rt-ac68p'}",0.009289123984002064,0.9818181818181818,RT-AC68P | soho router | 
+182,"{'ROUTER', 'asus rt-ac68r'}",0.00421450995570464,0.8166666666666667,RT-AC68R | soho router | 
+183,"{'ROUTER', 'asus rt-ac68u'}",0.012987571496151035,0.993421052631579,RT-AC68U | soho router | 
+184,"{'ROUTER', 'asus rt-ac68w'}",0.001634197737926289,0.59375,RT-AC68W | soho router | 
+185,"{'ROUTER', 'asus rt-ac87u'}",0.005934718100890208,0.8624999999999999,RT-AC87U | soho router | 
+186,"{'ROUTER', 'asus rt-ac88u'}",0.0026663226250376293,0.9393939393939393,RT-AC88U | soho router | 
+187,"{'ROUTER', 'asus rt-acrh13'}",0.009848191631187374,0.6795252225519288,RT-ACRH13 | soho router | 
+188,"{'ROUTER', 'asus rt-ax88u'}",0.001634197737926289,0.8837209302325582,RT-AX88U | soho router | 
+189,"{'ROUTER', 'asus rt-n66r'}",0.0015481873306670106,0.72,RT-N66R | soho router | 
+190,"{'asus rt-n66u', 'ROUTER'}",0.002752333032296908,0.8648648648648648,RT-N66U | soho router | 
+191,"{'ROUTER', 'asus rt-n66w'}",0.001634197737926289,0.9743589743589743,RT-N66W | soho router | 
+192,"{'ROUTER', 'asus tm-ac1900'}",0.006063733711779125,0.8980891719745223,TM-AC1900 | soho router | 
+193,"{'ROUTER', 'asus ws880'}",0.003397411086741496,0.9404761904761906,WS880 | soho router | 
+194,"{'ROUTER', 'balanceador mikrotik'}",0.001849223756074485,0.9347826086956522,"MikroTik,MikroTik,MikroTik | router | "
+195,"{'bunge mikrotik', 'ROUTER'}",0.0014191717197780931,0.7857142857142857,"MikroTik,MikroTik | router,router | "
+196,"{'ROUTER', 'capitan navarro mikrotik'}",0.001118135294370619,0.838709677419355,"MikroTik,MikroTik | router,router | "
+197,"{'infantilandia rb2011 mikrotik', 'ROUTER'}",0.0017632133488152066,0.9761904761904762,MikroTik | router | 
+198,"{'ROUTER', 'kuprianowicz-bozena skrzydlice 42a mikrotik'}",0.0019782393669634025,0.8679245283018868,MikroTik | router | 
+199,"{'mikrotik chawala-mikrotik mikrotik', 'ROUTER'}",0.005160624435556703,0.7453416149068324,"MikroTik,MikroTik | router,router | "
+200,"{'ROUTER', 'mikrotik mikrotik'}",0.3354405883111857,0.5475605475605476,"MikroTik,MikroTik | router,router | "
+201,"{'ROUTER', 'mikrotik mikrotik'}",0.3354405883111857,0.7453416149068324,"MikroTik,MikroTik | router,router | "
+202,"{'ROUTER', 'mikrotik pm4 mikrotik'}",0.002236270588741238,0.9285714285714287,MikroTik | router | 
+203,"{'ROUTER', 'novotny_router mikrotik'}",0.0033114006794822174,0.8020833333333334,"MikroTik,MikroTik | router,router | "
+204,"{'ROUTER', 'paula harman mikrotik'}",0.007439900227927579,0.7238493723849372,"MikroTik,MikroTik | router,router | "
+205,"{'ROUTER', 'peco145 mikrotik'}",0.0012041457016298972,0.9655172413793103,"MikroTik,MikroTik | router,router | "
+206,"{'ROUTER', 'pharma mikrotik'}",0.002064249774222681,0.631578947368421,MikroTik | router | 
+207,"{'ROUTER', 'ponpes darunnahdlah ap02 mikrotik'}",0.00210725497785232,0.7903225806451614,"MikroTik,MikroTik | router,router | "
+208,"{'ROUTER', 'rb750r mikrotik'}",0.004128499548445362,0.9504950495049506,MikroTik | router | 
+209,"{'router dst&pppoe teluk intan mikrotik', 'ROUTER'}",0.0012041457016298972,0.8484848484848485,MikroTik | router | 
+210,"{'ROUTER', 'router fani mikrotik'}",0.0016772029415559283,0.6393442622950819,MikroTik | router | 
+211,"{'ROUTER', 'router mikrotik'}",0.006622801358964435,0.8020833333333334,MikroTik | router | 
+212,"{'ROUTER', 'saharanpur router mikrotik'}",0.0033114006794822174,0.8020833333333334,MikroTik | router | 
+213,"{'shahriar-router mikrotik', 'ROUTER'}",0.0033114006794822174,0.8020833333333334,"MikroTik,MikroTik | router,router | "
+214,"{'ROUTER', 'technics mikrotik'}",0.004257515159334279,0.5499999999999999,"MikroTik,MikroTik | router,router | "
+215,"{'ROUTER', 'transporte mirna - mikrotik mikrotik'}",0.005160624435556703,0.7453416149068324,MikroTik | router | 
+216,"{'ultrarap_diveo_main_gateway_router mikrotik', 'ROUTER'}",0.0033114006794822174,0.8020833333333334,MikroTik | router | 
+217,"{'vivo - pira mb mikrotik', 'ROUTER'}",0.001376166516148454,0.9696969696969696,MikroTik | router | 
+218,"{'ROUTER108', 'mikrotik mikrotik'}",0.008386014707779641,0.8590308370044053,"MikroTik,MikroTik | router,router | "
+219,"{'ap-1006 mikrotik', 'ROUTERBOARD'}",0.009590160409409538,0.7079365079365079,MikroTik | router | 
+220,"{'mikrotik mikrotik', 'ROUTERBOARD'}",0.13697157356040082,0.758513931888545,"MikroTik,MikroTik | router,router | "
+221,"{'mikrotik mikrotik', 'ROUTERBOARD-450GX4'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+222,"{'RULE6', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+223,"{'S-1S', 'mikrotik mikrotik'}",0.005590676471853094,0.8124999999999999,"MikroTik,MikroTik | router,router | "
+224,"{'mikrotik mikrotik', 'S-2HND'}",0.005590676471853094,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+225,"{'mikrotik mikrotik', 'S-4S'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+226,"{'mikrotik mikrotik', 'S1'}",0.005590676471853094,0.8843537414965986,"MikroTik,MikroTik | router,router | "
+227,"{'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik'}",0.016772029415559282,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+228,"{'SOCKS4', 'mikrotik mikrotik'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+229,"{'SOLUTIONS3G', 'mikrotik mikrotik'}",0.016772029415559282,0.9701492537313433,"MikroTik,MikroTik | router,router | "
+230,"{'SPRINT', 'ljubomir dudic mikrotik'}",0.001161140498000258,0.5094339622641509,MikroTik | router | 
+231,"{'mikrotik mikrotik', 'SWITCH'}",0.07547413237001677,0.6008216364258815,"MikroTik,MikroTik | router,router | "
+232,"{'TCP8', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+233,"{'TEAM', 'ljubomir dudic mikrotik'}",0.0012041457016298972,0.5833333333333334,MikroTik | router | 
+234,"{'mikrotik mikrotik', 'TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+235,"{'europa mikrotik', 'TELTONIKA'}",0.008644045929557476,1.0,MikroTik | router | 
+236,"{'mikrotik mikrotik', 'THEMFOLLOW386'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+237,"{'axis camera', 'TOSHIBA'}",0.0028383434395561863,0.6599999999999999,210 Network Camera | camera | 
+238,"{'mikrotik mikrotik', 'U-5HND'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+239,"{'mikrotik mikrotik', 'US-8'}",0.008386014707779641,0.8590308370044053,"MikroTik,MikroTik | router,router | "
+240,"{'mikrotik mikrotik', 'V2'}",0.002795338235926547,0.6565656565656566,"MikroTik,MikroTik | router,router | "
+241,"{'mikrotik mikrotik', 'V2.6'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+242,"{'V3', 'mikrotik mikrotik'}",0.002795338235926547,0.6018518518518519,"MikroTik,MikroTik | router,router | "
+243,"{'V3.3', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+244,"{'V6', 'mikrotik mikrotik'}",0.011181352943706188,0.8813559322033897,"MikroTik,MikroTik | router,router | "
+245,"{'mikrotik mikrotik', 'WI4SPOT'}",0.016772029415559282,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+246,"{'mikrotik mikrotik', 'WI4TOWER'}",0.016772029415559282,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+247,"{'wifi betplay mikrotik', 'ABB', 'CAMERA'}",0.0020212445705930417,1.0,MikroTik | router | 
+248,"{'wifi betplay mikrotik', 'ABB', 'CAMERA'}",0.0020212445705930417,0.5,MikroTik | router | 
+249,"{'wifi betplay mikrotik', 'ABB', 'CAMERA'}",0.0020212445705930417,0.5,MikroTik | router | 
+250,"{'wifi betplay mikrotik', 'ABB', 'GATEWAY'}",0.0020212445705930417,1.0,MikroTik | router | 
+251,"{'wifi betplay mikrotik', 'ABB', 'GATEWAY'}",0.0020212445705930417,0.5,MikroTik | router | 
+252,"{'wifi betplay mikrotik', 'ABB', 'GATEWAY'}",0.0020212445705930417,0.5,MikroTik | router | 
+253,"{'AGOSTO', 'CAMERA', 'ljubomir dudic mikrotik'}",0.0010321248871113405,1.0,MikroTik | router | 
+254,"{'AGOSTO', 'CAMERA', 'ljubomir dudic mikrotik'}",0.0010321248871113405,1.0,MikroTik | router | 
+255,"{'MODEM', 'ASUS', 'asus dsl-ac52u'}",0.0030533694577043824,0.6513761467889908,DSL-AC52U | soho router | 
+256,"{'asus dsl-ac68u', 'MODEM', 'ASUS'}",0.002537307014148712,0.5841584158415842,DSL-AC68U | soho router | 
+257,"{'MODEM', 'ASUS', 'asus rt-ac56u'}",0.004472541177482476,0.5048543689320389,RT-AC56U | soho router | 
+258,"{'PRINTER', 'asus rt-ac52u', 'ASUS'}",0.0010751300907409797,0.5,RT-AC52U | soho router | 
+259,"{'asus rt-ac56r', 'PRINTER', 'ASUS'}",0.0015911925342966498,0.6065573770491802,RT-AC56R | soho router | 
+260,"{'PRINTER', 'asus rt-ac56u', 'ASUS'}",0.0015481873306670106,0.5,RT-AC56U | soho router | 
+261,"{'asus rt-ac66u', 'PRINTER', 'ASUS'}",0.001118135294370619,0.52,RT-AC66U | soho router | 
+262,"{'PRINTER', 'ASUS', 'asus rt-ac68w'}",0.0010751300907409797,1.0,RT-AC68W | soho router | 
+263,"{'ROUTER', 'ASUS', 'asus dsl-ac52u'}",0.003397411086741496,0.5231788079470199,DSL-AC52U | soho router | 
+264,"{'ROUTER', 'ASUS', 'asus dsl-ac52u'}",0.003397411086741496,0.5851851851851853,DSL-AC52U | soho router | 
+265,"{'asus dsl-ac56u', 'ROUTER', 'ASUS'}",0.0010321248871113405,0.5853658536585367,DSL-AC56U | soho router | 
+266,"{'asus dsl-ac56u', 'ROUTER', 'ASUS'}",0.0010321248871113405,0.631578947368421,DSL-AC56U | soho router | 
+267,"{'ROUTER', 'asus dsl-ac68u', 'ASUS'}",0.0028383434395561863,0.5238095238095238,DSL-AC68U | soho router | 
+268,"{'asus rt-ac3100', 'ROUTER', 'ASUS'}",0.0015051821270373716,0.9722222222222223,RT-AC3100 | soho router | 
+269,"{'asus rt-ac3100', 'ROUTER', 'ASUS'}",0.0015051821270373716,0.945945945945946,RT-AC3100 | soho router | 
+270,"{'asus rt-ac3200', 'ROUTER', 'ASUS'}",0.008859071947705672,0.9903846153846153,RT-AC3200 | soho router | 
+271,"{'asus rt-ac3200', 'ROUTER', 'ASUS'}",0.008859071947705672,0.7006802721088435,RT-AC3200 | soho router | 
+272,"{'ROUTER', 'asus rt-ac51u', 'ASUS'}",0.0018922289597041243,0.88,RT-AC51U | soho router | 
+273,"{'ROUTER', 'asus rt-ac51u', 'ASUS'}",0.0018922289597041243,0.8148148148148149,RT-AC51U | soho router | 
+274,"{'ROUTER', 'asus rt-ac52u', 'ASUS'}",0.0030963746613340212,0.7346938775510203,RT-AC52U | soho router | 
+275,"{'ROUTER', 'asus rt-ac52u', 'ASUS'}",0.0030963746613340212,0.75,RT-AC52U | soho router | 
+276,"{'ROUTER', 'asus rt-ac5300', 'ASUS'}",0.003526426697630413,0.9761904761904762,RT-AC5300 | soho router | 
+277,"{'ROUTER', 'asus rt-ac5300', 'ASUS'}",0.003526426697630413,0.7884615384615383,RT-AC5300 | soho router | 
+278,"{'ROUTER', 'asus rt-ac55uhp', 'ASUS'}",0.004128499548445362,0.8571428571428572,RT-AC55UHP | soho router | 
+279,"{'ROUTER', 'asus rt-ac55uhp', 'ASUS'}",0.004128499548445362,0.9056603773584907,RT-AC55UHP | soho router | 
+280,"{'asus rt-ac56r', 'ROUTER', 'ASUS'}",0.0046875671956306715,0.6606060606060606,RT-AC56R | soho router | 
+281,"{'asus rt-ac56r', 'ROUTER', 'ASUS'}",0.0046875671956306715,0.5891891891891892,RT-AC56R | soho router | 
+282,"{'ROUTER', 'asus rt-ac56u', 'ASUS'}",0.006708811766223713,0.5234899328859061,RT-AC56U | soho router | 
+283,"{'ROUTER', 'asus rt-ac56u', 'ASUS'}",0.006708811766223713,0.5454545454545454,RT-AC56U | soho router | 
+284,"{'asus rt-ac58u', 'ROUTER', 'ASUS'}",0.0036124371048896916,0.875,RT-AC58U | soho router | 
+285,"{'asus rt-ac58u', 'ROUTER', 'ASUS'}",0.0036124371048896916,0.9333333333333332,RT-AC58U | soho router | 
+286,"{'asus rt-ac66u', 'ROUTER', 'ASUS'}",0.004558551584741753,0.7910447761194029,RT-AC66U | soho router | 
+287,"{'asus rt-ac66u', 'ROUTER', 'ASUS'}",0.004558551584741753,0.5408163265306122,RT-AC66U | soho router | 
+288,"{'ROUTER', 'ASUS', 'asus rt-ac66u_b1'}",0.0022792757923708767,0.7910447761194029,RT-AC66U_B1 | soho router | 
+289,"{'ROUTER', 'ASUS', 'asus rt-ac66u_b1'}",0.0022792757923708767,0.5408163265306122,RT-AC66U_B1 | soho router | 
+290,"{'ROUTER', 'ASUS', 'asus rt-ac68p'}",0.003870468326667527,0.9574468085106383,RT-AC68P | soho router | 
+291,"{'ROUTER', 'ASUS', 'asus rt-ac68r'}",0.00210725497785232,0.98,RT-AC68R | soho router | 
+292,"{'ROUTER', 'ASUS', 'asus rt-ac68r'}",0.00210725497785232,0.5,RT-AC68R | soho router | 
+293,"{'ROUTER', 'asus rt-ac68u', 'ASUS'}",0.012987571496151035,0.993421052631579,RT-AC68U | soho router | 
+294,"{'ROUTER', 'asus rt-ac68u', 'ASUS'}",0.012987571496151035,1.0,RT-AC68U | soho router | 
+295,"{'ROUTER', 'ASUS', 'asus rt-ac68w'}",0.001634197737926289,0.59375,RT-AC68W | soho router | 
+296,"{'ROUTER', 'ASUS', 'asus rt-ac68w'}",0.001634197737926289,1.0,RT-AC68W | soho router | 
+297,"{'ROUTER', 'ASUS', 'asus rt-ac87u'}",0.0033544058831118566,0.78,RT-AC87U | soho router | 
+298,"{'ROUTER', 'ASUS', 'asus rt-ac87u'}",0.0033544058831118566,0.5652173913043478,RT-AC87U | soho router | 
+299,"{'ROUTER', 'ASUS', 'asus rt-ac88u'}",0.001634197737926289,0.95,RT-AC88U | soho router | 
+300,"{'ROUTER', 'ASUS', 'asus rt-ac88u'}",0.001634197737926289,0.6129032258064516,RT-AC88U | soho router | 
+301,"{'ROUTER', 'asus rt-acrh13', 'ASUS'}",0.0056766868791123725,0.75,RT-ACRH13 | soho router | 
+302,"{'ROUTER', 'asus rt-acrh13', 'ASUS'}",0.0056766868791123725,0.5764192139737991,RT-ACRH13 | soho router | 
+303,"{'ROUTER', 'asus rt-ax88u', 'ASUS'}",0.0010751300907409797,0.8333333333333334,RT-AX88U | soho router | 
+304,"{'ROUTER', 'asus rt-ax88u', 'ASUS'}",0.0010751300907409797,0.6578947368421053,RT-AX88U | soho router | 
+305,"{'ROUTER', 'ASUS', 'asus rt-n66r'}",0.0014621769234077324,0.918918918918919,RT-N66R | soho router | 
+306,"{'ROUTER', 'ASUS', 'asus rt-n66r'}",0.0014621769234077324,0.9444444444444445,RT-N66R | soho router | 
+307,"{'asus rt-n66u', 'ROUTER', 'ASUS'}",0.002752333032296908,0.8648648648648648,RT-N66U | soho router | 
+308,"{'asus rt-n66u', 'ROUTER', 'ASUS'}",0.002752333032296908,1.0,RT-N66U | soho router | 
+309,"{'ROUTER', 'asus rt-n66w', 'ASUS'}",0.001634197737926289,0.9743589743589743,RT-N66W | soho router | 
+310,"{'ROUTER', 'asus rt-n66w', 'ASUS'}",0.001634197737926289,1.0,RT-N66W | soho router | 
+311,"{'ROUTER', 'asus tm-ac1900', 'ASUS'}",0.005375650453704898,0.8865248226950355,TM-AC1900 | soho router | 
+312,"{'ROUTER', 'asus tm-ac1900', 'ASUS'}",0.005375650453704898,0.8865248226950355,TM-AC1900 | soho router | 
+313,"{'ROUTER', 'asus ws880', 'ASUS'}",0.001118135294370619,0.9629629629629631,WS880 | soho router | 
+314,"{'wifi betplay mikrotik', 'ROUTER', 'ASUS'}",0.0020212445705930417,1.0,MikroTik | router | 
+315,"{'asus rt-ac66u', 'BROADCOM', 'ROUTER'}",0.001118135294370619,0.5652173913043479,RT-AC66U | soho router | 
+316,"{'BROADCOM', 'ROUTER', 'asus rt-ac87u'}",0.001376166516148454,1.0,RT-AC87U | soho router | 
+317,"{'C-5S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.962962962962963,"MikroTik,MikroTik | router,router | "
+318,"{'C-5S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+319,"{'mikrotik mikrotik', 'C-5S', 'ROUTER'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+320,"{'mikrotik mikrotik', 'C-5S', 'ROUTER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+321,"{'C-5S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+322,"{'C-5S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+323,"{'GIGABYTE', 'axis m5013 ptz camera', 'CAMERA'}",0.0012041457016298972,1.0,M5013 PTZ Dome Network Camera | camera | 
+324,"{'axis m5014-v ptz camera', 'GIGABYTE', 'CAMERA'}",0.0012041457016298972,1.0,M5014-V PTZ Dome Network Camera | camera | 
+325,"{'GIGABYTE', 'axis p5512-e ptz camera', 'CAMERA'}",0.0012041457016298972,1.0,"P5512-E PTZ Dome Network Camera,TM221CE40T | camera,programmable logic controller | "
+326,"{'axis p5522-e ptz camera', 'GIGABYTE', 'CAMERA'}",0.0012041457016298972,1.0,P5522-E PTZ Dome Network Camera | camera | 
+327,"{'GIGABYTE', 'axis p5534 ptz camera', 'CAMERA'}",0.0012041457016298972,1.0,P5534 PTZ Dome Network Camera | camera | 
+328,"{'GIGABYTE', 'CAMERA', 'axis p5635-e mk ptz camera'}",0.0012041457016298972,1.0,P5635-E Mk II PTZ Dome Network Camera | camera | 
+329,"{'GIGABYTE', 'axis ptz camera', 'CAMERA'}",0.0012041457016298972,1.0,212 PTZ Network Camera | camera | 
+330,"{'GIGABYTE', 'axis ptz camera oct', 'CAMERA'}",0.0012041457016298972,1.0,214 PTZ Network Camera | camera | 
+331,"{'GIGABYTE', 'CAMERA', 'axis q6044 ptz camera'}",0.0012041457016298972,1.0,Q6044 PTZ Dome Network Camera | camera | 
+332,"{'GIGABYTE', 'CAMERA', 'axis q6044-e ptz camera'}",0.0012041457016298972,1.0,Q6044-E PTZ Dome Network Camera | camera | 
+333,"{'GIGABYTE', 'axis q6045-e mk ptz camera', 'CAMERA'}",0.0012041457016298972,1.0,Q6045-E Mk II PTZ Dome Network Camera | camera | 
+334,"{'GIGABYTE', 'axis q6115-e ptz camera', 'CAMERA'}",0.0024082914032597944,1.0,Q6115-E PTZ Dome Network Camera | camera | 
+335,"{'GLASS', 'europa mikrotik', 'CAMERA'}",0.001376166516148454,1.0,MikroTik | router | 
+336,"{'axis m5013 ptz camera', 'HIKVISION', 'CAMERA'}",0.002494301810519073,0.9508196721311475,M5013 PTZ Dome Network Camera | camera | 
+337,"{'axis m5014-v ptz camera', 'HIKVISION', 'CAMERA'}",0.0026233174214079905,0.9531250000000001,M5014-V PTZ Dome Network Camera | camera | 
+338,"{'HIKVISION', 'CAMERA', 'axis p5512-e ptz camera'}",0.002494301810519073,0.9508196721311475,"P5512-E PTZ Dome Network Camera,TM221CE40T | camera,programmable logic controller | "
+339,"{'axis p5522-e ptz camera', 'HIKVISION', 'CAMERA'}",0.002494301810519073,0.9508196721311475,P5522-E PTZ Dome Network Camera | camera | 
+340,"{'axis p5534 ptz camera', 'HIKVISION', 'CAMERA'}",0.002494301810519073,0.9508196721311475,P5534 PTZ Dome Network Camera | camera | 
+341,"{'HIKVISION', 'CAMERA', 'axis p5635-e mk ptz camera'}",0.002494301810519073,0.9508196721311475,P5635-E Mk II PTZ Dome Network Camera | camera | 
+342,"{'HIKVISION', 'axis ptz camera', 'CAMERA'}",0.002494301810519073,0.9508196721311475,212 PTZ Network Camera | camera | 
+343,"{'HIKVISION', 'axis ptz camera oct', 'CAMERA'}",0.002494301810519073,0.9508196721311475,214 PTZ Network Camera | camera | 
+344,"{'HIKVISION', 'CAMERA', 'axis q6044 ptz camera'}",0.002494301810519073,0.9508196721311475,Q6044 PTZ Dome Network Camera | camera | 
+345,"{'HIKVISION', 'CAMERA', 'axis q6044-e ptz camera'}",0.002494301810519073,0.9508196721311475,Q6044-E PTZ Dome Network Camera | camera | 
+346,"{'axis q6045-e mk ptz camera', 'HIKVISION', 'CAMERA'}",0.002494301810519073,0.9508196721311475,Q6045-E Mk II PTZ Dome Network Camera | camera | 
+347,"{'HIKVISION', 'axis q6115-e ptz camera', 'CAMERA'}",0.004988603621038146,0.9508196721311475,Q6115-E PTZ Dome Network Camera | camera | 
+348,"{'wifi betplay mikrotik', 'MATRIX', 'CAMERA'}",0.0020212445705930417,0.5,MikroTik | router | 
+349,"{'mikrotik mikrotik', 'CAMERA', 'MIKROTIK'}",0.011181352943706188,0.7602339181286549,"MikroTik,MikroTik | router,router | "
+350,"{'mikrotik mikrotik', 'CAMERA', 'MIKROTIK'}",0.011181352943706188,0.5,"MikroTik,MikroTik | router,router | "
+351,"{'NOMI', 'CAMERA', 'ljubomir dudic mikrotik'}",0.0010321248871113405,1.0,MikroTik | router | 
+352,"{'NOMI', 'CAMERA', 'ljubomir dudic mikrotik'}",0.0010321248871113405,1.0,MikroTik | router | 
+353,"{'axis camera', 'PANASONIC', 'CAMERA'}",0.0015481873306670106,0.6545454545454545,210 Network Camera | camera | 
+354,"{'axis camera', 'PANASONIC', 'CAMERA'}",0.0015481873306670106,1.0,210 Network Camera | camera | 
+355,"{'mikrotik mikrotik', 'CAMERA', 'ROUTERBOARD'}",0.011181352943706188,0.959409594095941,"MikroTik,MikroTik | router,router | "
+356,"{'mikrotik mikrotik', 'CAMERA', 'ROUTERBOARD'}",0.011181352943706188,0.5,"MikroTik,MikroTik | router,router | "
+357,"{'axis camera', 'CAMERA', 'SAMSUNG'}",0.0029243538468154647,0.5112781954887218,210 Network Camera | camera | 
+358,"{'axis camera', 'CAMERA', 'SAMSUNG'}",0.0029243538468154647,0.9714285714285714,210 Network Camera | camera | 
+359,"{'axis camera sep', 'CAMERA', 'SAMSUNG'}",0.0014621769234077324,0.9714285714285714,211 Network Camera | camera | 
+360,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'CAMERA'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+361,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'CAMERA'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+362,"{'SPRINT', 'CAMERA', 'ljubomir dudic mikrotik'}",0.001161140498000258,1.0,MikroTik | router | 
+363,"{'SPRINT', 'CAMERA', 'ljubomir dudic mikrotik'}",0.001161140498000258,1.0,MikroTik | router | 
+364,"{'TEAM', 'CAMERA', 'ljubomir dudic mikrotik'}",0.0012041457016298972,1.0,MikroTik | router | 
+365,"{'TEAM', 'CAMERA', 'ljubomir dudic mikrotik'}",0.0012041457016298972,1.0,MikroTik | router | 
+366,"{'europa mikrotik', 'CAMERA', 'TELTONIKA'}",0.003010364254074743,1.0,MikroTik | router | 
+367,"{'axis camera', 'TOSHIBA', 'CAMERA'}",0.0014621769234077324,0.6666666666666666,210 Network Camera | camera | 
+368,"{'axis camera', 'TOSHIBA', 'CAMERA'}",0.0014621769234077324,0.5151515151515151,210 Network Camera | camera | 
+369,"{'mikrotik mikrotik', 'CAMERA', 'WI4SPOT'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+370,"{'mikrotik mikrotik', 'CAMERA', 'WI4TOWER'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+371,"{'CCR1016', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+372,"{'CCR1016', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+373,"{'mikrotik mikrotik', 'CCR1016', 'ROUTER'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+374,"{'mikrotik mikrotik', 'CCR1016', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+375,"{'mikrotik mikrotik', 'MIKROTIK', 'CCR1016-12G'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+376,"{'mikrotik mikrotik', 'MIKROTIK', 'CCR1016-12G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+377,"{'ROUTER', 'mikrotik mikrotik', 'CCR1016-12G'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+378,"{'ROUTER', 'mikrotik mikrotik', 'CCR1016-12G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+379,"{'CCR1016-12S', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+380,"{'CCR1016-12S', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+381,"{'mikrotik mikrotik', 'CCR1016-12S', 'ROUTER'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+382,"{'mikrotik mikrotik', 'CCR1016-12S', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+383,"{'CCR1036', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+384,"{'CCR1036', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+385,"{'CCR1036', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+386,"{'CCR1036', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+387,"{'CCR1036-12G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+388,"{'CCR1036-12G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+389,"{'ROUTER', 'CCR1036-12G', 'mikrotik mikrotik'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+390,"{'ROUTER', 'CCR1036-12G', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+391,"{'CCR1036-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+392,"{'CCR1036-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+393,"{'CCR1036-8G', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+394,"{'CCR1036-8G', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+395,"{'MIKROTIK', 'mikrotik mikrotik', 'CCR1072-1G'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+396,"{'MIKROTIK', 'mikrotik mikrotik', 'CCR1072-1G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+397,"{'ROUTER', 'mikrotik mikrotik', 'CCR1072-1G'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+398,"{'ROUTER', 'mikrotik mikrotik', 'CCR1072-1G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+399,"{'CCR12G', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,0.8590308370044053,"MikroTik,MikroTik | router,router | "
+400,"{'CCR12G', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,1.0,"MikroTik,MikroTik | router,router | "
+401,"{'CCR12G', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+402,"{'CCR12G', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+403,"{'CCR12G', 'SWITCHES', 'mikrotik mikrotik'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+404,"{'CISCO', 'CRS-1', 'mikrotik mikrotik'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+405,"{'CISCO', 'CRS-1', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+406,"{'CISCO', 'CRS-1', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+407,"{'CISCO', 'ROUTER', 'ap-1006 mikrotik'}",0.0010751300907409797,1.0,MikroTik | router | 
+408,"{'ap7901 aos v2.7.0', 'CISCO', 'ROUTER'}",0.001376166516148454,0.5714285714285714,AP7901 | power distribution unit | 
+409,"{'ap7901 aos v2.7.0', 'CISCO', 'ROUTER'}",0.001376166516148454,0.6399999999999999,AP7901 | power distribution unit | 
+410,"{'CISCO', 'ROUTER', 'asus rt-ac68p'}",0.001376166516148454,1.0,RT-AC68P | soho router | 
+411,"{'CISCO', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+412,"{'CISCO', 'ROUTER', 'router mikrotik'}",0.0017202081451855675,0.9090909090909091,MikroTik | router | 
+413,"{'wifi betplay mikrotik', 'CISCO', 'ROUTER'}",0.0021932653851115987,0.5204081632653061,MikroTik | router | 
+414,"{'wifi betplay mikrotik', 'CISCO', 'SWITCH'}",0.0020212445705930417,0.5280898876404494,MikroTik | router | 
+415,"{'wifi betplay mikrotik', 'CISCO', 'SWITCH'}",0.0020212445705930417,0.9215686274509803,MikroTik | router | 
+416,"{'mikrotik mikrotik', 'CRS-1', 'ROUTER'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+417,"{'mikrotik mikrotik', 'CRS-1', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+418,"{'CRS109-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+419,"{'CRS109-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+420,"{'ROUTER', 'CRS109-8G', 'mikrotik mikrotik'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+421,"{'ROUTER', 'CRS109-8G', 'mikrotik mikrotik'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+422,"{'CRS109-8G', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+423,"{'CRS109-8G', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+424,"{'CRS125-24G', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+425,"{'CRS125-24G', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+426,"{'mikrotik mikrotik', 'CRS125-24G', 'ROUTER'}",0.002795338235926547,0.9027777777777778,"MikroTik,MikroTik | router,router | "
+427,"{'mikrotik mikrotik', 'CRS125-24G', 'ROUTER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+428,"{'CRS125-24G', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+429,"{'CRS125-24G', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+430,"{'mikrotik mikrotik', 'CRS212-1G', 'MIKROTIK'}",0.005590676471853094,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+431,"{'mikrotik mikrotik', 'CRS212-1G', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+432,"{'mikrotik mikrotik', 'ROUTER', 'CRS212-1G'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+433,"{'mikrotik mikrotik', 'ROUTER', 'CRS212-1G'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+434,"{'mikrotik mikrotik', 'CRS212-1G', 'SWITCH'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+435,"{'mikrotik mikrotik', 'CRS212-1G', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+436,"{'mikrotik mikrotik', 'MIKROTIK', 'CVE-2018-14847'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+437,"{'mikrotik mikrotik', 'MIKROTIK', 'CVE-2018-14847'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+438,"{'ROUTER', 'mikrotik mikrotik', 'CVE-2018-14847'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+439,"{'ROUTER', 'mikrotik mikrotik', 'CVE-2018-14847'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+440,"{'DASHBOARD', 'PRINTER', 'asus rt-ac52u'}",0.0010751300907409797,1.0,RT-AC52U | soho router | 
+441,"{'DASHBOARD', 'PRINTER', 'asus rt-ac52u'}",0.0010751300907409797,0.5,RT-AC52U | soho router | 
+442,"{'DASHBOARD', 'PRINTER', 'asus rt-ac56u'}",0.0014621769234077324,0.5666666666666667,RT-AC56U | soho router | 
+443,"{'DASHBOARD', 'asus rt-ac66u', 'PRINTER'}",0.0010321248871113405,1.0,RT-AC66U | soho router | 
+444,"{'DASHBOARD', 'ROUTER', 'asus rt-ac56u'}",0.001118135294370619,0.6842105263157895,RT-AC56U | soho router | 
+445,"{'mikrotik mikrotik', 'MIKROTIK', 'DSTNAT7'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+446,"{'mikrotik mikrotik', 'MIKROTIK', 'DSTNAT7'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+447,"{'ROUTER', 'mikrotik mikrotik', 'DSTNAT7'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+448,"{'ROUTER', 'mikrotik mikrotik', 'DSTNAT7'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+449,"{'axis camera', 'DVR', 'HIKVISION'}",0.0012901561088891757,0.6666666666666666,210 Network Camera | camera | 
+450,"{'TOSHIBA', 'DVR', 'axis camera'}",0.001376166516148454,0.6666666666666666,210 Network Camera | camera | 
+451,"{'TOSHIBA', 'DVR', 'axis camera'}",0.001376166516148454,0.5,210 Network Camera | camera | 
+452,"{'EMPLOYEES280', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+453,"{'EMPLOYEES280', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+454,"{'ROUTER', 'EMPLOYEES280', 'mikrotik mikrotik'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+455,"{'ROUTER', 'EMPLOYEES280', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+456,"{'mikrotik mikrotik', 'MIKROTIK', 'EXPLOITATIONVULNERABILITYHACKINGINFOSEC386'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+457,"{'mikrotik mikrotik', 'MIKROTIK', 'EXPLOITATIONVULNERABILITYHACKINGINFOSEC386'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+458,"{'ROUTER', 'mikrotik mikrotik', 'EXPLOITATIONVULNERABILITYHACKINGINFOSEC386'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+459,"{'ROUTER', 'mikrotik mikrotik', 'EXPLOITATIONVULNERABILITYHACKINGINFOSEC386'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+460,"{'G-16S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+461,"{'G-16S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+462,"{'G-16S', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+463,"{'G-16S', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+464,"{'G-16S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+465,"{'G-16S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+466,"{'G-2HND', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9027777777777778,"MikroTik,MikroTik | router,router | "
+467,"{'G-2HND', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+468,"{'G-2HND', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+469,"{'G-2HND', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+470,"{'G-2S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+471,"{'G-2S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+472,"{'mikrotik mikrotik', 'G-2S', 'ROUTER'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+473,"{'mikrotik mikrotik', 'G-2S', 'ROUTER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+474,"{'G-2S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+475,"{'G-2S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+476,"{'G-5HPACD', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+477,"{'G-5HPACD', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+478,"{'ROUTER', 'G-5HPACD', 'mikrotik mikrotik'}",0.005590676471853094,0.962962962962963,"MikroTik,MikroTik | router,router | "
+479,"{'ROUTER', 'G-5HPACD', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+480,"{'mikrotik mikrotik', 'G-5HPACD', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+481,"{'mikrotik mikrotik', 'G-5HPACD', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+482,"{'MIKROTIK', 'mikrotik mikrotik', 'G-60AD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+483,"{'MIKROTIK', 'mikrotik mikrotik', 'G-60AD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+484,"{'ROUTER', 'mikrotik mikrotik', 'G-60AD'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+485,"{'ROUTER', 'mikrotik mikrotik', 'G-60AD'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+486,"{'mikrotik mikrotik', 'ROUTERBOARD', 'G-60AD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+487,"{'mikrotik mikrotik', 'ROUTERBOARD', 'G-60AD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+488,"{'G-8S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+489,"{'G-8S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+490,"{'mikrotik mikrotik', 'G-8S', 'ROUTER'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+491,"{'mikrotik mikrotik', 'G-8S', 'ROUTER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+492,"{'G-8S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+493,"{'G-8S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+494,"{'wifi betplay mikrotik', 'MATRIX', 'GATEWAY'}",0.0020212445705930417,1.0,MikroTik | router | 
+495,"{'wifi betplay mikrotik', 'MATRIX', 'GATEWAY'}",0.0020212445705930417,0.5,MikroTik | router | 
+496,"{'MIKROTIK', 'mikrotik mikrotik', 'GATEWAY'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+497,"{'MIKROTIK', 'mikrotik mikrotik', 'GATEWAY'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+498,"{'mikrotik mikrotik', 'ROUTERBOARD', 'GATEWAY'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+499,"{'mikrotik mikrotik', 'ROUTERBOARD', 'GATEWAY'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+500,"{'V6', 'mikrotik mikrotik', 'GATEWAY'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+501,"{'V6', 'mikrotik mikrotik', 'GATEWAY'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+502,"{'V6', 'mikrotik mikrotik', 'GATEWAY'}",0.005590676471853094,0.5,"MikroTik,MikroTik | router,router | "
+503,"{'europa mikrotik', 'GLASS', 'SWITCH'}",0.001376166516148454,1.0,MikroTik | router | 
+504,"{'SWITCHES', 'europa mikrotik', 'GLASS'}",0.001376166516148454,1.0,MikroTik | router | 
+505,"{'ROUTER', 'mikrotik mikrotik', 'GROOVE-52HPN'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+506,"{'ROUTER', 'mikrotik mikrotik', 'GROOVE-52HPN'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+507,"{'mikrotik mikrotik', 'ROUTERBOARD', 'GROOVE-52HPN'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+508,"{'mikrotik mikrotik', 'ROUTERBOARD', 'GROOVE-52HPN'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+509,"{'GROOVEA-52HPN', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+510,"{'GROOVEA-52HPN', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+511,"{'GROOVEA-52HPN', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+512,"{'GROOVEA-52HPN', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+513,"{'ROUTER', 'mikrotik mikrotik', 'GS-5HNT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+514,"{'ROUTER', 'mikrotik mikrotik', 'GS-5HNT'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+515,"{'mikrotik mikrotik', 'ROUTERBOARD', 'GS-5HNT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+516,"{'mikrotik mikrotik', 'ROUTERBOARD', 'GS-5HNT'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+517,"{'mikrotik mikrotik', 'GX4', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+518,"{'mikrotik mikrotik', 'GX4', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+519,"{'mikrotik mikrotik', 'ROUTER', 'GX4'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+520,"{'mikrotik mikrotik', 'ROUTER', 'GX4'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+521,"{'mikrotik mikrotik', 'GX4', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+522,"{'mikrotik mikrotik', 'GX4', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+523,"{'mikrotik mikrotik', 'HACQ2HND', 'MIKROTIK'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+524,"{'mikrotik mikrotik', 'HACQ2HND', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+525,"{'mikrotik mikrotik', 'ROUTER', 'HACQ2HND'}",0.005590676471853094,0.9489051094890512,"MikroTik,MikroTik | router,router | "
+526,"{'mikrotik mikrotik', 'ROUTER', 'HACQ2HND'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+527,"{'mikrotik mikrotik', 'HACQ2HND', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+528,"{'mikrotik mikrotik', 'HACQ2HND', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+529,"{'HIKVISION', 'europa mikrotik', 'NVR'}",0.001376166516148454,1.0,MikroTik | router | 
+530,"{'HIKVISION', 'europa mikrotik', 'SWITCH'}",0.001376166516148454,1.0,MikroTik | router | 
+531,"{'SWITCHES', 'HIKVISION', 'europa mikrotik'}",0.001376166516148454,1.0,MikroTik | router | 
+532,"{'HND1', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+533,"{'HND1', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+534,"{'HND1', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+535,"{'HND1', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+536,"{'ROUTER', 'asus ws880', 'HUAWEI'}",0.0010321248871113405,0.8571428571428572,WS880 | soho router | 
+537,"{'mikrotik mikrotik', 'MIKROTIK', 'INIT7'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+538,"{'mikrotik mikrotik', 'MIKROTIK', 'INIT7'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+539,"{'ROUTER', 'mikrotik mikrotik', 'INIT7'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+540,"{'ROUTER', 'mikrotik mikrotik', 'INIT7'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+541,"{'MIKROTIK', 'mikrotik mikrotik', 'INIT7.NET'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+542,"{'MIKROTIK', 'mikrotik mikrotik', 'INIT7.NET'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+543,"{'ROUTER', 'mikrotik mikrotik', 'INIT7.NET'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+544,"{'ROUTER', 'mikrotik mikrotik', 'INIT7.NET'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+545,"{'mikrotik mikrotik', 'RB750GR3', 'INTEL'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+546,"{'mikrotik mikrotik', 'RB750GR3', 'INTEL'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+547,"{'mikrotik mikrotik', 'RB750GR3', 'INTEL'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+548,"{'ROUTER', 'mikrotik mikrotik', 'INTEL'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+549,"{'ROUTER', 'mikrotik mikrotik', 'INTEL'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+550,"{'IPV6', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.7738095238095238,"MikroTik,MikroTik | router,router | "
+551,"{'IPV6', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+552,"{'ROUTER', 'IPV6', 'mikrotik mikrotik'}",0.002795338235926547,0.6372549019607843,"MikroTik,MikroTik | router,router | "
+553,"{'ROUTER', 'IPV6', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+554,"{'L3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.7471264367816092,"MikroTik,MikroTik | router,router | "
+555,"{'L3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+556,"{'mikrotik mikrotik', 'L3', 'ROUTER'}",0.002795338235926547,0.7222222222222222,"MikroTik,MikroTik | router,router | "
+557,"{'mikrotik mikrotik', 'L3', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+558,"{'mikrotik mikrotik', 'L4', 'MIKROTIK'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+559,"{'mikrotik mikrotik', 'L4', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+560,"{'mikrotik mikrotik', 'ROUTER', 'L4'}",0.005590676471853094,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+561,"{'mikrotik mikrotik', 'ROUTER', 'L4'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+562,"{'mikrotik mikrotik', 'L4', 'ROUTERBOARD'}",0.002795338235926547,0.8333333333333333,"MikroTik,MikroTik | router,router | "
+563,"{'mikrotik mikrotik', 'L4', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+564,"{'MIKROTIK', 'mikrotik mikrotik', 'L5'}",0.002795338235926547,0.8124999999999999,"MikroTik,MikroTik | router,router | "
+565,"{'MIKROTIK', 'mikrotik mikrotik', 'L5'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+566,"{'ROUTER', 'mikrotik mikrotik', 'L5'}",0.005590676471853094,0.896551724137931,"MikroTik,MikroTik | router,router | "
+567,"{'ROUTER', 'mikrotik mikrotik', 'L5'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+568,"{'mikrotik mikrotik', 'ROUTERBOARD', 'L5'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+569,"{'mikrotik mikrotik', 'ROUTERBOARD', 'L5'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+570,"{'mikrotik mikrotik', 'MIKROTIK', 'L6'}",0.005590676471853094,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+571,"{'mikrotik mikrotik', 'MIKROTIK', 'L6'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+572,"{'ROUTER', 'mikrotik mikrotik', 'L6'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+573,"{'ROUTER', 'mikrotik mikrotik', 'L6'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+574,"{'mikrotik mikrotik', 'SWITCH', 'L6'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+575,"{'mikrotik mikrotik', 'SWITCH', 'L6'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+576,"{'LITE5', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+577,"{'LITE5', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+578,"{'ROUTER', 'LITE5', 'mikrotik mikrotik'}",0.005590676471853094,0.9219858156028369,"MikroTik,MikroTik | router,router | "
+579,"{'ROUTER', 'LITE5', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+580,"{'mikrotik mikrotik', 'LITE5', 'ROUTERBOARD'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+581,"{'mikrotik mikrotik', 'LITE5', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+582,"{'MATRIX', 'axis m5013 ptz camera', 'MODEM'}",0.0012041457016298972,1.0,M5013 PTZ Dome Network Camera | camera | 
+583,"{'MATRIX', 'MODEM', 'axis m5014-v ptz camera'}",0.0012041457016298972,1.0,M5014-V PTZ Dome Network Camera | camera | 
+584,"{'MATRIX', 'axis p5512-e ptz camera', 'MODEM'}",0.0012041457016298972,1.0,"P5512-E PTZ Dome Network Camera,TM221CE40T | camera,programmable logic controller | "
+585,"{'axis p5522-e ptz camera', 'MATRIX', 'MODEM'}",0.0012041457016298972,1.0,P5522-E PTZ Dome Network Camera | camera | 
+586,"{'MATRIX', 'axis p5534 ptz camera', 'MODEM'}",0.0012041457016298972,1.0,P5534 PTZ Dome Network Camera | camera | 
+587,"{'MATRIX', 'MODEM', 'axis p5635-e mk ptz camera'}",0.0012041457016298972,1.0,P5635-E Mk II PTZ Dome Network Camera | camera | 
+588,"{'MATRIX', 'MODEM', 'axis ptz camera'}",0.0012041457016298972,1.0,212 PTZ Network Camera | camera | 
+589,"{'MATRIX', 'MODEM', 'axis ptz camera oct'}",0.0012041457016298972,1.0,214 PTZ Network Camera | camera | 
+590,"{'MATRIX', 'MODEM', 'axis q6044 ptz camera'}",0.0012041457016298972,1.0,Q6044 PTZ Dome Network Camera | camera | 
+591,"{'MATRIX', 'MODEM', 'axis q6044-e ptz camera'}",0.0012041457016298972,1.0,Q6044-E PTZ Dome Network Camera | camera | 
+592,"{'MATRIX', 'axis q6045-e mk ptz camera', 'MODEM'}",0.0012041457016298972,1.0,Q6045-E Mk II PTZ Dome Network Camera | camera | 
+593,"{'MATRIX', 'MODEM', 'axis q6115-e ptz camera'}",0.0024082914032597944,1.0,Q6115-E PTZ Dome Network Camera | camera | 
+594,"{'MATRIX', 'ROUTER', 'axis m5013 ptz camera'}",0.0012041457016298972,1.0,M5013 PTZ Dome Network Camera | camera | 
+595,"{'MATRIX', 'ROUTER', 'axis m5014-v ptz camera'}",0.0012041457016298972,1.0,M5014-V PTZ Dome Network Camera | camera | 
+596,"{'MATRIX', 'ROUTER', 'axis p5512-e ptz camera'}",0.0012041457016298972,1.0,"P5512-E PTZ Dome Network Camera,TM221CE40T | camera,programmable logic controller | "
+597,"{'axis p5522-e ptz camera', 'MATRIX', 'ROUTER'}",0.0012041457016298972,1.0,P5522-E PTZ Dome Network Camera | camera | 
+598,"{'MATRIX', 'ROUTER', 'axis p5534 ptz camera'}",0.0012041457016298972,1.0,P5534 PTZ Dome Network Camera | camera | 
+599,"{'MATRIX', 'ROUTER', 'axis p5635-e mk ptz camera'}",0.0012041457016298972,1.0,P5635-E Mk II PTZ Dome Network Camera | camera | 
+600,"{'MATRIX', 'ROUTER', 'axis ptz camera'}",0.0012041457016298972,1.0,212 PTZ Network Camera | camera | 
+601,"{'MATRIX', 'ROUTER', 'axis ptz camera oct'}",0.0012041457016298972,1.0,214 PTZ Network Camera | camera | 
+602,"{'MATRIX', 'ROUTER', 'axis q6044 ptz camera'}",0.0012041457016298972,1.0,Q6044 PTZ Dome Network Camera | camera | 
+603,"{'MATRIX', 'ROUTER', 'axis q6044-e ptz camera'}",0.0012041457016298972,1.0,Q6044-E PTZ Dome Network Camera | camera | 
+604,"{'MATRIX', 'ROUTER', 'axis q6045-e mk ptz camera'}",0.0012041457016298972,1.0,Q6045-E Mk II PTZ Dome Network Camera | camera | 
+605,"{'MATRIX', 'ROUTER', 'axis q6115-e ptz camera'}",0.0024082914032597944,1.0,Q6115-E PTZ Dome Network Camera | camera | 
+606,"{'MATRIX', 'axis m5013 ptz camera', 'SWITCH'}",0.0012041457016298972,1.0,M5013 PTZ Dome Network Camera | camera | 
+607,"{'MATRIX', 'axis m5014-v ptz camera', 'SWITCH'}",0.0012041457016298972,1.0,M5014-V PTZ Dome Network Camera | camera | 
+608,"{'MATRIX', 'axis p5512-e ptz camera', 'SWITCH'}",0.0012041457016298972,1.0,"P5512-E PTZ Dome Network Camera,TM221CE40T | camera,programmable logic controller | "
+609,"{'axis p5522-e ptz camera', 'MATRIX', 'SWITCH'}",0.0012041457016298972,1.0,P5522-E PTZ Dome Network Camera | camera | 
+610,"{'MATRIX', 'axis p5534 ptz camera', 'SWITCH'}",0.0012041457016298972,1.0,P5534 PTZ Dome Network Camera | camera | 
+611,"{'MATRIX', 'SWITCH', 'axis p5635-e mk ptz camera'}",0.0012041457016298972,1.0,P5635-E Mk II PTZ Dome Network Camera | camera | 
+612,"{'MATRIX', 'axis ptz camera', 'SWITCH'}",0.0012041457016298972,1.0,212 PTZ Network Camera | camera | 
+613,"{'MATRIX', 'axis ptz camera oct', 'SWITCH'}",0.0012041457016298972,1.0,214 PTZ Network Camera | camera | 
+614,"{'MATRIX', 'axis q6044 ptz camera', 'SWITCH'}",0.0012041457016298972,1.0,Q6044 PTZ Dome Network Camera | camera | 
+615,"{'MATRIX', 'axis q6044-e ptz camera', 'SWITCH'}",0.0012041457016298972,1.0,Q6044-E PTZ Dome Network Camera | camera | 
+616,"{'MATRIX', 'axis q6045-e mk ptz camera', 'SWITCH'}",0.0012041457016298972,1.0,Q6045-E Mk II PTZ Dome Network Camera | camera | 
+617,"{'MATRIX', 'axis q6115-e ptz camera', 'SWITCH'}",0.0024082914032597944,1.0,Q6115-E PTZ Dome Network Camera | camera | 
+618,"{'MATRIX', 'SWITCHES', 'axis m5013 ptz camera'}",0.0012041457016298972,1.0,M5013 PTZ Dome Network Camera | camera | 
+619,"{'MATRIX', 'SWITCHES', 'axis m5014-v ptz camera'}",0.0012041457016298972,1.0,M5014-V PTZ Dome Network Camera | camera | 
+620,"{'MATRIX', 'SWITCHES', 'axis p5512-e ptz camera'}",0.0012041457016298972,1.0,"P5512-E PTZ Dome Network Camera,TM221CE40T | camera,programmable logic controller | "
+621,"{'axis p5522-e ptz camera', 'MATRIX', 'SWITCHES'}",0.0012041457016298972,1.0,P5522-E PTZ Dome Network Camera | camera | 
+622,"{'MATRIX', 'SWITCHES', 'axis p5534 ptz camera'}",0.0012041457016298972,1.0,P5534 PTZ Dome Network Camera | camera | 
+623,"{'MATRIX', 'SWITCHES', 'axis p5635-e mk ptz camera'}",0.0012041457016298972,1.0,P5635-E Mk II PTZ Dome Network Camera | camera | 
+624,"{'MATRIX', 'SWITCHES', 'axis ptz camera'}",0.0012041457016298972,1.0,212 PTZ Network Camera | camera | 
+625,"{'MATRIX', 'SWITCHES', 'axis ptz camera oct'}",0.0012041457016298972,1.0,214 PTZ Network Camera | camera | 
+626,"{'MATRIX', 'SWITCHES', 'axis q6044 ptz camera'}",0.0012041457016298972,1.0,Q6044 PTZ Dome Network Camera | camera | 
+627,"{'MATRIX', 'SWITCHES', 'axis q6044-e ptz camera'}",0.0012041457016298972,1.0,Q6044-E PTZ Dome Network Camera | camera | 
+628,"{'MATRIX', 'SWITCHES', 'axis q6045-e mk ptz camera'}",0.0012041457016298972,1.0,Q6045-E Mk II PTZ Dome Network Camera | camera | 
+629,"{'MATRIX', 'SWITCHES', 'axis q6115-e ptz camera'}",0.0024082914032597944,1.0,Q6115-E PTZ Dome Network Camera | camera | 
+630,"{'wifi betplay mikrotik', 'MICROSOFT', 'ROUTER'}",0.0020212445705930417,0.9215686274509803,MikroTik | router | 
+631,"{'wifi betplay mikrotik', 'MICROSOFT', 'ROUTER'}",0.0020212445705930417,1.0,MikroTik | router | 
+632,"{'MIKROTIKCRS328-4C', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+633,"{'MIKROTIKCRS328-4C', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+634,"{'MIKROTIKRB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+635,"{'MIKROTIKRB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+636,"{'MIKROTIKRB2011UIAS', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+637,"{'MIKROTIKRB2011UIAS', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+638,"{'MIKROTIKRB260GS', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+639,"{'MIKROTIKRB260GS', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+640,"{'mikrotik mikrotik', 'MIKROTIKRB260GSP', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+641,"{'mikrotik mikrotik', 'MIKROTIKRB260GSP', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+642,"{'MIKROTIKRB750UPR2', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+643,"{'MIKROTIKRB750UPR2', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+644,"{'MIKROTIKRB951G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+645,"{'MIKROTIKRB951G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+646,"{'MIKROTIKRB951UI', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+647,"{'MIKROTIKRB951UI', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+648,"{'mikrotik mikrotik', 'MIKROTIK', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+649,"{'mikrotik mikrotik', 'MIKROTIK', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+650,"{'mikrotik mikrotik', 'MIKROTIK', 'OMNITIKU-5HND'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+651,"{'mikrotik mikrotik', 'MIKROTIK', 'OMNITIKU-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+652,"{'OSL4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+653,"{'OSL4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+654,"{'P-4S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+655,"{'P-4S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+656,"{'RB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+657,"{'RB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+658,"{'RB260GSP', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+659,"{'RB260GSP', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+660,"{'RB3011', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+661,"{'RB3011', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+662,"{'RB3011UIAS', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8024691358024691,"MikroTik,MikroTik | router,router | "
+663,"{'RB3011UIAS', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+664,"{'mikrotik mikrotik', 'MIKROTIK', 'RB450'}",0.002795338235926547,0.9027777777777778,"MikroTik,MikroTik | router,router | "
+665,"{'mikrotik mikrotik', 'MIKROTIK', 'RB450'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+666,"{'RB450GX4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+667,"{'RB450GX4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+668,"{'mikrotik mikrotik', 'MIKROTIK', 'RB750GR3'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+669,"{'mikrotik mikrotik', 'MIKROTIK', 'RB750GR3'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+670,"{'RB750R2', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+671,"{'RB750R2', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+672,"{'RB911-5HN', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+673,"{'RB911-5HN', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+674,"{'RB911G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+675,"{'RB911G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+676,"{'RB951G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8124999999999999,"MikroTik,MikroTik | router,router | "
+677,"{'RB951G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+678,"{'RB951UI', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.7738095238095238,"MikroTik,MikroTik | router,router | "
+679,"{'RB951UI', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+680,"{'RBM11G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+681,"{'RBM11G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+682,"{'RBM33G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+683,"{'RBM33G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+684,"{'mikrotik mikrotik', 'RJ45', 'MIKROTIK'}",0.002795338235926547,0.7647058823529411,"MikroTik,MikroTik | router,router | "
+685,"{'mikrotik mikrotik', 'RJ45', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+686,"{'ap-1006 mikrotik', 'ROUTER', 'MIKROTIK'}",0.0025803122177783513,0.8955223880597015,MikroTik | router | 
+687,"{'ROUTER', 'MIKROTIK', 'balanceador mikrotik'}",0.001118135294370619,0.896551724137931,"MikroTik,MikroTik,MikroTik | router | "
+688,"{'ROUTER', 'MIKROTIK', 'balanceador mikrotik'}",0.001118135294370619,0.6046511627906977,"MikroTik,MikroTik,MikroTik | router | "
+689,"{'bunge mikrotik', 'ROUTER', 'MIKROTIK'}",0.0010751300907409797,0.925925925925926,"MikroTik,MikroTik | router,router | "
+690,"{'bunge mikrotik', 'ROUTER', 'MIKROTIK'}",0.0010751300907409797,0.7575757575757576,"MikroTik,MikroTik | router,router | "
+691,"{'ROUTER', 'capitan navarro mikrotik', 'MIKROTIK'}",0.001118135294370619,0.9629629629629631,"MikroTik,MikroTik | router,router | "
+692,"{'ROUTER', 'capitan navarro mikrotik', 'MIKROTIK'}",0.001118135294370619,1.0,"MikroTik,MikroTik | router,router | "
+693,"{'ROUTER', 'europa mikrotik', 'MIKROTIK'}",0.0025803122177783513,0.5,MikroTik | router | 
+694,"{'infantilandia rb2011 mikrotik', 'ROUTER', 'MIKROTIK'}",0.0017632133488152066,0.9761904761904762,MikroTik | router | 
+695,"{'infantilandia rb2011 mikrotik', 'ROUTER', 'MIKROTIK'}",0.0017632133488152066,1.0,MikroTik | router | 
+696,"{'kuprianowicz-bozena skrzydlice 42a mikrotik', 'ROUTER', 'MIKROTIK'}",0.0010751300907409797,0.7812500000000001,MikroTik | router | 
+697,"{'kuprianowicz-bozena skrzydlice 42a mikrotik', 'ROUTER', 'MIKROTIK'}",0.0010751300907409797,0.5434782608695653,MikroTik | router | 
+698,"{'mikrotik chawala-mikrotik mikrotik', 'ROUTER', 'MIKROTIK'}",0.0033544058831118566,0.7090909090909091,"MikroTik,MikroTik | router,router | "
+699,"{'mikrotik chawala-mikrotik mikrotik', 'ROUTER', 'MIKROTIK'}",0.0033544058831118566,0.65,"MikroTik,MikroTik | router,router | "
+700,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.21803638240227066,0.7871448532836516,"MikroTik,MikroTik | router,router | "
+701,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.21803638240227066,0.709090909090909,"MikroTik,MikroTik | router,router | "
+702,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.21803638240227066,0.6499999999999999,"MikroTik,MikroTik | router,router | "
+703,"{'ROUTER', 'mikrotik pm4 mikrotik', 'MIKROTIK'}",0.001161140498000258,0.9310344827586207,MikroTik | router | 
+704,"{'ROUTER', 'mikrotik pm4 mikrotik', 'MIKROTIK'}",0.001161140498000258,0.5192307692307692,MikroTik | router | 
+705,"{'ROUTER', 'novotny_router mikrotik', 'MIKROTIK'}",0.0015051821270373716,0.7291666666666667,"MikroTik,MikroTik | router,router | "
+706,"{'ROUTER', 'paula harman mikrotik', 'MIKROTIK'}",0.004343525566593558,0.7112676056338028,"MikroTik,MikroTik | router,router | "
+707,"{'ROUTER', 'paula harman mikrotik', 'MIKROTIK'}",0.004343525566593558,0.5838150289017341,"MikroTik,MikroTik | router,router | "
+708,"{'ROUTER', 'peco145 mikrotik', 'MIKROTIK'}",0.0012041457016298972,0.9655172413793103,"MikroTik,MikroTik | router,router | "
+709,"{'ROUTER', 'peco145 mikrotik', 'MIKROTIK'}",0.0012041457016298972,1.0,"MikroTik,MikroTik | router,router | "
+710,"{'ROUTER', 'ponpes darunnahdlah ap02 mikrotik', 'MIKROTIK'}",0.00210725497785232,0.890909090909091,"MikroTik,MikroTik | router,router | "
+711,"{'ROUTER', 'ponpes darunnahdlah ap02 mikrotik', 'MIKROTIK'}",0.00210725497785232,1.0,"MikroTik,MikroTik | router,router | "
+712,"{'ROUTER', 'rb750r mikrotik', 'MIKROTIK'}",0.0021502601814819594,0.925925925925926,MikroTik | router | 
+713,"{'ROUTER', 'rb750r mikrotik', 'MIKROTIK'}",0.0021502601814819594,0.5208333333333334,MikroTik | router | 
+714,"{'ROUTER', 'router fani mikrotik', 'MIKROTIK'}",0.0015051821270373716,0.7,MikroTik | router | 
+715,"{'ROUTER', 'router fani mikrotik', 'MIKROTIK'}",0.0015051821270373716,0.8974358974358975,MikroTik | router | 
+716,"{'ROUTER', 'router mikrotik', 'MIKROTIK'}",0.003010364254074743,0.7291666666666667,MikroTik | router | 
+717,"{'ROUTER', 'saharanpur router mikrotik', 'MIKROTIK'}",0.0015051821270373716,0.7291666666666667,MikroTik | router | 
+718,"{'shahriar-router mikrotik', 'ROUTER', 'MIKROTIK'}",0.0015051821270373716,0.7291666666666667,"MikroTik,MikroTik | router,router | "
+719,"{'ROUTER', 'MIKROTIK', 'technics mikrotik'}",0.0027093278286672686,0.5249999999999999,"MikroTik,MikroTik | router,router | "
+720,"{'ROUTER', 'MIKROTIK', 'technics mikrotik'}",0.0027093278286672686,0.6363636363636364,"MikroTik,MikroTik | router,router | "
+721,"{'ROUTER', 'transporte mirna - mikrotik mikrotik', 'MIKROTIK'}",0.0033544058831118566,0.7090909090909091,MikroTik | router | 
+722,"{'ROUTER', 'transporte mirna - mikrotik mikrotik', 'MIKROTIK'}",0.0033544058831118566,0.65,MikroTik | router | 
+723,"{'ultrarap_diveo_main_gateway_router mikrotik', 'ROUTER', 'MIKROTIK'}",0.0015051821270373716,0.7291666666666667,MikroTik | router | 
+724,"{'vivo - pira mb mikrotik', 'ROUTER', 'MIKROTIK'}",0.001376166516148454,0.9696969696969696,MikroTik | router | 
+725,"{'vivo - pira mb mikrotik', 'ROUTER', 'MIKROTIK'}",0.001376166516148454,1.0,MikroTik | router | 
+726,"{'ROUTER108', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,0.8590308370044053,"MikroTik,MikroTik | router,router | "
+727,"{'ROUTER108', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,1.0,"MikroTik,MikroTik | router,router | "
+728,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTERBOARD-450GX4'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+729,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTERBOARD-450GX4'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+730,"{'RULE6', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+731,"{'RULE6', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+732,"{'S-1S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+733,"{'S-1S', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+734,"{'mikrotik mikrotik', 'MIKROTIK', 'S-2HND'}",0.005590676471853094,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+735,"{'mikrotik mikrotik', 'MIKROTIK', 'S-2HND'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+736,"{'mikrotik mikrotik', 'MIKROTIK', 'S-4S'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+737,"{'mikrotik mikrotik', 'MIKROTIK', 'S-4S'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+738,"{'mikrotik mikrotik', 'S1', 'MIKROTIK'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+739,"{'mikrotik mikrotik', 'S1', 'MIKROTIK'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+740,"{'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+741,"{'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,0.5,"MikroTik,MikroTik | router,router | "
+742,"{'SOCKS4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+743,"{'SOCKS4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+744,"{'SOLUTIONS3G', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,0.9701492537313433,"MikroTik,MikroTik | router,router | "
+745,"{'SOLUTIONS3G', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,0.5,"MikroTik,MikroTik | router,router | "
+746,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.06429277942631058,0.8205268935236004,"MikroTik,MikroTik | router,router | "
+747,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.06429277942631058,0.8518518518518519,"MikroTik,MikroTik | router,router | "
+748,"{'paula harman mikrotik', 'SWITCH', 'MIKROTIK'}",0.0017202081451855675,0.851063829787234,"MikroTik,MikroTik | router,router | "
+749,"{'SWITCH', 'MIKROTIK', 'technics mikrotik'}",0.0015481873306670106,0.8999999999999999,"MikroTik,MikroTik | router,router | "
+750,"{'SWITCHES', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,0.5803571428571429,"MikroTik,MikroTik | router,router | "
+751,"{'SWITCHES', 'mikrotik mikrotik', 'MIKROTIK'}",0.008386014707779641,1.0,"MikroTik,MikroTik | router,router | "
+752,"{'wifi betplay mikrotik', 'SWITCHES', 'MIKROTIK'}",0.0020212445705930417,1.0,MikroTik | router | 
+753,"{'TCP8', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+754,"{'TCP8', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+755,"{'mikrotik mikrotik', 'TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+756,"{'mikrotik mikrotik', 'TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+757,"{'mikrotik mikrotik', 'THEMFOLLOW386', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+758,"{'mikrotik mikrotik', 'THEMFOLLOW386', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+759,"{'mikrotik mikrotik', 'U-5HND', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+760,"{'mikrotik mikrotik', 'U-5HND', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+761,"{'mikrotik mikrotik', 'US-8', 'MIKROTIK'}",0.008386014707779641,0.8590308370044053,"MikroTik,MikroTik | router,router | "
+762,"{'mikrotik mikrotik', 'US-8', 'MIKROTIK'}",0.008386014707779641,1.0,"MikroTik,MikroTik | router,router | "
+763,"{'mikrotik mikrotik', 'MIKROTIK', 'V2'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+764,"{'mikrotik mikrotik', 'MIKROTIK', 'V2'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+765,"{'mikrotik mikrotik', 'V2.6', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+766,"{'mikrotik mikrotik', 'V2.6', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+767,"{'V3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9027777777777778,"MikroTik,MikroTik | router,router | "
+768,"{'V3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+769,"{'V3.3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+770,"{'V3.3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+771,"{'V6', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.8176100628930818,"MikroTik,MikroTik | router,router | "
+772,"{'V6', 'mikrotik mikrotik', 'MIKROTIK'}",0.005590676471853094,0.5,"MikroTik,MikroTik | router,router | "
+773,"{'mikrotik mikrotik', 'MIKROTIK', 'WI4SPOT'}",0.008386014707779641,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+774,"{'mikrotik mikrotik', 'MIKROTIK', 'WI4SPOT'}",0.008386014707779641,0.5,"MikroTik,MikroTik | router,router | "
+775,"{'mikrotik mikrotik', 'MIKROTIK', 'WI4TOWER'}",0.008386014707779641,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+776,"{'mikrotik mikrotik', 'MIKROTIK', 'WI4TOWER'}",0.008386014707779641,0.5,"MikroTik,MikroTik | router,router | "
+777,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIKCRS328-4C'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+778,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIKCRS328-4C'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+779,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIKRB2011IL'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+780,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIKRB2011IL'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+781,"{'mikrotik mikrotik', 'MIKROTIKRB2011UIAS', 'ROUTER'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+782,"{'mikrotik mikrotik', 'MIKROTIKRB2011UIAS', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+783,"{'MIKROTIKRB260GS', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+784,"{'MIKROTIKRB260GS', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+785,"{'mikrotik mikrotik', 'MIKROTIKRB260GSP', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+786,"{'mikrotik mikrotik', 'MIKROTIKRB260GSP', 'SWITCH'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+787,"{'ROUTER', 'MIKROTIKRB750UPR2', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+788,"{'ROUTER', 'MIKROTIKRB750UPR2', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+789,"{'MIKROTIKRB951G', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+790,"{'MIKROTIKRB951G', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+791,"{'MIKROTIKRB951UI', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+792,"{'MIKROTIKRB951UI', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+793,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIKRBOMNITIKU-5HND'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+794,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIKRBOMNITIKU-5HND'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+795,"{'mikrotik mikrotik', 'ROUTERBOARD', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+796,"{'mikrotik mikrotik', 'ROUTERBOARD', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+797,"{'MODEM', 'ROUTERBOARD', 'asus rt-ac56u'}",0.004386530770223197,0.9807692307692307,RT-AC56U | soho router | 
+798,"{'MODEM', 'ROUTERBOARD', 'asus rt-ac56u'}",0.004386530770223197,0.5,RT-AC56U | soho router | 
+799,"{'NETGEAR', 'ROUTER', 'asus dsl-ac52u'}",0.0018062185524448458,0.5249999999999999,DSL-AC52U | soho router | 
+800,"{'NETGEAR', 'ROUTER', 'asus dsl-ac68u'}",0.0020212445705930417,0.5280898876404494,DSL-AC68U | soho router | 
+801,"{'NETGEAR', 'ROUTER', 'asus r7000'}",0.0015051821270373716,1.0,R7000 | soho router | 
+802,"{'NETGEAR', 'ROUTER', 'asus r7000'}",0.0015051821270373716,0.8974358974358975,R7000 | soho router | 
+803,"{'asus rt-ac3200', 'NETGEAR', 'ROUTER'}",0.0037844579194082485,1.0,RT-AC3200 | soho router | 
+804,"{'asus rt-ac56r', 'NETGEAR', 'ROUTER'}",0.002537307014148712,0.6629213483146067,RT-AC56R | soho router | 
+805,"{'NETGEAR', 'ROUTER', 'asus rt-ac66u'}",0.002236270588741238,1.0,RT-AC66U | soho router | 
+806,"{'NETGEAR', 'ROUTER', 'asus rt-ac66u_b1'}",0.001118135294370619,1.0,RT-AC66U_B1 | soho router | 
+807,"{'NETGEAR', 'ROUTER', 'asus rt-ac68p'}",0.002236270588741238,1.0,RT-AC68P | soho router | 
+808,"{'NETGEAR', 'ROUTER', 'asus rt-ac87u'}",0.001118135294370619,1.0,RT-AC87U | soho router | 
+809,"{'NETGEAR', 'ROUTER', 'asus rt-ac88u'}",0.0010321248871113405,0.923076923076923,RT-AC88U | soho router | 
+810,"{'NETGEAR', 'ROUTER', 'asus rt-acrh13'}",0.0036124371048896916,0.6774193548387097,RT-ACRH13 | soho router | 
+811,"{'wifi betplay mikrotik', 'NETGEAR', 'ROUTER'}",0.0020212445705930417,1.0,MikroTik | router | 
+812,"{'ROUTER', 'mikrotik mikrotik', 'OMNITIKU-5HND'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+813,"{'ROUTER', 'mikrotik mikrotik', 'OMNITIKU-5HND'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+814,"{'mikrotik mikrotik', 'ROUTERBOARD', 'OMNITIKU-5HND'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+815,"{'mikrotik mikrotik', 'ROUTERBOARD', 'OMNITIKU-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+816,"{'ROUTER', 'OSL4', 'mikrotik mikrotik'}",0.005590676471853094,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+817,"{'ROUTER', 'OSL4', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+818,"{'mikrotik mikrotik', 'OSL4', 'ROUTERBOARD'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+819,"{'mikrotik mikrotik', 'OSL4', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+820,"{'ROUTER', 'P-4S', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+821,"{'ROUTER', 'P-4S', 'mikrotik mikrotik'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+822,"{'P-4S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+823,"{'P-4S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+824,"{'ROUTER', 'QRT5', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+825,"{'ROUTER', 'QRT5', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+826,"{'mikrotik mikrotik', 'QRT5', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+827,"{'mikrotik mikrotik', 'QRT5', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+828,"{'mikrotik mikrotik', 'ROUTER', 'QRT5AC'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+829,"{'mikrotik mikrotik', 'ROUTER', 'QRT5AC'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+830,"{'mikrotik mikrotik', 'QRT5AC', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+831,"{'mikrotik mikrotik', 'QRT5AC', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+832,"{'mikrotik mikrotik', 'R5', 'ROUTER'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+833,"{'mikrotik mikrotik', 'R5', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+834,"{'mikrotik mikrotik', 'R5', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+835,"{'mikrotik mikrotik', 'R5', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+836,"{'ROUTER', 'mikrotik mikrotik', 'RB2011IL'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+837,"{'ROUTER', 'mikrotik mikrotik', 'RB2011IL'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+838,"{'RB260GSP', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+839,"{'RB260GSP', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+840,"{'RB3011', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,0.87248322147651,"MikroTik,MikroTik | router,router | "
+841,"{'RB3011', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+842,"{'RB3011', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+843,"{'RB3011', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+844,"{'RB3011UIAS', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,0.8333333333333333,"MikroTik,MikroTik | router,router | "
+845,"{'RB3011UIAS', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+846,"{'RB3011UIAS', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+847,"{'RB3011UIAS', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+848,"{'ROUTER', 'mikrotik mikrotik', 'RB450'}",0.005590676471853094,0.9090909090909091,"MikroTik,MikroTik | router,router | "
+849,"{'ROUTER', 'mikrotik mikrotik', 'RB450'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+850,"{'mikrotik mikrotik', 'ROUTERBOARD', 'RB450'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+851,"{'mikrotik mikrotik', 'ROUTERBOARD', 'RB450'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+852,"{'ROUTER', 'RB450GX4', 'mikrotik mikrotik'}",0.005590676471853094,0.962962962962963,"MikroTik,MikroTik | router,router | "
+853,"{'ROUTER', 'RB450GX4', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+854,"{'mikrotik mikrotik', 'RB450GX4', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+855,"{'mikrotik mikrotik', 'RB450GX4', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+856,"{'ROUTER', 'mikrotik mikrotik', 'RB750GR3'}",0.005590676471853094,0.8280254777070064,"MikroTik,MikroTik | router,router | "
+857,"{'ROUTER', 'mikrotik mikrotik', 'RB750GR3'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+858,"{'RB750R2', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+859,"{'RB750R2', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+860,"{'mikrotik mikrotik', 'RB750R2', 'ROUTERBOARD'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+861,"{'mikrotik mikrotik', 'RB750R2', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+862,"{'ROUTER', 'RB911-5HN', 'mikrotik mikrotik'}",0.005590676471853094,0.962962962962963,"MikroTik,MikroTik | router,router | "
+863,"{'ROUTER', 'RB911-5HN', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+864,"{'mikrotik mikrotik', 'RB911-5HN', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+865,"{'mikrotik mikrotik', 'RB911-5HN', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+866,"{'ROUTER', 'RB911G', 'mikrotik mikrotik'}",0.005590676471853094,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+867,"{'ROUTER', 'RB911G', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+868,"{'mikrotik mikrotik', 'RB911G', 'ROUTERBOARD'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+869,"{'mikrotik mikrotik', 'RB911G', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+870,"{'mikrotik mikrotik', 'ROUTER', 'RB911G5HPACD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+871,"{'mikrotik mikrotik', 'ROUTER', 'RB911G5HPACD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+872,"{'mikrotik mikrotik', 'RB911G5HPACD', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+873,"{'mikrotik mikrotik', 'RB911G5HPACD', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+874,"{'ROUTER', 'mikrotik mikrotik', 'RB922UAGS'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+875,"{'ROUTER', 'mikrotik mikrotik', 'RB922UAGS'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+876,"{'mikrotik mikrotik', 'ROUTERBOARD', 'RB922UAGS'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+877,"{'mikrotik mikrotik', 'ROUTERBOARD', 'RB922UAGS'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+878,"{'ROUTER', 'RB922UAGS5HPA', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+879,"{'ROUTER', 'RB922UAGS5HPA', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+880,"{'mikrotik mikrotik', 'RB922UAGS5HPA', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+881,"{'mikrotik mikrotik', 'RB922UAGS5HPA', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+882,"{'ROUTER', 'RB951G', 'mikrotik mikrotik'}",0.002795338235926547,0.7647058823529411,"MikroTik,MikroTik | router,router | "
+883,"{'ROUTER', 'RB951G', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+884,"{'RB951UI', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.7303370786516853,"MikroTik,MikroTik | router,router | "
+885,"{'RB951UI', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+886,"{'mikrotik mikrotik', 'RB953GS', 'ROUTER'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+887,"{'mikrotik mikrotik', 'RB953GS', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+888,"{'mikrotik mikrotik', 'RB953GS', 'ROUTERBOARD'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+889,"{'mikrotik mikrotik', 'RB953GS', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+890,"{'ROUTER', 'mikrotik mikrotik', 'RB953GS5HNTRP'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+891,"{'ROUTER', 'mikrotik mikrotik', 'RB953GS5HNTRP'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+892,"{'mikrotik mikrotik', 'ROUTERBOARD', 'RB953GS5HNTRP'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+893,"{'mikrotik mikrotik', 'ROUTERBOARD', 'RB953GS5HNTRP'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+894,"{'mikrotik mikrotik', 'RBGR52HPN', 'ROUTER'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+895,"{'mikrotik mikrotik', 'RBGR52HPN', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+896,"{'mikrotik mikrotik', 'RBGR52HPN', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+897,"{'mikrotik mikrotik', 'RBGR52HPN', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+898,"{'RBGRA52HPN', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+899,"{'RBGRA52HPN', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+900,"{'RBGRA52HPN', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+901,"{'RBGRA52HPN', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+902,"{'ROUTER', 'mikrotik mikrotik', 'RBM11G'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+903,"{'ROUTER', 'mikrotik mikrotik', 'RBM11G'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+904,"{'mikrotik mikrotik', 'ROUTERBOARD', 'RBM11G'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+905,"{'mikrotik mikrotik', 'ROUTERBOARD', 'RBM11G'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+906,"{'RBM33G', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+907,"{'RBM33G', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+908,"{'mikrotik mikrotik', 'RBM33G', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+909,"{'mikrotik mikrotik', 'RBM33G', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+910,"{'RBMETAL5SHPN', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+911,"{'RBMETAL5SHPN', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+912,"{'mikrotik mikrotik', 'RBMETAL5SHPN', 'ROUTERBOARD'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+913,"{'mikrotik mikrotik', 'RBMETAL5SHPN', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+914,"{'SWITCH', 'mikrotik mikrotik', 'RJ45'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+915,"{'SWITCH', 'mikrotik mikrotik', 'RJ45'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+916,"{'mikrotik mikrotik', 'ROUTER', 'ROUTER108'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+917,"{'ap-1006 mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.009590160409409538,0.724025974025974,MikroTik | router | 
+918,"{'ap-1006 mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.009590160409409538,1.0,MikroTik | router | 
+919,"{'ROUTER', 'asus rt-ac56u', 'ROUTERBOARD'}",0.004386530770223197,0.5,RT-AC56U | soho router | 
+920,"{'ROUTER', 'ROUTERBOARD', 'asus rt-ac68p'}",0.0012901561088891757,1.0,RT-AC68P | soho router | 
+921,"{'mikrotik chawala-mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.0017202081451855675,0.8163265306122449,"MikroTik,MikroTik | router,router | "
+922,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.11181352943706188,0.763582966226138,"MikroTik,MikroTik | router,router | "
+923,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.11181352943706188,0.8163265306122448,"MikroTik,MikroTik | router,router | "
+924,"{'ROUTER', 'mikrotik pm4 mikrotik', 'ROUTERBOARD'}",0.0010321248871113405,0.96,MikroTik | router | 
+925,"{'ROUTER', 'ROUTERBOARD', 'paula harman mikrotik'}",0.002236270588741238,0.8813559322033899,"MikroTik,MikroTik | router,router | "
+926,"{'ROUTER', 'pharma mikrotik', 'ROUTERBOARD'}",0.001161140498000258,0.5625,MikroTik | router | 
+927,"{'ROUTER', 'pharma mikrotik', 'ROUTERBOARD'}",0.001161140498000258,0.75,MikroTik | router | 
+928,"{'ROUTER', 'ROUTERBOARD', 'rb750r mikrotik'}",0.0019782393669634025,0.9787234042553191,MikroTik | router | 
+929,"{'ROUTER', 'ROUTERBOARD', 'router mikrotik'}",0.001118135294370619,0.8666666666666667,MikroTik | router | 
+930,"{'ROUTER', 'ROUTERBOARD', 'technics mikrotik'}",0.0015051821270373716,0.6363636363636365,"MikroTik,MikroTik | router,router | "
+931,"{'ROUTER', 'transporte mirna - mikrotik mikrotik', 'ROUTERBOARD'}",0.0017202081451855675,0.8163265306122449,MikroTik | router | 
+932,"{'ROUTER', 'mikrotik mikrotik', 'ROUTERBOARD-450GX4'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+933,"{'ROUTER', 'mikrotik mikrotik', 'ROUTERBOARD-450GX4'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+934,"{'RULE6', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+935,"{'RULE6', 'ROUTER', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+936,"{'ROUTER', 'S-1S', 'mikrotik mikrotik'}",0.002795338235926547,0.8024691358024691,"MikroTik,MikroTik | router,router | "
+937,"{'ROUTER', 'S-1S', 'mikrotik mikrotik'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+938,"{'ROUTER', 'mikrotik mikrotik', 'S-2HND'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+939,"{'ROUTER', 'mikrotik mikrotik', 'S-2HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+940,"{'ROUTER', 'mikrotik mikrotik', 'S-4S'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+941,"{'ROUTER', 'mikrotik mikrotik', 'S-4S'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+942,"{'mikrotik mikrotik', 'ROUTER', 'S1'}",0.002795338235926547,0.9027777777777778,"MikroTik,MikroTik | router,router | "
+943,"{'mikrotik mikrotik', 'ROUTER', 'S1'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+944,"{'ROUTER', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+945,"{'ROUTER', 'SOCKS4', 'mikrotik mikrotik'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+946,"{'ROUTER', 'SOCKS4', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+947,"{'ROUTER', 'SOLUTIONS3G', 'mikrotik mikrotik'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+948,"{'SPRINT', 'ROUTER', 'asus rt-ac68r'}",0.001118135294370619,1.0,RT-AC68R | soho router | 
+949,"{'SPRINT', 'ROUTER', 'asus rt-ac68r'}",0.001118135294370619,1.0,RT-AC68R | soho router | 
+950,"{'ROUTER', 'asus rt-ac52u', 'STAR'}",0.0010321248871113405,1.0,RT-AC52U | soho router | 
+951,"{'ROUTER', 'TCP8', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+952,"{'ROUTER', 'TCP8', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+953,"{'mikrotik mikrotik', 'ROUTER', 'TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+954,"{'mikrotik mikrotik', 'ROUTER', 'TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+955,"{'ROUTER', 'europa mikrotik', 'TELTONIKA'}",0.0025803122177783513,1.0,MikroTik | router | 
+956,"{'ROUTER', 'europa mikrotik', 'TELTONIKA'}",0.0025803122177783513,0.5,MikroTik | router | 
+957,"{'mikrotik mikrotik', 'ROUTER', 'THEMFOLLOW386'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+958,"{'mikrotik mikrotik', 'ROUTER', 'THEMFOLLOW386'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+959,"{'mikrotik mikrotik', 'ROUTER', 'U-5HND'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+960,"{'mikrotik mikrotik', 'ROUTER', 'U-5HND'}",0.005590676471853094,1.0,"MikroTik,MikroTik | router,router | "
+961,"{'ROUTER', 'mikrotik mikrotik', 'US-8'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+962,"{'ROUTER', 'mikrotik mikrotik', 'V2'}",0.002795338235926547,0.6989247311827956,"MikroTik,MikroTik | router,router | "
+963,"{'ROUTER', 'mikrotik mikrotik', 'V2'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+964,"{'mikrotik mikrotik', 'ROUTER', 'V2.6'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+965,"{'mikrotik mikrotik', 'ROUTER', 'V2.6'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+966,"{'ROUTER', 'mikrotik mikrotik', 'V3'}",0.002795338235926547,0.6701030927835052,"MikroTik,MikroTik | router,router | "
+967,"{'ROUTER', 'mikrotik mikrotik', 'V3'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+968,"{'ROUTER', 'V3.3', 'mikrotik mikrotik'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+969,"{'ROUTER', 'V3.3', 'mikrotik mikrotik'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+970,"{'V6', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+971,"{'V6', 'ROUTER', 'mikrotik mikrotik'}",0.005590676471853094,0.5,"MikroTik,MikroTik | router,router | "
+972,"{'ROUTER', 'mikrotik mikrotik', 'WI4SPOT'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+973,"{'ROUTER', 'mikrotik mikrotik', 'WI4TOWER'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+974,"{'ROUTER108', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+975,"{'ROUTER108', 'SWITCHES', 'mikrotik mikrotik'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+976,"{'mikrotik mikrotik', 'ROUTERBOARD', 'ROUTERBOARD-450GX4'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+977,"{'mikrotik mikrotik', 'ROUTERBOARD', 'ROUTERBOARD-450GX4'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+978,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'ROUTERBOARD'}",0.008386014707779641,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+979,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'ROUTERBOARD'}",0.008386014707779641,0.5,"MikroTik,MikroTik | router,router | "
+980,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'ROUTERBOARD'}",0.008386014707779641,0.9701492537313433,"MikroTik,MikroTik | router,router | "
+981,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'ROUTERBOARD'}",0.008386014707779641,0.5,"MikroTik,MikroTik | router,router | "
+982,"{'mikrotik mikrotik', 'ROUTERBOARD', 'SWITCH'}",0.011181352943706188,0.7854984894259818,"MikroTik,MikroTik | router,router | "
+983,"{'mikrotik mikrotik', 'U-5HND', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+984,"{'mikrotik mikrotik', 'U-5HND', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+985,"{'V6', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+986,"{'V6', 'mikrotik mikrotik', 'ROUTERBOARD'}",0.005590676471853094,0.5,"MikroTik,MikroTik | router,router | "
+987,"{'mikrotik mikrotik', 'ROUTERBOARD', 'WI4SPOT'}",0.008386014707779641,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+988,"{'mikrotik mikrotik', 'ROUTERBOARD', 'WI4SPOT'}",0.008386014707779641,0.5,"MikroTik,MikroTik | router,router | "
+989,"{'mikrotik mikrotik', 'ROUTERBOARD', 'WI4TOWER'}",0.008386014707779641,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+990,"{'mikrotik mikrotik', 'ROUTERBOARD', 'WI4TOWER'}",0.008386014707779641,0.5,"MikroTik,MikroTik | router,router | "
+991,"{'S-1S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+992,"{'S-1S', 'mikrotik mikrotik', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+993,"{'SWITCH', 'mikrotik mikrotik', 'S-2HND'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+994,"{'SWITCH', 'mikrotik mikrotik', 'S-2HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+995,"{'mikrotik mikrotik', 'S1', 'SWITCH'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+996,"{'mikrotik mikrotik', 'S1', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+997,"{'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik', 'SWITCH'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+998,"{'SOLUTIONS3G', 'mikrotik mikrotik', 'SWITCH'}",0.005590676471853094,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+999,"{'europa mikrotik', 'TELTONIKA', 'SWITCH'}",0.003010364254074743,1.0,MikroTik | router | 
+1000,"{'mikrotik mikrotik', 'US-8', 'SWITCH'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1001,"{'mikrotik mikrotik', 'SWITCH', 'WI4SPOT'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1002,"{'mikrotik mikrotik', 'SWITCH', 'WI4TOWER'}",0.005590676471853094,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1003,"{'SWITCHES', 'mikrotik mikrotik', 'US-8'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1004,"{'mikrotik mikrotik', 'C-5S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1005,"{'mikrotik mikrotik', 'C-5S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1006,"{'mikrotik mikrotik', 'C-5S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1007,"{'C-5S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1008,"{'C-5S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1009,"{'C-5S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1010,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'CAMERA', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1011,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'CAMERA', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1012,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'CAMERA', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1013,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'CAMERA', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1014,"{'mikrotik mikrotik', 'CAMERA', 'MIKROTIK', 'WI4SPOT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1015,"{'mikrotik mikrotik', 'CAMERA', 'MIKROTIK', 'WI4SPOT'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1016,"{'mikrotik mikrotik', 'CAMERA', 'MIKROTIK', 'WI4TOWER'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1017,"{'mikrotik mikrotik', 'CAMERA', 'MIKROTIK', 'WI4TOWER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1018,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'CAMERA', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1019,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'CAMERA', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1020,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'CAMERA', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1021,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'CAMERA', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1022,"{'mikrotik mikrotik', 'WI4SPOT', 'CAMERA', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1023,"{'mikrotik mikrotik', 'WI4SPOT', 'CAMERA', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1024,"{'mikrotik mikrotik', 'WI4TOWER', 'CAMERA', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1025,"{'mikrotik mikrotik', 'WI4TOWER', 'CAMERA', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1026,"{'mikrotik mikrotik', 'CCR1016', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.8441558441558441,"MikroTik,MikroTik | router,router | "
+1027,"{'mikrotik mikrotik', 'CCR1016', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1028,"{'mikrotik mikrotik', 'CCR1016', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1029,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'CCR1016-12G'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+1030,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'CCR1016-12G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1031,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'CCR1016-12G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1032,"{'mikrotik mikrotik', 'CCR1016-12S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1033,"{'mikrotik mikrotik', 'CCR1016-12S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1034,"{'mikrotik mikrotik', 'CCR1016-12S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1035,"{'CCR1036', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+1036,"{'CCR1036', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1037,"{'CCR1036', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1038,"{'ROUTER', 'CCR1036-12G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+1039,"{'ROUTER', 'CCR1036-12G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1040,"{'ROUTER', 'CCR1036-12G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1041,"{'CCR1036-8G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+1042,"{'CCR1036-8G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1043,"{'CCR1036-8G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1044,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'CCR1072-1G'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1045,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'CCR1072-1G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1046,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'CCR1072-1G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1047,"{'CCR12G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1048,"{'CCR12G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1049,"{'CCR12G', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1050,"{'CCR12G', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1051,"{'CCR12G', 'SWITCHES', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1052,"{'CCR12G', 'SWITCHES', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1053,"{'mikrotik mikrotik', 'CISCO', 'CRS-1', 'ROUTER'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+1054,"{'mikrotik mikrotik', 'CISCO', 'CRS-1', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1055,"{'mikrotik mikrotik', 'CISCO', 'CRS-1', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1056,"{'mikrotik mikrotik', 'CISCO', 'CRS-1', 'ROUTER'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1057,"{'ROUTER', 'CRS109-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+1058,"{'ROUTER', 'CRS109-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1059,"{'ROUTER', 'CRS109-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1060,"{'SWITCH', 'CRS109-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+1061,"{'SWITCH', 'CRS109-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1062,"{'SWITCH', 'CRS109-8G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1063,"{'mikrotik mikrotik', 'CRS125-24G', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+1064,"{'mikrotik mikrotik', 'CRS125-24G', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1065,"{'mikrotik mikrotik', 'CRS125-24G', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1066,"{'CRS125-24G', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+1067,"{'CRS125-24G', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1068,"{'CRS125-24G', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1069,"{'mikrotik mikrotik', 'ROUTER', 'CRS212-1G', 'MIKROTIK'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+1070,"{'mikrotik mikrotik', 'ROUTER', 'CRS212-1G', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1071,"{'mikrotik mikrotik', 'ROUTER', 'CRS212-1G', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1072,"{'mikrotik mikrotik', 'SWITCH', 'CRS212-1G', 'MIKROTIK'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+1073,"{'mikrotik mikrotik', 'SWITCH', 'CRS212-1G', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1074,"{'mikrotik mikrotik', 'SWITCH', 'CRS212-1G', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1075,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'CVE-2018-14847'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1076,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'CVE-2018-14847'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1077,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'CVE-2018-14847'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1078,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'DSTNAT7'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1079,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'DSTNAT7'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1080,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'DSTNAT7'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1081,"{'ROUTER', 'EMPLOYEES280', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1082,"{'ROUTER', 'EMPLOYEES280', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1083,"{'ROUTER', 'EMPLOYEES280', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1084,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'EXPLOITATIONVULNERABILITYHACKINGINFOSEC386'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1085,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'EXPLOITATIONVULNERABILITYHACKINGINFOSEC386'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1086,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'EXPLOITATIONVULNERABILITYHACKINGINFOSEC386'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1087,"{'G-16S', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1088,"{'G-16S', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1089,"{'G-16S', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1090,"{'G-16S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1091,"{'G-16S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1092,"{'G-16S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1093,"{'G-2HND', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9027777777777778,"MikroTik,MikroTik | router,router | "
+1094,"{'G-2HND', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1095,"{'G-2HND', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1096,"{'mikrotik mikrotik', 'G-2S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1097,"{'mikrotik mikrotik', 'G-2S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1098,"{'mikrotik mikrotik', 'G-2S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1099,"{'G-2S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1100,"{'G-2S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1101,"{'G-2S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1102,"{'ROUTER', 'G-5HPACD', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1103,"{'ROUTER', 'G-5HPACD', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1104,"{'ROUTER', 'G-5HPACD', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1105,"{'mikrotik mikrotik', 'ROUTER', 'G-5HPACD', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1106,"{'mikrotik mikrotik', 'ROUTER', 'G-5HPACD', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1107,"{'mikrotik mikrotik', 'ROUTER', 'G-5HPACD', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1108,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'G-60AD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1109,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'G-60AD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1110,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'G-60AD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1111,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'G-60AD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1112,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'G-60AD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1113,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'G-60AD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1114,"{'mikrotik mikrotik', 'G-8S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1115,"{'mikrotik mikrotik', 'G-8S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1116,"{'mikrotik mikrotik', 'G-8S', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1117,"{'G-8S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1118,"{'G-8S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1119,"{'G-8S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1120,"{'V6', 'MIKROTIK', 'mikrotik mikrotik', 'GATEWAY'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1121,"{'V6', 'MIKROTIK', 'mikrotik mikrotik', 'GATEWAY'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1122,"{'V6', 'MIKROTIK', 'mikrotik mikrotik', 'GATEWAY'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1123,"{'V6', 'MIKROTIK', 'mikrotik mikrotik', 'GATEWAY'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1124,"{'V6', 'mikrotik mikrotik', 'ROUTERBOARD', 'GATEWAY'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1125,"{'V6', 'mikrotik mikrotik', 'ROUTERBOARD', 'GATEWAY'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1126,"{'V6', 'mikrotik mikrotik', 'ROUTERBOARD', 'GATEWAY'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1127,"{'V6', 'mikrotik mikrotik', 'ROUTERBOARD', 'GATEWAY'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1128,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'GROOVE-52HPN'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1129,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'GROOVE-52HPN'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1130,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'GROOVE-52HPN'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1131,"{'GROOVEA-52HPN', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1132,"{'GROOVEA-52HPN', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1133,"{'GROOVEA-52HPN', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1134,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'GS-5HNT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1135,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'GS-5HNT'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1136,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'GS-5HNT'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1137,"{'mikrotik mikrotik', 'ROUTER', 'GX4', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1138,"{'mikrotik mikrotik', 'ROUTER', 'GX4', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1139,"{'mikrotik mikrotik', 'ROUTER', 'GX4', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1140,"{'mikrotik mikrotik', 'ROUTER', 'GX4', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1141,"{'mikrotik mikrotik', 'ROUTER', 'GX4', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1142,"{'mikrotik mikrotik', 'ROUTER', 'GX4', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1143,"{'mikrotik mikrotik', 'ROUTER', 'HACQ2HND', 'MIKROTIK'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+1144,"{'mikrotik mikrotik', 'ROUTER', 'HACQ2HND', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1145,"{'mikrotik mikrotik', 'ROUTER', 'HACQ2HND', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1146,"{'mikrotik mikrotik', 'ROUTER', 'HACQ2HND', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1147,"{'mikrotik mikrotik', 'ROUTER', 'HACQ2HND', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1148,"{'mikrotik mikrotik', 'ROUTER', 'HACQ2HND', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1149,"{'HND1', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1150,"{'HND1', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1151,"{'HND1', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1152,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'INIT7'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1153,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'INIT7'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1154,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'INIT7'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1155,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'INIT7.NET'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1156,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'INIT7.NET'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1157,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'INIT7.NET'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1158,"{'mikrotik mikrotik', 'ROUTER', 'RB750GR3', 'INTEL'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1159,"{'mikrotik mikrotik', 'ROUTER', 'RB750GR3', 'INTEL'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1160,"{'mikrotik mikrotik', 'ROUTER', 'RB750GR3', 'INTEL'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1161,"{'mikrotik mikrotik', 'ROUTER', 'RB750GR3', 'INTEL'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1162,"{'ROUTER', 'IPV6', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.7926829268292683,"MikroTik,MikroTik | router,router | "
+1163,"{'ROUTER', 'IPV6', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1164,"{'ROUTER', 'IPV6', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1165,"{'mikrotik mikrotik', 'L3', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.7647058823529411,"MikroTik,MikroTik | router,router | "
+1166,"{'mikrotik mikrotik', 'L3', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1167,"{'mikrotik mikrotik', 'L3', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1168,"{'mikrotik mikrotik', 'ROUTER', 'L4', 'MIKROTIK'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+1169,"{'mikrotik mikrotik', 'ROUTER', 'L4', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1170,"{'mikrotik mikrotik', 'ROUTER', 'L4', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1171,"{'mikrotik mikrotik', 'ROUTER', 'L4', 'ROUTERBOARD'}",0.002795338235926547,0.8333333333333333,"MikroTik,MikroTik | router,router | "
+1172,"{'mikrotik mikrotik', 'ROUTER', 'L4', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1173,"{'mikrotik mikrotik', 'ROUTER', 'L4', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1174,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'L5'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1175,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'L5'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1176,"{'mikrotik mikrotik', 'MIKROTIK', 'ROUTER', 'L5'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1177,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'L5'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+1178,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'L5'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1179,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'L5'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1180,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'L6'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+1181,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'L6'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1182,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'L6'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1183,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'L6'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1184,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'L6'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1185,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'L6'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1186,"{'ROUTER', 'LITE5', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+1187,"{'ROUTER', 'LITE5', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1188,"{'ROUTER', 'LITE5', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1189,"{'mikrotik mikrotik', 'ROUTER', 'LITE5', 'ROUTERBOARD'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+1190,"{'mikrotik mikrotik', 'ROUTER', 'LITE5', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1191,"{'mikrotik mikrotik', 'ROUTER', 'LITE5', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1192,"{'mikrotik mikrotik', 'MIKROTIKCRS328-4C', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1193,"{'mikrotik mikrotik', 'MIKROTIKCRS328-4C', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1194,"{'mikrotik mikrotik', 'MIKROTIKCRS328-4C', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1195,"{'ROUTER', 'MIKROTIKRB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1196,"{'ROUTER', 'MIKROTIKRB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1197,"{'ROUTER', 'MIKROTIKRB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1198,"{'mikrotik mikrotik', 'MIKROTIKRB2011UIAS', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1199,"{'mikrotik mikrotik', 'MIKROTIKRB2011UIAS', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1200,"{'mikrotik mikrotik', 'MIKROTIKRB2011UIAS', 'ROUTER', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1201,"{'MIKROTIKRB260GS', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1202,"{'MIKROTIKRB260GS', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1203,"{'MIKROTIKRB260GS', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1204,"{'mikrotik mikrotik', 'SWITCH', 'MIKROTIKRB260GSP', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1205,"{'mikrotik mikrotik', 'SWITCH', 'MIKROTIKRB260GSP', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1206,"{'mikrotik mikrotik', 'SWITCH', 'MIKROTIKRB260GSP', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1207,"{'ROUTER', 'MIKROTIKRB750UPR2', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1208,"{'ROUTER', 'MIKROTIKRB750UPR2', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1209,"{'ROUTER', 'MIKROTIKRB750UPR2', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1210,"{'MIKROTIKRB951G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1211,"{'MIKROTIKRB951G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1212,"{'MIKROTIKRB951G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1213,"{'MIKROTIKRB951UI', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1214,"{'MIKROTIKRB951UI', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1215,"{'MIKROTIKRB951UI', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1216,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1217,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1218,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1219,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'OMNITIKU-5HND'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1220,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'OMNITIKU-5HND'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1221,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'OMNITIKU-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1222,"{'ROUTER', 'OSL4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+1223,"{'ROUTER', 'OSL4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1224,"{'ROUTER', 'OSL4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1225,"{'ROUTER', 'P-4S', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1226,"{'ROUTER', 'P-4S', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1227,"{'ROUTER', 'P-4S', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1228,"{'P-4S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1229,"{'P-4S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1230,"{'P-4S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1231,"{'ROUTER', 'RB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+1232,"{'ROUTER', 'RB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1233,"{'ROUTER', 'RB2011IL', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1234,"{'RB260GSP', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1235,"{'RB260GSP', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1236,"{'RB260GSP', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1237,"{'RB3011', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1238,"{'RB3011', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1239,"{'RB3011', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1240,"{'RB3011UIAS', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8024691358024691,"MikroTik,MikroTik | router,router | "
+1241,"{'RB3011UIAS', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1242,"{'RB3011UIAS', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1243,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'RB450'}",0.002795338235926547,0.9027777777777778,"MikroTik,MikroTik | router,router | "
+1244,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'RB450'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1245,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'RB450'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1246,"{'ROUTER', 'RB450GX4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1247,"{'ROUTER', 'RB450GX4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1248,"{'ROUTER', 'RB450GX4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1249,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'RB750GR3'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+1250,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'RB750GR3'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1251,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'RB750GR3'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1252,"{'RB750R2', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1253,"{'RB750R2', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1254,"{'RB750R2', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1255,"{'ROUTER', 'RB911-5HN', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1256,"{'ROUTER', 'RB911-5HN', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1257,"{'ROUTER', 'RB911-5HN', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1258,"{'ROUTER', 'RB911G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1259,"{'ROUTER', 'RB911G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1260,"{'ROUTER', 'RB911G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1261,"{'ROUTER', 'RB951G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+1262,"{'ROUTER', 'RB951G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1263,"{'ROUTER', 'RB951G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1264,"{'RB951UI', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.7738095238095238,"MikroTik,MikroTik | router,router | "
+1265,"{'RB951UI', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1266,"{'RB951UI', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1267,"{'RBM11G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1268,"{'RBM11G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1269,"{'RBM11G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1270,"{'RBM33G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1271,"{'RBM33G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1272,"{'RBM33G', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1273,"{'mikrotik mikrotik', 'SWITCH', 'RJ45', 'MIKROTIK'}",0.002795338235926547,0.8227848101265822,"MikroTik,MikroTik | router,router | "
+1274,"{'mikrotik mikrotik', 'SWITCH', 'RJ45', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1275,"{'mikrotik mikrotik', 'SWITCH', 'RJ45', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1276,"{'mikrotik mikrotik', 'ROUTER', 'ROUTER108', 'MIKROTIK'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1277,"{'mikrotik mikrotik', 'ROUTER', 'ROUTER108', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1278,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'ROUTERBOARD-450GX4'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1279,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'ROUTERBOARD-450GX4'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1280,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'ROUTERBOARD-450GX4'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1281,"{'RULE6', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1282,"{'RULE6', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1283,"{'RULE6', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1284,"{'ROUTER', 'S-1S', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1285,"{'ROUTER', 'S-1S', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1286,"{'ROUTER', 'S-1S', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1287,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'S-2HND'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1288,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'S-2HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1289,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'S-2HND'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1290,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'S-4S'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1291,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'S-4S'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1292,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'S-4S'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1293,"{'mikrotik mikrotik', 'ROUTER', 'S1', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1294,"{'mikrotik mikrotik', 'ROUTER', 'S1', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1295,"{'mikrotik mikrotik', 'ROUTER', 'S1', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1296,"{'ROUTER', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1297,"{'ROUTER', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1298,"{'ROUTER', 'SOCKS4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8783783783783784,"MikroTik,MikroTik | router,router | "
+1299,"{'ROUTER', 'SOCKS4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1300,"{'ROUTER', 'SOCKS4', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1301,"{'ROUTER', 'SOLUTIONS3G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1302,"{'ROUTER', 'SOLUTIONS3G', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1303,"{'ROUTER', 'TCP8', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1304,"{'ROUTER', 'TCP8', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1305,"{'ROUTER', 'TCP8', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1306,"{'mikrotik mikrotik', 'ROUTER', 'TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1307,"{'mikrotik mikrotik', 'ROUTER', 'TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1308,"{'mikrotik mikrotik', 'ROUTER', 'TECHNOLOGYFOUNDED1996HEADQUARTERSLATVIA', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1309,"{'mikrotik mikrotik', 'ROUTER', 'THEMFOLLOW386', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1310,"{'mikrotik mikrotik', 'ROUTER', 'THEMFOLLOW386', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1311,"{'mikrotik mikrotik', 'ROUTER', 'THEMFOLLOW386', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1312,"{'mikrotik mikrotik', 'ROUTER', 'U-5HND', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1313,"{'mikrotik mikrotik', 'ROUTER', 'U-5HND', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1314,"{'mikrotik mikrotik', 'ROUTER', 'U-5HND', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1315,"{'mikrotik mikrotik', 'ROUTER', 'US-8', 'MIKROTIK'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1316,"{'mikrotik mikrotik', 'ROUTER', 'US-8', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1317,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'V2'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1318,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'V2'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1319,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'V2'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1320,"{'mikrotik mikrotik', 'ROUTER', 'V2.6', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1321,"{'mikrotik mikrotik', 'ROUTER', 'V2.6', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1322,"{'mikrotik mikrotik', 'ROUTER', 'V2.6', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1323,"{'V3', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+1324,"{'V3', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1325,"{'V3', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1326,"{'ROUTER', 'V3.3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1327,"{'ROUTER', 'V3.3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1328,"{'ROUTER', 'V3.3', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1329,"{'V6', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.7222222222222222,"MikroTik,MikroTik | router,router | "
+1330,"{'V6', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1331,"{'V6', 'ROUTER', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1332,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'WI4SPOT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1333,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'WI4SPOT'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1334,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'WI4TOWER'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1335,"{'ROUTER', 'mikrotik mikrotik', 'MIKROTIK', 'WI4TOWER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1336,"{'ROUTER108', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1337,"{'ROUTER108', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1338,"{'ROUTER108', 'SWITCHES', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1339,"{'ROUTER108', 'SWITCHES', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1340,"{'S-1S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+1341,"{'S-1S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1342,"{'S-1S', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1343,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'S-2HND'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1344,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'S-2HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1345,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'S-2HND'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1346,"{'mikrotik mikrotik', 'SWITCH', 'S1', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1347,"{'mikrotik mikrotik', 'SWITCH', 'S1', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1348,"{'mikrotik mikrotik', 'SWITCH', 'S1', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1349,"{'SWITCH', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1350,"{'SWITCH', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1351,"{'SOLUTIONS3G', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1352,"{'SOLUTIONS3G', 'SWITCH', 'mikrotik mikrotik', 'MIKROTIK'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1353,"{'mikrotik mikrotik', 'SWITCH', 'US-8', 'MIKROTIK'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1354,"{'mikrotik mikrotik', 'SWITCH', 'US-8', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1355,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'WI4SPOT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1356,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'WI4SPOT'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1357,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'WI4TOWER'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1358,"{'SWITCH', 'mikrotik mikrotik', 'MIKROTIK', 'WI4TOWER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1359,"{'mikrotik mikrotik', 'SWITCHES', 'US-8', 'MIKROTIK'}",0.002795338235926547,0.8552631578947368,"MikroTik,MikroTik | router,router | "
+1360,"{'mikrotik mikrotik', 'SWITCHES', 'US-8', 'MIKROTIK'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1361,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1362,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1363,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'MIKROTIKRBOMNITIKU-5HND'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1364,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'OMNITIKU-5HND'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1365,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'OMNITIKU-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1366,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'OMNITIKU-5HND'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1367,"{'mikrotik mikrotik', 'ROUTER', 'OSL4', 'ROUTERBOARD'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+1368,"{'mikrotik mikrotik', 'ROUTER', 'OSL4', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1369,"{'mikrotik mikrotik', 'ROUTER', 'OSL4', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1370,"{'mikrotik mikrotik', 'ROUTER', 'QRT5', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1371,"{'mikrotik mikrotik', 'ROUTER', 'QRT5', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1372,"{'mikrotik mikrotik', 'ROUTER', 'QRT5', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1373,"{'mikrotik mikrotik', 'ROUTER', 'QRT5AC', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1374,"{'mikrotik mikrotik', 'ROUTER', 'QRT5AC', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1375,"{'mikrotik mikrotik', 'ROUTER', 'QRT5AC', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1376,"{'mikrotik mikrotik', 'R5', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1377,"{'mikrotik mikrotik', 'R5', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1378,"{'mikrotik mikrotik', 'R5', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1379,"{'RB3011', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.8904109589041096,"MikroTik,MikroTik | router,router | "
+1380,"{'RB3011', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1381,"{'RB3011', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1382,"{'RB3011UIAS', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1383,"{'RB3011UIAS', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1384,"{'RB3011UIAS', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1385,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB450'}",0.002795338235926547,0.9154929577464788,"MikroTik,MikroTik | router,router | "
+1386,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB450'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1387,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB450'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1388,"{'mikrotik mikrotik', 'ROUTER', 'RB450GX4', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1389,"{'mikrotik mikrotik', 'ROUTER', 'RB450GX4', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1390,"{'mikrotik mikrotik', 'ROUTER', 'RB450GX4', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1391,"{'mikrotik mikrotik', 'RB750R2', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.8666666666666667,"MikroTik,MikroTik | router,router | "
+1392,"{'mikrotik mikrotik', 'RB750R2', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1393,"{'mikrotik mikrotik', 'RB750R2', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1394,"{'mikrotik mikrotik', 'ROUTER', 'RB911-5HN', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1395,"{'mikrotik mikrotik', 'ROUTER', 'RB911-5HN', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1396,"{'mikrotik mikrotik', 'ROUTER', 'RB911-5HN', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1397,"{'mikrotik mikrotik', 'ROUTER', 'RB911G', 'ROUTERBOARD'}",0.002795338235926547,0.9285714285714285,"MikroTik,MikroTik | router,router | "
+1398,"{'mikrotik mikrotik', 'ROUTER', 'RB911G', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1399,"{'mikrotik mikrotik', 'ROUTER', 'RB911G', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1400,"{'mikrotik mikrotik', 'ROUTER', 'RB911G5HPACD', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1401,"{'mikrotik mikrotik', 'ROUTER', 'RB911G5HPACD', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1402,"{'mikrotik mikrotik', 'ROUTER', 'RB911G5HPACD', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1403,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB922UAGS'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1404,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB922UAGS'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1405,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB922UAGS'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1406,"{'mikrotik mikrotik', 'ROUTER', 'RB922UAGS5HPA', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1407,"{'mikrotik mikrotik', 'ROUTER', 'RB922UAGS5HPA', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1408,"{'mikrotik mikrotik', 'ROUTER', 'RB922UAGS5HPA', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1409,"{'mikrotik mikrotik', 'RB953GS', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+1410,"{'mikrotik mikrotik', 'RB953GS', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1411,"{'mikrotik mikrotik', 'RB953GS', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1412,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB953GS5HNTRP'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1413,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB953GS5HNTRP'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1414,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RB953GS5HNTRP'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1415,"{'mikrotik mikrotik', 'RBGR52HPN', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1416,"{'mikrotik mikrotik', 'RBGR52HPN', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1417,"{'mikrotik mikrotik', 'RBGR52HPN', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1418,"{'RBGRA52HPN', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1419,"{'RBGRA52HPN', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1420,"{'RBGRA52HPN', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1421,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RBM11G'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1422,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RBM11G'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1423,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'RBM11G'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1424,"{'mikrotik mikrotik', 'RBM33G', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1425,"{'mikrotik mikrotik', 'RBM33G', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1426,"{'mikrotik mikrotik', 'RBM33G', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1427,"{'mikrotik mikrotik', 'RBMETAL5SHPN', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.9420289855072463,"MikroTik,MikroTik | router,router | "
+1428,"{'mikrotik mikrotik', 'RBMETAL5SHPN', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1429,"{'mikrotik mikrotik', 'RBMETAL5SHPN', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1430,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'ROUTERBOARD-450GX4'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1431,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'ROUTERBOARD-450GX4'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1432,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'ROUTERBOARD-450GX4'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1433,"{'mikrotik mikrotik', 'ROUTER', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1434,"{'mikrotik mikrotik', 'ROUTER', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1435,"{'mikrotik mikrotik', 'ROUTER', 'SOLUTIONS3G', 'ROUTERBOARD'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1436,"{'mikrotik mikrotik', 'ROUTER', 'SOLUTIONS3G', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1437,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'U-5HND'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1438,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'U-5HND'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1439,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'U-5HND'}",0.002795338235926547,1.0,"MikroTik,MikroTik | router,router | "
+1440,"{'V6', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1441,"{'V6', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1442,"{'V6', 'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1443,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'WI4SPOT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1444,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'WI4SPOT'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1445,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'WI4TOWER'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1446,"{'mikrotik mikrotik', 'ROUTER', 'ROUTERBOARD', 'WI4TOWER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1447,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'ROUTERBOARD', 'SWITCH'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1448,"{'mikrotik mikrotik', 'SIAMOSERVIZISOLUZIONIWI4SPOTWI4TOWERISP', 'ROUTERBOARD', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1449,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'ROUTERBOARD', 'SWITCH'}",0.002795338235926547,0.9701492537313432,"MikroTik,MikroTik | router,router | "
+1450,"{'mikrotik mikrotik', 'SOLUTIONS3G', 'ROUTERBOARD', 'SWITCH'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1451,"{'mikrotik mikrotik', 'ROUTERBOARD', 'SWITCH', 'WI4SPOT'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1452,"{'mikrotik mikrotik', 'ROUTERBOARD', 'SWITCH', 'WI4SPOT'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
+1453,"{'mikrotik mikrotik', 'ROUTERBOARD', 'SWITCH', 'WI4TOWER'}",0.002795338235926547,0.9558823529411764,"MikroTik,MikroTik | router,router | "
+1454,"{'mikrotik mikrotik', 'ROUTERBOARD', 'SWITCH', 'WI4TOWER'}",0.002795338235926547,0.5,"MikroTik,MikroTik | router,router | "
