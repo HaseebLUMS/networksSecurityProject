@@ -67,7 +67,7 @@ for ip in ips:
 		tuples[tup] = 1
 		total += 1
 
-# print(vendors)
+print(len(vendors))
 
-for ele in products:
-	print(products[ele])
+# for ele in products:
+# 	print(products[ele])

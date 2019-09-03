@@ -21,7 +21,9 @@ banner_to_truth = {}
 for ele in ip_banner:
 	ban = ip_banner[ele]
 	truth = flat(ip_truth[ele])
-	banner_to_truth[ban] = truth
+	bans = ban.split(" ")
+	for b in bans:
+		banner_to_truth[b] = truth
 def st_to_list(ann):
 	ans = []
 	tmp = ""
@@ -51,7 +53,7 @@ def add_truth_to_row(row):
 	return row
 
 newFile = []
-with open('Rules1.csv') as f:
+with open('Rules2.csv') as f:
 	file = csv.reader(f, delimiter = ',')
 	count = 0
 	for row in file:
@@ -65,7 +67,7 @@ with open('Rules1.csv') as f:
 # print(newFile)
 
 
-with open('rules1.csv', mode='w') as file:
+with open('rules2.csv', mode='w') as file:
 	file_writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 	for ele in newFile:
 		file_writer.writerow(ele)

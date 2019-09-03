@@ -5,7 +5,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "1": {
         "ip": 1,
@@ -13,7 +14,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "2": {
         "ip": 2,
@@ -21,7 +23,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "3": {
         "ip": 3,
@@ -29,7 +32,8 @@
         "deviceInfo": {
             "model": "Huawei Honor 6X",
             "type": "CellPhone"
-        }
+        },
+        "protocol": "UPNP"
     },
     "4": {
         "ip": 4,
@@ -37,7 +41,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "5": {
         "ip": 5,
@@ -45,7 +50,8 @@
         "deviceInfo": {
             "model": "KW5815U",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "SSH"
     },
     "6": {
         "ip": 6,
@@ -53,7 +59,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "7": {
         "ip": 7,
@@ -61,7 +68,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "8": {
         "ip": 8,
@@ -69,7 +77,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "9": {
         "ip": 9,
@@ -77,7 +86,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "10": {
         "ip": 10,
@@ -85,7 +95,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "11": {
         "ip": 11,
@@ -93,7 +104,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "12": {
         "ip": 12,
@@ -101,7 +113,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "13": {
         "ip": 13,
@@ -109,7 +122,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "14": {
         "ip": 14,
@@ -117,7 +131,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "15": {
         "ip": 15,
@@ -125,7 +140,8 @@
         "deviceInfo": {
             "model": "",
             "type": "Laptop"
-        }
+        },
+        "protocol": "SSH"
     },
     "16": {
         "ip": 16,
@@ -133,7 +149,8 @@
         "deviceInfo": {
             "model": "HP Pavilion 15",
             "type": "Laptop"
-        }
+        },
+        "protocol": "UPNP"
     },
     "17": {
         "ip": 17,
@@ -141,7 +158,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "18": {
         "ip": 18,
@@ -149,7 +167,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "19": {
         "ip": 19,
@@ -157,7 +176,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "20": {
         "ip": 20,
@@ -165,7 +185,8 @@
         "deviceInfo": {
             "model": "",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "21": {
         "ip": 21,
@@ -173,7 +194,8 @@
         "deviceInfo": {
             "model": "",
             "type": "CellPhone"
-        }
+        },
+        "protocol": "UPNP"
     },
     "22": {
         "ip": 22,
@@ -181,7 +203,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "23": {
         "ip": 23,
@@ -189,7 +212,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "24": {
         "ip": 24,
@@ -197,7 +221,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "25": {
         "ip": 25,
@@ -205,7 +230,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "26": {
         "ip": 26,
@@ -213,7 +239,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "27": {
         "ip": 27,
@@ -221,7 +248,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "28": {
         "ip": 28,
@@ -229,7 +257,8 @@
         "deviceInfo": {
             "model": "TP-Link TL-WR841N / TL-WR841ND",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "29": {
         "ip": 29,
@@ -237,7 +266,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "30": {
         "ip": 30,
@@ -245,7 +275,8 @@
         "deviceInfo": {
             "model": "Hp Notebook",
             "type": "Laptop"
-        }
+        },
+        "protocol": "UPNP"
     },
     "31": {
         "ip": 31,
@@ -253,7 +284,8 @@
         "deviceInfo": {
             "model": "Huawei HG8245H ",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "32": {
         "ip": 32,
@@ -261,7 +293,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "33": {
         "ip": 33,
@@ -269,7 +302,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "34": {
         "ip": 34,
@@ -277,7 +311,8 @@
         "deviceInfo": {
             "model": "Gpon",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "35": {
         "ip": 35,
@@ -285,7 +320,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "36": {
         "ip": 36,
@@ -293,7 +329,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "HTTP"
     },
     "37": {
         "ip": 37,
@@ -301,7 +338,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "38": {
         "ip": 38,
@@ -309,7 +347,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "39": {
         "ip": 39,
@@ -317,7 +356,8 @@
         "deviceInfo": {
             "model": "A934",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "40": {
         "ip": 40,
@@ -325,7 +365,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "41": {
         "ip": 41,
@@ -333,7 +374,8 @@
         "deviceInfo": {
             "model": "",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "42": {
         "ip": 42,
@@ -341,7 +383,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "43": {
         "ip": 43,
@@ -349,7 +392,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "44": {
         "ip": 44,
@@ -357,7 +401,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "45": {
         "ip": 45,
@@ -365,7 +410,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "46": {
         "ip": 46,
@@ -373,7 +419,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "47": {
         "ip": 47,
@@ -381,7 +428,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "48": {
         "ip": 48,
@@ -389,7 +437,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "49": {
         "ip": 49,
@@ -397,7 +446,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "50": {
         "ip": 50,
@@ -405,7 +455,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "51": {
         "ip": 51,
@@ -413,7 +464,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "52": {
         "ip": 52,
@@ -421,7 +473,8 @@
         "deviceInfo": {
             "model": "Tenda D301",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "HTTP"
     },
     "53": {
         "ip": 53,
@@ -429,7 +482,8 @@
         "deviceInfo": {
             "model": "Tenda D301",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "54": {
         "ip": 54,
@@ -437,7 +491,8 @@
         "deviceInfo": {
             "model": "Samsung N5000",
             "type": "Smart TV"
-        }
+        },
+        "protocol": "UPNP"
     },
     "55": {
         "ip": 55,
@@ -445,7 +500,8 @@
         "deviceInfo": {
             "model": "TL-WR740N",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "56": {
         "ip": 56,
@@ -453,7 +509,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "57": {
         "ip": 57,
@@ -461,7 +518,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "58": {
         "ip": 58,
@@ -469,7 +527,8 @@
         "deviceInfo": {
             "model": "",
             "type": "Security Camera"
-        }
+        },
+        "protocol": "UPNP"
     },
     "59": {
         "ip": 59,
@@ -477,7 +536,8 @@
         "deviceInfo": {
             "model": "",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "SSH"
     },
     "60": {
         "ip": 60,
@@ -485,7 +545,8 @@
         "deviceInfo": {
             "model": "ptcl modem",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "61": {
         "ip": 61,
@@ -493,7 +554,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "62": {
         "ip": 62,
@@ -501,7 +563,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "63": {
         "ip": 63,
@@ -509,7 +572,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "64": {
         "ip": 64,
@@ -517,7 +581,8 @@
         "deviceInfo": {
             "model": "AC1350",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "SSH"
     },
     "65": {
         "ip": 65,
@@ -525,7 +590,8 @@
         "deviceInfo": {
             "model": "AC1350",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "66": {
         "ip": 66,
@@ -533,7 +599,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "67": {
         "ip": 67,
@@ -541,7 +608,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "68": {
         "ip": 68,
@@ -549,7 +617,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "HTTP"
     },
     "69": {
         "ip": 69,
@@ -557,7 +626,8 @@
         "deviceInfo": {
             "model": "wifi router",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "70": {
         "ip": 70,
@@ -565,7 +635,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "71": {
         "ip": 71,
@@ -573,7 +644,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "72": {
         "ip": 72,
@@ -581,7 +653,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "73": {
         "ip": 73,
@@ -589,7 +662,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "74": {
         "ip": 74,
@@ -597,7 +671,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "75": {
         "ip": 75,
@@ -605,7 +680,8 @@
         "deviceInfo": {
             "model": "",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "76": {
         "ip": 76,
@@ -613,7 +689,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "77": {
         "ip": 77,
@@ -621,7 +698,8 @@
         "deviceInfo": {
             "model": "",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "SSH"
     },
     "78": {
         "ip": 78,
@@ -629,7 +707,8 @@
         "deviceInfo": {
             "model": "Optix",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "79": {
         "ip": 79,
@@ -637,7 +716,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "80": {
         "ip": 80,
@@ -645,7 +725,8 @@
         "deviceInfo": {
             "model": "Huawei Mate 10",
             "type": "CellPhone"
-        }
+        },
+        "protocol": "UPNP"
     },
     "81": {
         "ip": 81,
@@ -653,7 +734,8 @@
         "deviceInfo": {
             "model": "Sagemcom FAST1704n",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "82": {
         "ip": 82,
@@ -661,7 +743,8 @@
         "deviceInfo": {
             "model": "Sagemcom FAST1704n",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "HTTP"
     },
     "83": {
         "ip": 83,
@@ -669,7 +752,8 @@
         "deviceInfo": {
             "model": "Sagemcom FAST1704n",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "SSH"
     },
     "84": {
         "ip": 84,
@@ -677,7 +761,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "85": {
         "ip": 85,
@@ -685,7 +770,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "86": {
         "ip": 86,
@@ -693,7 +779,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "87": {
         "ip": 87,
@@ -701,7 +788,8 @@
         "deviceInfo": {
             "model": "TL-WR840N",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "SSH"
     },
     "88": {
         "ip": 88,
@@ -709,7 +797,8 @@
         "deviceInfo": {
             "model": "TL-WR840N",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "89": {
         "ip": 89,
@@ -717,7 +806,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "90": {
         "ip": 90,
@@ -725,7 +815,8 @@
         "deviceInfo": {
             "model": "dell",
             "type": "Laptop"
-        }
+        },
+        "protocol": "UPNP"
     },
     "91": {
         "ip": 91,
@@ -733,7 +824,8 @@
         "deviceInfo": {
             "model": "",
             "type": "Laptop"
-        }
+        },
+        "protocol": "UPNP"
     },
     "92": {
         "ip": 92,
@@ -741,7 +833,8 @@
         "deviceInfo": {
             "model": "TL-WR845N",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "SSH"
     },
     "93": {
         "ip": 93,
@@ -749,7 +842,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "94": {
         "ip": 94,
@@ -757,7 +851,8 @@
         "deviceInfo": {
             "model": "MW301R ",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "95": {
         "ip": 95,
@@ -765,7 +860,8 @@
         "deviceInfo": {
             "model": "Home TV",
             "type": "Smart TV"
-        }
+        },
+        "protocol": "UPNP"
     },
     "96": {
         "ip": 96,
@@ -773,7 +869,8 @@
         "deviceInfo": {
             "model": "samsung u9000",
             "type": "Smart TV"
-        }
+        },
+        "protocol": "UPNP"
     },
     "97": {
         "ip": 97,
@@ -781,7 +878,8 @@
         "deviceInfo": {
             "model": "tlwr340g",
             "type": "Router/Gateway"
-        }
+        },
+        "protocol": "UPNP"
     },
     "98": {
         "ip": 98,
@@ -789,7 +887,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "99": {
         "ip": 99,
@@ -797,7 +896,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "HTTP"
     },
     "100": {
         "ip": 100,
@@ -805,7 +905,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "SSH"
     },
     "101": {
         "ip": 101,
@@ -813,7 +914,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "102": {
         "ip": 102,
@@ -821,7 +923,8 @@
         "deviceInfo": {
             "model": "qmobile",
             "type": "CellPhone"
-        }
+        },
+        "protocol": "SSH"
     },
     "103": {
         "ip": 103,
@@ -829,7 +932,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "104": {
         "ip": 104,
@@ -837,7 +941,8 @@
         "deviceInfo": {
             "model": "",
             "type": ""
-        }
+        },
+        "protocol": "UPNP"
     },
     "105": {
         "ip": 105,
@@ -845,7 +950,8 @@
         "deviceInfo": {
             "model": "camera",
             "type": "Security Camera"
-        }
+        },
+        "protocol": "UPNP"
     },
     "106": {
         "ip": 106,
@@ -853,6 +959,7 @@
         "deviceInfo": {
             "model": "Macbook pro",
             "type": "Laptop"
-        }
+        },
+        "protocol": "UPNP"
     }
 }

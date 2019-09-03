@@ -20,6 +20,9 @@ data = json.loads(data)
 
 ff = "IP,BANNER,ZTAG DEVICE,ZTAG VENDOR,ZTAG PRODUCT,NMAP DEVICE,NMAP VENDOR\n"
 
+devices = set({})
+vendors = set({})
+products = set({})
 
 for ele in data:
 	tmp = ""
@@ -45,10 +48,25 @@ for ele in data:
 	try: banner = bannersMap[ip]
 	except: pass
 
+	# if nmap_device.lower() == " ":
+	# 	devices.add(ztag_device)
+	# if ztag_device.lower() == " ":
+	# 	devices.add(nmap_device)
+	# if (nmap_device.lower() != " ") and ztag_device.lower() in nmap_device.lower():
+	# 	devices.add(nmap_device)
+	# if ztag_vendor.lower() != " " or nmap_vendor.lower() == " ":
+	# 	vendors.add(ztag_vendor)
+	# if nmap_vendor.lower() != " ":
+	# 	if nmap_vendor.lower() in ztag_vendor.lower():
+	# 		vendors.add(nmap_vendor)
+	# 	if ztag_vendor.lower() == " ":
+	# 		vendors.add(nmap_vendor)
+	products.add(ztag_product)
+
 	banner = "\""+check(banner)+"\""
 	tmp += (ip+','+banner+','+ztag_device+','+ztag_vendor+','+ztag_product+','+nmap_device+','+nmap_vendor + '\n')
 	ff += tmp
 
-print(ff)
-
-with open('file_1.csv', 'w') as f: f.write(ff)
+# print(ff)
+print(len(products))
+with open('file_2.csv', 'w') as f: f.write(ff)
