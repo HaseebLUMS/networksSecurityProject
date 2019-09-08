@@ -1,0 +1,31 @@
+{
+    "banner": "220 JOSE_GARRIDO_SANLORENZO-71 FTP server (MikroTik 6.43.8) ready\r\n",
+    "queries": [
+        "mikrotik",
+        "jose_garrido_sanlorenzo-71",
+        "jose_garrido_sanlorenzo-71 mikrotik"
+    ],
+    "refined banner": "jose_garrido_sanlorenzo-71 mikrotik",
+    "pages": [
+        "https://www.abc.es/cultura/toros/abci-directo-sorteados-toros-para-mano-mano-entre-curro-diaz-y-jose-garrido-ventas-201610011314_directo.html",
+        "http://www.zimbio.com/photos/Jose+Garrido/Day+2+San+Fermin+Running+Bulls+2018/wsUlwMc_erF",
+        "http://arturvc.net.br/rededisponivel/",
+        "http://arturvc.net.br/rededisponivel/nomes.html",
+        "http://www.fundacionladulce.org.ar/cooperativismo/",
+        "https://www.scribd.com/doc/226742727/PCAB-CFY-2012-2013-List-of-Contractors-as-of-04-December-2012",
+        "http://alextudell.ru/ufRFeJ",
+        "http://alextudell.ru/ltgWN2",
+        "https://www.loot.co.za/index/html/index1555.html",
+        "https://www.loot.co.za/index/html/index3516.html"
+    ],
+    "annotations": [
+        "MIKROTIK"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 1,
+        "ner_vends": 10,
+        "ner_prods": 7,
+        "ld_dv": 0,
+        "ld_dvp": 0
+    }
+}

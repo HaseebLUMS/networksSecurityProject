@@ -1,0 +1,33 @@
+{
+    "banner": "220 karaam FTP server (MikroTik 6.45.2) ready\r\n",
+    "queries": [
+        "karaam",
+        "mikrotik",
+        "karaam mikrotik"
+    ],
+    "refined banner": "karaam mikrotik",
+    "pages": [
+        "https://forum.mikrotik.com/viewtopic.php?t=51565",
+        "https://forum.mikrotik.com/viewtopic.php?t=77099",
+        "https://forum.mikrotik.com/viewtopic.php?t=90211",
+        "https://forum.mikrotik.com/viewtopic.php?t=43389",
+        "https://people.bayt.com/pascal-karam/?source=similler_people_box",
+        "https://www.indiamart.com/proddetail/mikrotik-rj45-sfp-copper-module-1-25g-16501709962.html",
+        "https://www.indiamart.com/proddetail/10g-sfp-bidi-pair-40-km-sfp-module-optical-transceiver-compatible-cisco-juniper-hp-huawei-mikrotik-21010552288.html",
+        "https://www.indusuno.com/mikrotik-1-ports-router-sxt-hg5-ac-iu-ite-2000.html",
+        "https://www.grotal.com/Hyderabad/Mikrotik-Router-Boards-C70/",
+        "http://harisetyabudi.jagooweb.com/blog/tutorial-setting-hotspot-di-mikrotik/"
+    ],
+    "annotations": [
+        "MIKROTIK",
+        "STAR | ROUTER",
+        "IVEN | FIREWALL"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 4,
+        "ner_vends": 22,
+        "ner_prods": 153,
+        "ld_dv": 2,
+        "ld_dvp": 0
+    }
+}

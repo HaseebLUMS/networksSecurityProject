@@ -1,0 +1,51 @@
+{
+    "banner": "220 FTP Server (ZyWALL USG 20) [::ffff:223.166.84.3]\r\n",
+    "queries": [
+        "usg",
+        "zywall",
+        "zywall usg",
+        "::ffff:223.166.84.3",
+        "usg ::ffff:223.166.84.3",
+        "zywall ::ffff:223.166.84.3"
+    ],
+    "refined banner": "zywall usg ::ffff:223.166.84.3",
+    "pages": [
+        "https://www.zyxel.com/promotions/ZyWALL-Series-or-USG-Series--Which-Is-for-You--20130910-797138.shtml",
+        "https://www.zyxel.com/us/en/promotions/ZyWALL-Series-or-USG-Series--Which-Is-for-You--20130910-797138.shtml",
+        "https://www.zyxel.com/me/en/promotions/ZyWALL-Series-or-USG-Series--Which-Is-for-You--20130910-797138.shtml",
+        "https://www.zyxel.com/products_services/Unified-Security-Gateway-USG40-40W-60-60W/",
+        "https://www.zyxel.com/products_services/smb-security_firewalls.shtml?t=c",
+        "https://www.amazon.com/Internet-Security-Firewall-Dual-WAN-Gigabit/dp/B0042WCFI2",
+        "http://www.zyxelguard.com/ZyWALL-USG300.asp",
+        "http://www.zyxelguard.com/ZyWALL-USG100.asp",
+        "https://www.cnet.com/products/zyxel-zywall-usg-100-security-appliance-series/specs/",
+        "https://github.com/threat9/routersploit/blob/master/routersploit/modules/exploits/routers/zyxel/zywall_usg_extract_hashes.py"
+    ],
+    "annotations": [
+        "VAI | FIREWALL",
+        "VIA | NETWORK",
+        "VAI | FIREWALL",
+        "VIA | NETWORK",
+        "VAI | FIREWALL",
+        "VIA | NETWORK",
+        "NEC | FIREWALL",
+        "NEC | FIREWALL | L2TP",
+        "NEC | NETWORK",
+        "NEC | NETWORK | L2TP",
+        "NEC | NETWORK",
+        "NEC | NETWORK | USG50",
+        "NEC | NETWORK | L2TP",
+        "NEC | NETWORK",
+        "NEC | NETWORK | RJ45",
+        "NEC | NETWORK | L2TP",
+        "NEC | NETWORK",
+        "NEC | NETWORK | L2TP"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 21,
+        "ner_vends": 30,
+        "ner_prods": 443,
+        "ld_dv": 6,
+        "ld_dvp": 7
+    }
+}

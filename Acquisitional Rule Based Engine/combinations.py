@@ -18,8 +18,8 @@ from itertools import chain, combinations
 def powerset(iterable):
     s = list(iterable)
     limit = len(s)
-    if len(s) > 10:
-    	limit = 10
+    if len(s) > 2:
+    	limit = 2
     return chain.from_iterable(combinations(s, r) for r in range(limit+1))
 
 

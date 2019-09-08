@@ -1,0 +1,9 @@
+{
+    "banner": "220 MikroTik FTP server (MikroTik 6.34.6) ready\r\n",
+    "queries": [
+        "mikrotik",
+        "mikrotik mikrotik"
+    ],
+    "refined banner": "mikrotik mikrotik",
+    "num": 11
+}

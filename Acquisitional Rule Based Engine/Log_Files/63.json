@@ -1,0 +1,34 @@
+{
+    "banner": "220 Nagiec Pawel FTP server (MikroTik 6.22) ready\r\n",
+    "queries": [
+        "pawel",
+        "nagiec",
+        "mikrotik",
+        "nagiec pawel",
+        "pawel mikrotik",
+        "nagiec mikrotik"
+    ],
+    "refined banner": "nagiec pawel mikrotik",
+    "pages": [
+        "https://www.1881.no/person/gjoevik/bybrua/pawel-nagiec_33511085S1/",
+        "https://www.yelp.com/biz/us%C5%82ugi-le%C5%9Bne-pawe%C5%82-nagi%C4%99%C4%87-k%C4%99pno",
+        "https://rejestr.io/krs/osoby/731610",
+        "https://gazetakrakowska.pl/tag/arkadiusz-nagiec",
+        "https://www.imsig.pl/szukaj?imiona=ARKADIUSZ_PAWE%C5%81&nazwisko=NAGI%C4%98%C4%86&rok=77&strona=1",
+        "http://www.infoveriti.pl/osoba-krs/Nagiec-Arkadiusz-Pawel/d8a40bb09d4982be88cd948196c3f63e.html",
+        "http://www.osoby-krs.pl/Nagiec,Arkadiusz,Pawel,d8a40bb09d4982be88cd948196c3f63e.html",
+        "http://www.krs-online.com.pl/msig-5279-217498.html",
+        "http://www.krs-online.com.pl/msig-5672-71483.html",
+        "https://fil.yelp.com.ph/biz/us%C5%82ugi-le%C5%9Bne-pawe%C5%82-nagi%C4%99%C4%87-k%C4%99pno"
+    ],
+    "annotations": [
+        "MIKROTIK"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 0,
+        "ner_vends": 3,
+        "ner_prods": 40,
+        "ld_dv": 0,
+        "ld_dvp": 0
+    }
+}

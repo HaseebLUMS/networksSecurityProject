@@ -1,6 +1,8 @@
 import re
 selected_text = []
 
+url_to_ner_and_ld_cache = {}
+
 ''' Separate the lines of 
 the text and makes a list
 '''
@@ -116,45 +118,67 @@ def find_pattern(rawData):
 
 
 def find_annotations(banner, url_to_page_dictionary, devices, vendors):
-	annotations = []
 
-	pages_data = banner + " \n"
+	# pages_data = banner + " \n"
+	# for ele in url_to_page_dictionary:
+	# 	pages_data += (url_to_page_dictionary[ele] + " \n")
+
+	global_ans = {
+		'annotations':[],
+		'ner_devs':0,
+		'ner_vends':0,
+		'ner_prods':0,
+		'ld_dv':0,
+		'ld_dvp':0,
+	}
+
 	for ele in url_to_page_dictionary:
-		pages_data += (url_to_page_dictionary[ele] + " \n")
+		if ele not in url_to_ner_and_ld_cache:
+			annotations = []
+			pages_data = url_to_page_dictionary[ele]
 
+			tags = find_pattern(pages_data)
+			non_linefied_pages_data = pages_data
+			pages_data = linefy_text(pages_data)
+			
+			#It is superfluous, No need of NER(devices, vendors) at all
+			ner_vends = list(filter(lambda x: x in non_linefied_pages_data, vendors))
+			ner_devs = list(filter(lambda x: x in non_linefied_pages_data, devices))
+			vendors = ner_vends
+			devices = ner_devs
+			# print(len(vendors), len(devices), 'll')
 
-	tags = find_pattern(pages_data)
-	non_linefied_pages_data = pages_data
-	pages_data = linefy_text(pages_data)
-	
-	#It is superfluous, No need of NER(devices, vendors) at all
-	ner_vends = list(filter(lambda x: x in non_linefied_pages_data, vendors))
-	ner_devs = list(filter(lambda x: x in non_linefied_pages_data, devices))
-	vendors = ner_vends
-	devices = ner_devs
-	# print(len(vendors), len(devices), 'll')
+			partial_annotations = find_dependency(pages_data, vendors, devices)
+			# print(partial_annotations)
+			
+			ld_dv = 0
+			ld_dvp = 0
+			for ann in partial_annotations:
+				v = ann['vendor']
+				d = ann['device_type']
+				print(ann)
+				products = find_product(selected_text, v, d, tags)
 
-	partial_annotations = find_dependency(pages_data, vendors, devices)
-	# print(partial_annotations)
-	
-	ld_dv = 0
-	ld_dvp = 0
-	for ann in partial_annotations:
-		v = ann['vendor']
-		d = ann['device_type']
-		print(ann)
-		products = find_product(selected_text, v, d, tags)
+				annotation_temp = v + " | " + d
+				annotations.append(annotation_temp.upper())
+				ld_dv += 1
+				for p in products:
+					annotation = annotation_temp + " | " + p
+					annotations.append(annotation.upper())
+					ld_dvp += 1
+				if len(products): ld_dv -= 1
 
-		annotation_temp = v + " | " + d
-		annotations.append(annotation_temp.upper())
-		ld_dv += 1
-		for p in products:
-			annotation = annotation_temp + " | " + p
-			annotations.append(annotation.upper())
-			ld_dvp += 1
-		if len(products): ld_dv -= 1
-
-
-	return {'annotations': annotations, 'ner_devs': len(ner_devs), 'ner_vends': len(ner_vends), 'ner_prods': len(tags), 'ld_dv':ld_dv, 'ld_dvp': ld_dvp}
-	
+			ans = {'annotations': annotations, 'ner_devs': len(ner_devs), 'ner_vends': len(ner_vends), 'ner_prods': len(tags), 'ld_dv':ld_dv, 'ld_dvp': ld_dvp}
+			url_to_ner_and_ld_cache[ele] = ans
+		else:
+			print('Cache Hit: ', ele)
+			ans = url_to_ner_and_ld_cache[ele]
+		
+		global_ans['annotations'].extend(ans['annotations'])
+		global_ans['ner_devs'] += ans['ner_devs']
+		global_ans['ner_vends'] += ans['ner_vends']
+		global_ans['ner_prods'] += ans['ner_prods']
+		global_ans['ld_dv'] += ans['ld_dv']
+		global_ans['ld_dvp'] += ans['ld_dvp']
+	return global_ans
 

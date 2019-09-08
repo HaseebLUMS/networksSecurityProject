@@ -28,6 +28,7 @@ def in_database(word, devices, vendors):
 
 
 def remove_dates(data):
+	#has some bugs, (not severe)
 	data = data.lower()
 	db = [' jan ', ' feb ', ' mar ', ' apr ', ' may ', ' jun ', ' jul ', ' aug ', ' sep ', ' oct ', ' nov ', ' dec ', ' sun ', ' mon ', ' tue ', ' wed ', ' thu ', ' fri ', ' sat ']
 	for ele in db:
@@ -38,7 +39,7 @@ def remove_dates(data):
 def trim(k):
 	f = False
 	l = False
-	extra = ["(", ")", "{", "}", "[", "]", "!", "\"", "'", ","]
+	extra = ["(", ")", "{", "}", "[", "]", "!", "\"", "'", ",", ":"]
 	for ele in extra:
 		if k[0] is ele:
 			f = True
@@ -196,11 +197,13 @@ def refine_query(q, mode, devices, vendors):
 	if mode == 1 or mode == 2:
 		q = q.replace('\\r', " ")
 		q = q.replace('\\n', " ")
+		q = q.replace('\\t', " ")
 		q = q.replace("  ", " ")
 		q = q.replace('\r', " ")
 		q = q.replace('\n', " ")
+		q = q.replace('\t', " ")
 		q = q.replace("  ", " ")
-	
+		q = ' '.join(q.split())
 
 	keywords = q.split(" ")
 	res = ""
@@ -219,14 +222,18 @@ def refine_query(q, mode, devices, vendors):
 				if k.isdigit() is True: continue
 			res += (" " + k)
 
-				
+	
+	try: 
+		if res[0] == " ": res = res[1:]
+	except: pass
+
 	if mode == 2:
 		return res.lower()
 	
 	if mode == 1:
 		result = res.lower()
-		# result = generate_queries(result)
-		result = [result]
+		result = generate_queries(result)
+		# result = [result]
 		return result
 
 

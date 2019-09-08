@@ -17,15 +17,14 @@ from multiprocessing.pool import ThreadPool
 # 	return all_items 
 
 def main():
-	# with open('./Log_Files/old_banners.json') as f: BANNERS = json.loads(f.read())
-	# ref_banners = {}
-	# for i, ele in enumerate(BANNERS):
-	# 	ref = ARE([BANNERS[ele], i])
-	# 	if len(ref) >= 1 and ref[0] == " ":
-	# 		ref = ref[1:]
-	# 	ref_banners[ele] = ref
-	# with open('./Log_Files/ref_banners.json', 'w') as f: f.write(json.dumps(ref_banners, indent=4))
-	ARE(['Welcome to MikroTik router MikroTik', 0])
+	with open('./Log_Files/FTP.json') as f: data = json.loads(f.read())
+	BANNERS = list(map(lambda x: data[x], data))
+	BANNERS = list(filter(lambda x: ('filezilla' not in x.lower()) and ('serve-u' not in x.lower()), BANNERS))
+	BANNERS = BANNERS[43:]
+	count = 43
+	for ban in BANNERS:
+		ARE([ban, count])
+		count += 1
 start = time.time()
 main()
 end = time.time()

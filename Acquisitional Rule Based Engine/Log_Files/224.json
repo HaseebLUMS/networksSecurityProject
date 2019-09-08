@@ -1,0 +1,29 @@
+{
+    "banner": "220 DSL-EasyBox 803 FTP Server v30.05.233 ready\r\n",
+    "queries": [
+        "v30.05.233",
+        "dsl-easybox",
+        "dsl-easybox v30.05.233"
+    ],
+    "refined banner": "dsl-easybox v30.05.233",
+    "pages": [
+        "https://www.cleancss.com/router-default/Vodafone/DSL-EasyBox_803",
+        "https://www.cleancss.com/router-default/VODAFONE/DSL-EASYBOX_802",
+        "https://openwrt.org/toh/astoria/arv752dpw22",
+        "https://wikidevi.com/wiki/Vodafone_DSL-EasyBox_903",
+        "https://fofa.so/hosts/92.72.4.6",
+        "https://fofa.so/result?qbase64=aXA9IjkyLjcyLjQuNiI%3D&full=true",
+        "https://zeldor.biz/2011/10/vodafone-easybox-802/"
+    ],
+    "annotations": [
+        "VODAFONE | MODEM",
+        "VODAFONE | ROUTER"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 2,
+        "ner_vends": 8,
+        "ner_prods": 1128,
+        "ld_dv": 2,
+        "ld_dvp": 0
+    }
+}

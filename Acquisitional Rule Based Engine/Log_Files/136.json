@@ -1,0 +1,61 @@
+{
+    "banner": "220 Welcome to ASUS DSL-AC87VG FTP service.\r\n",
+    "queries": [
+        "asus",
+        "dsl-ac87vg",
+        "asus dsl-ac87vg"
+    ],
+    "refined banner": "asus dsl-ac87vg",
+    "pages": [
+        "https://www.asus.com/Networking/DSL-AC87VG/",
+        "https://www.amazon.co.uk/AC2400-VoIP-Gigabit-3-0-Ports-answering-machine/dp/B01KZQFZAI",
+        "https://wikidevi.com/wiki/ASUS_DSL-AC87VG",
+        "https://www.ebay.com/c/27017592654",
+        "https://www.computeruniverse.net/en/asus-dsl-ac87vg-voip-ac2400",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/5109276_-dsl-ac87vg-asus.html",
+        "https://www.skroutz.gr/s/10001431/Asus-DSL-AC87VG.html",
+        "https://www.routerdefaults.org/asus/dsl-ac87vg",
+        "https://forums.whirlpool.net.au/archive/2571498",
+        "https://access-pointy.heureka.cz/asus-dsl-ac87vg/"
+    ],
+    "annotations": [
+        "ASUS",
+        "SECO | NETWORK",
+        "SECO | ROUTER",
+        "CONST | NETWORK",
+        "NEC | NETWORK",
+        "NEC | NETWORK | RJ-11",
+        "NEC | PHONE",
+        "NEC | PHONE | RJ-11",
+        "NEC | ROUTER",
+        "NEC | ROUTER | RJ-11",
+        "NEC | SWITCH",
+        "NEC | SWITCH | RJ-11",
+        "HP | NETWORK",
+        "RTI | NETWORK",
+        "DASHBOARD | NETWORK",
+        "NEC | MODEM",
+        "NEC | MODEM | AC1200",
+        "NEC | MODEM | RJ-11",
+        "NEC | PHONE",
+        "NEC | PHONE | AC1200",
+        "NEC | PHONE | RJ-11",
+        "NEC | ROUTER",
+        "NEC | ROUTER | AC1200",
+        "NEC | ROUTER | RJ-11",
+        "NEC | SWITCH",
+        "NEC | SWITCH | AC1200",
+        "NEC | SWITCH | RJ-11",
+        "RTI | NETWORK",
+        "RTI | NETWORK | AC1200",
+        "NEC | PHONE",
+        "NEC | PHONE | RJ45"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 20,
+        "ner_vends": 27,
+        "ner_prods": 832,
+        "ld_dv": 6,
+        "ld_dvp": 14
+    }
+}

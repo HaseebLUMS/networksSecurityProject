@@ -1,0 +1,44 @@
+{
+    "banner": "220 Infantilandia RB2011 FTP server (MikroTik 6.42.6) ready\r\n",
+    "queries": [
+        "rb2011",
+        "mikrotik",
+        "infantilandia",
+        "rb2011 mikrotik",
+        "infantilandia rb2011",
+        "infantilandia mikrotik"
+    ],
+    "refined banner": "infantilandia rb2011 mikrotik",
+    "pages": [
+        "https://mikrotik.com/product/RB2011UiAS-2HnD-IN",
+        "https://mikrotik.com/product/RB2011UiAS-RM",
+        "https://mikrotik.com/product/RB2011UiAS-IN",
+        "https://mikrotik.com/product/RBWMK",
+        "https://mikrotik.com/product/RB2011iL-IN",
+        "https://mikrotik.com/product/RB2011UiAS-2HnD",
+        "https://www.amazon.com/Mikrotik-Routerboard-RB2011UiAS-2HnD-Port-Ethernet/dp/B00BGIXOHQ",
+        "https://www.balticnetworks.com/mikrotik-routerboard-rb-2011uias-2hnd-in-complete-with-case-antennas-power-supply-touchscreen-lcd-panel-fiber-enabled.html",
+        "http://www.dreamsnw.com/rb2011uias-2hnd-in-mikrotik-routerboard-rb2011",
+        "https://openwrt.org/toh/mikrotik/rb2011uias",
+        "https://www.skorohodvideo.ru/video/IUVAOKOZ7vg",
+        "https://videolika.ru/sitemap/video/70-5.xml",
+        "https://videosite7.ru/video/BTbaQuPdNW0",
+        "https://tamageviyy.gq/?qgxao=c5f663a8db7",
+        "https://tungtingtare.ga/descarga-de-la-cancion-del-oso-de-peluche-pagalworld",
+        "https://musica.streamingvideo.me/video/download-pizzer-a-de-peppa-pig-juguetes-de-cocina",
+        "http://xaitoni.ml/1535304.jsp",
+        "https://www.skorohodvideo.ru/video/IUVAOKOZ7vg",
+        "https://mp3.webseriesindo.com/download-mario-stop-motion-3ds-escape-2011",
+        "https://soundcloud.omote.me/watch/8vFvPqXjeSc"
+    ],
+    "annotations": [
+        "MIKROTIK"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 21,
+        "ner_vends": 35,
+        "ner_prods": 309,
+        "ld_dv": 0,
+        "ld_dvp": 0
+    }
+}

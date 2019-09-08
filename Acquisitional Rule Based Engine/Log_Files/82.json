@@ -1,0 +1,55 @@
+{
+    "banner": "220 Zubek Michal FTP server (MikroTik 6.42.7) ready\r\n",
+    "queries": [
+        "zubek",
+        "michal",
+        "mikrotik",
+        "zubek michal",
+        "zubek mikrotik",
+        "michal mikrotik"
+    ],
+    "refined banner": "zubek michal mikrotik",
+    "pages": [
+        "https://www.eliteprospects.com/player/172200/michal-zubek",
+        "https://pokerdb.thehendonmob.com/player.php?a=r&n=448876",
+        "https://kangur.uek.krakow.pl/?q=pl/korzystanie-z-biblioteki/pracownicy-naukowi/doktoraty/praca-doktorska-do-wgl%C4%85du-mgr-micha%C5%82-zubek",
+        "https://www.pictame.com/user/michal_zubek/1101170757",
+        "https://www.instagram.com/michal_zubek/",
+        "https://admin.sgh.waw.pl/ksiazka/ksiazka.php?u=mzubek",
+        "http://www.insgain.com/user/michal__zubek/2112818768",
+        "https://www.pinterest.com/michal1141/",
+        "https://www.legacy.com/obituaries/thestar/obituary.aspx?n=michael-wayne-zubek&pid=189657784",
+        "https://zrzutka.pl/en/profil/michal-zubek-554455",
+        "https://www.podnikatel.cz/rejstrik/martin-zubek-66732972/",
+        "https://es.scribd.com/document/36927950/Japanese-Puzzle",
+        "http://sgba-resource.ca/fr/?p=1",
+        "https://www.cylex-polska.pl/ruda-slaska/telekomunikacja+-+systemy.html",
+        "https://www.cylex-polska.pl/gliwice/alcatel.html",
+        "https://www.loot.co.za/index/html/index1115.html",
+        "https://www.loot.co.za/index/html/index4569.html",
+        "https://forum.mista.ru/topic.php?id=719737",
+        "https://bogorkota.jabar.polri.go.id/koordinasi-pengamanan-aksi-unjuk-rasa-karyawan-kapolres-bogor-kota-sambangi-pdam-kota-bogor/",
+        "https://docplayer.net/85590031-Book-of-abstracts-of-the-50th-anniversary-egas-conference.html",
+        "https://mikrotik.com/consultants",
+        "https://mikrotik.com/product/gpen11",
+        "https://mikrotik.com/product/48POW",
+        "https://mikrotik.com/product/RB951Ui-2HnD",
+        "https://www.scribd.com/document/111362502/Mikrotik-Winbox",
+        "https://mwtc.pl/",
+        "https://community.particle.io/t/mikrotik-routeros-wifi-connection-problems/1106",
+        "http://www.blog.hnatyszyn.pl/category/mikrotik/",
+        "http://community.onion.io/uid/1292",
+        "https://www.cyberbajt.com/"
+    ],
+    "annotations": [
+        "MIKROTIK",
+        "RECT | PDA"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 2,
+        "ner_vends": 7,
+        "ner_prods": 1740,
+        "ld_dv": 1,
+        "ld_dvp": 0
+    }
+}

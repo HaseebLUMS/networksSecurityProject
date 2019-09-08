@@ -1,0 +1,8 @@
+{
+    "banner": "220 Net One 02 FTP server (MikroTik 6.43.4) ready\r\n",
+    "queries": [
+        "mikrotik"
+    ],
+    "refined banner": "mikrotik",
+    "num": 146
+}

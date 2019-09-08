@@ -1,0 +1,56 @@
+{
+    "banner": "220 AXIS 211 Network Camera 4.30 (Sep 30 2005) ready.\r\n",
+    "queries": [
+        "sep",
+        "axis",
+        "camera",
+        "network",
+        "axis sep",
+        "camera sep",
+        "axis camera",
+        "network sep",
+        "axis network",
+        "network camera"
+    ],
+    "refined banner": "axis network camera sep",
+    "pages": [
+        "https://support.symantec.com/en_US/article.TECH92950.html",
+        "https://www.acronymfinder.com/Sequential-Exchange-Protocol-(computer-networking)-(SEP).html",
+        "https://en.m.wikipedia.org/wiki/Symantec_Endpoint_Protection",
+        "https://support.symantec.com/us/en/article.tech154475.html",
+        "https://support.symantec.com/us/en/article.tech154475.html",
+        "https://support.symantec.com/us/en/article.howto101774.html",
+        "https://www.symantec.com/security_response/definitions/download/detail.jsp?gid=sep",
+        "https://www.acronymfinder.com/Sequential-Exchange-Protocol-(computer-networking)-(SEP).html",
+        "https://10play.com.au/toasted-tv/episodes/season-13/toasted-tv-08-sep-2019-5-of-6/tpv190904pytes",
+        "https://10play.com.au/toasted-tv/episodes/season-13/toasted-tv-08-sep-2019-6-of-6/tpv190905tovep",
+        "https://www.axisnetwork.co.uk/",
+        "https://www.axis.com/",
+        "https://www.axis.com/en-us/products/network-cameras",
+        "https://www.axis.com/products/audio",
+        "https://www.axis.com/en",
+        "https://www.axis.com/about-axis",
+        "https://www.axis.com/products/network-cameras",
+        "https://en.wikipedia.org/wiki/Axis_Communications",
+        "https://en.wikipedia.org/wiki/Axis_Communications#Network_cameras",
+        "https://en.wikipedia.org/wiki/Lund"
+    ],
+    "annotations": [
+        "CAMERA",
+        "NETWORK",
+        "AXIS",
+        "AXIS | CAMERA",
+        "AXIS | NETWORK",
+        "VAI | NETWORK",
+        "INFOR | NETWORK",
+        "NEC | NETWORK",
+        "RTI | PDA"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 5,
+        "ner_vends": 11,
+        "ner_prods": 265,
+        "ld_dv": 4,
+        "ld_dvp": 0
+    }
+}

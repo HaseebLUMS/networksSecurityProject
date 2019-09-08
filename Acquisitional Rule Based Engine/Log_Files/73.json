@@ -1,0 +1,31 @@
+{
+    "banner": "220 Sitio-toca-dos-coelhos FTP server (MikroTik 6.41.3) ready\r\n",
+    "queries": [
+        "mikrotik",
+        "sitio-toca-dos-coelhos",
+        "sitio-toca-dos-coelhos mikrotik"
+    ],
+    "refined banner": "sitio-toca-dos-coelhos mikrotik",
+    "pages": [
+        "https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-S%C3%ADtio_Toca_dos_Coelhos-Belo_Horizonte-site_33169082-843",
+        "http://arturvc.net.br/rededisponivel/nomes.html",
+        "http://arturvc.net.br/rededisponivel/",
+        "http://www.piterge.ru/goto.php?url=kerpiotiti11.info/1667/90280.html",
+        "http://www.piterge.ru/goto.php?url=verooopsl2.website/1667/920731219.html",
+        "https://issuu.com/faculdadessantoagostinho/docs/anais_f__rum_integrado_de_ensino__p",
+        "http://gek.globewebguru.com/4251.html",
+        "http://gek.globewebguru.com/4314.html",
+        "http://www.sefincaucaia.com.br/site/tabelas/CADECO.SFC",
+        "https://eng.registro.br/pipermail/gter/2011-March.txt"
+    ],
+    "annotations": [
+        "MIKROTIK"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 1,
+        "ner_vends": 9,
+        "ner_prods": 4,
+        "ld_dv": 0,
+        "ld_dvp": 0
+    }
+}

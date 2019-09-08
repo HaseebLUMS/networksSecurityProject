@@ -1,0 +1,33 @@
+{
+    "banner": "220 RB532-Omni-Panell FTP server (MikroTik 5.26) ready\r\n",
+    "queries": [
+        "mikrotik",
+        "rb532-omni-panell",
+        "rb532-omni-panell mikrotik"
+    ],
+    "refined banner": "rb532-omni-panell mikrotik",
+    "pages": [
+        "https://mikrotik.com/products",
+        "https://mikrotik.com/product/RBOmniTikU-5HnDr2",
+        "https://mikrotik.com/product/RBOmniTikUPA-5HnDr2",
+        "https://mikrotik.com/product/rbomnitikg_5hacd",
+        "https://forum.mikrotik.com/viewtopic.php?t=7142",
+        "https://forum.mikrotik.com/viewtopic.php?t=13472",
+        "https://www.itshopp.com/product/2317/mikrotik-18pow-power-supply-24v-19w-routerboards-",
+        "http://www.mikrotik-hrvatska.com/products_new.html?page=22&disp_order=4",
+        "http://routerboard1.rssing.com/chan-12621522/all_p3.html",
+        "https://adoc.tips/mikrotik-training-basic-certified-mikrotik-training-basic-cl32676ad68d0fa391bb0991e08b4b701319757.html"
+    ],
+    "annotations": [
+        "MIKROTIK",
+        "NEC | MODEM",
+        "NEC | MODEM"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 14,
+        "ner_vends": 37,
+        "ner_prods": 787,
+        "ld_dv": 2,
+        "ld_dvp": 0
+    }
+}

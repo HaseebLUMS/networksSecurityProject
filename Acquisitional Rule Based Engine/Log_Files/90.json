@@ -1,0 +1,25 @@
+{
+    "banner": "220 Frantisek_Lebeda FTP server (MikroTik 6.44.3) ready\r\n",
+    "queries": [
+        "mikrotik",
+        "frantisek_lebeda",
+        "frantisek_lebeda mikrotik"
+    ],
+    "refined banner": "frantisek_lebeda mikrotik",
+    "pages": [
+        "https://www.podnikatel.cz/rejstrik/osoby/lenka-karelova-2183707/",
+        "https://www.podnikatel.cz/insolvencni-rejstrik/ins-18325-2017/"
+    ],
+    "annotations": [
+        "MIKROTIK",
+        "STAR | NAS",
+        "STAR | NAS"
+    ],
+    "pipeline_numbers": {
+        "ner_devs": 3,
+        "ner_vends": 12,
+        "ner_prods": 0,
+        "ld_dv": 2,
+        "ld_dvp": 0
+    }
+}
