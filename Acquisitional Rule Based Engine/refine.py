@@ -3,6 +3,7 @@ import enchant
 import sys
 from combinations import generate_queries
 from spellchecker import SpellChecker
+from devices import hyphenedDevices
 spell = SpellChecker
 
 '''
@@ -152,11 +153,18 @@ the html tags from the banner data
 '''
 
 def refine_query(q, mode, devices, vendors):
+	hyphened_devices = hyphenedDevices()
+	q = q.lower()
+	for ele in hyphened_devices:
+		q = q.replace(ele[0], ele[1])
+	#did not need to do above step for vendors in our experiment
+	#so I haven't done it for making it faster
 	d = enchant.Dict('en_US')
-
 	# if 'upnp' in q.lower():
 	# q = upnpRefine(q.lower())
-
+	q = re.sub(r"[^\x00-\x7F]+", " ", q) #for \ufff etc. 
+	q = q.rstrip('\0')
+	
 	q = remove_http_codes(q, http_codes)
 	q = remove_dates(q)
 	
@@ -217,7 +225,8 @@ def refine_query(q, mode, devices, vendors):
 	
 	if mode == 1:
 		result = res.lower()
-		result = generate_queries(result)
+		# result = generate_queries(result)
+		result = [result]
 		return result
 
 
