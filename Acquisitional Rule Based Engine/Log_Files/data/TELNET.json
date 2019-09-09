@@ -1,1234 +1,746 @@
 {
     "0": {
-        "ip": "115.42.162.129",
-        "banner": "Authorized access only!\r\n Disconnect IMMEDIATELY if you are not an authorized user!\r\n\r\nUser Access Verification\r\n\r\nUsername: "
+        "ip": "210.56.10.162",
+        "banner": "\r\nMikroTik v5.20\r\nLogin: "
     },
     "1": {
-        "ip": "195.136.93.130",
+        "ip": "113.160.154.52",
         "banner": "\n\r\n\r\rAccount:"
     },
     "2": {
-        "ip": "83.139.64.61",
-        "banner": "\r\n\r\n\r\n\r\n\r\nusername: "
+        "ip": "84.8.19.65",
+        "banner": "\n\r\n\r\rAccount:"
     },
     "3": {
-        "ip": "110.49.97.1",
-        "banner": "\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "4": {
-        "ip": "197.50.61.54",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 25 min 11 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
-    },
-    "5": {
-        "ip": "113.160.249.157",
-        "banner": "\r\nAccount:"
-    },
-    "6": {
-        "ip": "76.11.25.134",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 7 min 32 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
-    },
-    "7": {
-        "ip": "213.151.42.254",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 19 min 11 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
-    },
-    "8": {
-        "ip": "217.194.65.141",
-        "banner": "\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "9": {
-        "ip": "41.90.107.70",
-        "banner": "\r\n\r\nLogin authentication\r\n\r\n\r\nUsername:"
-    },
-    "10": {
-        "ip": "197.230.88.41",
-        "banner": "\r\nusername: "
-    },
-    "11": {
-        "ip": "81.150.16.162",
-        "banner": "\r\nAccount:\r\nAccount:"
-    },
-    "12": {
-        "ip": "2.110.206.9",
-        "banner": "\r\nPassword: "
-    },
-    "13": {
-        "ip": "123.30.239.232",
-        "banner": "CMinistry of Information and Communication\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "14": {
-        "ip": "185.13.201.129",
-        "banner": "\r\n>>User name:"
-    },
-    "15": {
-        "ip": "197.227.11.233",
-        "banner": "\r\n\r\nUser Access Verification\r\n\r\nPassword: "
-    },
-    "16": {
-        "ip": "218.11.129.57",
-        "banner": "\r\n%connection refused by remote host!"
-    },
-    "17": {
-        "ip": "78.10.164.70",
-        "banner": "\r\nSystem administrator is connecting from 177.98.84.179, \r\nReject the connection request !!!\r\n"
-    },
-    "18": {
-        "ip": "181.225.40.41",
-        "banner": " INFOGUIA -  Equipo configurado por ERICK RIVAS\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "19": {
-        "ip": "80.242.211.155",
-        "banner": "\r\n\r\nPassword required, but none set\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "20": {
-        "ip": "51.68.171.245",
-        "banner": "\r\nMikroTik v6.44.1 (stable)\r\nLogin: "
-    },
-    "21": {
-        "ip": "80.241.146.9",
-        "banner": "\r\nNSTL3SW>"
-    },
-    "22": {
-        "ip": "46.44.114.186",
-        "banner": "Username:"
-    },
-    "23": {
-        "ip": "41.184.162.33",
-        "banner": "DO NOT ATTEMPT TO ACCESS THIS ROUTER WITHOUT PERMISSION\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "24": {
-        "ip": "172.98.106.254",
-        "banner": "\r\nAuthorized Access Only \r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "25": {
-        "ip": "78.36.157.35",
-        "banner": "\r\n\r\nUser Access Verification\r\n\r\nlogin as: "
-    },
-    "26": {
-        "ip": "78.10.203.202",
-        "banner": "\r\r\n192.168.1.255 login: "
-    },
-    "27": {
-        "ip": "182.184.18.18",
-        "banner": "\r\nMikroTik v6.45.2 (stable)\r\nLogin: "
-    },
-    "28": {
-        "ip": "78.108.111.149",
-        "banner": "\r\nMikroTik v6.43.13 (long-term)\r\nLogin: "
-    },
-    "29": {
-        "ip": "195.146.117.12",
-        "banner": "\r\nMikroTik v6.42.1 (stable)\r\nLogin: "
-    },
-    "30": {
-        "ip": "202.5.36.194",
-        "banner": "\r\nMikroTik v6.42.9 (long-term)\r\nLogin: "
-    },
-    "31": {
-        "ip": "89.153.39.250",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 13 min 9 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
-    },
-    "32": {
         "ip": "62.42.81.232",
         "banner": "\n\r\n\rPassword: "
     },
-    "33": {
-        "ip": "188.230.163.166",
-        "banner": "\r\nMikroTik v5.21\r\nLogin: "
-    },
-    "34": {
-        "ip": "91.223.250.39",
-        "banner": "\r\nMikroTik v5.6\r\nLogin: "
-    },
-    "35": {
-        "ip": "82.69.13.196",
-        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
-    },
-    "36": {
-        "ip": "82.68.100.254",
-        "banner": "\n\rSystem administrator is connecting from 86.96.72.79\n\rReject the connection request !!!\n\r"
-    },
-    "37": {
-        "ip": "77.94.144.214",
-        "banner": "\r\nMikroTik v6.43 (stable)\r\nLogin: "
-    },
-    "38": {
-        "ip": "81.213.206.180",
-        "banner": "\n\r\n\rPassword: \n\rSystem administrator is connecting from 111.68.103.164\n\rReject the connection request !!!\n\r"
-    },
-    "39": {
-        "ip": "91.204.154.228",
-        "banner": "\r\nMikroTik v5.26\r\nLogin: "
-    },
-    "40": {
-        "ip": "212.1.104.66",
-        "banner": "\r\nMikroTik v6.44.5 (long-term)\r\nLogin: "
-    },
-    "41": {
-        "ip": "81.200.59.68",
-        "banner": "\r\nMikroTik v3.30\r\nLogin: "
-    },
-    "42": {
-        "ip": "217.15.202.106",
-        "banner": "\r\nMikroTik v6.45.3 (stable)\r\nLogin: "
-    },
-    "43": {
-        "ip": "185.186.157.7",
-        "banner": "\r\nMikroTik v6.43.4 (stable)\r\nLogin: "
-    },
-    "44": {
-        "ip": "219.141.213.73",
-        "banner": "\r\r\nError: Terminating because too many concurrent telnet sessions have been started.\r\n"
-    },
-    "45": {
-        "ip": "67.221.172.234",
-        "banner": "\r\nUser Name : "
-    },
-    "46": {
-        "ip": "46.173.47.190",
-        "banner": "\r\nMikroTik v6.42.4 (stable)\r\nLogin: "
-    },
-    "47": {
-        "ip": "188.252.92.90",
-        "banner": "\r\nMikroTik v6.44 (stable)\r\nLogin: "
-    },
-    "48": {
-        "ip": "89.146.25.131",
-        "banner": "\n\rSystem administrator is connecting from 58.219.175.105\n\rReject the connection request !!!\n\r"
-    },
-    "49": {
-        "ip": "109.170.155.53",
-        "banner": "\n\rSystem administrator is connecting from 189.151.241.75\n\rReject the connection request !!!\n\r"
-    },
-    "50": {
-        "ip": "175.29.142.142",
-        "banner": "\r\n### Unauthorized Access Prohibited! ###\r\n\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "51": {
-        "ip": "178.44.112.22",
-        "banner": "\r\nMikroTik v6.43.12 (stable)\r\nLogin: "
-    },
-    "52": {
-        "ip": "203.37.251.164",
-        "banner": "\r\r\nWelcome to ViewStation\r\r\nPassword:\r\r\n"
-    },
-    "53": {
-        "ip": "178.234.31.109",
-        "banner": "\r\nMikroTik v6.43.8 (stable)\r\nLogin: "
-    },
-    "54": {
-        "ip": "109.205.121.177",
-        "banner": "\r\nMikroTik v6.2\r\nLogin: "
-    },
-    "55": {
-        "ip": "95.86.56.139",
-        "banner": "\r\nMikroTik v5.25\r\nLogin: "
-    },
-    "56": {
-        "ip": "95.87.18.19",
-        "banner": "\r\nMikroTik v3.10\r\nLogin: "
-    },
-    "57": {
-        "ip": "82.152.39.146",
-        "banner": "\n\rSystem administrator is connecting from 213.81.178.66\n\rReject the connection request !!!\n\r"
-    },
-    "58": {
-        "ip": "207.47.123.156",
+    "4": {
+        "ip": "62.146.84.254",
         "banner": "\n\rUser Name : "
     },
-    "59": {
-        "ip": "36.91.164.249",
-        "banner": "\r\nMikroTik v6.34.2 (stable)\r\nLogin: "
+    "5": {
+        "ip": "81.150.16.162",
+        "banner": "\r\nSystem administrator is connecting from 114.34.42.134, \r\nReject the connection request !!!\r\n"
     },
-    "60": {
-        "ip": "77.87.211.154",
-        "banner": "\r\nMikroTik v6.40.8 (bugfix)\r\nLogin: "
+    "6": {
+        "ip": "109.204.14.45",
+        "banner": "\r\nPassword: "
     },
-    "61": {
-        "ip": "195.138.72.26",
-        "banner": "\r\nMikroTik v6.1\r\nLogin: "
+    "7": {
+        "ip": "80.84.232.186",
+        "banner": "\n\rUser Name : "
     },
-    "62": {
-        "ip": "88.157.186.82",
-        "banner": "\n\rSystem administrator is connecting from 112.85.42.88\n\rReject the connection request !!!\n\r"
+    "8": {
+        "ip": "2.110.182.192",
+        "banner": "\r\nPassword: "
     },
-    "63": {
-        "ip": "213.6.70.242",
-        "banner": "\r\nMikroTik v5.20\r\nLogin: "
+    "9": {
+        "ip": "85.255.79.40",
+        "banner": "\n\rUser Name : "
     },
-    "64": {
-        "ip": "79.107.129.133",
-        "banner": "CCAuthorized access only!\r\n Disconnect IMMEDIATELY if you are not an authorized user!\r\n\r\nUser Access Verification\r\n\r\nUsername: "
+    "10": {
+        "ip": "2.110.206.9",
+        "banner": "\r\nPassword: "
     },
-    "65": {
-        "ip": "85.72.52.86",
-        "banner": " THIS IS A PRIVATE NETWORK, ANY UNAUTHORIZED ACTION IS PROHIBITED BY LAW !!!!! \r\n\r\nUser Access Verification\r\n\r\nUsername: "
+    "11": {
+        "ip": "36.92.44.227",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
     },
-    "66": {
-        "ip": "82.69.1.158",
-        "banner": "\n\rSystem administrator is connecting from 36.106.167.66\n\rReject the connection request !!!\n\r"
+    "12": {
+        "ip": "59.37.13.106",
+        "banner": "\r\n\r\nLogin authentication\r\n\r\n\r\nUsername:"
     },
-    "67": {
-        "ip": "37.26.81.118",
-        "banner": "\r\nMikroTik v6.42.6 (stable)\r\nLogin: "
+    "13": {
+        "ip": "171.244.166.22",
+        "banner": "\r\nMikroTik v6.42.7 (stable)\r\nLogin: "
     },
-    "68": {
-        "ip": "109.87.97.96",
-        "banner": "\r\nMikroTik v6.40.4 (stable)\r\nLogin: "
+    "14": {
+        "ip": "14.136.201.102",
+        "banner": "\r\nMikroTik v5.6\r\nLogin: "
     },
-    "69": {
-        "ip": "91.57.116.76",
-        "banner": "SYNOLOGY login: "
+    "15": {
+        "ip": "157.25.90.67",
+        "banner": "\r\nMikroTik v6.42.1 (stable)\r\nLogin: "
     },
-    "70": {
-        "ip": "41.228.164.69",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 9 min 33 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
+    "16": {
+        "ip": "93.174.94.54",
+        "banner": "\r\nMikroTik v6.43.4 (stable)\r\nLogin: "
     },
-    "71": {
-        "ip": "190.6.141.25",
-        "banner": "\r\nSystem administrator is connecting from 27.29.10.211, \r\nReject the connection request !!!\r\n"
-    },
-    "72": {
-        "ip": "78.131.207.245",
-        "banner": "\n\rSystem administrator is connecting from 117.5.0.99\n\rReject the connection request !!!\n\r"
-    },
-    "73": {
-        "ip": "91.213.122.229",
-        "banner": "\r\nMikroTik v6.44.2 (stable)\r\nLogin: "
-    },
-    "74": {
-        "ip": "85.194.114.154",
-        "banner": "\r\nUsername:"
-    },
-    "75": {
-        "ip": "89.75.128.246",
-        "banner": "\r\nMikroTik v6.43.7 (stable)\r\nLogin: "
-    },
-    "76": {
-        "ip": "197.234.52.89",
-        "banner": "\r\nMikroTik v6.40.5 (stable)\r\nLogin: "
-    },
-    "77": {
-        "ip": "78.32.158.233",
-        "banner": "\n\rSystem administrator is connecting from 211.235.219.125\n\rReject the connection request !!!\n\r"
-    },
-    "78": {
-        "ip": "103.23.237.123",
-        "banner": "\r\nMikroTik v6.37.5 (bugfix)\r\nLogin: "
-    },
-    "79": {
-        "ip": "178.255.173.71",
-        "banner": "\r\nMikroTik v6.43.2 (stable)\r\nLogin: "
-    },
-    "80": {
-        "ip": "219.91.207.185",
-        "banner": "\r\nMikroTik v6.15\r\nLogin: "
-    },
-    "81": {
-        "ip": "103.69.216.86",
-        "banner": "\r\nMikroTik v6.42.3 (stable)\r\nLogin: "
-    },
-    "82": {
-        "ip": "113.28.70.108",
-        "banner": "\r\nMikroTik v6.45.1 (stable)\r\nLogin: "
-    },
-    "83": {
-        "ip": "103.83.9.193",
-        "banner": "\r\nMikroTik v6.23\r\nLogin: "
-    },
-    "84": {
-        "ip": "81.174.152.20",
-        "banner": "\n\rSystem administrator is connecting from 212.47.248.112\n\rReject the connection request !!!\n\r"
-    },
-    "85": {
-        "ip": "176.195.230.192",
-        "banner": "DiskStation login: "
-    },
-    "86": {
-        "ip": "46.209.93.230",
-        "banner": "\r\nMikroTik v6.39.3 (bugfix)\r\nLogin: "
-    },
-    "87": {
-        "ip": "183.62.136.252",
-        "banner": "\r\nToo many users!"
-    },
-    "88": {
-        "ip": "138.229.183.177",
-        "banner": "\r\nMikroTik v6.25\r\nLogin: "
-    },
-    "89": {
-        "ip": "90.76.237.244",
-        "banner": "\r\nLinux 2.4.21-rmk1 (pCOWeb11275E) (ttya4)\r\n\r\n\r\npCOWeb11275E login: "
-    },
-    "90": {
-        "ip": "164.39.205.247",
-        "banner": "\n\rSystem administrator is connecting from 14.225.3.37\n\rReject the connection request !!!\n\r"
-    },
-    "91": {
-        "ip": "190.92.26.74",
-        "banner": "\r\nMikroTik v6.18\r\nLogin: "
-    },
-    "92": {
-        "ip": "86.53.3.30",
-        "banner": "Welcome to the Eco4 command line processor\r\nUsername: "
-    },
-    "93": {
-        "ip": "77.52.212.212",
-        "banner": "\r\nMikroTik v3.20\r\nLogin: "
-    },
-    "94": {
-        "ip": "186.71.150.24",
-        "banner": "\r\nMikroTik v6.39.2 (stable)\r\nLogin: "
-    },
-    "95": {
-        "ip": "113.161.85.48",
-        "banner": "\r\nMikroTik v6.40.9 (bugfix)\r\nLogin: "
-    },
-    "96": {
-        "ip": "181.60.245.161",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 11 min 37 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
-    },
-    "97": {
-        "ip": "190.185.119.235",
-        "banner": "\r\nMikroTik v6.42.5 (stable)\r\nLogin: "
-    },
-    "98": {
-        "ip": "90.178.15.92",
-        "banner": "\n\rSystem administrator is connecting from 42.2.172.91\n\rReject the connection request !!!\n\r"
-    },
-    "99": {
-        "ip": "62.168.118.189",
-        "banner": "\r\nMikroTik v6.30.4\r\nLogin: "
-    },
-    "100": {
-        "ip": "177.73.68.144",
-        "banner": "\r\nMikroTik v6.43rc51 (testing)\r\nLogin: "
-    },
-    "101": {
-        "ip": "108.227.144.45",
-        "banner": "\r\nErman Group Lake Bluff Router.  Unauthorized Access Prohibited.\r\n\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "102": {
+    "17": {
         "ip": "128.91.143.29",
         "banner": "System is currently engaged. Connection closing ...\r\n"
     },
-    "103": {
+    "18": {
         "ip": "188.123.210.113",
-        "banner": "\n\rSystem administrator is connecting from 77.42.72.200\n\rReject the connection request !!!\n\r"
+        "banner": "\n\r\n\r\rAccount:"
     },
-    "104": {
-        "ip": "88.248.28.57",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 28 min 49 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
+    "19": {
+        "ip": "51.68.171.245",
+        "banner": "\r\nMikroTik v6.44.1 (stable)\r\nLogin: "
     },
-    "105": {
-        "ip": "110.44.122.138",
-        "banner": "\r\nMikroTik v6.42.10 (long-term)\r\nLogin: "
+    "20": {
+        "ip": "37.26.81.118",
+        "banner": "\r\nMikroTik v6.42.6 (stable)\r\nLogin: "
     },
-    "106": {
-        "ip": "82.207.96.148",
-        "banner": "\r\nMikroTik v6.41.3 (stable)\r\nLogin: "
+    "21": {
+        "ip": "185.188.151.233",
+        "banner": "\r\nMikroTik v6.45.3 (stable)\r\nLogin: "
     },
-    "107": {
-        "ip": "93.91.9.2",
-        "banner": "\r\n\r\n\r\nWelco"
+    "22": {
+        "ip": "195.146.117.12",
+        "banner": "\r\nMikroTik v6.42.1 (stable)\r\nLogin: "
     },
-    "108": {
-        "ip": "96.88.194.85",
-        "banner": "Cisco Configuration Assistant. Version: 3.2 (3). Thu May 22 11:54:22 EDT 2014\r\n\r\nUser Access Verification\r\n\r\nUsername: "
+    "23": {
+        "ip": "89.176.30.101",
+        "banner": "\r\nMikroTik v6.44.5 (long-term)\r\nLogin: "
     },
-    "109": {
-        "ip": "177.220.188.213",
-        "banner": "\r\nMikroTik v5.16\r\nLogin: "
+    "24": {
+        "ip": "41.90.107.70",
+        "banner": "\r\n\r\nLogin authentication\r\n\r\n\r\nUsername:"
     },
-    "110": {
-        "ip": "67.62.4.50",
-        "banner": "\r\n*********Restricted Access*********\r\n\r\n\r\nMaximum number of telnet sessions has been reached.\r\n\r\n\r\n"
+    "25": {
+        "ip": "178.203.106.176",
+        "banner": "\r\nMikroTik v6.43.8 (stable)\r\nLogin: "
     },
-    "111": {
-        "ip": "89.203.224.93",
-        "banner": "\r\nMikroTik v6.35.4 (stable)\r\nLogin: "
+    "26": {
+        "ip": "83.215.181.33",
+        "banner": "\r\nMikroTik v6.43.7 (stable)\r\nLogin: "
     },
-    "112": {
-        "ip": "92.126.206.61",
-        "banner": "ZXHN H108N\r\nLogin:"
+    "27": {
+        "ip": "178.214.193.66",
+        "banner": "\r\nMikroTik v6.45.3 (stable)\r\nLogin: "
     },
-    "113": {
-        "ip": "5.134.194.163",
-        "banner": "\r\nMikroTik v6.37 (stable)\r\nLogin: "
+    "28": {
+        "ip": "85.159.5.46",
+        "banner": "\r\nMikroTik v6.45.2 (stable)\r\nLogin: "
     },
-    "114": {
-        "ip": "46.77.65.146",
-        "banner": "\r\nLinux 2.6.15.7-elinos-249 (xlweb) (6)\r\n\n"
+    "29": {
+        "ip": "178.255.171.11",
+        "banner": "\r\nMikroTik v6.42.6 (stable)\r\nLogin: "
     },
-    "115": {
-        "ip": "165.90.79.73",
-        "banner": "\r\nMikroTik v6.42.7 (stable)\r\nLogin: "
-    },
-    "116": {
-        "ip": "80.250.125.249",
-        "banner": "\r\nMikroTik v6.12\r\nLogin: "
-    },
-    "117": {
-        "ip": "200.111.126.178",
-        "banner": "\r\nMikroTik v6.43.5 (stable)\r\nLogin: "
-    },
-    "118": {
-        "ip": "188.204.169.41",
-        "banner": "\n\rSystem administrator is connecting from 218.92.0.206\n\rReject the connection request !!!\n\r"
-    },
-    "119": {
-        "ip": "46.252.40.2",
-        "banner": "\r\nMikroTik v3.25\r\nLogin: "
-    },
-    "120": {
-        "ip": "31.6.85.112",
-        "banner": "\n\rSystem administrator is connecting from 114.40.4.140\n\rReject the connection request !!!\n\r"
-    },
-    "121": {
-        "ip": "77.252.166.10",
-        "banner": "\r\nSystem administrator is connecting from 119.62.50.42, \r\nReject the connection request !!!\r\n"
-    },
-    "122": {
-        "ip": "96.87.71.153",
-        "banner": "Authorized access only!\r\n Disconnect IMMEDIATELY if you are not an authorized user!\r\n\r\nUser Access Verification\r\n\r\nPassword: "
-    },
-    "123": {
-        "ip": "140.120.49.253",
-        "banner": "\r\n\r\nPassword required, but none set\r\n"
-    },
-    "124": {
-        "ip": "221.206.210.85",
-        "banner": "\r\nMikroTik v2.9.27\r\nLogin: "
-    },
-    "125": {
-        "ip": "176.162.150.242",
-        "banner": "\u001b[2J\u001b[1;1f"
-    },
-    "126": {
-        "ip": "86.61.192.179",
-        "banner": "\r\nMikroTik v2.9.50\r\nLogin: "
-    },
-    "127": {
-        "ip": "190.129.48.154",
-        "banner": "\r\nInova v6.44.3 (stable)\r\nLogin: "
-    },
-    "128": {
-        "ip": "2.180.30.190",
-        "banner": "\r\nMikroTik v6.38.5 (stable)\r\nLogin: "
-    },
-    "129": {
-        "ip": "121.158.16.42",
-        "banner": "chsol login: "
-    },
-    "130": {
-        "ip": "92.207.244.231",
-        "banner": "\n\rSystem administrator is connecting from 84.59.248.64\n\rReject the connection request !!!\n\r"
-    },
-    "131": {
+    "30": {
         "ip": "91.118.23.37",
         "banner": "\r\nMikroTik v6.42.12 (long-term)\r\nLogin: "
     },
-    "132": {
-        "ip": "176.74.140.143",
-        "banner": "\r\nMikroTik v6.42.2 (stable)\r\nLogin: "
+    "31": {
+        "ip": "46.173.47.190",
+        "banner": "\r\nMikroTik v6.42.4 (stable)\r\nLogin: "
     },
-    "133": {
-        "ip": "221.156.39.185",
-        "banner": "Mist login: "
+    "32": {
+        "ip": "62.176.116.60",
+        "banner": "\r\nMikroTik v5.26\r\nLogin: "
     },
-    "134": {
-        "ip": "118.174.28.230",
-        "banner": "\r\nMikroTik v5.24\r\nLogin: "
+    "33": {
+        "ip": "202.5.36.194",
+        "banner": "\r\nMikroTik v6.44.5 (long-term)\r\nLogin: "
     },
-    "135": {
-        "ip": "92.255.181.12",
-        "banner": "C PHILLIP \r\n\r\nUser Access Verification\r\n\r\nlogin as:"
+    "34": {
+        "ip": "185.237.56.23",
+        "banner": "\r\nMikroTik v6.40.5 (stable)\r\nLogin: "
     },
-    "136": {
-        "ip": "200.76.97.102",
-        "banner": "\r\nMikroTik v6.4\r\nLogin: "
+    "35": {
+        "ip": "117.4.48.165",
+        "banner": "\r\nMikroTik v6.42.5 (stable)\r\nLogin: "
     },
-    "137": {
-        "ip": "120.89.115.104",
-        "banner": "\r\nlogin: "
+    "36": {
+        "ip": "188.252.92.90",
+        "banner": "\r\nMikroTik v6.44 (stable)\r\nLogin: "
     },
-    "138": {
-        "ip": "203.250.100.4",
-        "banner": "Welcome friends. You have telneted into a world of magicalness, and routing. Please enjoy your stay whilst I cook some bacon for you. I love you! \r\n\r\nUser Access Verification\r\n\r\nPassword: "
+    "37": {
+        "ip": "91.223.250.39",
+        "banner": "\r\nMikroTik v5.6\r\nLogin: "
     },
-    "139": {
-        "ip": "195.53.227.220",
-        "banner": "CAuthorized access only!\r\n Disconnect IMMEDIATELY if you are not an authorized user!\r\n\r\nUser Access Verification\r\n\r\nUsername: "
+    "38": {
+        "ip": "46.252.40.2",
+        "banner": "\r\nMikroTik v3.25\r\nLogin: "
     },
-    "140": {
-        "ip": "116.228.81.54",
-        "banner": "\r\nMikroTik v5.22\r\nLogin: "
+    "39": {
+        "ip": "81.94.240.151",
+        "banner": "\r\nMikroTik v6.43.2 (stable)\r\nLogin: "
     },
-    "141": {
-        "ip": "188.122.36.128",
-        "banner": "\n\rSystem administrator is connecting from 85.154.32.80\n\rReject the connection request !!!\n\r"
+    "40": {
+        "ip": "159.148.6.10",
+        "banner": "\r\nMikroTik v6.42.1 (stable)\r\nLogin: "
     },
-    "142": {
-        "ip": "79.174.24.131",
-        "banner": "\r\nMikroTik v6.27\r\nLogin: "
+    "41": {
+        "ip": "202.22.154.67",
+        "banner": "\n\rSystem administrator is connecting from 189.125.110.234\n\rReject the connection request !!!\n\r"
     },
-    "143": {
-        "ip": "68.161.210.169",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 17 min 34 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
+    "42": {
+        "ip": "109.164.110.22",
+        "banner": "\r\nMikroTik v6.43.2 (stable)\r\nLogin: "
     },
-    "144": {
-        "ip": "141.105.35.23",
-        "banner": "\r\nMikroTik v6.29.1\r\nLogin: "
+    "43": {
+        "ip": "95.87.18.19",
+        "banner": "\r\nMikroTik v3.10\r\nLogin: "
     },
-    "145": {
-        "ip": "24.172.43.98",
-        "banner": "\u001b[2J\u001b[H\u000fUser Access Login\r\n\r\n"
+    "44": {
+        "ip": "109.87.97.96",
+        "banner": "\r\nMikroTik v6.40.4 (stable)\r\nLogin: "
     },
-    "146": {
+    "45": {
+        "ip": "95.86.56.139",
+        "banner": "\r\nMikroTik v5.25\r\nLogin: "
+    },
+    "46": {
+        "ip": "207.47.123.156",
+        "banner": "\n\rUser Name : "
+    },
+    "47": {
+        "ip": "178.19.182.122",
+        "banner": "\r\nMikroTik v6.45.5 (stable)\r\nLogin: "
+    },
+    "48": {
+        "ip": "77.52.212.212",
+        "banner": "\r\nMikroTik v3.20\r\nLogin: "
+    },
+    "49": {
+        "ip": "24.105.171.87",
+        "banner": "\n\rUser Name : "
+    },
+    "50": {
+        "ip": "81.0.177.20",
+        "banner": "\r\nMikroTik v6.23\r\nLogin: "
+    },
+    "51": {
+        "ip": "81.200.59.68",
+        "banner": "\r\nMikroTik v3.30\r\nLogin: "
+    },
+    "52": {
+        "ip": "212.69.3.202",
+        "banner": "\r\nMikroTik v6.45.5 (stable)\r\nLogin: "
+    },
+    "53": {
+        "ip": "151.13.172.220",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "54": {
         "ip": "84.16.221.77",
         "banner": "\r\nMikroTik v6.31\r\nLogin: "
     },
-    "147": {
-        "ip": "83.17.217.218",
-        "banner": "\r\nMikroTik v6.0rc14\r\nLogin: "
+    "55": {
+        "ip": "185.156.232.59",
+        "banner": "\r\nMikroTik v6.43.4 (stable)\r\nLogin: "
     },
-    "148": {
-        "ip": "123.201.124.225",
-        "banner": "\r\nMikroTik v5.2\r\nLogin: "
+    "56": {
+        "ip": "31.47.105.160",
+        "banner": "\r\nMikroTik v6.43.7 (stable)\r\nLogin: "
     },
-    "149": {
-        "ip": "59.124.15.49",
-        "banner": "ALPHA_6E login: "
+    "57": {
+        "ip": "176.74.140.143",
+        "banner": "\r\nMikroTik v6.42.2 (stable)\r\nLogin: "
     },
-    "150": {
-        "ip": "125.168.5.191",
-        "banner": "\n\rSystem administrator is connecting from 109.107.85.110\n\rReject the connection request !!!\n\r"
+    "58": {
+        "ip": "178.44.112.22",
+        "banner": "\r\nMikroTik v6.45.3 (stable)\r\nLogin: "
     },
-    "151": {
-        "ip": "45.169.168.11",
-        "banner": "\r\nMikroTik v6.43rc66 (testing)\r\nLogin: "
+    "59": {
+        "ip": "217.15.202.106",
+        "banner": "\r\nMikroTik v6.45.5 (stable)\r\nLogin: "
     },
-    "152": {
-        "ip": "167.249.68.18",
-        "banner": "\r\nMikroTik v6.34.4 (stable)\r\nLogin: "
+    "60": {
+        "ip": "176.162.150.242",
+        "banner": "\u001b[2J\u001b[1;1f"
     },
-    "153": {
-        "ip": "80.254.127.201",
-        "banner": "\r\nMikroTik v6.7\r\nLogin: "
+    "61": {
+        "ip": "37.53.41.171",
+        "banner": "\r\nPassword: "
     },
-    "154": {
-        "ip": "209.181.82.7",
-        "banner": "\r\nMikroTik v6.43.11 (stable)\r\nLogin: "
+    "62": {
+        "ip": "91.225.76.36",
+        "banner": "\r\nMikroTik v6.44.1 (stable)\r\nLogin: "
     },
-    "155": {
-        "ip": "79.77.56.122",
-        "banner": "Welcome to the DS2 command line processor\r\nUsername: "
+    "63": {
+        "ip": "91.225.76.207",
+        "banner": "\r\nMikroTik v6.43.4 (stable)\r\nLogin: "
     },
-    "156": {
-        "ip": "189.45.204.101",
-        "banner": "\r\nMikroTik v6.36.1 (stable)\r\nLogin: "
+    "64": {
+        "ip": "91.93.98.4",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
     },
-    "157": {
-        "ip": "189.43.164.83",
-        "banner": "\r\nMikroTik v6.40.2 (stable)\r\nLogin: "
+    "65": {
+        "ip": "46.151.132.207",
+        "banner": "\r\nMikroTik v6.44.5 (long-term)\r\nLogin: "
     },
-    "158": {
-        "ip": "181.231.226.20",
-        "banner": "\n\rSystem administrator is connecting from 164.68.102.54\n\rReject the connection request !!!\n\r"
+    "66": {
+        "ip": "79.174.24.131",
+        "banner": "\r\nMikroTik v6.27\r\nLogin: "
     },
-    "159": {
-        "ip": "114.141.104.83",
-        "banner": "C\r\nKirsopNET - We'll be watching you!\r\n\r\n\r\nUser Access Verification\r\n\r\nUsername: "
+    "67": {
+        "ip": "213.6.70.242",
+        "banner": "\r\nMikroTik v5.20\r\nLogin: "
     },
-    "160": {
-        "ip": "46.21.215.227",
-        "banner": "\r\nMikroTik v6.34.3 (stable)\r\nLogin: "
+    "68": {
+        "ip": "113.28.70.108",
+        "banner": "\r\nMikroTik v6.45.1 (stable)\r\nLogin: "
     },
-    "161": {
-        "ip": "124.81.236.186",
-        "banner": "\r\nMikroTik v5.11\r\nLogin: "
+    "69": {
+        "ip": "86.53.3.30",
+        "banner": "Welcome to the Eco4 command line processor\r\nUsername: "
     },
-    "162": {
-        "ip": "125.129.130.54",
-        "banner": "SynologyNAS login: "
-    },
-    "163": {
-        "ip": "61.170.83.32",
-        "banner": "\r\nMikroTik v6.38.7 (bugfix)\r\nLogin: "
-    },
-    "164": {
+    "70": {
         "ip": "159.255.165.251",
         "banner": "\r\nMikroTik v6.43.1 (stable)\r\nLogin: "
     },
+    "71": {
+        "ip": "113.161.85.48",
+        "banner": "\r\nMikroTik v6.40.9 (bugfix)\r\nLogin: "
+    },
+    "72": {
+        "ip": "217.115.246.138",
+        "banner": "\r\nMikroTik v5.6\r\nLogin: "
+    },
+    "73": {
+        "ip": "193.35.84.90",
+        "banner": "\r\nMikroTik v6.44.1 (stable)\r\nLogin: "
+    },
+    "74": {
+        "ip": "212.75.132.160",
+        "banner": "\r\nMikroTik v6.40.5 (stable)\r\nLogin: "
+    },
+    "75": {
+        "ip": "67.221.172.234",
+        "banner": "\r\nUser Name : "
+    },
+    "76": {
+        "ip": "128.143.136.204",
+        "banner": "\r\nAnother telnet session is in progress.\r\n"
+    },
+    "77": {
+        "ip": "176.62.66.32",
+        "banner": "\r\nMikroTik v6.45.1 (stable)\r\nLogin: "
+    },
+    "78": {
+        "ip": "176.88.204.73",
+        "banner": "\r\nMikroTik v6.44.1 (stable)\r\nLogin: "
+    },
+    "79": {
+        "ip": "188.230.163.166",
+        "banner": "\r\nMikroTik v5.21\r\nLogin: "
+    },
+    "80": {
+        "ip": "89.203.224.93",
+        "banner": "\r\nMikroTik v6.35.4 (stable)\r\nLogin: "
+    },
+    "81": {
+        "ip": "89.234.69.238",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "82": {
+        "ip": "84.226.39.210",
+        "banner": "\r\nMikroTik v6.44 (stable)\r\nLogin: "
+    },
+    "83": {
+        "ip": "220.246.76.12",
+        "banner": "\r\nMikroTik v6.43.4 (stable)\r\nLogin: "
+    },
+    "84": {
+        "ip": "195.138.72.26",
+        "banner": "\r\nMikroTik v6.1\r\nLogin: "
+    },
+    "85": {
+        "ip": "219.91.207.185",
+        "banner": "\r\nMikroTik v6.15\r\nLogin: "
+    },
+    "86": {
+        "ip": "80.68.234.32",
+        "banner": "\r\nMikroTik v6.45.2 (stable)\r\nLogin: "
+    },
+    "87": {
+        "ip": "195.74.91.125",
+        "banner": "\r\nMikroTik v6.43.7 (stable)\r\nLogin: "
+    },
+    "88": {
+        "ip": "103.122.84.204",
+        "banner": "\r\nMikroTik v6.42.1 (stable)\r\nLogin: "
+    },
+    "89": {
+        "ip": "91.133.3.207",
+        "banner": "\r\nMikroTik v6.5\r\nLogin: "
+    },
+    "90": {
+        "ip": "81.198.95.186",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "91": {
+        "ip": "77.239.181.94",
+        "banner": "\r\nMikroTik v6.4\r\nLogin: "
+    },
+    "92": {
+        "ip": "77.94.144.214",
+        "banner": "\r\nMikroTik v6.43 (stable)\r\nLogin: "
+    },
+    "93": {
+        "ip": "103.21.77.45",
+        "banner": "\r\nMikroTik v6.36.4 (bugfix)\r\nLogin: "
+    },
+    "94": {
+        "ip": "94.241.143.247",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "95": {
+        "ip": "103.83.9.193",
+        "banner": "\r\nMikroTik v6.23\r\nLogin: "
+    },
+    "96": {
+        "ip": "185.152.44.163",
+        "banner": "\r\nMikroTik v6.39.3 (bugfix)\r\nLogin: "
+    },
+    "97": {
+        "ip": "46.209.93.230",
+        "banner": "\r\nMikroTik v6.39.3 (bugfix)\r\nLogin: "
+    },
+    "98": {
+        "ip": "185.235.138.96",
+        "banner": "\r\nMikroTik v5.26\r\nLogin: "
+    },
+    "99": {
+        "ip": "155.133.93.18",
+        "banner": "\r\nMikroTik v6.45.5 (stable)\r\nLogin: "
+    },
+    "100": {
+        "ip": "103.211.188.145",
+        "banner": "\r\nMikroTik v6.44 (stable)\r\nLogin: "
+    },
+    "101": {
+        "ip": "91.57.116.76",
+        "banner": "SYNOLOGY login: "
+    },
+    "102": {
+        "ip": "178.234.31.109",
+        "banner": "\r\nMikroTik v6.43.8 (stable)\r\nLogin: "
+    },
+    "103": {
+        "ip": "46.174.212.120",
+        "banner": "\r\nMikroTik v5.25\r\nLogin: "
+    },
+    "104": {
+        "ip": "31.179.195.228",
+        "banner": "\r\nMikroTik v6.42.7 (stable)\r\nLogin: "
+    },
+    "105": {
+        "ip": "162.253.232.11",
+        "banner": "\r\nMikroTik v6.42.6 (stable)\r\nLogin: "
+    },
+    "106": {
+        "ip": "93.171.157.229",
+        "banner": "\r\nMikroTik v6.44.2 (stable)\r\nLogin: "
+    },
+    "107": {
+        "ip": "185.124.117.230",
+        "banner": "\r\nMikroTik v6.22\r\nLogin: "
+    },
+    "108": {
+        "ip": "103.23.236.88",
+        "banner": "\r\nMikroTik v5.26\r\nLogin: "
+    },
+    "109": {
+        "ip": "202.95.136.134",
+        "banner": "\r\nMikroTik v6.43.12 (stable)\r\nLogin: "
+    },
+    "110": {
+        "ip": "190.185.119.235",
+        "banner": "\r\nMikroTik v6.42.5 (stable)\r\nLogin: "
+    },
+    "111": {
+        "ip": "23.132.208.6",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "112": {
+        "ip": "221.206.210.85",
+        "banner": "\r\nMikroTik v2.9.27\r\nLogin: "
+    },
+    "113": {
+        "ip": "66.118.216.168",
+        "banner": "\r\nMikroTik v6.42.9 (long-term)\r\nLogin: "
+    },
+    "114": {
+        "ip": "202.179.7.133",
+        "banner": "\r\nMikroTik v6.43.14 (long-term)\r\nLogin: "
+    },
+    "115": {
+        "ip": "187.191.45.66",
+        "banner": "\r\nMikroTik v6.42.5 (stable)\r\nLogin: "
+    },
+    "116": {
+        "ip": "190.92.26.74",
+        "banner": "\r\nMikroTik v6.18\r\nLogin: "
+    },
+    "117": {
+        "ip": "80.254.127.201",
+        "banner": "\r\nMikroTik v6.7\r\nLogin: "
+    },
+    "118": {
+        "ip": "31.200.228.140",
+        "banner": "\r\nMikroTik v6.44.2 (stable)\r\nLogin: "
+    },
+    "119": {
+        "ip": "104.143.67.70",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "120": {
+        "ip": "66.118.219.41",
+        "banner": "\r\nMikroTik v6.42.9 (long-term)\r\nLogin: "
+    },
+    "121": {
+        "ip": "46.21.215.227",
+        "banner": "\r\nMikroTik v6.34.3 (stable)\r\nLogin: "
+    },
+    "122": {
+        "ip": "185.186.157.7",
+        "banner": "\r\nMikroTik v6.43.4 (stable)\r\nLogin: "
+    },
+    "123": {
+        "ip": "163.53.83.188",
+        "banner": "\r\nMikroTik v6.40.8 (bugfix)\r\nLogin: "
+    },
+    "124": {
+        "ip": "187.243.249.122",
+        "banner": "\r\nMikroTik v6.43.8 (stable)\r\nLogin: "
+    },
+    "125": {
+        "ip": "138.229.183.177",
+        "banner": "\r\nMikroTik v6.25\r\nLogin: "
+    },
+    "126": {
+        "ip": "213.159.240.239",
+        "banner": "\r\nMikroTik v6.39.2 (stable)\r\nLogin: "
+    },
+    "127": {
+        "ip": "45.221.72.74",
+        "banner": "\r\nMikroTik v6.40.9 (bugfix)\r\nLogin: "
+    },
+    "128": {
+        "ip": "203.205.34.85",
+        "banner": "\r\nMikroTik v6.43 (stable)\r\nLogin: "
+    },
+    "129": {
+        "ip": "190.217.21.83",
+        "banner": "\r\nMikroTik v6.45.3 (stable)\r\nLogin: "
+    },
+    "130": {
+        "ip": "200.76.97.102",
+        "banner": "\r\nMikroTik v6.4\r\nLogin: "
+    },
+    "131": {
+        "ip": "110.44.122.138",
+        "banner": "\r\nMikroTik v6.42.10 (long-term)\r\nLogin: "
+    },
+    "132": {
+        "ip": "217.21.125.49",
+        "banner": "\r\nMikroTik v6.44.1 (stable)\r\nLogin: "
+    },
+    "133": {
+        "ip": "185.123.68.4",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "134": {
+        "ip": "213.235.171.184",
+        "banner": "\r\nMikroTik v6.42.6 (stable)\r\nLogin: "
+    },
+    "135": {
+        "ip": "94.240.46.92",
+        "banner": "\r\nMikroTik v5.26\r\nLogin: "
+    },
+    "136": {
+        "ip": "46.40.126.160",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "137": {
+        "ip": "188.92.105.121",
+        "banner": "\r\nMikroTik v6.43.4 (stable)\r\nLogin: "
+    },
+    "138": {
+        "ip": "85.30.202.144",
+        "banner": "\r\nMikroTik v6.40.8 (bugfix)\r\nLogin: "
+    },
+    "139": {
+        "ip": "154.117.174.130",
+        "banner": "\r\nMikroTik v6.44.2 (stable)\r\nLogin: "
+    },
+    "140": {
+        "ip": "185.59.122.64",
+        "banner": "\r\nMikroTik v6.12\r\nLogin: "
+    },
+    "141": {
+        "ip": "212.56.204.110",
+        "banner": "\r\nMikroTik v6.44.2 (stable)\r\nLogin: "
+    },
+    "142": {
+        "ip": "196.15.239.83",
+        "banner": "\r\nMikroTik v6.45.2 (stable)\r\nLogin: "
+    },
+    "143": {
+        "ip": "181.52.114.250",
+        "banner": "\r\nMikroTik v6.39.2 (stable)\r\nLogin: "
+    },
+    "144": {
+        "ip": "31.42.11.123",
+        "banner": "\r\nMikroTik v6.40.5 (stable)\r\nLogin: "
+    },
+    "145": {
+        "ip": "5.134.194.163",
+        "banner": "\r\nMikroTik v6.37 (stable)\r\nLogin: "
+    },
+    "146": {
+        "ip": "62.168.118.189",
+        "banner": "\r\nMikroTik v6.30.4\r\nLogin: "
+    },
+    "147": {
+        "ip": "154.117.141.178",
+        "banner": "\r\nMikroTik v6.44 (stable)\r\nLogin: "
+    },
+    "148": {
+        "ip": "62.233.153.204",
+        "banner": "\r\nMikroTik v3.2\r\nLogin: "
+    },
+    "149": {
+        "ip": "200.122.209.22",
+        "banner": "\r\nMikroTik v6.43 (stable)\r\nLogin: "
+    },
+    "150": {
+        "ip": "190.129.48.154",
+        "banner": "\r\nInova v6.44.3 (stable)\r\nLogin: "
+    },
+    "151": {
+        "ip": "165.90.79.73",
+        "banner": "\r\nMikroTik v6.42.7 (stable)\r\nLogin: "
+    },
+    "152": {
+        "ip": "61.238.104.164",
+        "banner": "\r\nMikroTik v5.25\r\nLogin: "
+    },
+    "153": {
+        "ip": "199.7.139.42",
+        "banner": "\r\nMikroTik v6.42.5 (stable)\r\nLogin: "
+    },
+    "154": {
+        "ip": "46.148.75.214",
+        "banner": "\r\nMikroTik v6.42.1 (stable)\r\nLogin: "
+    },
+    "155": {
+        "ip": "192.40.242.123",
+        "banner": "\r\nMikroTik v6.44.5 (long-term)\r\nLogin: "
+    },
+    "156": {
+        "ip": "181.143.28.180",
+        "banner": "\r\nMikroTik v5.24\r\nLogin: "
+    },
+    "157": {
+        "ip": "177.73.68.144",
+        "banner": "\r\nMikroTik v6.43rc51 (testing)\r\nLogin: "
+    },
+    "158": {
+        "ip": "222.243.213.58",
+        "banner": "\r\nMikroTik v2.9.6\r\nLogin: "
+    },
+    "159": {
+        "ip": "187.85.132.208",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
+    },
+    "160": {
+        "ip": "200.111.126.178",
+        "banner": "\r\nMikroTik v6.43.5 (stable)\r\nLogin: "
+    },
+    "161": {
+        "ip": "200.5.229.246",
+        "banner": "\r\nMikroTik v6.45.5 (stable)\r\nLogin: "
+    },
+    "162": {
+        "ip": "45.220.58.50",
+        "banner": "\r\nMikroTik v6.43.4 (stable)\r\nLogin: "
+    },
+    "163": {
+        "ip": "201.217.245.90",
+        "banner": "\r\nMikroTik v6.42.9 (long-term)\r\nLogin: "
+    },
+    "164": {
+        "ip": "201.190.146.5",
+        "banner": "\r\nMikroTik v5.25\r\nLogin: "
+    },
     "165": {
-        "ip": "109.205.121.73",
-        "banner": "CCCAuthorized access only!\r\n Disconnect IMMEDIATELY if you are not an authorized user!\r\n\r\nUser Access Verification\r\n\r\nUsername: "
+        "ip": "190.47.73.130",
+        "banner": "\r\nMikroTik v6.40.8 (bugfix)\r\nLogin: "
     },
     "166": {
-        "ip": "89.255.54.9",
-        "banner": "\r\nSystem administrator is connecting from 212.210.61.239, \r\nReject the connection request !!!\r\n"
+        "ip": "195.225.230.14",
+        "banner": "\r\nMikroTik v6.42.6 (stable)\r\nLogin: "
     },
     "167": {
-        "ip": "85.132.4.202",
-        "banner": "\r\nMikroTik v6.43.16 (long-term)\r\nLogin: "
+        "ip": "103.79.253.166",
+        "banner": "\r\nMikroTik v6.42.1 (stable)\r\nLogin: "
     },
     "168": {
-        "ip": "36.67.26.130",
-        "banner": "\r\nMikroTik v5.23\r\nLogin: "
+        "ip": "170.84.76.231",
+        "banner": "\r\nMikroTik v6.44.3 (stable)\r\nLogin: "
     },
     "169": {
-        "ip": "86.61.69.157",
-        "banner": "\n\rSystem administrator is connecting from 68.206.112.22\n\rReject the connection request !!!\n\r"
+        "ip": "103.69.216.86",
+        "banner": "\r\nMikroTik v6.42.3 (stable)\r\nLogin: "
     },
     "170": {
-        "ip": "178.134.42.162",
-        "banner": "\r\nMikroTik v6.19\r\nLogin: "
+        "ip": "191.181.73.105",
+        "banner": "\r\nMikroTik v6.45.5 (stable)\r\nLogin: "
     },
     "171": {
-        "ip": "43.243.140.52",
-        "banner": "\r\r\nPolycom Command Shell\r\r\nXCOM host:    localhost port: 4121\r\r\nTTY name:     /dev/pts/12\r\r\nSession type: telnet\r\r\n"
+        "ip": "170.238.112.97",
+        "banner": "\r\nMikroTik v6.43.2 (stable)\r\nLogin: "
     },
     "172": {
-        "ip": "37.28.178.187",
-        "banner": "\r\nUR5 login: "
+        "ip": "176.215.199.63",
+        "banner": "\r\nMikroTik v6.44.1 (stable)\r\nLogin: "
     },
     "173": {
-        "ip": "178.74.250.193",
-        "banner": "192.0.0.64 login: "
+        "ip": "221.156.39.185",
+        "banner": "Mist login: "
     },
     "174": {
-        "ip": "217.92.156.219",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1721+ VPN\r\n| Ver. 7.60.0167Rel / 10.03.2009 / 6.26b/E74.02.54\r\n| SN.  150121800110\r\n| Copyright (c) LANCOM Systems\r\n\r\nLANCOM-MHL-UH, Connection No.: 002 (WAN)\r\n\r\nUsername: "
+        "ip": "177.220.188.213",
+        "banner": "\r\nMikroTik v5.16\r\nLogin: "
     },
     "175": {
-        "ip": "219.88.101.104",
-        "banner": "\r\nSystem administrator is connecting from 197.49.56.141, \r\nReject the connection request !!!\r\n"
+        "ip": "41.75.122.22",
+        "banner": "\r\nMikroTik v6.39.2 (stable)\r\nLogin: "
     },
     "176": {
-        "ip": "222.111.232.140",
-        "banner": "login: "
+        "ip": "81.90.19.62",
+        "banner": "\r\nMikroTik v6.43.7 (stable)\r\nLogin: "
     },
     "177": {
-        "ip": "208.54.193.14",
-        "banner": "User Access Login\r\n\r\nUsername:"
+        "ip": "106.118.116.83",
+        "banner": "\r\nMikroTik v5.24\r\nLogin: "
     },
     "178": {
-        "ip": "186.7.97.120",
-        "banner": "Username : "
+        "ip": "12.103.43.160",
+        "banner": "\u001b[2J\u001b[H\u000fUser Access Login\r\n\r\nUsername:"
     },
     "179": {
-        "ip": "218.161.3.172",
-        "banner": "\r\r\nDengStation_01 login: "
+        "ip": "212.18.214.33",
+        "banner": "\r\n\r\n#\r\n| LANCOM 1781EF+\r\n| Ver. 8.82.0100RU1 / 28.08.2013\r\n| SN.  4002945818100736\r\n| Copyright (c) LANCOM Systems\r\n\r\nLeitst.-Foehren, Connection No.: 002 (WAN)\r\n\r\nPassword: "
     },
     "180": {
-        "ip": "213.91.146.93",
-        "banner": "\r\r\n(none) login: "
+        "ip": "46.21.80.109",
+        "banner": "192.0.0.64 login: "
     },
     "181": {
-        "ip": "58.22.219.153",
-        "banner": "User: "
+        "ip": "91.183.238.146",
+        "banner": "192.0.0.64 login: "
     },
     "182": {
-        "ip": "45.170.86.182",
-        "banner": "D401\r\n\rLogin: "
-    },
-    "183": {
-        "ip": "121.133.196.186",
-        "banner": "\r\nJD_90D login: "
-    },
-    "184": {
-        "ip": "59.125.247.43",
-        "banner": "\r\n\r\nQNX Neutrino login: "
-    },
-    "185": {
-        "ip": "80.153.252.159",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1783VAW (over ISDN)\r\n| Ver. 10.20.0369RU4 / 15.02.2019\r\n| SN.  4004535318100497\r\n| Copyright (c) LANCOM Systems\r\n\r\nCF-N.Brandenb-MC, Connection No.: 002 (WAN)\r\n\r\nUsername: "
-    },
-    "186": {
-        "ip": "69.197.189.70",
-        "banner": "\r\r\nSRX5308 login: "
-    },
-    "187": {
-        "ip": "12.124.123.66",
-        "banner": "\u001b[2J\u001b[H\u000fUser Access Login\r\n\r\nPassword:"
-    },
-    "188": {
-        "ip": "95.130.24.254",
-        "banner": "SSH-2.0-OpenSSH_7.9p1 Raspbian-10\r\n"
-    },
-    "189": {
-        "ip": "95.121.45.5",
-        "banner": "BCM963268 Broadband Router\r\nLogin: "
-    },
-    "190": {
-        "ip": "45.6.184.141",
-        "banner": "Login: "
-    },
-    "191": {
-        "ip": "178.15.123.139",
-        "banner": "\r\n\r\n#\r\n| LANCOM 883 VoIP (over ISDN)\r\n| Ver. 10.12.0292RU6 / 07.03.2018\r\n| SN.  4004655518100279\r\n| Copyright (c) LANCOM Systems\r\n\r\nRouter_B12, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "192": {
-        "ip": "64.140.119.113",
-        "banner": "\r\r\n\r\nSRXN3205 login: "
-    },
-    "193": {
         "ip": "190.196.27.142",
         "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\r\n"
     },
-    "194": {
-        "ip": "80.65.105.134",
-        "banner": "\r\r\n"
-    },
-    "195": {
-        "ip": "195.43.85.55",
-        "banner": "\n\rSystem administrator is connecting from 76.176.68.164\n\rReject the connection request !!!\n\r"
-    },
-    "196": {
-        "ip": "180.43.94.112",
-        "banner": "\r\n\r\n   HOST-NAME   : KNSIR02021\r\n   PRODUCT     : C1111-4P\r\n\r\n\r\n\r\nUser Access Verification\r\n\r\nPassword: "
-    },
-    "197": {
-        "ip": "77.86.54.25",
-        "banner": "\n\rSystem administrator is connecting from 185.29.252.74\n\rReject the connection request !!!\n\r"
-    },
-    "198": {
-        "ip": "168.232.131.74",
-        "banner": "PMG2005-T20B login: "
-    },
-    "199": {
-        "ip": "64.72.104.181",
-        "banner": "LabExpress- MU login: "
-    },
-    "200": {
-        "ip": "103.7.131.170",
-        "banner": "elcome to Dial 100 Jammu c Please log off immidiately if you not authorized to access this network c IP addresses are logged \r\n\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "201": {
-        "ip": "195.23.137.124",
-        "banner": "\n\rSystem administrator is connecting from 218.92.0.208\n\rReject the connection request !!!\n\r"
-    },
-    "202": {
-        "ip": "103.225.21.158",
-        "banner": "\n\rSystem administrator is connecting from 62.210.192.47\n\rReject the connection request !!!\n\r"
-    },
-    "203": {
-        "ip": "83.135.37.164",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1783VA (over ISDN)\r\n| Ver. 9.10.0530RU5 / 09.12.2015\r\n| SN.  4003930718100153\r\n| Copyright (c) LANCOM Systems\r\n\r\n1783VA, Connection No.: 002 (LAN)\r\n\r\nPassword: "
-    },
-    "204": {
-        "ip": "5.26.123.121",
-        "banner": "\r\r\nLogin:"
-    },
-    "205": {
-        "ip": "201.140.220.235",
-        "banner": "\r\nSorry, connection count has reached max_count(4) ,please try later.\r\n\u001b[2JDisconnected.\r\nBye!\r\n"
-    },
-    "206": {
-        "ip": "82.95.98.70",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1681V\r\n| Ver. 9.24.0334SU9 / 16.11.2017\r\n| SN.  4002027618100038\r\n| Copyright (c) LANCOM Systems\r\n\r\nAPPELROUTER, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "207": {
-        "ip": "188.124.165.51",
-        "banner": "\r\nMikroTik v6.17\r\nLogin: "
-    },
-    "208": {
-        "ip": "176.10.43.68",
-        "banner": "\r\nSystem administrator is connecting from 183.15.91.135, \r\nReject the connection request !!!\r\n"
-    },
-    "209": {
-        "ip": "132.230.75.182",
-        "banner": "\r\nAnother telnet session is in progress.\r\n"
-    },
-    "210": {
-        "ip": "4.78.160.141",
-        "banner": "\nRICOH Maintenance Shell.   \n\rUser access verification.\n\rlogin:"
-    },
-    "211": {
-        "ip": "205.122.100.5",
-        "banner": " OutsideSwitch \r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "212": {
-        "ip": "92.112.241.106",
-        "banner": "\r\nMikroTik v255.255255 ()\r\nLogin: "
-    },
-    "213": {
-        "ip": "195.14.54.95",
-        "banner": "\r\n(tty1) login: "
-    },
-    "214": {
-        "ip": "124.109.47.81",
-        "banner": "anner motd ^CWelcome to Cisco 3945 @ Shifa International Hospital H-8 Islama\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "215": {
-        "ip": "83.13.204.58",
-        "banner": "\n\rSystem administrator is connecting from 80.34.249.14\n\rReject the connection request !!!\n\r"
-    },
-    "216": {
-        "ip": "94.156.51.254",
-        "banner": "\r\nMikroTik v2.9.6\r\nLogin: "
-    },
-    "217": {
-        "ip": "93.107.58.42",
-        "banner": "\r\nSystem administrator is connecting from 93.107.162.151, \r\nReject the connection request !!!\r\n"
-    },
-    "218": {
-        "ip": "81.19.3.25",
-        "banner": "\r\nMikroTik v2.9.5\r\nLogin: "
-    },
-    "219": {
-        "ip": "193.252.111.186",
-        "banner": "CCCAuthorized access only!                                       \r\n Disconnect IMMEDIATELY if you are not an authorized user!\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "220": {
-        "ip": "190.111.231.145",
-        "banner": "Prohibido el Acceso no Autorizado!\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "221": {
-        "ip": "74.195.10.34",
-        "banner": "This system is private.  Unauthorized access is \r\nprohibited.  \r\n\r\n\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "222": {
-        "ip": "185.53.225.66",
-        "banner": "\n\rSystem administrator is connecting from 112.186.41.142\n\rReject the connection request !!!\n\r"
-    },
-    "223": {
-        "ip": "72.244.119.65",
-        "banner": "CUNAUTHORIZED ACCESS TO THIS ROUTER IS PROHIBITED. \r\n\r\nUser Access Verification\r\n\r\nPassword: "
-    },
-    "224": {
-        "ip": "41.65.58.250",
-        "banner": "\r\nMikroTik v6.42.11 (long-term)\r\nLogin: "
-    },
-    "225": {
-        "ip": "187.190.43.161",
-        "banner": "\r\nWelcome Visiting Huawei Home Gateway\r\nCopyright by Huawei Technologies Co., Ltd.\r\n\r\nLogin:"
-    },
-    "226": {
-        "ip": "104.195.58.138",
-        "banner": "telnet \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u04e1\ufffd\ufffd\ufffd\ufffd\u053a\ufffd\ufffd\ufffd\ufffd\u0521\ufffd\u0000"
-    },
-    "227": {
-        "ip": "213.149.210.3",
-        "banner": "\r\nMikroTik v6.0\r\nLogin: "
-    },
-    "228": {
-        "ip": "90.188.18.1",
-        "banner": "\n\rThe connect number is limited\n"
-    },
-    "229": {
-        "ip": "115.187.136.104",
-        "banner": "DirectIT\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "230": {
-        "ip": "59.127.244.144",
-        "banner": "\r\nSystem administrator is connecting from 59.127.53.13, \r\nReject the connection request !!!\r\n"
-    },
-    "231": {
-        "ip": "117.34.214.137",
-        "banner": "\r\r\nGP1V2Y1 login: "
-    },
-    "232": {
-        "ip": "190.223.197.81",
-        "banner": "\r\n TELMEX Access Control Server \r\n\r\n\r\nUser Access Verification\r\n\r\nPassword: "
-    },
-    "233": {
-        "ip": "76.72.253.222",
-        "banner": "\r\nMikroTik v6.40.3 (stable)\r\nLogin: "
-    },
-    "234": {
-        "ip": "218.250.249.197",
-        "banner": "Hung login: "
-    },
-    "235": {
-        "ip": "50.245.21.185",
-        "banner": "\r\n\r\nUser Access Verification\r\n\r\nLogin:"
-    },
-    "236": {
-        "ip": "221.12.86.134",
-        "banner": "\r\nHUAWEI SmartAX MA5300 series Multi-service Access Module.\r\nCopyright(C) 2001-2007 by Huawei Technologies Co., Ltd.\r\n\r\nUser Access Verification\r\n\r\n\r\nUsername:"
-    },
-    "237": {
-        "ip": "82.152.46.137",
-        "banner": "Autherised access only. This system is the property of Kingdom Auto Repairs Ltd. disconnect IMMEDIATELY as you are not an autherized user!\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "238": {
-        "ip": "46.48.116.242",
-        "banner": "\r\n\r\nUser Access Verification\r\n\r\nlogin:"
-    },
-    "239": {
-        "ip": "81.134.27.59",
-        "banner": "\n\rSystem administrator is connecting from 121.129.147.78\n\rReject the connection request !!!\n\r"
-    },
-    "240": {
-        "ip": "46.14.43.42",
-        "banner": "\r\n\r\n\r\n| LANCOM 1781EF+\r\n| Ver. 10.12.0292RU6 / 06.03.2018\r\n| SN.  4003897932100252\r\n| Copyright (c) LANCOM Systems\r\n\r\nrsdkr1, Connection No.: 002 (WAN)\r\n\r\n\r\nLogin locked\r\n\r\nGoodbye\r\n\r\n"
-    },
-    "241": {
-        "ip": "78.134.99.169",
-        "banner": "\n\rSystem administrator is connecting from 155.93.221.109\n\rReject the connection request !!!\n\r"
-    },
-    "242": {
-        "ip": "93.88.5.146",
-        "banner": "CAccess to this poing is restricted, authorized users access only\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "243": {
-        "ip": "63.245.124.146",
-        "banner": "CC\r\nProperty of Blue Postal no unauthorize use\r\n\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "244": {
-        "ip": "50.227.39.193",
-        "banner": "\r\n\r\nThis is a private network facility. Unauthorized access is prohibited.\r\n\r\n\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "245": {
-        "ip": "194.74.137.178",
-        "banner": "\r\nSystem administrator is connecting from 162.250.124.210, \r\nReject the connection request !!!\r\n"
-    },
-    "246": {
-        "ip": "78.186.40.68",
-        "banner": "\n\rSystem administrator is connecting from 78.186.138.47\n\rReject the connection request !!!\n\r\n\rSystem administrator is connecting from 78.186.138.47\n\rReject the connection request !!!\n\r"
-    },
-    "247": {
-        "ip": "109.110.18.20",
-        "banner": "\r\nUT v5.25\r\nLogin: "
-    },
-    "248": {
-        "ip": "113.160.116.144",
-        "banner": "\n\rSystem administrator is connecting from 103.224.167.75\n\rReject the connection request !!!\n\r"
-    },
-    "249": {
-        "ip": "171.33.159.107",
-        "banner": "\r\nLinux 2.4.21-rmk1 (pCOWeb1F4152) (ttya0)\r\n\r\n\r\npCOWeb1F4152 login: "
-    },
-    "250": {
-        "ip": "88.151.139.140",
-        "banner": "\r\nMikroTik v6.38.4 (stable)\r\nLogin: "
-    },
-    "251": {
-        "ip": "211.217.192.214",
-        "banner": "Jpost_files login: "
-    },
-    "252": {
-        "ip": "113.161.70.18",
-        "banner": "\n\rSystem administrator is connecting from 41.37.118.162\n\rReject the connection request !!!\n\r"
-    },
-    "253": {
-        "ip": "81.136.67.249",
-        "banner": "\r\nSystem administrator is connecting from 195.190.102.75, \r\nReject the connection request !!!\r\n"
-    },
-    "254": {
-        "ip": "173.211.201.2",
-        "banner": "\u001b[2J\u001b[H\u000f\r\nScript Ver 1.0\r\n\r\nUser Access Login\r\n\r\nUsername:"
-    },
-    "255": {
-        "ip": "220.135.101.61",
-        "banner": "\n\rSystem administrator is connecting from 187.162.143.189\n\rReject the connection request !!!\n\r"
-    },
-    "256": {
-        "ip": "80.1.150.104",
-        "banner": "Cisco Configuration Assistant. Version: 3.2 (3). Wed Oct 22 13:08:40 BST 2014\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "257": {
-        "ip": "206.224.223.11",
-        "banner": "\r\nFLVC-Ext-2960STK>"
-    },
-    "258": {
-        "ip": "181.230.142.87",
-        "banner": "\n\nSorry, Dear! telnet service is still in lock-time,\r\nYou have to wait 4 min 44 sec,\r\nIf you have any problem, ask administrator for help.\r\n"
-    },
-    "259": {
-        "ip": "187.252.89.1",
-        "banner": "\r\n     TELNET\r\n"
-    },
-    "260": {
-        "ip": "46.77.77.254",
-        "banner": "\n\rSystem administrator is connecting from 62.98.209.249\n\rReject the connection request !!!\n\r"
-    },
-    "261": {
-        "ip": "201.59.218.210",
-        "banner": "\r\nSystem administrator is connecting from 113.123.186.243, \r\nReject the connection request !!!\r\n"
-    },
-    "262": {
-        "ip": "1.232.37.34",
-        "banner": "\r\n11F-A>"
-    },
-    "263": {
-        "ip": "12.172.112.121",
-        "banner": "CCCC\r\nTHIS IS A RESTRICTED ACCESS NETWORK SYSTEM\r\nContact 703-885-0086\r\n\r\n\r\nPassword required, but none set\r\n"
-    },
-    "264": {
-        "ip": "212.70.202.121",
-        "banner": "\r\n*** New tacacs server is being used. Use your email password to login ***\r\n\r\nUsername: "
-    },
-    "265": {
-        "ip": "208.80.211.160",
-        "banner": "\u001b[2J\u001b[H\u000f\r\n*********Restricted Access*********\r\n\r\n\r\nTelnet password is not set\r\n\r\n\r\n"
-    },
-    "266": {
-        "ip": "217.40.78.74",
-        "banner": "\n\rSystem administrator is connecting from 113.116.16.132\n\rReject the connection request !!!\n\r"
-    },
-    "267": {
-        "ip": "93.190.225.219",
-        "banner": "\r\nMikroTik v6.43.3 (stable)\r\nLogin: "
-    },
-    "268": {
-        "ip": "93.42.117.117",
-        "banner": "\r\nMikroTik v5.14\r\nLogin: "
-    },
-    "269": {
-        "ip": "221.207.235.242",
-        "banner": "\r\nLinux 2.6.27.7-Cavium-Octeon (router) (ttyp0)\r\n\r\n\r\n\r\u0000router\r\n\r\u0000login: "
-    },
-    "270": {
-        "ip": "90.145.248.81",
-        "banner": "\r\nSystem administrator is connecting from 88.231.154.34, \r\nReject the connection request !!!\r\n"
-    },
-    "271": {
-        "ip": "188.170.243.142",
-        "banner": "\r\r\nUR-313N4G login: "
-    },
-    "272": {
-        "ip": "103.38.41.28",
-        "banner": "nsy login: "
-    },
-    "273": {
-        "ip": "59.22.11.240",
-        "banner": "\r\r\nDiskStation213 login: "
-    },
-    "274": {
-        "ip": "85.16.71.75",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1781A\r\n| Ver. 10.12.0382RU9 / 13.06.2018\r\n| SN.  4003335018101328\r\n| Copyright (c) LANCOM Systems\r\n\r\n09-Aumund, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "275": {
-        "ip": "177.55.53.35",
-        "banner": "zxic\r\n\rLogin: "
-    },
-    "276": {
-        "ip": "213.140.72.79",
-        "banner": "\r\r\nDanskNet login: "
-    },
-    "277": {
-        "ip": "195.25.89.131",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1781EF+\r\n| Ver. 10.12.0292RU6 / 06.03.2018\r\n| SN.  4003076918100290\r\n| Copyright (c) LANCOM Systems\r\n\r\nLaPossession, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "278": {
-        "ip": "50.79.160.99",
-        "banner": "localhost login: "
-    },
-    "279": {
-        "ip": "96.57.121.53",
-        "banner": "\r\r\nFVS336GV3 login: "
-    },
-    "280": {
-        "ip": "177.72.0.41",
-        "banner": "SSH-2.0-ROSSSH\r\n"
-    },
-    "281": {
-        "ip": "188.246.4.198",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1751 UMTS\r\n| Ver. 8.50.0142RU1 / 12.07.2011 / 6.26b/E74.02.54\r\n| SN.  202701800012\r\n| Copyright (c) LANCOM Systems\r\n\r\n83ARPA_Office, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "282": {
-        "ip": "220.132.127.87",
-        "banner": "\r\n\r\nlogin: "
-    },
-    "283": {
-        "ip": "70.119.102.124",
-        "banner": "SSH-2.0-OpenSSH_7.4p1 Raspbian-10+deb9u6\n"
-    },
-    "284": {
-        "ip": "113.161.39.233",
-        "banner": "iGate GW240 wireless ONT\r\nwlctl: wl driver adapter not found\r\nLogin: "
-    },
-    "285": {
-        "ip": "213.144.106.187",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1781A\r\n| Ver. 8.60.0202RU2 / 04.06.2012\r\n| SN.  4002756218100356\r\n| Copyright (c) LANCOM Systems\r\n\r\nsohown85-new, Connection No.: 002 (WAN)\r\n\r\nUsername: "
-    },
-    "286": {
-        "ip": "197.243.223.91",
-        "banner": "SSH-2.0-8.32 FlowSsh: Bitvise SSH Server (WinSSHD) 8.32: free only for personal non-commercial use\r\n"
-    },
-    "287": {
-        "ip": "213.23.251.188",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1611+\r\n| Ver. 8.00.0221RU2 / 07.10.2010\r\n| SN.  210641800069\r\n| Copyright (c) LANCOM Systems\r\n\r\nBGLAD, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "288": {
-        "ip": "171.14.123.199",
-        "banner": "\r\r\n\r\nSRX5308 login: "
-    },
-    "289": {
-        "ip": "114.84.178.128",
-        "banner": "SHWWT-OA\r\n\r\nUser Access Verification\r\n\r\nUsername: "
-    },
-    "290": {
-        "ip": "87.191.169.179",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1781VAW (over ISDN)\r\n| Ver. 9.10.0666RU7 / 04.06.2016\r\n| SN.  4002880418100089\r\n| Copyright (c) LANCOM Systems\r\n\r\nABaehr, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "291": {
-        "ip": "87.139.239.14",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1611+\r\n| Ver. 8.82.0100RU1 / 28.08.2013\r\n| SN.  125111800234\r\n| Copyright (c) LANCOM Systems\r\n\r\nVPN-WEIDEN, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "292": {
-        "ip": "80.122.238.34",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1611+\r\n| Ver. 8.00.0162Rel / 16.06.2010\r\n| SN.  188411800085\r\n| Copyright (c) LANCOM Systems\r\n\r\nLC-Riedersbach, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "293": {
-        "ip": "118.41.42.242",
-        "banner": "220 (vsFTPd 3.0.2)\r\n"
-    },
-    "294": {
-        "ip": "82.140.11.125",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1781-4G\r\n| Ver. 9.00.0237RU2 / 18.09.2014\r\n| SN.  4002420818100022\r\n| Copyright (c) LANCOM Systems\r\n\r\nMUENSTER, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "295": {
-        "ip": "38.64.132.138",
-        "banner": "\r\r\nidrac-FQW6HQ1 login: "
-    },
-    "296": {
-        "ip": "175.202.143.159",
-        "banner": "220 FUNNY FTP server ready.\r\n"
-    },
-    "297": {
-        "ip": "107.184.53.87",
-        "banner": "SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3\r\n"
-    },
-    "298": {
-        "ip": "217.5.252.130",
-        "banner": "\r\n\r\n#\r\n| LANCOM 7011 VPN\r\n| Ver. 7.80.0081Rel / 06.01.2010\r\n| SN.  015390600059\r\n| Copyright (c) LANCOM Systems\r\n\r\nOPEL, Verbindung Nr.: 002 (WAN)\r\n\r\nUsername: "
-    },
-    "299": {
-        "ip": "213.179.135.85",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1781A-3G\r\n| Ver. 9.24.0212RU4 / 07.03.2017\r\n| SN.  4002671918100088\r\n| Copyright (c) LANCOM Systems\r\n\r\nDSL_SOB, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "300": {
-        "ip": "75.36.90.103",
-        "banner": "\r\nATT_EDGEWATER_250IAD_04A38E login: "
-    },
-    "301": {
-        "ip": "193.126.75.121",
-        "banner": "\r\r\nRouter login: "
-    },
-    "302": {
-        "ip": "78.88.152.21",
-        "banner": "host login: "
-    },
-    "303": {
-        "ip": "80.112.55.238",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1781AW\r\n| Ver. 8.62.0050RU2 / 07.08.2012\r\n| SN.  4002419818100978\r\n| Copyright (c) LANCOM Systems\r\n\r\nm3iHerbersJB, Connection No.: 002 (WAN)\r\n\r\nUsername: "
-    },
-    "304": {
-        "ip": "217.7.105.11",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1711 VPN\r\n| Ver. 8.62.0050RU2 / 07.08.2012\r\n| SN.  060640600243\r\n| Copyright (c) LANCOM Systems\r\n\r\nSupport, Connection No.: 002 (WAN)\r\n\r\nUsername: "
-    },
-    "305": {
-        "ip": "62.246.132.137",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1793VAW\r\n| Ver. 10.30.0075Rel / 09.05.2019\r\n| SN.  4005251018100021\r\n| Copyright (c) LANCOM Systems\r\n\r\nKT-CGN01, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "306": {
-        "ip": "80.147.113.222",
-        "banner": "\r\n\r\n#\r\n| LANCOM 1781A\r\n| Ver. 9.20.0647RU1 / 28.07.2016\r\n| SN.  4002420118100314\r\n| Copyright (c) LANCOM Systems\r\n\r\nLANCOM1781A02, Connection No.: 002 (WAN)\r\n\r\nPassword: "
-    },
-    "307": {
-        "ip": "80.151.21.218",
-        "banner": "\r\n\r\n#\r\n| LANCOM 7111 VPN\r\n| Ver. 8.84.0289SU9 / 21.12.2015\r\n| SN.  073521800068\r\n| Copyright (c) LANCOM Systems\r\n\r\nMEGAZOO-Zentrale, Connection No.: 002 (WAN)\r\n\r\nUsername: "
+    "183": {
+        "ip": "218.161.3.172",
+        "banner": "\r\r\nDengStation_01 login: "
+    },
+    "184": {
+        "ip": "178.74.250.193",
+        "banner": "192.0.0.64 login: "
+    },
+    "185": {
+        "ip": "200.108.68.6",
+        "banner": "\r\nMikroTik v6.40.8 (bugfix)\r\nLogin: "
     }
 }

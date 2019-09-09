@@ -20,8 +20,8 @@ def main():
 	with open('./Log_Files/FTP.json') as f: data = json.loads(f.read())
 	BANNERS = list(map(lambda x: data[x], data))
 	BANNERS = list(filter(lambda x: ('filezilla' not in x.lower()) and ('serve-u' not in x.lower()), BANNERS))
-	BANNERS = BANNERS[43:]
-	count = 43
+	BANNERS = BANNERS[254:]
+	count = 254
 	for ban in BANNERS:
 		ARE([ban, count])
 		count += 1

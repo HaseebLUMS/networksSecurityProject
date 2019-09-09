@@ -1,8 +1,0 @@
-{
-    "banner": "220 test FTP server (MikroTik 6.42.7) ready\r\n",
-    "queries": [
-        "mikrotik"
-    ],
-    "refined banner": "mikrotik",
-    "num": 146
-}

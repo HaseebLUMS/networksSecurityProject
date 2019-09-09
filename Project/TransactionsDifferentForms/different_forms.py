@@ -2,7 +2,7 @@ import json
 from make_transactions_functions import make_transactions_type_1
 from make_transactions_functions import make_transactions_type_2
 from make_transactions_functions import make_simple_transactions
-with open("annotations.json") as f: data = json.loads(f.read())
+with open("result.json") as f: data = json.loads(f.read())
 
 data_1 = {}
 data_2 = {}
