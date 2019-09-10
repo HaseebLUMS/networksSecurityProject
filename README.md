@@ -2,9 +2,6 @@
 Networks Security Project | analyzes ARE | builds a prototype of ARE 
 
 
-**How to Run?
+Folder "Acquisitional Rule Based Engine" contains final ARE. Run the file "multiple_banners_ARE.py" by modifying this file as you need (you only need to run are.py for your banners).
 
-1) Clone the repo
-2) go to folder Project/
-3) run the file run.py by command "python3 run.py"
-It's that simple- thanks to Dr. Mobin for this.
+-- Muhammad Haseeb 
