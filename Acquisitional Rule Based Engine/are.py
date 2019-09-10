@@ -15,6 +15,7 @@ from NER_with_local_dependencies import find_annotations
 web_pages_limit = 10
 unique_refined_banners = set({})
 banner_to_number = {}
+# with open('prev_data.json') as f: prev_data = json.loads(f.read())
 ''' 
 Provided value is a single word or not.
 If single, also appends it to single_worded_banners list
@@ -79,6 +80,13 @@ def ARE(ARGS):
 			urls += _urls
 		log['pages'] = urls
 		url_to_page_dictionary = fetch_webpages(urls)
+		# if (str(file_number) in prev_data):
+		# 	print('url cache hit')
+		# 	urls = prev_data[str(file_number)]['pages']
+		# 	url_to_page_dictionary = fetch_webpages(urls)
+		# else:
+		# 	urls = []
+		# 	url_to_page_dictionary = fetch_webpages(urls)
 	except Exception as e: 
 		print('Exception: ', e)
 	ner_and_ld_result = find_annotations(banner, url_to_page_dictionary, devices, vendors)

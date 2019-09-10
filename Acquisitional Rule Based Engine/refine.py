@@ -158,11 +158,13 @@ def refine_query(q, mode, devices, vendors):
 	q = q.lower()
 	for ele in hyphened_devices:
 		q = q.replace(ele[0], ele[1])
+	
 	#did not need to do above step for vendors in our experiment
 	#so I haven't done it for making it faster
 	d = enchant.Dict('en_US')
-	# if 'upnp' in q.lower():
-	# q = upnpRefine(q.lower())
+	if 'upnp' in q.lower():
+		q = upnpRefine(q.lower())
+
 	q = re.sub(r"[^\x00-\x7F]+", " ", q) #for \ufff etc. 
 	q = q.rstrip('\0')
 	
@@ -203,6 +205,7 @@ def refine_query(q, mode, devices, vendors):
 		q = q.replace('\n', " ")
 		q = q.replace('\t', " ")
 		q = q.replace("  ", " ")
+		q = q.replace('\\', " ")
 		q = ' '.join(q.split())
 
 	keywords = q.split(" ")

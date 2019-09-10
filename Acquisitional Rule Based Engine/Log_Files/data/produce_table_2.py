@@ -1,6 +1,6 @@
 import json
 
-with open('result.json') as f: data = json.loads(f.read())
+with open('_ferret.json') as f: data = json.loads(f.read())
 
 # "pipeline_numbers": {
 #     "ner_devs": 0,
